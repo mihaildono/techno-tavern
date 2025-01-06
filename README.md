@@ -1,4 +1,4 @@
 # techno-tavern
-Social space with a twist
+Co-working and event space in Plovdiv
 
 Visit technotavern.com
