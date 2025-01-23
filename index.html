@@ -2,39 +2,37 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="./style.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async defer></script>
+    <script src="https://www.instagram.com/embed.js" async defer></script>
+
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Co-working and event space in Plovidv" />
+
     <title>Techno Tavern Plovdiv</title>
-    <meta name="description" content="Co-working and event space in Plovidv">
 </head>
 
 <body>
     <main class="layout">
-
-        <div class="header">
+        <div class="mainHeader">
             <h1>Techno Tavern Plovdiv</h1>
             <span>Co-working and event space in Plovidv</span>
         </div>
 
         <div class="content">
             <!-- bluesky -->
-            <bsky-embed username="technotavern.bsky.social" limit="5"></bsky-embed>
+            <bsky-embed username="technotavern.bsky.social" limit="5"
+                custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } .whitespace-pre-wrap { word-wrap: break-word;}"></bsky-embed>
 
             <!-- instagram -->
             <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/techno.tavern/"
-                data-instgrm-version="12" style="width: 100%; max-width: 640px;">
-            </blockquote>
+                data-instgrm-version="12" style="width: 100%; max-width: 640px"></blockquote>
         </div>
     </main>
 </body>
-
-<!-- Scripts -->
-
-<!-- Bluesky -->
-<script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
-<!-- Instagram -->
-<script src="https://www.instagram.com/embed.js"></script>
 
 </html>
