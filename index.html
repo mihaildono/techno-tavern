@@ -3,9 +3,8 @@
 
 <head>
     <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async defer></script>
-    <script src="https://www.instagram.com/embed.js" async defer></script>
 
-    <link rel="icon" href="./logo.svg">
+    <link rel="icon" href="./assets/logo.svg">
     <!-- styles -->
     <link rel="stylesheet" href="./style.css" />
     <!-- 3rd-party     -->
@@ -29,7 +28,7 @@
 <body>
     <main class="layout">
         <div class="mainHeader">
-            <img src="./logo.svg" class="logo" />
+            <img src="./assets/logo.svg" class="logo" />
             <h1>Techno Tavern Plovdiv</h1>
             <span>Co-working and event space in Plovidv</span>
         </div>
@@ -40,10 +39,21 @@
                 custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } .whitespace-pre-wrap { word-wrap: break-word;}">
             </bsky-embed>
 
+            <div class="socials">
+                <a href="https://www.facebook.com/technotavern">
+                    <img src="./assets/fb.svg" />
+                </a>
 
-            <!-- instagram -->
-            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/techno.tavern/"
-                data-instgrm-version="12" style="width: 100%; max-width: 640px"></blockquote>
+                <a href="https://www.instagram.com/techno.tavern/">
+                    <img src="./assets/instagram.svg" />
+                </a>
+                <a href="https://www.youtube.com/@techno.tavern.plovdiv">
+                    <img src="./assets/youtube.svg" />
+                </a>
+                <a href="https://www.tiktok.com/@techno.tavern">
+                    <img src="./assets/tiktok.svg" />
+                </a>
+            </div>
         </div>
     </main>
 </body>

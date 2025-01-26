@@ -22,18 +22,37 @@
   margin-top: 16px;
 }
 
+.socials {
+  width: 100%;
+  max-width: 640px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 32px;
+
+  img {
+    width: 44px;
+    height: 44px;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
 .logo {
   border-radius: 50%;
   width: 164px;
   height: 164px;
 }
 
-h1 {
-  margin: 0;
-}
-
 body {
   font-family: "Inter", serif;
   font-optical-sizing: auto;
   font-style: normal;
+}
+
+/* defaults */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
