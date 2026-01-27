@@ -2,13 +2,9 @@
 <html lang="en">
 
 <head>
-    <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-
     <link rel="icon" href="./assets/logo.svg">
     <!-- styles -->
     <link rel="stylesheet" href="./style.css" />
-    <!-- 3rd-party     -->
-    <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
     <!-- google -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,35 +25,51 @@
     <main class="layout">
         <div class="mainHeader">
             <img src="./assets/logo.svg" class="logo" alt="logo" />
-            <h1>Techno Tavern Plovdiv</h1>
-            <span>Social space in Plovidv</span>
+            <h1>Techno Tavern</h1>
+            <span>Social space in Plovdiv</span>
         </div>
 
         <div class="content">
-            <!-- bluesky -->
-            <div style="min-height: 500px;">
-                <bsky-embed username="technotavern.bsky.social" limit="5"
-                    custom-styles="img.rounded-full { display: none; } .flex > div { max-width: 100%; } .whitespace-pre-wrap { word-wrap: break-word;}">
-                </bsky-embed>
+            <!-- mastodon timeline -->
+            <div id="mastodon-feed">
+                <div class="feed-loading">Loading posts...</div>
             </div>
-
-            <div class="socials">
-                <a href="https://www.facebook.com/technotavern" aria-label="fb">
-                    <img src="./assets/fb.svg" alt="fb" loading="lazy" />
-                </a>
-
-                <a href="https://www.instagram.com/techno.tavern/" aria-label="instagram">
-                    <img src="./assets/instagram.svg" alt="instagram" loading="lazy" />
-                </a>
-                <a href="https://www.youtube.com/@techno.tavern.plovdiv" aria-label="youtube">
-                    <img src="./assets/youtube.svg" alt="youtube" loading="lazy" />
-                </a>
-                <a href="https://www.tiktok.com/@techno.tavern" aria-label="tiktok">
-                    <img src="./assets/tiktok.svg" alt="tiktok" loading="lazy" />
-                </a>
-            </div>
+            <!-- /mastodon timeline -->
         </div>
     </main>
+
+    <script>
+        async function loadMastodonPosts() {
+            const feedContainer = document.getElementById('mastodon-feed');
+
+            try {
+                const response = await fetch('https://masto.bg/api/v1/accounts/115955044932859142/statuses?limit=5');
+                const posts = await response.json();
+
+                feedContainer.innerHTML = '';
+
+                posts.forEach(post => {
+                    const postElement = document.createElement('div');
+                    postElement.className = 'mastodon-post';
+
+                    // Remove hyperlinks from hashtags but keep them styled
+                    let content = post.content;
+                    content = content.replace(/<a[^>]*class="[^"]*mention hashtag[^"]*"[^>]*>(.*?)<\/a>/g, '<span class="hashtag">$1</span>');
+
+                    postElement.innerHTML = `
+                        <div class="post-content">${content}</div>
+                    `;
+
+                    feedContainer.appendChild(postElement);
+                });
+            } catch (error) {
+                feedContainer.innerHTML = '<div class="feed-error">Failed to load posts. Please try again later.</div>';
+            }
+        }
+
+        // Load posts when page is ready
+        document.addEventListener('DOMContentLoaded', loadMastodonPosts);
+    </script>
 </body>
 
 </html>

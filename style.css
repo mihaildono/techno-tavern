@@ -22,20 +22,59 @@
   margin-top: 16px;
 }
 
-.socials {
+#mastodon-feed {
   width: 100%;
   max-width: 640px;
   display: flex;
-  justify-content: space-between;
-  padding: 0 32px;
+  flex-direction: column;
+  gap: 16px;
+}
 
-  img {
-    width: 44px;
-    height: 44px;
-    &:hover {
-      cursor: pointer;
-    }
-  }
+.feed-loading,
+.feed-error {
+  text-align: center;
+  padding: 32px;
+}
+
+.mastodon-post {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  transition: box-shadow 0.2s ease;
+}
+
+.mastodon-post:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.post-content {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.post-content p {
+  margin: 0 0 8px 0;
+}
+
+.post-content p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content a {
+  color: #6364ff;
+  text-decoration: none;
+}
+
+.post-content a:hover {
+  text-decoration: underline;
+}
+
+.post-content .hashtag {
+  color: #6364ff;
+  font-weight: 500;
 }
 
 .logo {
