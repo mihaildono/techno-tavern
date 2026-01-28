@@ -57,27 +57,30 @@
                     newsElement.className = "news-item";
                     newsElement.href = item.link;
 
-                    // Strip HTML tags from description
-                    const tempDiv = document.createElement("div");
-                    tempDiv.innerHTML = item.description;
-
                     // Calculate time difference
                     const now = new Date();
                     const pubDate = new Date(item?.pubDate);
                     const diffMs = now - pubDate;
                     const diffMins = Math.floor(diffMs / (1000 * 60));
                     const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
 
                     let formattedDate;
-                    if (diffHours < 1) {
-                        formattedDate = `преди ${diffMins} минути`;
-                    } else {
-                        formattedDate = `преди ${diffHours} часа`;
+                    switch (true) {
+                        case diffHours < 1:
+                            formattedDate = `преди ${diffMins} минути`;
+                            break;
+                        case diffHours < 24:
+                            formattedDate = `преди ${diffHours} часа`;
+                            break;
+                        default:
+                            formattedDate = `преди ${diffDays} дни`;
                     }
 
-                    // Build the news item with optional thumbnail
-                    const thumbnailHtml = `<img src="${item?.thumbnail?.link}" alt="${item?.title}" class="news-thumbnail" />`;
-                    const dateHtml = `<span class="news-date">${formattedDate}</span>`;
+                    // Build the news item with optional thumbnail and source badge
+                    const thumbnailHtml = item.thumbnail?.link ? `<img src="${item.thumbnail.link}" alt="${item.title}" class="news-thumbnail" />` : '';
+                    const sourceBadgeHtml = item.source?.name ? `<span class="source-badge" style="background-color: ${item.source.color}">${item.source.name}</span>` : '';
+                    const dateHtml = `<span class="news-date">${sourceBadgeHtml}${formattedDate}</span>`;
                     newsElement.innerHTML = `
                         <div class="news-content">
                             <span class="news-link">${item.title}</span>

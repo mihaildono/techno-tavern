@@ -36,8 +36,8 @@
 }
 
 .tab.active {
-  color: #2F4F3E;
-  border-bottom-color: #2F4F3E;
+  color: #2f4f3e;
+  border-bottom-color: #2f4f3e;
 }
 
 .content {
@@ -91,7 +91,7 @@
 }
 
 .post-content a {
-  color: #2F4F3E;
+  color: #2f4f3e;
   text-decoration: none;
 }
 
@@ -100,7 +100,7 @@
 }
 
 .post-content .hashtag {
-  color: #2F4F3E;
+  color: #2f4f3e;
   font-weight: 500;
 }
 
@@ -136,6 +136,19 @@
 .news-date {
   font-size: 14px;
   margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.source-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .news-thumbnail {

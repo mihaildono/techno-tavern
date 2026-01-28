@@ -3,7 +3,7 @@ name: Fetch News Feed
 on:
   schedule:
     # Run every 6 hours
-    - cron: '0 */6 * * *'
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -12,40 +12,21 @@ permissions:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
-      
-      - name: Fetch and convert RSS to JSON (replacing old data)
+          node-version: "18"
+
+      - name: Fetch and convert RSS to JSON from multiple sources
         run: |
-          # Delete old news.json to ensure fresh data only
-          rm -f news.json
-          
-          # Fetch RSS and convert to JSON with only latest 5 items
-          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Foffnews.bg%2Frss%2Fall" | node -e "
-          const data = JSON.parse(require('fs').readFileSync(0, 'utf-8'));
-          const output = {
-            items: data.items.slice(0, 5).map(item => ({
-              title: item.title,
-              link: item.link,
-              description: item.description,
-              pubDate: item.pubDate,
-              thumbnail: item.thumbnail || item.enclosure || null
-            })),
-            lastUpdated: new Date().toISOString()
-          };
-          console.log(JSON.stringify(output, null, 2));
-          " > news.json
-          
-          echo "✅ Created news.json with latest 5 articles"
-          cat news.json
-      
+          # Run the Node.js script to fetch from all sources
+          node fetch-news.js
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
