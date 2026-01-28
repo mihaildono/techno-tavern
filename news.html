@@ -1,24 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <link rel="icon" href="./assets/logo.svg">
+    <link rel="icon" href="./assets/logo.svg" />
     <!-- styles -->
     <link rel="stylesheet" href="./style.css" />
     <!-- google -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-        rel="stylesheet">
-
+        rel="stylesheet" />
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="description" content="News - Techno Tavern Plovdiv" />
+    <meta name="description" content="Новини - Techno Tavern Пловдив" />
 
-    <title>News - Techno Tavern Plovdiv</title>
+    <title>Новини - Techno Tavern Пловдив</title>
 </head>
 
 <body>
@@ -26,18 +25,18 @@
         <div class="mainHeader">
             <img src="./assets/logo.svg" class="logo" alt="logo" />
             <h1>Techno Tavern</h1>
-            <span>Social space in Plovdiv</span>
+            <span>Социално пространство в Пловдив</span>
         </div>
 
         <nav class="tabs">
-            <a href="/" class="tab">Home</a>
-            <a href="/news.html" class="tab active">News</a>
+            <a href="/" class="tab">Начало</a>
+            <a href="/news.html" class="tab active">Новини</a>
         </nav>
 
         <div class="content">
             <!-- news feed -->
             <div id="news-feed">
-                <div class="feed-loading">Loading news...</div>
+                <div class="feed-loading">Зареждане на новини...</div>
             </div>
             <!-- /news feed -->
         </div>
@@ -45,38 +44,59 @@
 
     <script>
         async function loadNewsFeed() {
-            const feedContainer = document.getElementById('news-feed');
+            const feedContainer = document.getElementById("news-feed");
 
             try {
                 // Fetch from local JSON file (updated by GitHub Action)
-                const response = await fetch('/news.json');
+                const response = await fetch("/news.json");
                 const data = await response.json();
-                feedContainer.innerHTML = '';
+                feedContainer.innerHTML = "";
 
-
-                data.items.forEach(item => {
-                    const newsElement = document.createElement('a');
-                    newsElement.className = 'news-item';
+                data.items.forEach((item) => {
+                    const newsElement = document.createElement("a");
+                    newsElement.className = "news-item";
                     newsElement.href = item.link;
 
                     // Strip HTML tags from description
-                    const tempDiv = document.createElement('div');
+                    const tempDiv = document.createElement("div");
                     tempDiv.innerHTML = item.description;
 
+                    // Calculate time difference
+                    const now = new Date();
+                    const pubDate = new Date(item?.pubDate);
+                    const diffMs = now - pubDate;
+                    const diffMins = Math.floor(diffMs / (1000 * 60));
+                    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+
+                    let formattedDate;
+                    if (diffHours < 1) {
+                        formattedDate = `преди ${diffMins} минути`;
+                    } else {
+                        formattedDate = `преди ${diffHours} часа`;
+                    }
+
+                    // Build the news item with optional thumbnail
+                    const thumbnailHtml = `<img src="${item?.thumbnail?.link}" alt="${item?.title}" class="news-thumbnail" />`;
+                    const dateHtml = `<span class="news-date">${formattedDate}</span>`;
                     newsElement.innerHTML = `
-                        <span class="news-link">${item.title}</span>
+                        <div class="news-content">
+                            <span class="news-link">${item.title}</span>
+                            ${dateHtml}
+                        </div>
+                        ${thumbnailHtml}
                     `;
 
                     feedContainer.appendChild(newsElement);
                 });
             } catch (error) {
-                console.error('Error loading news:', error);
-                feedContainer.innerHTML = '<div class="feed-error">Failed to load news. Please try again later.</div>';
+                console.error("Error loading news:", error);
+                feedContainer.innerHTML =
+                    '<div class="feed-error">Failed to load news. Please try again later.</div>';
             }
         }
 
         // Load news when page is ready
-        document.addEventListener('DOMContentLoaded', loadNewsFeed);
+        document.addEventListener("DOMContentLoaded", loadNewsFeed);
     </script>
 </body>
 

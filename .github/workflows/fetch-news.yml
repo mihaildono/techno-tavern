@@ -35,7 +35,8 @@ jobs:
               title: item.title,
               link: item.link,
               description: item.description,
-              pubDate: item.pubDate
+              pubDate: item.pubDate,
+              thumbnail: item.thumbnail || item.enclosure || null
             })),
             lastUpdated: new Date().toISOString()
           };

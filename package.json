@@ -1,0 +1,15 @@
+{
+  "name": "techno-tavern",
+  "version": "1.0.0",
+  "description": "Techno Tavern - Social space in Plovdiv",
+  "scripts": {
+    "fetch-news": "node fetch-news.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "news",
+    "rss"
+  ],
+  "author": "",
+  "license": "MIT"
+}
