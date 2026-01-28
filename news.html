@@ -2,28 +2,43 @@
 <html lang="en">
 
 <head>
-    <link rel="icon" href="./assets/logo.svg" />
-    <!-- styles -->
-    <link rel="stylesheet" href="./style.css" />
-    <!-- google -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-        rel="stylesheet" />
-
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="description" content="Новини - Techno Tavern Пловдив" />
 
     <title>Новини - Techno Tavern Пловдив</title>
+
+    <link rel="icon" href="./assets/logo.svg" />
+
+    <!-- Preload critical above-the-fold image -->
+    <link rel="preload" href="./assets/logo.svg" as="image" type="image/svg+xml" />
+
+    <!-- Preconnect to external domains for faster resource loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Preload critical resources -->
+    <link rel="preload" href="/news.json" as="fetch" crossorigin />
+
+    <!-- Critical CSS inline or load asynchronously -->
+    <link rel="stylesheet" href="./style.css" />
+
+    <!-- Load Google Fonts asynchronously to prevent render blocking -->
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+            rel="stylesheet" />
+    </noscript>
 </head>
 
 <body>
     <main class="layout">
         <div class="mainHeader">
-            <img src="./assets/logo.svg" class="logo" alt="logo" />
+            <img src="./assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
             <h1>Techno Tavern</h1>
             <span>Социално пространство в Пловдив</span>
         </div>
