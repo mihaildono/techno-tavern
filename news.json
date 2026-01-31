@@ -236,6 +236,16 @@
       }
     },
     {
+      "title": "Apple Platform Security (Jan 2026) [pdf]",
+      "link": "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf",
+      "pubDate": "2026-01-31 16:04:03",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
       "pubDate": "2026-01-30 20:05:24",
@@ -246,9 +256,9 @@
       }
     },
     {
-      "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
-      "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-      "pubDate": "2026-01-31 10:34:07",
+      "title": "CPython Internals Explained",
+      "link": "https://github.com/zpoint/CPython-Internals",
+      "pubDate": "2026-01-27 14:07:37",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -256,9 +266,9 @@
       }
     },
     {
-      "title": "Sumerian Star Map Recorded the Impact of an Asteroid (2024)",
-      "link": "https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/",
-      "pubDate": "2026-01-31 07:32:51",
+      "title": "NASA's WB-57 crash lands at Houston",
+      "link": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
+      "pubDate": "2026-01-28 07:43:39",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -266,19 +276,9 @@
       }
     },
     {
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "pubDate": "2026-01-31 00:51:27",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
-      "link": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
-      "pubDate": "2026-01-31 09:30:05",
+      "title": "Animated AVIF for the Modern Web",
+      "link": "https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/",
+      "pubDate": "2026-01-26 12:45:50",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -286,5 +286,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-31T12:49:47.835Z"
+  "lastUpdated": "2026-01-31T18:34:12.668Z"
 }
