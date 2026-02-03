@@ -1,6 +1,6 @@
 # Techno Tavern Plovdiv
 
-Co-working and event space in Plovdiv
+Social space in Plovdiv
 
 Visit [technotavern.com](https://technotavern.com)
 
@@ -8,17 +8,15 @@ Visit [technotavern.com](https://technotavern.com)
 
 To view the site locally with full functionality:
 
-### Option 1: Using the serve script (Recommended)
-```bash
-./serve.sh
+### Start server locally
+```sh
+npm run start
 ```
-Then open http://localhost:8080 in your browser.
 
-### Option 2: Using Python directly
-```bash
-python3 -m http.server 8080
+### Fetch latest news
+```sh
+npm run fetch-news
 ```
-Then open http://localhost:8080 in your browser.
 
 ### Note about file:// protocol
 Opening `index.html` directly in your browser (file:// protocol) will show sample data for the news feed due to CORS restrictions. Use one of the local server options above to see the actual news.json data.
@@ -26,4 +24,4 @@ Opening `index.html` directly in your browser (file:// protocol) will show sampl
 ## Features
 
 - **Home**: Mastodon feed from @Technotavern@masto.bg
-- **News**: Latest 5 articles from offnews.bg (auto-updated every 30 minutes via GitHub Actions)
+- **News**: Latest 5 articles from various news sites (auto-updated every 6 hours via GitHub Actions)
