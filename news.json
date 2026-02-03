@@ -246,6 +246,16 @@
       }
     },
     {
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "pubDate": "2026-02-03 04:33:25",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "How does misalignment scale with model intelligence and task complexity?",
       "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
       "pubDate": "2026-02-03 00:28:06",
@@ -276,19 +286,9 @@
       }
     },
     {
-      "title": "GitHub experience various partial-outages/degradations",
-      "link": "https://www.githubstatus.com/?todayis=2026-02-02",
-      "pubDate": "2026-02-02 21:28:16",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "xAI joins SpaceX",
-      "link": "https://www.spacex.com/updates#xai-joins-spacex",
-      "pubDate": "2026-02-02 21:51:22",
+      "title": "Coding assistants are solving the wrong problem",
+      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "pubDate": "2026-02-03 04:25:35",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -296,5 +296,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-03T02:10:54.865Z"
+  "lastUpdated": "2026-02-03T06:53:08.692Z"
 }
