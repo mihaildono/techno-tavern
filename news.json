@@ -246,9 +246,19 @@
       }
     },
     {
-      "title": "It's 2026, Just Use Postgres",
-      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "pubDate": "2026-02-05 21:24:03",
+      "title": "Things Unix can do atomically",
+      "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "pubDate": "2026-02-06 05:29:55",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Systems Thinking",
+      "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "pubDate": "2026-02-06 05:24:36",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -274,17 +284,7 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
-    },
-    {
-      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "pubDate": "2026-02-05 19:07:51",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-02-06T02:07:13.168Z"
+  "lastUpdated": "2026-02-06T06:56:06.809Z"
 }
