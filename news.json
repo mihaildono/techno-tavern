@@ -246,7 +246,27 @@
       }
     },
     {
-      "title": "Start all of your commands with a comma",
+      "title": "France's homegrown open source online office suite",
+      "link": "https://github.com/suitenumerique",
+      "pubDate": "2026-02-07 13:34:34",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "British drivers over 70 to face eye tests every three years",
+      "link": "https://www.bbc.com/news/articles/c205nxy0p31o",
+      "pubDate": "2026-02-07 15:55:54",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Start all of your commands with a comma (2009)",
       "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
       "pubDate": "2026-02-04 19:59:12",
       "thumbnail": {},
@@ -256,9 +276,9 @@
       }
     },
     {
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "link": "https://openciv3.org/",
-      "pubDate": "2026-02-06 21:51:23",
+      "title": "Leisure Suit Larry's Al Lowe on model trains, funny deaths and Disney",
+      "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+      "pubDate": "2026-02-07 15:52:42",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -266,29 +286,9 @@
       }
     },
     {
-      "title": "The Waymo World Model",
-      "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "pubDate": "2026-02-06 16:20:42",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "How we made geo joins 400× faster with H3 indexes",
-      "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-      "pubDate": "2026-02-05 11:19:40",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Jeffrey Snover: \"Welcome to the Room\"",
-      "link": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
-      "pubDate": "2026-02-03 17:49:49",
+      "title": "Software Factories and the Agentic Moment",
+      "link": "https://factory.strongdm.ai/",
+      "pubDate": "2026-02-07 15:05:56",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -296,5 +296,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-07T12:51:16.000Z"
+  "lastUpdated": "2026-02-07T18:36:43.920Z"
 }
