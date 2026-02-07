@@ -266,6 +266,16 @@
       }
     },
     {
+      "title": "How we made geo joins 400× faster with H3 indexes",
+      "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+      "pubDate": "2026-02-05 11:19:40",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "link": "https://github.com/valdanylchuk/breezydemo",
       "pubDate": "2026-02-06 21:33:11",
@@ -284,17 +294,7 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
-    },
-    {
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "link": "https://vecti.com/",
-      "pubDate": "2026-02-06 19:27:37",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-02-07T02:02:43.242Z"
+  "lastUpdated": "2026-02-07T06:42:33.583Z"
 }
