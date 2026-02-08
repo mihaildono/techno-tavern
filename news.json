@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "title": "Кога най-рано се вижда бременност на ехограф",
+      "link": "https://offnews.bg/mama-i-bebe/koga-naj-rano-se-vizhda-bremennost-na-ehograf-855845.html",
+      "pubDate": "2026-02-08 06:47:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2025/11/18/855845/phpdwf9rg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6471
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Протест на 'Ангели на пътя' блокира Орлов мост на обяд",
+      "link": "https://offnews.bg/obshtestvo/protest-na-angeli-na-patia-blokira-orlov-most-na-obiad-860649.html",
+      "pubDate": "2026-02-08 06:30:33",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/08/860649/phpll9yka_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10352
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Преди 85 години: Наричали първия тролей в София  'трамвай без релси'",
+      "link": "https://offnews.bg/obshtestvo/predi-85-godini-narichali-parvia-trolej-v-sofia-tramvaj-bez-relsi-860648.html",
+      "pubDate": "2026-02-08 06:11:09",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/08/860648/phpquvadh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8675
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Главният изпълнителен директор на Вашингтон пост подава оставка",
+      "link": "https://offnews.bg/medii/glavniat-izpalnitelen-direktor-na-vashington-post-podava-ostavka-860647.html",
+      "pubDate": "2026-02-08 05:45:02",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/08/860647/phpskczow_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10195
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Експлозия в биотехнологичен завод в Китай взе 8 жертви",
+      "link": "https://offnews.bg/sviat/eksplozia-v-biotehnologichen-zavod-v-kitaj-vze-8-zhertvi-860646.html",
+      "pubDate": "2026-02-08 05:35:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/08/860646/phppmlwbh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4562
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "\"Пеевски загуби една патерица\": Първи външни реакции към избора",
       "link": "https://www.dnevnik.bg/politika/2026/02/07/4880736_peevski_zagubi_edna_paterica_purvi_vunshni_reakcii_na/?ref=rss",
       "pubDate": "2026-02-07 20:50:00",
@@ -176,9 +246,9 @@
       }
     },
     {
-      "title": "Tiny C Compiler",
-      "link": "https://bellard.org/tcc/",
-      "pubDate": "2026-02-07 21:45:54",
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "link": "https://github.com/localgpt-app/localgpt",
+      "pubDate": "2026-02-08 01:26:38",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -186,7 +256,17 @@
       }
     },
     {
-      "title": "SectorC: A C Compiler in 512 bytes",
+      "title": "Haskell for all: Beyond agentic coding",
+      "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+      "pubDate": "2026-02-08 01:55:09",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "link": "https://xorvoid.com/sectorc.html",
       "pubDate": "2026-02-07 17:39:53",
       "thumbnail": {},
@@ -206,16 +286,6 @@
       }
     },
     {
-      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
-      "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
-      "pubDate": "2026-02-07 19:07:27",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Software factories and the agentic moment",
       "link": "https://factory.strongdm.ai/",
       "pubDate": "2026-02-07 15:05:56",
@@ -226,5 +296,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-08T02:35:55.528Z"
+  "lastUpdated": "2026-02-08T06:51:49.616Z"
 }
