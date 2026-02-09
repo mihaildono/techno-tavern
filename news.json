@@ -256,6 +256,26 @@
       }
     },
     {
+      "title": "Claude’s C Compiler vs. GCC",
+      "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "pubDate": "2026-02-09 04:30:38",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Art of Roads in Games",
+      "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "pubDate": "2026-02-08 21:05:24",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
       "pubDate": "2026-02-08 03:09:28",
@@ -266,19 +286,9 @@
       }
     },
     {
-      "title": "AI makes the easy part easier and the hard part harder",
-      "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "pubDate": "2026-02-08 23:13:34",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "More Mac malware from Google search",
-      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-      "pubDate": "2026-02-08 20:52:55",
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "link": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "pubDate": "2026-02-09 04:38:14",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -294,17 +304,7 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
-    },
-    {
-      "title": "Apple XNU: Clutch Scheduler",
-      "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "pubDate": "2026-02-08 20:38:55",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-02-09T02:22:50.374Z"
+  "lastUpdated": "2026-02-09T07:05:28.435Z"
 }
