@@ -286,16 +286,6 @@
       }
     },
     {
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "pubDate": "2026-02-09 16:26:31",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Why is the sky blue?",
       "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
       "pubDate": "2026-02-09 15:39:51",
@@ -304,7 +294,17 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
+    },
+    {
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "pubDate": "2026-02-09 16:26:31",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
     }
   ],
-  "lastUpdated": "2026-02-10T05:51:27.870Z"
+  "lastUpdated": "2026-02-10T07:05:25.820Z"
 }
