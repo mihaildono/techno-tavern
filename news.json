@@ -256,9 +256,9 @@
       }
     },
     {
-      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "pubDate": "2026-02-14 00:37:53",
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "link": "https://github.com/mickamy/sql-tap",
+      "pubDate": "2026-02-14 04:27:35",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -266,19 +266,9 @@
       }
     },
     {
-      "title": "Gradient.horse",
-      "link": "https://gradient.horse/",
-      "pubDate": "2026-02-10 04:13:49",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "pubDate": "2026-02-13 19:20:12",
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "link": "https://npmx.dev/",
+      "pubDate": "2026-02-14 02:14:34",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -296,9 +286,19 @@
       }
     },
     {
-      "title": "Building a TUI is easy now",
-      "link": "https://hatchet.run/blog/tuis-are-easy-now",
-      "pubDate": "2026-02-13 17:50:54",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "pubDate": "2026-02-13 19:20:12",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Understanding the Go Compiler: The Linker",
+      "link": "https://internals-for-interns.com/posts/the-go-linker/",
+      "pubDate": "2026-02-08 17:46:46",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -306,5 +306,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-14T02:05:03.443Z"
+  "lastUpdated": "2026-02-14T06:45:51.992Z"
 }
