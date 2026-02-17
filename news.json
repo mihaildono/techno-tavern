@@ -236,6 +236,36 @@
       }
     },
     {
+      "title": "Claude Sonnet 4.6",
+      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "pubDate": "2026-02-17 17:48:52",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "HackMyClaw",
+      "link": "https://hackmyclaw.com/",
+      "pubDate": "2026-02-17 16:48:43",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Using go fix to modernize Go code",
+      "link": "https://go.dev/blog/gofix",
+      "pubDate": "2026-02-17 16:42:35",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "GrapheneOS – Break Free from Google and Apple",
       "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
       "pubDate": "2026-02-17 10:02:36",
@@ -246,39 +276,9 @@
       }
     },
     {
-      "title": "Four Column ASCII (2017)",
-      "link": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-      "pubDate": "2026-02-15 09:15:16",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "pubDate": "2026-02-16 18:41:50",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Rise of the Triforce",
-      "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "pubDate": "2026-02-16 21:24:04",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "A deep dive into Apple's .car file format",
-      "link": "https://dbg.re/posts/car-file-format/",
-      "pubDate": "2026-02-14 12:18:04",
+      "title": "Async/Await on the GPU",
+      "link": "https://www.vectorware.com/blog/async-await-on-gpu/",
+      "pubDate": "2026-02-17 16:53:05",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -286,5 +286,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-17T13:05:24.246Z"
+  "lastUpdated": "2026-02-17T18:58:40.803Z"
 }
