@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "title": "Как да изберем дата за секцио",
+      "link": "https://offnews.bg/zdrave/kak-da-izberem-data-za-sektcio-855838.html",
+      "pubDate": "2026-02-17 06:55:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2025/12/30/855838/phplgdq7b_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3566
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Трима убити и трима тежко ранени след семеен скандал и стрелба на хокеен мач",
+      "link": "https://offnews.bg/sviat/trima-ubiti-i-trima-tezhko-raneni-sled-semeen-skandal-i-strelba-na-hok-861174.html",
+      "pubDate": "2026-02-17 06:45:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/17/861174/phplceyjy_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3857
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Трети ден Шумен е без вода",
+      "link": "https://offnews.bg/obshtestvo/treti-den-shumen-e-bez-voda-861173.html",
+      "pubDate": "2026-02-17 06:03:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/17/861173/phpk8jics_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4362
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "2026 година - на гърба на Червения огнен кон",
+      "link": "https://offnews.bg/horoskop/2026-godina-na-garba-na-chervenia-ognen-kon-861120.html",
+      "pubDate": "2026-02-17 06:00:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/17/861120/phpwliqm0_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5359
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Тръмп: Украйна бързо да се разбере с руснаците",
+      "link": "https://offnews.bg/sviat/tramp-ukrajna-barzo-da-se-razbere-s-rusnatcite-861172.html",
+      "pubDate": "2026-02-17 05:50:38",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/17/861172/phphqawnk_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5861
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Корморан потърси помощ в спешното отделение на болница в Германия",
       "link": "https://www.dnevnik.bg/sviat/2026/02/16/4883561_kormoran_potursi_pomosht_v_speshnoto_otdelenie_na/?ref=rss",
       "pubDate": "2026-02-16 21:32:00",
@@ -176,39 +246,9 @@
       }
     },
     {
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "pubDate": "2026-02-17 01:01:00",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Study: Self-generated Agent Skills are useless",
-      "link": "https://arxiv.org/abs/2602.12670",
-      "pubDate": "2026-02-16 21:15:56",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
       "pubDate": "2026-02-16 18:41:50",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "link": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "pubDate": "2026-02-17 00:26:20",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -224,7 +264,37 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
+    },
+    {
+      "title": "What every compiler writer should know about programmers (2015) [pdf]",
+      "link": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
+      "pubDate": "2026-02-13 14:21:41",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "What your Bluetooth devices reveal",
+      "link": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "pubDate": "2026-02-16 14:39:32",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "pubDate": "2026-02-17 01:01:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
     }
   ],
-  "lastUpdated": "2026-02-17T02:09:18.889Z"
+  "lastUpdated": "2026-02-17T07:00:11.158Z"
 }
