@@ -266,16 +266,6 @@
       }
     },
     {
-      "title": "CERN rebuilt the original browser from 1989",
-      "link": "https://worldwideweb.cern.ch/",
-      "pubDate": "2026-02-20 23:19:12",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Facebook is cooked",
       "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
       "pubDate": "2026-02-20 18:25:07",
@@ -294,7 +284,17 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "link": "https://worldwideweb.cern.ch/",
+      "pubDate": "2026-02-20 23:19:12",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
     }
   ],
-  "lastUpdated": "2026-02-21T02:01:57.891Z"
+  "lastUpdated": "2026-02-21T06:42:30.185Z"
 }
