@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Съветът за мир на Тръмп проучва възможността за създаване на криптовалута в Газа",
+      "link": "https://offnews.bg/sviat/savetat-za-mir-na-tramp-prouchva-vazmozhnostta-za-sazdavane-na-kriptov-861627.html",
+      "pubDate": "2026-02-23 20:05:18",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/23/861627/php9mchxs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4764
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Арестуваха Питър Манделсон в Лондон заради връзките си Джефри Епстийн",
+      "link": "https://offnews.bg/sviat/arestuvaha-pitar-mandelson-v-london-zaradi-vrazkite-si-dzhefri-epstijn-861624.html",
+      "pubDate": "2026-02-23 19:42:42",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/23/861624/phps0xi74_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9983
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Сергей Игнатов свиква среща с началниците на РУО от цялата страна",
+      "link": "https://offnews.bg/obshtestvo/sergej-ignatov-svikva-sreshta-s-nachalnitcite-na-ruo-ot-tcialata-stran-861626.html",
+      "pubDate": "2026-02-23 19:15:22",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/23/861626/phpccfaq5_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5410
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Финландия ще окаже на Украйна хуманитарна помощ за 20 милиона евро",
+      "link": "https://offnews.bg/sviat/finlandia-shte-okazhe-na-ukrajna-humanitarna-pomosht-za-20-miliona-evr-861625.html",
+      "pubDate": "2026-02-23 19:01:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/02/23/861625/php2mcgib_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8275
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "С огън и песни младежки организации протестираха пред Националния студентски дом",
       "link": "https://offnews.bg/obshtestvo/s-ogan-i-pesni-mladezhki-organizatcii-protestiraha-pred-natcionalnia-s-861622.html",
       "pubDate": "2026-02-23 18:47:16",
@@ -15,59 +71,63 @@
       }
     },
     {
-      "title": "В Чехия негодуват от руски супермаркет с ниски цени",
-      "link": "https://offnews.bg/sviat/v-chehia-negoduvat-ot-ruski-supermarket-s-niski-tceni-861620.html",
-      "pubDate": "2026-02-23 18:20:03",
+      "title": "Кадър от министерството на иновациите стана зам.-министър",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/02/23/4885984_kadur_ot_ministerstvoto_na_inovaciite_stana/?ref=rss",
+      "pubDate": "2026-02-23 21:30:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/02/23/861620/php8zptao_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6282
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4885985.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Управляващата партия в Турция готви Ердоган за нов мандат",
-      "link": "https://offnews.bg/sviat/upravliavashtata-partia-v-turtcia-gotvi-erdogan-za-nov-mandat-861623.html",
-      "pubDate": "2026-02-23 18:15:16",
+      "title": "Общинският съвет във Велико Търново отхвърли предложението за референдум за фотоволтаичен парк",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/02/23/4885994_obshtinskiiat_suvet_vuv_veliko_turnovo_othvurli/?ref=rss",
+      "pubDate": "2026-02-23 21:29:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/02/23/861623/phprvm9l5_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4646
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4885993.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "ЕП спря прилагането на митническото споразумение ЕС - САЩ",
-      "link": "https://offnews.bg/sviat/ep-spria-prilaganeto-na-mitnicheskoto-sporazumenie-es-sasht-861621.html",
-      "pubDate": "2026-02-23 17:56:04",
+      "title": "Започна ремонт на пътя около Кресненското дефиле, движението е ограничено",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/02/23/4885992_zapochna_remont_na_putia_okolo_kresnenskoto_defile/?ref=rss",
+      "pubDate": "2026-02-23 21:20:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/02/23/861621/phpjmbobk_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4525
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4885990.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Служебното правителство оттегли предложението Деньо Денев да е шеф на ДАНС",
-      "link": "https://offnews.bg/politika/sluzhebnoto-pravitelstvo-ottegli-predlozhenieto-denio-denev-da-e-shef-861619.html",
-      "pubDate": "2026-02-23 17:40:14",
+      "title": "Гюров преназначи за зам.-министър на транспорта бивш депутат на \"Продължаваме промяната\"",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/02/23/4885966_gjurov_prenaznachi_za_zam-ministur_na_transporta_bivsh/?ref=rss",
+      "pubDate": "2026-02-23 20:51:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/02/23/861619/phpvu042j_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5420
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4885967.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Сръбски студенти свикват в Ниш антиправителствен протест",
+      "link": "https://www.dnevnik.bg/sviat/2026/02/23/4885961_srubski_studenti_svikvat_v_nish_antipravitelstven/?ref=rss",
+      "pubDate": "2026-02-23 20:46:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4885964.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
@@ -139,9 +199,7 @@
       "title": "Фотогалерия: С впечатляваща церемония Италия закри Олимпиадата в Милано-Кортина",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/02/23/4885564_fotogaleriia_s_vpechatliavashta_ceremoniia_italiia/?ref=rss",
       "pubDate": "2026-02-23 15:09:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885842.jpg"
-      },
+      "thumbnail": {},
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -151,9 +209,7 @@
       "title": "\"Веолия\" прилага стратегия, която се основана на кръговата икономика, \"триъгълника на устойчивостта\" и стратегическото финансиране",
       "link": "https://www.capital.bg/biznes/energetika/2026/02/23/4885096_veoliia_prilaga_strategiia_koiato_se_osnovana_na/?ref=rss",
       "pubDate": "2026-02-23 15:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885106.jpg"
-      },
+      "thumbnail": {},
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -163,9 +219,7 @@
       "title": "Подслушвано правосъдие - съдиите са най-следените от службите български граждани",
       "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/02/23/4885714_podslushvano_pravosudie_-_sudiite_sa_nai-sledenite_ot/?ref=rss",
       "pubDate": "2026-02-23 14:55:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885831.jpg"
-      },
+      "thumbnail": {},
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -175,9 +229,7 @@
       "title": "🇪🇺 ЕС отблизо: Търговското споразумение ЕС-САЩ под риск от отхвърляне; Унгария застрашава помощта за Киев",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/02/23/4885902__es_otblizo_turgovskoto_sporazumenie_es-sasht_pod_risk/?ref=rss",
       "pubDate": "2026-02-23 14:01:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885896.jpg"
-      },
+      "thumbnail": {},
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -187,12 +239,40 @@
       "title": "Македонските туристи плахо се завръщат в българските ски курорти въпреки политиката",
       "link": "https://www.capital.bg/biznes/turizum/2026/02/23/4885748_makedonskite_turisti_plaho_se_zavrushtat_v_bulgarskite/?ref=rss",
       "pubDate": "2026-02-23 13:52:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885746.jpg"
-      },
+      "thumbnail": {},
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Shatner is making an album with 35 metal icons",
+      "link": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "pubDate": "2026-02-24 00:33:06",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "pubDate": "2026-02-23 21:44:28",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+      "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "pubDate": "2026-02-23 20:05:15",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -206,39 +286,9 @@
       }
     },
     {
-      "title": "Ladybird Browser adopts Rust",
-      "link": "https://ladybird.org/posts/adopting-rust/",
-      "pubDate": "2026-02-23 11:29:22",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "A simple web we own",
-      "link": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-      "pubDate": "2026-02-23 16:01:18",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Half million 'Words with Spaces' missing from dictionaries",
-      "link": "https://www.linguabase.org/words-with-spaces.html",
-      "pubDate": "2026-02-23 17:15:22",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "What it means that Ubuntu is using Rust",
-      "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
-      "pubDate": "2026-02-23 17:15:14",
+      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+      "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "pubDate": "2026-02-23 22:55:08",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -246,5 +296,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-23T19:04:16.349Z"
+  "lastUpdated": "2026-02-24T02:09:35.760Z"
 }
