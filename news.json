@@ -236,6 +236,26 @@
       }
     },
     {
+      "title": "I don't know how you get here from \"predict the next word.\"",
+      "link": "https://www.grumpy-economist.com/p/refine",
+      "pubDate": "2026-02-26 04:59:01",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "pubDate": "2026-02-25 19:54:14",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Jimi Hendrix was a systems engineer",
       "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
       "pubDate": "2026-02-25 20:16:47",
@@ -246,7 +266,7 @@
       }
     },
     {
-      "title": "First Website",
+      "title": "First Website (1992)",
       "link": "https://info.cern.ch/",
       "pubDate": "2026-02-25 23:02:58",
       "thumbnail": {},
@@ -256,29 +276,9 @@
       }
     },
     {
-      "title": "Making MCP cheaper via CLI",
-      "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "pubDate": "2026-02-25 20:29:37",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Origin of the rule that swap size should be 2x of the physical memory",
-      "link": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
-      "pubDate": "2026-02-25 23:09:33",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Windows 11 Notepad to support Markdown",
-      "link": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "pubDate": "2026-02-25 17:14:19",
+      "title": "The Pleasures and Pains of Coffee (1830)",
+      "link": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+      "pubDate": "2026-02-22 06:50:39",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -286,5 +286,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-26T02:06:52.419Z"
+  "lastUpdated": "2026-02-26T07:01:17.338Z"
 }
