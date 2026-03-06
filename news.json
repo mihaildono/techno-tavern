@@ -1,63 +1,33 @@
 {
   "items": [
     {
-      "title": "Булката!",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/03/06/4874033_bulkata/?ref=rss",
-      "pubDate": "2026-03-05 22:08:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4874032.jpg"
-      },
+      "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+      "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+      "pubDate": "2026-03-06 13:30:54",
+      "thumbnail": {},
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
-      "title": "\"Лудогорец\" победи лидера в класирането \"Левски\" в дербито на Първа лига",
-      "link": "https://www.dnevnik.bg/sport/2026/03/05/4889453_ludogorec_pobedi_lidera_v_klasiraneto_levski_v_derbito/?ref=rss",
-      "pubDate": "2026-03-05 20:45:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4777845.jpg"
-      },
+      "title": "US economy unexpectedly sheds 92,000 jobs in February",
+      "link": "https://www.bbc.com/news/articles/cjd98091g28o",
+      "pubDate": "2026-03-06 14:04:18",
+      "thumbnail": {},
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
-      "title": "България евакуира непрекъснато българи от Залива, хиляди международни моряци остават блокирани",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/05/4889429_bulgariia_evakuira_neprekusnato_bulgari_ot_zaliva/?ref=rss",
-      "pubDate": "2026-03-05 19:30:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4889430.jpg"
-      },
+      "title": "LibreSprite – open-source pixel art editor",
+      "link": "https://libresprite.github.io/",
+      "pubDate": "2026-03-06 09:22:00",
+      "thumbnail": {},
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Тръмп сменя вътрешния министър Кристи Ноем",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/05/4889439_trump_shte_smeni_vutreshniia_ministur_kristi_noem/?ref=rss",
-      "pubDate": "2026-03-05 18:50:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4889440.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Още българи се прибраха на летище \"Васил Левски\" от Оман и Дубай",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/05/4889441_oshte_bulgari_se_pribraha_na_letishte_vasil_levski_ot/?ref=rss",
-      "pubDate": "2026-03-05 18:50:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4889442.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -71,39 +41,9 @@
       }
     },
     {
-      "title": "GPT-5.4",
-      "link": "https://openai.com/index/introducing-gpt-5-4/",
-      "pubDate": "2026-03-05 18:08:10",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Nobody ever got fired for using a struct",
-      "link": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
-      "pubDate": "2026-03-02 23:16:20",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "pubDate": "2026-03-04 19:58:24",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Where things stand with the Department of War",
-      "link": "https://www.anthropic.com/news/where-stand-department-war",
-      "pubDate": "2026-03-06 00:40:41",
+      "title": "Payphone Go",
+      "link": "https://walzr.com/payphone-go/",
+      "pubDate": "2026-03-02 16:45:43",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -111,5 +51,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-06T06:51:40.022Z"
+  "lastUpdated": "2026-03-06T14:29:01.699Z"
 }
