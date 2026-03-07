@@ -1,9 +1,59 @@
 {
   "items": [
     {
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "link": "https://github.com/moongate-community/moongatev2",
-      "pubDate": "2026-03-06 14:22:59",
+      "title": "Андрей Гюров: Янкулов разби омертата около прокуратурата и съдебната система",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889743_andrei_gjurov_iankulov_razbi_omertata_okolo/?ref=rss",
+      "pubDate": "2026-03-06 21:51:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Кувейт спира добива на петрол, цената на \"Брент\" се извиси до 95 долара",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/06/4889738_kuveit_spira_dobiva_na_petrol_cenata_na_brent_se/?ref=rss",
+      "pubDate": "2026-03-06 21:29:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Крум Зарков не допуска БСП да не влезе в парламента",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889737_krum_zarkov_ne_dopuska_bsp_da_ne_vleze_v_parlamenta/?ref=rss",
+      "pubDate": "2026-03-06 20:34:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Асен Василев поиска от избирателите 121 депутати",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889736_asen_vasilev_poiska_ot_izbiratelite_121_deputati/?ref=rss",
+      "pubDate": "2026-03-06 20:27:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Пеевски ще сезира прокуратурата за европрокурора Теодора Георгиева",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/06/4889723_peevski_shte_sezira_prokuraturata_za_evroprokurora/?ref=rss",
+      "pubDate": "2026-03-06 17:04:00",
+      "thumbnail": {},
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+      "link": "https://plasma-bigscreen.org/",
+      "pubDate": "2026-03-06 23:59:16",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -11,9 +61,9 @@
       }
     },
     {
-      "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-      "link": "https://news.ycombinator.com/item?id=47278980",
-      "pubDate": "2026-03-06 18:26:21",
+      "title": "this css proves me human",
+      "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
+      "pubDate": "2026-03-06 21:52:44",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -21,9 +71,9 @@
       }
     },
     {
-      "title": "Open Camera is a FOSS Camera App for Android",
-      "link": "https://opencamera.org.uk/",
-      "pubDate": "2026-03-02 15:46:51",
+      "title": "C# strings silently kill your SQL Server indexes in Dapper",
+      "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+      "pubDate": "2026-03-06 22:55:37",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -31,9 +81,9 @@
       }
     },
     {
-      "title": "Paul Brainerd, Founder of Aldus PageMaker, has died",
-      "link": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-      "pubDate": "2026-03-06 15:33:17",
+      "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
+      "link": "https://thelydianstone.com/volume-2",
+      "pubDate": "2026-03-06 23:17:19",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -41,9 +91,9 @@
       }
     },
     {
-      "title": "Astra: An open-source observatory control software",
-      "link": "https://github.com/ppp-one/astra",
-      "pubDate": "2026-03-06 16:14:30",
+      "title": "Math Notepad",
+      "link": "https://mathnotepad.com/",
+      "pubDate": "2026-03-02 07:01:19",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -51,5 +101,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-06T18:47:53.155Z"
+  "lastUpdated": "2026-03-07T01:59:46.707Z"
 }
