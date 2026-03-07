@@ -1,53 +1,89 @@
 {
   "items": [
     {
-      "title": "Андрей Гюров: Янкулов разби омертата около прокуратурата и съдебната система",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889743_andrei_gjurov_iankulov_razbi_omertata_okolo/?ref=rss",
-      "pubDate": "2026-03-06 21:51:00",
-      "thumbnail": {},
+      "title": "БСП определи Татяна Дончева за водач на партийната листа в Пловдив",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/07/4889845_bsp_opredeli_tatiana_doncheva_za_vodach_na_partiinata/?ref=rss",
+      "pubDate": "2026-03-07 11:45:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4889844.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Кувейт спира добива на петрол, цената на \"Брент\" се извиси до 95 долара",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/06/4889738_kuveit_spira_dobiva_na_petrol_cenata_na_brent_se/?ref=rss",
-      "pubDate": "2026-03-06 21:29:00",
-      "thumbnail": {},
+      "title": "Още близо 600 български туристи ще се приберат днес в България с три полета от Дубай",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/07/4889840_oshte_okolo_400_bulgarski_turisti_shte_se_priberat_v/?ref=rss",
+      "pubDate": "2026-03-07 10:56:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4888499.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Крум Зарков не допуска БСП да не влезе в парламента",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889737_krum_zarkov_ne_dopuska_bsp_da_ne_vleze_v_parlamenta/?ref=rss",
-      "pubDate": "2026-03-06 20:34:00",
-      "thumbnail": {},
+      "title": "\"Перфекционизмът\" на д-р Огнян Димов (откъс)",
+      "link": "https://www.dnevnik.bg/knigi/2026/03/07/4889760_perfekcionizmut_na_d-r_ognian_dimov_otkus/?ref=rss",
+      "pubDate": "2026-03-07 10:28:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4889757.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Асен Василев поиска от избирателите 121 депутати",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/06/4889736_asen_vasilev_poiska_ot_izbiratelite_121_deputati/?ref=rss",
-      "pubDate": "2026-03-06 20:27:00",
-      "thumbnail": {},
+      "title": "Иран се извинява, но не се предава",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/07/4889826_iran_se_izviniava_no_ne_se_predava/?ref=rss",
+      "pubDate": "2026-03-07 10:21:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4889827.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Пеевски ще сезира прокуратурата за европрокурора Теодора Георгиева",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/06/4889723_peevski_shte_sezira_prokuraturata_za_evroprokurora/?ref=rss",
-      "pubDate": "2026-03-06 17:04:00",
-      "thumbnail": {},
+      "title": "МВР осигури охрана на европрокурора Теодора Георгиева",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/07/4889828_mvr_osiguri_ohrana_na_evroprokurora_teodora_georgieva/?ref=rss",
+      "pubDate": "2026-03-07 10:19:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4872293.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Русия помага на Иран с разузнаване за конфликта в Близкия изток. Това \"не оказва влияние\", казват САЩ",
+      "link": "https://www.svobodnaevropa.bg/a/rusiya-iran-sasht-razuznavane-lider/33698185.html",
+      "pubDate": "2026-03-07 10:38:11",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/7346d627-1b7e-4cf3-93c9-4d469e41ce52_cx8_cy0_cw86_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "\"Преломен момент\". Теодора Георгиева е с охрана, след като сигнализира за натиск от висши прокурори и Пеевски",
+      "link": "https://www.svobodnaevropa.bg/a/yankulov-signal-teodora-georgieva-natisk-peevski/33698147.html",
+      "pubDate": "2026-03-07 07:44:25",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/ad57c58d-cc34-4884-5247-08de3c91433d_w800_h450.png",
+        "type": "image/png"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
       }
     },
     {
@@ -90,35 +126,29 @@
       }
     },
     {
-      "title": "\"Нарочно забавяне\". ПП-ДБ обвини ГЕРБ и ДПС-Пеевски, че саботират удължаването на бюджета",
-      "link": "https://www.svobodnaevropa.bg/a/pp-db-obvini-gerb-i-dps-che-sabotirat-udalzhavaneto-na-byudzheta/33696920.html",
-      "pubDate": "2026-03-06 11:57:56",
-      "thumbnail": {
-        "link": "https://gdb.rferl.org/077d1e32-6e54-41c4-1104-08de3bed1b27_cx0_cy1_cw0_w800_h450.jpg",
-        "type": "image/jpeg"
-      },
-      "source": {
-        "name": "Svobodna Evropa",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Гърция ще подкрепи противовъздушната отбрана на България с батарея \"Пейтриът\" и изтребители F-16",
-      "link": "https://www.svobodnaevropa.bg/a/gartsiya-shte-podkrepi-protivovazdushnata-otbrana-na-balgariya-s-batareya-peytriat-i-iztrebiteli-f-16/33696853.html",
-      "pubDate": "2026-03-06 11:03:29",
-      "thumbnail": {
-        "link": "https://gdb.rferl.org/8370c305-aab2-4100-8476-08ddd95ee7ae_w800_h450.jpg",
-        "type": "image/jpeg"
-      },
-      "source": {
-        "name": "Svobodna Evropa",
-        "color": "#FF9800"
-      }
-    },
-    {
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org/",
       "pubDate": "2026-03-06 23:59:16",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning",
+      "link": "https://tanstaafl.email/",
+      "pubDate": "2026-03-07 10:27:46",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "link": "https://news.ycombinator.com/item?id=47282777",
+      "pubDate": "2026-03-07 00:05:06",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -144,27 +174,7 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
-    },
-    {
-      "title": "Can a wealthy family change the course of a deadly brain disease?",
-      "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-      "pubDate": "2026-03-07 03:06:58",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Maybe There's a Pattern Here?",
-      "link": "https://dynomight.net/pattern/",
-      "pubDate": "2026-03-05 02:58:10",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-03-07T06:41:50.839Z"
+  "lastUpdated": "2026-03-07T12:49:38.958Z"
 }
