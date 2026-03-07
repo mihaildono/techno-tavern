@@ -51,9 +51,84 @@
       }
     },
     {
+      "title": "За \"Петрохан\" и \"Околчица\". Как прокурорите разрешиха погребение на жертвите, след като близките насрочиха протест",
+      "link": "https://www.svobodnaevropa.bg/a/vazmozhno-pogrebenie-na-mazhete-zaginali-na-okolchitsa/33697697.html",
+      "pubDate": "2026-03-06 16:23:18",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/fb892fc6-be06-443c-1113-08de3bed1b27_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "100 000 разселени хора и падащи бомби. Как офанзивата на Израел срещу Хизбула превърна Ливан в бойно поле",
+      "link": "https://www.svobodnaevropa.bg/a/livan-izrael-voenna-ofanziva/33696851.html",
+      "pubDate": "2026-03-06 15:47:12",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/27be9138-f66a-4213-51e9-08de3c91433d_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Народният, Сатиричният, Младежкият и още театри заплашват да спрат работа заради липса на пари",
+      "link": "https://www.svobodnaevropa.bg/a/teatri-zaplashvat-da-sprat-rabota-zaradi-lipsa-na-finansirane/33696844.html",
+      "pubDate": "2026-03-06 14:10:16",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/03040000-0aff-0242-99df-08da3262d3f1_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "\"Нарочно забавяне\". ПП-ДБ обвини ГЕРБ и ДПС-Пеевски, че саботират удължаването на бюджета",
+      "link": "https://www.svobodnaevropa.bg/a/pp-db-obvini-gerb-i-dps-che-sabotirat-udalzhavaneto-na-byudzheta/33696920.html",
+      "pubDate": "2026-03-06 11:57:56",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/077d1e32-6e54-41c4-1104-08de3bed1b27_cx0_cy1_cw0_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Гърция ще подкрепи противовъздушната отбрана на България с батарея \"Пейтриът\" и изтребители F-16",
+      "link": "https://www.svobodnaevropa.bg/a/gartsiya-shte-podkrepi-protivovazdushnata-otbrana-na-balgariya-s-batareya-peytriat-i-iztrebiteli-f-16/33696853.html",
+      "pubDate": "2026-03-06 11:03:29",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/8370c305-aab2-4100-8476-08ddd95ee7ae_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org/",
       "pubDate": "2026-03-06 23:59:16",
+      "thumbnail": {},
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "UUID package coming to Go standard library",
+      "link": "https://github.com/golang/go/issues/62026",
+      "pubDate": "2026-03-07 02:03:21",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -71,9 +146,9 @@
       }
     },
     {
-      "title": "C# strings silently kill your SQL Server indexes in Dapper",
-      "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-      "pubDate": "2026-03-06 22:55:37",
+      "title": "Can a wealthy family change the course of a deadly brain disease?",
+      "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+      "pubDate": "2026-03-07 03:06:58",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -81,19 +156,9 @@
       }
     },
     {
-      "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
-      "link": "https://thelydianstone.com/volume-2",
-      "pubDate": "2026-03-06 23:17:19",
-      "thumbnail": {},
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Math Notepad",
-      "link": "https://mathnotepad.com/",
-      "pubDate": "2026-03-02 07:01:19",
+      "title": "Maybe There's a Pattern Here?",
+      "link": "https://dynomight.net/pattern/",
+      "pubDate": "2026-03-05 02:58:10",
       "thumbnail": {},
       "source": {
         "name": "Hacker News",
@@ -101,5 +166,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-07T01:59:46.707Z"
+  "lastUpdated": "2026-03-07T06:41:50.839Z"
 }
