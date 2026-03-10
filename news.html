@@ -63,7 +63,9 @@
 
             try {
                 // Fetch from local JSON file (updated by GitHub Action)
-                const response = await fetch("/news.json");
+                // Cache-bust: round to 10-min windows so browser doesn't serve stale data
+                const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
+                const response = await fetch(`/news.json?v=${cacheBuster}`);
                 const data = await response.json();
                 feedContainer.innerHTML = "";
 

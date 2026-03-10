@@ -13,9 +13,9 @@
 /*.html
   Cache-Control: public, max-age=3600, must-revalidate
 
-# Cache news.json for 30 minutes (matches your update frequency)
+# Cache news.json for 10 minutes (updated every 3 hours)
 /news.json
-  Cache-Control: public, max-age=1800, must-revalidate
+  Cache-Control: public, max-age=600, must-revalidate
 
 # Root HTML file
 /
