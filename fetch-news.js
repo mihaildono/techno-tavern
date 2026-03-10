@@ -33,6 +33,12 @@ const RSS_SOURCES = [
     type: "rss2json",
   },
   {
+    name: "Actualno",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.actualno.com%2Frss",
+    color: "#9C27B0", // Purple
+    type: "rss2json",
+  },
+  {
     name: "Hacker News",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.ycombinator.com%2Frss",
     color: "#FF6600", // HN Orange
@@ -40,78 +46,159 @@ const RSS_SOURCES = [
   },
 ];
 
-function fetchFeed(source) {
-  return new Promise((resolve, reject) => {
-    https
-      .get(source.url, (res) => {
-        let data = "";
+// --- Helpers ---
 
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function fetchUrl(url, timeoutMs = 15000) {
+  return new Promise((resolve, reject) => {
+    const req = https
+      .get(url, (res) => {
+        let data = "";
         res.on("data", (chunk) => {
           data += chunk;
         });
-
         res.on("end", () => {
-          try {
-            const feedData = JSON.parse(data);
-
-            if (!feedData.items || feedData.items.length === 0) {
-              console.log(`⚠️  No items found in ${source.name}`);
-              resolve([]);
-              return;
-            }
-
-            const items = feedData.items.slice(0, 5).map((item) => {
-              // Normalize thumbnail to always be an object with link property
-              const thumbnail = item.thumbnail || item.enclosure || null;
-              const normalizedThumbnail = thumbnail
-                ? typeof thumbnail === "string"
-                  ? { link: thumbnail }
-                  : thumbnail
-                : null;
-
-              return {
-                title: item.title,
-                link: item.link,
-                pubDate: item.pubDate,
-                thumbnail: normalizedThumbnail,
-                source: {
-                  name: source.name,
-                  color: source.color,
-                },
-              };
-            });
-
-            console.log(
-              `✅ Fetched ${items.length} articles from ${source.name}`,
-            );
-            resolve(items);
-          } catch (error) {
-            console.error(`❌ Error parsing ${source.name}:`, error.message);
-            resolve([]);
-          }
+          resolve({ status: res.statusCode, data });
         });
       })
       .on("error", (error) => {
-        console.error(`❌ Error fetching ${source.name}:`, error.message);
-        resolve([]);
+        reject(error);
       });
+
+    req.setTimeout(timeoutMs, () => {
+      req.destroy();
+      reject(new Error(`Request timed out after ${timeoutMs}ms`));
+    });
   });
 }
+
+function normalizeThumbnail(item) {
+  const raw = item.thumbnail || item.enclosure || null;
+  if (!raw) return null;
+  if (typeof raw === "string") {
+    return raw.trim() ? { link: raw.trim() } : null;
+  }
+  return raw.link ? raw : null;
+}
+
+function parseFeedItems(source, feedData) {
+  if (!feedData.items || feedData.items.length === 0) {
+    return [];
+  }
+
+  return feedData.items.slice(0, 5).map((item) => ({
+    title: item.title,
+    link: item.link,
+    pubDate: item.pubDate,
+    thumbnail: normalizeThumbnail(item),
+    source: {
+      name: source.name,
+      color: source.color,
+    },
+  }));
+}
+
+// --- Fetch with retry ---
+
+async function fetchFeed(source) {
+  try {
+    const { status, data } = await fetchUrl(source.url);
+
+    if (status !== 200) {
+      console.error(`  ❌ HTTP ${status} from ${source.name}`);
+      return [];
+    }
+
+    const feedData = JSON.parse(data);
+    return parseFeedItems(source, feedData);
+  } catch (error) {
+    console.error(`  ❌ Error fetching ${source.name}: ${error.message}`);
+    return [];
+  }
+}
+
+async function fetchFeedWithRetry(source, maxRetries = 3) {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    const items = await fetchFeed(source);
+
+    if (items.length > 0) {
+      console.log(`✅ Fetched ${items.length} articles from ${source.name}`);
+      return items;
+    }
+
+    if (attempt < maxRetries) {
+      const waitMs = 2000 * attempt;
+      console.log(
+        `  🔄 Retrying ${source.name} (attempt ${attempt + 1}/${maxRetries}) in ${waitMs / 1000}s...`,
+      );
+      await delay(waitMs);
+    }
+  }
+
+  console.log(
+    `⚠️  Failed to fetch ${source.name} after ${maxRetries} attempts`,
+  );
+  return [];
+}
+
+// --- Preserve old news on failure ---
+
+function loadExistingNews() {
+  try {
+    if (fs.existsSync(OUTPUT_FILE)) {
+      const data = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf8"));
+      return data.items || [];
+    }
+  } catch (e) {
+    console.log("⚠️  Could not read existing news.json");
+  }
+  return [];
+}
+
+// --- Main ---
 
 async function fetchAllFeeds() {
   console.log("📡 Fetching RSS feeds from multiple sources...\n");
 
+  const existingItems = loadExistingNews();
   const allItems = [];
+  const failedSources = [];
 
-  // Fetch feeds sequentially to maintain order
   for (const source of RSS_SOURCES) {
-    const items = await fetchFeed(source);
-    allItems.push(...items);
+    const items = await fetchFeedWithRetry(source);
+
+    if (items.length > 0) {
+      allItems.push(...items);
+    } else {
+      failedSources.push(source.name);
+      // Preserve old articles from this source
+      const oldItems = existingItems.filter(
+        (item) => item.source?.name === source.name,
+      );
+      if (oldItems.length > 0) {
+        console.log(
+          `📦 Keeping ${oldItems.length} existing articles from ${source.name}`,
+        );
+        allItems.push(...oldItems);
+      }
+    }
+
+    // Delay between sources to avoid rss2json rate limiting
+    await delay(1500);
   }
 
   if (allItems.length === 0) {
     console.error("❌ No items fetched from any source");
     process.exit(1);
+  }
+
+  if (failedSources.length > 0) {
+    console.log(
+      `\n⚠️  Sources that failed (old data preserved): ${failedSources.join(", ")}`,
+    );
   }
 
   const output = {
