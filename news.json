@@ -121,6 +121,19 @@
       }
     },
     {
+      "title": "\"Уволнен си!\" Протест в София поиска Борислав Сарафов да бъде отстранен като главен прокурор",
+      "link": "https://www.svobodnaevropa.bg/a/protest-borislav-sarafov/33700691.html",
+      "pubDate": "2026-03-10 17:43:13",
+      "thumbnail": {
+        "link": "https://gdb.rferl.org/b63abf79-e4a6-47e9-120a-08de3bed1b27_cx0_cy6_cw0_w800_h450.jpg",
+        "type": "image/jpeg"
+      },
+      "source": {
+        "name": "Svobodna Evropa",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Операция \"Искрена грижа\". Над 2600 българи са евакуирани от Близкия изток, отчете МВнР",
       "link": "https://www.svobodnaevropa.bg/a/evakuirani-balgari-blizak-iztok/33700616.html",
       "pubDate": "2026-03-10 15:14:05",
@@ -173,23 +186,24 @@
       }
     },
     {
-      "title": "САЩ предупредиха за \"най-интензивен ден на удари\" срещу Иран. Тръмп каза, че войната ще приключи \"скоро\"",
-      "link": "https://www.svobodnaevropa.bg/a/trump-iran/33700267.html",
-      "pubDate": "2026-03-10 07:14:36",
+      "title": "За да уличи Теодора Георгиева в корупция, прокуратурата се уличи в прикриването ѝ",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/03/10/4890776_za_da_ulichi_teodora_georgieva_v_korupciia/?ref=rss",
+      "pubDate": "2026-03-10 17:21:00",
       "thumbnail": {
-        "link": "https://gdb.rferl.org/03829485-2dd4-4a1d-f914-08de3c642a37_w800_h450.jpeg",
-        "type": "image/jpeg"
+        "link": "http://www.capital.bg/shimg/zx640_4890794.jpg"
       },
       "source": {
-        "name": "Svobodna Evropa",
-        "color": "#FF9800"
+        "name": "Capital",
+        "color": "#4CAF50"
       }
     },
     {
       "title": "Снимка на деня: Преди 250 години излиза първото издание на \"Богатството на народите\" на Адам Смит",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/03/10/4890540_snimka_na_denia_predi_250_godini_izliza_purvoto/?ref=rss",
       "pubDate": "2026-03-10 15:29:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4890721.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -199,7 +213,9 @@
       "title": "Ще спасят ли атомните централи енергийното бъдеще на Европа",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/10/4890658_shte_spasiat_li_atomnite_centrali_energiinoto_budeshte/?ref=rss",
       "pubDate": "2026-03-10 14:27:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4890671.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -209,7 +225,9 @@
       "title": "OpenAI пусна новия GPT-5.4, който е по-умен, бърз и скъп",
       "link": "https://www.capital.bg/biznes/ai/2026/03/10/4890554_openai_pusna_noviia_gpt-54_koito_e_po-umen_burz_i_skup/?ref=rss",
       "pubDate": "2026-03-10 12:33:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4890553.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -219,28 +237,20 @@
       "title": "Европа залага на ядрената и чиста енергия в нов план за справяне с високите цени на електроенергията",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/10/4890590_evropa_zalaga_na_iadrenata_i_chista_energiia_v_nov/?ref=rss",
       "pubDate": "2026-03-10 11:55:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4890587.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Дарителите на Републиканската партия предпочитат Марко Рубио за наследник на Тръмп",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/10/4890551_daritelite_na_republikanskata_partiia_predpochitat/?ref=rss",
-      "pubDate": "2026-03-10 11:45:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Петя Димитрова: Над 26 млрд. лева вече са изтеглени от обращение",
-      "link": "https://www.actualno.com/finance/petja-dimitrova-nad-26-mlrd-leva-veche-sa-iztegleni-ot-obrashtenie-news_2566467.html",
-      "pubDate": "2026-03-10 16:52:00",
+      "title": "Заради Иран: Украйна е изправена пред недостиг на ракети „Пейтриът“",
+      "link": "https://www.actualno.com/europe/zaradi-iran-ukrajna-e-izpravena-pred-nedostig-na-raketi-pejtriyt-news_2566562.html",
+      "pubDate": "2026-03-10 23:57:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/10/36159fc9e21058db7a52ea0f169dc6fa_2566467_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/11/a7754537359e42180d6ee845847a6823_2566562_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -249,11 +259,11 @@
       }
     },
     {
-      "title": "\"2 години безброй красиви моменти\": Дъщерята на Николета Лозанова и Ники Михайлов има рожден ден (СНИМКИ)",
-      "link": "https://www.actualno.com/showbusiness/2-godini-bezbroj-krasivi-momenti-dyshterjata-na-nikoleta-lozanova-i-niki-mihajlov-ima-rojden-den-snimki-news_2566462.html",
-      "pubDate": "2026-03-10 16:43:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 11.03.26 - Украйна изпрати екипи за борба с дронове в Близкия изток",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-110326-ukrajna-izprati-ekipi-za-borba-s-dronove-v-blizkija-iztok-news_2566560.html",
+      "pubDate": "2026-03-10 23:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/10/215cb3e746f46d7974e34c8bad4ddb6e_2566462_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/11/80579aa3378e5aed1e1f7000bb10b7cf_2566560_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -262,11 +272,11 @@
       }
     },
     {
-      "title": "ООН: Депортирането на украински деца е престъпление срещу човечеството",
-      "link": "https://www.actualno.com/europe/oon-deportiraneto-na-ukrainski-deca-e-prestyplenie-sreshtu-chovechestvoto-news_2566461.html",
-      "pubDate": "2026-03-10 16:41:00",
+      "title": "Израел с нова вълна удари по Техеран, Иран атакува американски бази в региона (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/izrael-s-nova-vylna-udari-po-teheran-iran-atakuva-amerikanski-bazi-v-regiona-video-news_2566559.html",
+      "pubDate": "2026-03-10 23:36:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/10/94467b36e282d6dafce82b29bf6d4ba7_2566461_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/11/5c381f9a2bf0ffa59421b99fb9456b77_2566559_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -275,11 +285,11 @@
       }
     },
     {
-      "title": "\"Не бъдете опитни мишки, ценете здравето си\": Лекари с предупреждение към учениците",
-      "link": "https://www.actualno.com/healthy/ne-bydete-opitni-mishki-cenete-zdraveto-si-lekari-s-preduprejdenie-kym-uchenicite-news_2566457.html",
-      "pubDate": "2026-03-10 16:35:00",
+      "title": "\"Може би на PlayStation\": Министър на САЩ обяви, че танкер е минал през Ормузкия проток, по-късно изтри публикацията",
+      "link": "https://www.actualno.com/america/moje-bi-na-playstation-ministyr-na-sasht-objavi-che-tanker-e-minal-prez-ormuzkija-protok-po-kysno-iztri-publikacijata-news_2566558.html",
+      "pubDate": "2026-03-10 23:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/10/5655250a086573572fb31c09d3f84603_2566457_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/11/d5d84e8fa80557f45c65e723ed7adabd_2566558_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -288,11 +298,11 @@
       }
     },
     {
-      "title": "Помогна ли на Румен Радев първата дама с постовете си: Говори проф. Росен Стоянов (ВИДЕО)",
-      "link": "https://www.actualno.com/politics/pomogna-li-na-rumen-radev-pyrvata-dama-s-postovete-si-govori-prof-rosen-stojanov-video-news_2566359.html",
-      "pubDate": "2026-03-10 16:30:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 11 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-11-mart-valuten-kalkulator-news_2566548.html",
+      "pubDate": "2026-03-10 22:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/10/c92be6550b549ffd864aa04200311293_2566359_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/11/img_69b094642b48d_2566548_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -351,5 +361,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-10T21:19:55.922Z"
+  "lastUpdated": "2026-03-11T00:55:54.354Z"
 }
