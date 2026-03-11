@@ -74,7 +74,9 @@
       "title": "Картина на Златю Бояджиев ще бъде продадена на търг",
       "link": "https://www.dnevnik.bg/bulgaria/2026/03/10/4890844_kartina_na_zlatju_boiadjiev_shte_bude_prodadena_na_turg/?ref=rss",
       "pubDate": "2026-03-10 20:53:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4890843.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -84,7 +86,9 @@
       "title": "Еврокомисията заплаши да оттегли парите си за Биеналето във Венеция",
       "link": "https://www.dnevnik.bg/evropa/2026/03/10/4890835_evrokomisiiata_zaplashi_da_ottegli_finansiraneto_si_za/?ref=rss",
       "pubDate": "2026-03-10 20:43:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4890836.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -94,7 +98,9 @@
       "title": "Божанов: Явно ДПС смята да прави нов костинбродски скандал",
       "link": "https://www.dnevnik.bg/izbori-2026/2026/03/10/4890834_bojanov_iavno_dps_smiata_da_pravi_nov_kostinbrodski/?ref=rss",
       "pubDate": "2026-03-10 20:10:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4890832.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -104,17 +110,21 @@
       "title": "Румънци и гърци купуват горива и цигари в България",
       "link": "https://www.dnevnik.bg/bulgaria/2026/03/10/4890830_rumunci_i_gurci_kupuvat_goriva_i_cigari_v_bulgariia/?ref=rss",
       "pubDate": "2026-03-10 19:46:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4890829.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "И директорът на НКЖИ е сменен",
+      "title": "И директорът на \"Железопътна инфраструктура\" е сменен",
       "link": "https://www.dnevnik.bg/politika/2026/03/10/4890828_i_direktorut_na_nkji_e_smenen/?ref=rss",
       "pubDate": "2026-03-10 19:31:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4890827.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -361,5 +371,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-11T00:55:54.354Z"
+  "lastUpdated": "2026-03-11T04:26:57.028Z"
 }
