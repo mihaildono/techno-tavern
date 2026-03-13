@@ -311,9 +311,29 @@
       }
     },
     {
+      "title": "Bucketsquatting is (finally) dead",
+      "link": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+      "pubDate": "2026-03-13 08:31:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Willingness to look stupid",
       "link": "https://sharif.io/looking-stupid",
       "pubDate": "2026-03-09 10:21:58",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+      "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+      "pubDate": "2026-03-13 10:15:56",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,29 +351,9 @@
       }
     },
     {
-      "title": "Malus – Clean Room as a Service",
-      "link": "https://malus.sh/",
-      "pubDate": "2026-03-12 13:42:04",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Vite 8.0 Is Out",
-      "link": "https://vite.dev/blog/announcing-vite8",
-      "pubDate": "2026-03-13 04:36:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "“This is not the computer for you”",
-      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "pubDate": "2026-03-13 01:45:49",
+      "title": "Peter Thiel's Antichrist Lectures",
+      "link": "https://apnews.com/article/italy-peter-thiel-paypal-pope-vatican-c3a6c7d2daba501caf8152558ac2d743",
+      "pubDate": "2026-03-13 10:31:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -361,5 +361,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-13T09:27:33.531Z"
+  "lastUpdated": "2026-03-13T12:28:39.129Z"
 }
