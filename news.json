@@ -321,9 +321,29 @@
       }
     },
     {
+      "title": "Claude Code's binary reveals silent A/B tests on core features",
+      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+      "pubDate": "2026-03-14 11:46:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
       "pubDate": "2026-03-13 17:19:01",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+      "link": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "pubDate": "2026-03-11 18:21:58",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,26 +361,6 @@
       }
     },
     {
-      "title": "Emacs and Vim in the Age of AI",
-      "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "pubDate": "2026-03-10 04:21:32",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "You gotta think outside the hypercube",
-      "link": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "pubDate": "2026-03-10 14:18:21",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "pubDate": "2026-03-13 12:31:09",
@@ -371,5 +371,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-14T09:21:17.478Z"
+  "lastUpdated": "2026-03-14T12:22:21.236Z"
 }
