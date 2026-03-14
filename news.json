@@ -311,16 +311,6 @@
       }
     },
     {
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "pubDate": "2026-03-13 22:52:05",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
       "pubDate": "2026-03-13 17:19:01",
@@ -341,6 +331,26 @@
       }
     },
     {
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "pubDate": "2026-03-13 22:52:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Optimizing Content for Agents",
+      "link": "https://cra.mr/optimizing-content-for-agents/",
+      "pubDate": "2026-03-14 02:27:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "link": "https://channelsurfer.tv/",
       "pubDate": "2026-03-11 14:34:57",
@@ -349,17 +359,7 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
-    },
-    {
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "link": "https://github.com/TomBadash/MouseControl",
-      "pubDate": "2026-03-13 18:42:54",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-03-14T00:56:40.374Z"
+  "lastUpdated": "2026-03-14T04:26:40.634Z"
 }
