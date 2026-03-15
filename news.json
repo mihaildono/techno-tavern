@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Съдът остави в ареста 7 от 8-те от ОПГ за изнудване на получатели на бързи кредите",
+      "link": "https://offnews.bg/temida/sadat-ostavi-v-aresta-7-ot-8-te-ot-opg-za-iznudvane-na-poluchateli-na-862948.html",
+      "pubDate": "2026-03-14 20:02:22",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/14/862948/phpdn0kct_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6035
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Израел предупреди, че може да удари линейки и медицински обекти заради 'Хизбула' (допълнена)",
       "link": "https://offnews.bg/sviat/izrael-predupredi-che-mozhe-da-udari-linejki-i-meditcinski-obekti-zar-862947.html",
       "pubDate": "2026-03-14 17:22:41",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/14/862947/php41wsib_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/14/862947/php41wsib_559x345.jpg",
         "type": "image/jpeg",
         "length": 7816
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/sviat/pochina-germanskiat-filosof-iurgen-habermas-862946.html",
       "pubDate": "2026-03-14 17:06:42",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/14/862946/phpfkgwrz_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/14/862946/phpfkgwrz_559x345.jpg",
         "type": "image/jpeg",
         "length": 5300
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/politika/delian-dobrev-moiata-politicheska-smart-ne-e-fakt-beshe-stres-test-n-862945.html",
       "pubDate": "2026-03-14 15:42:36",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/14/862945/phpurelum_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/14/862945/phpurelum_559x345.jpg",
         "type": "image/jpeg",
         "length": 5509
       },
@@ -47,7 +61,7 @@
       "link": "https://offnews.bg/obshtestvo/temperaturite-padat-sled-sriada-862944.html",
       "pubDate": "2026-03-14 15:32:40",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/14/862944/phpzvimzu_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/14/862944/phpzvimzu_559x345.jpg",
         "type": "image/jpeg",
         "length": 3989
       },
@@ -57,26 +71,30 @@
       }
     },
     {
-      "title": "Коя е групировката 'Ашаб Ал Ямин', която стои зад атентатите в Гърция Нидерландия и Белгия?",
-      "link": "https://offnews.bg/sviat/koia-e-grupirovkata-ashab-al-iamin-koiato-stoi-zad-atentatite-v-gar-862943.html",
-      "pubDate": "2026-03-14 15:09:12",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/14/862943/php5dyniy_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 6359
-      },
+      "title": "Снимка на деня: Като на площад \"Славейков\"",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/14/4892464_snimka_na_denia_kato_na_ploshtad_slaveikov/?ref=rss",
+      "pubDate": "2026-03-14 18:49:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Борисов и Радев показаха осведоменост за възможни промени в договора с \"Боташ\"",
+      "link": "https://www.dnevnik.bg/politika/2026/03/14/4892454_borisov_i_radev_pokazaha_osvedomenost_za_vuzmojni/?ref=rss",
+      "pubDate": "2026-03-14 18:26:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
       "title": "\"Политическата ми смърт не е факт\": Делян Добрев поведе листата на ГЕРБ в Хасково",
       "link": "https://www.dnevnik.bg/izbori-2026/2026/03/14/4892453_politicheskata_mi_smurt_ne_e_fakt_delian_dobrev_povede/?ref=rss",
       "pubDate": "2026-03-14 17:22:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4892452.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -86,9 +104,7 @@
       "title": "Протестиращи атакуваха офис на компарията в централна Куба",
       "link": "https://www.dnevnik.bg/sviat/2026/03/14/4892450_protestirashti_atakuvaha_ofis_na_kompariiata_v/?ref=rss",
       "pubDate": "2026-03-14 16:17:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4892451.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -98,33 +114,7 @@
       "title": "Венецуелските студенти си връщат улиците след години на репресии",
       "link": "https://www.dnevnik.bg/sviat/2026/03/14/4892410_venecuelskite_studenti_si_vrushtat_ulicite_sled_godini/?ref=rss",
       "pubDate": "2026-03-14 15:33:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4892408.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Израел и Ливан се очаква да проведат директни преговори до дни, пише \"Аарец\"",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/14/4892437_izrael_i_livan_se_ochakva_da_vodiat_direktni_pregovori/?ref=rss",
-      "pubDate": "2026-03-14 15:11:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4892440.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Властите установиха незаконна кланица и животински останки край Ихтиман",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/14/4892438_vlastite_ustanoviha_nezakonna_klanica_i_jivotinski/?ref=rss",
-      "pubDate": "2026-03-14 15:11:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4892436.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -256,11 +246,11 @@
       }
     },
     {
-      "title": "Литва обсъжда блокиране на социалните медии 3-4 седмици преди изборите",
-      "link": "https://www.actualno.com/europe/litva-obsyjda-blokirane-na-socialnite-medii-3-4-sedmici-predi-izborite-news_2568343.html",
-      "pubDate": "2026-03-14 18:09:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 15 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-15-mart-valuten-kalkulator-news_2568396.html",
+      "pubDate": "2026-03-14 22:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/6c0fa16a0f56c12b8324b93d3cd4df97_2568343_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/15/img_69b5da65c5af7_2568396_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -269,11 +259,11 @@
       }
     },
     {
-      "title": "Христо Янев: До 30-ата минута ЦСКА владееше инициативата. Подходихме наивно в някои ситуации",
-      "link": "https://www.actualno.com/bgfootball/hristo-janev-do-30-ata-minuta-cska-vladeeshe-iniciativata-podhodihme-naivno-v-njakoi-situacii-news_2568342.html",
-      "pubDate": "2026-03-14 18:07:00",
+      "title": "Долар - евро. Колко струва един щатски долар към едно евро днес, 15 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/dolar-evro-kolko-struva-edin-shtatski-dolar-kym-edno-evro-dnes-15-mart-valuten-kalkulator-news_2568395.html",
+      "pubDate": "2026-03-14 22:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/84bc93978c57251fb7a5bfab561d1f4c_2568342_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/15/img_69b5da64a2a77_2568395_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -282,11 +272,11 @@
       }
     },
     {
-      "title": "Лидерът във Втора лига с нова \"шампионска\" победа, драма и изненади в дербитата (Резултати)",
-      "link": "https://www.actualno.com/bgfootball/lideryt-vyv-vtora-liga-s-nova-shampionska-pobeda-drama-i-iznenadi-v-derbitata-rezultati-news_2568341.html",
-      "pubDate": "2026-03-14 18:06:00",
+      "title": "Турска лира - евро. Колко струва една турска лира към едно евро днес, 15 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/turska-lira-evro-kolko-struva-edna-turska-lira-kym-edno-evro-dnes-15-mart-valuten-kalkulator-news_2568394.html",
+      "pubDate": "2026-03-14 22:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/12aa7c2ee1e53967b5c5f7de86eaa8f9_2568341_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/15/img_69b5da638878c_2568394_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -295,11 +285,11 @@
       }
     },
     {
-      "title": "Най-важните новини за деня: 14 март 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-14-mart-2026-g-news_2568327.html",
-      "pubDate": "2026-03-14 18:00:00",
+      "title": "Евро - лев. Калкулатор от евро в стария лев, 15 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/evro-lev-kalkulator-ot-evro-v-starija-lev-15-mart-valuten-kalkulator-news_2568397.html",
+      "pubDate": "2026-03-14 22:05:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/ea4b09396b1596f3ef88a8cd02d6c4ca_2568327_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/15/img_69b5da689c345_2568397_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -308,11 +298,11 @@
       }
     },
     {
-      "title": "ЦСКА тръгна смело срещу Лудогорец, пропусна куп шансове и бе тежко разгромен",
-      "link": "https://www.actualno.com/bgfootball/cska-trygna-smelo-sreshtu-ludogorec-propusna-kup-shansove-i-be-tejko-razgromen-news_2568335.html",
-      "pubDate": "2026-03-14 17:40:00",
+      "title": "Тръмп вече моли за помощ да бъде отворен Ормузкия проток. Иран: Отворен е, но не за САЩ и съюзниците им (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/trymp-veche-moli-za-pomosht-da-byde-otvoren-ormuzkija-protok-iran-otvoren-e-no-ne-za-sasht-i-syuznicite-im-video-news_2568390.html",
+      "pubDate": "2026-03-14 21:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/c46d6b2846ae1cc4f3835521e4a09055_2568335_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/14/32d9a7faedd01d6d83cafcfb4b495af7_2568390_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -321,9 +311,9 @@
       }
     },
     {
-      "title": "Gimp 3.2 Released",
-      "link": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "pubDate": "2026-03-14 19:51:25",
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "link": "https://agelesslinux.org/",
+      "pubDate": "2026-03-14 22:10:26",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,9 +321,9 @@
       }
     },
     {
-      "title": "Marketing for Founders",
-      "link": "https://github.com/EdoStra/Marketing-for-Founders",
-      "pubDate": "2026-03-14 19:35:40",
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "link": "https://github.com/xodn348/han",
+      "pubDate": "2026-03-14 21:27:33",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,9 +331,9 @@
       }
     },
     {
-      "title": "MCP Is Dead; Long Live MCP",
-      "link": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-      "pubDate": "2026-03-14 19:32:13",
+      "title": "Changes to OpenTTD Distribution on Steam",
+      "link": "https://www.openttd.org/news/2026/03/14/steam-changes",
+      "pubDate": "2026-03-14 22:04:48",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -351,9 +341,9 @@
       }
     },
     {
-      "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
-      "link": "https://hostilevolume.com/",
-      "pubDate": "2026-03-14 18:39:10",
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "link": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "pubDate": "2026-03-14 23:10:24",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -361,9 +351,9 @@
       }
     },
     {
-      "title": "2026 tech layoffs reach 45,000 in March",
-      "link": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "pubDate": "2026-03-14 19:46:49",
+      "title": "Claude March 2026 usage promotion",
+      "link": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
+      "pubDate": "2026-03-14 20:08:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -371,5 +361,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-14T21:15:22.198Z"
+  "lastUpdated": "2026-03-15T01:07:11.593Z"
 }
