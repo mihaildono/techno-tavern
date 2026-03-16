@@ -73,6 +73,8 @@
                     const newsElement = document.createElement("a");
                     newsElement.className = "news-item";
                     newsElement.href = item.link;
+                    newsElement.target = "_blank";
+                    newsElement.rel = "noopener noreferrer";
 
                     // Calculate time difference
                     const now = new Date();
