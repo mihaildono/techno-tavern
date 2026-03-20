@@ -25,10 +25,20 @@
   border-color: #6bbc8a;
 }
 
+.party-card-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  background: #fff;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
 .party-card-image {
   width: 100%;
   aspect-ratio: 16 / 10;
   object-fit: cover;
+  box-sizing: border-box;
 }
 
 .party-card-body {
@@ -75,6 +85,21 @@
   max-width: 640px;
   border-radius: 12px;
   object-fit: cover;
+}
+
+.party-hero-image--logo {
+  height: 160px;
+  max-width: 300px;
+  object-fit: contain;
+  background: #fff;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.placeholder-text {
+  text-align: center;
+  color: #888;
+  padding: 40px 0;
 }
 
 .stance-badges {
