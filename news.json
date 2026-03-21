@@ -301,7 +301,7 @@
       }
     },
     {
-      "title": "OpenCode – The open source AI coding agent",
+      "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
       "pubDate": "2026-03-20 21:03:52",
       "thumbnail": null,
@@ -311,29 +311,19 @@
       }
     },
     {
-      "title": "Our commitment to Windows quality",
-      "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "pubDate": "2026-03-20 19:16:13",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Why I'm Not Worried About Running Out of Work in the Age of AI",
-      "link": "https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/",
-      "pubDate": "2026-03-20 23:33:48",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "link": "https://www.openui.com/blog/rust-wasm-parser",
       "pubDate": "2026-03-20 21:48:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Ghostling",
+      "link": "https://github.com/ghostty-org/ghostling",
+      "pubDate": "2026-03-20 22:11:37",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -349,7 +339,17 @@
         "name": "Hacker News",
         "color": "#FF6600"
       }
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "pubDate": "2026-03-20 23:57:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
     }
   ],
-  "lastUpdated": "2026-03-21T00:55:06.828Z"
+  "lastUpdated": "2026-03-21T04:21:21.186Z"
 }
