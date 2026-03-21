@@ -48,6 +48,13 @@
   gap: 4px;
 }
 
+.party-card-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
 .party-card-name {
   font-size: 16px;
   font-weight: 600;
@@ -56,6 +63,35 @@
 .party-card-leader {
   font-size: 13px;
   color: #888;
+}
+
+.party-card-number {
+  font-size: 12px;
+  font-weight: 700;
+  color: #6bbc8a;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.party-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 640px;
+  gap: 12px;
+}
+
+.party-title-row h2 {
+  margin: 0;
+}
+
+.party-ballot-number {
+  font-size: 14px;
+  font-weight: 700;
+  color: #6bbc8a;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 /* Disclaimer */
