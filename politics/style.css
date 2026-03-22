@@ -380,3 +380,221 @@
   );
   clip-path: inset(0 40% 0 0 round 7px);
 }
+
+/* ── Comparison section ─────────────────────────────────────── */
+.comparison-section {
+  width: 100%;
+  max-width: 960px;
+  margin-top: 40px;
+}
+
+.comparison-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #e0e0e0;
+  margin-bottom: 4px;
+}
+
+.comparison-subtitle {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.comparison-table-wrapper {
+  overflow-x: auto;
+  border-radius: 10px;
+  border: 1px solid #2a2a2a;
+  margin-bottom: 28px;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.comparison-table thead tr {
+  background: #1e1e1e;
+}
+
+.comparison-table th {
+  padding: 12px 16px;
+  text-align: center;
+  color: #aaa;
+  font-weight: 600;
+  font-size: 0.8rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.comparison-table th:first-child {
+  text-align: left;
+}
+
+.comparison-table td {
+  padding: 10px 16px;
+  color: #ccc;
+  border-bottom: 1px solid #1f1f1f;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.comparison-table td:first-child {
+  text-align: left;
+  color: #aaa;
+  font-size: 0.82rem;
+}
+
+.comparison-table tbody tr:hover {
+  background: #1c1c1c;
+}
+
+.comparison-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.ct-row-total {
+  background: #1a1a1a;
+  font-weight: 700;
+}
+
+.ct-row-total td:first-child {
+  color: #e0e0e0 !important;
+  font-weight: 700;
+}
+
+.ct-party {
+  display: block;
+  font-size: 0.85rem;
+  color: #e0e0e0;
+  font-weight: 700;
+}
+
+.ct-party--winner {
+  color: #6bbc8a;
+}
+
+.ct-party-sub {
+  display: block;
+  font-size: 0.72rem;
+  color: #666;
+  font-weight: 400;
+  margin-top: 2px;
+}
+
+.ct-score {
+  display: inline-block;
+  min-width: 36px;
+  padding: 3px 8px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+.ct-score--high {
+  background: rgba(107, 188, 138, 0.15);
+  color: #6bbc8a;
+}
+
+.ct-score--mid {
+  background: rgba(253, 216, 53, 0.12);
+  color: #fdd835;
+}
+
+.ct-score--low {
+  background: rgba(229, 57, 53, 0.13);
+  color: #e57373;
+}
+
+/* Analysis cards */
+.comparison-analysis {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 600px) {
+  .comparison-analysis {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ca-card {
+  background: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ca-card--winner {
+  border-color: #6bbc8a;
+  background: #141e17;
+}
+
+.ca-card-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.ca-score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-weight: 800;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.ca-score--high {
+  background: rgba(107, 188, 138, 0.18);
+  color: #6bbc8a;
+  border: 2px solid #6bbc8a;
+}
+
+.ca-score--mid {
+  background: rgba(253, 216, 53, 0.15);
+  color: #fdd835;
+  border: 2px solid #fdd835;
+}
+
+.ca-score--low {
+  background: rgba(229, 57, 53, 0.15);
+  color: #e57373;
+  border: 2px solid #e57373;
+}
+
+.ca-name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #e0e0e0;
+}
+
+.ca-party {
+  font-size: 0.75rem;
+  color: #666;
+  margin-top: 2px;
+}
+
+.ca-card p {
+  font-size: 0.8rem;
+  color: #aaa;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.ca-verdict {
+  font-style: italic;
+  color: #888 !important;
+  border-top: 1px solid #2a2a2a;
+  padding-top: 8px;
+  margin-top: 4px !important;
+}
