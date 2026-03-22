@@ -44,6 +44,12 @@ const RSS_SOURCES = [
     color: "#FF6600", // HN Orange
     type: "rss2json",
   },
+  {
+    name: "DW България",
+    url: "https://rss.dw.com/rdf/rss-en-top",
+    color: "#C8102E", // DW Red
+    type: "direct",
+  },
 ];
 
 // --- Helpers ---
@@ -73,6 +79,34 @@ function fetchUrl(url, timeoutMs = 15000) {
       reject(new Error(`Request timed out after ${timeoutMs}ms`));
     });
   });
+}
+
+function parseRssXml(xml) {
+  const items = [];
+  const itemRegex = /<item[^>]*>([\s\S]*?)<\/item>/g;
+  let match;
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const getText = (tag) => {
+      const m =
+        new RegExp(`<${tag}><\\!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\/${tag}>`).exec(
+          block,
+        ) || new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`).exec(block);
+      return m ? m[1].trim() : "";
+    };
+    const title = getText("title");
+    const link =
+      (/<link>\s*([^<]+)\s*<\/link>/.exec(block) || [])[1]?.trim() ||
+      (/<link[^>]+href="([^"]+)"/.exec(block) || [])[1] ||
+      "";
+    const pubDate = getText("pubDate") || getText("dc:date");
+    const mediaMatch =
+      /media:content[^>]+url="([^"]+)"/.exec(block) ||
+      /enclosure[^>]+url="([^"]+)"/.exec(block);
+    const thumbnail = mediaMatch ? { link: mediaMatch[1] } : null;
+    if (title && link) items.push({ title, link, pubDate, thumbnail });
+  }
+  return items;
 }
 
 function normalizeThumbnail(item) {
@@ -110,6 +144,17 @@ async function fetchFeed(source) {
     if (status !== 200) {
       console.error(`  ❌ HTTP ${status} from ${source.name}`);
       return [];
+    }
+
+    if (source.type === "direct") {
+      const items = parseRssXml(data);
+      return items.slice(0, 5).map((item) => ({
+        title: item.title,
+        link: item.link,
+        pubDate: item.pubDate,
+        thumbnail: item.thumbnail,
+        source: { name: source.name, color: source.color },
+      }));
     }
 
     const feedData = JSON.parse(data);

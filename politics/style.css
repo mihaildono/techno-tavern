@@ -401,6 +401,14 @@
   margin-bottom: 20px;
 }
 
+.comparison-note {
+  max-width: 760px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: #9a9a9a;
+  margin-bottom: 18px;
+}
+
 .comparison-table-wrapper {
   overflow-x: auto;
   border-radius: 10px;
