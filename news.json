@@ -301,6 +301,16 @@
       }
     },
     {
+      "title": "The Three Pillars of JavaScript Bloat",
+      "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "pubDate": "2026-03-22 02:04:31",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Tinybox – Offline AI device 120B parameters",
       "link": "https://tinygrad.org/#tinybox",
       "pubDate": "2026-03-21 20:08:37",
@@ -311,19 +321,9 @@
       }
     },
     {
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "link": "https://tooscut.app/",
-      "pubDate": "2026-03-21 21:27:50",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Profiling Hacker News users based on their comments",
-      "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
-      "pubDate": "2026-03-22 00:30:19",
+      "title": "Chest Fridge (2009)",
+      "link": "https://mtbest.net/chest-fridge/",
+      "pubDate": "2026-03-22 01:02:10",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,9 +341,9 @@
       }
     },
     {
-      "title": "Boomloom: Think with your hands",
-      "link": "https://www.theboomloom.com/",
-      "pubDate": "2026-03-20 17:13:28",
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "link": "https://tooscut.app/",
+      "pubDate": "2026-03-21 21:27:50",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -351,5 +351,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-22T01:02:01.124Z"
+  "lastUpdated": "2026-03-22T04:45:43.368Z"
 }
