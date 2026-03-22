@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="bg">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Политика - Techno Tavern Пловдив" />
+
+    <title>Политика - Techno Tavern Пловдив</title>
+
+    <link rel="icon" href="/assets/logo.svg" />
+
+    <link rel="preload" href="/assets/logo.svg" as="image" type="image/svg+xml" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/politics/style.css" />
+
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+            rel="stylesheet" />
+    </noscript>
+</head>
+
+<body>
+    <main class="layout">
+        <div class="mainHeader">
+            <img src="/assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
+            <h1>Techno Tavern</h1>
+            <span>Социално пространство в Пловдив</span>
+        </div>
+
+        <nav class="tabs">
+            <a href="/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+                </svg></a>
+            <a href="/news.html" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z" />
+                </svg></a>
+            <a href="/politics/" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
+                </svg></a>
+        </nav>
+
+        <div class="content">
+            <h2>Избори 2026</h2>
+            <div class="parties-grid">
+                <a href="/politics/pp/" class="party-card">
+                    <img src="/politics/pp.png" alt="Продължаваме промяната" class="party-card-image" />
+                    <div class="party-card-body">
+                        <div class="party-card-title-row">
+                            <span class="party-card-name">Продължаваме промяната</span>
+                            <span class="party-card-number">№7</span>
+                        </div>
+                        <span class="party-card-leader">Лидер: Асен Василев</span>
+                    </div>
+                </a>
+                <a href="/politics/progresivna-bulgaria/" class="party-card">
+                    <img src="/politics/progresivna-bulgaria/Rumen-Radev-progresivna-bulgaria.png"
+                        alt="Прогресивна България" class="party-card-image" />
+                    <div class="party-card-body">
+                        <div class="party-card-title-row">
+                            <span class="party-card-name">Прогресивна България</span>
+                            <span class="party-card-number">№21</span>
+                        </div>
+                        <span class="party-card-leader">Лидер: Румен Радев</span>
+                    </div>
+                </a>
+                <a href="/politics/gerb/" class="party-card">
+                    <img src="/politics/gerb.png" alt="ГЕРБ" class="party-card-image" />
+                    <div class="party-card-body">
+                        <div class="party-card-title-row">
+                            <span class="party-card-name">ГЕРБ</span>
+                            <span class="party-card-number">№15</span>
+                        </div>
+                        <span class="party-card-leader">Лидер: Бойко Борисов</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="comparison-section">
+                <h3 class="comparison-title">Обобщени рейтинги на лидерите</h3>
+                <p class="comparison-subtitle">AI оценка по ключови критерии (0–100)</p>
+                <p class="comparison-note">Оценките са редакционно обобщение на съдържанието в отделните профили.
+                    Те не са прогноза за изборен резултат и не представляват неутрална институционална оценка.
+                    Общият рейтинг е синтез от позициите, скандалите, прозрачността и капацитета за управление,
+                    както са представени в тази методология.</p>
+
+                <div class="comparison-table-wrapper">
+                    <table class="comparison-table">
+                        <thead>
+                            <tr>
+                                <th>Критерий</th>
+                                <th><span class="ct-party">Румен Радев</span><span class="ct-party-sub">Прогресивна
+                                        България</span></th>
+                                <th><span class="ct-party ct-party--winner">Асен Василев</span><span
+                                        class="ct-party-sub">Продължаваме промяната</span></th>
+                                <th><span class="ct-party">Бойко Борисов</span><span class="ct-party-sub">ГЕРБ</span>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Проевропейска позиция</td>
+                                <td><span class="ct-score ct-score--mid">70</span></td>
+                                <td><span class="ct-score ct-score--high">90</span></td>
+                                <td><span class="ct-score ct-score--high">80</span></td>
+                            </tr>
+                            <tr>
+                                <td>Позиция по Украйна / Русия</td>
+                                <td><span class="ct-score ct-score--low">50</span></td>
+                                <td><span class="ct-score ct-score--high">95</span></td>
+                                <td><span class="ct-score ct-score--mid">60</span></td>
+                            </tr>
+                            <tr>
+                                <td>Позиция по конфликта САЩ / Израел–Иран</td>
+                                <td><span class="ct-score ct-score--mid">75</span></td>
+                                <td><span class="ct-score ct-score--high">85</span></td>
+                                <td><span class="ct-score ct-score--high">85</span></td>
+                            </tr>
+                            <tr>
+                                <td>Прозрачност и антикорупционни реформи</td>
+                                <td><span class="ct-score ct-score--low">40</span></td>
+                                <td><span class="ct-score ct-score--mid">75</span></td>
+                                <td><span class="ct-score ct-score--low">20</span></td>
+                            </tr>
+                            <tr>
+                                <td>Икономическа и енергийна политика</td>
+                                <td><span class="ct-score ct-score--low">55</span></td>
+                                <td><span class="ct-score ct-score--high">80</span></td>
+                                <td><span class="ct-score ct-score--mid">70</span></td>
+                            </tr>
+                            <tr>
+                                <td>Скандали и обвинения</td>
+                                <td><span class="ct-score ct-score--mid">60</span></td>
+                                <td><span class="ct-score ct-score--high">80</span></td>
+                                <td><span class="ct-score ct-score--low">30</span></td>
+                            </tr>
+                            <tr class="ct-row-total">
+                                <td>Общ рейтинг</td>
+                                <td><span class="ct-score ct-score--mid">58</span></td>
+                                <td><span class="ct-score ct-score--high">86 🏆</span></td>
+                                <td><span class="ct-score ct-score--low">48</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="comparison-analysis">
+                    <div class="ca-card">
+                        <div class="ca-card-header">
+                            <span class="ca-score ca-score--mid">58</span>
+                            <div>
+                                <div class="ca-name">Румен Радев</div>
+                                <div class="ca-party">Прогресивна България</div>
+                            </div>
+                        </div>
+                        <p><strong>Силни страни:</strong> Критичен поглед към ЕС по отделни въпроси, инициирал
+                            референдум за еврото.</p>
+                        <p><strong>Слаби страни:</strong> Амбивалентна позиция по Украйна, обвинения в проруска
+                            насоченост, липса на прозрачност при финансирането.</p>
+                        <p class="ca-verdict">Среден резултат според тази методология — има потенциал за реформи, но и
+                            много въпросителни около последователността.</p>
+                    </div>
+
+                    <div class="ca-card ca-card--winner">
+                        <div class="ca-card-header">
+                            <span class="ca-score ca-score--high">86</span>
+                            <div>
+                                <div class="ca-name">Асен Василев 🏆</div>
+                                <div class="ca-party">Продължаваме промяната</div>
+                            </div>
+                        </div>
+                        <p><strong>Силни страни:</strong> Най-последователната проевропейска и проатлантическа позиция.
+                            Радикални реформи в съдебната система, енергетиката и борбата с корупцията.</p>
+                        <p><strong>Слаби страни:</strong> Конфликти с институциите, обвинения в авторитаризъм, риск от
+                            политическа поляризация.</p>
+                        <p class="ca-verdict">Най-висок резултат според тази методология за последователна
+                            проевропейска и реформаторска политика.</p>
+                    </div>
+
+                    <div class="ca-card">
+                        <div class="ca-card-header">
+                            <span class="ca-score ca-score--low">48</span>
+                            <div>
+                                <div class="ca-name">Бойко Борисов</div>
+                                <div class="ca-party">ГЕРБ</div>
+                            </div>
+                        </div>
+                        <p><strong>Силни страни:</strong> Опит и стабилност, реализирани инфраструктурни проекти,
+                            подкрепа от бизнес елита.</p>
+                        <p><strong>Слаби страни:</strong> Многобройни корупционни скандали, контрол над медиите и
+                            институциите, амбивалентна позиция по Русия.</p>
+                        <p class="ca-verdict">Най-нисък резултат според тази методология при приоритети за
+                            прозрачност, реформи и последователна проевропейска политика.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="disclaimer">⚠️ Тази информация е неформатирана и нередактирана и е предоставена единствено от Mistral
+            Le Chat и Claude Opus/Sonnet 4.6.</p>
+    </main>
+</body>
+
+</html>
