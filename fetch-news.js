@@ -83,7 +83,7 @@ function fetchUrl(url, timeoutMs = 15000) {
 
 function parseRssXml(xml) {
   const items = [];
-  const itemRegex = /<item[^>]*>([\s\S]*?)<\/item>/g;
+  const itemRegex = /<item(?:\s[^>]*)?>([^]*?)<\/item>/g;
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
     const block = match[1];
