@@ -311,9 +311,9 @@
       }
     },
     {
-      "title": "If Dspy is so great, why isn't anyone using it?",
-      "link": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
-      "pubDate": "2026-03-23 14:52:52",
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "link": "https://twitter.com/anemll/status/2035901335984611412",
+      "pubDate": "2026-03-23 14:30:10",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -321,7 +321,37 @@
       }
     },
     {
-      "title": "Bombadil: Property-based testing for web UIs by Antithesis",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "pubDate": "2026-03-22 09:45:14",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+      "link": "https://github.com/jer-irl/threadprocs",
+      "pubDate": "2026-03-23 16:08:01",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+      "link": "https://www.cyber.mil/stigs/downloads",
+      "pubDate": "2026-03-23 15:25:04",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Bombadil: Property-based testing for web UIs",
       "link": "https://github.com/antithesishq/bombadil",
       "pubDate": "2026-03-19 08:53:36",
       "thumbnail": null,
@@ -331,39 +361,9 @@
       }
     },
     {
-      "title": "Study: 'Security Fatigue' May Weaken Digital Defenses",
-      "link": "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses",
-      "pubDate": "2026-03-23 14:36:30",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Migrating to the EU",
-      "link": "https://rz01.org/eu-migration/",
-      "pubDate": "2026-03-23 10:17:32",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-      "link": "https://indieweb.org/POSSE",
-      "pubDate": "2026-03-23 08:29:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Asian markets tumble, but Europe, US rally on Trump optimism",
-      "link": "https://www.dw.com/en/asian-markets-tumble-but-europe-us-rally-on-trump-optimism/a-76482613?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T11:43:00Z",
+      "title": "Colombia military plane crashes while transporting troops",
+      "link": "https://www.dw.com/en/colombia-military-plane-crashes-while-transporting-troops/a-76494785?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T18:27:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -371,9 +371,9 @@
       }
     },
     {
-      "title": "France: Former PM Lionel Jospin dies aged 88",
-      "link": "https://www.dw.com/en/france-former-pm-lionel-jospin-dies-aged-88/a-76485771?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T15:35:00Z",
+      "title": "EU reacts to &apos;concerning&apos; report of Hungarian leak to Russia",
+      "link": "https://www.dw.com/en/eu-reacts-to-concerning-report-of-hungarian-leak-to-russia/a-76494395?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T17:45:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -381,9 +381,9 @@
       }
     },
     {
-      "title": "Iran&apos;s energy sites still on Trump&apos;s target list",
-      "link": "https://www.dw.com/en/iran-s-energy-sites-still-on-trump-s-target-list/a-76480741?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T14:54:00Z",
+      "title": "Germany: Merz&apos;s government is running out of time",
+      "link": "https://www.dw.com/en/germany-merz-s-government-is-running-out-of-time/a-76494380?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T16:49:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -391,9 +391,9 @@
       }
     },
     {
-      "title": "Cuban Germans react to Trump&apos;s threats with hope and fear",
-      "link": "https://www.dw.com/en/cuban-germans-react-to-trump-s-threats-with-hope-and-fear/a-76485242?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T14:44:00Z",
+      "title": "Report: Hungary using more Russian oil, despite EU phase out",
+      "link": "https://www.dw.com/en/report-hungary-using-more-russian-oil-despite-eu-phase-out/a-76487750?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T16:23:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -401,9 +401,9 @@
       }
     },
     {
-      "title": "German court rejects climate case against BMW, Mercedes",
-      "link": "https://www.dw.com/en/german-court-rejects-climate-case-against-bmw-mercedes/a-76485571?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T12:49:00Z",
+      "title": "Italy&apos;s Meloni concedes defeat on judiciary referendum",
+      "link": "https://www.dw.com/en/italy-s-meloni-concedes-defeat-on-judiciary-referendum/a-76494232?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T16:22:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -411,5 +411,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-23T15:49:22.994Z"
+  "lastUpdated": "2026-03-23T18:36:24.454Z"
 }
