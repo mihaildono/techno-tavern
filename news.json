@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Облачно и дъждовно време и днес",
+      "link": "https://offnews.bg/obshtestvo/oblachno-i-dazhdovno-vreme-i-dnes-863465.html",
+      "pubDate": "2026-03-24 04:02:19",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/23/863465/phpgrvmau_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7256
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Алфа рисърч дава 29,4% на Радев, Маркет линкс - 24,4%",
       "link": "https://offnews.bg/politika/alfa-risarch-dava-29-4-na-radev-market-links-24-4-863503.html",
       "pubDate": "2026-03-23 19:43:44",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863503/phpxus1oy_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863503/phpxus1oy_559x345.jpg",
         "type": "image/jpeg",
         "length": 8093
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/sviat/pochina-sobstvenikat-na-sajta-za-vazrastni-onlyfans-863502.html",
       "pubDate": "2026-03-23 18:04:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863502/phpiz2mws_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863502/phpiz2mws_559x345.jpg",
         "type": "image/jpeg",
         "length": 5049
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/medii/bezkompromisna-i-drazka-kak-studentite-po-zhurnalistika-vizh-863500.html",
       "pubDate": "2026-03-23 17:54:35",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863500/php0wu7rh_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863500/php0wu7rh_559x345.jpg",
         "type": "image/jpeg",
         "length": 5960
       },
@@ -47,7 +61,7 @@
       "link": "https://offnews.bg/politika/pravim-shtab-za-borba-s-deziformatciata-i-hibridnite-ataki-za-izborite-863501.html",
       "pubDate": "2026-03-23 17:13:17",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863501/phpnp9igi_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863501/phpnp9igi_559x345.jpg",
         "type": "image/jpeg",
         "length": 6418
       },
@@ -57,74 +71,50 @@
       }
     },
     {
-      "title": "Нов скандал в Народния театър: Валери Йорданов призовава директора на диспут",
-      "link": "https://offnews.bg/kultura/nov-skandal-v-narodnia-teatar-valeri-jordanov-prizovava-direktora-na-863498.html",
-      "pubDate": "2026-03-23 16:21:48",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863498/phpedi62j_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 5592
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Румънци и българи са задържани с 1 млн. фалшиви евро",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/23/4895864_rumunci_i_bulgari_sa_zadurjani_s_1_mln_falshivi_evro/?ref=rss",
-      "pubDate": "2026-03-23 20:33:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4895863.jpg"
-      },
+      "title": "Гьозде Курал, режисьор: Вече не можем да говорим за свобода на словото",
+      "link": "https://www.dnevnik.bg/kultura/2026/03/24/4895773_gyozde_kural_rejisyor_veche_ne_mojem_da_govorim_za/?ref=rss",
+      "pubDate": "2026-03-24 04:44:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Израел ще продължи да удря по Иран и Ливан",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895861_izrael_shte_produlji_da_udria_po_iran_i_livan/?ref=rss",
-      "pubDate": "2026-03-23 20:23:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4895862.jpg"
-      },
+      "title": "Ударът срещу Иран пренасочи инвеститори към оръжейните компании",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/24/4892311_udarut_sreshtu_iran_prenasochi_investitori_kum/?ref=rss",
+      "pubDate": "2026-03-24 04:42:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "САЩ установиха дъмпинг при внос на българска стомана",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895853_sasht_ustanoviha_dumping_pri_vnos_na_bulgarska_stomana/?ref=rss",
-      "pubDate": "2026-03-23 19:54:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4895855.jpg"
-      },
+      "title": "Шампион, депутат, шампион, депутат: историята на спортистите в българския парламент",
+      "link": "https://www.dnevnik.bg/sport/2026/03/24/4895263_bulgarski_sportisti_v_parlamenta_v_ochakvane_na/?ref=rss",
+      "pubDate": "2026-03-24 04:38:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Подозрителни чанти спряха влаковете в Брюксел",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895849_podozritelni_chanti_spriaha_vlakovete_v_brjuksel/?ref=rss",
-      "pubDate": "2026-03-23 19:29:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4895852.jpg"
-      },
+      "title": "Млади британци все повече предпочитат да ходят на фитнес вместо по клубове",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/03/24/4895746_mladi_britanci_vse_poveche_predpochitat_da_hodiat_na/?ref=rss",
+      "pubDate": "2026-03-24 04:36:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Кабинетът работи по пакет мерки срещу покачването на цените",
-      "link": "https://www.dnevnik.bg/biznes/2026/03/23/4895851_kabinetut_raboti_po_paket_merki_sreshtu_pokachvaneto/?ref=rss",
-      "pubDate": "2026-03-23 19:16:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4895850.jpg"
-      },
+      "title": "Иран налага санкции на САЩ",
+      "link": "https://www.dnevnik.bg/analizi/2026/03/24/4895854_iran_nalaga_sankcii_na_sasht/?ref=rss",
+      "pubDate": "2026-03-24 04:25:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -196,10 +186,24 @@
       }
     },
     {
+      "title": "Бизнес закуска: 🥐 Тръмп заговори за сделка с Иран; \"Градус\" изкупи дела на съоснователя си Лука Ангелов",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/03/24/4895772_biznes_zakuska_trump_zagovori_za_mir_v_iran_gradus/?ref=rss",
+      "pubDate": "2026-03-24 04:30:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895811.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
       "title": "Снимка на деня: Мексико се подготвя за историческото домакинство на Световното първенство по футбол",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/03/23/4895559_snimka_na_denia_meksiko_se_podgotvia_za_istoricheskoto/?ref=rss",
       "pubDate": "2026-03-23 15:30:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895781.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -209,7 +213,9 @@
       "title": "Чрез свързани дружества \"Градус\" изкупи дела на съоснователя си Лука Ангелов",
       "link": "https://www.capital.bg/biznes/kompanii/2026/03/23/4895601_chrez_svurzani_drujestva_gradus_izkupi_dela_na/?ref=rss",
       "pubDate": "2026-03-23 15:15:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895607.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -219,7 +225,9 @@
       "title": "Liebherr инвестира 90 млн. евро в новата си база край Пловдив (обновена)",
       "link": "https://www.capital.bg/biznes/kompanii/2026/02/17/4882778_liebherr_investira_765_mln_evro_v_novata_si_baza_krai/?ref=rss",
       "pubDate": "2026-03-23 14:32:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4777667.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -229,91 +237,113 @@
       "title": "🇪🇺ЕС отблизо: Брюксел с нов опит за овладяване на цените на енергията; Държавите взимат национални мерки",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/23/4895760_es_otblizo_brjuksel_s_nov_opit_za_ovladiavane_na/?ref=rss",
       "pubDate": "2026-03-23 14:02:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895753.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Имоти | Обновяване на сгради за 20 млрд. евро; Спад при сделките с имоти; Отвориха географски данни за София",
-      "link": "https://www.capital.bg/biznes/imoti/2026/03/23/4889487_imoti_obnoviavane_na_sgradi_za_20_mlrd_evro_spad_pri/?ref=rss",
-      "pubDate": "2026-03-23 13:11:00",
+      "title": "Журналисти от \"Гласът на Америка\": Тръмп цели контрол над съдържанието",
+      "link": "https://www.actualno.com/america/jurnalisti-ot-glasyt-na-amerika-trymp-celi-kontrol-nad-sydyrjanieto-news_2572289.html",
+      "pubDate": "2026-03-24 04:37:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/ebfc227e107868c0a7a735dcbcae5dd1_2572289_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Дъжд от руски дронове и ракети засипа Украйна, цел изглежда е Киевският язовир. Загинали в Запорожие, Полтава и Севастопол (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/dyjd-ot-ruski-dronove-i-raketi-zasipa-ukrajna-cel-izglejda-e-kievskijat-jazovir-zaginali-v-zaporojie-poltava-i-sevastopol-video-news_2572288.html",
+      "pubDate": "2026-03-24 04:31:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/4f5273dcfae0f49d53b703bcb7411f87_2572288_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Нова революция: Мъск изстрелва центрове за данни в Космоса (СНИМКА)",
+      "link": "https://www.actualno.com/sciencelogy/nova-revolucija-mysk-izstrelva-centrove-za-danni-v-kosmosa-snimka-news_2572287.html",
+      "pubDate": "2026-03-24 04:19:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/7aec2b4d4edfc8d56a8bc4fdfdd43b4f_2572287_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Благомир Коцев се изправя пред съда",
+      "link": "https://www.actualno.com/crime/blagomir-kocev-se-izpravja-pred-syda-news_2572286.html",
+      "pubDate": "2026-03-24 04:16:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/656e25b45c1e6597352af689a30c0444_2572286_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Сенатът на САЩ утвърди човек на Тръмп за нов МВР министър",
+      "link": "https://www.actualno.com/america/senatyt-na-sasht-utvyrdi-chovek-na-trymp-za-nov-mvr-ministyr-news_2572283.html",
+      "pubDate": "2026-03-24 04:10:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/e143db305405f20ae03a3ea778a05672_2572283_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "link": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "pubDate": "2026-03-23 12:42:00",
       "thumbnail": null,
       "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "WSJ: Иран е поставил тежки условия за прекратяване на войната в Близкия изток",
-      "link": "https://www.actualno.com/asia/wsj-iran-e-postavil-tejki-uslovija-za-prekratjavane-na-vojnata-v-blizkija-iztok-news_2572275.html",
-      "pubDate": "2026-03-23 23:57:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/d2e5d17d56b36d87f977405b5f87ade3_2572275_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Украйна атакува Севастопол, по руска телевизия зоват за атака срещу НАТО (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/ukrajna-atakuva-sevastopol-po-ruska-televizija-zovat-za-ataka-sreshtu-nato-video-news_2572274.html",
-      "pubDate": "2026-03-23 23:32:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/3bb7d372a4f590961a58c140e217aa8b_2572274_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Напук на съобщенията за преговори: Хиляди американски военни пътуват към Близкия изток (ВИДЕО)",
-      "link": "https://www.actualno.com/asia/napuk-na-syobshtenijata-za-pregovori-hiljadi-amerikanski-voenni-pytuvat-kym-blizkija-iztok-video-news_2572272.html",
-      "pubDate": "2026-03-23 23:15:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/94572f0155f20ce5169b8c3b02cbfc5a_2572272_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "След разкритията: Орбан ще разследва дали Русия е подслушвала телефона на Сиярто",
-      "link": "https://www.actualno.com/europe/sled-razkritijata-orban-shte-razsledva-dali-rusija-e-podslushvala-telefona-na-sijarto-news_2572268.html",
-      "pubDate": "2026-03-23 22:43:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/d8091cf366f9a5cbc928b7fb8b56b9df_2572268_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 24 март /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-24-mart-valuten-kalkulator-news_2572264.html",
-      "pubDate": "2026-03-23 22:35:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/img_69c1b7e3f07b1_2572264_920x708.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
       "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
       "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
       "pubDate": "2026-03-24 01:53:09",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Log File Viewer for the Terminal",
+      "link": "https://lnav.org/",
+      "pubDate": "2026-03-24 05:32:53",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "BIO – The Bao I/O Co-Processor",
+      "link": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
+      "pubDate": "2026-03-21 18:21:01",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,33 +361,23 @@
       }
     },
     {
-      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "pubDate": "2026-03-23 21:28:02",
+      "title": "Three Indian cities among top four most polluted, says report",
+      "link": "https://www.dw.com/en/three-indian-cities-among-top-four-most-polluted-says-report/live-76497643?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-24T06:39:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "link": "https://twitter.com/anemll/status/2035901335984611412",
-      "pubDate": "2026-03-23 14:30:10",
+      "title": "Iran war: US and Iran at odds over peace talks",
+      "link": "https://www.dw.com/en/iran-war-us-and-iran-at-odds-over-peace-talks/live-76497473?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-24T04:48:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "link": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-      "pubDate": "2026-03-20 12:02:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -389,27 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Argentina&apos;s &apos;Dirty War&apos; still on trial 50 years later",
-      "link": "https://www.dw.com/en/argentina-s-dirty-war-still-on-trial-50-years-later/a-76453903?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T23:22:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ukraine nationals detained in India: Is Russia involved?",
-      "link": "https://www.dw.com/en/ukraine-nationals-detained-in-india-is-russia-involved/a-76495069?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T20:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-24T04:46:19.968Z"
+  "lastUpdated": "2026-03-24T06:47:55.275Z"
 }
