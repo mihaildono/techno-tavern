@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Алфа рисърч дава 29,4% на Радев, Маркет линкс - 24,4%",
+      "link": "https://offnews.bg/politika/alfa-risarch-dava-29-4-na-radev-market-links-24-4-863503.html",
+      "pubDate": "2026-03-23 19:43:44",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/23/863503/phpxus1oy_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 8093
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Почина собственикът на сайта за възрастни OnlyFans",
       "link": "https://offnews.bg/sviat/pochina-sobstvenikat-na-sajta-za-vazrastni-onlyfans-863502.html",
       "pubDate": "2026-03-23 18:04:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863502/phpiz2mws_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863502/phpiz2mws_152x158.jpg",
         "type": "image/jpeg",
         "length": 5049
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/medii/bezkompromisna-i-drazka-kak-studentite-po-zhurnalistika-vizh-863500.html",
       "pubDate": "2026-03-23 17:54:35",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863500/php0wu7rh_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863500/php0wu7rh_152x158.jpg",
         "type": "image/jpeg",
         "length": 5960
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/politika/pravim-shtab-za-borba-s-deziformatciata-i-hibridnite-ataki-za-izborite-863501.html",
       "pubDate": "2026-03-23 17:13:17",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863501/phpnp9igi_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863501/phpnp9igi_152x158.jpg",
         "type": "image/jpeg",
         "length": 6418
       },
@@ -47,7 +61,7 @@
       "link": "https://offnews.bg/kultura/nov-skandal-v-narodnia-teatar-valeri-jordanov-prizovava-direktora-na-863498.html",
       "pubDate": "2026-03-23 16:21:48",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863498/phpedi62j_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/03/23/863498/phpedi62j_152x158.jpg",
         "type": "image/jpeg",
         "length": 5592
       },
@@ -57,64 +71,60 @@
       }
     },
     {
-      "title": "Мелони призна загуба на референдума в Италия",
-      "link": "https://offnews.bg/sviat/meloni-prizna-zaguba-na-referenduma-v-italia-863499.html",
-      "pubDate": "2026-03-23 16:13:05",
+      "title": "Румънци и българи са задържани с 1 млн. фалшиви евро",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/23/4895864_rumunci_i_bulgari_sa_zadurjani_s_1_mln_falshivi_evro/?ref=rss",
+      "pubDate": "2026-03-23 20:33:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/23/863499/phpwhjdpc_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5327
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4895863.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Във външно ке работи механизъм срещу хибридни заплахи",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/23/4895834_vuv_vunshno_ke_raboti_mehanizum_sreshtu_hibridni/?ref=rss",
-      "pubDate": "2026-03-23 18:24:00",
-      "thumbnail": null,
+      "title": "Израел ще продължи да удря по Иран и Ливан",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895861_izrael_shte_produlji_da_udria_po_iran_i_livan/?ref=rss",
+      "pubDate": "2026-03-23 20:23:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4895862.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Държавата пусна ДЦК за 150 млн. евро",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/23/4895828_durjavata_pusna_dck_za_150_mln_evro/?ref=rss",
-      "pubDate": "2026-03-23 18:07:00",
-      "thumbnail": null,
+      "title": "САЩ установиха дъмпинг при внос на българска стомана",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895853_sasht_ustanoviha_dumping_pri_vnos_na_bulgarska_stomana/?ref=rss",
+      "pubDate": "2026-03-23 19:54:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4895855.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Гърция купува ПВО защита от дронове",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895821_gurciia_kupuva_pvo_zashtita_ot_dronove/?ref=rss",
-      "pubDate": "2026-03-23 17:32:00",
-      "thumbnail": null,
+      "title": "Подозрителни чанти спряха влаковете в Брюксел",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/23/4895849_podozritelni_chanti_spriaha_vlakovete_v_brjuksel/?ref=rss",
+      "pubDate": "2026-03-23 19:29:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4895852.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "\"Спаси София\" започва петиция за пускане на автобус 220",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/23/4895820_spasi_sofiia_zapochva_peticiia_za_puskane_na_avtobus/?ref=rss",
-      "pubDate": "2026-03-23 17:17:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Спецпратеникът на ЕС за Кипър напусна поста",
-      "link": "https://www.dnevnik.bg/evropa/2026/03/23/4895816_specpratenikut_na_es_za_kipur_napusna_posta/?ref=rss",
-      "pubDate": "2026-03-23 17:05:00",
-      "thumbnail": null,
+      "title": "Кабинетът работи по пакет мерки срещу покачването на цените",
+      "link": "https://www.dnevnik.bg/biznes/2026/03/23/4895851_kabinetut_raboti_po_paket_merki_sreshtu_pokachvaneto/?ref=rss",
+      "pubDate": "2026-03-23 19:16:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4895850.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -236,11 +246,11 @@
       }
     },
     {
-      "title": "При акция на ГДБОП в София: Откриха фалшиви банкноти на стойност 1 млн. евро",
-      "link": "https://www.actualno.com/crime/pri-akcija-na-gdbop-v-sofija-otkriha-falshivi-banknoti-na-stojnost-1-mln-evro-news_2572236.html",
-      "pubDate": "2026-03-23 18:30:00",
+      "title": "WSJ: Иран е поставил тежки условия за прекратяване на войната в Близкия изток",
+      "link": "https://www.actualno.com/asia/wsj-iran-e-postavil-tejki-uslovija-za-prekratjavane-na-vojnata-v-blizkija-iztok-news_2572275.html",
+      "pubDate": "2026-03-23 23:57:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/23/09a602c5becc2eb803ee9d85bd797db4_2572236_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/d2e5d17d56b36d87f977405b5f87ade3_2572275_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -249,11 +259,11 @@
       }
     },
     {
-      "title": "Пореден трус: Кели Озбърн и годеникът ѝ се разделиха",
-      "link": "https://www.actualno.com/showbusiness/poreden-trus-keli-ozbyrn-i-godenikyt-se-razdeliha-news_2572234.html",
-      "pubDate": "2026-03-23 18:24:00",
+      "title": "Украйна атакува Севастопол, по руска телевизия зоват за атака срещу НАТО (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ukrajna-atakuva-sevastopol-po-ruska-televizija-zovat-za-ataka-sreshtu-nato-video-news_2572274.html",
+      "pubDate": "2026-03-23 23:32:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/23/8a44cf118fc2c592679ed05b990224ee_2572234_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/3bb7d372a4f590961a58c140e217aa8b_2572274_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -262,11 +272,11 @@
       }
     },
     {
-      "title": "Експерт: Брюкселските чиновници най-накрая осъзнаха, че отказът от ядрената енергия е стратегическа грешка",
-      "link": "https://www.actualno.com/economy/ekspert-brukselskite-chinovnici-naj-nakraja-osyznaha-che-otkazyt-ot-jadrenata-energija-e-strategicheska-greshka-news_2572222.html",
-      "pubDate": "2026-03-23 18:10:00",
+      "title": "Напук на съобщенията за преговори: Хиляди американски военни пътуват към Близкия изток (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/napuk-na-syobshtenijata-za-pregovori-hiljadi-amerikanski-voenni-pytuvat-kym-blizkija-iztok-video-news_2572272.html",
+      "pubDate": "2026-03-23 23:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/23/dd23d7329a2ccf1d6d1fd0fa4e3321d5_2572222_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/94572f0155f20ce5169b8c3b02cbfc5a_2572272_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -275,11 +285,11 @@
       }
     },
     {
-      "title": "За изборите: България създава щаб за борба с дезинформацията, поиска помощ от ЕК",
-      "link": "https://www.actualno.com/politics/za-izborite-bylgarija-syzdava-shtab-za-borba-s-dezinformacijata-poiska-pomosht-ot-ek-news_2572218.html",
-      "pubDate": "2026-03-23 17:50:00",
+      "title": "След разкритията: Орбан ще разследва дали Русия е подслушвала телефона на Сиярто",
+      "link": "https://www.actualno.com/europe/sled-razkritijata-orban-shte-razsledva-dali-rusija-e-podslushvala-telefona-na-sijarto-news_2572268.html",
+      "pubDate": "2026-03-23 22:43:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/23/52164c529dfb98780b790a7cd0349766_2572218_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/d8091cf366f9a5cbc928b7fb8b56b9df_2572268_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -288,16 +298,36 @@
       }
     },
     {
-      "title": "Специални събития в НАТФИЗ: София Филм Фест си партнира с OPEN SPACE Foundation",
-      "link": "https://www.actualno.com/cinema/specialni-sybitija-v-natfiz-sofija-film-fest-si-partnira-s-open-space-foundation-news_2572221.html",
-      "pubDate": "2026-03-23 17:42:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 24 март /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-24-mart-valuten-kalkulator-news_2572264.html",
+      "pubDate": "2026-03-23 22:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/23/f37cf06f161466ddb777b3713ce31801_2572221_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/24/img_69c1b7e3f07b1_2572264_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "link": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "pubDate": "2026-03-23 22:52:35",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "pubDate": "2026-03-23 21:28:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -321,9 +351,9 @@
       }
     },
     {
-      "title": "Local Stack Archived their GitHub repo and requires an account to run",
-      "link": "https://github.com/localstack/localstack",
-      "pubDate": "2026-03-23 18:57:08",
+      "title": "Ju Ci: The Art of Repairing Porcelain",
+      "link": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "pubDate": "2026-03-21 15:07:29",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,23 +361,23 @@
       }
     },
     {
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "pubDate": "2026-03-22 09:45:14",
+      "title": "UK police see antisemitic motive in arson of ambulances",
+      "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T23:57:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Finding all regex matches has always been O(n²)",
-      "link": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "pubDate": "2026-03-19 18:40:02",
+      "title": "Argentina&apos;s &apos;Dirty War&apos; still on trial 50 years later",
+      "link": "https://www.dw.com/en/argentina-s-dirty-war-still-on-trial-50-years-later/a-76453903?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-23T23:22:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -379,27 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany: Merz&apos;s government is running out of time",
-      "link": "https://www.dw.com/en/germany-merz-s-government-is-running-out-of-time/a-76494380?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T16:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Report: Hungary using more Russian oil, despite EU phase out",
-      "link": "https://www.dw.com/en/report-hungary-using-more-russian-oil-despite-eu-phase-out/a-76487750?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-23T16:23:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-23T21:24:25.056Z"
+  "lastUpdated": "2026-03-24T00:56:28.306Z"
 }
