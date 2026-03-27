@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Дъждовен петък с максимални температури между 11° и 16°",
+      "link": "https://offnews.bg/obshtestvo/dazhdoven-petak-s-maksimalni-temperaturi-mezhdu-11-i-16-863692.html",
+      "pubDate": "2026-03-27 04:07:34",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/26/863692/phpzefiwt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6579
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "СДВР още издирва жената, намушкала четирима германци (СНИМКА)",
       "link": "https://offnews.bg/112/sdvr-oshte-izdirva-zhenata-namushkala-chetirima-germantci-snimka-863722.html",
       "pubDate": "2026-03-26 21:32:00",
@@ -57,74 +71,50 @@
       }
     },
     {
-      "title": "''Дишайте във врата на лошите'' - как полицията да се бори с купувачите на гласове (видео)",
-      "link": "https://offnews.bg/obshtestvo/dishajte-vav-vrata-na-loshite-kak-politciata-da-se-bori-s-kupuva-863717.html",
-      "pubDate": "2026-03-26 18:37:46",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/26/863717/phpyhybkv_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5108
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Полицията търси помощ за намирането на жената, намушкала четирима чужденци в София",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/27/4897006_policiiata_tursi_pomosht_za_namiraneta_na_jenata/?ref=rss",
-      "pubDate": "2026-03-26 22:47:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4897005.jpg"
-      },
+      "title": "Започва делото за предсрочното освобождаване на Евелин Банев - Брендо",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/27/4896952_zapochva_deloto_za_predsrochnoto_osvobojdavane_na/?ref=rss",
+      "pubDate": "2026-03-27 04:52:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Ето кои осем отбора от Европа запазиха шанс да се класират на световното по футбол",
-      "link": "https://www.dnevnik.bg/sport/futbol/2026/03/27/4897003_eto_koi_osem_otbora_ot_evropa_zapaziha_shans_da_se/?ref=rss",
-      "pubDate": "2026-03-26 22:39:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4897002.jpg"
-      },
+      "title": "Спестяванията в банките продължават да растат и през първите месеци с евро",
+      "link": "https://www.dnevnik.bg/biznes/2026/03/27/4896918_spestiavaniiata_v_bankite_produljavat_da_rastat_i_prez/?ref=rss",
+      "pubDate": "2026-03-27 04:45:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Ритъмът на джунглата",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/03/27/4896559_ritumut_na_djunglata/?ref=rss",
-      "pubDate": "2026-03-26 22:07:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4896558.jpg"
-      },
+      "title": "\"Незабавно прехвърляне\": Варна е опитала да прикрие провал в транспортен проект за над 150 млн. лв.",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/27/4895876_nezabavno_prehvurliane_kak_varna_e_opitala_da_prikrie/?ref=rss",
+      "pubDate": "2026-03-27 04:39:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Те ще те убият",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/03/27/4871179_te_shte_te_ubiiat/?ref=rss",
-      "pubDate": "2026-03-26 22:02:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4871178.jpg"
-      },
+      "title": "Доктор от библиотеката: как парламентът създаде нов конкурент на университетите",
+      "link": "https://www.dnevnik.bg/obrazovanie/2026/03/27/4895684_doktor_ot_bibliotekata_kak_parlamentut_suzdade_nov/?ref=rss",
+      "pubDate": "2026-03-27 04:34:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Как хакнахме матурите",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/03/27/4896556_kak_haknahme_maturite/?ref=rss",
-      "pubDate": "2026-03-26 22:02:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4896554.jpg"
-      },
+      "title": "Фотогалерия: Уличната бензиностанция на Маруа",
+      "link": "https://www.dnevnik.bg/photos/2026/03/27/4896832_fotogaleriia_ulichnata_benzinostanciia_na_marua/?ref=rss",
+      "pubDate": "2026-03-27 04:30:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -196,50 +186,60 @@
       }
     },
     {
-      "title": "HR новини: ✔Разходите за труд в България растат; Прозрачността на заплатите става глобален стандарт",
-      "link": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/03/26/4896836_hr_novini_razhodite_za_trud_v_bulgariia_rastat/?ref=rss",
-      "pubDate": "2026-03-26 16:30:00",
-      "thumbnail": null,
+      "title": "Сърбия засилва армията си и страховете сред съседите си на Балканите",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/27/4896363_surbiia_zasilva_armiiata_si_i_strahovete_sred_susedite/?ref=rss",
+      "pubDate": "2026-03-27 04:37:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4896396.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Коментар | Клети нормотворци: Министърът да обнародва закон в Държавен вестник",
-      "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/03/26/4896951_komentar_kleti_normotvorci_ministurut_da_obnarodva/?ref=rss",
-      "pubDate": "2026-03-26 16:23:00",
-      "thumbnail": null,
+      "title": "Ударът срещу световната икономика",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/27/4892881_udarut_sreshtu_svetovnata_ikonomika/?ref=rss",
+      "pubDate": "2026-03-27 04:27:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4896795.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "\"HOLIDAY PARK Враца\" отвори врати",
-      "link": "https://www.capital.bg/biznes/kompanii/2026/03/26/4896905_holiday_park_vraca_otvori_vrati/?ref=rss",
-      "pubDate": "2026-03-26 15:30:00",
-      "thumbnail": null,
+      "title": "От карбамид, през алуминий и хелий - суровините остават блокирани заради войната в Залива",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/27/4895596_ot_karbamid_prez_aluminii_i_helii_-_surovinite_ostavat/?ref=rss",
+      "pubDate": "2026-03-27 04:17:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895618.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Снимка на деня: Мелания Тръмп е домакин на срещата на върха на Глобалната коалиция \"Да изградим заедно бъдещето\"",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/03/26/4896652_snimka_na_denia_melaniia_trump_e_domakin_sreshtata_na/?ref=rss",
-      "pubDate": "2026-03-26 15:09:00",
-      "thumbnail": null,
+      "title": "Бизнес закуска: 🥐 Кои са любимите общини по разплатени средства; BYD официално стъпи в България; \"Фантастико\" открива първи магазин в Пловдив",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/03/27/4896928_biznes_zakuska_koi_sa_ljubimite_obshtini_po_razplateni/?ref=rss",
+      "pubDate": "2026-03-27 04:15:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4896962.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Важните новини през седмицата",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/03/26/4896224_vajnite_novini_prez_sedmicata/?ref=rss",
-      "pubDate": "2026-03-26 15:05:00",
-      "thumbnail": null,
+      "title": "От Иран до България: шок по веригата",
+      "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/03/27/4896497_ot_iran_do_bulgariia_shok_po_verigata/?ref=rss",
+      "pubDate": "2026-03-27 04:12:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4896601.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -311,9 +311,9 @@
       }
     },
     {
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "pubDate": "2026-03-26 22:41:25",
+      "title": "Schedule tasks on the web",
+      "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "pubDate": "2026-03-27 04:47:15",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,9 +341,9 @@
       }
     },
     {
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "link": "https://www.symbolica.ai/blog/arc-agi-3",
-      "pubDate": "2026-03-27 01:32:10",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "pubDate": "2026-03-26 22:41:25",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -351,9 +351,9 @@
       }
     },
     {
-      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-      "link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-      "pubDate": "2026-03-26 23:33:53",
+      "title": "Agent-to-agent pair programming",
+      "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+      "pubDate": "2026-03-27 01:47:55",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -411,5 +411,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-27T05:00:06.609Z"
+  "lastUpdated": "2026-03-27T06:53:38.939Z"
 }
