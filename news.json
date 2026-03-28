@@ -301,9 +301,9 @@
       }
     },
     {
-      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-      "link": "https://github.com/EnriqueLop/legalize-es",
-      "pubDate": "2026-03-28 12:01:27",
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "pubDate": "2026-03-28 14:08:33",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -311,9 +311,9 @@
       }
     },
     {
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "link": "https://grid.iamkate.com/",
-      "pubDate": "2026-03-28 11:06:44",
+      "title": "Linux is an interpreter",
+      "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "pubDate": "2026-03-28 16:59:34",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,6 +331,16 @@
       }
     },
     {
+      "title": "Spanish legislation as a Git repo",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "pubDate": "2026-03-28 12:01:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
       "link": "https://github.com/J-x-Z/cocoa-way",
       "pubDate": "2026-03-28 10:06:13",
@@ -341,13 +351,33 @@
       }
     },
     {
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "pubDate": "2026-03-28 08:06:19",
+      "title": "Nestle says thieves stole 12 tons of KitKat chocolate bars",
+      "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T17:50:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Paris: Suspected bomb attack outside Bank of America foiled",
+      "link": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T17:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Belgium&apos;s state-owned railway shines light on Holocaust role",
+      "link": "https://www.dw.com/en/belgium-s-state-owned-railway-shines-light-on-holocaust-role/a-76560363?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T15:34:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -369,37 +399,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Pope Leo tells Monaco to use &apos;gift of smallness&apos; for good",
-      "link": "https://www.dw.com/en/pope-leo-tells-monaco-to-use-gift-of-smallness-for-good/a-76577459?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-28T11:45:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: 13-year-old boy killed in Witten stabbing",
-      "link": "https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-28T11:34:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Earth Hour: Monuments to go dark as 20th edition kicks off",
-      "link": "https://www.dw.com/en/earth-hour-monuments-to-go-dark-as-20th-edition-kicks-off/a-76576232?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-28T09:31:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-28T15:18:24.821Z"
+  "lastUpdated": "2026-03-28T18:21:53.860Z"
 }
