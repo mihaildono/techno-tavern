@@ -311,7 +311,27 @@
       }
     },
     {
-      "title": "Make macOS consistently bad (unironically)",
+      "title": "Don't YOLO your file system",
+      "link": "https://jai.scs.stanford.edu/",
+      "pubDate": "2026-03-28 00:39:54",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "pubDate": "2026-03-28 02:17:04",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Make macOS consistently bad unironically",
       "link": "https://lr0.org/blog/p/macos/",
       "pubDate": "2026-03-27 19:15:19",
       "thumbnail": null,
@@ -321,9 +341,9 @@
       }
     },
     {
-      "title": "Improving Composer through real-time RL",
-      "link": "https://cursor.com/blog/real-time-rl-for-composer",
-      "pubDate": "2026-03-26 16:48:12",
+      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "link": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
+      "pubDate": "2026-03-23 21:18:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,9 +351,9 @@
       }
     },
     {
-      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-      "link": "https://twitchroulette.net/",
-      "pubDate": "2026-03-27 22:22:20",
+      "title": "Anatomy of the .claude/ folder",
+      "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "pubDate": "2026-03-27 14:35:45",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,23 +361,33 @@
       }
     },
     {
-      "title": "ISBN Visualization",
-      "link": "https://annas-archive.gd/isbn-visualization?",
-      "pubDate": "2026-03-27 20:02:05",
+      "title": "Bank of America settles Epstein case for $72.5 million",
+      "link": "https://www.dw.com/en/bank-of-america-settles-epstein-case-for-72-5-million/a-76573867?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T04:38:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "link": "https://github.com/davidmonterocrespo24/velxio",
-      "pubDate": "2026-03-27 20:44:33",
+      "title": "Iran war: US troops wounded in strike on Saudi base",
+      "link": "https://www.dw.com/en/iran-war-us-troops-wounded-in-strike-on-saudi-base/live-76573681?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T02:58:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Nepal: Former PM Oli arrested over deadly protests",
+      "link": "https://www.dw.com/en/nepal-former-pm-oli-arrested-over-deadly-protests/a-76573671?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-28T01:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -379,37 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "US Republicans reject Senate bill to end shutdown, fund TSA",
-      "link": "https://www.dw.com/en/us-republicans-reject-senate-bill-to-end-shutdown-fund-tsa/a-76564649?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-27T21:18:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iranians suffer from internet blackout as well as US-Israeli strikes",
-      "link": "https://www.dw.com/en/iranians-suffer-from-internet-blackout-as-well-as-us-israeli-strikes/a-76571737?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-27T20:16:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Syria: Wives of the missing push for legal reform",
-      "link": "https://www.dw.com/en/syria-wives-of-the-missing-push-for-legal-reform/a-76569247?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-27T19:47:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-28T01:00:39.468Z"
+  "lastUpdated": "2026-03-28T04:46:22.890Z"
 }
