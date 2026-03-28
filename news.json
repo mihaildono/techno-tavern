@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Дъжд в цялата страна, сняг в планините",
+      "link": "https://offnews.bg/obshtestvo/dazhd-v-tcialata-strana-sniag-v-planinite-863767.html",
+      "pubDate": "2026-03-28 04:39:13",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/28/863767/phpvvdtje_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8701
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Албена, Бойко и Боян са именици днес",
+      "link": "https://offnews.bg/obshtestvo/albena-bojko-i-boian-sa-imenitci-dnes-700162.html",
+      "pubDate": "2026-03-28 04:11:17",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2019/03/28/700162/phprjybn4_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7574
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Пиеса за абсурдите на комунизма спечели ИКАР за най-добър спектакъл",
       "link": "https://offnews.bg/kultura/piesa-za-absurdite-na-komunizma-specheli-ikar-za-naj-dobar-spektakal-863796.html",
       "pubDate": "2026-03-27 21:17:52",
@@ -43,40 +71,40 @@
       }
     },
     {
-      "title": "КЗП уличи банки в неправомерно вдигане на лихвите по студентски кредити",
-      "link": "https://offnews.bg/obshtestvo/kzp-ulichi-banki-v-nepravomerno-vdigane-na-lihvite-po-studentski-kredi-863809.html",
-      "pubDate": "2026-03-27 18:17:35",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/27/863809/phpy6ouuf_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5521
-      },
+      "title": "Дезинформация по-заразна от морбили: как здравни медиатори разбиват митове за ваксините",
+      "link": "https://www.dnevnik.bg/zdrave/2026/03/28/4896534_dezinformaciia_po-zarazna_ot_morbili_kak_zdravni/?ref=rss",
+      "pubDate": "2026-03-28 04:34:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "91% от левовете вече са изтеглени от обращение",
-      "link": "https://offnews.bg/ikonomika/91-ot-levovete-veche-sa-iztegleni-ot-obrashtenie-863808.html",
-      "pubDate": "2026-03-27 18:02:08",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/27/863808/phpmiqwr6_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7532
-      },
+      "title": "Двуцифрени ще са максималните температури днес",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/28/4897380_dvucifreni_shte_sa_maksimalnite_temperaturi_dnes/?ref=rss",
+      "pubDate": "2026-03-28 04:01:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Бързи новини (28 март)",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/03/28/4897263_burzi_novini_28_mart/?ref=rss",
+      "pubDate": "2026-03-28 04:00:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
       "title": "\"Две сватби\" на Златю Бояджиев е продадена на търг за рекордните 280 хил. евро",
       "link": "https://www.dnevnik.bg/kultura/2026/03/27/4897379_dve_svatbi_na_zlatju_boiadjiev_e_prodadena_na_turg_za/?ref=rss",
       "pubDate": "2026-03-27 21:42:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4890843.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -86,45 +114,7 @@
       "title": "\"Холдинг БДЖ\" има нов изпълнителен директор",
       "link": "https://www.dnevnik.bg/biznes/2026/03/27/4897378_holding_bdj_ima_nov_izpulnitelen_direktor/?ref=rss",
       "pubDate": "2026-03-27 21:11:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4894857.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Антиизраелски протест се проведе пред Софийския университет",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/27/4897375_antiizraelski_protest_se_provede_pred_sofiiskiia/?ref=rss",
-      "pubDate": "2026-03-27 20:51:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4897374.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "\"Берлин, Берлин\" триумфира на наградите \"Икар 2026\": пълен списък на победителите",
-      "link": "https://www.dnevnik.bg/kultura/2026/03/27/4897160_berlin_berlin_triumfira_na_nagradite_ikar_2026_pulen/?ref=rss",
-      "pubDate": "2026-03-27 20:39:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4897383.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Националното хранилище за радиоактивни отпадъци получава Акт 16",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/03/27/4897348_nacionalnoto_hranilishte_za_radioaktivni_otpaduci/?ref=rss",
-      "pubDate": "2026-03-27 20:25:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4897368.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -246,6 +236,19 @@
       }
     },
     {
+      "title": "Кой има имен ден днес, 28 март 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-28-mart-2026-g-chestito-news_2574255.html",
+      "pubDate": "2026-03-28 03:55:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/27/f04b6c1e6bc2e01f59cba8b0bd704c43_2574255_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
       "title": "Иран нанесе удар по американска база в Саудитска Арабия, има тежко ранени военни (ВИДЕО)",
       "link": "https://www.actualno.com/asia/iran-nanese-udar-po-amerikanska-baza-v-sauditska-arabija-ima-tejko-raneni-voenni-video-news_2574422.html",
       "pubDate": "2026-03-27 23:59:00",
@@ -298,20 +301,7 @@
       }
     },
     {
-      "title": "Долар - евро. Колко струва един щатски долар към едно евро днес, 28 март /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/dolar-evro-kolko-struva-edin-shtatski-dolar-kym-edno-evro-dnes-28-mart-valuten-kalkulator-news_2574409.html",
-      "pubDate": "2026-03-27 22:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/img_69c6fde341b68_2574409_920x708.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Don't YOLO your file system",
+      "title": "Go hard on agents, not on your filesystem",
       "link": "https://jai.scs.stanford.edu/",
       "pubDate": "2026-03-28 00:39:54",
       "thumbnail": null,
@@ -411,5 +401,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-28T04:46:22.890Z"
+  "lastUpdated": "2026-03-28T06:42:36.319Z"
 }
