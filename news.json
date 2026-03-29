@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Жълт код за обилни валежи в 9 области",
+      "link": "https://offnews.bg/obshtestvo/zhalt-kod-za-obilni-valezhi-v-9-oblasti-863849.html",
+      "pubDate": "2026-03-29 04:45:09",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/03/29/863849/phpcgbqxg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7756
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Актьорът Константин Таквор срещнал нападателката на 4-мата чужденци часове преди инцидентите",
       "link": "https://offnews.bg/obshtestvo/aktiorat-konstantin-takvor-sreshtnal-napadatelkata-na-4-mata-chuzhdent-863847.html",
       "pubDate": "2026-03-28 19:37:31",
@@ -57,23 +71,9 @@
       }
     },
     {
-      "title": "Над 20 000 души дариха за бивш унгарски полицай, разкрил ''Орбангейт'' срещу унгарската опозиция",
-      "link": "https://offnews.bg/sviat/nad-20-000-dushi-dariha-za-bivsh-ungarski-politcaj-razkril-orbangej-863844.html",
-      "pubDate": "2026-03-28 17:11:50",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/03/28/863844/phph7bf3f_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5851
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Хутите се включиха от Йемен в конфликта с две ракети срещу Израел",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/28/4897491_hutite_se_vkljuchiha_ot_iemen_v_konflikta_s_dve_raketi/?ref=rss",
-      "pubDate": "2026-03-28 19:17:00",
+      "title": "Пропиленият шанс: Кухи договори и административен разпад в национален фонд \"Култура\"",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/03/29/4896992_propileniiat_shans_kuhi_dogovori_i_administrativen/?ref=rss",
+      "pubDate": "2026-03-29 04:45:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -81,9 +81,9 @@
       }
     },
     {
-      "title": "От \"наранен Саддам\" до гражданска война - кои са четирите сценария пред Иран",
-      "link": "https://www.dnevnik.bg/sviat/2026/03/28/4897474_neshto_kato_naranen_saddam_neshto_kato_grajdanska/?ref=rss",
-      "pubDate": "2026-03-28 17:35:00",
+      "title": "Преяли и ръждясали",
+      "link": "https://www.dnevnik.bg/analizi/2026/03/29/4897490_preiali_i_rujdiasali/?ref=rss",
+      "pubDate": "2026-03-29 04:17:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -91,9 +91,9 @@
       }
     },
     {
-      "title": "Фалшивите борци срещу корупцията: как да ги разпознаем",
-      "link": "https://www.dnevnik.bg/analizi/2026/03/28/4897470_falshivite_borci_sreshtu_korupciiata_kak_da_gi/?ref=rss",
-      "pubDate": "2026-03-28 17:32:00",
+      "title": "Унгария е все по-зависима от руски петрол и газ, но унгарците не плащат по-малко",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/29/4897506_ungariia_petrol_i_gaz/?ref=rss",
+      "pubDate": "2026-03-29 03:24:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,9 +101,9 @@
       }
     },
     {
-      "title": "Кмет на ДПС е арестуван за купуване на гласове в село край Търговище",
-      "link": "https://www.dnevnik.bg/politika/2026/03/28/4897472_kmet_na_selo_e_arestuvan_za_kupuvane_na_glasove/?ref=rss",
-      "pubDate": "2026-03-28 17:00:00",
+      "title": "Германия: 512 евро на месец за една студентска стая",
+      "link": "https://www.dnevnik.bg/sviat/2026/03/29/4897502_germaniia_512_evro_na_mesec_za_edna_studentska_staia/?ref=rss",
+      "pubDate": "2026-03-29 03:24:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -111,9 +111,9 @@
       }
     },
     {
-      "title": "Янкулов не вижда никакъв юридически проблем в назначаването на Гюров за премиер",
-      "link": "https://www.dnevnik.bg/politika/2026/03/28/4897478_iankulov_ne_vijda_nikakuv_juridicheski_problem_v/?ref=rss",
-      "pubDate": "2026-03-28 16:38:00",
+      "title": "Хранителната верига на контролирания вот - особености преди предстоящите избори",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/03/29/4893798_hranitelnata_veriga_na_kontroliraniia_vot_-_osobenosti/?ref=rss",
+      "pubDate": "2026-03-29 03:16:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -189,9 +189,7 @@
       "title": "Залогът върху прогнози може да е опасен за портфейла ви",
       "link": "https://www.capital.bg/moiat_capital/investments/2026/03/28/4892110_zalogut_vurhu_prognozi_moje_da_e_opasen_za_portfeila_vi/?ref=rss",
       "pubDate": "2026-03-28 13:18:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4895714.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -201,9 +199,7 @@
       "title": "proof. спечели отличието \"PR агенция на годината\" на BAPRA Bright Awards",
       "link": "https://www.capital.bg/biznes/media_i_reklama/2026/03/28/4897311_proof_specheli_otlichieto_pr_agenciia_na_godinata_na/?ref=rss",
       "pubDate": "2026-03-28 10:13:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4897307.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -213,9 +209,7 @@
       "title": "Атаките с FPV дронове срещу бази на САЩ в Ирак задават ново измерение на войната",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/03/28/4896645_atakite_s_fpv_dronove_sreshtu_bazi_na_sasht_v_irak/?ref=rss",
       "pubDate": "2026-03-28 08:47:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4896719.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -225,9 +219,7 @@
       "title": "Предизвикателството Scylla: Да скочиш в пазара на напитките",
       "link": "https://www.capital.bg/biznes/predpriemach/2026/03/28/4885354_predizvikatelstvoto_scylla_da_skochish_v_pazara_na/?ref=rss",
       "pubDate": "2026-03-28 08:39:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885348.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -237,20 +229,18 @@
       "title": "Седмични новини за енергетика: Сградна инсталация на нов глас, Какво ще насърчи пазара на природен газ",
       "link": "https://www.capital.bg/biznes/energetika/2026/03/28/4896714_sedmichni_novini_za_energetika_sgradna_instalaciia_na/?ref=rss",
       "pubDate": "2026-03-28 08:27:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4897197.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Сухоземна операция на САЩ в Иран? Хиляди морски пехотинци пристигнаха, предупреждение резервистите да са готови за мобилизация",
-      "link": "https://www.actualno.com/asia/suhozemna-operacija-na-sasht-v-iran-hiljadi-morski-pehotinci-pristignaha-preduprejdenie-rezervistite-da-sa-gotovi-za-mobilizacija-news_2574664.html",
-      "pubDate": "2026-03-28 20:52:00",
+      "title": "Скопие ревизира учебниците си: Затруднява се с общата история",
+      "link": "https://www.actualno.com/balkani/skopie-revizira-uchebnicite-si-zatrudnjava-se-s-obshtata-istorija-news_2574292.html",
+      "pubDate": "2026-03-29 05:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/f0ff5e577afe5f9d3e7d6aa0a3951be0_2574664_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/27/2fa120a8756c4f4bac5d5c652419d160_2574292_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -259,11 +249,11 @@
       }
     },
     {
-      "title": "Скръбна вест! Почина рекордьор на България, чието постижение е непокътнато 48 години",
-      "link": "https://www.actualno.com/moresport/skrybna-vest-pochina-rekordior-na-bylgarija-chieto-postijenie-e-nepokytnato-48-godini-news_2574663.html",
-      "pubDate": "2026-03-28 20:47:00",
+      "title": "Иран заплаши да атакува американските университети в Близкия изток",
+      "link": "https://www.actualno.com/asia/iran-zaplashi-da-atakuva-amerikanskite-universiteti-v-blizkija-iztok-news_2574681.html",
+      "pubDate": "2026-03-29 04:53:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/829db3890c628ee7d72c41bc0da46015_2574663_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/29/1d4ebcc57ba5caa7f479b94dc7c34c85_2574681_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -272,11 +262,11 @@
       }
     },
     {
-      "title": "Скръбна вест в Лудогорец!",
-      "link": "https://www.actualno.com/bgfootball/skrybna-vest-v-ludogorec-news_2574658.html",
-      "pubDate": "2026-03-28 20:21:00",
+      "title": "29 март в историята: Тежка бомбардировка над София от англо-американската авиация",
+      "link": "https://www.actualno.com/society/29-mart-v-istorijata-tejka-bombardirovka-nad-sofija-ot-anglo-amerikanskata-aviacija-news_2571417.html",
+      "pubDate": "2026-03-29 04:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/943c4120eab7304c3027a8643f116c6e_2574658_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/21/14872efe761b702bb41a8e5a8b67b823_2571417_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -285,11 +275,11 @@
       }
     },
     {
-      "title": "Нов повод за репресии на Путин: В Русия изтекоха данни на хора, купували от \"опозиционни магазини\"",
-      "link": "https://www.actualno.com/europe/nov-povod-za-represii-na-putin-v-rusija-iztekoha-danni-na-hora-kupuvali-ot-opozicionni-magazini-news_2574279.html",
-      "pubDate": "2026-03-28 19:54:00",
+      "title": "Иран полека лека отваря Ормузкия проток, само че за пакистански кораби",
+      "link": "https://www.actualno.com/economy/iran-poleka-leka-otvarja-ormuzkija-protok-samo-che-za-pakistanski-korabi-news_2574686.html",
+      "pubDate": "2026-03-29 04:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/27/beac5319f40f5c0c2d2e9b1b062e52e7_2574279_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/29/29f13d05d644c46bbb68042ea3ab504b_2574686_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -298,26 +288,16 @@
       }
     },
     {
-      "title": "Стилияна Николова е №1, а Ева Брезалиева - в топ 4 след първия ден на Световната купа по художествена гимнастика в София",
-      "link": "https://www.actualno.com/moresport/stilijana-nikolova-e-1-a-eva-brezalieva-v-top-4-sled-pyrvija-den-na-svetovnata-kupa-po-hudojestvena-gimnastika-v-sofija-news_2574654.html",
-      "pubDate": "2026-03-28 19:52:00",
+      "title": "Кой има имен ден днес, 29 март 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-29-mart-2026-g-chestito-news_2574537.html",
+      "pubDate": "2026-03-29 02:55:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/50d7d5e38bfcef8c60163be645e3a323_2574654_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/28/41d0c87cae2d4a3f3bc4c108a78c9362_2574537_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
-      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
-      "pubDate": "2026-03-28 23:29:04",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       }
     },
     {
@@ -341,6 +321,26 @@
       }
     },
     {
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "pubDate": "2026-03-28 14:08:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "link": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "pubDate": "2026-03-29 00:53:30",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "OpenBSD on Motorola 88000 Processors",
       "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
       "pubDate": "2026-03-27 14:39:51",
@@ -351,13 +351,13 @@
       }
     },
     {
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "link": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "pubDate": "2026-03-28 18:38:59",
+      "title": "Iran war: IRGC says US campuses in Middle East at risk",
+      "link": "https://www.dw.com/en/iran-war-irgc-says-us-campuses-in-middle-east-at-risk/live-76581165?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-29T02:37:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -381,8 +381,8 @@
       }
     },
     {
-      "title": "Mexico finds 2 boats lost while carrying aid to Cuba",
-      "link": "https://www.dw.com/en/mexico-finds-2-boats-lost-while-carrying-aid-to-cuba/a-76580010?maca=en-rss-en-top-1022-rdf",
+      "title": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
+      "link": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-03-28T19:11:00Z",
       "thumbnail": null,
       "source": {
@@ -399,17 +399,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Nestle says thieves stole 12 tons of KitKat chocolate bars",
-      "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-28T17:50:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-29T01:09:00.079Z"
+  "lastUpdated": "2026-03-29T05:03:24.753Z"
 }
