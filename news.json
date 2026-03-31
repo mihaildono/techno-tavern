@@ -301,7 +301,7 @@
       }
     },
     {
-      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
       "pubDate": "2026-03-31 02:54:17",
       "thumbnail": null,
@@ -311,9 +311,19 @@
       }
     },
     {
-      "title": "Universal Claude.md – cut Claude output tokens by 63%",
-      "link": "https://github.com/drona23/claude-token-efficient",
-      "pubDate": "2026-03-31 01:23:34",
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "link": "https://ollama.com/blog/mlx",
+      "pubDate": "2026-03-31 03:40:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "2026-03-31 05:21:59",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,9 +341,9 @@
       }
     },
     {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "pubDate": "2026-03-30 18:16:00",
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "link": "https://github.com/drona23/claude-token-efficient",
+      "pubDate": "2026-03-31 01:23:34",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,13 +351,33 @@
       }
     },
     {
-      "title": "Do your own writing",
-      "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "pubDate": "2026-03-30 12:39:56",
+      "title": "Germany news: Bavaria&apos;s state premier Markus Söder visits North Carolina",
+      "link": "https://www.dw.com/en/germany-news-bavaria-s-state-premier-markus-söder-visits-north-carolina/live-76601171?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-31T06:46:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "After the Iran war, how fast could global trade recover?",
+      "link": "https://www.dw.com/en/after-the-iran-war-how-fast-could-global-trade-recover/a-76526954?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-31T06:46:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "India news: Iran says US strike on Delhi-bound plane a &apos;war crime&apos;",
+      "link": "https://www.dw.com/en/india-news-iran-says-us-strike-on-delhi-bound-plane-a-war-crime/live-76600941?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-31T06:25:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -361,39 +391,9 @@
       }
     },
     {
-      "title": "Iran war: US gasoline prices surge as conflict escalates",
-      "link": "https://www.dw.com/en/iran-war-us-gasoline-prices-surge-as-conflict-escalates/live-76600314?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Indonesia calls for UN meeting after peacekeeper deaths",
+      "link": "https://www.dw.com/en/iran-war-indonesia-calls-for-un-meeting-after-peacekeeper-deaths/live-76600314?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-03-31T02:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany beat Ghana to complete confidence-boosting March",
-      "link": "https://www.dw.com/en/germany-beat-ghana-to-complete-confidence-boosting-march/a-76599285?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-30T21:35:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Haiti: At least 70 killed in &apos;massacre,&apos; says rights group",
-      "link": "https://www.dw.com/en/haiti-at-least-70-killed-in-massacre-says-rights-group/a-76600042?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-30T21:31:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Capital punishment: Which countries use the death penalty?",
-      "link": "https://www.dw.com/en/capital-punishment-which-countries-use-the-death-penalty/a-76585793?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-30T19:52:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -401,5 +401,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-31T05:02:31.106Z"
+  "lastUpdated": "2026-03-31T06:59:17.861Z"
 }
