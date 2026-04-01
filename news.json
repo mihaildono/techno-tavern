@@ -311,16 +311,6 @@
       }
     },
     {
-      "title": "GitHub's Historic Uptime",
-      "link": "https://damrnelson.github.io/github-historical-uptime/",
-      "pubDate": "2026-03-31 19:01:29",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
       "pubDate": "2026-03-31 13:04:30",
@@ -331,9 +321,9 @@
       }
     },
     {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "pubDate": "2026-03-31 09:00:40",
+      "title": "Ministack (Replacement for LocalStack)",
+      "link": "https://ministack.org/",
+      "pubDate": "2026-03-31 20:48:15",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,9 +331,9 @@
       }
     },
     {
-      "title": "Cohere Transcribe: Speech Recognition",
-      "link": "https://cohere.com/blog/transcribe",
-      "pubDate": "2026-03-31 16:27:02",
+      "title": "A dot a day keeps the clutter away",
+      "link": "https://scottlawsonbc.com/post/dot-system",
+      "pubDate": "2026-03-31 21:15:01",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -351,13 +341,43 @@
       }
     },
     {
-      "title": "JSSE: A JavaScript Engine Built by an Agent",
-      "link": "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html",
-      "pubDate": "2026-03-31 20:21:50",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "pubDate": "2026-03-31 20:07:30",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "link": "https://arxiv.org/abs/2602.04118",
+      "pubDate": "2026-03-27 12:11:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "US judge blocks Trump order that barred funding for NPR, PBS",
+      "link": "https://www.dw.com/en/us-judge-blocks-trump-order-that-barred-funding-for-npr-pbs/a-76615077?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-01T00:56:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "US judge orders Trump to halt ballroom construction",
+      "link": "https://www.dw.com/en/us-judge-orders-trump-to-halt-ballroom-construction/a-76615061?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-03-31T22:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -389,27 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Russian oil tanker docks in Cuba, the 1st since US blockade",
-      "link": "https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-31T15:19:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Local elections in Serbia: Is Vucic&apos;s party losing its grip?",
-      "link": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-31T15:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-03-31T21:26:13.560Z"
+  "lastUpdated": "2026-04-01T01:14:28.373Z"
 }
