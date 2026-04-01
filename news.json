@@ -317,9 +317,19 @@
       }
     },
     {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "pubDate": "2026-03-31 13:04:30",
+      "title": "Claude Code Unpacked : A visual guide",
+      "link": "https://ccunpacked.dev/",
+      "pubDate": "2026-04-01 05:15:37",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+      "pubDate": "2026-04-01 06:05:57",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -337,6 +347,16 @@
       }
     },
     {
+      "title": "Chess in SQL",
+      "link": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "pubDate": "2026-03-29 13:25:16",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
       "link": "https://arxiv.org/abs/2602.04118",
       "pubDate": "2026-03-27 12:11:12",
@@ -347,23 +367,23 @@
       }
     },
     {
-      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-      "link": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "pubDate": "2026-03-28 21:04:06",
+      "title": "Germany news: New rules to tamp down gasoline price hikes",
+      "link": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-01T06:54:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "TruffleRuby",
-      "link": "https://chrisseaton.com/truffleruby/",
-      "pubDate": "2026-03-28 18:39:39",
+      "title": "India News: Jet fuel prices reach record high amid Iran war",
+      "link": "https://www.dw.com/en/india-news-jet-fuel-prices-reach-record-high-amid-iran-war/live-76615690?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-01T06:37:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -395,27 +415,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Court orders Trump to halt White House ballroom construction",
-      "link": "https://www.dw.com/en/court-orders-trump-to-halt-white-house-ballroom-construction/a-76615061?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-31T22:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
-      "link": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-03-31T20:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-01T05:15:17.846Z"
+  "lastUpdated": "2026-04-01T07:05:48.067Z"
 }
