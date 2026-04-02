@@ -311,9 +311,9 @@
       }
     },
     {
-      "title": "Signing data structures the wrong way",
-      "link": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-      "pubDate": "2026-04-01 19:52:00",
+      "title": "A new C++ back end for ocamlc",
+      "link": "https://github.com/ocaml/ocaml/pull/14701",
+      "pubDate": "2026-04-01 23:35:02",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -321,9 +321,9 @@
       }
     },
     {
-      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "link": "https://github.com/hauntsaninja/git_bayesect",
-      "pubDate": "2026-03-28 20:32:01",
+      "title": "NASA’s Artemis II Crew Launches to the Moon",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "pubDate": "2026-04-01 17:11:31",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -331,7 +331,27 @@
       }
     },
     {
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "pubDate": "2026-04-01 21:36:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
+      "link": "https://www.afterpack.dev/blog/claude-code-source-leak",
+      "pubDate": "2026-04-01 23:25:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "link": "https://blog.cloudflare.com/emdash-wordpress/",
       "pubDate": "2026-04-01 16:14:38",
       "thumbnail": null,
@@ -341,29 +361,9 @@
       }
     },
     {
-      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
-      "link": "https://github.com/SharpAI/SwiftLM",
-      "pubDate": "2026-04-01 18:06:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Ask HN: Who is hiring? (April 2026)",
-      "link": "https://news.ycombinator.com/item?id=47601859",
-      "pubDate": "2026-04-01 15:01:36",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Artemis II: NASA readies to launch astronauts to moon",
-      "link": "https://www.dw.com/en/artemis-ii-nasa-readies-to-launch-astronauts-to-moon/a-76631089?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-01T18:28:00Z",
+      "title": "NASA&apos;s Artemis II rocket lifts off for the moon",
+      "link": "https://www.dw.com/en/nasa-s-artemis-ii-rocket-lifts-off-for-the-moon/a-76631089?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-01T22:12:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -401,8 +401,8 @@
       }
     },
     {
-      "title": "Iran war: Trump says Iran&apos;s president asked for ceasefire",
-      "link": "https://www.dw.com/en/iran-war-trump-says-iran-s-president-asked-for-ceasefire/live-76615254?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Trump set to address the nation",
+      "link": "https://www.dw.com/en/iran-war-trump-set-to-address-the-nation/live-76615254?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-04-01T13:31:00Z",
       "thumbnail": null,
       "source": {
@@ -411,5 +411,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-04-01T21:31:20.705Z"
+  "lastUpdated": "2026-04-02T01:04:34.449Z"
 }
