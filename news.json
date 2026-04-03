@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "София празнува 147 години като столица",
+      "link": "https://offnews.bg/obshtestvo/sofia-praznuva-147-godini-kato-stolitca-864231.html",
+      "pubDate": "2026-04-03 04:50:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/03/864231/phpuiecoh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7539
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Проф. Рачев: Продължавам да мънкам за Великден, май ще е по-хладно и ще вали",
+      "link": "https://offnews.bg/obshtestvo/prof-rachev-prodalzhavam-da-mankam-za-velikden-maj-shte-e-po-hladno-864230.html",
+      "pubDate": "2026-04-03 04:49:46",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/03/864230/php5dvbnj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5150
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Мрачно, хладно, дъждовно, а в планините - сняг",
+      "link": "https://offnews.bg/obshtestvo/mrachno-hladno-dazhdovno-a-v-planinite-sniag-864226.html",
+      "pubDate": "2026-04-02 21:27:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/02/864226/phpzecqem_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5708
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Украйна пуска денонощно онлайн радио, за да оборва лъжите на Орбан",
       "link": "https://offnews.bg/sviat/ukrajna-puska-denonoshtno-onlajn-radio-za-da-oborva-lazhite-na-orban-864229.html",
       "pubDate": "2026-04-02 19:11:04",
@@ -29,51 +71,9 @@
       }
     },
     {
-      "title": "Тръмп нападна Брус Спрингстийн и призова феновете си да бойкотират концертите му",
-      "link": "https://offnews.bg/sviat/tramp-napadna-brus-springstijn-i-prizova-fenovete-si-da-bojkotirat-kon-864222.html",
-      "pubDate": "2026-04-02 18:12:31",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/02/864222/phpnfpfdy_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6287
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Арестуваха 79-годишен българин за стрелба пред супермаркет в САЩ",
-      "link": "https://offnews.bg/112/arestuvaha-79-godishen-balgarin-za-strelba-pred-supermarket-v-sasht-864225.html",
-      "pubDate": "2026-04-02 17:43:23",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/02/864225/phpczypd9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5424
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Руското външно: Не ходете в България. Могат да ви арестуват по искане на САЩ и да ви екстрадират",
-      "link": "https://offnews.bg/sviat/ruskoto-vanshno-ne-hodete-v-balgaria-mogat-da-vi-arestuvat-po-iskane-864223.html",
-      "pubDate": "2026-04-02 17:21:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/02/864223/php5tjsgi_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5358
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Супер Марио Галактика: Филмът",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/04/03/4868011_super_mario_galaktika_filmut/?ref=rss",
-      "pubDate": "2026-04-02 21:05:00",
+      "title": "Предизборно извън балона. Дечев и Кандев откраднаха шоуто. Най-известната ябълка на 50 години",
+      "link": "https://www.dnevnik.bg/sutreshen-dnevnik/2026/04/03/4899484_predizborno_izvun_balona_dechev_i_kandev_otkradnaha/?ref=rss",
+      "pubDate": "2026-04-03 04:17:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -81,9 +81,9 @@
       }
     },
     {
-      "title": "Къде си, Адаме?",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/04/04/4898851_kude_si_adame/?ref=rss",
-      "pubDate": "2026-04-02 21:05:00",
+      "title": "Корабът на \"Артемис\" поема към Луната",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/03/4899463_korabut_na_artemis_poema_kum_lunata/?ref=rss",
+      "pubDate": "2026-04-03 04:16:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -91,9 +91,9 @@
       }
     },
     {
-      "title": "Драмата",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/04/03/4883725_dramata/?ref=rss",
-      "pubDate": "2026-04-02 21:03:00",
+      "title": "\"История, която стана лична\": две години отнема на Антоан Фукуа да направи филма \"Майкъл\"",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/04/03/4899417_istoriia_koiato_stana_lichna_dve_godini_otnema_na/?ref=rss",
+      "pubDate": "2026-04-03 03:58:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,9 +101,9 @@
       }
     },
     {
-      "title": "Изпълнителният директор на \"Холдинг БДЖ\" издържа само седмица на поста, назначен е нов",
-      "link": "https://www.dnevnik.bg/biznes/2026/04/03/4899495_izpulnitelniiat_direktor_na_holding_bdj_izdurja_samo/?ref=rss",
-      "pubDate": "2026-04-02 20:48:00",
+      "title": "Пушенето на вейп повишава риска от рак на белия дроб и на устната кухина",
+      "link": "https://www.dnevnik.bg/zdrave/2026/04/03/4898334_pusheneto_na_veip_povishava_riska_ot_rak_na_beliia/?ref=rss",
+      "pubDate": "2026-04-03 03:50:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -111,9 +111,9 @@
       }
     },
     {
-      "title": "\"ДаллБогг\" посочи Пеевски и Горанов като отговорни за финансовото ѝ \"задушаване\" от КФН",
-      "link": "https://www.dnevnik.bg/biznes/2026/04/02/4899493_dallbogg_posochi_peevski_i_goranov_kato_otgovorni_za/?ref=rss",
-      "pubDate": "2026-04-02 20:10:00",
+      "title": "\"Епъл\" извървя 50 години от гаража до технологичен гигант",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/03/4899469_epul_izmina_50_godini_ot_garaja_do_tehnologichen_gigant/?ref=rss",
+      "pubDate": "2026-04-03 03:43:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -186,6 +186,36 @@
       }
     },
     {
+      "title": "Държава на тъмно: Куба е между режим на тока и икономически срив",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/03/4897751_durjava_na_tumno_kuba_e_mejdu_rejim_na_toka_i/?ref=rss",
+      "pubDate": "2026-04-03 03:27:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Китай преценява ходовете си, докато войната в Залива се разгаря",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/03/4898265_kitai_preceniava_hodovete_si_dokato_voinata_v_zaliva/?ref=rss",
+      "pubDate": "2026-04-03 03:27:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Бизнес закуска: 🥐 КФН забрани новите застраховки на \"ДаллБогг\", Петролът отново подгони 110 долара",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/04/03/4899372_biznes_zakuska_kfn_zabrani_novite_zastrahovki_na/?ref=rss",
+      "pubDate": "2026-04-03 03:05:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
       "title": "Дефицитът нарасна двойно само за месец – до 1.2% от БВП към края на март",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/04/02/4899429_deficitut_narasna_dvoino_samo_za_mesec_do_12_ot_bvp/?ref=rss",
       "pubDate": "2026-04-02 17:07:00",
@@ -199,36 +229,6 @@
       "title": "HR новини: ✔Пазарът на труда под натиск от AI идва, Младите най-често започват работа в услуги и ритейл",
       "link": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/04/02/4899407_hr_novini_pazarut_na_truda_pod_natisk_ot_ai_idva/?ref=rss",
       "pubDate": "2026-04-02 15:00:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Снимка на деня: Историческата мисия Artemis II връща хора към Луната след половин век пауза",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/04/02/4899410_snimka_na_denia_istoricheskata_misiia_artemis_ii/?ref=rss",
-      "pubDate": "2026-04-02 14:51:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Третият фонд на Елвин Гури",
-      "link": "https://www.capital.bg/biznes/kompanii/2026/04/02/4898478_tretiiat_fond_na_elvin_guri/?ref=rss",
-      "pubDate": "2026-04-02 14:23:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "КФН забрани на \"ДаллБогг\" да продава нови застраховки и в България",
-      "link": "https://www.capital.bg/biznes/finansi/2026/04/02/4899371_kfn_zabrani_na_dallbogg_da_prodava_novi_zastrahovki_i/?ref=rss",
-      "pubDate": "2026-04-02 14:15:00",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -311,19 +311,9 @@
       }
     },
     {
-      "title": "Every Law a Commit – US Law in GitHub",
-      "link": "https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html",
-      "pubDate": "2026-04-02 23:34:21",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Tailscale's new macOS home",
-      "link": "https://tailscale.com/blog/macos-notch-escape",
-      "pubDate": "2026-04-02 18:22:03",
+      "title": "The open web isn't dying, we're killing it",
+      "link": "https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/",
+      "pubDate": "2026-04-03 02:05:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,9 +331,9 @@
       }
     },
     {
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "pubDate": "2026-04-02 02:37:12",
+      "title": "Tailscale's new macOS home",
+      "link": "https://tailscale.com/blog/macos-notch-escape",
+      "pubDate": "2026-04-02 18:22:03",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -351,9 +341,49 @@
       }
     },
     {
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "pubDate": "2026-04-01 08:41:49",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Artemis II astronauts leave Earth&apos;s orbit, rocket towards moon",
+      "link": "https://www.dw.com/en/artemis-ii-astronauts-leave-earth-s-orbit-rocket-towards-moon/a-76649996?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-03T03:38:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Iran war: UNSC to vote on Gulf-led resolution to open Hormuz",
+      "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-03T02:28:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Macron dismisses Trump&apos;s &apos;inelegant&apos; dig about his marriage",
       "link": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-04-02T22:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Hungary&apos;s government accused of spying on opposition as key election nears",
+      "link": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-02T18:25:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -369,37 +399,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Burkina Faso: Army behind most civilian deaths — report",
-      "link": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-02T17:12:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Middle East war: Few solutions to fuel shortages in Africa",
-      "link": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-02T16:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "As Iran war rages, Europe gears up for energy crisis",
-      "link": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-02T14:18:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-03T01:07:42.614Z"
+  "lastUpdated": "2026-04-03T04:57:18.226Z"
 }
