@@ -321,6 +321,16 @@
       }
     },
     {
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "pubDate": "2026-04-01 01:31:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "How many products does Microsoft have named 'Copilot'?",
       "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
       "pubDate": "2026-04-04 19:39:43",
@@ -331,29 +341,19 @@
       }
     },
     {
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "pubDate": "2026-04-04 16:57:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Embarrassingly simple self-distillation improves code generation",
       "link": "https://arxiv.org/abs/2604.01193",
       "pubDate": "2026-04-04 10:26:21",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-      "link": "https://github.com/teamchong/turboquant-wasm",
-      "pubDate": "2026-04-04 14:53:16",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "link": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "pubDate": "2026-04-04 16:16:10",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -411,5 +411,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-04-04T21:19:37.290Z"
+  "lastUpdated": "2026-04-05T01:09:54.172Z"
 }
