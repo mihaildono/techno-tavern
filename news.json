@@ -1,11 +1,67 @@
 {
   "items": [
     {
+      "title": "Иран обяви заплахите на Тръмп за ''глупави'' и отхвърли ултиматума му",
+      "link": "https://offnews.bg/sviat/iran-obiavi-zaplahite-na-tramp-za-glupavi-i-othvarli-ultimatuma-mu-864330.html",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/05/864330/phplqluvw_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6855
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "МВР издирва 79-годишна жена от село Ръжена",
+      "link": "https://offnews.bg/112/mvr-izdirva-79-godishna-zhena-ot-selo-razhena-864326.html",
+      "pubDate": "2026-04-05 04:30:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/04/864326/php1buocn_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 4676
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "България празнува Цветница",
+      "link": "https://offnews.bg/obshtestvo/balgaria-praznuva-tcvetnitca-821850.html",
+      "pubDate": "2026-04-05 02:55:16",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2024/04/22/821850/php77ivvw_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 9477
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Пролетният студ продължава: Минимални температури между 3° и 8°",
+      "link": "https://offnews.bg/obshtestvo/proletniat-stud-prodalzhava-minimalni-temperaturi-mezhdu-3-i-8-864327.html",
+      "pubDate": "2026-04-04 21:19:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/04/864327/phpgjwb9p_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 5123
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Арестуваха роднини на убития ирански генерал Касем Солеймани в САЩ",
       "link": "https://offnews.bg/sviat/arestuvaha-rodnini-na-ubitia-iranski-general-kasem-solejmani-v-sasht-864321.html",
       "pubDate": "2026-04-04 19:04:01",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/04/864321/phpxace3t_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/04/04/864321/phpxace3t_152x158.jpg",
         "type": "image/jpeg",
         "length": 5805
       },
@@ -15,116 +71,50 @@
       }
     },
     {
-      "title": "Зеленски и Ердоган договориха нови мерки за сигурност на фона на засилени удари в Украйна",
-      "link": "https://offnews.bg/sviat/zelenski-i-erdogan-dogovoriha-novi-merki-za-sigurnost-na-fona-na-zasil-864324.html",
-      "pubDate": "2026-04-04 18:24:50",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/04/864324/phpqrogqq_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5284
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Домашен питбул нападна три деца, играещи пред блок в Бургас",
-      "link": "https://offnews.bg/112/domashen-pitbul-napadna-tri-detca-igraeshti-pred-blok-v-burgas-864325.html",
-      "pubDate": "2026-04-04 18:06:35",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/04/864325/php3zqs17_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5754
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "''Помислих си, че съм умряла''. Малена Замфирова за първите си спомени след тежкия инцидент в Чехия",
-      "link": "https://offnews.bg/sport/pomislih-si-che-sam-umriala-malena-zamfirova-za-parvite-si-spome-864322.html",
-      "pubDate": "2026-04-04 17:33:32",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/04/864322/php1bdpjf_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7031
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Тръмп иска 152 млн.$, за да отвори отново затвора ''Алкатрас''",
-      "link": "https://offnews.bg/sviat/tramp-iska-152-mln-za-da-otvori-otnovo-zatvora-alkatras-864320.html",
-      "pubDate": "2026-04-04 17:03:49",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/04/864320/phpoystbu_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 3919
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Ердоган призова Зеленски да не се атакуват търговски кораби в Черно море",
-      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/04/04/4899940_erdogan_prizova_zelenski_da_ne_se_atakuvat_korabi_v/?ref=rss",
-      "pubDate": "2026-04-04 17:18:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4899939.jpg"
-      },
+      "title": "От броя на \"Бакхус\": Време ли е за \"Мишлен\" в България?",
+      "link": "https://www.dnevnik.bg/bacchus/2026/04/05/4898758_vreme_li_e_za_mishlen_v_bulgariia/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Тръмп напомни на Иран, че ултиматумът му изтича на 7 април",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/04/4899936_trump_napomni_na_iran_che_ultimatumut_mu_izticha_na_7/?ref=rss",
-      "pubDate": "2026-04-04 16:25:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4899937.jpg"
-      },
+      "title": "Последен шанс да участвате в първото ниво на играта \"Майкъл\"",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/04/05/4899268_posleden_shans_da_uchastvate_v_purvoto_nivo_na_igrata/?ref=rss",
+      "pubDate": "2026-04-05 04:00:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Бос на Камората е заловен в Италия",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/04/4899930_bos_na_kamorata_e_zaloven_v_italiia/?ref=rss",
-      "pubDate": "2026-04-04 15:45:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4899933.jpg"
-      },
+      "title": "Белоградчик за начинаещи и напреднали",
+      "link": "https://www.dnevnik.bg/biznes/turizam/2026/04/04/4898036_belogradchik_za_nachinaeshti_i_naprednali/?ref=rss",
+      "pubDate": "2026-04-05 03:53:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Словашкият премиер иска ЕС да свали енергийните санкции на Русия",
-      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/04/04/4899926_slovashkiiat_premier_iska_es_da_svali_energiinite/?ref=rss",
-      "pubDate": "2026-04-04 14:53:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4899927.jpg"
-      },
+      "title": "AI, педагогика, здравеопазване: Какви нови специалности ще предложат университетите",
+      "link": "https://www.dnevnik.bg/obrazovanie/2026/04/05/4896980_ai_pedagogika_zdraveopazvane_kakvi_novi_specialnosti/?ref=rss",
+      "pubDate": "2026-04-05 03:47:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Мелони предлага помощ за ремонт на инсталациите за газ на Катар",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/04/4899925_meloni_predlaga_pomosht_za_remont_na_instalaciite_za/?ref=rss",
-      "pubDate": "2026-04-04 14:25:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4899923.jpg"
-      },
+      "title": "Ще имат ли право българските лекари да практикуват в САЩ: тест за агенция ще даде отговора",
+      "link": "https://www.dnevnik.bg/obrazovanie/2026/04/01/4895380_shte_imat_li_pravo_bulgarskite_lekari_da_praktikuvat_v/?ref=rss",
+      "pubDate": "2026-04-05 03:40:00",
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -196,61 +186,71 @@
       }
     },
     {
-      "title": "Седмични новини за енергетика: В \"Хан Аспарух\" газ няма засега; Ще се влоши ли петролната криза",
-      "link": "https://www.capital.bg/biznes/energetika/2026/04/04/4899065_njuzletur_energetika_v_han_asparuh_gaz_niama_zasega/?ref=rss",
-      "pubDate": "2026-04-04 11:15:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Техгигантът Oracle съкращава до 30 хил. служители",
-      "link": "https://www.capital.bg/biznes/ai/2026/04/04/4899637_tehgigantut_oracle_sukrashtava_do_30_hil_slujiteli/?ref=rss",
-      "pubDate": "2026-04-04 11:13:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Варна пуска повторно търга за Математическата гимназия за почти 46 млн. евро",
-      "link": "https://www.capital.bg/politika_i_ikonomika/infrastructure/2026/04/04/4899591_varna_puska_povtorno_turga_za_matematicheskata/?ref=rss",
-      "pubDate": "2026-04-04 07:31:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Коментар | Борсови пазари за лична употреба",
-      "link": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/04/04/4896352_komentar_borsovi_pazari_za_lichna_upotreba/?ref=rss",
-      "pubDate": "2026-04-04 07:27:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "От интерес към числата до кариера в глобалните финанси",
-      "link": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/04/04/4879771_ot_interes_kum_chislata_do_kariera_v_globalnite_finansi/?ref=rss",
-      "pubDate": "2026-04-04 07:20:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Турска лира - евро. Колко струва една турска лира към едно евро днес, 5 април /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/turska-lira-evro-kolko-struva-edna-turska-lira-kym-edno-evro-dnes-5-april-valuten-kalkulator-news_2577731.html",
-      "pubDate": "2026-04-04 21:15:00",
+      "title": "Нова ера за АЕЦ \"Козлодуй\" и българската енергетика с технологията AP1000® на Westinghouse",
+      "link": "https://www.capital.bg/biznes/energetika/2026/04/05/4894590_nova_era_za_aec_kozlodui_i_bulgarskata_energetika_s/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/05/img_69d17bd40cb25_2577731_920x708.jpg",
+        "link": "http://www.capital.bg/shimg/zx640_4894593.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Защита на инвестиция във ВЕИ от \"Евроинс\" - по-малко рискове, повече печалби",
+      "link": "https://www.capital.bg/biznes/energetika/2026/04/05/4893763_zashtita_na_investiciia_vuv_vei_ot_evroins_-_po-malko/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4893987.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Стажът може да бъде началото на истинска кариера",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/04/05/4899214_stajut_moje_da_bude_nachaloto_na_istinska_kariera/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4899208.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Стажът, който отваря вратите към кариера",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pazar-na-truda/2026/04/05/4893094_stajut_koito_otvaria_vratite_kum_kariera/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4893104.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Управлението на риска при ВЕИ проектите започва от етапа на планиране",
+      "link": "https://www.capital.bg/biznes/energetika/2026/04/05/4895010_upravlenieto_na_riska_pri_vei_proektite_zapochva_ot/?ref=rss",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4895514.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Важните моменти, за които да внимаваме при вота с машина на 19 април (СНИМКИ и ВИДЕО)",
+      "link": "https://www.actualno.com/politics/vajnite-momenti-za-koito-da-vnimavame-pri-vota-s-mashina-na-19-april-snimki-i-video-news_2576879.html",
+      "pubDate": "2026-04-05 05:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/02/5a3bcfec989a58b54b88c69d8cb82f28_2576879_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -259,11 +259,11 @@
       }
     },
     {
-      "title": "В много нервно дерби: Барселона надви 10 от Атлетико и се възползва от грешката на Реал",
-      "link": "https://www.actualno.com/football/v-mnogo-nervno-derbi-barselona-nadvi-10-ot-atletiko-i-se-vyzpolzva-ot-greshkata-na-real-news_2577736.html",
-      "pubDate": "2026-04-04 21:10:00",
+      "title": "Църковен празник на 6 април: Какво трябва и не трябва да се прави на Велики понеделник",
+      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-6-april-kakvo-trjabva-i-ne-trjabva-da-se-pravi-na-veliki-ponedelnik-news_2577357.html",
+      "pubDate": "2026-04-05 04:47:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/05/f1df793d9f3971ac7fb39125b6f7ea99_2577736_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/03/df9c7cae1e7b3ce16e5de45d7d6b1bb3_2577357_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -272,11 +272,11 @@
       }
     },
     {
-      "title": "Евро - лев. Калкулатор от евро в стария лев, 5 април /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/evro-lev-kalkulator-ot-evro-v-starija-lev-5-april-valuten-kalkulator-news_2577734.html",
-      "pubDate": "2026-04-04 21:05:00",
+      "title": "5 април в историята: Обесен е Велчо Атанасов - Джамджията",
+      "link": "https://www.actualno.com/society/5-april-v-istorijata-obesen-e-velcho-atanasov-djamdjijata-news_2575896.html",
+      "pubDate": "2026-04-05 04:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/05/img_69d17bd6971df_2577734_920x708.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/03/31/d21b90e282b8bba911592fee3e58cc53_2575896_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -285,11 +285,11 @@
       }
     },
     {
-      "title": "Заради войната в Иран: Малдивите наистина станаха туристически рай (ВИДЕО)",
-      "link": "https://www.actualno.com/economy/zaradi-vojnata-v-iran-maldivite-naistina-stanaha-turisticheski-raj-video-news_2577721.html",
-      "pubDate": "2026-04-04 19:45:00",
+      "title": "Кой има имен ден днес, 5 април 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-5-april-2026-g-chestito-news_2577246.html",
+      "pubDate": "2026-04-05 02:55:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/04/f26aa1320cadc963498a4c1af89bc585_2577721_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/03/ca5197d681a803bd69684a7d80e06d57_2577246_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -298,16 +298,36 @@
       }
     },
     {
-      "title": "Христо Янев: Берое е коварен отбор – костелив орех",
-      "link": "https://www.actualno.com/bgfootball/hristo-janev-beroe-e-kovaren-otbor-kosteliv-oreh-news_2577715.html",
-      "pubDate": "2026-04-04 19:21:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 5 април /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-5-april-valuten-kalkulator-news_2577733.html",
+      "pubDate": "2026-04-04 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/04/076db3e68b1266a6c05c1986686b9ec4_2577715_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/05/img_69d17bd5b6827_2577733_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Writing Lisp Is AI Resistant and I'm Sad",
+      "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "pubDate": "2026-04-05 02:01:31",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Introduction to Computer Music [pdf]",
+      "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "pubDate": "2026-04-05 01:54:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -331,9 +351,9 @@
       }
     },
     {
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "pubDate": "2026-04-04 19:39:43",
+      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+      "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+      "pubDate": "2026-04-04 23:18:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,23 +361,23 @@
       }
     },
     {
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "pubDate": "2026-04-04 16:57:45",
+      "title": "Germany&apos;s new religious diversity",
+      "link": "https://www.dw.com/en/germany-s-new-religious-diversity/a-76645829?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-05T04:49:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "link": "https://arxiv.org/abs/2604.01193",
-      "pubDate": "2026-04-04 10:26:21",
+      "title": "Donald Trump says missing crew member from F-15E jet that was shot down in Iran has been rescued — follow live",
+      "link": "https://www.dw.com/en/donald-trump-says-missing-crew-member-from-f-15e-jet-that-was-shot-down-in-iran-has-been-rescued-follow-live/live-76665046?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-05T04:36:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -389,27 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "German men need military permit for extended stays abroad",
-      "link": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-04T15:09:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "German, EU finance ministers call for energy windfall tax",
-      "link": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-04T14:30:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-05T01:09:54.172Z"
+  "lastUpdated": "2026-04-05T05:04:25.202Z"
 }
