@@ -311,17 +311,7 @@
       }
     },
     {
-      "title": "Writing Lisp Is AI Resistant and I'm Sad",
-      "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-      "pubDate": "2026-04-05 02:01:31",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Introduction to Computer Music [pdf]",
+      "title": "Introduction to Computer Music (2009) [pdf]",
       "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
       "pubDate": "2026-04-05 01:54:29",
       "thumbnail": null,
@@ -351,13 +341,33 @@
       }
     },
     {
-      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
-      "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "pubDate": "2026-04-04 23:18:54",
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "pubDate": "2026-04-04 22:57:44",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "pubDate": "2026-04-04 16:57:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "&apos;People&apos;s Republic&apos; rumors: Does an Estonian city really want to join Russia?",
+      "link": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-05T05:14:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -371,8 +381,8 @@
       }
     },
     {
-      "title": "Donald Trump says missing crew member from F-15E jet that was shot down in Iran has been rescued — follow live",
-      "link": "https://www.dw.com/en/donald-trump-says-missing-crew-member-from-f-15e-jet-that-was-shot-down-in-iran-has-been-rescued-follow-live/live-76665046?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: US says missing crew member from downed jet found",
+      "link": "https://www.dw.com/en/iran-war-us-says-missing-crew-member-from-downed-jet-found/live-76665046?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-04-05T04:36:00Z",
       "thumbnail": null,
       "source": {
@@ -399,17 +409,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Displaced in Lebanon: &apos;Lives turned upside down&apos;",
-      "link": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-04T16:13:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-05T05:04:25.202Z"
+  "lastUpdated": "2026-04-05T06:51:53.121Z"
 }
