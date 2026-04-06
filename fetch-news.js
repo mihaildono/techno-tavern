@@ -21,10 +21,16 @@ const RSS_SOURCES = [
     type: "rss2json",
   },
   {
-    name: "Svobodna Evropa",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.svobodnaevropa.bg%2Fapi%2Fzgmpmil-vomx-tpe--_mm",
+    name: "Свободна точка",
+    url: "https://svobodnatochka.bg/feed/",
     color: "#FF9800", // Orange
-    type: "rss2json",
+    type: "direct",
+  },
+  {
+    name: "Mediapool",
+    url: "https://www.mediapool.bg/rss/",
+    color: "#00BCD4", // Teal
+    type: "direct",
   },
   {
     name: "Capital",
@@ -102,6 +108,7 @@ function parseRssXml(xml) {
     const pubDate = getText("pubDate") || getText("dc:date");
     const mediaMatch =
       /media:content[^>]+url="([^"]+)"/.exec(block) ||
+      /media:thumbnail[^>]+url="([^"]+)"/.exec(block) ||
       /enclosure[^>]+url="([^"]+)"/.exec(block);
     const thumbnail = mediaMatch ? { link: mediaMatch[1] } : null;
     if (title && link) items.push({ title, link, pubDate, thumbnail });
