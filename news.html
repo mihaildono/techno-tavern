@@ -106,7 +106,7 @@
                     }
 
                     // Build the news item with optional thumbnail and source badge
-                    const thumbnailHtml = item.thumbnail?.link ? `<img src="${item.thumbnail.link}" alt="${item.title}" class="news-thumbnail" />` : '';
+                    const thumbnailHtml = item.thumbnail?.link ? `<img src="${item.thumbnail.link}" alt="${item.title}" class="news-thumbnail" referrerpolicy="no-referrer" />` : '';
                     const sourceBadgeHtml = item.source?.name ? `<span class="source-badge" style="background-color: ${item.source.color}">${item.source.name}</span>` : '';
                     const dateHtml = `<span class="news-date">${sourceBadgeHtml}${formattedDate}</span>`;
                     newsElement.innerHTML = `
