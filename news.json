@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Тръмп обвини НАТО в провал заради войната с Иран",
+      "link": "https://offnews.bg/sviat/tramp-obvini-nato-v-proval-zaradi-vojnata-s-iran-864639.html",
+      "pubDate": "2026-04-08 19:37:06",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/08/864639/phpzvgkzo_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4549
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Стюардите на ''Луфтханза'' излизат на еднодневна стачка в петък",
       "link": "https://offnews.bg/sviat/stiuardite-na-lufthanza-izlizat-na-ednodnevna-stachka-v-petak-864638.html",
       "pubDate": "2026-04-08 19:08:54",
@@ -57,17 +71,33 @@
       }
     },
     {
-      "title": "Правителството обнови състава на управителния съвет на НАПОО",
-      "link": "https://offnews.bg/obshtestvo/pravitelstvoto-obnovi-sastava-na-upravitelnia-savet-na-napoo-864634.html",
-      "pubDate": "2026-04-08 17:21:18",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/08/864634/phpw3dr5e_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7611
-      },
+      "title": "\"Ще ти съсипя живота\": МВР санкционира жената, представила се за прокурор",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/04/08/4901136_shte_ti_susipia_jivota_mvr_sankcionira_jenata/?ref=rss",
+      "pubDate": "2026-04-08 20:25:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Иран отново затвори Ормузкия проток и започна да връща кораби",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/08/4901130_iran_otnovo_zatvori_ormuzkiia_protok_i_zapochna_da/?ref=rss",
+      "pubDate": "2026-04-08 20:05:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Емил Дечев смени ръководството на Областна дирекция - Силистра",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/04/08/4901125_emil_dechev_smeni_rukovodstvoto_na_oblastna_direkciia/?ref=rss",
+      "pubDate": "2026-04-08 19:36:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
@@ -91,36 +121,6 @@
       }
     },
     {
-      "title": "Унгария подписа със САЩ договори за милиарди долари",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/08/4901109_ungariia_podpisa_sus_sasht_dogovori_za_miliardi_dolari/?ref=rss",
-      "pubDate": "2026-04-08 18:17:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Стотици убити и ранени в Ливан за ден – ударите на Израел застрашиха спирането на огъня на САЩ и Иран",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/08/4901106_stotici_ubiti_i_raneni_v_livan_za_den_udarite_na/?ref=rss",
-      "pubDate": "2026-04-08 17:43:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Известен журналист твърди, че е открил кой е създателят на биткойн",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/08/4901092_izvesten_jurnalist_tvurdi_che_e_otkril_koi_e/?ref=rss",
-      "pubDate": "2026-04-08 17:19:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "&#8222;Машината, както и да я сглобяват, все джуджета изкарва”. Протест поиска край на &#8222;мишкуването&#8220; в прокуратурата",
       "link": "https://svobodnatochka.bg/mashinata-kakto-i-da-ya-sglobyavat-vse-dzhudzheta-izkarva-protest-nastoyava-za-kraj-na-mishkuvaneto-v-prokuraturata/",
       "pubDate": "Wed, 08 Apr 2026 17:40:59 +0000",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "title": "„Закриха заседаниет��“. ВСС не насрочи избор на нов временен главен прокурор въпреки решението на КС за Сарафов",
+      "title": "„Закриха заседанието“. ВСС не насрочи избор на нов временен главен прокурор въпреки решението на КС за Сарафов",
       "link": "https://svobodnatochka.bg/sarafov-glaven-prokuror-vss/",
       "pubDate": "Wed, 08 Apr 2026 12:29:55 +0000",
       "thumbnail": null,
@@ -234,9 +234,7 @@
       "title": "Снимка на деня: Джей Ди Ванс пристигна в Унгария и подкрепи Орбан преди изборите в неделя",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/04/08/4900944_snimka_na_denia_djei_di_vans_pristigna_v_ungariia_i/?ref=rss",
       "pubDate": "2026-04-08 14:17:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4901050.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -246,9 +244,7 @@
       "title": "Най-бързорастящите 15 компании за мебели и дървопреработване: Постоянство и умерено напред",
       "link": "https://www.capital.bg/biznes/kompanii/2026/04/08/4878835_nai-burzorastiashtite_15_kompanii_za_mebeli_i/?ref=rss",
       "pubDate": "2026-04-08 14:07:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4878842.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -258,9 +254,7 @@
       "title": "Важните новини през седмицата",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/04/09/4900392_vajnite_novini_prez_sedmicata/?ref=rss",
       "pubDate": "2026-04-08 14:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4900680.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -270,9 +264,7 @@
       "title": "Извънредно студио: Ще гласува ли GEN Z на изборите",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/04/08/4901030_izvunredno_studio_shte_glasuva_li_gen_z_na_izborite/?ref=rss",
       "pubDate": "2026-04-08 13:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4901029.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -282,20 +274,18 @@
       "title": "Ритейл новини: 🛒\"Орбико\" влезе в ритейл козметиката, Спад в продажбите на бира, \"Смарт органик\" търси още капитал",
       "link": "https://www.capital.bg/biznes/stoki_i_prodajbi/2026/04/08/4900602_riteil_novini_orbiko_vleze_v_riteil_kozmetikata_spad_v/?ref=rss",
       "pubDate": "2026-04-08 12:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4900605.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Белият дом: Заплахите на Тръмп не бяха празни, имахме списък с цели, ако Иран не бе отстъпил (ВИДЕО)",
-      "link": "https://www.actualno.com/america/belijat-dom-zaplahite-na-trymp-ne-bjaha-prazni-imahme-spisyk-s-celi-ako-iran-ne-be-otstypil-video-news_2579448.html",
-      "pubDate": "2026-04-08 18:32:00",
+      "title": "Журналистическо разследване отново разкрива връзките на унгарския външен министър с Русия (АУДИО)",
+      "link": "https://www.actualno.com/europe/jurnalistichesko-razsledvane-otnovo-razkriva-vryzkite-na-ungarskija-vynshen-ministyr-s-rusija-audio-news_2579486.html",
+      "pubDate": "2026-04-08 23:12:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/08/3a7535bc4532d7f4009bb4f0f598b752_2579448_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/09/59e1a0c638378a873b4782fcdfc7649e_2579486_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +294,11 @@
       }
     },
     {
-      "title": "Скандалът между Мартин и Даниела за малко да се повтори в \"Ергенът\" 5",
-      "link": "https://www.actualno.com/showbusiness/skandalyt-mejdu-martin-i-daniela-za-malko-da-se-povtori-v-ergenyt-5-news_2579335.html",
-      "pubDate": "2026-04-08 18:27:00",
+      "title": "Анализатор: САЩ видяха, че средствата, които се дават, не оправдават целта",
+      "link": "https://www.actualno.com/asia/analizator-sasht-vidjaha-che-sredstvata-koito-se-davat-ne-opravdavat-celta-news_2579484.html",
+      "pubDate": "2026-04-08 22:40:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/08/43d26dd23f050698d70794e60b6c5019_2579335_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/09/4bd2a02039e5e285f47246212b2c623b_2579484_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +307,11 @@
       }
     },
     {
-      "title": "Отгледан на “Герена“, за да спаси ЦСКА: Невероятната съдба на новия герой на “Армията“",
-      "link": "https://www.actualno.com/bgfootball/otgledan-na-gerena-za-da-spasi-cska-neverojatnata-sydba-na-novija-geroj-na-armijata-news_2579443.html",
-      "pubDate": "2026-04-08 18:18:00",
+      "title": "След като оряза достъпа до интернет: Русия обвини YouTube в цензура заради беларуски канали (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/sled-kato-orjaza-dostypa-do-internet-rusija-obvini-youtube-v-cenzura-zaradi-belaruski-kanali-video-news_2579483.html",
+      "pubDate": "2026-04-08 22:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/08/96311e2a5fdc6c4c064755c0aef634c6_2579443_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/09/76956b577b9e0441a743c832722934eb_2579483_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +320,11 @@
       }
     },
     {
-      "title": "Платен отпуск за грижа за болни домашни любимци – първа по рода си мярка е официална",
-      "link": "https://www.actualno.com/europe/platen-otpusk-za-grija-za-bolni-domashni-lubimci-pyrva-po-roda-si-mjarka-e-oficialna-news_2579267.html",
-      "pubDate": "2026-04-08 18:00:00",
+      "title": "Разкритие: Инвеститори продали фючърси за петрол за близо милиард долара преди цената му да падне рязко",
+      "link": "https://www.actualno.com/economy/razkritie-investitori-prodali-fuchyrsi-za-petrol-za-blizo-miliard-dolara-predi-cenata-mu-da-padne-rjazko-news_2579481.html",
+      "pubDate": "2026-04-08 21:52:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/08/8f25d98d47ca6a2ca0bdcde5c1136d9f_2579267_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/09/73bc2bd4d8e17ba809086c08ccfe9f2e_2579481_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,11 +333,11 @@
       }
     },
     {
-      "title": "Тръмп определи екипа за преговорите с Иран в Пакистан (ВИДЕО)",
-      "link": "https://www.actualno.com/asia/trymp-opredeli-ekipa-za-pregovorite-s-iran-v-pakistan-video-news_2579438.html",
-      "pubDate": "2026-04-08 17:52:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 9 април /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-9-april-valuten-kalkulator-news_2579473.html",
+      "pubDate": "2026-04-08 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/08/ed81de3643fcc3be68dcf9e34e1018db_2579438_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/09/img_69d6c1d3da5f6_2579473_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -359,6 +349,16 @@
       "title": "I ported Mac OS X to the Nintendo Wii",
       "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
       "pubDate": "2026-04-08 15:40:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "LittleSnitch for Linux",
+      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "pubDate": "2026-04-09 00:26:08",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -389,16 +389,6 @@
       "title": "Understanding the Kalman filter with a simple radar example",
       "link": "https://kalmanfilter.net/",
       "pubDate": "2026-04-08 17:11:46",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "The AI Great Leap Forward",
-      "link": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/",
-      "pubDate": "2026-04-08 20:10:51",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -456,5 +446,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-04-08T21:32:40.923Z"
+  "lastUpdated": "2026-04-09T00:59:29.729Z"
 }
