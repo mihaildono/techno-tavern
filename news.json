@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Облачно и дъждовно - на места ще вали сняг. Минимални температури между 0° и 5°",
+      "link": "https://offnews.bg/obshtestvo/oblachno-i-dazhdovno-na-mesta-shte-vali-sniag-minimalni-temperaturi-864738.html",
+      "pubDate": "2026-04-10 21:30:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/10/864738/phpltlygw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4624
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Камала Харис обяви, че обмисля да се кандидатира за президент през 2028",
+      "link": "https://offnews.bg/sviat/kamala-haris-obiavi-che-obmislia-da-se-kandidatira-za-prezident-prez-864744.html",
+      "pubDate": "2026-04-10 19:09:37",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/10/864744/phpm8gswn_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4802
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Славия отбеляза 113-тия си рожден ден със загуба",
+      "link": "https://offnews.bg/futbol/slavia-otbeliaza-113-tia-si-rozhden-den-sas-zaguba-864743.html",
+      "pubDate": "2026-04-10 18:56:20",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/10/864743/php0cwe7e_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5260
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Руският патриарх обърка Велики Четвъртък с Богоявление: но не в това е проблемът",
+      "link": "https://offnews.bg/sviat/ruskiat-patriarh-obarka-veliki-chetvartak-s-bogoiavlenie-no-ne-v-tova-864741.html",
+      "pubDate": "2026-04-10 18:50:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/10/864741/phphng96u_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7614
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Тръмп предупреди Иран, че няма ли споразумение в Исламабад, атаките се подновяват",
       "link": "https://offnews.bg/sviat/tramp-predupredi-iran-che-niama-li-sporazumenie-v-islamabad-atakite-864742.html",
       "pubDate": "2026-04-10 18:36:25",
@@ -15,68 +71,30 @@
       }
     },
     {
-      "title": "Джей Ди Ванс предупреди Техеран да не ''си играе'' със САЩ, докато отпътува за Исламабад",
-      "link": "https://offnews.bg/sviat/dzhej-di-vans-predupredi-teheran-da-ne-si-igrae-sas-sasht-dokato-864740.html",
-      "pubDate": "2026-04-10 17:49:50",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/10/864740/phpftinsn_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5161
-      },
+      "title": "Мисията \"Артемис 2\" приключи с успешно спускане в Тихия океан",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/11/4901635_misiiata_artemis_2_prikljuchi_s_uspeshno_spuskane_v/?ref=rss",
+      "pubDate": "2026-04-11 00:16:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "ТикТок свали фалшиви профили, агитирали за ДПС-Ново начало",
-      "link": "https://offnews.bg/politika/tiktok-svali-falshivi-profili-agitirali-za-dps-novo-nachalo-864739.html",
-      "pubDate": "2026-04-10 16:49:03",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/10/864739/phpcip42b_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4636
-      },
+      "title": "Ралица Асенова твърди, че с тримата загинали в бившата хижа \"Петрохан\" е имало още двама",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/04/10/4901616_ralica_asenova_tvurdi_che_s_trimata_zaginali_v/?ref=rss",
+      "pubDate": "2026-04-10 20:27:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Ралица Асенова: Стотици хора вече видяха 7-ми и 8-ми човек на Петрохан",
-      "link": "https://offnews.bg/obshtestvo/ralitca-asenova-stotitci-hora-veche-vidiaha-7-mi-i-8-mi-chovek-na-pet-864737.html",
-      "pubDate": "2026-04-10 16:24:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/10/864737/phptw4af2_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5054
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Как да гласуваме с машина или с хартиена бюлетина на 19 април",
-      "link": "https://offnews.bg/politika/kak-da-glasuvame-s-mashina-ili-s-hartiena-biuletina-na-19-april-864736.html",
-      "pubDate": "2026-04-10 15:30:56",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/10/864736/phpc827vu_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6215
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
       "title": "Столичната община е подписала договор с Michelin за одит на ресторанти",
       "link": "https://www.dnevnik.bg/hrana_i_napitki/2026/04/10/4901611_stolichnata_obshtina_e_podpisala_dogovor_s_michelin_za/?ref=rss",
       "pubDate": "2026-04-10 17:35:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4598327.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -86,9 +104,7 @@
       "title": "Иран поиска сваляне на санкциите и спиране на ударите по Ливан преди преговорите със САЩ",
       "link": "https://www.dnevnik.bg/sviat/2026/04/10/4901608_iran_poiska_svaliane_na_sankciite_i_spirane_na_udarite/?ref=rss",
       "pubDate": "2026-04-10 16:54:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4901610.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -98,33 +114,7 @@
       "title": "Под президентския герб Мелания Тръмп отрече да е жертва на Джефри Епстийн",
       "link": "https://www.dnevnik.bg/sviat/2026/04/10/4901601_pod_prezidentskiia_gerb_melaniia_trump_otreche_da_e/?ref=rss",
       "pubDate": "2026-04-10 16:34:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4901600.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "В САЩ е отчетено най-голямото повишение на цените от близо четири години насам",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/10/4901602_v_sasht_e_otcheteno_nai-goliamoto_povishenie_na_cenite/?ref=rss",
-      "pubDate": "2026-04-10 15:53:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4888699.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Ливан е изправен пред недостиг на храна",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/10/4901598_livan_e_izpraven_pred_nedostig_na_hrana/?ref=rss",
-      "pubDate": "2026-04-10 15:52:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4901599.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -161,7 +151,7 @@
       }
     },
     {
-      "title": "Не получаваш храна, ако не гласуваш за „правилната“ партия. Как работи контрол��раният вот",
+      "title": "Не получаваш храна, ако не гласуваш за „правилната“ партия. Как работи контролираният вот",
       "link": "https://svobodnatochka.bg/kak-raboti-kontroliraniyat-vot/",
       "pubDate": "Fri, 10 Apr 2026 07:24:22 +0000",
       "thumbnail": null,
@@ -356,6 +346,46 @@
       }
     },
     {
+      "title": "Filing the Corners Off MacBooks",
+      "link": "https://kentwalters.com/posts/corners/",
+      "pubDate": "2026-04-10 22:16:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Sam Altman's response to Molotov cocktail incident",
+      "link": "https://blog.samaltman.com/2279512",
+      "pubDate": "2026-04-10 23:05:48",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Artemis II safely splashes down",
+      "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "pubDate": "2026-04-11 00:10:51",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "pubDate": "2026-04-10 19:10:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "1D Chess",
       "link": "https://rowan441.github.io/1dchess/chess.html",
       "pubDate": "2026-04-10 15:37:28",
@@ -366,43 +396,13 @@
       }
     },
     {
-      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
-      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "pubDate": "2026-04-10 19:10:22",
+      "title": "Artemis II splashes down in Pacific after historic moon trip",
+      "link": "https://www.dw.com/en/artemis-ii-splashes-down-in-pacific-after-historic-moon-trip/live-76722861?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-11T00:11:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "pubDate": "2026-04-10 15:49:52",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "link": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "pubDate": "2026-04-10 16:22:26",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Watgo – A WebAssembly Toolkit for Go",
-      "link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
-      "pubDate": "2026-04-10 19:03:39",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Iran war: Rifts in regime bigger threat to ceasefire",
-      "link": "https://www.dw.com/en/iran-war-rifts-in-regime-bigger-threat-to-ceasefire/a-76739876?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-10T14:45:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-10T21:25:00.272Z"
+  "lastUpdated": "2026-04-11T01:05:10.385Z"
 }
