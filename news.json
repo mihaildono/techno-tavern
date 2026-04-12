@@ -131,7 +131,27 @@
       }
     },
     {
-      "title": "&#8222;Разминаване в позициите&#8220;. Преговорите между Иран и САЩ се провалиха",
+      "title": "Русия и Украйна се обвиняват взаимно в неспазване на &#8222;Великденското примирие&#8220;",
+      "link": "https://svobodnatochka.bg/rusiya-i-ukrajna-se-obvinyavat-vzaimno-v-nespazvane-na-velikdenskoto-primirie/",
+      "pubDate": "Sun, 12 Apr 2026 13:13:25 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "&#8222;Между Изтока и Запада&#8220;. Унгария гласува на ключови за &#8222;ерата на Орбан&#8220; избори",
+      "link": "https://svobodnatochka.bg/mezhdu-iztoka-i-zapada-ungariya-glasuva-za-parlament/",
+      "pubDate": "Sun, 12 Apr 2026 11:17:54 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "&#8222;Разминаване в п��зициите&#8220;. Преговорите между Иран и САЩ се провалиха",
       "link": "https://svobodnatochka.bg/pregovorite-mezhdu-iran-i-sasth-se-provaliha/",
       "pubDate": "Sun, 12 Apr 2026 07:44:05 +0000",
       "thumbnail": null,
@@ -154,26 +174,6 @@
       "title": "Само за 3 месеца. Дефицитът в бюджета на Русия надхвърли годишната цел",
       "link": "https://svobodnatochka.bg/deficzitat-v-federalniya-byudzhet-na-rusiya-nadhvarli-godishnata-czel-samo-za-3-mesecza/",
       "pubDate": "Sat, 11 Apr 2026 09:20:09 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Отново на Земята. Астронавтите от &#8222;Артемис 2&#8220; се завърнаха от обиколката около Луната",
-      "link": "https://svobodnatochka.bg/otnovo-na-zemyata-astronavtite-ot-artemis-2-se-zavarnaha-ot-lunata/",
-      "pubDate": "Sat, 11 Apr 2026 08:47:17 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Голямата картина: Как се търгува с гласове и как действа МВР",
-      "link": "https://svobodnatochka.bg/golyamata-kartina-kak-se-targuva-s-glasove-i-kak-dejstva-mvr/",
-      "pubDate": "Sat, 11 Apr 2026 07:48:05 +0000",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -366,6 +366,46 @@
       }
     },
     {
+      "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+      "link": "https://github.com/anthropics/claude-code/issues/45756",
+      "pubDate": "2026-04-12 13:15:31",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "We have a 99% email reputation. Gmail disagrees",
+      "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "pubDate": "2026-04-12 12:42:25",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "pubDate": "2026-04-12 13:06:44",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Bring Back Idiomatic Design",
+      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "pubDate": "2026-04-12 12:21:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "JVM Options Explorer",
       "link": "https://chriswhocodes.com/vm-options-explorer.html",
       "pubDate": "2026-04-12 10:29:26",
@@ -376,49 +416,9 @@
       }
     },
     {
-      "title": "What have been the greatest intellectual achievements? (2017)",
-      "link": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
-      "pubDate": "2026-04-12 10:46:21",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "An Interview with Pat Gelsinger",
-      "link": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "pubDate": "2026-04-09 17:19:10",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "The Miller Principle (2007)",
-      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "pubDate": "2026-04-07 13:16:36",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Phyphox – Physical Experiments Using a Smartphone",
-      "link": "https://phyphox.org/",
-      "pubDate": "2026-04-12 08:38:11",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Haiti: More than 30 killed in stampede at historical fort",
-      "link": "https://www.dw.com/en/haiti-more-than-30-killed-in-stampede-at-historical-fort/a-76753125?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-12T10:11:00Z",
+      "title": "Zelenskyy, Putin mark Easter amid truce breach allegations",
+      "link": "https://www.dw.com/en/zelenskyy-putin-mark-easter-amid-truce-breach-allegations/a-76754232?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T15:10:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -426,9 +426,9 @@
       }
     },
     {
-      "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
-      "link": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-12T09:30:00Z",
+      "title": "Hacking women&apos;s political underrepresentation, Dutch-style",
+      "link": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T13:59:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -436,9 +436,9 @@
       }
     },
     {
-      "title": "India: Legendary playback singer Asha Bhosle dies at 92",
-      "link": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-12T08:48:00Z",
+      "title": "Benin heads to the polls to elect a new president",
+      "link": "https://www.dw.com/en/benin-heads-to-the-polls-to-elect-a-new-president/a-76754222?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T13:38:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -446,9 +446,9 @@
       }
     },
     {
-      "title": "China boosts ties with Taiwan after opposition leader visits",
-      "link": "https://www.dw.com/en/china-boosts-ties-with-taiwan-after-opposition-leader-visits/a-76752265?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-12T08:27:00Z",
+      "title": "Does age verification for social media help protect kids?",
+      "link": "https://www.dw.com/en/does-age-verification-for-social-media-help-protect-kids/a-76713278?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T13:36:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -456,9 +456,9 @@
       }
     },
     {
-      "title": "Germany news: Most Germans see decline in public manners",
-      "link": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-12T08:19:00Z",
+      "title": "Germany: Betting on elections is illegal — but possible",
+      "link": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T12:36:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW България",
@@ -466,5 +466,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-04-12T12:31:53.610Z"
+  "lastUpdated": "2026-04-12T15:25:05.071Z"
 }
