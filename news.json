@@ -1,11 +1,53 @@
 {
   "items": [
     {
+      "title": "САЩ и Иран не постигнаха мирно споразумение",
+      "link": "https://offnews.bg/sviat/sasht-i-iran-ne-postignaha-mirno-sporazumenie-864772.html",
+      "pubDate": "2026-04-12 04:30:30",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/12/864772/php4jzmjd_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 5749
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Гласуването в Унгария започна, вотът е ключов за бъдещето на страната и ЕС",
+      "link": "https://offnews.bg/sviat/glasuvaneto-v-ungaria-zapochna-votat-e-kliuchov-za-badeshteto-na-stra-864773.html",
+      "pubDate": "2026-04-12 04:20:20",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/12/864773/phpoqedyb_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7059
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Повече слънце през облаците, температурите се повишават",
+      "link": "https://offnews.bg/obshtestvo/poveche-slantce-prez-oblatcite-temperaturite-se-povishavat-864760.html",
+      "pubDate": "2026-04-12 04:01:33",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/11/864760/phpt4tkbr_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 12012
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Христос Воскресе! Честит Великден",
       "link": "https://offnews.bg/obshtestvo/hristos-voskrese-chestit-velikden-822259.html",
       "pubDate": "2026-04-11 21:02:59",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2024/04/29/822259/phpy2hzas_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2024/04/29/822259/phpy2hzas_152x158.jpg",
         "type": "image/jpeg",
         "length": 9992
       },
@@ -19,7 +61,7 @@
       "link": "https://offnews.bg/obshtestvo/blagodatniat-ogan-ot-jerusalim-pristigna-v-balgaria-864770.html",
       "pubDate": "2026-04-11 20:06:20",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/11/864770/phpvkqedi_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/04/11/864770/phpvkqedi_152x158.jpg",
         "type": "image/jpeg",
         "length": 7584
       },
@@ -29,51 +71,9 @@
       }
     },
     {
-      "title": "Влакче във виенския Пратер дерайлира, пострадаха петима души",
-      "link": "https://offnews.bg/sviat/vlakche-vav-vienskia-prater-derajlira-postradaha-petima-dushi-864769.html",
-      "pubDate": "2026-04-11 19:18:14",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/11/864769/phphcuwpa_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7076
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Тръмп: Лъжат ви, че Иран не е победен. Сега разчистваме Ормузкия проток",
-      "link": "https://offnews.bg/sviat/tramp-lazhat-vi-che-iran-ne-e-pobeden-sega-razchistvame-ormuzkia-pr-864768.html",
-      "pubDate": "2026-04-11 17:51:36",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/11/864768/php5f4rzo_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6733
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Божанов: На българските избори няма причина за румънски сценарий ала Джорджеску",
-      "link": "https://offnews.bg/izbori/bozhanov-na-balgarskite-izbori-niama-prichina-za-rumanski-stcenarij-a-864767.html",
-      "pubDate": "2026-04-11 16:43:37",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/11/864767/phpd2p19a_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4542
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Честито Възкресение Христово",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/04/12/4896152_chestito_vuzkresenie_hristovo/?ref=rss",
-      "pubDate": "2026-04-11 21:24:00",
+      "title": "Последен шанс да участвате в играта за наградите на \"Майкъл\"",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/04/12/4901021_posleden_shans_da_uchastvate_v_igrata_za_nagradite_na/?ref=rss",
+      "pubDate": "2026-04-12 05:00:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -81,9 +81,9 @@
       }
     },
     {
-      "title": "САЩ и Иран говорят от часове – това е срещата им на най-високо ниво от 47 години",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/11/4901730_razgovorite_iran-sasht_produljavat_s_chasove_tova_e/?ref=rss",
-      "pubDate": "2026-04-11 17:37:00",
+      "title": "Vizualiza Residence Hotel: Световна класа на Сахат тепе",
+      "link": "https://www.dnevnik.bg/bacchus/2026/04/12/4898280_vizualiza_residence_hotel_svetovna_klasa_na_sahat_tepe/?ref=rss",
+      "pubDate": "2026-04-12 05:00:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -91,9 +91,9 @@
       }
     },
     {
-      "title": "Около 12 хил. разрешителни за чуждестранни работници в туризма са издадени за три месеца",
-      "link": "https://www.dnevnik.bg/biznes/2026/04/11/4901708_okolo_12_hil_razreshitelni_za_chujdestranni_rabotnici/?ref=rss",
-      "pubDate": "2026-04-11 17:27:00",
+      "title": "Ванс се прибира в САЩ без \"сделка\" с Иран след 21 часа преговори",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/12/4901762_vans_se_pribira_v_sasht_bez_sdelka_s_iran_sled_21/?ref=rss",
+      "pubDate": "2026-04-12 04:55:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,9 +101,9 @@
       }
     },
     {
-      "title": "Сестри Стоеви спечелиха поредна титла на Европейското първенство по бадминтон",
-      "link": "https://www.dnevnik.bg/sport/2026/04/11/4901706_sestri_stoevi_specheliha_poredna_titla_na_evropeiskoto/?ref=rss",
-      "pubDate": "2026-04-11 17:00:00",
+      "title": "Унгарците решават днес стигат ли им 16 години Орбан",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/12/4901737_ungarcite_reshavat_dnes_stigat_li_im_16_godini_orban/?ref=rss",
+      "pubDate": "2026-04-12 04:01:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -111,9 +111,9 @@
       }
     },
     {
-      "title": "Ледниците продължават да се свиват с обезпокоителни темпове",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/11/4901704_lednicite_produljavat_da_se_svivat_s_obezpokoitelni/?ref=rss",
-      "pubDate": "2026-04-11 16:26:00",
+      "title": "Все по-малко хора мислят, че моралният човек трябва и да вярва в Бог",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/12/4900526_vse_po-malko_hora_misliat_che_moralniiat_chovek/?ref=rss",
+      "pubDate": "2026-04-12 03:48:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -241,8 +241,8 @@
       }
     },
     {
-      "title": "Безпрецедентният залог на Amazon за пробив в AI може да се окаже успешен",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/11/4897273_bezprecedentniiat_zalog_na_amazon_za_probiv_v_ai_moje/?ref=rss",
+      "title": "\"Любимият фелдмаршал\" на Тръмп от Пакистан му помогна срещу Иран",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/11/4901218_ljubimiiat_feldmarshal_na_trump_ot_pakistan_mu_pomogna/?ref=rss",
       "pubDate": "2026-04-11 08:17:00",
       "thumbnail": null,
       "source": {
@@ -251,8 +251,8 @@
       }
     },
     {
-      "title": "\"Любимият фелдмаршал\" на Тръмп от Пакистан му помогна срещу Иран",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/11/4901218_ljubimiiat_feldmarshal_na_trump_ot_pakistan_mu_pomogna/?ref=rss",
+      "title": "Безпрецедентният залог на Amazon за пробив в AI може да се окаже успешен",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/11/4897273_bezprecedentniiat_zalog_na_amazon_za_probiv_v_ai_moje/?ref=rss",
       "pubDate": "2026-04-11 08:17:00",
       "thumbnail": null,
       "source": {
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Рекордна инфлация в САЩ заради рекордно поскъпване на бензина",
-      "link": "https://www.actualno.com/economy/rekordna-inflacija-v-sasht-zaradi-rekordno-poskypvane-na-benzina-news_2580421.html",
-      "pubDate": "2026-04-11 20:25:00",
+      "title": "Тръмп се закани на Китай заради Иран и обяви: \"Ние спечелихме\" (ВИДЕО)",
+      "link": "https://www.actualno.com/america/trymp-se-zakani-na-kitaj-zaradi-iran-i-objavi-nie-spechelihme-video-news_2580459.html",
+      "pubDate": "2026-04-12 05:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/cd7a98ca77f6e152962436946e895bc6_2580421_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/12/af3d6d26107079e80ad18a7196ff814f_2580459_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "САЩ разминират Ормузкия проток: Първите 3 супертанкера успяха да преминат",
-      "link": "https://www.actualno.com/asia/sasht-razminirat-ormuzkija-protok-pyrvite-3-supertankera-uspjaha-da-preminat-news_2580420.html",
-      "pubDate": "2026-04-11 20:23:00",
+      "title": "Няма мир между САЩ и Иран: Резултатът от 21 часа преговори (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/njama-mir-mejdu-sasht-i-iran-rezultatyt-ot-21-chasa-pregovori-video-news_2580458.html",
+      "pubDate": "2026-04-12 04:50:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/37c69be52864a15d7f21889a0f53ba0d_2580420_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/12/423267bc983e071f24c9276255bd1316_2580458_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Молдовският президент подписа документите за излизане от ОНД - наследника на СССР",
-      "link": "https://www.actualno.com/europe/moldovskijat-prezident-podpisa-dokumentite-za-izlizane-ot-ond-naslednika-na-sssr-news_2580418.html",
-      "pubDate": "2026-04-11 20:07:00",
+      "title": "12 април в историята: Русия обявява война на Османската империя за освобождението на България",
+      "link": "https://www.actualno.com/society/12-april-v-istorijata-rusija-objavjava-vojna-na-osmanskata-imperija-za-osvobojdenieto-na-bylgarija-news_2578284.html",
+      "pubDate": "2026-04-12 04:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/b6d52d14ae1e874910f8b9bad7d96521_2580418_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/06/d10341a1559a05a39bc9fcb2cc5fc627_2578284_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Тръмп: Най-сладкият петрол е в САЩ. Очакваме ви. Бърза обработка на поръчките!",
-      "link": "https://www.actualno.com/america/trymp-naj-sladkijat-petrol-e-v-sasht-ochakvame-vi-byrza-obrabotka-na-porychkite-news_2580417.html",
-      "pubDate": "2026-04-11 20:05:00",
+      "title": "Кой има имен ден днес, 12 април 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-12-april-2026-g-chestito-news_2580425.html",
+      "pubDate": "2026-04-12 02:55:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/38f3e510a5190f867e8b36505a9c72cb_2580417_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/519eece25faf7a526b769649465d901e_2580425_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,42 +333,32 @@
       }
     },
     {
-      "title": "Бунтът на гения: Как Симеон Николов отказа милиони в Европа, за да излъже системата",
-      "link": "https://www.actualno.com/volleyball/buntyt-na-genija-kak-simeon-nikolov-otkaza-milioni-v-evropa-za-da-izlyje-sistemata-news_2580415.html",
-      "pubDate": "2026-04-11 19:42:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 12 април /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-12-april-valuten-kalkulator-news_2580431.html",
+      "pubDate": "2026-04-11 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/11/4f85b5c2a507a29fc60a38629da4a7e1_2580415_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/12/img_69dab653eb1bb_2580431_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "The End of Eleventy",
+      "link": "https://brennan.day/the-end-of-eleventy/",
+      "pubDate": "2026-04-12 01:55:48",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
       "title": "Small models also found the vulnerabilities that Mythos found",
       "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "pubDate": "2026-04-11 16:47:28",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "pubDate": "2026-04-11 20:58:48",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "AI Job Loss Tracker",
-      "link": "https://jobloss.ai/",
-      "pubDate": "2026-04-12 00:19:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,6 +376,16 @@
       }
     },
     {
+      "title": "How Complex is my Code?",
+      "link": "https://philodev.one/posts/2026-04-code-complexity/",
+      "pubDate": "2026-04-07 10:44:55",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
       "link": "https://zenodo.org/records/19513269",
       "pubDate": "2026-04-11 20:08:46",
@@ -393,6 +393,26 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Hungary election: Orban faces tight race in pivotal vote",
+      "link": "https://www.dw.com/en/hungary-election-orban-faces-tight-race-in-pivotal-vote/live-76750838?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T03:09:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "US and Iran have not reached an agreement, Vance says",
+      "link": "https://www.dw.com/en/us-and-iran-have-not-reached-an-agreement-vance-says/live-76750859?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-12T02:06:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,27 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "UK freezes deal to return Chagos Islands to Mauritius",
-      "link": "https://www.dw.com/en/uk-freezes-deal-to-return-chagos-islands-to-mauritius/a-76748742?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-11T16:26:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany: Lufthansa pilots&apos; union call for two-day strike",
-      "link": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-11T15:27:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-12T01:13:59.431Z"
+  "lastUpdated": "2026-04-12T05:14:17.725Z"
 }
