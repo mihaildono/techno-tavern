@@ -71,50 +71,60 @@
       }
     },
     {
-      "title": "Морето изхвърли дрон в Ахтопол",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/04/16/4903214_moreto_izhvurli_dron_v_ahtopol/?ref=rss",
-      "pubDate": "2026-04-16 16:05:00",
-      "thumbnail": null,
+      "title": "Русия намалява вътрешните полети, няма самолети",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/16/4903283_rusiia_namaliava_vutreshnite_poleti_niama_samoleti/?ref=rss",
+      "pubDate": "2026-04-16 19:10:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4903284.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Брюксел разследва държавна помощ за АЕЦ \"Черна вода\"",
-      "link": "https://www.dnevnik.bg/evropa/2026/04/16/4903237_brjuksel_razsledva_durjavna_pomosht_za_aec_cherna_voda/?ref=rss",
-      "pubDate": "2026-04-16 15:59:00",
-      "thumbnail": null,
+      "title": "За финал на кампанията ПП-ДБ събра хиляди за шествие в центъра на София",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/04/16/4903282_za_final_na_kampaniiata_pp-db_subra_hiliadi_za/?ref=rss",
+      "pubDate": "2026-04-16 18:45:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4903280.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Обвиненият косвено в търговия с вот Даниел Парушев: Абсурдно и нелогично",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/04/16/4903232_obvineniiat_kosveno_v_turgoviia_s_vot_daniel_parushev/?ref=rss",
-      "pubDate": "2026-04-16 15:51:00",
-      "thumbnail": null,
+      "title": "В колата на кандидат-депутат са открити пари и списъци с имена",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/04/16/4903273_v_kolata_na_kandidat-deputat_sa_otkriti_pari_i_spisuci/?ref=rss",
+      "pubDate": "2026-04-16 18:10:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4903271.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Румен Радев учредява партията си във Велико Търново",
-      "link": "https://www.dnevnik.bg/politika/2026/04/16/4903234_rumen_radev_uchrediava_partiiata_si_v_posledniia_den/?ref=rss",
-      "pubDate": "2026-04-16 15:38:00",
-      "thumbnail": null,
+      "title": "Непълнолетен е обвинен за убийството на мъж във Варна",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/04/16/4903270_nepulnoleten_e_obvinen_za_ubiistvoto_na_muj_vuv_varna/?ref=rss",
+      "pubDate": "2026-04-16 18:00:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4199510.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Още болници са обект на проверки за вариращи цени на лекарства за деца",
-      "link": "https://www.dnevnik.bg/zdrave/2026/04/16/4903222_oshte_bolnici_sa_obekt_na_proverki_za_varirashti_ceni/?ref=rss",
-      "pubDate": "2026-04-16 15:31:00",
-      "thumbnail": null,
+      "title": "В училища в България са изградени 64 нови физкултурни салона и 237 спортни площадки",
+      "link": "https://www.dnevnik.bg/detski_dnevnik/obrazovanie/2026/04/16/4903268_v_uchilishta_v_bulgariia_sa_izgradeni_64_novi/?ref=rss",
+      "pubDate": "2026-04-16 17:57:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4903267.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -356,6 +366,16 @@
       }
     },
     {
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "pubDate": "2026-04-16 17:12:19",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "pubDate": "2026-04-16 14:23:50",
@@ -366,29 +386,9 @@
       }
     },
     {
-      "title": "Codex for Almost Everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "pubDate": "2026-04-16 17:12:19",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "pubDate": "2026-04-16 13:36:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "link": "https://blog.cloudflare.com/ai-platform/",
-      "pubDate": "2026-04-16 13:17:37",
+      "title": "German Dog Commands",
+      "link": "https://www.fluentu.com/blog/german/german-dog-commands/",
+      "pubDate": "2026-04-16 19:26:03",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -403,6 +403,26 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "TigerBeetle: A Trillion Transactions [video]",
+      "link": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
+      "pubDate": "2026-04-12 05:14:52",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Cuban president vows defense of island if US invades",
+      "link": "https://www.dw.com/en/cuban-president-vows-defense-of-island-if-us-invades/a-76815996?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-16T19:05:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +464,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "How the Hormuz Strait crisis is squeezing India&apos;s SMEs",
-      "link": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-16T14:26:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-16T18:54:31.628Z"
+  "lastUpdated": "2026-04-16T21:32:28.761Z"
 }
