@@ -131,6 +131,26 @@
       }
     },
     {
+      "title": "МВР откри 200 000 евро за купуване на гласове във Варна. В друга акция хвана кандидат-депутат с пликове с пари и списъци с имена",
+      "link": "https://svobodnatochka.bg/mvr-otkri-200-000-evro-v-plikove-za-kupuvane-na-glasove-v-drugi-akczii-sa-arestuvani-kandidat-deputati/",
+      "pubDate": "Fri, 17 Apr 2026 06:48:11 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Радев се доближава до двойна разлика пред ГЕРБ. „Сияние“ е на ръба за влизане в парламента",
+      "link": "https://svobodnatochka.bg/radev-se-doblizhava-do-dvojna-razlika-pred-gerb-siyanie-e-na-raba-za-vlizane-v-parlamenta/",
+      "pubDate": "Fri, 17 Apr 2026 06:23:47 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "За пръв път може да има парламент без нея. Промени ли се БСП с Крум Зарков начело",
       "link": "https://svobodnatochka.bg/za-prav-pat-mozhe-da-ima-parlament-bez-bsp-promeni-li-se-partiyata-s-krum-zarkov-nachelo/",
       "pubDate": "Fri, 17 Apr 2026 04:37:40 +0000",
@@ -154,26 +174,6 @@
       "title": "&#8222;Да изритаме Борисов и Пеевски завинаги&#8220;. ПП-ДБ закри предизборната си кампания",
       "link": "https://svobodnatochka.bg/pp-db-zakri-predizbornata-si-kampaniya-s-shestvie/",
       "pubDate": "Thu, 16 Apr 2026 18:32:06 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Радев отхвърли коалиция с ГЕРБ, а управление с ПП-ДБ определи като „нежелано“",
-      "link": "https://svobodnatochka.bg/radev-othvarli-koalicziya-s-gerb-a-upravlenie-s-pp-db-opredeli-kato-nezhelano/",
-      "pubDate": "Thu, 16 Apr 2026 17:56:09 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Вече 11 области са обхванати от морбили. Най-много са случаите във Враца",
-      "link": "https://svobodnatochka.bg/veche-11-oblasti-sa-obhvanati-ot-morbili-naj-mnogo-sa-sluchaite-vav-vracza/",
-      "pubDate": "Thu, 16 Apr 2026 12:52:57 +0000",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -396,9 +396,9 @@
       }
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "pubDate": "2026-04-16 21:56:37",
+      "title": "A Python Interpreter Written in Python",
+      "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+      "pubDate": "2026-04-13 17:25:50",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,13 +406,23 @@
       }
     },
     {
-      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
       "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
       "pubDate": "2026-04-17 00:37:47",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Roberts-Smith gets bail in Australia over Afghan war crimes",
+      "link": "https://www.dw.com/en/roberts-smith-gets-bail-in-australia-over-afghan-war-crimes/a-76817243?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-17T07:00:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -454,17 +464,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "10-day ceasefire between Israel, Lebanon goes into effect",
-      "link": "https://www.dw.com/en/10-day-ceasefire-between-israel-lebanon-goes-into-effect/live-76802532?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-16T15:50:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-17T05:19:07.136Z"
+  "lastUpdated": "2026-04-17T07:15:41.151Z"
 }
