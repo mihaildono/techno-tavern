@@ -66,8 +66,18 @@ function delay(ms) {
 
 function fetchUrl(url, timeoutMs = 15000) {
   return new Promise((resolve, reject) => {
+    const parsed = new URL(url);
+    const options = {
+      hostname: parsed.hostname,
+      path: parsed.pathname + parsed.search,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (compatible; RSS-Reader/1.0; +https://technotavern.com)",
+        Accept: "application/rss+xml, application/xml, text/xml, */*",
+      },
+    };
     const req = https
-      .get(url, (res) => {
+      .get(options, (res) => {
         let data = "";
         res.on("data", (chunk) => {
           data += chunk;
