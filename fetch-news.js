@@ -158,7 +158,7 @@ async function fetchFeed(source) {
   try {
     const { status, data } = await fetchUrl(source.url);
 
-    if (status !== 200) {
+    if (status < 200 || status >= 300) {
       console.error(`  ❌ HTTP ${status} from ${source.name}`);
       return [];
     }
