@@ -28,9 +28,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Mediapool",
-    url: "https://www.mediapool.bg/rss/",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.mediapool.bg%2Frss%2F",
     color: "#00BCD4", // Teal
-    type: "direct",
+    type: "rss2json",
   },
   {
     name: "Capital",
