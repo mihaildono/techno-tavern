@@ -237,6 +237,13 @@ body {
   color: #ccc;
 }
 
+@media (max-width: 640px) {
+  .site-footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
