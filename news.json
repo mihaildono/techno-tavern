@@ -1,11 +1,67 @@
 {
   "items": [
     {
+      "title": "Спират парното в София",
+      "link": "https://offnews.bg/obshtestvo/spirat-parnoto-v-sofia-865852.html",
+      "pubDate": "2026-04-28 05:33:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/28/865852/phpws57ab_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 4116
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Средната заплата в Кипър достигна 2605 евро",
+      "link": "https://offnews.bg/ikonomika/srednata-zaplata-v-kipar-dostigna-2605-evro-865851.html",
+      "pubDate": "2026-04-28 05:19:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/28/865851/phpib8lvo_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 8098
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Заради честта на Мелания, Тръмп поиска Джими Кимъл да бъде уволнен",
+      "link": "https://offnews.bg/sviat/zaradi-chestta-na-melania-tramp-poiska-dzhimi-kimal-da-bade-uvolnen-865850.html",
+      "pubDate": "2026-04-28 04:57:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/28/865850/phpvrb6kv_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6944
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Програмата Капка по капка спечели наградата Инвеститор в околната среда",
+      "link": "https://offnews.bg/ikonomika/programata-kapka-po-kapka-specheli-nagradata-investitor-v-okolnata-sre-865844.html",
+      "pubDate": "2026-04-28 02:27:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/04/28/865844/phpuwvb3u_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7479
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Слънчево и приятно - до 25 градуса днес",
       "link": "https://offnews.bg/obshtestvo/slanchevo-i-priatno-do-25-gradusa-dnes-865843.html",
       "pubDate": "2026-04-27 21:27:29",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/28/865843/phpl3wnek_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/04/28/865843/phpl3wnek_152x158.jpg",
         "type": "image/jpeg",
         "length": 11436
       },
@@ -15,109 +71,83 @@
       }
     },
     {
-      "title": "Мерц: Иран е напът да унижи САЩ във войната",
-      "link": "https://offnews.bg/dw/mertc-iran-e-napat-da-unizhi-sasht-vav-vojnata-865848.html",
-      "pubDate": "2026-04-27 19:30:09",
+      "title": "Експлозии бяха чути край летището в столицата на Мали",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/28/4907743_eksplozii_biaha_chuti_krai_letishteto_v_stolicata_na/?ref=rss",
+      "pubDate": "2026-04-28 05:12:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/27/865848/phppjapw3_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4463
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4907742.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Кметът на Варна поиска от София два камиона за боклук",
-      "link": "https://offnews.bg/obshtestvo/kmetat-na-varna-poiska-ot-sofia-dva-kamiona-za-bokluk-865847.html",
-      "pubDate": "2026-04-27 19:21:06",
+      "title": "Нов пожар се разрази в руска рафинерия на брега на Черно море",
+      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/04/28/4907741_nov_pojar_se_razrazi_v_ruska_rafineriia_na_brega_na/?ref=rss",
+      "pubDate": "2026-04-28 05:00:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/27/865847/phpxqquze_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7899
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4907745.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Шефове на губещи държавни предприятия са с месечни заплати от 15 000 лева (видео)",
-      "link": "https://offnews.bg/politika/shefove-na-gubeshti-darzhavni-predpriatia-sa-s-mesechni-zaplati-ot-15-865845.html",
-      "pubDate": "2026-04-27 18:51:53",
+      "title": "Стрелецът от Вашингтон е обвинен в опит за убийство на Тръмп",
+      "link": "https://www.dnevnik.bg/sviat/2026/04/28/4907740_stralecut_ot_vashington_e_obvinen_v_opit_za_ubiistvo/?ref=rss",
+      "pubDate": "2026-04-28 04:54:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/27/865845/phpwdqw6n_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6459
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4907739.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "От умрял писмо: 31 г. по-късно прокуратурата съобщи на ограбена жена, че нищо не може да направи",
-      "link": "https://offnews.bg/temida/ot-umrial-pismo-31-g-po-kasno-prokuraturata-saobshti-na-ograbena-zhe-865846.html",
-      "pubDate": "2026-04-27 18:14:50",
+      "title": "Секретност, наблюдение и катастрофа: Как КГБ, Щази и БНД рамкираха чернобилската катастрофа",
+      "link": "https://www.dnevnik.bg/analizi/2026/04/28/4907441_sekretnost_nabljudenie_i_katastrofa_kak_kgb_shtazi_i/?ref=rss",
+      "pubDate": "2026-04-28 04:28:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/04/27/865846/phpa5tnqw_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8093
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4907641.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "НАТО обмисля прекратяване на годишните срещи на върха",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/27/4907718_nato_obmislia_prekratiavane_na_godishnite_sreshti_na/?ref=rss",
-      "pubDate": "2026-04-27 19:21:00",
-      "thumbnail": null,
+      "title": "България е на опашката по дигитални умения на населението",
+      "link": "https://www.dnevnik.bg/biznes/2026/04/28/4906813_bulgariia_e_na_opashkata_po_digitalni_umeniia_na/?ref=rss",
+      "pubDate": "2026-04-28 04:13:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4906859.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Британският монарх пристигна в САЩ",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/27/4907713_britanskiiat_monarh_pristigna_v_sasht/?ref=rss",
-      "pubDate": "2026-04-27 19:11:00",
+      "title": "Тя е инфлуенсърка и говори за лайфстал. Но сега Виктория Боня се бори с властите в Русия",
+      "link": "https://svobodnatochka.bg/horata-sthe-prestanat-da-se-strahuvat-ruski-lajfstajl-influensari-sresthu-spiraneto-na-interneta/",
+      "pubDate": "Tue, 28 Apr 2026 05:18:41 +0000",
       "thumbnail": null,
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
-      "title": "Нестандартно решение: Кметът на Варна поиска от София камиони за боклук",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/04/27/4907715_nestandartno_reshenie_kmetut_na_varna_poiska_ot_sofiia/?ref=rss",
-      "pubDate": "2026-04-27 19:01:00",
+      "title": "Три минути: Пеевски напуска кабинета на Живков. Русия крие екологична катастрофа на Черно море",
+      "link": "https://svobodnatochka.bg/tri-minuti-peevski-veche-nyama-da-polzva-bivshiya-kabinet-na-zhivkov/",
+      "pubDate": "Tue, 28 Apr 2026 05:17:33 +0000",
       "thumbnail": null,
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Малта насрочи предсрочни избори за края на май",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/27/4907707_malta_nasrochi_predsrochni_izbori_za_kraia_na_mai/?ref=rss",
-      "pubDate": "2026-04-27 18:32:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Литва обвини руски помагачи, подозират ги и за палежи в България",
-      "link": "https://www.dnevnik.bg/sviat/2026/04/27/4907696_latviia_obvini_ruski_pomagachi_zapodozreni_za_pojari_v/?ref=rss",
-      "pubDate": "2026-04-27 17:55:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
@@ -151,151 +181,121 @@
       }
     },
     {
-      "title": "Сделка за коли показа нова връзка между Картофа и бившия главен секретар на МВР Светлозар Лазаров",
-      "link": "https://svobodnatochka.bg/sdelka-za-koli-pokaza-nova-vrazka-mezhdu-kartofa-i-bivshiya-glaven-sekretar-na-mvr-svetlozar-lazarov/",
-      "pubDate": "Mon, 27 Apr 2026 12:37:43 +0000",
+      "title": "Ген. Решетников: Румен спечели, защото българите искат нормални отношения с Русия",
+      "link": "https://www.mediapool.bg/gen-reshetnikov-rumen-specheli-zashtoto-balgarite-iskat-normalni-otnosheniya-s-rusiya-news382814.html",
+      "pubDate": "2026-04-28 05:43:57",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_0168561edddf0d60f0a64cbe4adb310a.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Зеленски: Условието за присъединяване на Украйна към ЕС трябва да е част от мирно споразумение с Русия",
+      "link": "https://www.mediapool.bg/zelenski-uslovieto-za-prisaedinyavane-na-ukraina-kam-es-tryabva-da-e-chast-ot-mirno-sporazumenie-s-rusiya-news382816.html",
+      "pubDate": "2026-04-28 05:39:04",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_cb01b7911ce3c55e44099a251c032369.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Спокойни пари: как да постигнем доходност без стрес и без скъпи грешки",
+      "link": "https://www.mediapool.bg/spokoini-pari-kak-da-postignem-dohodnost-bez-stres-i-bez-skapi-greshki-news382805.html",
+      "pubDate": "2026-04-28 05:17:10",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_36a180ec2dc4d245f37ffca762216940.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "За Рубио иранската блокада на Ормузкия проток е \"икономическо ядрено оръжие\"",
+      "link": "https://www.mediapool.bg/za-rubio-iranskata-blokada-na-ormuzkiya-protok-e-ikonomichesko-yadreno-orazhie-news382815.html",
+      "pubDate": "2026-04-28 05:06:12",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_e955c4fb6ece62354faba0f078f80611.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Държавата иска повече математика, но свива приема в математическа гимназия",
+      "link": "https://www.mediapool.bg/darzhavata-iska-poveche-matematika-no-sviva-priema-v-matematicheska-gimnaziya-news382786.html",
+      "pubDate": "2026-04-28 05:00:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_15a9b6dea0215ad446b9f4a5bdd40832.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Защо Anthropic и OpenAI ограничават достъпа до най-новите си модели",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/04/27/4903462_zashto_anthropic_i_openai_ogranichavat_dostupa_do/?ref=rss",
+      "pubDate": "2026-04-28 05:37:00",
       "thumbnail": null,
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Capital",
+        "color": "#4CAF50"
       }
     },
     {
-      "title": "„Почивка в Туапсе“. Как Русия крие екологична катастрофа на Черно море и извадена от строя рафинерия",
-      "link": "https://svobodnatochka.bg/v-tuapse-nyama-kakvo-da-se-disha-a-v-rusiya-e-nevazmozhno-da-se-transportirat-petrolnite-produkti/",
-      "pubDate": "Mon, 27 Apr 2026 11:36:29 +0000",
+      "title": "Собственият бизнес - следваща крачка след EMBA програмата на WU Executive Academy",
+      "link": "https://www.capital.bg/politika_i_ikonomika/obrazovanie/2026/04/28/4902874_sobstveniiat_biznes_-_sledvashta_krachka_sled_emba/?ref=rss",
+      "pubDate": "2026-04-28 05:00:00",
       "thumbnail": null,
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Capital",
+        "color": "#4CAF50"
       }
     },
     {
-      "title": "ЕК склонна да удължи сроковете за реформите по ПВУ",
-      "link": "https://www.mediapool.bg/ek-sklonna-da-udalzhi-srokovete-za-reformite-po-pvu-news382813.html",
-      "pubDate": "2026-04-27 17:49:10",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_6fe135788fe92b773f56a38e0e78b89c.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "ГЕРБ анализира изборните резултати в Пловдив при закрити врата",
-      "link": "https://www.mediapool.bg/gerb-analizira-izbornite-rezultati-v-plovdiv-pri-zakriti-vrata-news382812.html",
-      "pubDate": "2026-04-27 16:23:06",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_d592e476ea8da88d35eddeb659f2ee42.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "В охраната на най-богатия кюстендилец МВР откри 600 000 евро и над 600 боеприпаси",
-      "link": "https://www.mediapool.bg/v-ohranata-na-nai-bogatiya-kyustendilets-mvr-otkri-600-000-evro-i-nad-600-boepripasi-news382811.html",
-      "pubDate": "2026-04-27 16:07:19",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_ca17c142a557235e71071c504fee1c94.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "WizzAir има гориво и дори увеличава лятното си разписание",
-      "link": "https://www.mediapool.bg/wizzair-ima-gorivo-i-dori-uvelichava-lyatnoto-si-razpisanie-news382810.html",
-      "pubDate": "2026-04-27 15:44:21",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_fb035456f45dfd6e3147436d4a9e6242.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Олиото от аржентински слънчоглед напусна България",
-      "link": "https://www.mediapool.bg/olioto-ot-arzhentinski-slanchogled-napusna-bulgaria-news382809.html",
-      "pubDate": "2026-04-27 15:27:06",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_82ae48f700a8e2572c113ade1c3da927.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Малките производители ще могат да продават повече продукция директно на потребители",
-      "link": "https://www.capital.bg/biznes/zemedelie/2026/04/27/4907607_malkite_proizvoditeli_shte_mogat_da_prodavat_poveche/?ref=rss",
-      "pubDate": "2026-04-27 14:48:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907608.jpg"
-      },
+      "title": "Ролята на изкуствения интелект в трансформацията на вътрешния одит",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/04/28/4903675_roliata_na_izkustveniia_intelekt_v_transformaciiata_na/?ref=rss",
+      "pubDate": "2026-04-28 05:00:00",
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Снимка на деня: Пхенян откри мемориал в чест на севернокорейските войници, загинали във войната срещу Украйна",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/04/27/4907354_snimka_na_denia_phenian_otkri_memorial_v_chest_na/?ref=rss",
-      "pubDate": "2026-04-27 14:24:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907358.jpg"
-      },
+      "title": "AI трансформира и работните места, и обученията",
+      "link": "https://www.capital.bg/biznes/ai/2026/04/28/4892047_ai_transformira_i_rabotnite_mesta_i_obucheniiata/?ref=rss",
+      "pubDate": "2026-04-28 05:00:00",
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Тихомир Каменов обвини КФН в рекет, а тя него - в натиск",
-      "link": "https://www.capital.bg/biznes/finansi/2026/04/27/4907610_tihomir_kamenov_obivni_kfn_v_reket_a_tia_nego_-_v/?ref=rss",
-      "pubDate": "2026-04-27 13:44:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4899353.jpg"
-      },
+      "title": "\"Carlsberg България\": Всяка криза носи и възможност за растеж",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/04/28/4902491_carlsberg_bulgariia_vsiaka_kriza_nosi_i_vuzmojnost_za/?ref=rss",
+      "pubDate": "2026-04-28 05:00:00",
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Компенсациите за ток на енергоемкия бизнес влизат в сила през май",
-      "link": "https://www.capital.bg/biznes/energetika/2026/04/27/4907604_kompensaciite_za_tok_na_energoemkiia_biznes_vlizat_v/?ref=rss",
-      "pubDate": "2026-04-27 13:40:00",
+      "title": "Министерство на \"културизма\": Мрежата избухна срещу предполагаема нова идея на Радев за сливане на министерства",
+      "link": "https://www.actualno.com/society/ministerstvo-na-kulturizma-mrejata-izbuhna-sreshtu-predpolagaema-nova-ideja-na-radev-za-slivane-na-ministerstva-news_2587209.html",
+      "pubDate": "2026-04-28 05:42:00",
       "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907606.jpg"
-      },
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "🇪🇺ЕС отблизо: 20-и пакет санкции срещу Русия; Общ заем за Киев за 90 млрд. евро; Напредък по многогодишния бюджет",
-      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/04/27/4907593_es_otblizo_20-ti_paket_sankcii_sreshtu_rusiia_obsht/?ref=rss",
-      "pubDate": "2026-04-27 13:06:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907615.jpg"
-      },
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Първи избори от 20 години се проведоха в Ивицата Газа (СНИМКА)",
-      "link": "https://www.actualno.com/asia/pyrvi-izbori-ot-20-godini-se-provedoha-v-ivicata-gaza-snimka-news_2587177.html",
-      "pubDate": "2026-04-27 21:52:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/b91612edfc1d35eab50849bc7a559ae5_2587177_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/3bf4ad0189cca5cba3117ba4a30dce74_2587209_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +304,11 @@
       }
     },
     {
-      "title": "\"Ислямска държава\" уби най-малко 29 души в Нигерия",
-      "link": "https://www.actualno.com/africa/isljamska-dyrjava-ubi-naj-malko-29-dushi-v-nigerija-news_2587170.html",
-      "pubDate": "2026-04-27 21:35:00",
+      "title": "Да наругаеш Тръмп - друг цивилизован ход не остана",
+      "link": "https://www.actualno.com/actualno/da-narugaesh-trymp-drug-civilizovan-hod-ne-ostana-news_2586900.html",
+      "pubDate": "2026-04-28 05:38:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/82734e5c330bf543561363bbe6b61c42_2587170_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/27/33b5ec0f162c661e6ef83e53c3a1a7b5_2586900_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +317,11 @@
       }
     },
     {
-      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 28 април /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-28-april-valuten-kalkulator-news_2587168.html",
-      "pubDate": "2026-04-27 21:35:00",
+      "title": "Няма как един Картоф да бъде сам, има и други от зеленчукопроизводството: МВР шефът за заплахите срещу главния секретар",
+      "link": "https://www.actualno.com/politics/njama-kak-edin-kartof-da-byde-sam-ima-i-drugi-ot-zelenchukoproizvodstvoto-mvr-shefyt-za-zaplahite-sreshtu-glavnija-sekretar-news_2587207.html",
+      "pubDate": "2026-04-28 05:34:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/img_69efce53d3ac6_2587168_920x708.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/0aea75e33eb9bd27e79a1b5151c36efb_2587207_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +330,11 @@
       }
     },
     {
-      "title": "\"Дрогирани гномове. Това нещо го няма даже и в Танганайка!\": Венци Стефанов пак избухна",
-      "link": "https://www.actualno.com/bgfootball/drogirani-gnomove-tova-neshto-go-njama-daje-i-v-tanganajka-venci-stefanov-pak-izbuhna-news_2587173.html",
-      "pubDate": "2026-04-27 21:26:00",
+      "title": "ФИФА предлага голяма промяна по-малко от 2 месеца преди старта на Мондиал 2026",
+      "link": "https://www.actualno.com/football/fifa-predlaga-goljama-promjana-po-malko-ot-2-meseca-predi-starta-na-mondial-2026-news_2587132.html",
+      "pubDate": "2026-04-28 05:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/a86c4cc7e9b9aca371f8453cc187a0b7_2587173_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/27/1946fa5145ae3f1b5ae41c2ece675e74_2587132_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,11 +343,11 @@
       }
     },
     {
-      "title": "Долар - евро. Колко струва един щатски долар към едно евро днес, 28 април /валутен калкулатор/",
-      "link": "https://www.actualno.com/finance/dolar-evro-kolko-struva-edin-shtatski-dolar-kym-edno-evro-dnes-28-april-valuten-kalkulator-news_2587167.html",
-      "pubDate": "2026-04-27 21:25:00",
+      "title": "Йотова окончателно утвърди кога ще е първото заседание на 52-рия парламент",
+      "link": "https://www.actualno.com/politics/jotova-okonchatelno-utvyrdi-koga-shte-e-pyrvoto-zasedanie-na-52-rija-parlament-news_2587206.html",
+      "pubDate": "2026-04-28 05:29:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/img_69efce53089c2_2587167_920x708.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/28/0886b997db7d32a75a2288db7801b088_2587206_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "To My Students",
-      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-      "pubDate": "2026-04-27 23:57:39",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "pubDate": "2026-04-27 21:55:48",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "New Integrated by Design FreeBSD Book",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "pubDate": "2026-04-27 23:14:26",
+      "title": "San Francisco, AI capital of the world, is an economic laggard",
+      "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+      "pubDate": "2026-04-28 04:32:42",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "pubDate": "2026-04-27 21:55:48",
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "link": "https://github.com/pgcentralfoundation/pgrx",
+      "pubDate": "2026-04-25 08:16:19",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +396,23 @@
       }
     },
     {
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "pubDate": "2026-04-27 20:44:16",
+      "title": "Mo RAM, Mo Problems (2025)",
+      "link": "https://fabiensanglard.net/curse/",
+      "pubDate": "2026-04-25 15:41:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Indonesia: Many killed in train collision near Jakarta",
+      "link": "https://www.dw.com/en/indonesia-many-killed-in-train-collision-near-jakarta/a-76959000?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-28T03:20:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "EU weighs giving US data for fewer travel restrictions",
-      "link": "https://www.dw.com/en/eu-weighs-giving-us-data-for-fewer-travel-restrictions/a-76912370?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-27T15:56:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-28T01:26:47.699Z"
+  "lastUpdated": "2026-04-28T05:48:14.223Z"
 }
