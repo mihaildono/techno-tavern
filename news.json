@@ -131,7 +131,7 @@
       }
     },
     {
-      "title": "Тя е инфлуенсърка и говори за лайфстал. Но сега Виктория Боня се бори с властите в Русия",
+      "title": "Тя е инфлуенсърка и говори за лайфстайл. Но сега Виктория Боня се бори с властите в Русия",
       "link": "https://svobodnatochka.bg/horata-sthe-prestanat-da-se-strahuvat-ruski-lajfstajl-influensari-sresthu-spiraneto-na-interneta/",
       "pubDate": "Tue, 28 Apr 2026 05:18:41 +0000",
       "thumbnail": null,
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "pubDate": "2026-04-27 21:55:48",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "pubDate": "2026-04-28 06:27:39",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "San Francisco, AI capital of the world, is an economic laggard",
-      "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
-      "pubDate": "2026-04-28 04:32:42",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "pubDate": "2026-04-27 21:55:48",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,6 +386,16 @@
       }
     },
     {
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "pubDate": "2026-04-27 20:24:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Pgrx: Build Postgres Extensions with Rust",
       "link": "https://github.com/pgcentralfoundation/pgrx",
       "pubDate": "2026-04-25 08:16:19",
@@ -396,13 +406,33 @@
       }
     },
     {
-      "title": "Mo RAM, Mo Problems (2025)",
-      "link": "https://fabiensanglard.net/curse/",
-      "pubDate": "2026-04-25 15:41:54",
+      "title": "Canada&apos;s Arctic noise is no party for narwhals",
+      "link": "https://www.dw.com/en/canada-s-arctic-noise-is-no-party-for-narwhals/a-76704611?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-28T07:01:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Mexico: Special forces capture cartel leader &apos;El Jardinero&apos;",
+      "link": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-28T06:44:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany news: Major raids carried out against Hells Angels",
+      "link": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-28T06:10:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,37 +454,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "China blocks Meta&apos;s $2B acquisition of AI startup Manus",
-      "link": "https://www.dw.com/en/china-blocks-meta-s-2b-acquisition-of-ai-startup-manus/a-76957480?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-27T18:35:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Gala shooting suspect charged with attempt to murder Trump",
-      "link": "https://www.dw.com/en/gala-shooting-suspect-charged-with-attempt-to-murder-trump/live-76948331?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-27T18:23:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Clashes over water resources in Chad kill over 40 people",
-      "link": "https://www.dw.com/en/clashes-over-water-resources-in-chad-kill-over-40-people/a-76950445?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-27T16:17:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-28T05:48:14.223Z"
+  "lastUpdated": "2026-04-28T07:59:34.184Z"
 }
