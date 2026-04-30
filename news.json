@@ -346,16 +346,6 @@
       }
     },
     {
-      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "pubDate": "2026-04-29 18:54:31",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Zed 1.0",
       "link": "https://zed.dev/blog/zed-1-0",
       "pubDate": "2026-04-29 14:34:19",
@@ -376,9 +366,19 @@
       }
     },
     {
-      "title": "Alphabet Announces First Quarter 2026 Results",
-      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
-      "pubDate": "2026-04-29 20:20:58",
+      "title": "Germany has become the largest ammunition producer in the world",
+      "link": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+      "pubDate": "2026-04-29 21:58:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "link": "https://github.com/anthropics/claude-code/issues/53262",
+      "pubDate": "2026-04-29 18:54:31",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -393,6 +393,26 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Trump threatens US troop cuts in Germany",
+      "link": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-29T23:35:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "King Charles commemorates 9/11 victims in New York visit",
+      "link": "https://www.dw.com/en/king-charles-commemorates-9-11-victims-in-new-york-visit/a-76987864?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-04-29T22:54:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,27 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Mali: France urges citizens to leave amid Tuareg advance",
-      "link": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-29T18:30:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Teenage bullying increases in Ukrainian schools",
-      "link": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-29T18:09:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-04-29T21:48:13.139Z"
+  "lastUpdated": "2026-04-30T01:28:23.124Z"
 }
