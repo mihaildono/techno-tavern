@@ -121,7 +121,17 @@
       }
     },
     {
-      "title": "20 години затвор. Шофьорът, забил колата си в автобус със 163 км/ч е осъден",
+      "title": "Престъпления срещу човечеството. Журито на Венецианското биенале подаде оставка заради Русия и Израел",
+      "link": "https://svobodnatochka.bg/novini/jurito-na-bienaleto-vuv-venezia-podade-ostavka/",
+      "pubDate": "Fri, 01 May 2026 07:29:17 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "20 години затвор. Шофьорът, забил колата си в автобус със 163 км/ч, е осъден",
       "link": "https://svobodnatochka.bg/novini/20-godini-zatvor-shoforat-zabil-kolata-si-v-avtobus-sas-163-km-ch-e-osaden/",
       "pubDate": "Fri, 01 May 2026 05:05:32 +0000",
       "thumbnail": null,
@@ -141,7 +151,7 @@
       }
     },
     {
-      "title": "„Ц��нзуриране“. Гост на БНТ е бил предупреден да свали значка с цветовете на Украйна. Телевизията започна проверка",
+      "title": "„Цензуриране“. Гост на БНТ е бил предупреден да свали значка с цветовете на Украйна. Телевизията започна проверка",
       "link": "https://svobodnatochka.bg/novini/czenzurirane-direktorat-na-studio-orfej-e-bil-predupreden-da-svali-znachka-s-czvetovete-na-ukrajna-za-da-gostuva-v-bnt/",
       "pubDate": "Thu, 30 Apr 2026 16:07:34 +0000",
       "thumbnail": null,
@@ -154,16 +164,6 @@
       "title": "Петролът стигна най-високата си цена от началото на войната с Иран. САЩ засилват натиска за Ормузкия проток",
       "link": "https://svobodnatochka.bg/novini/petrolat-stigna-naj-visokata-si-czena-ot-nachaloto-na-vojnata-s-iran-sasth-zasilvat-natiska-za-otvaryane-na-ormuzkiya-protok/",
       "pubDate": "Thu, 30 Apr 2026 14:29:00 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Радев става премиер. Борисов и Пеевски гледат. Какво следва?",
-      "link": "https://svobodnatochka.bg/golemiyat-vapros/radev-stava-premier-borisov-i-peevski-gledat-kakvo-sledva/",
-      "pubDate": "Thu, 30 Apr 2026 13:14:57 +0000",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "pubDate": "2026-04-29 17:09:03",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "pubDate": "2026-04-30 16:43:47",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,19 @@
       }
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "pubDate": "2026-04-30 16:43:47",
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "pubDate": "2026-04-29 11:35:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "pubDate": "2026-04-29 17:09:03",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +396,43 @@
       }
     },
     {
-      "title": "I Got Sick of Remembering Port Numbers",
-      "link": "https://gregraiz.com/blog/local-vibe/",
-      "pubDate": "2026-04-28 19:19:06",
+      "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
+      "link": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-01T07:58:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Hungary: What will become of Orban and his system?",
+      "link": "https://www.dw.com/en/hungary-what-will-become-of-orban-and-his-system/a-77000968?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-01T06:45:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Iran war: Truce stops clock on Congress approval, says Trump&apos;s White House",
+      "link": "https://www.dw.com/en/iran-war-truce-stops-clock-on-congress-approval-says-trump-s-white-house/live-77007473?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-01T06:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Trump lifts tariffs on Scotch whisky in nod to King Charles",
+      "link": "https://www.dw.com/en/trump-lifts-tariffs-on-scotch-whisky-in-nod-to-king-charles/a-77007503?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-01T06:07:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -404,47 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "First direct US-Venezuela flight in 7 years lands in Caracas",
-      "link": "https://www.dw.com/en/first-direct-us-venezuela-flight-in-7-years-lands-in-caracas/a-77006846?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-01T04:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "US prosecutors release new footage of Trump shooting suspect",
-      "link": "https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-01T02:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Kosovo to hold snap elections in June",
-      "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-30T19:01:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "US: Trump signs DHS funding bill, ending partial shutdown",
-      "link": "https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-04-30T19:01:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-01T05:57:40.681Z"
+  "lastUpdated": "2026-05-01T08:04:26.417Z"
 }
