@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Тръмп пак ще вдига мита",
+      "link": "https://offnews.bg/sviat/tramp-pak-shte-vdiga-mita-866106.html",
+      "pubDate": "2026-05-01 16:52:56",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/01/866106/phpk4k1t8_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7258
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "С призиви за достойно заплащане отбелязахме 1 май",
+      "link": "https://offnews.bg/obshtestvo/s-prizivi-za-dostojno-zaplashtane-otbeliazahme-1-maj-866105.html",
+      "pubDate": "2026-05-01 16:22:57",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/01/866105/phpemodmt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7677
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Йотова започва консултации с партиите на 5 май",
+      "link": "https://offnews.bg/politika/jotova-zapochva-konsultatcii-s-partiite-na-5-maj-866104.html",
+      "pubDate": "2026-05-01 16:19:28",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/01/866104/phpq8qyma_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5659
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Мартин Димитров: Асен Василев собственоръчно разцепи ПП и ДБ, предупредихме, че е грешка",
+      "link": "https://offnews.bg/politika/martin-dimitrov-asen-vasilev-sobstvenorachno-raztcepi-pp-i-db-predup-866103.html",
+      "pubDate": "2026-05-01 15:48:48",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/01/866103/phpl2pewb_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4053
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "40 години от Чернобилската катастрофа - авария или престъпление на комунистическия режим",
       "link": "https://offnews.bg/analizi-i-komentari/40-godini-ot-chernobilskata-katastrofa-avaria-ili-prestaplenie-na-ko-866102.html",
       "pubDate": "2026-05-01 15:44:27",
@@ -15,106 +71,60 @@
       }
     },
     {
-      "title": "Бум на измамите с автомобили ''втора ръка''",
-      "link": "https://offnews.bg/obshtestvo/bum-na-izmamite-s-avtomobili-vtora-raka-866101.html",
-      "pubDate": "2026-05-01 14:54:03",
+      "title": "Тръмп заплаши рязко да повиши до дни митата за автомобили от ЕС",
+      "link": "https://www.dnevnik.bg/sviat/2026/05/01/4909579_trump_zaplashi_riazko_da_povishi_do_dni_mitata_za/?ref=rss",
+      "pubDate": "2026-05-01 17:16:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/01/866101/phpmnzepg_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5452
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4909578.jpg"
       },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Съветници от ИТН се преименуваха на ''Прогресивно Карлово'', ПБ се разграничиха",
-      "link": "https://offnews.bg/politika/savetnitci-ot-itn-se-preimenuvaha-na-progresivno-karlovo-pb-se-ra-866100.html",
-      "pubDate": "2026-05-01 14:40:36",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/01/866100/phpkdnslp_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7762
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "САЩ извадиха България от надзора за онлайн пиратство",
-      "link": "https://offnews.bg/sviat/sasht-izvadiha-balgaria-ot-nadzora-za-onlajn-piratstvo-866099.html",
-      "pubDate": "2026-05-01 14:22:15",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/01/866099/phpanklqe_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7064
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "ЕС спря плащанията към Сърбия ''заради регрес в съдебните реформи''",
-      "link": "https://offnews.bg/sviat/es-spria-plashtaniata-kam-sarbia-zaradi-regres-v-sadebnite-reformi-866098.html",
-      "pubDate": "2026-05-01 14:10:59",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/01/866098/phpehx1ur_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4706
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Охладени амбиции: Войната проваля европейските планове за втечнен природен газ",
-      "link": "https://www.dnevnik.bg/analizi/2026/05/01/4909513_ohladeni_ambicii_voinata_provalia_evropeiskite_planove/?ref=rss",
-      "pubDate": "2026-05-01 15:00:00",
-      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Публичният дълг на САЩ надхвърли размера на икономиката",
-      "link": "https://www.dnevnik.bg/biznes/2026/05/01/4909505_publichniiat_dulg_na_sasht_nadhvurli_razmera_na/?ref=rss",
-      "pubDate": "2026-05-01 14:39:00",
-      "thumbnail": null,
+      "title": "Свлачище между Смолян и Пампорово отнесе десетки метри от пътното платно (видео)",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909573_svlachishte_mejdu_smolian_i_pamporovo_otnese_desetki/?ref=rss",
+      "pubDate": "2026-05-01 17:01:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4909576.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Пътят между Смолян и Пампорово е затворен заради свлачище",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909526_putiat_mejdu_smolian_i_pamporovo_e_zatvoren_zaradi/?ref=rss",
-      "pubDate": "2026-05-01 14:19:00",
-      "thumbnail": null,
+      "title": "Докато Азия и Европа търсят природен газ, американският излишък не може да напусне САЩ",
+      "link": "https://www.dnevnik.bg/sviat/2026/05/01/4909551_dokato_aziia_i_evropa_tursiat_priroden_gaz/?ref=rss",
+      "pubDate": "2026-05-01 16:42:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4909567.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Румен Радев е предложил Михаела Доцова за председател на парламента",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909510_rumen_radev_e_predlojil_mihaela_docova_za_predsedatel/?ref=rss",
-      "pubDate": "2026-05-01 13:42:00",
-      "thumbnail": null,
+      "title": "Военноморските сили унищожиха останки от дрон, изхвърлен на плажа край Елените",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909560_voennomorskite_sili_unishtojiha_ostanki_ot_dron/?ref=rss",
+      "pubDate": "2026-05-01 16:20:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4909557.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
       }
     },
     {
-      "title": "Според Христанов министерството на земеделието е било най-завладяното",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909506_spored_hristanov_ministerstvoto_na_zemedelieto_e_bilo/?ref=rss",
-      "pubDate": "2026-05-01 13:28:00",
-      "thumbnail": null,
+      "title": "Йотова ще започне консултациите с партиите на 5 май",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/05/01/4909556_iotova_shte_zapochne_konsultaciite_s_partiite_na_5_mai/?ref=rss",
+      "pubDate": "2026-05-01 16:13:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4909555.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -171,6 +181,42 @@
       }
     },
     {
+      "title": "Иран представи ново предложение на САЩ, Тръмп не е доволен (обновена)",
+      "link": "https://www.mediapool.bg/iran-predstavi-novo-predlozhenie-na-sasht-tramp-ne-e-dovolen-obnovena-news382970.html",
+      "pubDate": "2026-05-01 17:26:47",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_b52f15f8fd65a41d6c69752a30e86bdf.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Йотова започва консултации с партиите на 5 май",
+      "link": "https://www.mediapool.bg/yotova-zapochva-konsultatsii-s-partiite-na-5-mai-news382972.html",
+      "pubDate": "2026-05-01 16:38:29",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_8876bbbda19a416941f7d34c4b4e424e.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Тръмп заплаши, че ще вдигне митата върху автомобили и камиони от ЕС до 25%",
+      "link": "https://www.mediapool.bg/tramp-zaplashi-che-shte-vdigne-mitata-varhu-avtomobili-i-kamioni-ot-es-do-25-news382971.html",
+      "pubDate": "2026-05-01 16:17:51",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/382/medium_dd862a5ec7c14887953123160a21bd78.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Борове, движещи се към пропаст: Свлачище разцепи пътя Пампорово - Смолян (видео)",
       "link": "https://www.mediapool.bg/borove-dvizheshti-se-kam-propast-svlachishte-raztsepi-patya-pamporovo---smolyan-video-news382969.html",
       "pubDate": "2026-05-01 15:14:17",
@@ -195,48 +241,10 @@
       }
     },
     {
-      "title": "САЩ извадиха България, но вкараха ЕС в списъка за наблюдение за онлайн пиратството",
-      "link": "https://www.mediapool.bg/sasht-izvadiha-bulgaria-no-vkaraha-es-v-spisaka-za-nablyudenie-za-onlain-piratstvoto-news382967.html",
-      "pubDate": "2026-05-01 12:30:45",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_69bf57824b79d06fcabac202f5982296.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Столична община получи от регионалното министерство над 15 млн. евро за проекти",
-      "link": "https://www.mediapool.bg/stolichna-obshtina-poluchi-ot-regionalnoto-ministerstvo-nad-15-mln-evro-za-proekti-news382966.html",
-      "pubDate": "2026-05-01 12:21:34",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_c4ffb3c4f84d16e98651ed128ce3f695.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Пет жертви на тежка катастрофа на пътния възел при Ботевград (обновена)",
-      "link": "https://www.mediapool.bg/pet-zhertvi-na-tezhka-katastrofa-na-patniya-vazel-pri-botevgrad-obnovena-news382956.html",
-      "pubDate": "2026-05-01 11:51:01",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/382/medium_de77c1ec064c9c595f8c432f83a913c0.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "Великобритания създава обединен боен флот с още девет държави",
       "link": "https://www.capital.bg/politika_i_ikonomika/otbrana/2026/05/01/4909076_velikobritaniia_suzdava_obedinen_boen_flot_s_oshte/?ref=rss",
       "pubDate": "2026-05-01 09:45:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4909078.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -246,9 +254,7 @@
       "title": "От моите към нашите пари: За какво са съвместните банкови сметки",
       "link": "https://www.capital.bg/moiat_capital/smart_spending/2026/05/01/4906733_ot_moite_kum_nashite_pari_za_kakvo_sa_suvmestnite/?ref=rss",
       "pubDate": "2026-05-01 09:39:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4908681.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -258,9 +264,7 @@
       "title": "Да направиш рекорд на маратон с маратонки от 97 грама",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/05/01/4909202_da_napravish_rekord_na_maraton_s_maratonki_ot_97_grama/?ref=rss",
       "pubDate": "2026-05-01 07:27:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4909206.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -270,9 +274,7 @@
       "title": "Писателката Саяка Мурата: Японската литература лекува сърцата",
       "link": "https://www.capital.bg/moiat_capital/lica/2026/05/01/4906683_pisatelkata_saiaka_murata_iaponskata_literatura_lekuva/?ref=rss",
       "pubDate": "2026-05-01 06:46:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4906686.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -282,20 +284,18 @@
       "title": "Инфографика | За 10 години населението на България е намаляло с размера на два града като Пловдив",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/05/01/4909134_infografika_za_10_godini_naselenieto_na_bulgariia_e/?ref=rss",
       "pubDate": "2026-05-01 06:28:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4909133.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Украински дронове удариха най-скъпите руски изтребители Су-57 и Су-34 чак в Урал (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/ukrainski-dronove-udariha-naj-skypite-ruski-iztrebiteli-su-57-i-su-34-chak-v-ural-video-news_2588954.html",
-      "pubDate": "2026-05-01 15:34:00",
+      "title": "Локомотив София сгази Добруджа и ги засили към Втора лига, дузпа в края спаси Монтана срещу Септември",
+      "link": "https://www.actualno.com/bgfootball/lokomotiv-sofija-sgazi-dobrudja-i-gi-zasili-kym-vtora-liga-duzpa-v-kraja-spasi-montana-sreshtu-septemvri-news_2588986.html",
+      "pubDate": "2026-05-01 18:50:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/605e74aaea067f2507de4302149df59c_2588954_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/dbb9772c9da4966de3b23b27abab6bf9_2588986_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +304,11 @@
       }
     },
     {
-      "title": "Веласкес преди шампионския мач на Левски с ЦСКА 1948: Ако очакванията ни натежат – ще загубим! (ВИДЕО)",
-      "link": "https://www.actualno.com/bgfootball/velaskes-predi-shampionskija-mach-na-levski-s-cska-1948-ako-ochakvanijata-ni-natejat-shte-zagubim-video-news_2588953.html",
-      "pubDate": "2026-05-01 15:30:00",
+      "title": "Неочаквано решение на тялото: Защо белезите никога не изчезват?",
+      "link": "https://www.actualno.com/interest/neochakvano-reshenie-na-tjaloto-zashto-belezite-nikoga-ne-izchezvat-news_2587779.html",
+      "pubDate": "2026-05-01 17:28:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/c25ec1c443ed9edcb831f227f4c5c5d3_2588953_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/29/b5ce29807e2dba766e5963e4d40b977d_2587779_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +317,11 @@
       }
     },
     {
-      "title": "Църковен празник на 2 май: Направете 3 пъти това, носи богатство и просперитет",
-      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-2-maj-napravete-3-pyti-tova-nosi-bogatstvo-i-prosperitet-news_2588721.html",
-      "pubDate": "2026-05-01 15:23:00",
+      "title": "След отпадането от ЦСКА за Купата: Лудогорец с яростна атака към Съдийската комисия и Геро Писков (ВИДЕО)",
+      "link": "https://www.actualno.com/bgfootball/sled-otpadaneto-ot-cska-za-kupata-ludogorec-s-jarostna-ataka-kym-sydijskata-komisija-i-gero-piskov-video-news_2588972.html",
+      "pubDate": "2026-05-01 17:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/30/d2884fab300790a75d1a773064b15617_2588721_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/8cf09be07a96afd7b56e28403114272a_2588972_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +330,11 @@
       }
     },
     {
-      "title": "Магнитна буря за събота, 2 май 2026: Прогноза от САЩ",
-      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-sybota-2-maj-2026-prognoza-ot-sasht-news_2588079.html",
-      "pubDate": "2026-05-01 15:00:00",
+      "title": "Прогноза за времето - 2 май 2026 г. (събота)",
+      "link": "https://www.actualno.com/society/prognoza-za-vremeto-2-maj-2026-g-sybota-news_2588966.html",
+      "pubDate": "2026-05-01 16:32:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/29/6c88c3934ddcb22155e2dc10a4ce4c16_2588079_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/a7ed0895e87e13733da2c9559f97afd4_2588966_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,11 +343,11 @@
       }
     },
     {
-      "title": "Зеленски обяви мащабна реформа в армията: Започва демобилизация",
-      "link": "https://www.actualno.com/europe/zelenski-objavi-mashtabna-reforma-v-armijata-zapochva-demobilizacija-news_2588943.html",
-      "pubDate": "2026-05-01 14:35:00",
+      "title": "Пропадането няма край: Григор Димитров отказа участие на Мастърс-а в Рим и ще изхвърчи от Топ 150 в света!",
+      "link": "https://www.actualno.com/tennis/propadaneto-njama-kraj-grigor-dimitrov-otkaza-uchastie-na-mastyrs-a-v-rim-i-shte-izhvyrchi-ot-top-150-v-sveta-news_2588961.html",
+      "pubDate": "2026-05-01 16:08:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/65cf7d2f42e82783fae247810c604ab0_2588943_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/01/8adf9ea836011423e2a5281c18174ce5_2588961_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -356,9 +356,39 @@
       }
     },
     {
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "link": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "pubDate": "2026-05-01 16:08:53",
+      "title": "Credit cards are vulnerable to brute force attacks",
+      "link": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+      "pubDate": "2026-05-01 20:26:24",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "pubDate": "2026-05-01 20:06:59",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "pubDate": "2026-05-01 17:47:42",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
+      "link": "https://github.com/xodn348/destiny",
+      "pubDate": "2026-05-01 19:56:18",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,33 +406,13 @@
       }
     },
     {
-      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
-      "link": "https://github.com/whohas/whohas",
-      "pubDate": "2026-05-01 15:01:08",
+      "title": "Can Iran withstand the US naval blockade?",
+      "link": "https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-01T19:33:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
-      "link": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
-      "pubDate": "2026-05-01 17:25:36",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (May 2026)",
-      "link": "https://news.ycombinator.com/item?id=47975570",
-      "pubDate": "2026-05-01 15:00:07",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Pentagon inks deals with AI giants, but not Anthropic",
-      "link": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-01T15:20:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-01T18:52:19.732Z"
+  "lastUpdated": "2026-05-01T21:40:22.201Z"
 }
