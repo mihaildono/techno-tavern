@@ -366,26 +366,6 @@
       }
     },
     {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "pubDate": "2026-04-30 16:41:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "pubDate": "2026-04-30 16:09:26",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
       "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
       "pubDate": "2026-04-30 19:40:20",
@@ -396,7 +376,27 @@
       }
     },
     {
-      "title": "CopyFail was not disclosed to Gentoo developer",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "pubDate": "2026-04-30 16:41:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "pubDate": "2026-04-29 17:09:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "CopyFail was not disclosed to distro developers?",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
       "pubDate": "2026-04-30 16:43:47",
       "thumbnail": null,
@@ -416,8 +416,8 @@
       }
     },
     {
-      "title": "US: House passes DHS funding bill to end partial shutdown",
-      "link": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913?maca=en-rss-en-top-1022-rdf",
+      "title": "US: Trump signs DHS funding bill, ending partial shutdown",
+      "link": "https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-04-30T19:01:00Z",
       "thumbnail": null,
       "source": {
@@ -456,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-04-30T21:43:34.936Z"
+  "lastUpdated": "2026-05-01T01:31:08.723Z"
 }
