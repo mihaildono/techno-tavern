@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Иранската носителка на Нобел за мир Мохамади е с опасност за живота",
+      "link": "https://offnews.bg/sviat/iranskata-nositelka-na-nobel-za-mir-mohamadi-e-s-opasnost-za-zhivota-866124.html",
+      "pubDate": "2026-05-02 11:04:45",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/02/866124/phpjqanlz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7658
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Четвърта или пета гилза е намерена на Петрохан? Лъжите започват да лъсват",
+      "link": "https://offnews.bg/razsledvane/chetvarta-ili-peta-gilza-e-namerena-na-petrohan-lazhite-zapochvat-da-866121.html",
+      "pubDate": "2026-05-02 09:57:26",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/02/866121/phpizczuj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4761
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "БАБХ откри разлив на опасни препарати за растителна защита в Свищовско",
       "link": "https://offnews.bg/112/babh-otkri-razliv-na-opasni-preparati-za-rastitelna-zashtita-v-svishto-866123.html",
       "pubDate": "2026-05-02 09:41:33",
@@ -36,34 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/05/02/866120/phpl3ds3l_559x345.jpg",
         "type": "image/jpeg",
         "length": 5739
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "ПБ очаква шантаж с цените на горивата за 'Добре дошъл' на новия кабинет",
-      "link": "https://offnews.bg/politika/pb-ochakva-shantazh-s-tcenite-na-gorivata-za-dobre-doshal-na-novia-k-866119.html",
-      "pubDate": "2026-05-02 08:28:26",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/02/866119/phpfsha9u_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4799
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Груба политическа грешка е решението на ПП да се отдели в самостоятелна група в парламента",
-      "link": "https://offnews.bg/politika/gruba-politicheska-greshka-e-reshenieto-na-pp-da-se-otdeli-v-samostoia-866118.html",
-      "pubDate": "2026-05-02 08:16:46",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/02/866118/phptndxr9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4928
       },
       "source": {
         "name": "OffNews",
@@ -121,6 +121,16 @@
       }
     },
     {
+      "title": "„Най-невидимата постройка в България“. Христанов показа незаконен комплекс на Вълка в Държавното ловно стопанство „Искър“",
+      "link": "https://svobodnatochka.bg/novini/naj-nevidimata-postrojka-v-balgariya-hristanov-pokaza-nezakonen-kompleks-na-valka-v-darzhavnoto-lovno-stopanstvo-iskar/",
+      "pubDate": "Sat, 02 May 2026 14:53:06 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "ВСС съди правителството за спрените 2 млн. евро за Върховния съд пред… Върховния съд",
       "link": "https://svobodnatochka.bg/novini/vss-sadi-pravitelstvoto-za-sprenite-2-mln-evro-za-varhovniya-sad-pred-varhovniya-sad/",
       "pubDate": "Sat, 02 May 2026 12:08:20 +0000",
@@ -151,19 +161,9 @@
       }
     },
     {
-      "title": "След най-голямото свлачище от десетилетия. Пътят Смолян &#8211; Па��порово може да остане затворен с години",
+      "title": "След най-голямото свлачище от десетилетия. Пътят Смолян &#8211; Пампорово може да остане затворен с години",
       "link": "https://svobodnatochka.bg/novini/sled-naj-golyamoto-svlachisthe-ot-desetiletiya-do-2-godini-mozhe-da-nyama-pat-smolyan-pamporovo/",
       "pubDate": "Sat, 02 May 2026 07:49:20 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Голямата картина: Ченгетата при Радев и цензурата като значка",
-      "link": "https://svobodnatochka.bg/golyamata-kartina/golyamata-kartina-chengetata-pri-radev-i-czenzurata-kato-znachka/",
-      "pubDate": "Sat, 02 May 2026 07:30:00 +0000",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -231,10 +231,24 @@
       }
     },
     {
+      "title": "Тръмп обяви нови 10% мита за европейските автомобили",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/05/02/4909674_trump_obiavi_novi_10_mita_za_evropeiskite_avtomobili/?ref=rss",
+      "pubDate": "2026-05-02 10:05:00",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4885278.jpg"
+      },
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
       "title": "Кой печели от мечтата да живеем по-дълго",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/05/02/4902072_koi_pecheli_ot_mechtata_da_jiveem_po-dulgo/?ref=rss",
       "pubDate": "2026-05-02 08:30:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4908734.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -244,7 +258,9 @@
       "title": "От броколи до 300 км/час: Пистата A1 Motor Park край Самоков ще развива \"скоростен\" бизнес",
       "link": "https://www.capital.bg/biznes/kompanii/2026/05/01/4907134_ot_brokoli_do_300_kmchas_pistata_a1_motor_park_krai/?ref=rss",
       "pubDate": "2026-05-02 08:13:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4907156.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +270,9 @@
       "title": "Подкаст | Мирослав Запорожанов : Как се инвестира с автоматизирани стратегии",
       "link": "https://www.capital.bg/podcast/pari/2026/05/02/4908876_podkast_miroslav_zaporojanov_kak_se_investira_s/?ref=rss",
       "pubDate": "2026-05-02 07:50:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4909284.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,28 +282,20 @@
       "title": "Заровеният спор за \"Мальовица\"",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/05/01/4905188_zaroveniiat_spor_za_malyovica/?ref=rss",
       "pubDate": "2026-05-02 07:23:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4905354.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Седмични новини за енергетика: Първи танкер по договора с \"Боташ\" за 2026-а, Blackstone с инвестиция в проекта \"Тенево\"",
-      "link": "https://www.capital.bg/biznes/energetika/2026/05/02/4908419_sedmichni_novini_za_energetika_purvi_tanker_po/?ref=rss",
-      "pubDate": "2026-05-02 07:22:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Нов удар по Техеран: САЩ санкционират всеки, платил за преминаване през Ормузкия проток",
-      "link": "https://www.actualno.com/america/nov-udar-po-teheran-sasht-sankcionirat-vseki-platil-za-preminavane-prez-ormuzkija-protok-news_2589098.html",
-      "pubDate": "2026-05-02 09:44:00",
+      "title": "Брутално \"сафари\" срещу украинци: Русия два пъти атакува автобуси в Херсон и пося смърт (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/brutalno-safari-sreshtu-ukrainci-rusija-dva-pyti-atakuva-avtobusi-v-herson-i-posja-smyrt-video-news_2589132.html",
+      "pubDate": "2026-05-02 12:23:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/4f8e58635cdcf8eefb99d540b4a8a654_2589098_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/05587f6fdc988754d32c26ae83396860_2589132_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +304,11 @@
       }
     },
     {
-      "title": "Какво ви трябва за безпроблемно пътуване за празниците",
-      "link": "https://www.actualno.com/cars/kakvo-vi-trjabva-za-bezproblemno-pytuvane-za-praznicite-news_2589093.html",
-      "pubDate": "2026-05-02 09:29:00",
+      "title": "След подписите на Швеция и Украйна за 100-150 изтребителя \"Грипен\": ясно е кога може да има сделка за доставка",
+      "link": "https://www.actualno.com/europe/sled-podpisite-na-shvecija-i-ukrajna-za-100-150-iztrebitelja-gripen-jasno-e-koga-moje-da-ima-sdelka-za-dostavka-news_2589131.html",
+      "pubDate": "2026-05-02 12:12:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/1d40a6af330c3e1338f54ba69b0766ea_2589093_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/1bb23890310810ad38505364f483634f_2589131_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +317,11 @@
       }
     },
     {
-      "title": "Скамейката на ЦСКА няма да е в пълен състав за следващите 3 мача: Наложена е и солидна глоба",
-      "link": "https://www.actualno.com/bgfootball/skamejkata-na-cska-njama-da-e-v-pylen-systav-za-sledvashtite-3-macha-nalojena-e-i-solidna-globa-news_2589092.html",
-      "pubDate": "2026-05-02 09:26:00",
+      "title": "В деня на Харманли: Божидар Саръбоюков бе отличен с почетен знак, плакет и солидна премия",
+      "link": "https://www.actualno.com/moresport/v-denja-na-harmanli-bojidar-saryboukov-be-otlichen-s-pocheten-znak-plaket-i-solidna-premija-news_2589130.html",
+      "pubDate": "2026-05-02 12:12:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/754a4b2741fbb3cf78da218e3b08a022_2589092_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/ff8626b363228e62429a6ea7d48f893b_2589130_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +330,11 @@
       }
     },
     {
-      "title": "Все повече шофьори се оплакват от заслепяване от фарове",
-      "link": "https://www.actualno.com/cars/vse-poveche-shofiori-se-oplakvat-ot-zaslepjavane-ot-farove-news_2589091.html",
-      "pubDate": "2026-05-02 09:25:00",
+      "title": "Германия към Тръмп за изтеглянето на американските военни: От ваш интерес е да са тук",
+      "link": "https://www.actualno.com/europe/germanija-kym-trymp-za-iztegljaneto-na-amerikanskite-voenni-ot-vash-interes-e-da-sa-tuk-news_2589128.html",
+      "pubDate": "2026-05-02 11:55:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/87e72429be266599d3e74fd6e4aa3ccf_2589091_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/aff4f1c9086a10eee636f393258860fb_2589128_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +343,11 @@
       }
     },
     {
-      "title": "Спешна хоспитализация за Нобеловата лауреатка Наргес Мохамади",
-      "link": "https://www.actualno.com/asia/speshna-hospitalizacija-za-nobelovata-laureatka-narges-mohamadi-news_2589088.html",
-      "pubDate": "2026-05-02 09:20:00",
+      "title": "Най-накрая: Откриха паметника на един от най-великите български футболисти – Чико Дерменджиев",
+      "link": "https://www.actualno.com/bgfootball/naj-nakraja-otkriha-pametnika-na-edin-ot-naj-velikite-bylgarski-futbolisti-chiko-dermendjiev-news_2589126.html",
+      "pubDate": "2026-05-02 11:37:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/c7846831f577518faf283bd917e841f2_2589088_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/6acd834bcb0d3c93a90aa0e580f88d06_2589126_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -366,6 +376,16 @@
       }
     },
     {
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "link": "https://github.com/EnterpriseDB/barman",
+      "pubDate": "2026-04-29 13:54:48",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
       "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
       "pubDate": "2026-05-02 08:23:23",
@@ -376,9 +396,9 @@
       }
     },
     {
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "link": "https://github.com/bruin-data/dac",
-      "pubDate": "2026-04-29 14:37:20",
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "link": "https://arxiv.org/abs/2406.11717",
+      "pubDate": "2026-05-02 13:15:23",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +406,13 @@
       }
     },
     {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "link": "https://mljar.com/",
-      "pubDate": "2026-05-02 10:21:31",
+      "title": "Taiwan&apos;s president visits Eswatini despite China&apos;s objection",
+      "link": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-02T14:53:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,17 +454,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "link": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-02T07:57:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-02T12:39:07.434Z"
+  "lastUpdated": "2026-05-02T15:35:15.010Z"
 }
