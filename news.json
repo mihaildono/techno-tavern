@@ -121,6 +121,16 @@
       }
     },
     {
+      "title": "„Катастрофална тенденция“. Тръмп заплаши с още „съкращения“ след решението да изтегли 5000 военни от Германия",
+      "link": "https://svobodnatochka.bg/novini/germaniya-opredeli-kato-predvidimo-izteglyaneto-na-vojski-na-sasth-tramp-zaplashi-s-novi-sakrastheniya/",
+      "pubDate": "Sun, 03 May 2026 08:49:15 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Нобеловата лауреатка, осъдена на затвор в Иран. Наргес Мохамади е „на прага на смъртта“",
       "link": "https://svobodnatochka.bg/novini/na-praga-na-smartta-nobelovata-laureatka-narges-mohamadi-osadena-na-zatvor-v-iran-e-v-kritichno-sastoyanie/",
       "pubDate": "Sun, 03 May 2026 07:06:47 +0000",
@@ -141,7 +151,7 @@
       }
     },
     {
-      "title": "ВСС съди правителството за спрените 2 млн. евро за Върховния съд пред… Върховния съд",
+      "title": "ВСС съди правителството за спрените 2 млн. евро за Върховния съд пред… ��ърховния съд",
       "link": "https://svobodnatochka.bg/novini/vss-sadi-pravitelstvoto-za-sprenite-2-mln-evro-za-varhovniya-sad-pred-varhovniya-sad/",
       "pubDate": "Sat, 02 May 2026 12:08:20 +0000",
       "thumbnail": null,
@@ -151,19 +161,9 @@
       }
     },
     {
-      "title": "След разногласия с Европа. Тръмп нареди изтеглянето на 5000 американски во��нни от Германия",
+      "title": "След разногласия с Европа. Тръмп нареди изтеглянето на 5000 американски военни от Германия",
       "link": "https://svobodnatochka.bg/novini/tramp-naredi-izteglyaneto-na-5000-amerikanski-voenni-ot-germaniya/",
       "pubDate": "Sat, 02 May 2026 11:07:47 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Петър Витанов очаква поскъпване на цените на горивата след встъпване на новото правителство",
-      "link": "https://svobodnatochka.bg/novini/za-da-bade-shantazhirano-petar-vitanov-ochakva-poskapvane-na-czenite-na-gorivata-sled-vstapvane-na-novoto-pravitelstvo/",
-      "pubDate": "Sat, 02 May 2026 09:46:10 +0000",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -346,26 +346,6 @@
       }
     },
     {
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "pubDate": "2026-05-03 04:05:28",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "pubDate": "2026-05-03 01:22:41",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
       "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "pubDate": "2026-05-03 00:01:14",
@@ -386,6 +366,26 @@
       }
     },
     {
+      "title": "Forging ZK proofs to mint arbitrary DUSK tokens",
+      "link": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
+      "pubDate": "2026-04-30 19:14:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "pubDate": "2026-05-02 17:32:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Six Years Perfecting Maps on WatchOS",
       "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
       "pubDate": "2026-05-02 21:14:29",
@@ -393,6 +393,36 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Philippines&apos; Mayon volcano spews ash — Pictures",
+      "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-03T09:22:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany news: Majority thinks coalition government doomed — survey",
+      "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-03T08:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Millions sway as free Shakira concert lights up Copacabana",
+      "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-03T07:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -414,37 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "North Korea rejects US cybercrime claims as &apos;absurd slander&apos;",
-      "link": "https://www.dw.com/en/north-korea-rejects-us-cybercrime-claims-as-absurd-slander/a-77021832?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-03T04:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
-      "link": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-03T01:38:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Trump vows to cut US troops stationed in Germany &apos;way down&apos;",
-      "link": "https://www.dw.com/en/trump-vows-to-cut-us-troops-stationed-in-germany-way-down/live-77018194?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-02T19:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-03T07:42:23.106Z"
+  "lastUpdated": "2026-05-03T09:57:13.905Z"
 }
