@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Сини богове! Левски е шампион за 27-и път",
+      "link": "https://offnews.bg/futbol/sini-bogove-levski-e-shampion-za-27-i-pat-866136.html",
+      "pubDate": "2026-05-02 18:43:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/02/866136/phpjxdgwo_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 13250
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "2 май 2014 г., Одеса: уроци по руски сепаратизъм, пропаганда и дезинформация",
       "link": "https://offnews.bg/sviat/2-maj-2014-g-odesa-urotci-po-ruski-separatizam-propaganda-i-dezinf-866135.html",
       "pubDate": "2026-05-02 17:43:27",
@@ -50,20 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/05/02/866132/phpdn9wcr_559x345.jpg",
         "type": "image/jpeg",
         "length": 5364
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "При Радев няма да има опияняване с власт, опасността са огромните очаквания",
-      "link": "https://offnews.bg/politika/pri-radev-niama-da-ima-opianiavane-s-vlast-opasnostta-sa-ogromnite-oc-866131.html",
-      "pubDate": "2026-05-02 16:11:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/02/866131/phpb5vlzt_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5177
       },
       "source": {
         "name": "OffNews",
@@ -244,9 +244,7 @@
       "title": "Тръмп обяви нови 10% мита за европейските автомобили",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/05/02/4909674_trump_obiavi_novi_10_mita_za_evropeiskite_avtomobili/?ref=rss",
       "pubDate": "2026-05-02 10:05:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4885278.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -256,9 +254,7 @@
       "title": "Кой печели от мечтата да живеем по-дълго",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/05/02/4902072_koi_pecheli_ot_mechtata_da_jiveem_po-dulgo/?ref=rss",
       "pubDate": "2026-05-02 08:30:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4908734.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -268,9 +264,7 @@
       "title": "От броколи до 300 км/час: Пистата A1 Motor Park край Самоков ще развива \"скоростен\" бизнес",
       "link": "https://www.capital.bg/biznes/kompanii/2026/05/01/4907134_ot_brokoli_do_300_kmchas_pistata_a1_motor_park_krai/?ref=rss",
       "pubDate": "2026-05-02 08:13:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907156.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -280,9 +274,7 @@
       "title": "Подкаст | Мирослав Запорожанов : Как се инвестира с автоматизирани стратегии",
       "link": "https://www.capital.bg/podcast/pari/2026/05/02/4908876_podkast_miroslav_zaporojanov_kak_se_investira_s/?ref=rss",
       "pubDate": "2026-05-02 07:50:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4909284.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -292,20 +284,18 @@
       "title": "Заровеният спор за \"Мальовица\"",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/05/01/4905188_zaroveniiat_spor_za_malyovica/?ref=rss",
       "pubDate": "2026-05-02 07:23:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4905354.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Най-важните новини за деня: 2 май 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-2-maj-2026-g-news_2589189.html",
-      "pubDate": "2026-05-02 18:30:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 3 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-3-maj-valuten-kalkulator-news_2589242.html",
+      "pubDate": "2026-05-02 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/b1b32ae4aba30b1a4a8feba12e685058_2589189_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/img_69f665d5350eb_2589242_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -314,11 +304,11 @@
       }
     },
     {
-      "title": "Тръмп заобиколи Конгреса и прави оръжейни сделки за милиарди с арабските държави и Израел",
-      "link": "https://www.actualno.com/america/trymp-zaobikoli-kongresa-i-pravi-oryjejni-sdelki-za-miliardi-s-arabskite-dyrjavi-i-izrael-news_2589210.html",
-      "pubDate": "2026-05-02 18:07:00",
+      "title": "Долар - евро. Колко струва един щатски долар към едно евро днес, 3 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/dolar-evro-kolko-struva-edin-shtatski-dolar-kym-edno-evro-dnes-3-maj-valuten-kalkulator-news_2589241.html",
+      "pubDate": "2026-05-02 21:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/232f24f41d1983ae4841ff98ddd23d0c_2589210_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/img_69f665d440bd2_2589241_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -327,11 +317,11 @@
       }
     },
     {
-      "title": "Необичайни продажби на имоти в Кипър",
-      "link": "https://www.actualno.com/balkani/neobichajni-prodajbi-na-imoti-v-kipyr-news_2587800.html",
-      "pubDate": "2026-05-02 18:00:00",
+      "title": "Турска лира - евро. Колко струва една турска лира към едно евро днес, 3 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/turska-lira-evro-kolko-struva-edna-turska-lira-kym-edno-evro-dnes-3-maj-valuten-kalkulator-news_2589240.html",
+      "pubDate": "2026-05-02 21:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/29/7932c520978ea827d33820caa7817c0d_2587800_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/img_69f665d36870a_2589240_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -340,11 +330,11 @@
       }
     },
     {
-      "title": "Левски е шампион на България! „Сините“ се поизпотиха срещу ЦСКА 1948 – нарочен за гонене донесе титлата на столичани! (ВИДЕО)",
-      "link": "https://www.actualno.com/bgfootball/levski-e-shampion-na-bylgarija-sinite-se-poizpotiha-sreshtu-cska-1948-narochen-za-gonene-donese-titlata-na-stolichani-video-news_2589206.html",
-      "pubDate": "2026-05-02 17:58:00",
+      "title": "Евро - лев. Калкулатор от евро в стария лев, 3 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/evro-lev-kalkulator-ot-evro-v-starija-lev-3-maj-valuten-kalkulator-news_2589243.html",
+      "pubDate": "2026-05-02 21:05:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/e9e1fc65fa0542272b5602641f81db5e_2589206_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/img_69f665d65e053_2589243_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -353,16 +343,56 @@
       }
     },
     {
-      "title": "Най-великите живи американски автори на песни (СНИМКИ)",
-      "link": "https://www.actualno.com/music/naj-velikite-jivi-amerikanski-avtori-na-pesni-snimki-news_2588594.html",
-      "pubDate": "2026-05-02 17:26:00",
+      "title": "„Може би е една от най-сладките титли – откъде тръгнахме, къде стигнахме“",
+      "link": "https://www.actualno.com/bgfootball/moje-bi-e-edna-ot-naj-sladkite-titli-otkyde-trygnahme-kyde-stignahme-news_2589238.html",
+      "pubDate": "2026-05-02 20:29:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/30/96ded9cf98234cd4fe59127cb7b84232_2588594_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/02/99d5ae836e4b185ae9f116706938cbba_2589238_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "pubDate": "2026-05-02 19:57:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "pubDate": "2026-05-02 21:14:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "link": "https://ladybird.org/newsletter/2026-04-30/",
+      "pubDate": "2026-05-02 20:46:30",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+      "link": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
+      "pubDate": "2026-05-02 22:44:23",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -376,48 +406,8 @@
       }
     },
     {
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "pubDate": "2026-04-30 09:12:23",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Do_not_track",
-      "link": "https://donottrack.sh/",
-      "pubDate": "2026-05-02 17:40:55",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "I Do Not Recommend Bitwarden",
-      "link": "https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/",
-      "pubDate": "2026-05-02 20:03:08",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "NetHack 5.0.0",
-      "link": "https://nethack.org/v500/release.html",
-      "pubDate": "2026-05-02 18:03:42",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Germany news: US troop pullout &apos;expected&apos; — Pistorius",
-      "link": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-top-1022-rdf",
+      "title": "Trump vows to cut US troops stationed in Germany &apos;way down&apos;",
+      "link": "https://www.dw.com/en/trump-vows-to-cut-us-troops-stationed-in-germany-way-down/live-77018194?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-05-02T19:54:00Z",
       "thumbnail": null,
       "source": {
@@ -466,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-05-02T21:28:28.936Z"
+  "lastUpdated": "2026-05-03T01:25:56.904Z"
 }
