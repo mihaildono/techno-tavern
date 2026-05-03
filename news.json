@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "pubDate": "2026-05-03 00:01:14",
+      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
+      "link": "https://arxiv.org/abs/2604.25679",
+      "pubDate": "2026-05-01 13:02:30",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,6 +376,26 @@
       }
     },
     {
+      "title": "Group averages obscure how an individual's brain controls behavior: study",
+      "link": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "pubDate": "2026-04-30 22:35:36",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "pubDate": "2026-05-03 00:01:14",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "This Month in Ladybird – April 2026",
       "link": "https://ladybird.org/newsletter/2026-04-30/",
       "pubDate": "2026-05-02 20:46:30",
@@ -386,23 +406,13 @@
       }
     },
     {
-      "title": "Dav2d",
-      "link": "https://code.videolan.org/videolan/dav2d",
-      "pubDate": "2026-05-02 17:32:29",
+      "title": "Nigeria summons South Africa envoy over xenophobic incidents",
+      "link": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-03T13:32:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "pubDate": "2026-05-02 21:14:29",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Millions sway as free Shakira concert lights up Copacabana",
-      "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-03T07:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-03T12:38:02.645Z"
+  "lastUpdated": "2026-05-03T15:35:24.477Z"
 }
