@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Трусът между ПП и ДБ започнал след оттеглянето на Кирил Петков от политиката",
+      "link": "https://offnews.bg/politika/trusat-mezhdu-pp-i-db-zapochnal-sled-otteglianeto-na-kiril-petkov-ot-p-866160.html",
+      "pubDate": "2026-05-03 19:24:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/05/03/866160/phpfxvstf_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5797
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Почина журналистът Красимир Лаков",
       "link": "https://offnews.bg/medii/pochina-zhurnalistat-krasimir-lakov-866159.html",
       "pubDate": "2026-05-03 18:13:01",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/03/866159/phpdixtii_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/05/03/866159/phpdixtii_559x345.jpg",
         "type": "image/jpeg",
         "length": 4866
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/sviat/rakovodstvoto%C2%A0na-mvr-otide-v-sasht-za-poreditca-ot-rabotni-sreshti-866158.html",
       "pubDate": "2026-05-03 17:34:37",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/03/866158/phplwcshv_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/05/03/866158/phplwcshv_559x345.jpg",
         "type": "image/jpeg",
         "length": 7225
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/sviat/izlagatciata-fitco-otiva-v-moskva-za-9-maj-teparva-predstoi-866157.html",
       "pubDate": "2026-05-03 16:48:50",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/03/866157/php8jk1hg_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/05/03/866157/php8jk1hg_559x345.jpg",
         "type": "image/jpeg",
         "length": 6024
       },
@@ -47,23 +61,9 @@
       "link": "https://offnews.bg/kultura/pochina-aktiorat-petar-dimov-866156.html",
       "pubDate": "2026-05-03 15:31:01",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/03/866156/phpata1es_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/05/03/866156/phpata1es_559x345.jpg",
         "type": "image/jpeg",
         "length": 4643
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Депутатите на Радев очакват правителството да е готово до петък",
-      "link": "https://offnews.bg/politika/deputatite-na-radev-ochakvat-pravitelstvoto-da-e-gotovo-do-petak-866155.html",
-      "pubDate": "2026-05-03 14:48:12",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/05/03/866155/phpwedhqb_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 4946
       },
       "source": {
         "name": "OffNews",
@@ -74,9 +74,7 @@
       "title": "Мерки срещу инфлацията и сливане на ведомства готви новата власт",
       "link": "https://www.dnevnik.bg/video/2026/05/03/4909927_merki_sreshtu_inflaciiata_i_slivane_na_vedomstva_gotvi/?ref=rss",
       "pubDate": "2026-05-03 18:15:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4909929.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -86,9 +84,7 @@
       "title": "Общински съветник напусна ДПС в Павликени",
       "link": "https://www.dnevnik.bg/politika/2026/05/03/4909923_obshtinski_suvetnik_napusna_dps_v_pavlikeni/?ref=rss",
       "pubDate": "2026-05-03 17:42:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4909922.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -98,9 +94,7 @@
       "title": "Демерджиев е готов да оглави МВР",
       "link": "https://www.dnevnik.bg/politika/2026/05/03/4909915_demerdjiev_e_gotov_da_oglavi_mvr/?ref=rss",
       "pubDate": "2026-05-03 17:24:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4909914.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -110,9 +104,7 @@
       "title": "Швеция задържа санкциониран танкер в Балтийско море",
       "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/05/03/4909910_shveciia_zadurja_sankcioniran_tanker_v_baltiisko_more/?ref=rss",
       "pubDate": "2026-05-03 17:02:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4909909.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -122,9 +114,7 @@
       "title": "Снимка на деня: На плажа с Шакира",
       "link": "https://www.dnevnik.bg/photos/2026/05/03/4909899_snimka_na_denia_na_plaja_s_shakira/?ref=rss",
       "pubDate": "2026-05-03 16:34:00",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4909896.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -181,6 +171,18 @@
       }
     },
     {
+      "title": "Бъдещото правителство няма да налага таван на цените, но ще вдига \"червен флаг\" при високи надценки",
+      "link": "https://www.mediapool.bg/badeshtoto-pravitelstvo-nyama-da-nalaga-tavan-na-tsenite-no-shte-vdiga-cherven-flag-pri-visoki-nadtsenki-news383008.html",
+      "pubDate": "2026-05-03 19:27:54",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/383/medium_1d19d50b0b3807afcc42fda1bc5b595f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Демерджиев критикува ръководството на МВР за визита в САЩ",
       "link": "https://www.mediapool.bg/demerdzhiev-kritikuva-rakovodstvoto-na-mvr-za-vizita-v-sasht-news383007.html",
       "pubDate": "2026-05-03 17:41:21",
@@ -229,24 +231,10 @@
       }
     },
     {
-      "title": "Фицо и Лукашенко в Москва за парада за Деня на победата",
-      "link": "https://www.mediapool.bg/fitso-i-lukashenko-v-moskva-za-parada-za-denya-na-pobedata-news383003.html",
-      "pubDate": "2026-05-03 12:50:55",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/383/medium_15ca56c098fa9530bfbaf80dc7f6a280.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "Гид | Разходка между Дунав и Стара планина",
       "link": "https://www.capital.bg/moiat_capital/svobodno_vreme/2026/05/01/4901572_gid_razhodka_mejdu_dunav_i_stara_planina/?ref=rss",
       "pubDate": "2026-05-03 09:10:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4901575.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -256,9 +244,7 @@
       "title": "Мегапроектът на Белград, който трябваше да промени града, но раздели обществото",
       "link": "https://www.capital.bg/biznes/imoti/2026/05/03/4898843_megaproektut_na_belgrad_koito_triabvashe_da_promeni/?ref=rss",
       "pubDate": "2026-05-03 07:33:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4903489.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -268,9 +254,7 @@
       "title": "Longevity Forum 2.0: Дълголетието е мащабна трансформация на икономиката и на начина на живот",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/05/01/4906191_longevity_forum_20_dulgoletieto_e_mashtabna/?ref=rss",
       "pubDate": "2026-05-03 07:32:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4907533.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -280,9 +264,7 @@
       "title": "Топ 5 от \"Капитал\": Може ли да има друг модел за помощи за ток на бизнеса; Проблемите с фонда за саниране и ВЕИ",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/05/03/4909735_top_5_ot_kapital_moje_li_da_ima_drug_model_za_pomoshti/?ref=rss",
       "pubDate": "2026-05-03 07:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4890394.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -292,20 +274,18 @@
       "title": "Microsoft надмина очакванията за приходи и печалби, но акциите се понижиха",
       "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/05/03/4909767_microsoft_nadmina_ochakvaniiata_za_prihodi_i_pechalbi/?ref=rss",
       "pubDate": "2026-05-03 05:47:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4909768.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Петричев се зачуди за бъдещето на Хьогмо и отсече: Трябва да изпием горчивата чаша до дъно!",
-      "link": "https://www.actualno.com/bgfootball/petrichev-se-zachudi-za-bydeshteto-na-hiogmo-i-otseche-trjabva-da-izpiem-gorchivata-chasha-do-dyno-news_2589428.html",
-      "pubDate": "2026-05-03 18:29:00",
+      "title": "Паунд - евро. Колко струва един британски паунд към едно евро днес, 4 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/paund-evro-kolko-struva-edin-britanski-paund-kym-edno-evro-dnes-4-maj-valuten-kalkulator-news_2589450.html",
+      "pubDate": "2026-05-03 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/16029afc57fe906b0edfe1f6782bfa69_2589428_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/04/img_69f7b75476469_2589450_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -314,11 +294,11 @@
       }
     },
     {
-      "title": "Ивайло Мирчев: Хората гласуваха за ПП-ДБ, а не за егото на единия или другия",
-      "link": "https://www.actualno.com/politics/ivajlo-mirchev-horata-glasuvaha-za-pp-db-a-ne-za-egoto-na-edinija-ili-drugija-news_2589427.html",
-      "pubDate": "2026-05-03 18:28:00",
+      "title": "\"Това е неприемливо за мен\": Тръмп отхвърли новия мирен план на Иран",
+      "link": "https://www.actualno.com/america/tova-e-nepriemlivo-za-men-trymp-othvyrli-novija-miren-plan-na-iran-news_2589455.html",
+      "pubDate": "2026-05-03 21:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/d716e76bbb342b7e0e23b5fb0bd8ac13_2589427_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/04/ec3354ed41f91b5c45d56d76b7f36d2a_2589455_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -327,11 +307,11 @@
       }
     },
     {
-      "title": "Хьогмо не спести нищо на Лудогорец след поредния шамар от ЦСКА",
-      "link": "https://www.actualno.com/bgfootball/hiogmo-ne-spesti-nishto-na-ludogorec-sled-porednija-shamar-ot-cska-news_2589418.html",
-      "pubDate": "2026-05-03 18:17:00",
+      "title": "Долар - евро. Колко струва един щатски долар към едно евро днес, 4 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/dolar-evro-kolko-struva-edin-shtatski-dolar-kym-edno-evro-dnes-4-maj-valuten-kalkulator-news_2589449.html",
+      "pubDate": "2026-05-03 21:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/21148b731c94f33122ae3d4ca27bb85e_2589418_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/04/img_69f7b753744be_2589449_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -340,11 +320,11 @@
       }
     },
     {
-      "title": "Ансамбълът на България защити титлата си на Европейската купа по художествена гимнастика в Баку",
-      "link": "https://www.actualno.com/moresport/ansambylyt-na-bylgarija-zashtiti-titlata-si-na-evropejskata-kupa-po-hudojestvena-gimnastika-v-baku-news_2589423.html",
-      "pubDate": "2026-05-03 18:12:00",
+      "title": "Финландия отпуска още 300 млн. евро на Украйна",
+      "link": "https://www.actualno.com/europe/finlandija-otpuska-oshte-300-mln-evro-na-ukrajna-news_2589453.html",
+      "pubDate": "2026-05-03 21:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/03/0fefcb5ac7adf3ddb9b995e6e4300263_2589423_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/04/d4d18a818cccc4cfc134325abbf1bda6_2589453_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -353,16 +333,36 @@
       }
     },
     {
-      "title": "Представиха робота KAI: Заменя детегледачката, чистачката и куриера едновременно (ВИДЕО)",
-      "link": "https://www.actualno.com/sciencelogy/predstaviha-robota-kai-zamenja-detegledachkata-chistachkata-i-kuriera-ednovremenno-video-news_2588492.html",
-      "pubDate": "2026-05-03 18:11:00",
+      "title": "Турска лира - евро. Колко струва една турска лира към едно евро днес, 4 май /валутен калкулатор/",
+      "link": "https://www.actualno.com/finance/turska-lira-evro-kolko-struva-edna-turska-lira-kym-edno-evro-dnes-4-maj-valuten-kalkulator-news_2589448.html",
+      "pubDate": "2026-05-03 21:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/30/86b020582425c39314651d5a907b1921_2588492_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/04/img_69f7b7527f21c_2589448_920x708.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "pubDate": "2026-05-03 23:59:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "pubDate": "2026-05-03 22:52:07",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Why TUIs Are Back",
-      "link": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-      "pubDate": "2026-05-03 18:42:28",
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "pubDate": "2026-05-03 23:36:11",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "Southwest Headquarters Tour",
-      "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "pubDate": "2026-05-03 17:02:13",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "link": "https://github.com/aattaran/deepclaude",
+      "pubDate": "2026-05-03 22:13:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,23 +396,23 @@
       }
     },
     {
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "pubDate": "2026-05-03 00:30:50",
+      "title": "Suspected Hantavirus outbreak on Atlantic cruise ship kills 3, WHO says",
+      "link": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-04T00:14:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "A desktop made for one",
-      "link": "https://isene.org/2026/05/Audience-of-One.html",
-      "pubDate": "2026-05-03 15:32:05",
+      "title": "Merz &apos;not giving up&apos; on Germany&apos;s relationship with US",
+      "link": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-05-03T23:02:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW България",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,27 +444,7 @@
         "name": "DW България",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Philippines&apos; Mayon volcano spews ash — Pictures",
-      "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-03T09:22:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Majority thinks coalition government doomed — survey",
-      "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-05-03T08:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-05-03T21:30:24.752Z"
+  "lastUpdated": "2026-05-04T01:24:45.226Z"
 }
