@@ -51,7 +51,7 @@ const RSS_SOURCES = [
     type: "rss2json",
   },
   {
-    name: "DW България",
+    name: "DW",
     url: "https://rss.dw.com/rdf/rss-en-top",
     color: "#C8102E", // DW Red
     type: "direct",
