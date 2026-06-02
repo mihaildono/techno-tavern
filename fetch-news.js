@@ -22,9 +22,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Свободна точка",
-    url: "https://svobodnatochka.bg/feed/",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsvobodnatochka.bg%2Ffeed%2F",
     color: "#FF9800", // Orange
-    type: "direct",
+    type: "rss2json",
   },
   {
     name: "Mediapool",
