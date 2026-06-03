@@ -366,9 +366,29 @@
       }
     },
     {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "pubDate": "2026-06-02 22:55:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "MAI-Code-1-Flash",
       "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "pubDate": "2026-06-02 18:47:07",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "I Don't Want My Search Engine to Think for Me",
+      "link": "https://searchzee.com/blog/search-without-ai-summaries",
+      "pubDate": "2026-06-03 00:29:07",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +406,9 @@
       }
     },
     {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "pubDate": "2026-06-02 19:27:40",
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "pubDate": "2026-06-02 23:55:04",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,23 +416,33 @@
       }
     },
     {
-      "title": "MAI-Thinking-1",
-      "link": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-      "pubDate": "2026-06-02 18:39:34",
+      "title": "World Cup: David Beckham to get Hollywood Walk of Fame star",
+      "link": "https://www.dw.com/en/world-cup-david-beckham-to-get-hollywood-walk-of-fame-star/a-77398896?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-03T02:09:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "link": "https://openrepair.org/open-data/open-standard/",
-      "pubDate": "2026-06-02 19:37:10",
+      "title": "Iran war: US and Iran trade fire amid stalled talks",
+      "link": "https://www.dw.com/en/iran-war-us-and-iran-trade-fire-amid-stalled-talks/live-77398874?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-03T01:36:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Spain&apos;s Princess Leonor makes history with parachute training, reports say",
+      "link": "https://www.dw.com/en/spain-s-princess-leonor-makes-history-with-parachute-training-reports-say/a-77398657?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-03T00:54:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,37 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "El Nino could push temperatures higher, UN warns",
-      "link": "https://www.dw.com/en/el-nino-could-push-temperatures-higher-un-warns/a-77389748?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-02T14:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Trump appoints Bill Pulte as acting intelligence chief",
-      "link": "https://www.dw.com/en/trump-appoints-bill-pulte-as-acting-intelligence-chief/a-77394079?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-02T14:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Wim Wenders asks: Should movies be re-edited post-release?",
-      "link": "https://www.dw.com/en/wim-wenders-asks-should-movies-be-re-edited-post-release/a-77390951?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-02T14:16:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-02T22:52:44.920Z"
+  "lastUpdated": "2026-06-03T02:26:57.925Z"
 }
