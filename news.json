@@ -366,9 +366,39 @@
       }
     },
     {
+      "title": "Meta enables adb on deprecated Portal devices",
+      "link": "https://fb.watch/HxPu0fSyeH/",
+      "pubDate": "2026-06-05 00:44:38",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "link": "https://arxiv.org/abs/2606.04032",
+      "pubDate": "2026-06-04 23:11:56",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
       "pubDate": "2026-06-04 20:11:20",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "2026-06-05 00:04:29",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,33 +416,23 @@
       }
     },
     {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "pubDate": "2026-06-04 16:20:17",
+      "title": "Dutch police arrest 4 men over drugging, rape of partners",
+      "link": "https://www.dw.com/en/dutch-police-arrest-4-men-over-drugging-rape-of-partners/a-77427504?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-05T01:36:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Castor: CERN Advanced STORage Manager",
-      "link": "https://castor.web.cern.ch/content/home.html",
-      "pubDate": "2026-06-04 19:52:02",
+      "title": "Mali junta offers $3.5M reward for Sahel al-Qaeda leader",
+      "link": "https://www.dw.com/en/mali-junta-offers-3-5m-reward-for-sahel-al-qaeda-leader/a-77427422?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-04T23:28:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Ian's Secure Shoelace Knot",
-      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "pubDate": "2026-06-04 11:17:34",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,27 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "EU seeking ways to speed up Western Balkans membership",
-      "link": "https://www.dw.com/en/eu-seeking-ways-to-speed-up-western-balkans-membership/a-77424398?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-04T15:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Why Yad Vashem is coming to Germany",
-      "link": "https://www.dw.com/en/why-yad-vashem-is-coming-to-germany/a-77416080?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-04T14:59:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-04T22:15:15.790Z"
+  "lastUpdated": "2026-06-05T01:59:06.567Z"
 }
