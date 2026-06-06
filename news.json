@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Бялата и черната техника се очаква да поскъпнат с 15%",
+      "link": "https://offnews.bg/ikonomika/bialata-i-chernata-tehnika-se-ochakva-da-poskapnat-s-15-868224.html",
+      "pubDate": "2026-06-06 16:25:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/06/868224/php9sfmki_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6840
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "ВСУ пое контрол над пътя към Чонгар, сухопътната връзка с Крим е отрязана",
+      "link": "https://offnews.bg/sviat/vsu-poe-kontrol-nad-patia-kam-chongar-suhopatnata-vrazka-s-krim-e-otr-868223.html",
+      "pubDate": "2026-06-06 16:15:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/06/868223/phpac4aqs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5633
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "В Русия разпадът вече започна. Ще бъде като лавина",
       "link": "https://offnews.bg/dw/v-rusia-razpadat-veche-zapochna-shte-bade-kato-lavina-868222.html",
       "pubDate": "2026-06-06 16:07:27",
@@ -43,37 +71,9 @@
       }
     },
     {
-      "title": "Предпоследно: Няма да намаляват обезщетенията при закъснял полет",
-      "link": "https://offnews.bg/ikonomika/predposledno-niama-da-namaliavat-obezshteteniata-pri-zakasnial-polet-868218.html",
-      "pubDate": "2026-06-06 14:47:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/06/868218/phpjksctj_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6025
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Мъж в неадекватно състояние се опита да отвлече автобус в Бургас, рани шофьора с нож",
-      "link": "https://offnews.bg/112/mazh-v-neadekvatno-sastoianie-se-opita-da-otvleche-avtobus-v-burgas-r-868217.html",
-      "pubDate": "2026-06-06 14:07:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/06/868217/phprcezn2_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 3182
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Украйна удари основната балтийска база на Русия, скова Петербург и обяви контрол над маршрут към Крим",
-      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/06/06/4922206_ukraina_udari_osnovnata_baltiiska_baza_na_rusiia_skova/?ref=rss",
-      "pubDate": "2026-06-06 16:01:00",
+      "title": "Фотогалерия: Гладиаторски битки в центъра на Плевен",
+      "link": "https://www.dnevnik.bg/photos/2026/06/06/4922228_fotogaleriia_gladiatorski_bitki_v_centura_na_pleven/?ref=rss",
+      "pubDate": "2026-06-06 17:49:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -81,9 +81,9 @@
       }
     },
     {
-      "title": "19-годишна рускиня, без трофей в турнир от Големия шлем, спечели \"Ролан Гарос\"",
-      "link": "https://www.dnevnik.bg/sport/tenis/2026/06/06/4922204_19-godishna_ruskinia_bez_trofei_v_turnir_ot_golemiia/?ref=rss",
-      "pubDate": "2026-06-06 15:26:00",
+      "title": "Ванс ядоса Великобритания с публикация за убийство, за което била виновна миграцията",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/06/4922212_vans_iadosa_velikobritaniia_s_publikaciia_za_ubiistvo/?ref=rss",
+      "pubDate": "2026-06-06 17:13:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -91,9 +91,9 @@
       }
     },
     {
-      "title": "Цените на горивата стимулираха покупката на електромобили",
-      "link": "https://www.dnevnik.bg/skorost/2026/06/06/4922160_cenite_na_gorivata_stimuliraha_pokupkata_na/?ref=rss",
-      "pubDate": "2026-06-06 13:28:00",
+      "title": "Фестивалът \"Опера на площада\" се отменя заради липсата на бюджет",
+      "link": "https://www.dnevnik.bg/kultura/2026/06/06/4922215_festivalut_opera_na_ploshtada_se_otmenia_zaradi/?ref=rss",
+      "pubDate": "2026-06-06 16:49:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,9 +101,9 @@
       }
     },
     {
-      "title": "Полицията в Бургас задържа мъж, опитал да отвлече градски автобус",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/06/4922194_policiiata_v_burgas_zadurja_muj_opital_da_otvleche/?ref=rss",
-      "pubDate": "2026-06-06 12:55:00",
+      "title": "Арменската изборна комисия отказа да отстрани проруския съперник на Пашинян",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/06/4922210_armenskata_izborna_komisiia_otkaza_da_otstrani/?ref=rss",
+      "pubDate": "2026-06-06 16:44:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -111,13 +111,23 @@
       }
     },
     {
-      "title": "Обходът над свлачището, прекъснало пътя Смолян – Пампорово, ще бъде отворен в понеделник",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/06/4922190_obhodut_nad_svlachishteto_prekusnalo_putia_smolian/?ref=rss",
-      "pubDate": "2026-06-06 12:50:00",
+      "title": "Българските волейболистки загубиха с 0:3 от Бразилия в Лигата на нациите",
+      "link": "https://www.dnevnik.bg/sport/voleibol/2026/06/06/4922214_bulgarskite_voleibolistki_zagubiha_s_03_ot_braziliia_v/?ref=rss",
+      "pubDate": "2026-06-06 16:37:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
+      }
+    },
+    {
+      "title": "„Напълно сломен“. Русия осъди мъж на 16 г. затвор заради превод от 250 долара до гражданин на Украйна",
+      "link": "https://svobodnatochka.bg/istorii/rusiya-osadi-turist-na-16-g-zatvor-zaradi-prevod-ot-250-dolara-na-ukrainecz/",
+      "pubDate": "2026-06-06 14:43:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
@@ -161,13 +171,27 @@
       }
     },
     {
-      "title": "„Не трябва да бъде политизиран“. Кьовеши предупреди политиците да не се месят в избора на нов европрокурор",
-      "link": "https://svobodnatochka.bg/novini/laura-kioveshi-nov-bulgarski-evroprokuror/",
-      "pubDate": "2026-06-06 06:03:47",
-      "thumbnail": null,
+      "title": "Четири станаха жертвите на тежката катастрофа в София",
+      "link": "https://www.mediapool.bg/chetiri-stanaha-zhertvite-na-tezhkata-katastrofa-v-sofiya-news384133.html",
+      "pubDate": "2026-06-06 18:01:50",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_fd23caf807292f35261a3fd5b1565cd4.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Пийт Хегсет: Европа е изправена пред \"нашествие\" на опасни идеологии",
+      "link": "https://www.mediapool.bg/piyt-hegset-evropa-e-izpravena-pred-nashestvie-na-opasni-ideologii-news384144.html",
+      "pubDate": "2026-06-06 16:51:47",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_28a87a83829b6c7dc5748ae97c7ec4e2.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -200,30 +224,6 @@
       "pubDate": "2026-06-06 14:16:57",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/384/medium_bba0f789429aa67a41f3bda8c61fbbb5.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Единият от шофьорите от смъртоносната гонка в София е свързван с \"Калашниците\"",
-      "link": "https://www.mediapool.bg/ediniyat-ot-shofyorite-ot-smartonosnata-gonka-v-sofiya-e-svarzvan-s-kalashnitsite-news384140.html",
-      "pubDate": "2026-06-06 13:54:31",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_69b978f1d8a6774a2f05ac181ac3237e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "В Русия разпадът вече започна. Ще бъде като лавина",
-      "link": "https://www.mediapool.bg/v-rusiya-razpadat-veche-zapochna-shte-bade-kato-lavina-news384139.html",
-      "pubDate": "2026-06-06 12:28:56",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_ee841cdbe8fe667d2434564e4b2f20f5.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Църковен празник на 7 юни: Какво задължително се яде и какво се прави за щастие през цялата година?",
-      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-7-uni-kakvo-zadyljitelno-se-jade-i-kakvo-se-pravi-za-shtastie-prez-cjalata-godina-news_2603582.html",
-      "pubDate": "2026-06-06 16:06:00",
+      "title": "Доза допамин: 6 юни 2026 г.",
+      "link": "https://www.actualno.com/society/doza-dopamin-6-uni-2026-g-news_2603385.html",
+      "pubDate": "2026-06-06 19:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/e5d38399ca3d0eccedf68e7aae92914b_2603582_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/05/f148ad3db0b6f6ed435425b8ebe25a72_2603385_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Почина бившата първа дама на Франция",
-      "link": "https://www.actualno.com/europe/pochina-bivshata-pyrva-dama-na-francija-news_2603651.html",
-      "pubDate": "2026-06-06 16:03:00",
+      "title": "\"Панцир\" се провали в Санкт Петербург: Защо руското ПВО е сляпо за новия украински дрон FP-1",
+      "link": "https://www.actualno.com/europe/pancir-se-provali-v-sankt-peterburg-zashto-ruskoto-pvo-e-sljapo-za-novija-ukrainski-dron-fp-1-news_2603683.html",
+      "pubDate": "2026-06-06 19:13:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/cfb89f945d58ac6d16c0f231d2500248_2603651_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/ee6d0c13e9c9478682b9b1af97099606_2603683_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Украйна пое въздушен контрол над част от пътя към Крим. Руският Балтийски флот май остана без оръжия",
-      "link": "https://www.actualno.com/europe/ukrajna-poe-vyzdushen-kontrol-nad-chast-ot-pytja-kym-krim-ruskijat-baltijski-flot-maj-ostana-bez-oryjija-news_2603642.html",
-      "pubDate": "2026-06-06 15:29:00",
+      "title": "Путин изпусна последния влак, новините са лоши за руснаците: Сибиха",
+      "link": "https://www.actualno.com/europe/putin-izpusna-poslednija-vlak-novinite-sa-loshi-za-rusnacite-sibiha-news_2603679.html",
+      "pubDate": "2026-06-06 18:41:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/28bbc4f31ef9f12c6cb26f0915e5462c_2603642_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/2fa5c7d6611ec3af7ba9192c2af66613_2603679_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Петрови заговезни 2026: Кога се падат, традиции, обичаи и забрани",
-      "link": "https://www.actualno.com/celebrate/petrovi-zagovezni-2026-koga-se-padat-tradicii-obichai-i-zabrani-news_2603589.html",
-      "pubDate": "2026-06-06 15:22:00",
+      "title": "Проект за 20 милиарда долара: НАСА ще построи обитаема база на Луната до 2032 г. вместо орбитална станция",
+      "link": "https://www.actualno.com/cosmos/proekt-za-20-miliarda-dolara-nasa-shte-postroi-obitaema-baza-na-lunata-do-2032-g-vmesto-orbitalna-stancija-news_2603674.html",
+      "pubDate": "2026-06-06 18:09:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/0305efd12bfab87be1ba6b8a44e40174_2603589_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/6d1a99cc74667d94c1b8d6ffc82e4cfe_2603674_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,22 +333,52 @@
       }
     },
     {
-      "title": "Може ли математиката да предскаже края на човечеството?",
-      "link": "https://www.actualno.com/interest/moje-li-matematikata-da-predskaje-kraja-na-chovechestvoto-news_2603245.html",
-      "pubDate": "2026-06-06 15:00:00",
+      "title": "НДК хвърли на Евтим Милошев ръкавицата за открит дуел",
+      "link": "https://www.actualno.com/society/ndk-hvyrli-na-evtim-miloshev-rykavicata-za-otkrit-duel-news_2603673.html",
+      "pubDate": "2026-06-06 18:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/05/ffc6336c0b6306340a0636ec6922bf06_2603245_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/06/f1ce22284a38aab4ed210160681a9e94_2603673_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "link": "https://ntsc.rs/",
+      "pubDate": "2026-06-06 19:17:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "link": "https://su3.io/posts/introducing-zeroserve",
       "pubDate": "2026-06-06 14:59:43",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "pubDate": "2026-06-06 18:35:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Universal Memory Protocol – a shared format for agent memory",
+      "link": "https://universalmemoryprotocol.io/",
+      "pubDate": "2026-06-06 20:39:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,33 +396,23 @@
       }
     },
     {
-      "title": "Benchmarks in Leipzig",
-      "link": "https://arxiv.org/abs/2606.05818",
-      "pubDate": "2026-06-06 14:00:52",
+      "title": "Germany beat USA before World Cup but injuries cast shadow",
+      "link": "https://www.dw.com/en/germany-beat-usa-before-world-cup-but-injuries-cast-shadow/a-77446005?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T21:17:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "You Can Run",
-      "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "pubDate": "2026-06-06 15:55:46",
+      "title": "UK: 6 more charged after violent protest over stabbing death",
+      "link": "https://www.dw.com/en/uk-6-more-charged-after-violent-protest-over-stabbing-death/a-77446210?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T19:29:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "pubDate": "2026-06-06 18:21:06",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,27 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Hunger in Oleshky: Ukraine asks for evacuation",
-      "link": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T13:16:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "France: Veterans mark 82nd anniversary of D-Day in Normandy",
-      "link": "https://www.dw.com/en/france-veterans-mark-82nd-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T11:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-06T18:59:39.283Z"
+  "lastUpdated": "2026-06-06T21:52:25.609Z"
 }
