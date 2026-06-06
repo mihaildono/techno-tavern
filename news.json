@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Zig Zen Update",
-      "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-      "pubDate": "2026-06-06 08:38:44",
+      "title": "Benchmarks in Leipzig",
+      "link": "https://arxiv.org/abs/2606.05818",
+      "pubDate": "2026-06-06 14:00:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,19 +366,9 @@
       }
     },
     {
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "pubDate": "2026-06-06 09:17:49",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Introduction – Rust for Python Programmers",
-      "link": "https://microsoft.github.io/RustTraining/python-book/",
-      "pubDate": "2026-06-06 10:52:25",
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "pubDate": "2026-06-06 14:34:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +386,53 @@
       }
     },
     {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "pubDate": "2026-06-06 11:46:15",
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "link": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "pubDate": "2026-05-31 19:28:49",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "link": "https://pokeemerald.com/",
+      "pubDate": "2026-06-06 11:12:58",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "French Open: Andreeva wins first Grand Slam tennis title",
+      "link": "https://www.dw.com/en/french-open-andreeva-wins-first-grand-slam-tennis-title/a-77445749?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T15:11:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "High-functioning depression: When success masks suffering",
+      "link": "https://www.dw.com/en/high-functioning-depression-when-success-masks-suffering/a-77358072?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T13:32:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Hunger in Oleshky: Ukraine asks for evacuation",
+      "link": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T13:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,37 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Man killed in shark attack off Western Australia",
-      "link": "https://www.dw.com/en/man-killed-in-shark-attack-off-western-australia/a-77443832?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T08:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "India news: &apos;Cockroach&apos; party holds protest at Jantar Mantar",
-      "link": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T07:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Fujimori or Sanchez? Peru vote marks 10 years of turmoil",
-      "link": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T06:33:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-06T13:00:47.746Z"
+  "lastUpdated": "2026-06-06T16:00:00.870Z"
 }
