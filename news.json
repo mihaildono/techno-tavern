@@ -356,16 +356,6 @@
       }
     },
     {
-      "title": "Hacker News, Sans AI",
-      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-      "pubDate": "2026-06-05 20:38:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "pubDate": "2026-06-05 15:00:31",
@@ -386,16 +376,6 @@
       }
     },
     {
-      "title": "Three of our worst VC stories",
-      "link": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "pubDate": "2026-06-05 19:08:12",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "pubDate": "2026-06-05 16:18:48",
@@ -403,6 +383,36 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "pubDate": "2026-06-05 15:04:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "link": "https://mouseless.click/",
+      "pubDate": "2026-06-03 13:22:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Nigeria moves to repatriate 1,000 citizens from South Africa",
+      "link": "https://www.dw.com/en/nigeria-moves-to-repatriate-1-000-citizens-from-south-africa/a-77442548?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-06T00:44:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "North Korea quietly ramps up its nuclear program",
-      "link": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-05T15:25:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-05T22:07:11.779Z"
+  "lastUpdated": "2026-06-06T01:50:50.723Z"
 }
