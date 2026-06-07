@@ -356,6 +356,36 @@
       }
     },
     {
+      "title": "The OnlyFans Economy of American AI",
+      "link": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "pubDate": "2026-06-07 14:47:17",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "pubDate": "2026-06-07 12:49:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "link": "https://github.com/anthropics/claude-code/issues/65697",
+      "pubDate": "2026-06-07 13:06:52",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "link": "https://www.ioccc.org/2025/",
       "pubDate": "2026-06-07 05:47:54",
@@ -366,9 +396,9 @@
       }
     },
     {
-      "title": "Win16 Memory Management",
-      "link": "http://www.os2museum.com/wp/win16-memory-management/",
-      "pubDate": "2026-06-05 11:16:47",
+      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "link": "https://yon-lang.org/",
+      "pubDate": "2026-06-05 00:28:17",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,33 +406,23 @@
       }
     },
     {
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "pubDate": "2026-06-04 15:29:53",
+      "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
+      "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T15:34:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "pubDate": "2026-06-07 10:10:33",
+      "title": "Sweden mulls prison for young teens as violent crime rises",
+      "link": "https://www.dw.com/en/sweden-mulls-prison-for-young-teens-as-violent-crime-rises/a-77435410?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T13:50:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "pubDate": "2026-06-07 03:21:52",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,27 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Kosovo holds third election in 16 months",
-      "link": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T08:12:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Far-right AfD makes push in district elections",
-      "link": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T07:57:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-07T13:12:28.089Z"
+  "lastUpdated": "2026-06-07T16:04:13.923Z"
 }
