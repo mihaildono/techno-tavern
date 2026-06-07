@@ -356,9 +356,19 @@
       }
     },
     {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "link": "https://su3.io/posts/introducing-zeroserve",
-      "pubDate": "2026-06-06 14:59:43",
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "link": "https://openai.com/index/harness-engineering/",
+      "pubDate": "2026-06-05 18:20:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "pubDate": "2026-06-06 14:34:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "Universal Memory Protocol – a shared format for agent memory",
-      "link": "https://universalmemoryprotocol.io/",
-      "pubDate": "2026-06-06 20:39:21",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "link": "https://su3.io/posts/introducing-zeroserve",
+      "pubDate": "2026-06-06 14:59:43",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +396,13 @@
       }
     },
     {
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "link": "https://twitter.com/lemire/status/2062880075117113739",
-      "pubDate": "2026-06-06 12:52:18",
+      "title": "North Korea says nuclear program &apos;absolutely non-negotiable&apos;",
+      "link": "https://www.dw.com/en/north-korea-says-nuclear-program-absolutely-non-negotiable/a-77446889?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T01:16:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,17 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "High-functioning depression: When success masks suffering",
-      "link": "https://www.dw.com/en/high-functioning-depression-when-success-masks-suffering/a-77358072?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-06T13:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-06T21:52:25.609Z"
+  "lastUpdated": "2026-06-07T02:04:42.381Z"
 }
