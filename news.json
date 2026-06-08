@@ -356,9 +356,29 @@
       }
     },
     {
-      "title": "Stop the Apple Music app from launching",
-      "link": "https://lowtechguys.com/musicdecoy/",
-      "pubDate": "2026-06-08 17:01:43",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "pubDate": "2026-06-08 19:14:47",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "pubDate": "2026-06-08 19:42:28",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Siri AI",
+      "link": "https://www.apple.com/apple-intelligence/",
+      "pubDate": "2026-06-08 18:17:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,29 +396,9 @@
       }
     },
     {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
       "link": "https://vorpus.github.io/performativeUI/",
       "pubDate": "2026-06-08 14:05:16",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "link": "https://siraben.github.io/ti84p-re/",
-      "pubDate": "2026-06-08 17:41:33",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "pubDate": "2026-06-08 11:58:02",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -456,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-08T19:56:07.816Z"
+  "lastUpdated": "2026-06-08T22:17:29.154Z"
 }
