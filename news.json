@@ -1,11 +1,39 @@
 {
   "items": [
     {
+      "title": "Милошев иска шефовете на НДК да върнат 100 000 евро от заплатите си",
+      "link": "https://offnews.bg/kultura/miloshev-iska-shefovete-na-ndk-da-varnat-100-000-evro-ot-zaplatite-si-868253.html",
+      "pubDate": "2026-06-07 19:57:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/07/868253/phpvt4ee0_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4820
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Статия за лидерството в ДСБ принуди Радан Кънев да отговори: Съвсем не мисля да се пенсионирам - Атанасов също",
+      "link": "https://offnews.bg/politika/statia-za-liderstvoto-v-dsb-prinudi-radan-kanev-da-otgovori-savsem-ne-868252.html",
+      "pubDate": "2026-06-07 19:06:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/07/868252/phptuexeo_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5248
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Частично бедствено положение във Войводино след два дни порой",
       "link": "https://offnews.bg/obshtestvo/chastichno-bedstveno-polozhenie-vav-vojvodino-sled-dva-dni-poroj-868251.html",
       "pubDate": "2026-06-07 17:47:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/07/868251/phpldj1tq_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/06/07/868251/phpldj1tq_559x345.jpg",
         "type": "image/jpeg",
         "length": 6858
       },
@@ -19,7 +47,7 @@
       "link": "https://offnews.bg/sviat/izrael-zasilva-atakite-si-v-livan-iran-obiavi-amerikanskite-i-izraels-868250.html",
       "pubDate": "2026-06-07 17:12:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/07/868250/phpqmv14q_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/06/07/868250/phpqmv14q_559x345.jpg",
         "type": "image/jpeg",
         "length": 6648
       },
@@ -33,7 +61,7 @@
       "link": "https://offnews.bg/112/19-godishno-momche-zagina-pri-katastrofa-kraj-selo-borovo-868249.html",
       "pubDate": "2026-06-07 16:54:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/07/868249/phpsu3yhe_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/06/07/868249/phpsu3yhe_559x345.jpg",
         "type": "image/jpeg",
         "length": 7483
       },
@@ -43,38 +71,24 @@
       }
     },
     {
-      "title": "Доброволци спасиха десетки жабчета в центъра на Бургас, навъдили се покрай дъждовете",
-      "link": "https://offnews.bg/obshtestvo/dobrovoltci-spasiha-desetki-zhabcheta-v-tcentara-na-burgas-navadili-s-868248.html",
-      "pubDate": "2026-06-07 16:51:00",
+      "title": "Израел прехвана ракети от Иран, след като отново удари Бейрут",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/07/4922434_izrael_prehvana_raketi_ot_iran_sled_kato_otnovo_udari/?ref=rss",
+      "pubDate": "2026-06-07 20:01:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/07/868248/phpilwse4_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 7454
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4922433.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Румънският министър на отбраната отрича, че 6 танкера под западни санкции са на пристанище Констанца",
-      "link": "https://offnews.bg/sviat/rumanskiat-ministar-na-otbranata-otricha-che-6-tankera-pod-zapadni-sa-868247.html",
-      "pubDate": "2026-06-07 16:30:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/07/868247/phpwmwcts_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 5322
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
       "title": "Тръмп прекрати интервю след въпроси за твърденията му за фалшифицираните избори",
       "link": "https://www.dnevnik.bg/sviat/2026/06/07/4922408_trump_prekrati_intervju_sled_vuprosi_za_tvurdeniiata/?ref=rss",
       "pubDate": "2026-06-07 18:11:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4922413.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -84,7 +98,9 @@
       "title": "Александър Зверев спечели \"Ролан Гарос\"",
       "link": "https://www.dnevnik.bg/sport/tenis/2026/06/07/4922422_aleksandur_zverev_specheli_rolan_garos/?ref=rss",
       "pubDate": "2026-06-07 18:01:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4922423.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -94,7 +110,9 @@
       "title": "Партията на премиера в Косово губи подкрепа след изборите, очаква се нов блокаж",
       "link": "https://www.dnevnik.bg/sviat/2026/06/07/4922406_partiiata_na_premiera_v_kosovo_gubi_podkrepa_sled/?ref=rss",
       "pubDate": "2026-06-07 17:28:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4922405.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -104,17 +122,9 @@
       "title": "Избори в триъгълника на империите, \"Мосад\" след Давид Барнеа и първи кеч пред Белия дом",
       "link": "https://www.dnevnik.bg/svetut-spored-dnevnik/2026/06/07/4922391_izbori_v_triugulnika_na_imperiite_mosad_sled_david/?ref=rss",
       "pubDate": "2026-06-07 17:17:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "БСП ще даде три месеца толеранс на правителството",
-      "link": "https://www.dnevnik.bg/politika/2026/06/07/4922401_bsp_shte_dade_tri_meseca_tolerans_na_pravitelstvoto/?ref=rss",
-      "pubDate": "2026-06-07 17:02:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4922402.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -171,6 +181,18 @@
       }
     },
     {
+      "title": "Иран заплашва САЩ и Израел с \"болезнен отговор\" на атаката в Бейрут",
+      "link": "https://www.mediapool.bg/iran-zaplashva-sasht-i-izrael-s-boleznen-otgovor-na-atakata-v-beirut-news384166.html",
+      "pubDate": "2026-06-07 19:14:40",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_55cfbc0d7a16f3d29278b6f41ddec602.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Партията на Албин Курти вероятно печели изборите в Косово, но без мнозинство",
       "link": "https://www.mediapool.bg/partiyata-na-albin-kurti-veroyatno-pecheli-izborite-v-kosovo-no-bez-mnozinstvo-news384165.html",
       "pubDate": "2026-06-07 18:48:41",
@@ -219,24 +241,10 @@
       }
     },
     {
-      "title": "Бивш главен архитект на Варна от времето на Портних: Случаят \"Баба Алино\" е следствие на системно бездействие",
-      "link": "https://www.mediapool.bg/bivsh-glaven-arhitekt-na-varna-ot-vremeto-na-portnih-sluchayat-baba-alino-e-sledstvie-na-sistemno-bezdeistvie-news384161.html",
-      "pubDate": "2026-06-07 15:29:02",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_82e5730b85e59ea715a4ee7d1772d8f0.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "Магистър-фармацевт Димитър Маринов: България е на четвърто място по брой аптеки в ЕС",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/06/07/4916164_magistur-farmacevt_dimitur_marinov_bulgariia_e_na/?ref=rss",
       "pubDate": "2026-06-07 07:50:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4916165.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -246,21 +254,7 @@
       "title": "Как Fender обяви Великата китарна война",
       "link": "https://www.capital.bg/biznes/kompanii/2026/06/06/4921197_kak_fender_obiavi_velikata_kitarna_voina/?ref=rss",
       "pubDate": "2026-06-07 07:31:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4921199.jpg"
-      },
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Борис Георгиев, Google Cloud: Връщане назад няма. AI вече промени света безвъзвратно",
-      "link": "https://www.capital.bg/biznes/ai/2026/06/07/4920232_boris_georgiev_google_cloud_vrushtane_nazad_niama_ai/?ref=rss",
-      "pubDate": "2026-06-07 07:29:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4920233.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -270,9 +264,17 @@
       "title": "Старите секции на баба отново са на мода",
       "link": "https://www.capital.bg/biznes/imoti/2026/06/07/4895590_starite_sekcii_na_baba_otnovo_sa_na_moda/?ref=rss",
       "pubDate": "2026-06-07 07:29:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4898664.jpg"
-      },
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Борис Георгиев, Google Cloud: Връщане назад няма. AI вече промени света безвъзвратно",
+      "link": "https://www.capital.bg/biznes/ai/2026/06/07/4920232_boris_georgiev_google_cloud_vrushtane_nazad_niama_ai/?ref=rss",
+      "pubDate": "2026-06-07 07:29:00",
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -282,20 +284,18 @@
       "title": "До 5.9 млрд. евро е цената на климатичния преход за химическата индустрия до 2035 г.",
       "link": "https://www.capital.bg/zelen-kapital/2026/06/07/4922162_do_59_mlrd_evro_e_cenata_na_klimatichniia_prehod_za/?ref=rss",
       "pubDate": "2026-06-07 07:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4922161.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Как да спасим Земята от астероиди и защо още сме в сляпата зона: Отговор от учени",
-      "link": "https://www.actualno.com/cosmos/kak-da-spasim-zemjata-ot-asteroidi-i-zashto-oshte-sme-v-sljapata-zona-otgovor-ot-ucheni-news_2603886.html",
-      "pubDate": "2026-06-07 18:43:00",
+      "title": "Пийт Хегсет: Вероятно скоро ще бъде постигната страхотна сделка с Иран (ВИДЕО)",
+      "link": "https://www.actualno.com/america/pijt-hegset-verojatno-skoro-shte-byde-postignata-strahotna-sdelka-s-iran-video-news_2603892.html",
+      "pubDate": "2026-06-07 21:33:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/40ead6aa6c08532c050ce825a8170591_2603886_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/8a6d18d21943b8918830ace8f7c95d7f_2603892_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +304,11 @@
       }
     },
     {
-      "title": "Стрелба в мемориален парк край Сараево",
-      "link": "https://www.actualno.com/balkani/strelba-v-memorialen-park-kraj-saraevo-news_2603874.html",
-      "pubDate": "2026-06-07 17:44:00",
+      "title": "НА ЖИВО: Колко близо сме до мирно споразумение между САЩ и Иран?",
+      "link": "https://www.actualno.com/asia/na-jivo-kolko-blizo-sme-do-mirno-sporazumenie-mejdu-sasht-i-iran-news_2603883.html",
+      "pubDate": "2026-06-07 21:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/ae680eff96caa6be2b3f2ac14255868e_2603874_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/eb2c5ef5bbcf2bf28819c20ff6a43b0f_2603883_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +317,11 @@
       }
     },
     {
-      "title": "Започна броенето на гласовете в Армения: Минути преди това спря тока",
-      "link": "https://www.actualno.com/asia/zapochna-broeneto-na-glasovete-v-armenija-minuti-predi-tova-sprja-toka-news_2603870.html",
-      "pubDate": "2026-06-07 17:16:00",
+      "title": "\"Няма да ви дадем победа по този начин\": Зеленски разкри подробности за срещата си с Абрамович (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/njama-da-vi-dadem-pobeda-po-tozi-nachin-zelenski-razkri-podrobnosti-za-sreshtata-si-s-abramovich-video-news_2603889.html",
+      "pubDate": "2026-06-07 21:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/e8689821e61e61cbc41626a4683fa728_2603870_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/c1e1a788db2db35e360398cb50043ce5_2603889_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +330,11 @@
       }
     },
     {
-      "title": "Прогноза за времето - 8 юни 2026 г. (понеделник)",
-      "link": "https://www.actualno.com/society/prognoza-za-vremeto-8-uni-2026-g-ponedelnik-news_2603795.html",
-      "pubDate": "2026-06-07 17:01:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 08.06.26 - Украйна пое въздушен контрол над част от пътя към Крим",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-080626-ukrajna-poe-vyzdushen-kontrol-nad-chast-ot-pytja-kym-krim-news_2603882.html",
+      "pubDate": "2026-06-07 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/b40afcb2d2f3e02d412e0ada09973f47_2603795_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/62b41f9851d43bf45409cebe47ef98fb_2603882_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,16 +343,26 @@
       }
     },
     {
-      "title": "Най-важните новини за деня: 7 юни 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-7-uni-2026-g-news_2603793.html",
-      "pubDate": "2026-06-07 17:00:00",
+      "title": "Рядко срещано: Реал Мадрид получи звучен отказ на трансферния пазар",
+      "link": "https://www.actualno.com/football/rjadko-sreshtano-real-madrid-poluchi-zvuchen-otkaz-na-transfernija-pazar-news_2603906.html",
+      "pubDate": "2026-06-07 20:42:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/e582616232e18e74498fd62f35086ca8_2603793_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/07/a29cdf95a7acd28061a20cb0ad06ef17_2603906_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "pubDate": "2026-06-08 00:28:37",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -366,19 +376,9 @@
       }
     },
     {
-      "title": "How's Linear so fast? A technical breakdown",
-      "link": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "pubDate": "2026-06-07 19:01:37",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "The architecture of the internet creates risks for democracy",
-      "link": "https://www.science.org/doi/10.1126/science.aei2409",
-      "pubDate": "2026-06-07 20:28:19",
+      "title": "Show HN: I Derived a Pancake",
+      "link": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "pubDate": "2026-06-05 06:42:42",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,9 +396,9 @@
       }
     },
     {
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "pubDate": "2026-06-07 17:18:12",
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+      "pubDate": "2026-06-08 00:17:45",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,9 +406,9 @@
       }
     },
     {
-      "title": "Has Zelenskyy forfeited an honor — and Poland&apos;s sympathy?",
-      "link": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T19:39:00Z",
+      "title": "Israel strikes Iran in retaliation for Iranian attacks",
+      "link": "https://www.dw.com/en/israel-strikes-iran-in-retaliation-for-iranian-attacks/live-77452499?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-08T01:55:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -416,9 +416,9 @@
       }
     },
     {
-      "title": "Reports: Iran uses war as cover for increased executions",
-      "link": "https://www.dw.com/en/reports-iran-uses-war-as-cover-for-increased-executions/a-77451822?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T19:28:00Z",
+      "title": "Philippines issues tsunami warning after 7.8 earthquake",
+      "link": "https://www.dw.com/en/philippines-issues-tsunami-warning-after-7-8-earthquake/a-77452381?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-08T00:56:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -426,9 +426,9 @@
       }
     },
     {
-      "title": "French Open: Germany&apos;s Zverev wins first ever Grand Slam after defeating Italy&apos;s Cobolli",
-      "link": "https://www.dw.com/en/french-open-germany-s-zverev-wins-first-ever-grand-slam-after-defeating-italy-s-cobolli/a-77451656?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T17:53:00Z",
+      "title": "Kosovo PM wins snap vote, but with no majority",
+      "link": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T23:45:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -436,9 +436,9 @@
       }
     },
     {
-      "title": "German political rivals revive &apos;pizza connection&apos;",
-      "link": "https://www.dw.com/en/german-political-rivals-revive-pizza-connection/a-77395073?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T17:04:00Z",
+      "title": "Armenia election: Prime Minister Pashinyan declares victory",
+      "link": "https://www.dw.com/en/armenia-election-prime-minister-pashinyan-declares-victory/a-77447079?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T23:31:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -446,9 +446,9 @@
       }
     },
     {
-      "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
-      "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-07T15:34:00Z",
+      "title": "SIPRI: With peace elusive, nuclear weapons make a comeback",
+      "link": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-07T22:01:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -456,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-07T21:55:29.990Z"
+  "lastUpdated": "2026-06-08T02:09:27.969Z"
 }
