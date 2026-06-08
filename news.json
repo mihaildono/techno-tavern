@@ -356,19 +356,9 @@
       }
     },
     {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "link": "https://vorpus.github.io/performativeUI/",
-      "pubDate": "2026-06-08 14:05:16",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Apple WWDC 2026 Livestream",
-      "link": "https://www.apple.com/apple-events/event-stream/",
-      "pubDate": "2026-06-08 17:14:24",
+      "title": "Stop the Apple Music app from launching",
+      "link": "https://lowtechguys.com/musicdecoy/",
+      "pubDate": "2026-06-08 17:01:43",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +376,9 @@
       }
     },
     {
-      "title": "Stop the Apple Music app from launching",
-      "link": "https://lowtechguys.com/musicdecoy/",
-      "pubDate": "2026-06-08 17:01:43",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "link": "https://vorpus.github.io/performativeUI/",
+      "pubDate": "2026-06-08 14:05:16",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,9 +386,19 @@
       }
     },
     {
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "link": "https://intunedhq.com/",
-      "pubDate": "2026-06-08 13:35:27",
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "link": "https://siraben.github.io/ti84p-re/",
+      "pubDate": "2026-06-08 17:41:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "pubDate": "2026-06-08 11:58:02",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -408,7 +408,7 @@
     {
       "title": "Trump DOJ to denaturalize 17 US citizens in rare move",
       "link": "https://www.dw.com/en/trump-doj-to-denaturalize-17-us-citizens-in-rare-move/a-77466080?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-08T17:35:00Z",
+      "pubDate": "2026-06-08T18:57:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -446,8 +446,8 @@
       }
     },
     {
-      "title": "Can Xi bring North Korea closer into Beijing&apos;s orbit?",
-      "link": "https://www.dw.com/en/can-xi-bring-north-korea-closer-into-beijing-s-orbit/a-77460576?maca=en-rss-en-top-1022-rdf",
+      "title": "Xi calls China–North Korea ties &quot;unbreakable,&quot; but Pyongyang&apos;s Russia pivot is testing Beijing&apos;s leverage.",
+      "link": "https://www.dw.com/en/xi-calls-china-north-korea-ties-unbreakable-but-pyongyang-s-russia-pivot-is-testing-beijing-s-leverage/a-77460576?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-08T12:47:00Z",
       "thumbnail": null,
       "source": {
@@ -456,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-08T17:41:23.100Z"
+  "lastUpdated": "2026-06-08T19:56:07.816Z"
 }
