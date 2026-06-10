@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Иран свали американски хеликоптер. Тръмп обеща, че ще отвърне на атаката",
+      "link": "https://offnews.bg/sviat/iran-svali-amerikanski-helikopter-tramp-obeshta-che-shte-otvarne-na-868404.html",
+      "pubDate": "2026-06-09 19:55:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/09/868404/phpnk0gfd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7082
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Денков иска от Радев да изясни позицията на правителството спрямо Украйна",
       "link": "https://offnews.bg/politika/denkov-iska-ot-radev-da-iziasni-pozitciata-na-pravitelstvoto-spriamo-u-868403.html",
       "pubDate": "2026-06-09 19:49:00",
@@ -43,27 +57,13 @@
       }
     },
     {
-      "title": "След ДБ и ДПС: ПБ също поиска оставката подуправителя на НЗОК Момчил Правов",
-      "link": "https://offnews.bg/politika/sled-db-i-dps-pb-sashto-poiska-ostavkata-podupravitelia-na-nzok-momch-868401.html",
+      "title": "ПБ готви смяна на ръководството на НЗОК",
+      "link": "https://offnews.bg/politika/pb-gotvi-smiana-na-rakovodstvoto-na-nzok-868401.html",
       "pubDate": "2026-06-09 17:46:00",
       "thumbnail": {
         "link": "https://i2.offnews.bg/events/2026/06/09/868401/php0o91wd_559x345.jpg",
         "type": "image/jpeg",
         "length": 5361
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Терзиев: Разширението на трета метролиния в посока ''Слатина'' и ''Младост'' е изпълнено на 45%",
-      "link": "https://offnews.bg/obshtestvo/terziev-razshirenieto-na-treta-metrolinia-v-posoka-slatina-i-ml-868400.html",
-      "pubDate": "2026-06-09 17:36:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/09/868400/phpciy4hk_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8736
       },
       "source": {
         "name": "OffNews",
@@ -91,8 +91,8 @@
       }
     },
     {
-      "title": "Близките на загиналите на Петрохан и Околчица: Искаме действия, а не думи",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/09/4923324_blizkite_na_zaginalite_na_petrohan_i_okolchica_iskame/?ref=rss",
+      "title": "НАСА посочи астронавти от САЩ и Италия за следващата лунна мисия \"Артемис\"",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/09/4923323_nasa_posochi_astronavti_ot_sasht_i_italiia_za/?ref=rss",
       "pubDate": "2026-06-09 19:04:00",
       "thumbnail": null,
       "source": {
@@ -101,8 +101,8 @@
       }
     },
     {
-      "title": "НАСА посочи астронавти от САЩ и Италия за следващата лунна мисия \"Артемис\"",
-      "link": "https://www.dnevnik.bg/sviat/2026/06/09/4923323_nasa_posochi_astronavti_ot_sasht_i_italiia_za/?ref=rss",
+      "title": "Близките на загиналите на Петрохан и Околчица: Искаме действия, а не думи",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/06/09/4923324_blizkite_na_zaginalite_na_petrohan_i_okolchica_iskame/?ref=rss",
       "pubDate": "2026-06-09 19:04:00",
       "thumbnail": null,
       "source": {
@@ -171,6 +171,18 @@
       }
     },
     {
+      "title": "Шефката на НДК няма да подава оставка, отрича да взима по 14 000 евро заплата",
+      "link": "https://www.mediapool.bg/shefkata-na-ndk-nyama-da-podava-ostavka-otricha-da-vzima-po-14-000-evro-zaplata-news384247.html",
+      "pubDate": "2026-06-09 20:01:47",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_391ed2ec72f07181189f021484b9c926.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "\"Прогресивна България\" готви смяна на цялото ръководство на НЗОК",
       "link": "https://www.mediapool.bg/progresivna-bulgaria-gotvi-smyana-na-tsyaloto-rakovodstvo-na-nzok-news384246.html",
       "pubDate": "2026-06-09 18:12:00",
@@ -219,22 +231,12 @@
       }
     },
     {
-      "title": "Фермери се оплакват от натиск да продават евтино за договорената от кабинета и веригите  \"Кошница с грижа\"",
-      "link": "https://www.mediapool.bg/fermeri-se-oplakvat-ot-natisk-da-prodavat-evtino-za-dogovorenata-ot-kabineta-i-verigite-koshnitsa-s-grizha-news384239.html",
-      "pubDate": "2026-06-09 15:35:51",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_97a32e68556457c1718c666ea7939f38.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "ПП-ДБ ще сезира Конституционния съд за квотите в ЦИК",
       "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/06/09/4923253_pp-db_shte_sezira_konstitucionniia_sud_za_kvotite_v_cik/?ref=rss",
       "pubDate": "2026-06-09 14:44:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4923252.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -244,7 +246,9 @@
       "title": "Снимка на деня: Лидерите на Китай и Северна Корея обявиха нов етап в стратегическото си партньорство",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/06/09/4922930_snimka_na_denia_kitai_i_severna_koreia_obiaviha_nov/?ref=rss",
       "pubDate": "2026-06-09 14:28:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4922967.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +258,9 @@
       "title": "\"Евроинс\" се нагърби да продава евтина \"Гражданска отговорност\" на тировете",
       "link": "https://www.capital.bg/moiat_capital/insurance/2026/06/09/4923241_evroins_se_nagurbi_da_prodava_evtina_grajdanska/?ref=rss",
       "pubDate": "2026-06-09 14:20:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4923240.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,7 +270,9 @@
       "title": "PPC ще инвестира 350 млн. евро във ВЕИ проекти в България, Гърция и Румъния",
       "link": "https://www.capital.bg/biznes/kompanii/2026/06/09/4923173_ppc_shte_investira_350_mln_evro_vuv_vei_proekti_v/?ref=rss",
       "pubDate": "2026-06-09 13:06:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4923177.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -274,7 +282,9 @@
       "title": "Започна обновяването на гара Шумен за над 6.7 млн. евро",
       "link": "https://www.capital.bg/politika_i_ikonomika/infrastructure/2026/06/09/4923136_zapochna_obnoviavaneto_na_gara_shumen_za_nad_67_mln/?ref=rss",
       "pubDate": "2026-06-09 11:44:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4923132.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -356,9 +366,9 @@
       }
     },
     {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "link": "https://aarushgupta.io/posts/kan-fpga/",
-      "pubDate": "2026-06-09 19:21:45",
+      "title": "macOS Container Machines",
+      "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "pubDate": "2026-06-10 00:29:01",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "Making Graphics Like it's 1993",
-      "link": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "pubDate": "2026-06-09 10:46:14",
+      "title": "Upcoming breaking changes for npm v12",
+      "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "pubDate": "2026-06-09 21:01:00",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "Test-case reducers are underappreciated debugging tools",
-      "link": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-      "pubDate": "2026-06-09 11:27:49",
+      "title": "It's Death",
+      "link": "https://jesseduffield.com/ITS-DEATH/",
+      "pubDate": "2026-06-09 23:44:16",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +396,9 @@
       }
     },
     {
-      "title": "A giant star may have destroyed itself in one of the rarest explosions",
-      "link": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-      "pubDate": "2026-06-08 21:00:13",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "pubDate": "2026-06-09 22:35:57",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -398,7 +408,7 @@
     {
       "title": "US strikes Iran in response to helicopter shootdown",
       "link": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-09T22:03:00Z",
+      "pubDate": "2026-06-10T01:15:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -446,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-09T22:16:28.222Z"
+  "lastUpdated": "2026-06-10T01:58:06.792Z"
 }
