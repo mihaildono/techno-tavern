@@ -366,39 +366,19 @@
       }
     },
     {
+      "title": "Show HN: Homebrew 6.0.0",
+      "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "pubDate": "2026-06-11 13:24:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "MiMo Code is now released and open-source",
       "link": "https://mimo.xiaomi.com/mimocode",
       "pubDate": "2026-06-11 14:27:19",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "pubDate": "2026-06-11 12:05:02",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "link": "https://mrbruh.com/amd2/",
-      "pubDate": "2026-06-11 16:03:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "pubDate": "2026-06-11 12:26:42",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -416,49 +396,69 @@
       }
     },
     {
-      "title": "US President Trump says he called off strikes against Iran and hints that a deal is nearly ready — follow DW for more",
-      "link": "https://www.dw.com/en/us-president-trump-says-he-called-off-strikes-against-iran-and-hints-that-a-deal-is-nearly-ready-follow-dw-for-more/live-77498305?maca=en-rss-en-top-1022-rdf",
+      "title": "The RCE that AMD wouldn't fix",
+      "link": "https://mrbruh.com/amd2/",
+      "pubDate": "2026-06-11 16:03:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Emacs appearances in pop culture",
+      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "pubDate": "2026-06-10 10:37:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Racist riots break out across United Kingdom",
+      "link": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-11T20:02:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Is there anything GLP-1 agonist drugs cannot do?",
+      "link": "https://www.dw.com/en/is-there-anything-glp-1-agonist-drugs-cannot-do/a-77499450?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-11T19:53:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Egypt&apos;s delicate balancing act in the Iran war",
+      "link": "https://www.dw.com/en/egypt-s-delicate-balancing-act-in-the-iran-war/a-77506331?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-11T19:18:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "World Cup kicks off in Mexico City",
+      "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-11T18:25:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Iran war: Trump calls off threatened strikes, says deal nearly done",
+      "link": "https://www.dw.com/en/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done/live-77498305?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-11T17:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Pope Leo bows to migrants&apos; &apos;dignity&apos; in Gran Canaria",
-      "link": "https://www.dw.com/en/pope-leo-bows-to-migrants-dignity-in-gran-canaria/a-77510830?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-11T16:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iran: From clerical rule to military capture",
-      "link": "https://www.dw.com/en/iran-from-clerical-rule-to-military-capture/a-77509196?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-11T15:43:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "CEAS comes into effect: How will it impact asylum seekers?",
-      "link": "https://www.dw.com/en/ceas-comes-into-effect-how-will-it-impact-asylum-seekers/a-77508144?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-11T15:41:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "UK: Defense Secretary John Healey quits in military spending dispute",
-      "link": "https://www.dw.com/en/uk-defense-secretary-john-healey-quits-in-military-spending-dispute/a-77505191?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-11T14:13:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -466,5 +466,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-11T17:59:08.709Z"
+  "lastUpdated": "2026-06-11T20:15:49.657Z"
 }
