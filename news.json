@@ -376,9 +376,29 @@
       }
     },
     {
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "link": "https://fablepool.com/",
+      "pubDate": "2026-06-11 21:17:30",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "MiMo Code is now released and open-source",
       "link": "https://mimo.xiaomi.com/mimocode",
       "pubDate": "2026-06-11 14:27:19",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "pubDate": "2026-06-11 19:54:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,23 +416,13 @@
       }
     },
     {
-      "title": "The RCE that AMD wouldn't fix",
-      "link": "https://mrbruh.com/amd2/",
-      "pubDate": "2026-06-11 16:03:40",
+      "title": "World Cup kicks off in Mexico City",
+      "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-11T21:21:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Emacs appearances in pop culture",
-      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "pubDate": "2026-06-10 10:37:45",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -446,16 +456,6 @@
       }
     },
     {
-      "title": "World Cup kicks off in Mexico City",
-      "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-11T18:25:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
       "title": "Iran war: Trump calls off threatened strikes, says deal nearly done",
       "link": "https://www.dw.com/en/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done/live-77498305?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-11T17:44:00Z",
@@ -466,5 +466,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-11T20:15:49.657Z"
+  "lastUpdated": "2026-06-11T22:44:00.535Z"
 }
