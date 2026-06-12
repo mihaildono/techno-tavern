@@ -376,7 +376,17 @@
       }
     },
     {
-      "title": "How to Setup a Local Coding Agent on macOS",
+      "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "link": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "pubDate": "2026-06-12 19:54:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "How to setup a local coding agent on macOS",
       "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
       "pubDate": "2026-06-12 17:34:55",
       "thumbnail": null,
@@ -386,9 +396,9 @@
       }
     },
     {
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "link": "https://piwodlaiwo.github.io/pirates/",
-      "pubDate": "2026-06-12 17:07:46",
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "link": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "pubDate": "2026-06-11 20:24:18",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,19 +406,9 @@
       }
     },
     {
-      "title": "A PDF that changes based on how its read",
-      "link": "https://sgaud.com/texts/pdf",
-      "pubDate": "2026-06-12 16:32:50",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "World Cup: Ghana&apos;s Partey denied entry to Canada",
-      "link": "https://www.dw.com/en/world-cup-ghana-s-partey-denied-entry-to-canada/a-77530436?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T18:33:00Z",
+      "title": "Elon Musk becomes world&apos;s first trillionaire after SpaceX IPO",
+      "link": "https://www.dw.com/en/elon-musk-becomes-world-s-first-trillionaire-after-spacex-ipo/a-77529579?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-12T21:35:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -416,9 +416,9 @@
       }
     },
     {
-      "title": "SpaceX IPO makes Musk a paper trillionaire",
-      "link": "https://www.dw.com/en/spacex-ipo-makes-musk-a-paper-trillionaire/a-77529579?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T17:30:00Z",
+      "title": "World Cup: Ghana&apos;s Partey denied entry to Canada",
+      "link": "https://www.dw.com/en/world-cup-ghana-s-partey-denied-entry-to-canada/a-77530436?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-12T18:33:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -456,5 +456,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-12T19:47:50.730Z"
+  "lastUpdated": "2026-06-12T22:16:43.208Z"
 }
