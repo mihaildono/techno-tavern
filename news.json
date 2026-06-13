@@ -366,29 +366,9 @@
       }
     },
     {
-      "title": "US bans differential privacy in Census data",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
       "link": "https://desfontain.es/blog/banning-noise.html",
       "pubDate": "2026-06-13 13:54:56",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "pubDate": "2026-06-13 13:34:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Every Frame Perfect",
-      "link": "https://tonsky.me/blog/every-frame-perfect/",
-      "pubDate": "2026-06-13 11:40:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,13 +386,43 @@
       }
     },
     {
-      "title": "Appreciating Exif",
-      "link": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "pubDate": "2026-06-09 20:41:44",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "link": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+      "pubDate": "2026-06-13 18:32:22",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Every Frame Perfect",
+      "link": "https://tonsky.me/blog/every-frame-perfect/",
+      "pubDate": "2026-06-13 11:40:20",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "pubDate": "2026-06-13 13:34:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Fact check: These FIFA World Cup ticket sites are fake",
+      "link": "https://www.dw.com/en/fact-check-these-fifa-world-cup-ticket-sites-are-fake/a-77538740?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T19:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -454,17 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
-      "link": "https://www.dw.com/en/why-india-wants-german-submarines-and-what-pakistan-and-china-have-to-do-with-it/a-77503931?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-13T10:18:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-13T19:02:36.521Z"
+  "lastUpdated": "2026-06-13T21:55:04.314Z"
 }
