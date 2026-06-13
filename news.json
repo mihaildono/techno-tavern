@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Канада спечели първа точка на световни първенства",
+      "link": "https://offnews.bg/futbol/kanada-specheli-parva-tochka-na-svetovni-parvenstva-868624.html",
+      "pubDate": "2026-06-12 21:06:18",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/13/868624/phpsdadm4_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9009
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Доналд Тръмп няма да присъства на първия мач на САЩ на Мондиал 2026",
       "link": "https://offnews.bg/futbol/donald-tramp-niama-da-prisastva-na-parvia-mach-na-sasht-na-mondial-202-868622.html",
       "pubDate": "2026-06-12 18:24:08",
@@ -57,24 +71,48 @@
       }
     },
     {
-      "title": "Илон Мъск счупи рекордите в световната икономика",
-      "link": "https://offnews.bg/ikonomika/ilon-mask-schupi-rekordite-v-svetovnata-ikonomika-868617.html",
-      "pubDate": "2026-06-12 16:32:23",
+      "title": "Канада и Босна и Херцеговина завършиха 1:1 в Торонто",
+      "link": "https://www.dnevnik.bg/sport/2026/06/13/4924721_kanada_i_bosna_i_hercegovina_zavurshiha_11_v_toronto/?ref=rss",
+      "pubDate": "2026-06-12 21:10:00",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/12/868617/phpmfeqgz_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4391
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4924718.jpg"
       },
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Мирната сделка между САЩ и Иран е договорена, казва посредникът Пакистан",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/12/4924712_mirnata_sdelka_mejdu_sasht_i_iran_e_dogovorena_kazva/?ref=rss",
+      "pubDate": "2026-06-12 20:14:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4924713.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Путин увеличи руската армия до 2.4 млн. души",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/12/4924709_putin_uvelichi_ruskata_armiia_do_24_mln_dushi/?ref=rss",
+      "pubDate": "2026-06-12 19:54:00",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4924710.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
       "title": "Григор Димитров спечели благотворителния мач с Циципас",
       "link": "https://www.dnevnik.bg/sport/2026/06/12/4924708_grigor_dimitrov_specheli_blagotvoritelniia_mach_s/?ref=rss",
       "pubDate": "2026-06-12 19:20:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4924707.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -84,37 +122,9 @@
       "title": "Петер Мадяр внесе реформа, изтръгваща медиите от влиянието на Орбан",
       "link": "https://www.dnevnik.bg/evropa/evrofinansirane/beneficienti/medii/2026/06/12/4924705_peter_madiar_vnese_reforma_iztrugvashta_mediite_ot/?ref=rss",
       "pubDate": "2026-06-12 19:19:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "ЕС започва в понеделник преговори за членство с Украйна и Молдова",
-      "link": "https://www.dnevnik.bg/evropa/2026/06/12/4924701_es_zapochva_v_ponedelnik_pregovori_za_chlenstvo_s/?ref=rss",
-      "pubDate": "2026-06-12 18:29:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Делян Георгиев остава кмет на район \"Изгрев\", въпреки че дълго е отсъствал от работа",
-      "link": "https://www.dnevnik.bg/gradska_sreda/2026/06/12/4924703_delian_georgiev_ocelia_kato_kmet_na_raion_izgrev_makar/?ref=rss",
-      "pubDate": "2026-06-12 18:18:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Цистерни с мляко са блокирани на границата с Румъния заради нови изисквания на агенцията по храните",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/12/4924699_cisterni_s_mliako_sa_blokirani_na_granicata_s_rumuniia/?ref=rss",
-      "pubDate": "2026-06-12 17:56:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4924706.jpg"
+      },
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
@@ -234,9 +244,7 @@
       "title": "Фотогалерия: Фестивал на водните спортове",
       "link": "https://www.capital.bg/multimedia/fotogalerii/2026/06/12/4923548_fotogaleriia_festival_na_vodnite_sportove/?ref=rss",
       "pubDate": "2026-06-12 11:58:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4923919.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -246,9 +254,7 @@
       "title": "В дълбините на решението \"ДаллБогг\": счетоводни трикове и... Тръмп",
       "link": "https://www.capital.bg/moiat_capital/insurance/2026/06/12/4924513_v_dulbinite_na_reshenieto_dallbogg_schetovodni_trikove/?ref=rss",
       "pubDate": "2026-06-12 11:48:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4924526.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -258,9 +264,7 @@
       "title": "Бизнес глобус: ЕЦБ пак ще вдига лихвите през юли?; Nvidia предлага процесорите Vera на китайски клиенти",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/biznes-globus/2026/06/12/4924430_biznes_globus_predstaviteli_na_ecb_smiatat_che/?ref=rss",
       "pubDate": "2026-06-12 11:01:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4924493.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -270,9 +274,7 @@
       "title": "Корейското борсово чудо",
       "link": "https://www.capital.bg/moiat_capital/investments/2026/06/12/4923117_koreiskoto_borsovo_chudo/?ref=rss",
       "pubDate": "2026-06-12 11:00:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4923886.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -282,20 +284,18 @@
       "title": "Директори на губещи държавни болници получават петцифрени заплати",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/06/12/4924474_direktori_na_gubeshti_durjavni_bolnici_poluchavali/?ref=rss",
       "pubDate": "2026-06-12 10:17:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4924473.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Един човек. Един порой. Един нов Майкъл Джексън: Вашата доза допамин за днес",
-      "link": "https://www.actualno.com/society/edin-chovek-edin-poroj-edin-nov-majkyl-djeksyn-vashata-doza-dopamin-za-dnes-news_2605796.html",
-      "pubDate": "2026-06-12 19:30:00",
+      "title": "Учени са притеснени от \"странно студено петно\" в Атлантическия океан",
+      "link": "https://www.actualno.com/climate/ucheni-sa-pritesneni-ot-stranno-studeno-petno-v-atlanticheskija-okean-news_2606262.html",
+      "pubDate": "2026-06-12 22:20:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/11/1e476cac11f9476f39a2564558d8301b_2605796_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/13/5342224db6f53edcc7f530ae49d3e73e_2606262_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +304,11 @@
       }
     },
     {
-      "title": "Откриха гигантска мистериозна структура под Антарктида, която може да промени съдбата на континента",
-      "link": "https://www.actualno.com/interest/otkriha-gigantska-misteriozna-struktura-pod-antarktida-kojato-moje-da-promeni-sydbata-na-kontinenta-news_2606239.html",
-      "pubDate": "2026-06-12 19:26:00",
+      "title": "От догодина: Великобритания налага пълна забрана на вноса на дизел и керосин от руски суров петрол",
+      "link": "https://www.actualno.com/economy/ot-dogodina-velikobritanija-nalaga-pylna-zabrana-na-vnosa-na-dizel-i-kerosin-ot-ruski-surov-petrol-news_2606258.html",
+      "pubDate": "2026-06-12 21:52:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/12/191aa9613d11aba4656d63a21f7fea37_2606239_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/13/cb792a5aaec4e143e701f301ba892210_2606258_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +317,11 @@
       }
     },
     {
-      "title": "Гришо: Винаги съм бил горд българин – да видя подкрепата и да я усетя означава много за мен!",
-      "link": "https://www.actualno.com/tennis/grisho-vinagi-sym-bil-gord-bylgarin-da-vidja-podkrepata-i-da-ja-usetja-oznachava-mnogo-za-men-news_2606237.html",
-      "pubDate": "2026-06-12 19:06:00",
+      "title": "Най-много \"сухи мрежи\" на Световното първенство 2026 - един вратар се откроява (класиране)",
+      "link": "https://www.actualno.com/football/naj-mnogo-suhi-mreji-na-svetovnoto-pyrvenstvo-2026-edin-vratar-se-otkrojava-klasirane-news_2605575.html",
+      "pubDate": "2026-06-12 21:46:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/12/3be4bc17bb06961d29fd3f82f42dfb6b_2606237_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/11/528aadfc7e6c830fdf0275d317aaf3e4_2605575_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +330,11 @@
       }
     },
     {
-      "title": "Най-важните новини за деня: 12 юни 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-12-uni-2026-g-news_2606227.html",
-      "pubDate": "2026-06-12 19:00:00",
+      "title": "Класиране по асистенции на Световното първенство 2026 - седем голови подавания на турнира! (обновява се)",
+      "link": "https://www.actualno.com/football/klasirane-po-asistencii-na-svetovnoto-pyrvenstvo-2026-sedem-golovi-podavanija-na-turnira-obnovjava-se-news_2604620.html",
+      "pubDate": "2026-06-12 21:44:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/12/57c4718c75649c9e86456c159df1c595_2606227_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/09/4dfd3b84b0a00438e1cf60935e609393_2604620_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,16 +343,36 @@
       }
     },
     {
-      "title": "Путин: Войната в Украйна беше разгърната от НАТО, бием се почти сами срещу колективния Запад (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/putin-vojnata-v-ukrajna-beshe-razgyrnata-ot-nato-biem-se-pochti-sami-sreshtu-kolektivnija-zapad-video-news_2606234.html",
-      "pubDate": "2026-06-12 18:50:00",
+      "title": "Пълно класиране в групите на Световното първенство 2026 (обновява се)",
+      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupite-na-svetovnoto-pyrvenstvo-2026-obnovjava-se-news_2605278.html",
+      "pubDate": "2026-06-12 21:33:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/12/02ab9a0a0757fab558c034c5f97ae4d6_2606234_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/10/b44fa7f5c2319979a2e53dcd487b6335_2605278_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "2026-06-13 00:51:30",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Renault: Electric motors with no rare earths",
+      "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "pubDate": "2026-06-12 22:08:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -366,9 +386,9 @@
       }
     },
     {
-      "title": "I Am Not a Reverse Centaur",
-      "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "pubDate": "2026-06-12 17:53:20",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "pubDate": "2026-06-12 22:13:29",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,7 +396,7 @@
       }
     },
     {
-      "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
       "link": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
       "pubDate": "2026-06-12 19:54:27",
       "thumbnail": null,
@@ -386,23 +406,13 @@
       }
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "pubDate": "2026-06-12 17:34:55",
+      "title": "US clears Paramount&apos;s mammoth Warner Bros merger",
+      "link": "https://www.dw.com/en/us-clears-paramount-s-mammoth-warner-bros-merger/a-77532579?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T00:09:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "link": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "pubDate": "2026-06-11 20:24:18",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "German court holds Google liable for fake AI answers",
-      "link": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T14:51:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-12T22:16:43.208Z"
+  "lastUpdated": "2026-06-13T01:59:08.016Z"
 }
