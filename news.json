@@ -356,7 +356,17 @@
       }
     },
     {
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "title": "There is a shadow hanging over this Fable thing",
+      "link": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "pubDate": "2026-06-13 05:16:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "link": "https://www.anthropic.com/news/fable-mythos-access",
       "pubDate": "2026-06-13 00:51:30",
       "thumbnail": null,
@@ -366,9 +376,19 @@
       }
     },
     {
-      "title": "Renault: Electric motors with no rare earths",
+      "title": "Electric motors with no rare earths",
       "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
       "pubDate": "2026-06-12 22:08:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "pubDate": "2026-06-13 05:44:46",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,23 +406,43 @@
       }
     },
     {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "pubDate": "2026-06-12 22:13:29",
+      "title": "US, Venezuela say Tren de Aragua leader killed in strike",
+      "link": "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T06:36:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "link": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "pubDate": "2026-06-12 19:54:27",
+      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
+      "link": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T06:13:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Woman critically injured in shark attack at Sydney beach",
+      "link": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T06:06:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Swiss to vote on whether to cap population at 10 million",
+      "link": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-13T05:35:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -414,47 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Elon Musk becomes world&apos;s first trillionaire after SpaceX IPO",
-      "link": "https://www.dw.com/en/elon-musk-becomes-world-s-first-trillionaire-after-spacex-ipo/a-77529579?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T21:35:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "World Cup: Ghana&apos;s Partey denied entry to Canada",
-      "link": "https://www.dw.com/en/world-cup-ghana-s-partey-denied-entry-to-canada/a-77530436?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T18:33:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iran, US say deal to end war &apos;has never been closer&apos;",
-      "link": "https://www.dw.com/en/iran-us-say-deal-to-end-war-has-never-been-closer/live-77520654?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T16:45:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "German students up in arms about funding cuts",
-      "link": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T16:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-13T01:59:08.016Z"
+  "lastUpdated": "2026-06-13T06:43:21.661Z"
 }
