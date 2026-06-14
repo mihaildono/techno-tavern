@@ -356,6 +356,16 @@
       }
     },
     {
+      "title": "No, everyone is not using AI for everything",
+      "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "pubDate": "2026-06-14 14:44:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "The Birth and Death of JavaScript (2014)",
       "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
       "pubDate": "2026-06-14 12:38:31",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-      "link": "https://sqltoerdiagram.com/",
-      "pubDate": "2026-06-14 03:43:30",
+      "title": "Firewood Splitting Simulator",
+      "link": "https://screen.toys/firewood/",
+      "pubDate": "2026-06-10 05:01:31",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "Honda Civics and the Evil Valet",
-      "link": "https://juniperspring.org/posts/honda-evil-valet/",
-      "pubDate": "2026-06-14 00:49:46",
+      "title": "Measles surge in Utah sparks fears US could undo decades of progress",
+      "link": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
+      "pubDate": "2026-06-14 15:13:42",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +396,9 @@
       }
     },
     {
-      "title": "GLM 5.2 Is Out",
-      "link": "https://twitter.com/jietang/status/2065784751345287314",
-      "pubDate": "2026-06-13 16:18:31",
+      "title": "Lisp's Influence on Ruby",
+      "link": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "pubDate": "2026-06-11 14:43:11",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,19 +406,19 @@
       }
     },
     {
-      "title": "Windows 1.0 and the WinAPI, 40 Years Later",
-      "link": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
-      "pubDate": "2026-06-11 16:14:55",
+      "title": "Ukraine targets Russia&apos;s industrial facilities in massive strike",
+      "link": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-14T13:46:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
       "title": "Sahel juntas are &apos;crushing&apos; basic freedoms",
       "link": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-12T12:56:00Z",
+      "pubDate": "2026-06-14T13:01:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -426,8 +436,8 @@
       }
     },
     {
-      "title": "Swiss voters projected to reject population cap proposal",
-      "link": "https://www.dw.com/en/swiss-voters-projected-to-reject-population-cap-proposal/a-77543868?maca=en-rss-en-top-1022-rdf",
+      "title": "Swiss voters reject population cap proposal",
+      "link": "https://www.dw.com/en/swiss-voters-reject-population-cap-proposal/a-77543868?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-14T11:19:00Z",
       "thumbnail": null,
       "source": {
@@ -444,17 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Manuel Neuer fit to join Germany in first World Cup match",
-      "link": "https://www.dw.com/en/manuel-neuer-fit-to-join-germany-in-first-world-cup-match/a-77541375?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-14T08:04:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-14T13:21:30.385Z"
+  "lastUpdated": "2026-06-14T16:15:01.808Z"
 }
