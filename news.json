@@ -181,6 +181,42 @@
       }
     },
     {
+      "title": "Трайчо Трайков е избран за кмет на район \"Средец\" с над 77% от подадените гласове",
+      "link": "https://www.mediapool.bg/traicho-traikov-e-izbran-za-kmet-na-raion-sredets-s-nad-77-ot-podadenite-glasove-news384397.html",
+      "pubDate": "2026-06-14 20:37:01",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_bee2326a342c74f5e2470e541789f2f6.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Нов удар на Израел срещу Ливан заплашва споразумението между САЩ и Иран",
+      "link": "https://www.mediapool.bg/nov-udar-na-izrael-sreshtu-livan-zaplashva-sporazumenieto-mezhdu-sasht-i-iran-news384405.html",
+      "pubDate": "2026-06-14 17:30:53",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_06b89eaae9eac85f508a715adea57308.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Бойко Рашков: Невзоров е подпомогнат от известен варненски гражданин",
+      "link": "https://www.mediapool.bg/boiko-rashkov-nevzorov-e-podpomognat-ot-izvesten-varnenski-grazhdanin-news384411.html",
+      "pubDate": "2026-06-14 16:53:59",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_8bcd4c21b85eec8b9810469807580208.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Полицейска операция срещу \"Калашниците\" в Ботунец, над 30 задържани",
       "link": "https://www.mediapool.bg/politseiska-operatsiya-sreshtu-kalashnitsite-v-botunets-nad-30-zadarzhani-news384410.html",
       "pubDate": "2026-06-14 16:15:00",
@@ -198,42 +234,6 @@
       "pubDate": "2026-06-14 14:47:14",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/384/medium_27a5e51215305610eec8518203a56297.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Люис Хамилтън спечели първата си победа за Ферари в Гран при на Каталуня",
-      "link": "https://www.mediapool.bg/lyuis-hamiltan-specheli-parvata-si-pobeda-za-ferari-v-gran-pri-na-katalunya-news384409.html",
-      "pubDate": "2026-06-14 14:46:21",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_51de6fa54dc8bfc524f5f11ba6542517.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Гранични полицаи спасиха петима мигранти в тежко състояние край Бургас, задържани са общо 32-ма чужденци",
-      "link": "https://www.mediapool.bg/granichni-politsai-spasiha-petima-migranti-v-tezhko-sastoyanie-krai-burgas-zadarzhani-sa-obshto-32-ma-chuzhdentsi-news384398.html",
-      "pubDate": "2026-06-14 14:41:49",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_498260d436f93f41ec29832f153f346a.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Избирателната активност на частичните избори за кмет в столичния район \"Средец\" към 16:00 часа е 7,57%",
-      "link": "https://www.mediapool.bg/izbiratelnata-aktivnost-na-chastichnite-izbori-za-kmet-v-stolichniya-raion-sredets-kam-1600-chasa-e-757-news384397.html",
-      "pubDate": "2026-06-14 14:37:01",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_68f20c8d20441098f134d50820071820.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -376,6 +376,26 @@
       }
     },
     {
+      "title": "Yserver: A modern X11 server written in Rust",
+      "link": "https://github.com/joske/yserver",
+      "pubDate": "2026-06-14 19:10:35",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "link": "https://zinnia-os.org/",
+      "pubDate": "2026-06-14 21:04:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "link": "https://github.com/nex-agi/Nex-N2/issues/4",
       "pubDate": "2026-06-14 15:37:31",
@@ -386,9 +406,9 @@
       }
     },
     {
-      "title": "Firewood Splitting Simulator",
-      "link": "https://screen.toys/firewood/",
-      "pubDate": "2026-06-10 05:01:31",
+      "title": "Chaosnet (1981)",
+      "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "pubDate": "2026-06-14 19:14:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,23 +416,23 @@
       }
     },
     {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "pubDate": "2026-06-14 12:38:31",
+      "title": "Iran war: Pakistan announces US-Iran peace deal reached",
+      "link": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-14T21:28:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "link": "https://news.ycombinator.com/item?id=48528779",
-      "pubDate": "2026-06-14 16:05:28",
+      "title": "Manuel Neuer: The aura of a record-breaking goalkeeper",
+      "link": "https://www.dw.com/en/manuel-neuer-the-aura-of-a-record-breaking-goalkeeper/a-77538894?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-14T21:20:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,27 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "UK seizes suspected Russian shadow fleet tanker",
-      "link": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-14T16:17:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ukraine targets Russia&apos;s industrial facilities in massive strike",
-      "link": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-14T13:46:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-14T19:02:26.079Z"
+  "lastUpdated": "2026-06-14T22:00:54.406Z"
 }
