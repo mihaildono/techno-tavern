@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "link": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "pubDate": "2026-06-15 12:08:59",
+      "title": "Iroh 1.0",
+      "link": "https://www.iroh.computer/blog/v1",
+      "pubDate": "2026-06-15 15:13:06",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "What the Fuck Happened to Nerds",
-      "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "pubDate": "2026-06-15 08:23:52",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "link": "https://tinywind.io/",
+      "pubDate": "2026-06-15 16:15:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
-      "link": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
-      "pubDate": "2026-06-15 13:16:20",
+      "title": "My Homelab AI Dev Platform",
+      "link": "https://rsgm.dev/post/ai-dev-platform/",
+      "pubDate": "2026-06-15 15:09:40",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Your ePub Is fine",
-      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "pubDate": "2026-06-14 22:54:55",
+      "title": "How TimescaleDB compresses time-series data",
+      "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "pubDate": "2026-06-15 17:29:17",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +386,43 @@
       }
     },
     {
-      "title": "Apple Foundation Models",
-      "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "pubDate": "2026-06-15 04:55:34",
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "link": "https://news.ycombinator.com/item?id=48543908",
+      "pubDate": "2026-06-15 16:47:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Palestinian leader Abbas announces elections",
+      "link": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-15T18:33:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "UN calls for drone regulation in conflict zones",
+      "link": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-15T17:30:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Strait of Hormuz reopening won&apos;t end shipping risks",
+      "link": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-15T15:25:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -414,37 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "US-Iran: Reported peace deal sparks both relief and anger",
-      "link": "https://www.dw.com/en/us-iran-reported-peace-deal-sparks-both-relief-and-anger/a-77560563?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-15T13:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iran war: Will the global energy crisis end soon?",
-      "link": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-15T10:45:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: 23 million tune in for World Cup win",
-      "link": "https://www.dw.com/en/germany-news-23-million-tune-in-for-world-cup-win/live-77557116?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-15T10:33:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-15T14:51:49.165Z"
+  "lastUpdated": "2026-06-15T18:58:27.928Z"
 }
