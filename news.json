@@ -366,7 +366,7 @@
       }
     },
     {
-      "title": "Epic Games announces Lore version control system",
+      "title": "Lore – Open source version control system designed for scalability",
       "link": "https://lore.org/",
       "pubDate": "2026-06-17 14:30:27",
       "thumbnail": null,
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "link": "https://github.com/Adam-CAD/CADAM",
-      "pubDate": "2026-06-17 16:14:04",
+      "title": "A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?",
+      "link": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "pubDate": "2026-06-17 21:00:07",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "pubDate": "2026-06-17 09:12:00",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "pubDate": "2026-06-17 03:55:16",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,13 +406,23 @@
       }
     },
     {
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-      "pubDate": "2026-06-17 19:22:02",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "pubDate": "2026-06-17 09:12:00",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Read: US officials release 14-point initial agreement to end war with Iran",
+      "link": "https://www.dw.com/en/read-us-officials-release-14-point-initial-agreement-to-end-war-with-iran/a-77595563?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-17T21:01:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -454,17 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "CRISPR gene-editing for crops: Precision tool or new risk?",
-      "link": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-17T14:29:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-17T19:53:15.304Z"
+  "lastUpdated": "2026-06-17T22:27:45.433Z"
 }
