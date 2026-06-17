@@ -376,29 +376,9 @@
       }
     },
     {
-      "title": "Want your images back? Sure... That'll be $5!",
-      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "pubDate": "2026-06-17 13:05:03",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Volkswagen started blocking GrapheneOS users",
-      "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-      "pubDate": "2026-06-17 15:04:47",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "French physicist and media star loses doctorate after plagiarism investigation",
-      "link": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-      "pubDate": "2026-06-17 15:23:49",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "link": "https://github.com/Adam-CAD/CADAM",
+      "pubDate": "2026-06-17 16:14:04",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -413,6 +393,46 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "link": "https://browser-use.com/posts/firecracker-browser-infra",
+      "pubDate": "2026-06-16 15:15:01",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "pubDate": "2026-06-17 19:22:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "EU lawmakers approve new tougher migrant policy",
+      "link": "https://www.dw.com/en/eu-lawmakers-approve-new-tougher-migrant-policy/a-77595342?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-17T19:33:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany: Reports of antisemitism in 2025 remain high",
+      "link": "https://www.dw.com/en/germany-reports-of-antisemitism-in-2025-remain-high/a-77593695?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-17T17:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,27 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Morocco: The 2030 World Cup is more than sports, it is a national project",
-      "link": "https://www.dw.com/en/morocco-the-2030-world-cup-is-more-than-sports-it-is-a-national-project/a-77589339?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-17T14:01:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Diplomats and abuse — chipping at the shield of immunity",
-      "link": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shield-of-immunity/a-77575633?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-17T14:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-17T17:40:45.775Z"
+  "lastUpdated": "2026-06-17T19:53:15.304Z"
 }
