@@ -366,9 +366,19 @@
       }
     },
     {
-      "title": "The 100k Whys of AI",
-      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "pubDate": "2026-06-21 05:45:21",
+      "title": "Google Hits 50% IPv6",
+      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "pubDate": "2026-06-21 08:21:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "link": "https://github.com/namgyaaal/avoxelgame",
+      "pubDate": "2026-06-21 08:04:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,9 +406,9 @@
       }
     },
     {
-      "title": "Building Reliable Agentic AI Systems",
-      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "pubDate": "2026-06-21 04:28:39",
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "link": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "pubDate": "2026-06-19 15:13:11",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,59 +416,49 @@
       }
     },
     {
-      "title": "Renting a sewing machine from the library",
-      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "pubDate": "2026-06-20 22:54:11",
+      "title": "Stonehenge revelers ring in summer solstice",
+      "link": "https://www.dw.com/en/stonehenge-revelers-ring-in-summer-solstice/a-77643500?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T09:46:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "US and Iranian negotiators head to Switzerland for talks",
-      "link": "https://www.dw.com/en/us-and-iranian-negotiators-head-to-switzerland-for-talks/live-77641405?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany could scrap law banning insults against politicians",
+      "link": "https://www.dw.com/en/germany-could-scrap-law-banning-insults-against-politicians/a-77630055?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T09:40:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
+      "link": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T08:50:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Sudan: UN warns of mass atrocities in El-Obeid",
+      "link": "https://www.dw.com/en/sudan-un-warns-of-mass-atrocities-in-el-obeid/a-77642972?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T07:54:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "US and Iranian negotiators arrive in Switzerland for talks",
+      "link": "https://www.dw.com/en/us-and-iranian-negotiators-arrive-in-switzerland-for-talks/live-77641405?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-21T00:10:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Undav heroics help Germany beat Ivory Coast",
-      "link": "https://www.dw.com/en/undav-heroics-help-germany-beat-ivory-coast/a-77639564?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T22:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Terror police probe suspected anti-Muslim attacks in Edinburgh",
-      "link": "https://www.dw.com/en/terror-police-probe-suspected-anti-muslim-attacks-in-edinburgh/a-77639385?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T18:59:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Are Ukraine drones really exposing gaps in Russia&apos;s defense?",
-      "link": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T18:56:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "France bans alcohol during Fete de la Musique amid heat wave",
-      "link": "https://www.dw.com/en/france-bans-alcohol-during-fete-de-la-musique-amid-heat-wave/a-77639233?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T18:20:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -466,5 +466,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-21T07:21:32.404Z"
+  "lastUpdated": "2026-06-21T11:36:39.491Z"
 }
