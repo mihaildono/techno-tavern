@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Златна резерва донесе обрат за Германия срещу Кот д'Ивоар",
+      "link": "https://offnews.bg/futbol/zlatna-rezerva-donese-obrat-za-germania-sreshtu-kot-d-ivoar-869115.html",
+      "pubDate": "2026-06-20 22:01:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/21/869115/phpdjdevj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9176
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Ниската земя прати Швеция под морското ниво с 5:1",
       "link": "https://offnews.bg/futbol/niskata-zemia-prati-shvetcia-pod-morskoto-nivo-s-5-1-869114.html",
       "pubDate": "2026-06-20 18:56:00",
@@ -50,20 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/06/20/869111/phpkorqjv_559x345.jpg",
         "type": "image/jpeg",
         "length": 7144
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Рами Киуан се класира за финала на боксовия супертурнир в Китай",
-      "link": "https://offnews.bg/bojni/rami-kiuan-se-klasira-za-finala-na-boksovia-superturnir-v-kitaj-869110.html",
-      "pubDate": "2026-06-20 15:55:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/20/869110/php8qcohk_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5355
       },
       "source": {
         "name": "OffNews",
@@ -181,6 +181,18 @@
       }
     },
     {
+      "title": "\"Бял орел\": Защо Зеленски и бивши украински президенти върнаха получени от Полша отличия (обновена)",
+      "link": "https://www.mediapool.bg/byal-orel-zashto-zelenski-i-bivshi-ukrainski-prezidenti-varnaha-polucheni-ot-polsha-otlichiya-obnovena-news384639.html",
+      "pubDate": "2026-06-20 19:45:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/384/medium_fdff50a48cd55b36ba8456971fe53910.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Тръмп пак нападна Мелони, тя му препоръча да си гледа рейтинга",
       "link": "https://www.mediapool.bg/tramp-pak-napadna-meloni-tya-mu-preporacha-da-si-gleda-reitinga-news384648.html",
       "pubDate": "2026-06-20 16:09:26",
@@ -229,22 +241,12 @@
       }
     },
     {
-      "title": "Плажове по Черноморието са замърсени с мазут, текат проверки",
-      "link": "https://www.mediapool.bg/plazhove-po-chernomorieto-sa-zamarseni-s-mazut-tekat-proverki-news384644.html",
-      "pubDate": "2026-06-20 13:07:37",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/384/medium_044a18d70adf7cccdcf9082549fec901.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "Липсващото звено: фермер със социална кауза",
       "link": "https://www.capital.bg/biznes/zemedelie/2026/06/20/4925842_lipsvashtoto_zveno_fermer_sus_socialna_kauza/?ref=rss",
       "pubDate": "2026-06-20 12:51:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4925850.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +256,9 @@
       "title": "Депозит в леи с над 6% лихва? Вече може, но рискът не е за всеки",
       "link": "https://www.capital.bg/moiat_capital/deposits_credits/2026/06/20/4925204_depozit_v_lei_s_nad_6_lihva_veche_moje_no_riskut_ne_e/?ref=rss",
       "pubDate": "2026-06-20 08:25:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4926783.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,7 +268,9 @@
       "title": "Д-р Радка Масларска: Ваксините помагат срещу отслабване на имунната система при новородените",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/06/20/4908075_d-r_radka_maslarska_vaksinite_pomagat_sreshtu/?ref=rss",
       "pubDate": "2026-06-20 08:01:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4908351.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -274,7 +280,9 @@
       "title": "Къде работим, когато искаме да работим от морето",
       "link": "https://www.capital.bg/light/mesta/2026/06/20/4912472_kude_rabotim_kogato_iskame_da_rabotim_ot_moreto/?ref=rss",
       "pubDate": "2026-06-20 07:31:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4912592.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -284,18 +292,20 @@
       "title": "Ice Pro и битката за място във фризера",
       "link": "https://www.capital.bg/biznes/predpriemach/2026/06/20/4918521_ice_pro_i_bitkata_za_miasto_vuv_frizera/?ref=rss",
       "pubDate": "2026-06-20 07:19:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4925687.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "\"Оранжева\" вихрушка отнесе Швеция! Скандинавците опитаха от собственото си лекарство на Мондиал 2026",
-      "link": "https://www.actualno.com/football/oranjeva-vihrushka-otnese-shvecija-skandinavcite-opitaha-ot-sobstvenoto-si-lekarstvo-na-mondial-2026-news_2609279.html",
-      "pubDate": "2026-06-20 18:57:00",
+      "title": "Класиране на голмайсторите на Световното първенство 2026 - германец изравни Меси и Вини",
+      "link": "https://www.actualno.com/football/klasirane-na-golmajstorite-na-svetovnoto-pyrvenstvo-2026-germanec-izravni-mesi-i-vini-news_2605778.html",
+      "pubDate": "2026-06-20 22:07:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/20/fa6a42270ae585dc8002b404d60f9b22_2609279_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/11/09696ee38aecaaceaaea4be6e374d0fe_2605778_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +314,11 @@
       }
     },
     {
-      "title": "Какво е алекситимия? Милиони я преживяват, но не знаят как да я обяснят",
-      "link": "https://www.actualno.com/interest/kakvo-e-aleksitimija-milioni-ja-prejivjavat-no-ne-znajat-kak-da-ja-objasnjat-news_2608839.html",
-      "pubDate": "2026-06-20 18:42:00",
+      "title": "Класиране по асистенции на Световното първенство 2026 (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/klasirane-po-asistencii-na-svetovnoto-pyrvenstvo-2026-obnovena-news_2604620.html",
+      "pubDate": "2026-06-20 22:05:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/19/f430ae8de9c94524ca7f09660c633b48_2608839_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/09/4dfd3b84b0a00438e1cf60935e609393_2604620_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +327,11 @@
       }
     },
     {
-      "title": "След Зеленски още двама президенти на Украйна върнаха ордените си на Полша: Няма да ни диктуват!",
-      "link": "https://www.actualno.com/europe/sled-zelenski-oshte-dvama-prezidenti-na-ukrajna-vyrnaha-ordenite-si-na-polsha-njama-da-ni-diktuvat-news_2609272.html",
-      "pubDate": "2026-06-20 18:27:00",
+      "title": "Пълна ТВ програма на Световното първенство по футбол 2026",
+      "link": "https://www.actualno.com/football/pylna-tv-programa-na-svetovnoto-pyrvenstvo-po-futbol-2026-news_2597383.html",
+      "pubDate": "2026-06-20 22:04:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/20/59bb8e2d64918fe7e54af158aaf30d73_2609272_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/21/d20ffe557f1f9690222fd9f4a4e73566_2597383_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +340,11 @@
       }
     },
     {
-      "title": "Българин е №1 на Балканите! Христо Илиев отвя конкуренцията в Гърция за първа титла на 100 метра",
-      "link": "https://www.actualno.com/moresport/bylgarin-e-1-na-balkanite-hristo-iliev-otvja-konkurencijata-v-gyrcija-za-pyrva-titla-na-100-metra-news_2609269.html",
-      "pubDate": "2026-06-20 18:18:00",
+      "title": "Пълни резултати на Световното първенство по футбол 2026 - ето как завършиха последните мачове",
+      "link": "https://www.actualno.com/football/pylni-rezultati-na-svetovnoto-pyrvenstvo-po-futbol-2026-eto-kak-zavyrshiha-poslednite-machove-news_2604637.html",
+      "pubDate": "2026-06-20 22:04:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/20/f1ed5ffbced8692d3de5210ca4a838d8_2609269_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/09/f3fdbfa3732ba72f3f4717ed4ff53e89_2604637_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,11 +353,11 @@
       }
     },
     {
-      "title": "Държава от Балканите сече поголовно горите си: Ето каква е причината",
-      "link": "https://www.actualno.com/balkani/dyrjava-ot-balkanite-seche-pogolovno-gorite-si-eto-kakva-e-prichinata-news_2608763.html",
-      "pubDate": "2026-06-20 18:00:00",
+      "title": "Пълно класиране в груповата фаза на Световното първенство 2026 - Германия оглави групата си (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupovata-faza-na-svetovnoto-pyrvenstvo-2026-germanija-oglavi-grupata-si-obnovena-news_2605278.html",
+      "pubDate": "2026-06-20 22:03:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/19/27dff6a2048a260fa586110a934d479e_2608763_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/10/b44fa7f5c2319979a2e53dcd487b6335_2605278_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -356,9 +366,9 @@
       }
     },
     {
-      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
-      "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
-      "pubDate": "2026-06-20 20:41:06",
+      "title": "Renting a sewing machine from the library",
+      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "pubDate": "2026-06-20 22:54:11",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "pubDate": "2026-06-20 17:01:36",
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "pubDate": "2026-06-20 23:07:09",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "link": "https://www.lispm.net/apps/uhf-x11/",
-      "pubDate": "2026-06-20 17:04:24",
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "link": "https://townsquare.cauenapier.com/",
+      "pubDate": "2026-06-20 11:55:03",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +396,9 @@
       }
     },
     {
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "link": "https://clickhouse.com/blog/postgresbench",
-      "pubDate": "2026-06-20 19:01:10",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "pubDate": "2026-06-20 22:22:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +406,33 @@
       }
     },
     {
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "pubDate": "2026-06-20 15:10:03",
+      "title": "Project Fetch: Phase Two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "2026-06-21 00:00:25",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "US and Iranian negotiators head to Switzerland for talks",
+      "link": "https://www.dw.com/en/us-and-iranian-negotiators-head-to-switzerland-for-talks/live-77641405?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T00:10:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Undav heroics help Germany beat Ivory Coast",
+      "link": "https://www.dw.com/en/undav-heroics-help-germany-beat-ivory-coast/a-77639564?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-20T22:02:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,27 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Spain: PM&apos;s wife must face corruption trial, judge rules",
-      "link": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T17:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Zelenskyy returns Poland&apos;s highest honor as row deepens",
-      "link": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-20T13:14:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-20T21:57:35.731Z"
+  "lastUpdated": "2026-06-21T02:11:05.043Z"
 }
