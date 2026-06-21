@@ -356,26 +356,6 @@
       }
     },
     {
-      "title": "The case against geometric algebra (2024)",
-      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "pubDate": "2026-06-21 11:06:55",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
-      "link": "https://github.com/namgyaaal/avoxelgame",
-      "pubDate": "2026-06-21 08:04:54",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "link": "https://www.beyondallreason.info/",
       "pubDate": "2026-06-21 11:38:01",
@@ -386,9 +366,9 @@
       }
     },
     {
-      "title": "Google Hits 50% IPv6",
-      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "pubDate": "2026-06-21 08:21:22",
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+      "pubDate": "2026-06-21 14:09:07",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +376,63 @@
       }
     },
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "link": "https://github.com/mysk-research/loupe",
-      "pubDate": "2026-06-20 12:08:23",
+      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "link": "https://norvig.com/lispy.html",
+      "pubDate": "2026-06-21 15:36:33",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "pubDate": "2026-06-21 11:06:55",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "pubDate": "2026-06-18 16:12:21",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Ethiopia&apos;s ruling party wins overwhelming majority in parliament",
+      "link": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T15:45:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "AI scandal rocks the German media",
+      "link": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T15:32:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "How TikTok-style videos keep human brains hooked on content",
+      "link": "https://www.dw.com/en/how-tiktok-style-videos-keep-human-brains-hooked-on-content/a-77627720?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-21T14:40:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,37 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany could scrap law banning insults against politicians",
-      "link": "https://www.dw.com/en/germany-could-scrap-law-banning-insults-against-politicians/a-77630055?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T09:40:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
-      "link": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T08:50:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Sudan: UN warns of mass atrocities in El-Obeid",
-      "link": "https://www.dw.com/en/sudan-un-warns-of-mass-atrocities-in-el-obeid/a-77642972?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T07:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-21T13:28:34.031Z"
+  "lastUpdated": "2026-06-21T16:23:29.174Z"
 }
