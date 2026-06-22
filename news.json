@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Белгия отново се издъни, ВАР помага за 0:0 срещу Иран",
+      "link": "https://offnews.bg/futbol/belgia-otnovo-se-izdani-var-pomaga-za-0-0-sreshtu-iran-869156.html",
+      "pubDate": "2026-06-21 21:05:03",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/22/869156/phpf4djjb_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7238
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Кандидатът на ГЕРБ спечели балотажа за кмет на сливенското село Чинтулово",
+      "link": "https://offnews.bg/politika/kandidatat-na-gerb-specheli-balotazha-za-kmet-na-slivenskoto-selo-chin-869155.html",
+      "pubDate": "2026-06-21 19:36:01",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/21/869155/phppsn4ob_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6298
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Иранската делегация напусна преговорите със САЩ заради обидна публикация на Тръмп",
+      "link": "https://offnews.bg/sviat/iranskata-delegatcia-napusna-pregovorite-sas-sasht-zaradi-obidna-publi-869154.html",
+      "pubDate": "2026-06-21 19:28:41",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/21/869154/phpnivcrt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5122
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Илияна Йотова: Договорът с Боташ можеше да е в полза на България, но политическите конфликти го провалиха",
       "link": "https://offnews.bg/politika/iliana-jotova-dogovorat-s-botash-mozheshe-da-e-v-polza-na-balgaria-n-869152.html",
       "pubDate": "2026-06-21 18:20:00",
@@ -22,48 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/06/21/869153/php8nvdrg_559x345.jpg",
         "type": "image/jpeg",
         "length": 9050
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Българска кола падна в морето на пристанище край Кавала, няма пострадали",
-      "link": "https://offnews.bg/112/balgarska-kola-padna-v-moreto-na-pristanishte-kraj-kavala-niama-postr-869151.html",
-      "pubDate": "2026-06-21 18:02:03",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/21/869151/phplosfw9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5604
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Куче на плажа без каишка в Гърция може да ви струва 500€",
-      "link": "https://offnews.bg/sviat/kuche-na-plazha-bez-kaishka-v-gartcia-mozhe-da-vi-struva-500-869148.html",
-      "pubDate": "2026-06-21 17:18:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/21/869148/phpbzcamr_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5332
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Жегите идват, а половината чешми в София не работят",
-      "link": "https://offnews.bg/obshtestvo/zhegite-idvat-a-polovinata-cheshmi-v-sofia-ne-rabotiat-869149.html",
-      "pubDate": "2026-06-21 17:08:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/21/869149/phpppeeiz_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5264
       },
       "source": {
         "name": "OffNews",
@@ -144,7 +144,9 @@
       "title": "Ахмед Хасанов е новият главен мюфтия, след като опонентът му се оттегли",
       "link": "https://svobodnatochka.bg/novini/ahmed-hasanov-glaven-miufiya/",
       "pubDate": "2026-06-21 13:09:13",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/06/min_7142-1024x689.jpeg"
+      },
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
@@ -164,7 +166,9 @@
       "title": "„Всичко е в мазут“. Плажове по Черноморието са замърсени. Властите не знаят откъде",
       "link": "https://svobodnatochka.bg/novini/zamarsyavane-plazhove-more-mazut/",
       "pubDate": "2026-06-21 09:14:27",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/06/img_3902-1024x768.jpg"
+      },
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
@@ -244,7 +248,9 @@
       "title": "Снимка на деня: Настъпи астрономическото лято",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/06/21/4927540_snimka_na_denia_nastupi_astronomicheskoto_liato/?ref=rss",
       "pubDate": "2026-06-21 11:35:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4494522.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +260,9 @@
       "title": "Клъстер \"София - град на знанието\" ще разработва технологични решения за столицата",
       "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/06/21/4926397_kluster_sofiia_grad_na_znanieto_shte_razrabotva/?ref=rss",
       "pubDate": "2026-06-21 08:53:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4926401.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,7 +272,9 @@
       "title": "Гид | Фестивалите по Черноморието през лято 2026",
       "link": "https://www.capital.bg/moiat_capital/svobodno_vreme/2026/06/21/4910961_gid_festivalite_po_chernomorieto_prez_liato_2026/?ref=rss",
       "pubDate": "2026-06-21 08:26:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4911501.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -274,7 +284,9 @@
       "title": "Когато бомбите ударят, как туризмът заглъхва",
       "link": "https://www.capital.bg/biznes/turizum/2026/06/21/4918194_kogato_bombite_udariat_kak_turizmut_zagluhva/?ref=rss",
       "pubDate": "2026-06-21 07:51:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4926947.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -284,18 +296,20 @@
       "title": "Инонг Донг, Amazon: Истинската стойност на креативността идва от човешките опит и интуиция",
       "link": "https://www.capital.bg/biznes/media_i_reklama/2026/06/21/4924496_inong_dong_amazon_istinskata_stoinost_na_kreativnostta/?ref=rss",
       "pubDate": "2026-06-21 07:30:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4924505.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Мартин Балабанов се завърна ударно на 800 метра и отново доближи националния рекорд",
-      "link": "https://www.actualno.com/moresport/martin-balabanov-se-zavyrna-udarno-na-800-metra-i-otnovo-dobliji-nacionalnija-rekord-news_2609501.html",
-      "pubDate": "2026-06-21 18:54:00",
+      "title": "Доналд Туск: Конфликтът между полски и украински политици е стратегическа грешка",
+      "link": "https://www.actualno.com/europe/donald-tusk-konfliktyt-mejdu-polski-i-ukrainski-politici-e-strategicheska-greshka-news_2609522.html",
+      "pubDate": "2026-06-21 21:33:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/21/7a490972b9fe844a99ab31a3ad73cc43_2609501_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/21/1978bdaad5886006ab04b81e52dbb408_2609522_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +318,11 @@
       }
     },
     {
-      "title": "Най-успешният треньор в историята на Евролигата се завръща там, където спечели 27 трофея",
-      "link": "https://www.actualno.com/basketball/naj-uspeshnijat-trenior-v-istorijata-na-evroligata-se-zavryshta-tam-kydeto-specheli-27-trofeja-news_2609509.html",
-      "pubDate": "2026-06-21 18:52:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 22.06.26 - Бензиностанциите в Крим спират да продават гориво",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-220626-benzinostanciite-v-krim-spirat-da-prodavat-gorivo-news_2609519.html",
+      "pubDate": "2026-06-21 21:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/21/e02a5fe03a0005475112e4d53c17a99f_2609509_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/21/2f2e14e3b853bfad5a39301593ddba40_2609519_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,24 +331,11 @@
       }
     },
     {
-      "title": "Никога не хвърляйте кърлеж в тоалетната - може да се върне и да си отмъсти",
-      "link": "https://www.actualno.com/interest/nikoga-ne-hvyrljajte-kyrlej-v-toaletnata-moje-da-se-vyrne-i-da-si-otmysti-news_2608950.html",
-      "pubDate": "2026-06-21 18:29:00",
+      "title": "Пълно класиране в груповата фаза на Световното първенство 2026 - още равенства в група G (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupovata-faza-na-svetovnoto-pyrvenstvo-2026-oshte-ravenstva-v-grupa-g-obnovena-news_2605278.html",
+      "pubDate": "2026-06-21 21:16:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/19/e8d35ae05048610c9e046b0b77a08fbb_2608950_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Най-важните новини за деня: 21 юни 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-21-uni-2026-g-news_2609477.html",
-      "pubDate": "2026-06-21 18:15:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/21/9202477f60e42db6b754bc3efb5e0f98_2609477_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/10/b44fa7f5c2319979a2e53dcd487b6335_2605278_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -345,7 +346,7 @@
     {
       "title": "Пълни резултати на Световното първенство по футбол 2026 - ето как завършиха последните мачове",
       "link": "https://www.actualno.com/football/pylni-rezultati-na-svetovnoto-pyrvenstvo-po-futbol-2026-eto-kak-zavyrshiha-poslednite-machove-news_2604637.html",
-      "pubDate": "2026-06-21 18:14:00",
+      "pubDate": "2026-06-21 21:16:00",
       "thumbnail": {
         "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/09/f3fdbfa3732ba72f3f4717ed4ff53e89_2604637_1920x1080.jpg",
         "type": "image/jpg"
@@ -356,23 +357,16 @@
       }
     },
     {
-      "title": "The Anatomy of an AI-Native Org",
-      "link": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
-      "pubDate": "2026-06-21 21:34:19",
-      "thumbnail": null,
+      "title": "Класиране за \"Златната ръкавица\" на Световното първенство 2026 - кой е с най-много \"сухи мрежи\"? (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/klasirane-za-zlatnata-rykavica-na-svetovnoto-pyrvenstvo-2026-koj-e-s-naj-mnogo-suhi-mreji-obnovena-news_2605575.html",
+      "pubDate": "2026-06-21 21:14:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/11/528aadfc7e6c830fdf0275d317aaf3e4_2605575_1920x1080.jpg",
+        "type": "image/jpg"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "JSON-LD Explained for Personal Websites",
-      "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "pubDate": "2026-06-21 18:51:47",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "Actualno",
+        "color": "#9C27B0"
       }
     },
     {
@@ -386,9 +380,9 @@
       }
     },
     {
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "pubDate": "2026-06-21 16:08:23",
+      "title": "Did my old job only exist because of fraud?",
+      "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "pubDate": "2026-06-21 21:40:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +390,63 @@
       }
     },
     {
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "link": "https://github.com/raiyanyahya/recall",
-      "pubDate": "2026-06-21 21:05:37",
+      "title": "The Doom Justifies the Valuation",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+      "pubDate": "2026-06-22 00:45:07",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Everything is logarithms",
+      "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "pubDate": "2026-06-21 21:10:32",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "I was wrong about the Midjourney ultra-sound scanner",
+      "link": "https://twitter.com/MattZirwas/status/2068365802491834541",
+      "pubDate": "2026-06-21 12:55:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "US-Iran talks end in Switzerland, mediators say",
+      "link": "https://www.dw.com/en/us-iran-talks-end-in-switzerland-mediators-say/live-77641405?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-22T01:31:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Colombia election: Hard-right candidate claims victory",
+      "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-claims-victory/a-77650646?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-22T00:59:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Deniz Undav: Germany&apos;s 2026 World Cup supersub",
+      "link": "https://www.dw.com/en/deniz-undav-germany-s-2026-world-cup-supersub/a-77650649?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-22T00:14:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,37 +468,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Romania&apos;s Dan taps new PM, breaks democratic norms",
-      "link": "https://www.dw.com/en/romania-s-dan-taps-new-pm-breaks-democratic-norms/a-77618469?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T17:27:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Scottish police arrest man over Edinburgh attacks",
-      "link": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T16:26:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ethiopia&apos;s ruling party wins overwhelming majority in parliament",
-      "link": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-21T15:45:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-21T22:05:39.518Z"
+  "lastUpdated": "2026-06-22T02:14:39.118Z"
 }
