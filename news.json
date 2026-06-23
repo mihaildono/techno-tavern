@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Гениален Лео Меси пише история",
+      "link": "https://offnews.bg/futbol/genialen-leo-mesi-pishe-istoria-869235.html",
+      "pubDate": "2026-06-22 19:00:30",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/22/869235/phpotqjmu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9467
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Белгия издаде заповед за арест срещу бивш еврокомисар от Гърция",
+      "link": "https://offnews.bg/sviat/belgia-izdade-zapoved-za-arest-sreshtu-bivsh-evrokomisar-ot-gartcia-869234.html",
+      "pubDate": "2026-06-22 18:42:35",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/22/869234/phpcy1pzr_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4857
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Почина Алън Грийнспан, главният банкер на САЩ при четирима президенти",
       "link": "https://offnews.bg/sviat/pochina-alan-grijnspan-glavniat-banker-na-sasht-pri-chetirima-prezide-869233.html",
       "pubDate": "2026-06-22 17:51:10",
@@ -43,31 +71,33 @@
       }
     },
     {
-      "title": "Две български фирми са мамили с фалшиво немско масло 'Deutsche Markenbutter'",
-      "link": "https://offnews.bg/obshtestvo/dve-balgarski-firmi-sa-mamili-s-falshivo-nemsko-maslo-deutsche-marken-869230.html",
-      "pubDate": "2026-06-22 16:57:23",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/22/869230/php7ehibk_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8467
-      },
+      "title": "Чешкото правителство отказа на президента да участва в среща на НАТО",
+      "link": "https://www.dnevnik.bg/sviat/2026/06/22/4927985_cheshkoto_pravitelstvo_otkaza_na_prezidenta_da/?ref=rss",
+      "pubDate": "2026-06-22 19:57:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Поредно спорно назначение: Радев направи човек на Доган зам.-министър",
-      "link": "https://offnews.bg/politika/poredno-sporno-naznachenie-radev-napravi-chovek-na-dogan-zam-minista-869231.html",
-      "pubDate": "2026-06-22 16:46:56",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/22/869231/phpoqlc1x_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4320
-      },
+      "title": "Две деца са пострадали от волтова дъга на гарата в Стара Загора",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/06/22/4927928_dve_deca_sa_postradali_ot_voltova_duga_na_garata_v/?ref=rss",
+      "pubDate": "2026-06-22 19:09:00",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Меси изпусна дузпа, но влезе в история и донесе победата на Аржентина",
+      "link": "https://www.dnevnik.bg/sport/futbol/sviat/2026/06/22/4927976_mesi_izpusna_duzpa_no_vleze_v_istoriia_i_donese/?ref=rss",
+      "pubDate": "2026-06-22 18:59:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
@@ -84,36 +114,6 @@
       "title": "25 чужденци ще карат автобуси на градския транспорт в София",
       "link": "https://www.dnevnik.bg/bulgaria/2026/06/22/4927902_25_chujdenci_shte_karat_avtobusi_na_gradskiia/?ref=rss",
       "pubDate": "2026-06-22 18:23:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Томи Вер Елст е новият президент на Американската търговска камара в България",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/22/4927866_tomi_ver_elst_e_noviiat_prezident_na_amerikanska/?ref=rss",
-      "pubDate": "2026-06-22 18:00:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Настоящият състав на ЦИК проведе последното си заседание",
-      "link": "https://www.dnevnik.bg/politika/2026/06/22/4927920_nastoiashtiiat_sustav_na_cik_provede_poslednoto_si/?ref=rss",
-      "pubDate": "2026-06-22 17:45:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Младежи бутнаха мъж в коритото на реката под Лъвов мост, той загина",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/06/22/4927944_mladeji_butnaha_muj_v_koritoto_na_rekata_pod_luvov/?ref=rss",
-      "pubDate": "2026-06-22 17:33:00",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -234,7 +234,9 @@
       "title": "Управляващите очакват бюджет 2026 да е с дефицит над 3% от БВП",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/06/22/4927900_upravliavashtite_ochakvat_bjudjet_2026_da_e_s_deficit/?ref=rss",
       "pubDate": "2026-06-22 15:20:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4927899.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -244,7 +246,9 @@
       "title": "Планът за Витоша започва отначало догодина",
       "link": "https://www.capital.bg/zelen-kapital/2026/06/22/4927909_planut_za_vitosha_zapochva_otnachalo_dogodina/?ref=rss",
       "pubDate": "2026-06-22 14:45:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4927910.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +258,9 @@
       "title": "Снимка на деня: Йога по време на лятното слънцестоене на Таймс Скуеър",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/06/22/4927641_snimka_na_denia_ioga_po_vreme_na_liatnoto_sluncestoene/?ref=rss",
       "pubDate": "2026-06-22 14:22:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4927881.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,7 +270,9 @@
       "title": "🇪🇺 ЕС отблизо: Мерки за справяне с търговския дисбаланс с Китай; ЕК отпуска пари за инфраструктура по Източния фланг",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/06/22/4927907__es_otblizo_merki_za_spraviane_s_turgovskiia_disbalans/?ref=rss",
       "pubDate": "2026-06-22 14:07:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4927895.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -274,18 +282,20 @@
       "title": "Уважаван и обвиняван: бившият председател на Федералния резерв Алън Грийнспан почина на 100 години",
       "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/06/22/4927847_uvajavan_i_obviniavan_bivshiiat_predsedatel_na/?ref=rss",
       "pubDate": "2026-06-22 13:41:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4927850.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Челен удар между два леки автомобила край Свищов, има пострадал",
-      "link": "https://www.actualno.com/crime/chelen-udar-mejdu-dva-leki-avtomobila-kraj-svishtov-ima-postradal-news_2609944.html",
-      "pubDate": "2026-06-22 18:34:00",
+      "title": "Извънредно! Прекъснаха мача на Франция и Ирак заради буря в Пенсилвания",
+      "link": "https://www.actualno.com/football/izvynredno-prekysnaha-macha-na-francija-i-irak-zaradi-burja-v-pensilvanija-news_2609986.html",
+      "pubDate": "2026-06-22 22:19:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/22/39043482a08df8ede051481a3ada72f7_2609944_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/1ae5675ac6ac321abee160e713a20f7d_2609986_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +304,11 @@
       }
     },
     {
-      "title": "Иван Ангелов: Бюджетът ще бъде внесен до края на юни, няма да има социални съкращения",
-      "link": "https://www.actualno.com/finance/ivan-angelov-budjetyt-shte-byde-vnesen-do-kraja-na-uni-njama-da-ima-socialni-sykrashtenija-news_2609942.html",
-      "pubDate": "2026-06-22 18:22:00",
+      "title": "Доналд Тръмп настоява за ядрени инспектори в Иран",
+      "link": "https://www.actualno.com/asia/donald-trymp-nastojava-za-jadreni-inspektori-v-iran-news_2609982.html",
+      "pubDate": "2026-06-22 21:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/22/99b413fabf3f9943ef1033c9e6291154_2609942_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/47d8978034d75e8d0d80a8bdb81ae1a8_2609982_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +317,11 @@
       }
     },
     {
-      "title": "Отиде си един от най-влиятелните банкери в историята",
-      "link": "https://www.actualno.com/finance/otide-si-edin-ot-naj-vlijatelnite-bankeri-v-istorijata-news_2609933.html",
-      "pubDate": "2026-06-22 17:50:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 23.06.26 - Германия разгръща 5000 войници край Беларус",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-230626-germanija-razgryshta-5000-vojnici-kraj-belarus-news_2609977.html",
+      "pubDate": "2026-06-22 21:33:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/22/612b0ae5d6c3dd3f01bbf5b2aa6809f6_2609933_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/22/86b74cc00778e3bc51cc314299ed618f_2609977_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +330,11 @@
       }
     },
     {
-      "title": "Откриха тялото на мъж на Лъвов мост, трима са в ареста",
-      "link": "https://www.actualno.com/crime/otkriha-tjaloto-na-myj-na-lyvov-most-trima-sa-v-aresta-news_2609922.html",
-      "pubDate": "2026-06-22 17:21:00",
+      "title": "Нетаняху: Израелската армия има пълна свобода на действие срещу всяка заплаха в Южен Ливан",
+      "link": "https://www.actualno.com/asia/netanjahu-izraelskata-armija-ima-pylna-svoboda-na-dejstvie-sreshtu-vsjaka-zaplaha-v-ujen-livan-news_2609979.html",
+      "pubDate": "2026-06-22 21:17:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/22/d4d244de0118ea3fc09f29a9a24d5ffd_2609922_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/8d2d181aa081d502894d32709513919d_2609979_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +343,11 @@
       }
     },
     {
-      "title": "Програма на ЦСКА за лято 2026: контроли | дати | часове | ТВ излъчване",
-      "link": "https://www.actualno.com/bgfootball/programa-na-cska-za-ljato-2026-kontroli-dati-chasove-tv-izlychvane-news_2603977.html",
-      "pubDate": "2026-06-22 17:15:00",
+      "title": "Мъри Стоилов отказал да поеме 19-кратен шампион - остава верен на Гьозтепе",
+      "link": "https://www.actualno.com/football/myri-stoilov-otkazal-da-poeme-19-kraten-shampion-ostava-veren-na-gioztepe-news_2609978.html",
+      "pubDate": "2026-06-22 21:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/08/0d029f267def4df942ea10cb4c403bb2_2603977_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/a9241143a89fc968fa129329c26d246b_2609978_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -356,9 +366,9 @@
       }
     },
     {
-      "title": "Tacky men with ridiculous glasses want you to wear them too",
-      "link": "https://manualdousuario.net/en/smart-glasses-ugly-tacky/",
-      "pubDate": "2026-06-22 20:59:15",
+      "title": "Runing GLM-5.2 on local hardware",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "pubDate": "2026-06-22 21:21:01",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "pubDate": "2026-06-22 19:21:00",
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "link": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "pubDate": "2026-06-20 02:29:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +396,23 @@
       }
     },
     {
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
-      "link": "https://unsloth.ai/docs/models/glm-5.2",
-      "pubDate": "2026-06-22 21:21:01",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "pubDate": "2026-06-23 00:47:32",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "US: Trump signs new executive orders to boost quantum computing",
+      "link": "https://www.dw.com/en/us-trump-signs-new-executive-orders-to-boost-quantum-computing/a-77665653?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-23T01:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,17 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Fact check: AI fakes around the World Cup spread political narratives",
-      "link": "https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-22T15:06:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-22T22:28:27.427Z"
+  "lastUpdated": "2026-06-23T01:53:29.784Z"
 }
