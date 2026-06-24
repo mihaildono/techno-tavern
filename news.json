@@ -1,11 +1,53 @@
 {
   "items": [
     {
+      "title": "Проклятието подейства: Англия - Гана 0:0",
+      "link": "https://offnews.bg/futbol/prokliatieto-podejstva-anglia-gana-0-0-869318.html",
+      "pubDate": "2026-06-23 22:18:17",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/24/869318/phph5yckx_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 10538
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Семейна трагедия върна селекционера на Франция у дома",
+      "link": "https://offnews.bg/futbol/semejna-tragedia-varna-selektcionera-na-frantcia-u-doma-869317.html",
+      "pubDate": "2026-06-23 22:10:03",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/24/869317/phpi8ygup_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 8727
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Гръм и мълнии за кратко, жега през целия ден",
+      "link": "https://offnews.bg/obshtestvo/gram-i-malnii-za-kratko-zhega-prez-tcelia-den-869314.html",
+      "pubDate": "2026-06-23 21:27:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/24/869314/phpyl6yko_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6162
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Кристиано Роналдо извика в камерите: Аз се върнах!",
       "link": "https://offnews.bg/futbol/kristiano-ronaldo-izvika-v-kamerite-az-se-varnah-869315.html",
       "pubDate": "2026-06-23 18:30:03",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/23/869315/phpouamhz_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/06/23/869315/phpouamhz_152x158.jpg",
         "type": "image/jpeg",
         "length": 7474
       },
@@ -19,51 +61,9 @@
       "link": "https://offnews.bg/sviat/frantcia-otbeliaza-edin-ot-naj-goreshtite-dni-v-istoriata-si-869313.html",
       "pubDate": "2026-06-23 18:02:03",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/23/869313/phpygpase_559x345.jpg",
+        "link": "https://i2.offnews.bg/events/2026/06/23/869313/phpygpase_152x158.jpg",
         "type": "image/jpeg",
         "length": 6574
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Буря над Румъния принуди самолет от Египет да кацне в Горна Оряховица",
-      "link": "https://offnews.bg/obshtestvo/buria-nad-rumania-prinudi-samolet-ot-egipet-da-katcne-v-gorna-oriahovi-869312.html",
-      "pubDate": "2026-06-23 17:15:51",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/23/869312/phpx9oybf_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4092
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Никола Цолов се запътва към Формула 1, пишат испански медии",
-      "link": "https://offnews.bg/sport/nikola-tcolov-se-zapatva-kam-formula-1-pishat-ispanski-medii-869311.html",
-      "pubDate": "2026-06-23 17:00:59",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/23/869311/phpageqxc_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7797
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Мицкоски обвини България, че е застрашила сигурността на семейството му",
-      "link": "https://offnews.bg/obshtestvo/mitckoski-obvini-balgaria-che-e-zastrashila-sigurnostta-na-semejstvot-869308.html",
-      "pubDate": "2026-06-23 16:00:58",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/23/869308/php1ac2se_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4920
       },
       "source": {
         "name": "OffNews",
@@ -234,9 +234,7 @@
       "title": "Държавните служители поетапно ще започнат да си плащат осигуровките",
       "link": "https://www.capital.bg/politika_i_ikonomika/danaci-osiguriavane/2026/06/23/4928298_durjavnite_slujiteli_poetapno_shte_zapochnat_da_si/?ref=rss",
       "pubDate": "2026-06-23 14:36:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4928303.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -246,9 +244,7 @@
       "title": "МРРБ откри наследство с нередности по оперативни програми и планове за милиардни индексации",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/06/23/4928264_mrrb_otkri_nasledstvo_s_nerednosti_po_operativni/?ref=rss",
       "pubDate": "2026-06-23 14:35:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4928265.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -258,9 +254,7 @@
       "title": "Две компании са продавали Deutsche Markenbutter, което нито е масло, нито е германско",
       "link": "https://www.capital.bg/biznes/stoki_i_prodajbi/2026/06/23/4928228_dve_kompanii_sa_prodavali_deutsche_markenbutter_koeto/?ref=rss",
       "pubDate": "2026-06-23 14:28:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4928309.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -270,9 +264,7 @@
       "title": "Снимка на деня: В Крим въведоха режим на тока",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/06/23/4928028_snimka_na_denia_v_krim_vuvedoha_rejim_na_toka/?ref=rss",
       "pubDate": "2026-06-23 14:19:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4928287.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -282,20 +274,18 @@
       "title": "КЗК спря поръчката за проектиране на Националната детска болница",
       "link": "https://www.capital.bg/politika_i_ikonomika/zdraveopazvane/2026/06/23/4928231_kzk_spria_poruchkata_za_proektirane_na_nacionalnata/?ref=rss",
       "pubDate": "2026-06-23 12:36:00",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4928240.jpg"
-      },
+      "thumbnail": null,
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "\"Никола Цолов ще се състезава във Формула 1 през 2027 година\": В Испания обявиха плановете на Ред Бул",
-      "link": "https://www.actualno.com/moresport/nikola-colov-shte-se-systezava-vyv-formula-1-prez-2027-godina-v-ispanija-objaviha-planovete-na-red-bul-news_2610437.html",
-      "pubDate": "2026-06-23 19:40:00",
+      "title": "Заради депортации на мигранти: ЕС прие талибаните на разговори в Брюксел",
+      "link": "https://www.actualno.com/europe/zaradi-deportacii-na-migranti-es-prie-talibanite-na-razgovori-v-bruksel-news_2610467.html",
+      "pubDate": "2026-06-23 23:09:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/ad7cc9162681425d794a5a9f2347232f_2610437_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/b822c43284c1a5a556eee7fbafbe36a4_2610467_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +294,11 @@
       }
     },
     {
-      "title": "Една от най-редките гледки на планетата: Мистериозните животни, скрити на 4500 м височина (ВИДЕО)",
-      "link": "https://www.actualno.com/society/edna-ot-naj-redkite-gledki-na-planetata-misterioznite-jivotni-skriti-na-4500-m-visochina-video-news_2608611.html",
-      "pubDate": "2026-06-23 19:30:00",
+      "title": "Лъчезар Богданов: Най-разумно е бюджетът за 2026-а просто да замрази съществуващото положение",
+      "link": "https://www.actualno.com/finance/lychezar-bogdanov-naj-razumno-e-budjetyt-za-2026-a-prosto-da-zamrazi-syshtestvuvashtoto-polojenie-news_2610466.html",
+      "pubDate": "2026-06-23 22:52:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/19/4fff970abb8557becdac8e4a071f44b7_2608611_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/3748f1386fb13511afecfd891bd02358_2610466_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +307,11 @@
       }
     },
     {
-      "title": "Извънредна ситуация: Самолет на египетските авиолинии е кацнал на летището в Горна Оряховица",
-      "link": "https://www.actualno.com/crime/izvynredna-situacija-samolet-na-egipetskite-aviolinii-e-kacnal-na-letishteto-v-gorna-orjahovica-news_2610436.html",
-      "pubDate": "2026-06-23 19:26:00",
+      "title": "Полският премиер призовава за продължаване на сътрудничеството с Украйна",
+      "link": "https://www.actualno.com/europe/polskijat-premier-prizovava-za-prodyljavane-na-sytrudnichestvoto-s-ukrajna-news_2610465.html",
+      "pubDate": "2026-06-23 22:32:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/23/9ed7663b92574c1756a4e32da211bee6_2610436_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/334a354f076723dc6d82262d661b7bc0_2610465_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +320,11 @@
       }
     },
     {
-      "title": "Пълна ТВ програма на Световното първенство по футбол 2026",
-      "link": "https://www.actualno.com/football/pylna-tv-programa-na-svetovnoto-pyrvenstvo-po-futbol-2026-news_2597383.html",
-      "pubDate": "2026-06-23 19:07:00",
+      "title": "След украинските удари: Основният нефтодобивен окръг на Русия остана без горива",
+      "link": "https://www.actualno.com/economy/sled-ukrainskite-udari-osnovnijat-neftodobiven-okryg-na-rusija-ostana-bez-goriva-news_2610464.html",
+      "pubDate": "2026-06-23 22:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/05/21/d20ffe557f1f9690222fd9f4a4e73566_2597383_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/2eda33f90ed2c8efc9402cb688e09b05_2610464_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,9 +333,9 @@
       }
     },
     {
-      "title": "Пълно класиране в груповата фаза на Световното първенство 2026 - първа победа за Португалия (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupovata-faza-na-svetovnoto-pyrvenstvo-2026-pyrva-pobeda-za-portugalija-obnovena-news_2605278.html",
-      "pubDate": "2026-06-23 19:06:00",
+      "title": "Пълно класиране в груповата фаза на Световното първенство 2026 - Англия разочарова срещу Гана (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupovata-faza-na-svetovnoto-pyrvenstvo-2026-anglija-razocharova-sreshtu-gana-obnovena-news_2605278.html",
+      "pubDate": "2026-06-23 22:08:00",
       "thumbnail": {
         "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/10/b44fa7f5c2319979a2e53dcd487b6335_2605278_1920x1080.jpg",
         "type": "image/jpg"
@@ -366,9 +356,9 @@
       }
     },
     {
-      "title": "Anthropic updates their terms to verify age or identity",
-      "link": "https://www.anthropic.com/legal/privacy",
-      "pubDate": "2026-06-23 19:45:07",
+      "title": "Vulnerability reports are not special anymore",
+      "link": "https://words.filippo.io/vuln-reports/",
+      "pubDate": "2026-06-23 23:42:46",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +366,19 @@
       }
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "pubDate": "2026-06-23 18:00:58",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "pubDate": "2026-06-22 18:03:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "How to Passive-Aggressively Shame People Who Use LLMs Selfishly",
+      "link": "https://joshmoody.org/blog/selfish-ai/",
+      "pubDate": "2026-06-24 00:53:04",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,18 +396,8 @@
       }
     },
     {
-      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black &amp; 15% Asian",
-      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-      "pubDate": "2026-06-23 18:56:19",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Deutsche Bahn halts trains across Germany due to malfunctioning radio system",
-      "link": "https://www.dw.com/en/deutsche-bahn-halts-trains-across-germany-due-to-malfunctioning-radio-system/a-77682758?maca=en-rss-en-top-1022-rdf",
+      "title": "Trains resume after radio issue resolved, Deutsche Bahn says",
+      "link": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-23T21:32:00Z",
       "thumbnail": null,
       "source": {
@@ -456,5 +446,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-23T22:06:03.506Z"
+  "lastUpdated": "2026-06-24T01:51:54.021Z"
 }
