@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "link": "https://paolino.me/founding-a-company-in-germany/",
-      "pubDate": "2026-06-24 12:31:43",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "pubDate": "2026-06-24 14:41:41",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -356,7 +356,7 @@
       }
     },
     {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "title": "We’re making Bunny DNS free",
       "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
       "pubDate": "2026-06-24 08:50:41",
       "thumbnail": null,
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "Krea 2 Technical Report",
-      "link": "https://www.krea.ai/blog/krea-2-technical-report",
-      "pubDate": "2026-06-23 15:31:21",
+      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "pubDate": "2026-06-24 15:56:19",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Minimus container images are now free",
-      "link": "https://images.minimus.io/",
-      "pubDate": "2026-06-24 11:52:12",
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "link": "https://github.com/nubjs/nub",
+      "pubDate": "2026-06-24 14:14:18",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "link": "https://rworks.dev/posts/too-many-R-packages/",
-      "pubDate": "2026-06-24 10:59:59",
+      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
+      "link": "https://www.dijkstrascry.com/inventory",
+      "pubDate": "2026-06-24 15:10:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,8 +396,38 @@
       }
     },
     {
-      "title": "Iran enters fragile peace with economy near breaking point",
-      "link": "https://www.dw.com/en/iran-enters-fragile-peace-with-economy-near-breaking-point/a-77690083?maca=en-rss-en-top-1022-rdf",
+      "title": "How Big Tech is changing journalism",
+      "link": "https://www.dw.com/en/how-big-tech-is-changing-journalism/a-77696474?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-24T16:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Heat wave: Alcohol can be a serious danger to your health",
+      "link": "https://www.dw.com/en/heat-wave-alcohol-can-be-a-serious-danger-to-your-health/a-77680047?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-24T14:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "European heat wave is not normal summer weather",
+      "link": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-24T14:20:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Iran after the war — fragile peace, shattered economy",
+      "link": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-06-24T13:56:00Z",
       "thumbnail": null,
       "source": {
@@ -414,37 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "France reports first Congo outbreak linked Ebola case",
-      "link": "https://www.dw.com/en/france-reports-first-congo-outbreak-linked-ebola-case/a-77689901?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-24T13:22:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Is xenophobia in South Africa risking investment?",
-      "link": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-24T13:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Southeast Asia boost defense ties but avoids firm alliances",
-      "link": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-24T13:06:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-24T13:57:54.414Z"
+  "lastUpdated": "2026-06-24T16:57:32.967Z"
 }
