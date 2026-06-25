@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Кмет не помогна на Канада срещу Швейцария, босненец „смени“ тъща си за третото място",
+      "link": "https://offnews.bg/futbol/kmet-ne-pomogna-na-kanada-sreshtu-shvejtcaria-bosnenetc-smeni-t-869393.html",
+      "pubDate": "2026-06-24 20:59:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/24/869393/php0whlar_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8052
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Подмолно през бюджета кабинетът на Радев ще закрие Комисията по досиетата",
+      "link": "https://offnews.bg/politika/podmolno-prez-biudzheta-kabinetat-na-radev-shte-zakrie-komisiata-po-do-869392.html",
+      "pubDate": "2026-06-24 19:23:10",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/06/24/869392/phpnjck3y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4814
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "България ще се извини на Македония, ама друг път",
       "link": "https://offnews.bg/politika/balgaria-shte-se-izvini-na-makedonia-ama-drug-pat-869391.html",
       "pubDate": "2026-06-24 18:56:09",
@@ -36,34 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/06/24/869388/phpgrgqxf_559x345.jpg",
         "type": "image/jpeg",
         "length": 5151
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Как данните от автомобила помагат да се възстанови хронологията на ПТП",
-      "link": "https://offnews.bg/avto/kak-dannite-ot-avtomobila-pomagat-da-se-vazstanovi-hronologiata-na-ptp-869389.html",
-      "pubDate": "2026-06-24 17:43:13",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/24/869389/phpvr79fg_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6528
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "12-годишно момиче падна в шахта в София",
-      "link": "https://offnews.bg/112/12-godishno-momiche-padna-v-shahta-v-sofia-869387.html",
-      "pubDate": "2026-06-24 17:15:05",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/06/24/869387/phptrzki7_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6081
       },
       "source": {
         "name": "OffNews",
@@ -244,7 +244,9 @@
       "title": "Бюджетният дефицит на Гълъб Донев изхвърча до 5.7%",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/06/24/4928789_bjudjetniiat_deficit_na_gulub_donev_izhvurcha_do_57/?ref=rss",
       "pubDate": "2026-06-24 15:19:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4928786.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -254,7 +256,9 @@
       "title": "Снимка на деня: Европейската космическа агенция представи най-детайлната снимка на \"сърцето\" на Млечния път",
       "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/06/24/4928469_snimka_na_denia_evropeiskata_kosmicheska_agenciia/?ref=rss",
       "pubDate": "2026-06-24 14:45:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4928791.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -264,7 +268,9 @@
       "title": "Поне 243 български компании развиват бизнес в ОАЕ",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/06/24/4928710_pone_243_bulgarski_kompanii_razvivat_biznes_v_oae/?ref=rss",
       "pubDate": "2026-06-24 14:42:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4928707.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -274,7 +280,9 @@
       "title": "Binance е напът да остане без лиценз за Европа. Какво следва за клиентите?",
       "link": "https://www.capital.bg/moiat_capital/crypto/2026/06/24/4926815_binance_e_naput_da_ostane_bez_licenz_za_evropa/?ref=rss",
       "pubDate": "2026-06-24 12:34:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4928677.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
@@ -284,18 +292,20 @@
       "title": "Идва ли времето за нов живот на зоната около Сточна гара",
       "link": "https://www.capital.bg/politika_i_ikonomika/infrastructure/2026/06/24/4928609_idva_li_vremeto_za_nov_jivot_na_zonata_okolo_stochna/?ref=rss",
       "pubDate": "2026-06-24 12:13:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4928610.jpg"
+      },
       "source": {
         "name": "Capital",
         "color": "#4CAF50"
       }
     },
     {
-      "title": "Янев се скъса да хвали новия в ЦСКА – възлага големи надежди на двукратния шампион на Серия А",
-      "link": "https://www.actualno.com/bgfootball/janev-se-skysa-da-hvali-novija-v-cska-vyzlaga-golemi-nadejdi-na-dvukratnija-shampion-na-serija-a-news_2610914.html",
-      "pubDate": "2026-06-24 19:01:00",
+      "title": "\"Бяхме изоставени\": Тръмп за пореден път критикува НАТО заради Иран",
+      "link": "https://www.actualno.com/america/bjahme-izostaveni-trymp-za-poreden-pyt-kritikuva-nato-zaradi-iran-news_2610936.html",
+      "pubDate": "2026-06-24 21:48:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/298ff81294f0a449060d68b9da5a1aa8_2610914_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/25/de192dd166269808cc6c1b2dbd7c8f9d_2610936_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +314,11 @@
       }
     },
     {
-      "title": "Най-важните новини за деня: 24 юни 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-24-uni-2026-g-news_2610895.html",
-      "pubDate": "2026-06-24 19:00:00",
+      "title": "Всички мачове на Световното първенство днес – 25.06.2026",
+      "link": "https://www.actualno.com/football/vsichki-machove-na-svetovnoto-pyrvenstvo-dnes-25062026-news_2610708.html",
+      "pubDate": "2026-06-24 21:31:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/6f69adaa4b0192d287aa50fa8ef6e665_2610895_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/bd28ef8007385cb1ff7655190f8a36f6_2610708_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +327,11 @@
       }
     },
     {
-      "title": "Последен тест преди Уимбълдън: Програма на Григор Димитров за 2026 година - турнири | мачове | дати | телевизия | резултати",
-      "link": "https://www.actualno.com/tennis/posleden-test-predi-uimbyldyn-programa-na-grigor-dimitrov-za-2026-godina-turniri-machove-dati-televizija-rezultati-news_2601178.html",
-      "pubDate": "2026-06-24 18:54:00",
+      "title": "Пълно класиране в груповата фаза на Световното първенство 2026 - Англия разочарова срещу Гана (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/pylno-klasirane-v-grupovata-faza-na-svetovnoto-pyrvenstvo-2026-anglija-razocharova-sreshtu-gana-obnovena-news_2605278.html",
+      "pubDate": "2026-06-24 21:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/01/fdc07d7973b75598b6be57b91bda9b6a_2601178_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/10/b44fa7f5c2319979a2e53dcd487b6335_2605278_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +340,11 @@
       }
     },
     {
-      "title": "Реал Мадрид постави срок на Винисиус - бъдещето му на \"Бернабеу\" остава под въпрос",
-      "link": "https://www.actualno.com/football/real-madrid-postavi-srok-na-vinisius-bydeshteto-mu-na-bernabeu-ostava-pod-vypros-news_2610911.html",
-      "pubDate": "2026-06-24 18:51:00",
+      "title": "Класиране за \"Златната ръкавица\" на Световното първенство 2026 - кой е с най-много \"сухи мрежи\"? (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/football/klasirane-za-zlatnata-rykavica-na-svetovnoto-pyrvenstvo-2026-koj-e-s-naj-mnogo-suhi-mreji-obnovena-news_2605575.html",
+      "pubDate": "2026-06-24 21:23:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/87006721285ea98ca1fc5d37818bdb05_2610911_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/11/528aadfc7e6c830fdf0275d317aaf3e4_2605575_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,11 +353,11 @@
       }
     },
     {
-      "title": "Илияна Йотова: Честността днес е дефицитна, но изключително високо конвертируема валута (СНИМКИ)",
-      "link": "https://www.actualno.com/society/ilijana-jotova-chestnostta-dnes-e-deficitna-no-izkluchitelno-visoko-konvertiruema-valuta-snimki-news_2610915.html",
-      "pubDate": "2026-06-24 18:48:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 25.06.26 - Русия изнудва Беларус да влезе във войната с Украйна",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-250626-rusija-iznudva-belarus-da-vleze-vyv-vojnata-s-ukrajna-news_2610932.html",
+      "pubDate": "2026-06-24 21:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/24/c8d00f2cb7dd292b79f391bed42f73e8_2610915_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/06/25/cd5da2e1c598d56beeecd8aa7febfb3b_2610932_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -366,6 +376,36 @@
       }
     },
     {
+      "title": "Blogging can just be stating the obvious",
+      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "pubDate": "2026-06-24 23:46:37",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "pubDate": "2026-06-25 00:41:43",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "pubDate": "2026-06-24 13:49:16",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "link": "https://rubyllm.com/",
       "pubDate": "2026-06-24 14:41:41",
@@ -376,33 +416,23 @@
       }
     },
     {
-      "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-      "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
-      "pubDate": "2026-06-24 20:20:33",
+      "title": "Buildings collapse after back-to-back quakes rock Venezuela",
+      "link": "https://www.dw.com/en/buildings-collapse-after-back-to-back-quakes-rock-venezuela/live-77699720?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-25T00:29:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "We’re making Bunny DNS free",
-      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "pubDate": "2026-06-24 08:50:41",
+      "title": "Venezuela hit by two powerful earthquakes",
+      "link": "https://www.dw.com/en/venezuela-hit-by-two-powerful-earthquakes/a-77698995?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-24T23:21:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "link": "https://www.greptile.com/blog/prs-on-openclaw",
-      "pubDate": "2026-06-24 14:32:12",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,27 +464,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Heat wave: Why you should skip that cold beer or cocktail",
-      "link": "https://www.dw.com/en/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail/a-77680047?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-24T14:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "European heat wave is not normal summer weather",
-      "link": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-24T14:20:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-24T22:04:28.506Z"
+  "lastUpdated": "2026-06-25T01:55:54.266Z"
 }
