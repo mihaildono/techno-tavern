@@ -356,9 +356,29 @@
       }
     },
     {
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "pubDate": "2026-06-25 13:07:07",
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "link": "https://hackernewstrends.com/",
+      "pubDate": "2026-06-25 14:08:55",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "pubDate": "2026-06-25 14:58:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "pubDate": "2026-06-25 14:19:28",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +396,9 @@
       }
     },
     {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "pubDate": "2026-06-25 06:00:04",
+      "title": "Apple increases MacBook and iPad prices by 20%",
+      "link": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+      "pubDate": "2026-06-25 14:37:15",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,23 +406,43 @@
       }
     },
     {
-      "title": "Apple announces significant price increases for MacBooks, iPads, more",
-      "link": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
-      "pubDate": "2026-06-25 13:02:56",
+      "title": "Sudan: Warnings mount over the risk of new mass atrocities",
+      "link": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-25T16:33:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "pubDate": "2026-06-24 19:48:01",
+      "title": "Germany considers &apos;opt-out&apos; organ donor option",
+      "link": "https://www.dw.com/en/germany-considers-opt-out-organ-donor-option/a-77712351?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-25T15:16:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Banning social media for teens: solution or overreaction?",
+      "link": "https://www.dw.com/en/banning-social-media-for-teens-solution-or-overreaction/a-77704407?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-25T14:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "The &apos;Flamingo Revolution&apos;: What&apos;s behind Albania&apos;s protests?",
+      "link": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-25T14:25:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -414,47 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Human rights expert Philippe Sands wins German Peace Prize",
-      "link": "https://www.dw.com/en/human-rights-expert-philippe-sands-wins-german-peace-prize/a-77702306?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-25T12:38:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Family seeks justice after Indian sailor killed in US strike",
-      "link": "https://www.dw.com/en/family-seeks-justice-after-indian-sailor-killed-in-us-strike/a-77706371?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-25T12:15:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Fact check: No, Zelenskyy wasn&apos;t killed in a Russian airstrike",
-      "link": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-25T11:12:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Europe heat wave: No respite as extreme heat continues",
-      "link": "https://www.dw.com/en/europe-heat-wave-no-respite-as-extreme-heat-continues/live-77663026?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-25T10:43:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-25T13:55:11.249Z"
+  "lastUpdated": "2026-06-25T17:00:41.480Z"
 }
