@@ -346,9 +346,19 @@
       }
     },
     {
-      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "pubDate": "2026-06-27 09:18:52",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "OpenRA",
+      "link": "https://www.openra.net/",
+      "pubDate": "2026-06-27 12:10:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "Beer CSS – Build material design in record time",
-      "link": "https://www.beercss.com/",
-      "pubDate": "2026-06-27 09:06:11",
+      "title": "Underarm Bowling Incident of 1981",
+      "link": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+      "pubDate": "2026-06-23 20:21:19",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "Long Wave radio era set to end with switch-off",
-      "link": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "pubDate": "2026-06-25 18:42:17",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "pubDate": "2026-06-27 14:23:40",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +396,13 @@
       }
     },
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "pubDate": "2026-06-26 17:06:55",
+      "title": "Rome celebrates 80 years of Italy&apos;s iconic Vespa scooter",
+      "link": "https://www.dw.com/en/rome-celebrates-80-years-of-italy-s-iconic-vespa-scooter/a-77735061?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-27T14:51:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,17 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Europe faces scorching weekend as heat wave moves east",
-      "link": "https://www.dw.com/en/europe-faces-scorching-weekend-as-heat-wave-moves-east/live-77663026?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-27T08:48:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-27T13:01:36.360Z"
+  "lastUpdated": "2026-06-27T15:56:26.185Z"
 }
