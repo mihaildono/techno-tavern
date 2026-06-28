@@ -131,6 +131,36 @@
       }
     },
     {
+      "title": "„По-малко ресурси“ за Москва. Украйна порази още две петролни рафинерии в Русия",
+      "link": "https://svobodnatochka.bg/novini/ukrayna-rusiya-udari-rafinerii/",
+      "pubDate": "2026-06-28 10:40:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Поредното нарушение“. Иран нападна американски бази в Близкия изток след нови удари на САЩ",
+      "link": "https://svobodnatochka.bg/novini/iran-amerikanski-bazi-udari/",
+      "pubDate": "2026-06-28 09:00:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Последните ми дни“. Вучич подава оставка до седмици. Протестите в Сърбия не спират",
+      "link": "https://svobodnatochka.bg/novini/vucic-ostavka-protesti/",
+      "pubDate": "2026-06-28 06:20:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "„Вреден за България“. Първият протест срещу кабинета „Радев“ поиска оставката му",
       "link": "https://svobodnatochka.bg/novini/protest-sresthu-kabineta-radev/",
       "pubDate": "2026-06-27 17:24:34",
@@ -144,36 +174,6 @@
       "title": "Рекордни жеги и смъртни случаи. Как Европа посрещна горещата вълна, която се мести на изток",
       "link": "https://svobodnatochka.bg/novini/goreshta-vulna-evropa/",
       "pubDate": "2026-06-27 13:58:36",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Част от военните самолети на САЩ отпътуваха от летището в София",
-      "link": "https://svobodnatochka.bg/novini/amerikanski-samoleti-letishte-sofiya/",
-      "pubDate": "2026-06-27 11:10:33",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Гълъб Донев защити Бюджет 2026, но каза, че в него няма „нито една политика“ на кабинета",
-      "link": "https://svobodnatochka.bg/novini/galab-donev-byudzhet-2026/",
-      "pubDate": "2026-06-27 09:49:30",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Искам просто да се върнат“. Над 900 станаха жертвите на земетресението във Венецуела",
-      "link": "https://svobodnatochka.bg/novini/venetsuela-zemetresenie/",
-      "pubDate": "2026-06-27 08:18:27",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -376,19 +376,9 @@
       }
     },
     {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "link": "https://github.com/itsthelore/wayfinder-router",
-      "pubDate": "2026-06-28 04:31:18",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "link": "https://decomp-academy.dev/",
-      "pubDate": "2026-06-28 01:21:20",
+      "title": "Bashblog – a single bash script to create blogs",
+      "link": "https://github.com/cfenollosa/bashblog",
+      "pubDate": "2026-06-28 04:48:32",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -406,9 +396,9 @@
       }
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "link": "https://github.com/bikini/exploitarium",
-      "pubDate": "2026-06-27 14:31:00",
+      "title": "OpenRA",
+      "link": "https://www.openra.net/",
+      "pubDate": "2026-06-27 12:10:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -416,9 +406,19 @@
       }
     },
     {
-      "title": "Argentina: Milei&apos;s top aide resigns over corruption scandal",
-      "link": "https://www.dw.com/en/argentina-milei-s-top-aide-resigns-over-corruption-scandal/a-77740299?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-28T05:47:00Z",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "link": "https://github.com/itsthelore/wayfinder-router",
+      "pubDate": "2026-06-28 04:31:18",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Fact check: As Europe bakes, should you trust your sunscreen?",
+      "link": "https://www.dw.com/en/fact-check-as-europe-bakes-should-you-trust-your-sunscreen/a-77707226?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T10:06:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -426,9 +426,9 @@
       }
     },
     {
-      "title": "Hungary holds first post-Orban Budapest Pride march",
-      "link": "https://www.dw.com/en/hungary-holds-first-post-orban-budapest-pride-march/a-77736596?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-27T18:23:00Z",
+      "title": "With &apos;Operation Purgatory,&apos; Magyar moves to demolish Orban system",
+      "link": "https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T09:25:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -436,9 +436,9 @@
       }
     },
     {
-      "title": "Venezuela earthquakes: Nearly 7 million may be impacted — UN",
-      "link": "https://www.dw.com/en/venezuela-earthquakes-nearly-7-million-may-be-impacted-un/live-77699720?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-27T17:43:00Z",
+      "title": "Germany news: Extreme heat heads east, Greens want air con",
+      "link": "https://www.dw.com/en/germany-news-extreme-heat-heads-east-greens-want-air-con/live-77733670?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T09:24:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -446,9 +446,9 @@
       }
     },
     {
-      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
-      "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-27T16:41:00Z",
+      "title": "Will Germany impose an age limit for social media?",
+      "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T08:54:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -456,9 +456,9 @@
       }
     },
     {
-      "title": "Why is the US targeting Germany&apos;s drug industry?",
-      "link": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-27T16:28:00Z",
+      "title": "New Caledonia heads to polls in vote delayed since 2024",
+      "link": "https://www.dw.com/en/new-caledonia-heads-to-polls-in-vote-delayed-since-2024/a-77741001?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T08:23:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -466,5 +466,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-28T06:48:43.208Z"
+  "lastUpdated": "2026-06-28T10:56:51.632Z"
 }
