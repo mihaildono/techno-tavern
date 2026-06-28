@@ -121,6 +121,26 @@
       }
     },
     {
+      "title": "„Вреден за България“. Първият протест срещу кабинета „Радев“ поиска оставката му",
+      "link": "https://svobodnatochka.bg/novini/protest-sresthu-kabineta-radev/",
+      "pubDate": "2026-06-27 17:24:34",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Рекордни жеги и смъртни случаи. Как Европа посрещна горещата вълна, която се мести на изток",
+      "link": "https://svobodnatochka.bg/novini/goreshta-vulna-evropa/",
+      "pubDate": "2026-06-27 13:58:36",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Част от военните самолети на САЩ отпътуваха от летището в София",
       "link": "https://svobodnatochka.bg/novini/amerikanski-samoleti-letishte-sofiya/",
       "pubDate": "2026-06-27 11:10:33",
@@ -144,26 +164,6 @@
       "title": "„Искам просто да се върнат“. Над 900 станаха жертвите на земетресението във Венецуела",
       "link": "https://svobodnatochka.bg/novini/venetsuela-zemetresenie/",
       "pubDate": "2026-06-27 08:18:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Голямата картина: Мазут и имоти текат край морето",
-      "link": "https://svobodnatochka.bg/golyamata-kartina/golyamata-kartina-mazut-imoti/",
-      "pubDate": "2026-06-27 07:43:17",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Ще отговорим с насилие“. Нови удари между САЩ и Иран поставят временното примирие в риск",
-      "link": "https://svobodnatochka.bg/novini/sasht-udar-iran-ormuzki-protok/",
-      "pubDate": "2026-06-27 06:36:00",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "link": "https://ipcrawl.com/",
-      "pubDate": "2026-06-27 19:09:49",
+      "title": "Choosing a Public DNS Resolver",
+      "link": "https://evilbit.de/dns-resolver-guide.html",
+      "pubDate": "2026-06-27 22:11:28",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -359,16 +359,6 @@
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "link": "https://github.com/bikini/exploitarium",
       "pubDate": "2026-06-27 14:31:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "link": "https://github.com/kageroumado/adrafinil",
-      "pubDate": "2026-06-27 20:34:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -389,6 +379,16 @@
       "title": "AI learns the “dark art” of RFIC design",
       "link": "https://spectrum.ieee.org/ai-radio-chip-design",
       "pubDate": "2026-06-24 14:02:16",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "pubDate": "2026-06-28 00:46:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -446,5 +446,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-06-27T21:50:11.375Z"
+  "lastUpdated": "2026-06-28T02:01:13.860Z"
 }
