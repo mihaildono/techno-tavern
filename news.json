@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "pubDate": "2026-06-28 02:23:08",
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "link": "https://github.com/open-energy-transition/open-tyndp",
+      "pubDate": "2026-06-28 14:05:47",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "pubDate": "2026-06-28 09:53:58",
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "link": "https://pudding.cool/2026/06/menu-collection/",
+      "pubDate": "2026-06-28 14:44:56",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Bashblog – a single bash script to create blogs",
-      "link": "https://github.com/cfenollosa/bashblog",
-      "pubDate": "2026-06-28 04:48:32",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "pubDate": "2026-06-28 12:44:24",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "pubDate": "2026-06-28 00:46:52",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "link": "https://github.com/openai/codex/issues/2847",
+      "pubDate": "2026-06-28 12:27:33",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +396,53 @@
       }
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "link": "https://github.com/bikini/exploitarium",
-      "pubDate": "2026-06-27 14:31:00",
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "link": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "pubDate": "2026-06-28 14:35:26",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Uganda military chief shuts media outlets, slams &apos;free press&apos;",
+      "link": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T15:24:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Russia&apos;s Putin promises security as Ukraine ramps up attacks",
+      "link": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T14:58:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany news: New heat record at 41.7 degrees Celsius",
+      "link": "https://www.dw.com/en/germany-news-new-heat-record-at-41-7-degrees-celsius/live-77733670?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T14:47:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Saudi Aramco helicopter crashes, all 14 passengers killed",
+      "link": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-28T13:38:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -414,47 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Fact check: As Europe bakes, should you trust your sunscreen?",
-      "link": "https://www.dw.com/en/fact-check-as-europe-bakes-should-you-trust-your-sunscreen/a-77707226?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-28T10:06:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "With &apos;Operation Purgatory,&apos; Magyar moves to demolish Orban system",
-      "link": "https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-28T09:25:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Extreme heat heads east, Greens want air con",
-      "link": "https://www.dw.com/en/germany-news-extreme-heat-heads-east-greens-want-air-con/live-77733670?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-28T09:24:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Will Germany impose an age limit for social media?",
-      "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-28T08:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-28T13:06:46.612Z"
+  "lastUpdated": "2026-06-28T16:02:05.761Z"
 }
