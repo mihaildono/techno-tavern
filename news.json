@@ -366,9 +366,29 @@
       }
     },
     {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "pubDate": "2026-06-29 19:49:28",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Rocketlab acquires Iridium",
       "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
       "pubDate": "2026-06-29 14:09:24",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "link": "https://github.com/deepreinforce-ai/Ornith-1",
+      "pubDate": "2026-06-29 17:16:17",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,23 +406,33 @@
       }
     },
     {
-      "title": "The 80% Problem: The Last 20% Is Where the Engineer Used to Live",
-      "link": "https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html",
-      "pubDate": "2026-06-29 18:35:23",
+      "title": "Germany: At least 6 killed in shooting in Stade",
+      "link": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-29T21:32:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "link": "https://github.com/deepreinforce-ai/Ornith-1",
-      "pubDate": "2026-06-29 17:16:17",
+      "title": "Peru: Fujimori declared winner of presidential election",
+      "link": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-29T20:33:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Alarm over alleged abuse in French schools and nurseries",
+      "link": "https://www.dw.com/en/alarm-over-alleged-abuse-in-french-schools-and-nurseries/a-77729372?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-29T19:43:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -424,37 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Poland orders Swedish submarines to bulk up navy",
-      "link": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-29T16:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "South Africa braces for anti-migrant protests",
-      "link": "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-29T14:23:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "EV myths muddy the road to electrification",
-      "link": "https://www.dw.com/en/ev-myths-muddy-the-road-to-electrification/a-77651984?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-29T14:13:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-29T19:29:14.913Z"
+  "lastUpdated": "2026-06-29T22:02:20.926Z"
 }
