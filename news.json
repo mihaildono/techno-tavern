@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "The labor share of income in the US is at its lowest post-war level",
-      "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-      "pubDate": "2026-06-30 15:35:04",
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "pubDate": "2026-06-30 17:59:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,7 +366,7 @@
       }
     },
     {
-      "title": "Claude Code Is Steganographically Marking Requests",
+      "title": "Claude Code is steganographically marking requests",
       "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "pubDate": "2026-06-30 15:44:24",
       "thumbnail": null,
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "Looking Ahead to Postgres 19",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-      "pubDate": "2026-06-30 14:14:29",
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "pubDate": "2026-06-30 17:07:41",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "link": "https://www.gutenberg.org/ebooks/24518",
-      "pubDate": "2026-06-30 12:47:51",
+      "title": "Nano Banana 2 Lite",
+      "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "pubDate": "2026-06-30 16:48:37",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,13 +396,23 @@
       }
     },
     {
-      "title": "We moved our Bluesky data to Eurosky",
-      "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
-      "pubDate": "2026-06-30 15:17:14",
+      "title": "We Are the Last People Who Know How It Works",
+      "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "pubDate": "2026-06-30 16:59:00",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Israel peace deal greeted with skepticism, fear in Lebanon",
+      "link": "https://www.dw.com/en/israel-peace-deal-greeted-with-skepticism-fear-in-lebanon/a-77775047?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-06-30T17:30:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -444,17 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
-      "link": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-06-29T12:16:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-06-30T16:59:27.108Z"
+  "lastUpdated": "2026-06-30T19:27:15.951Z"
 }
