@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Хари Кейн спаси Англия от катастрофа",
+      "link": "https://offnews.bg/futbol/hari-kejn-spasi-anglia-ot-katastrofa-869897.html",
+      "pubDate": "2026-07-01 18:25:21",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/01/869897/phpxbe1ev_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8295
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Германия одобри закон за военно обучение на резервистите",
+      "link": "https://offnews.bg/sviat/germania-odobri-zakon-za-voenno-obuchenie-na-rezervistite-869896.html",
+      "pubDate": "2026-07-01 18:23:53",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/01/869896/php5tbfv1_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7216
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "9 г. по-късно: Започва процесът за убийството на журналистката Дафне Каруана Галиция",
+      "link": "https://offnews.bg/sviat/9-g-po-kasno-zapochva-protcesat-za-ubijstvoto-na-zhurnalistkata-dafn-869895.html",
+      "pubDate": "2026-07-01 17:59:07",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/01/869895/php9yz8qw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5343
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Майки от цялата страна излязоха на протест за достойна подкрепа и срещу ниските обезщетения",
+      "link": "https://offnews.bg/protesti/majki-ot-tcialata-strana-izliazoha-na-protest-za-dostojna-podkrepa-i-s-869875.html",
+      "pubDate": "2026-07-01 17:49:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/01/869875/php9u6lmc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10001
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Тръмп летя за първи път на дарения от Катар самолет",
       "link": "https://offnews.bg/sviat/tramp-letia-za-parvi-pat-na-darenia-ot-katar-samolet-869893.html",
       "pubDate": "2026-07-01 17:00:38",
@@ -8,62 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/07/01/869893/phplmdjmc_559x345.jpg",
         "type": "image/jpeg",
         "length": 6187
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Запали се завод за отпадъци край София (обновена, видео)",
-      "link": "https://offnews.bg/112/zapali-se-zavod-za-otpadatci-kraj-sofia-obnovena-video-869884.html",
-      "pubDate": "2026-07-01 16:53:38",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/01/869884/phprklvd1_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6327
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Апокалипсис сега: Лятна буря с градушка превърна улиците на София в пълноводна река",
-      "link": "https://offnews.bg/obshtestvo/apokalipsis-sega-liatna-buria-s-gradushka-prevarna-ulitcite-na-sofia-869888.html",
-      "pubDate": "2026-07-01 16:19:31",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/01/869888/phpb7mwgb_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7511
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Русия е обречена, ако спешно не промени нещо. Фронтова линия с Камен Невенкин 01.07.2026",
-      "link": "https://offnews.bg/analizi-i-komentari/rusia-e-obrechena-ako-speshno-ne-promeni-neshto-frontova-linia-s-kam-869890.html",
-      "pubDate": "2026-07-01 15:49:41",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/01/869890/phpdlqyl9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8197
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Полицаи мародери са арестувани след земетресението във Венецуела",
-      "link": "https://offnews.bg/sviat/politcai-maroderi-sa-arestuvani-sled-zemetresenieto-vav-venetcuela-869889.html",
-      "pubDate": "2026-07-01 15:35:19",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/01/869889/phphktgvs_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8986
       },
       "source": {
         "name": "OffNews",
@@ -171,6 +171,18 @@
       }
     },
     {
+      "title": "Властта видя тежко наследство и при \"Лукойл България\". Рафинерията била на ръба от затваряне",
+      "link": "https://www.mediapool.bg/vlastta-vidya-tezhko-nasledstvo-i-pri-lukoil-bulgaria-rafineriyata-bila-na-raba-ot-zatvaryane-news385043.html",
+      "pubDate": "2026-07-01 18:21:45",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/385/medium_2a2947aff9a409b46f3be982d734477c.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Екоинспекциите проверили над 200 сигнала за мазутни петна по плажовете",
       "link": "https://www.mediapool.bg/ekoinspektsiite-proverili-nad-200-signala-za-mazutni-petna-po-plazhovete-news385042.html",
       "pubDate": "2026-07-01 17:08:51",
@@ -212,18 +224,6 @@
       "pubDate": "2026-07-01 16:26:20",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/385/medium_a1d00bef3c9367ed0aa9e590d1d14e2e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Националната спортна база е с ново ръководство",
-      "link": "https://www.mediapool.bg/natsionalnata-sportna-baza-e-s-novo-rakovodstvo-news385038.html",
-      "pubDate": "2026-07-01 16:12:50",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_1f1b4d515916dfd8696eea2b1ad0be5f.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -291,11 +291,11 @@
       }
     },
     {
-      "title": "Върховният главнокомандващ на НАТО в Европа: България е надхвърлила 2% от БВП за разходи за отбрана",
-      "link": "https://www.actualno.com/society/vyrhovnijat-glavnokomandvasht-na-nato-v-evropa-bylgarija-e-nadhvyrlila-2-ot-bvp-za-razhodi-za-otbrana-news_2613569.html",
-      "pubDate": "2026-07-01 17:10:00",
+      "title": "Приключи днешният кръг преговори между САЩ и Иран: За какво се договориха страните?",
+      "link": "https://www.actualno.com/asia/prikluchi-dneshnijat-kryg-pregovori-mejdu-sasht-i-iran-za-kakvo-se-dogovoriha-stranite-news_2613627.html",
+      "pubDate": "2026-07-01 21:37:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/273e82a38d4ea3f06ed9a242daa41980_2613569_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/02/71175049883c928153e84dc784919c23_2613627_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -304,11 +304,11 @@
       }
     },
     {
-      "title": "Испания - Австрия: Кога и къде да гледаме първия елиминационен мач на европейския шампион",
-      "link": "https://www.actualno.com/football/ispanija-avstrija-koga-i-kyde-da-gledame-pyrvija-eliminacionen-mach-na-evropejskija-shampion-news_2613515.html",
-      "pubDate": "2026-07-01 17:00:00",
+      "title": "НА ЖИВО: Цената на петрола смени посоката заради Иран и САЩ",
+      "link": "https://www.actualno.com/asia/na-jivo-cenata-na-petrola-smeni-posokata-zaradi-iran-i-sasht-news_2613626.html",
+      "pubDate": "2026-07-01 21:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/98cd095aa1d48ae8a7f04a442f202e3a_2613515_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/02/561ee9bea30ad47fd31c51440fe58402_2613626_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -317,11 +317,11 @@
       }
     },
     {
-      "title": "Шестима пострадаха в челна катастрофа между тир и микробус по пътя Скравена – Ботевград",
-      "link": "https://www.actualno.com/crime/shestima-postradaha-v-chelna-katastrofa-mejdu-tir-i-mikrobus-po-pytja-skravena-botevgrad-news_2613565.html",
-      "pubDate": "2026-07-01 16:57:00",
+      "title": "Доминация! Джокович помете Циципас и продължава напред на Уимбълдън",
+      "link": "https://www.actualno.com/tennis/dominacija-djokovich-pomete-cicipas-i-prodyljava-napred-na-uimbyldyn-news_2613621.html",
+      "pubDate": "2026-07-01 21:16:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/b5860457247e213d24a2a9efb8aa5165_2613565_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/02/6b96baf9fabeaf47d77c67b5bd01fa9c_2613621_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -330,11 +330,11 @@
       }
     },
     {
-      "title": "Яник Синер мина на ходом през корав португалец и счупи знаменит рекорд",
-      "link": "https://www.actualno.com/tennis/janik-siner-mina-na-hodom-prez-korav-portugalec-i-schupi-znamenit-rekord-news_2613562.html",
-      "pubDate": "2026-07-01 16:49:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 02.07.26 - Руснаците все по-често питат кога ще свърши войната",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-020726-rusnacite-vse-po-chesto-pitat-koga-shte-svyrshi-vojnata-news_2613625.html",
+      "pubDate": "2026-07-01 21:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/fda06d9564c67aa723a45a2caabae51b_2613562_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/02/f42cbffe0381a55528805c0bfcb1c401_2613625_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -343,16 +343,26 @@
       }
     },
     {
-      "title": "Представител на визуалните изкуства: Не питаме за още пари, липсва ясна стратегия какво да се прави и с малкото налични",
-      "link": "https://www.actualno.com/art/predstavitel-na-vizualnite-izkustva-ne-pitame-za-oshte-pari-lipsva-jasna-strategija-kakvo-da-se-pravi-i-s-malkoto-nalichni-news_2613563.html",
-      "pubDate": "2026-07-01 16:37:00",
+      "title": "Брюксел настоява за ускоряване на реформите в Босна и Херцеговина",
+      "link": "https://www.actualno.com/balkani/bruksel-nastojava-za-uskorjavane-na-reformite-v-bosna-i-hercegovina-news_2613618.html",
+      "pubDate": "2026-07-01 20:47:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/df2a21f0f394e143619561f524eaa90a_2613563_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/01/e9419dddfab7a3964ea51bd18e4861fb_2613618_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "link": "https://zcode.z.ai/cn",
+      "pubDate": "2026-07-01 19:11:38",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -366,7 +376,17 @@
       }
     },
     {
-      "title": "What to Learn to Be a Graphics Programmer",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "link": "https://www.workerowned.info/",
+      "pubDate": "2026-07-01 20:47:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
       "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "pubDate": "2026-07-01 17:53:44",
       "thumbnail": null,
@@ -386,23 +406,23 @@
       }
     },
     {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "pubDate": "2026-07-01 12:13:34",
+      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
+      "link": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-07-01T19:53:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "How We Made IPFS Content Publishing 10x Faster",
-      "link": "https://probelab.io/blog/optimistic-provide/",
-      "pubDate": "2026-07-01 15:30:35",
+      "title": "Ivory Coast: Nearly 60 people killed in flooding since May",
+      "link": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-07-01T19:52:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,27 +454,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany&apos;s Merz and soccer: A PR move that backfired",
-      "link": "https://www.dw.com/en/germany-s-merz-and-soccer-a-pr-move-that-backfired/a-77790831?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-07-01T16:01:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Sony to stop making PlayStation game discs as of 2028",
-      "link": "https://www.dw.com/en/sony-to-stop-making-playstation-game-discs-as-of-2028/a-77790883?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-07-01T15:59:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-07-01T19:26:03.646Z"
+  "lastUpdated": "2026-07-01T22:10:10.483Z"
 }
