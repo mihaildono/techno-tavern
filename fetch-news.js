@@ -51,6 +51,12 @@ const RSS_SOURCES = [
     type: "rss2json",
   },
   {
+    name: "FrogNews",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frss.frognews.bg%2F",
+    color: "#00897B", // Teal-green
+    type: "rss2json",
+  },
+  {
     name: "DW",
     url: "https://rss.dw.com/rdf/rss-en-top",
     color: "#C8102E", // DW Red
