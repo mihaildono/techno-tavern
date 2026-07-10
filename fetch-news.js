@@ -16,9 +16,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Dnevnik",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.dnevnik.bg%2Frss",
+    url: "https://news.google.com/rss/search?q=site:dnevnik.bg&hl=bg&gl=BG&ceid=BG:bg",
     color: "#2196F3", // Blue
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Свободна точка",
@@ -34,9 +34,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Capital",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.capital.bg%2Frss",
+    url: "https://news.google.com/rss/search?q=site:capital.bg&hl=bg&gl=BG&ceid=BG:bg",
     color: "#4CAF50", // Green
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Actualno",
@@ -154,12 +154,21 @@ function parseFeedItems(source, feedData) {
 
 // --- Fetch with retry ---
 
+// Returns: array of items on success, null on permanent failure, [] on transient failure
 async function fetchFeed(source) {
   try {
     const { status, data } = await fetchUrl(source.url);
 
     if (status < 200 || status >= 300) {
       console.error(`  ❌ HTTP ${status} from ${source.name}`);
+      // For rss2json, a non-2xx with {"status":"error"} means the upstream feed
+      // is blocked or invalid — retrying will never help.
+      if (source.type === "rss2json") {
+        try {
+          const json = JSON.parse(data);
+          if (json.status === "error") return null; // permanent
+        } catch (_) {}
+      }
       return [];
     }
 
@@ -185,6 +194,12 @@ async function fetchFeed(source) {
 async function fetchFeedWithRetry(source, maxRetries = 3) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     const items = await fetchFeed(source);
+
+    // null = permanent failure (e.g. upstream blocked), no point retrying
+    if (items === null) {
+      console.log(`⚠️  Skipping retries for ${source.name} (upstream blocked)`);
+      return [];
+    }
 
     if (items.length > 0) {
       console.log(`✅ Fetched ${items.length} articles from ${source.name}`);

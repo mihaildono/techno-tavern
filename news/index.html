@@ -9,10 +9,10 @@
 
     <title>Новини - Techno Tavern Пловдив</title>
 
-    <link rel="icon" href="./assets/logo.svg" />
+    <link rel="icon" href="../assets/logo.svg" />
 
     <!-- Preload critical above-the-fold image -->
-    <link rel="preload" href="./assets/logo.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="../assets/logo.svg" as="image" type="image/svg+xml" />
 
     <!-- Preconnect to external domains for faster resource loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -22,7 +22,8 @@
     <link rel="preload" href="/news.json" as="fetch" crossorigin />
 
     <!-- Critical CSS inline or load asynchronously -->
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="news.css" />
 
     <!-- Load Google Fonts asynchronously to prevent render blocking -->
     <link rel="preload"
@@ -38,7 +39,7 @@
 <body>
     <main class="layout">
         <div class="mainHeader">
-            <img src="./assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
+            <img src="../assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
             <h1>Techno Tavern</h1>
             <span>Социално пространство в Пловдив</span>
         </div>
@@ -47,9 +48,13 @@
             <a href="/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
                 </svg></a>
-            <a href="/news.html" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <a href="/news/" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path
-                        d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z" />
+                        d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12zM6 10h12v2H6zm0 4h8v2H6z" />
+                </svg></a>
+            <a href="/stocks/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" />
                 </svg></a>
         </nav>
 
@@ -65,7 +70,8 @@
     <footer class="site-footer">
         <span>Архив</span>
         <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
+                <path
+                    d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
             </svg>Политика</a>
     </footer>
 

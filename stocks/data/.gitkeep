@@ -1,0 +1,3 @@
+# JSON scan outputs are committed here by CI
+# weekly.json — full fundamental scan (Sundays 20:00 UTC)
+# daily.json  — price-refresh scan (weekdays 21:00 UTC)

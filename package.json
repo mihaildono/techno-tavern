@@ -4,7 +4,10 @@
   "description": "Techno Tavern - Social space in Plovdiv",
   "scripts": {
     "fetch-news": "node fetch-news.js",
-    "start": "python3 -m http.server 8000"
+    "start": "python3 -m http.server 8000",
+    "install-py": "uv venv --python 3.12 .venv && uv pip install -r requirements.txt",
+    "stocks": ".venv/bin/python stocks/undervalued_stocks.py --output stocks/data/weekly.json --run-type weekly",
+    "stocks:daily": ".venv/bin/python stocks/undervalued_stocks.py --quick --output stocks/data/daily.json --run-type daily"
   },
   "keywords": [
     "news",

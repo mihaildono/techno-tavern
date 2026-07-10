@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Undervalued Stocks | Techno Tavern</title>
+    <link rel="icon" href="../assets/logo.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="stocks.css">
+</head>
+
+<body>
+    <div class="layout">
+
+        <div class="mainHeader">
+            <img src="../assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
+            <h1>Techno Tavern</h1>
+            <span>Социално пространство в Пловдив</span>
+        </div>
+        <nav class="tabs">
+            <a href="/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+                </svg></a>
+            <a href="/news/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12zM6 10h12v2H6zm0 4h8v2H6z" />
+                </svg></a>
+            <a href="/stocks/" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" />
+                </svg></a>
+        </nav>
+
+        <div class="header">
+            <h2>Undervalued US Stocks</h2>
+            <p class="subtitle">Composite value screener — DCF · FCF · P/E · P/B · Dividends</p>
+        </div>
+
+        <div class="meta-bar" id="meta-bar" style="display:none">
+            <span id="badge-weekly"></span>
+            <span id="badge-daily"></span>
+            <span>Universe: <strong id="meta-universe">—</strong> tickers</span>
+            <span><strong id="meta-count">—</strong> results</span>
+        </div>
+
+        <div class="legend" id="legend" style="display:none">
+            <span><span class="legend-dot" style="background:#6a9ecc"></span> Blue dot = price refreshed by today's
+                daily scan</span>
+        </div>
+
+        <div id="table-container"></div>
+        <div id="mobile-container"></div>
+
+        <div class="card" id="methodology" style="display:none">
+            <h2>How scores are calculated</h2>
+            <p style="margin-bottom:18px">Each stock receives a composite score between 0 and 1. Seven metrics are
+                scored individually (each 0–1), then combined with the weights below. Price-sensitive metrics (price,
+                P/E, FCF yield) are refreshed each trading day; fundamentals (DCF intrinsic value, dividends, company
+                age) are rescanned weekly.</p>
+            <div class="weights-grid" id="weights-grid"></div>
+            <h2 style="margin-top:8px">DCF model parameters</h2>
+            <div class="model-params" id="model-params"></div>
+            <h2 style="margin-top:20px">Metric descriptions</h2>
+            <ul style="display:grid;gap:6px;padding-left:18px;margin-top:6px">
+                <li><strong>DCF Margin of Safety</strong> — 5-year FCF projection + terminal value discounted at WACC.
+                    Intrinsic value is set weekly; MoS is recomputed daily using the fresh price.</li>
+                <li><strong>FCF Yield</strong> — Free cash flow divided by market cap; higher is better.</li>
+                <li><strong>P/E Score</strong> — Scored 1.0 at P/E ≤ 10, penalised sharply above 30.</li>
+                <li><strong>P/B Score</strong> — Price-to-book; scored 1.0 at P/B ≤ 1, 0 at P/B ≥ 5.</li>
+                <li><strong>Dividend Yield</strong> — Current yield; 6.7%+ maps to 1.0.</li>
+                <li><strong>Dividend Growth</strong> — Fraction of past 5 years where annual dividends grew YoY. Weekly
+                    scan only.</li>
+                <li><strong>Company Age Bonus</strong> — 1.0 for companies ≥ 15 years old; linearly scaled below that.
+                </li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Run schedule</h2>
+            <div class="schedule-grid">
+                <div class="schedule-item">
+                    <div class="label">Weekly — deep scan</div>
+                    <div class="cron">0 20 * * 0</div>
+                    <p>Every Sunday at 20:00 UTC. Rescores all fundamentals: FCF, DCF intrinsic value, dividend history,
+                        P/B, company age.</p>
+                </div>
+                <div class="schedule-item">
+                    <div class="label">Daily — price refresh</div>
+                    <div class="cron">0 21 * * 1–5</div>
+                    <p>Weekdays at 21:00 UTC after US market close. Refreshes price, P/E and FCF yield. MoS is
+                        recomputed from the fresh price against the weekly intrinsic value.</p>
+                </div>
+            </div>
+        </div>
+
+        <footer class="site-footer">
+            <span>Архив</span>
+            <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
+                </svg>Политика</a>
+        </footer>
+
+    </div>
+    <script>
+        let sortCol = 'score', sortAsc = false, currentRows = [];
+
+        function scoreColor(s) {
+            if (s >= 0.65) return { bg: '#1a3a25', text: '#6bbc8a' };
+            if (s >= 0.50) return { bg: '#2a2a1a', text: '#b8a840' };
+            if (s >= 0.35) return { bg: '#2a1f1a', text: '#c07840' };
+            return { bg: '#2a1a1a', text: '#a04040' };
+        }
+
+        const COLS = [
+            { label: '#', sortKey: null },
+            { label: 'Symbol', sortKey: 'symbol' },
+            { label: 'Name', sortKey: 'name' },
+            { label: 'Sector', sortKey: 'sector' },
+            { label: 'Price', sortKey: 'price' },
+            { label: 'Intrinsic (DCF)', sortKey: 'intrinsic_dcf' },
+            { label: 'MoS %', sortKey: 'margin_of_safety' },
+            { label: 'P/E', sortKey: 'pe' },
+            { label: 'P/B', sortKey: 'pb' },
+            { label: 'FCF Yield', sortKey: 'fcf_yield_pct' },
+            { label: 'Div Yield', sortKey: 'div_yield_pct' },
+            { label: 'Div Growth', sortKey: 'div_growth_pct' },
+            { label: 'Age (yr)', sortKey: 'company_age' },
+            { label: 'Score', sortKey: 'score' },
+        ];
+
+        function renderTable() {
+            const sorted = [...currentRows].sort((a, b) => {
+                const va = a[sortCol] ?? (sortAsc ? Infinity : -Infinity);
+                const vb = b[sortCol] ?? (sortAsc ? Infinity : -Infinity);
+                if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+                return sortAsc ? va - vb : vb - va;
+            });
+
+            const thead = COLS.map(c => {
+                const cls = c.sortKey === sortCol ? (sortAsc ? 'sorted-asc' : 'sorted-desc') : '';
+                const onclick = c.sortKey ? `onclick="setSort('${c.sortKey}')"` : '';
+                return `<th class="${cls}" ${onclick}>${c.label}</th>`;
+            }).join('');
+
+            const tbody = sorted.map((r, i) => {
+                const sc = scoreColor(r.score);
+                const frs = r.daily_refreshed ? ' fresh' : '';
+                const mos = r.margin_of_safety != null
+                    ? `<span style="color:${r.margin_of_safety >= 0 ? '#6bbc8a' : '#c05050'}">${r.margin_of_safety.toFixed(1)}%</span>`
+                    : '<span class="na">N/A</span>';
+                const na = '<span class="na">N/A</span>';
+                return `<tr>
+        <td class="rank">${i + 1}</td>
+        <td class="symbol">${r.symbol}</td>
+        <td class="name" title="${r.name}">${r.name}</td>
+        <td class="sector">${r.sector}</td>
+        <td class="${frs}">$${r.price.toFixed(2)}</td>
+        <td>${r.intrinsic_dcf != null ? '$' + r.intrinsic_dcf.toFixed(2) : na}</td>
+        <td class="${frs}">${mos}</td>
+        <td class="${frs}">${r.pe != null ? r.pe.toFixed(1) : na}</td>
+        <td>${r.pb != null ? r.pb.toFixed(2) : na}</td>
+        <td class="${frs}">${r.fcf_yield_pct != null ? r.fcf_yield_pct.toFixed(1) + '%' : na}</td>
+        <td>${r.div_yield_pct.toFixed(2)}%</td>
+        <td>${r.div_growth_pct.toFixed(0)}%</td>
+        <td>${r.company_age != null ? r.company_age : na}</td>
+        <td><span class="score-pill" style="background:${sc.bg};color:${sc.text}">${r.score.toFixed(4)}</span></td>
+      </tr>`;
+            }).join('');
+
+            return `<div class="table-wrapper"><table><thead><tr>${thead}</tr></thead><tbody>${tbody}</tbody></table></div>`;
+        }
+
+        function setSort(col) {
+            sortAsc = sortCol === col ? !sortAsc : (col === 'symbol' || col === 'name' || col === 'sector');
+            sortCol = col;
+            document.getElementById('table-container').innerHTML = renderTable();
+            document.getElementById('mobile-container').innerHTML = renderMobile();
+        }
+
+        function toggleCard(el) {
+            el.classList.toggle('open');
+        }
+
+        function renderMobile() {
+            const sorted = [...currentRows].sort((a, b) => {
+                const va = a[sortCol] ?? (sortAsc ? Infinity : -Infinity);
+                const vb = b[sortCol] ?? (sortAsc ? Infinity : -Infinity);
+                if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+                return sortAsc ? va - vb : vb - va;
+            });
+
+            const na = '<span style="color:#444">N/A</span>';
+
+            const cards = sorted.map((r, i) => {
+                const sc = scoreColor(r.score);
+                const freshDot = r.daily_refreshed ? '<span class="fresh-dot"></span>' : '';
+                const mos = r.margin_of_safety != null
+                    ? `<span class="mobile-metric-val ${r.margin_of_safety >= 0 ? 'pos' : 'neg'}">${r.margin_of_safety.toFixed(1)}%</span>`
+                    : `<span class="mobile-metric-val">${na}</span>`;
+
+                const metrics = [
+                    ['Price', r.price != null ? `$${r.price.toFixed(2)}` : null, r.daily_refreshed],
+                    ['Intrinsic (DCF)', r.intrinsic_dcf != null ? `$${r.intrinsic_dcf.toFixed(2)}` : null, false],
+                    ['MoS %', null, r.daily_refreshed, mos],
+                    ['P/E', r.pe != null ? r.pe.toFixed(1) : null, r.daily_refreshed],
+                    ['P/B', r.pb != null ? r.pb.toFixed(2) : null, false],
+                    ['FCF Yield', r.fcf_yield_pct != null ? r.fcf_yield_pct.toFixed(1) + '%' : null, r.daily_refreshed],
+                    ['Div Yield', r.div_yield_pct.toFixed(2) + '%', false],
+                    ['Div Growth', r.div_growth_pct.toFixed(0) + '%', false],
+                    ['Sector', r.sector, false],
+                    ['Age (yr)', r.company_age != null ? r.company_age : null, false],
+                ].map(([label, val, fresh, custom]) => {
+                    const displayed = custom ?? (val != null
+                        ? `<span class="mobile-metric-val">${val}</span>`
+                        : `<span class="mobile-metric-val">${na}</span>`);
+                    const dot = fresh ? ' <span class="fresh-dot"></span>' : '';
+                    return `<div><div class="mobile-metric-label">${label}${dot}</div>${displayed}</div>`;
+                }).join('');
+
+                return `<div class="mobile-card" onclick="toggleCard(this)">
+        <div class="mobile-card-header">
+          <span class="mobile-rank">${i + 1}</span>
+          <div class="mobile-info">
+            <div class="mobile-symbol">${r.symbol}${freshDot}</div>
+            <div class="mobile-name">${r.name}</div>
+          </div>
+          <div class="mobile-right">
+            <span class="score-pill" style="background:${sc.bg};color:${sc.text}">${r.score.toFixed(4)}</span>
+            <span class="mobile-chevron">▾</span>
+          </div>
+        </div>
+        <div class="mobile-details">${metrics}</div>
+      </div>`;
+            }).join('');
+
+            return `<div class="mobile-list">${cards}</div>`;
+        }
+
+        function renderMethodology(data) {
+            const WL = { dcf_margin: 'DCF Margin of Safety', fcf_yield: 'FCF Yield', pe_score: 'P/E Score', pb_score: 'P/B Score', div_yield: 'Dividend Yield', div_growth: 'Dividend Growth', age_bonus: 'Company Age Bonus' };
+            document.getElementById('weights-grid').innerHTML = Object.entries(data.weights).map(([k, v]) => {
+                const pct = (v * 100).toFixed(0);
+                return `<div class="weight-item"><div class="weight-label">${WL[k] || k}</div><div class="weight-bar-track"><div class="weight-bar-fill" style="width:${pct}%"></div></div><div class="weight-pct">${pct}%</div></div>`;
+            }).join('');
+            const m = data.model;
+            document.getElementById('model-params').innerHTML = [
+                ['WACC', (m.wacc * 100).toFixed(1) + '%'],
+                ['Terminal Growth', (m.terminal_growth * 100).toFixed(1) + '%'],
+                ['FCF Forecast Years', m.fcf_growth_years],
+                ['Min Company Age', m.min_company_age_years + ' yrs'],
+            ].map(([l, v]) => `<div class="param"><div class="param-label">${l}</div><div class="param-val">${v}</div></div>`).join('');
+            document.getElementById('methodology').style.display = '';
+        }
+
+        function fmtDate(iso) {
+            return new Date(iso).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' }) + ' UTC';
+        }
+
+        async function loadScans() {
+            const ts = Date.now();
+            const [wRes, dRes] = await Promise.allSettled([
+                fetch('data/weekly.json?t=' + ts),
+                fetch('data/daily.json?t=' + ts),
+            ]);
+
+            let weekly = null, daily = null;
+            if (wRes.status === 'fulfilled' && wRes.value.ok) weekly = await wRes.value.json();
+            if (dRes.status === 'fulfilled' && dRes.value.ok) daily = await dRes.value.json();
+
+            const base = weekly || daily;
+            if (!base) return;
+
+            // Build daily lookup
+            const dailyMap = new Map();
+            if (daily) for (const r of daily.results) dailyMap.set(r.symbol, r);
+
+            // Merge: weekly is the base; daily overlays price-sensitive fields
+            const merged = (weekly ? weekly.results : []).map(r => {
+                const d = dailyMap.get(r.symbol);
+                if (!d) return { ...r, daily_refreshed: false };
+
+                // Recompute MoS from fresh price using weekly's intrinsic value
+                let fresh_mos = r.margin_of_safety;
+                if (r.intrinsic_dcf != null && r.intrinsic_dcf > 0) {
+                    fresh_mos = parseFloat((((r.intrinsic_dcf - d.price) / r.intrinsic_dcf) * 100).toFixed(2));
+                }
+
+                return { ...r, price: d.price, pe: d.pe, pb: d.pb, fcf_yield_pct: d.fcf_yield_pct, score: d.score, margin_of_safety: fresh_mos, daily_refreshed: true };
+            });
+
+            // Tickers in daily but not in weekly
+            if (daily) {
+                const ws = new Set((weekly ? weekly.results : []).map(r => r.symbol));
+                for (const r of daily.results) if (!ws.has(r.symbol)) merged.push({ ...r, daily_refreshed: true });
+            }
+
+            // If only daily available
+            if (!weekly && daily) for (const r of daily.results) merged.push({ ...r, daily_refreshed: true });
+
+            merged.sort((a, b) => b.score - a.score);
+            currentRows = merged;
+
+            if (weekly) document.getElementById('badge-weekly').innerHTML =
+                `<span class="scan-badge weekly"><span class="dot"></span>Weekly: ${fmtDate(weekly.generated_at)}</span>`;
+            if (daily) document.getElementById('badge-daily').innerHTML =
+                `<span class="scan-badge daily"><span class="dot"></span>Daily: ${fmtDate(daily.generated_at)}</span>`;
+            document.getElementById('meta-universe').textContent = base.universe_size;
+            document.getElementById('meta-count').textContent = merged.length;
+            document.getElementById('meta-bar').style.display = '';
+
+            if (merged.some(r => r.daily_refreshed)) document.getElementById('legend').style.display = '';
+
+            document.getElementById('table-container').innerHTML = renderTable();
+            document.getElementById('mobile-container').innerHTML = renderMobile();
+            renderMethodology(base);
+        }
+
+        loadScans();
+    </script>
+</body>
+
+</html>
