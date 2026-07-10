@@ -1,10 +1,10 @@
 a {
-  color: #6bbc8a;
+  color: #fff;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .layout {
@@ -127,12 +127,6 @@ a:hover {
   height: 80px;
 }
 
-.mainHeader h1 {
-  font-weight: 600;
-  color: #fff;
-  letter-spacing: -0.3px;
-}
-
 .mainHeader span {
   font-size: 13px;
   color: #666;
@@ -157,8 +151,7 @@ body {
 
 .site-footer {
   width: 100%;
-  max-width: 640px;
-  margin: 32px auto 24px;
+  margin: 32px 0 24px;
   padding-top: 16px;
   border-top: 1px solid #333;
   display: flex;

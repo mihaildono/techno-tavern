@@ -65,60 +65,59 @@
             </div>
             <!-- /news feed -->
         </div>
-    </main>
 
-    <footer class="site-footer">
-        <span>Архив</span>
-        <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                    d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
-            </svg>Политика</a>
-    </footer>
+        <footer class="site-footer">
+            <span>Архив</span>
+            <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
+                </svg>Политика</a>
+        </footer>
 
-    <script>
-        async function loadNewsFeed() {
-            const feedContainer = document.getElementById("news-feed");
+        <script>
+            async function loadNewsFeed() {
+                const feedContainer = document.getElementById("news-feed");
 
-            try {
-                // Fetch from local JSON file (updated by GitHub Action)
-                // Cache-bust: round to 10-min windows so browser doesn't serve stale data
-                const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
-                const response = await fetch(`/news.json?v=${cacheBuster}`);
-                const data = await response.json();
-                feedContainer.innerHTML = "";
+                try {
+                    // Fetch from local JSON file (updated by GitHub Action)
+                    // Cache-bust: round to 10-min windows so browser doesn't serve stale data
+                    const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
+                    const response = await fetch(`/news.json?v=${cacheBuster}`);
+                    const data = await response.json();
+                    feedContainer.innerHTML = "";
 
-                data.items.forEach((item) => {
-                    const newsElement = document.createElement("a");
-                    newsElement.className = "news-item";
-                    newsElement.href = item.link;
-                    newsElement.target = "_blank";
-                    newsElement.rel = "noopener noreferrer";
+                    data.items.forEach((item) => {
+                        const newsElement = document.createElement("a");
+                        newsElement.className = "news-item";
+                        newsElement.href = item.link;
+                        newsElement.target = "_blank";
+                        newsElement.rel = "noopener noreferrer";
 
-                    // Calculate time difference
-                    const now = new Date();
-                    const pubDate = new Date(item?.pubDate);
-                    const diffMs = now - pubDate;
-                    const diffMins = Math.floor(diffMs / (1000 * 60));
-                    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
-                    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+                        // Calculate time difference
+                        const now = new Date();
+                        const pubDate = new Date(item?.pubDate);
+                        const diffMs = now - pubDate;
+                        const diffMins = Math.floor(diffMs / (1000 * 60));
+                        const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                        const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
 
-                    let formattedDate;
-                    switch (true) {
-                        case diffHours < 1:
-                            formattedDate = `преди ${diffMins} минути`;
-                            break;
-                        case diffHours < 24:
-                            formattedDate = `преди ${diffHours} часа`;
-                            break;
-                        default:
-                            formattedDate = `преди ${diffDays} дни`;
-                    }
+                        let formattedDate;
+                        switch (true) {
+                            case diffHours < 1:
+                                formattedDate = `преди ${diffMins} минути`;
+                                break;
+                            case diffHours < 24:
+                                formattedDate = `преди ${diffHours} часа`;
+                                break;
+                            default:
+                                formattedDate = `преди ${diffDays} дни`;
+                        }
 
-                    // Build the news item with optional thumbnail and source badge
-                    const thumbnailHtml = item.thumbnail?.link ? `<img src="${item.thumbnail.link}" alt="${item.title}" class="news-thumbnail" referrerpolicy="no-referrer" />` : '';
-                    const sourceBadgeHtml = item.source?.name ? `<span class="source-badge" style="background-color: ${item.source.color}">${item.source.name}</span>` : '';
-                    const dateHtml = `<span class="news-date">${sourceBadgeHtml}${formattedDate}</span>`;
-                    newsElement.innerHTML = `
+                        // Build the news item with optional thumbnail and source badge
+                        const thumbnailHtml = item.thumbnail?.link ? `<img src="${item.thumbnail.link}" alt="${item.title}" class="news-thumbnail" referrerpolicy="no-referrer" />` : '';
+                        const sourceBadgeHtml = item.source?.name ? `<span class="source-badge" style="background-color: ${item.source.color}">${item.source.name}</span>` : '';
+                        const dateHtml = `<span class="news-date">${sourceBadgeHtml}${formattedDate}</span>`;
+                        newsElement.innerHTML = `
                         <div class="news-content">
                             <span class="news-link">${item.title}</span>
                             ${dateHtml}
@@ -126,18 +125,18 @@
                         ${thumbnailHtml}
                     `;
 
-                    feedContainer.appendChild(newsElement);
-                });
-            } catch (error) {
-                console.error("Error loading news:", error);
-                feedContainer.innerHTML =
-                    '<div class="feed-error">Failed to load news. Please try again later.</div>';
+                        feedContainer.appendChild(newsElement);
+                    });
+                } catch (error) {
+                    console.error("Error loading news:", error);
+                    feedContainer.innerHTML =
+                        '<div class="feed-error">Failed to load news. Please try again later.</div>';
+                }
             }
-        }
 
-        // Load news when page is ready
-        document.addEventListener("DOMContentLoaded", loadNewsFeed);
-    </script>
+            // Load news when page is ready
+            document.addEventListener("DOMContentLoaded", loadNewsFeed);
+        </script>
 </body>
 
 </html>
