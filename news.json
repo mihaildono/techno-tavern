@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Поддигнаха обвинение на тираджията, причинил тежката катастрофа на Тракия",
+      "link": "https://offnews.bg/temida/poddignaha-obvinenie-na-tiradzhiata-prichinil-tezhkata-katastrofa-na-870472.html",
+      "pubDate": "2026-07-11 15:31:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/11/870472/php2jx4uh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5445
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Радан Кънев отново оглави ДСБ. Бе избран с 302 гласа, а за Йордан Иванов гласуваха 223 делегати",
+      "link": "https://offnews.bg/politika/radan-kanev-otnovo-oglavi-dsb-be-izbran-s-302-glasa-a-za-jordan-ivan-870468.html",
+      "pubDate": "2026-07-11 14:25:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/11/870468/php3mubtv_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6853
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Европа вече тества рейлгън - оръдието на бъдещето, което поразява цели на над 200 километра",
+      "link": "https://offnews.bg/sviat/evropa-veche-testva-rejlgan-oradieto-na-badeshteto-koeto-poraziava-870471.html",
+      "pubDate": "2026-07-11 13:05:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/11/870471/phpvvxwvo_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5883
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Мадяр с нов рекорд: Птичките му удариха 28 руски кораба само миналата нощ",
       "link": "https://offnews.bg/sviat/madiar-s-nov-rekord-ptichkite-mu-udariha-28-ruski-koraba-samo-minalat-870470.html",
       "pubDate": "2026-07-11 12:35:27",
@@ -29,51 +71,9 @@
       }
     },
     {
-      "title": "''Tоплофикация - Враца'' сигнализира за фишинг атаки от нейно име",
-      "link": "https://offnews.bg/obshtestvo/toplofikatcia-vratca-signalizira-za-fishing-ataki-ot-nejno-ime-870467.html",
-      "pubDate": "2026-07-11 11:10:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/11/870467/phpiwh6ab_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7666
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Прощаваме се генерал-майор Александър Александров на 13 юли",
-      "link": "https://offnews.bg/obshtestvo/proshtavame-se-general-major-aleksandar-aleksandrov-na-13-iuli-870466.html",
-      "pubDate": "2026-07-11 10:41:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/11/870466/php4bugxb_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4430
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Никола Кацаров направи анализ на Световното първенство до четвъртфиналите",
-      "link": "https://offnews.bg/futbol/nikola-katcarov-napravi-analiz-na-svetovnoto-parvenstvo-do-chetvartfin-870465.html",
-      "pubDate": "2026-07-11 10:03:26",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/11/870465/phpl5n9bt_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8390
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Финансистът Василе Тофан е номиниран за премиер на Молдова - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVk2Y29kZmVUbklGamdOd3drRkdsb05Fd2VXZE5sNzgzVHN3WFh2S0FXY3pDOGFCVW5ObEdJN1N5RnpIVTllakxJQmRJWmJwLVEyX3VFbGxEdkxydVltMGpkYWNFbnVkM2hoMmhJLXBhQ3QwbGVZVFVlaE9uay1IdllQRHlQM2JjbFZZdGJWY09JZlRidEx6Zmg4VWZfRnpi?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 10:13:00 GMT",
+      "title": "Радан Кънев е новият председател на ДСБ - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkNCMlUzWEpoeWtwSXBCQ1FWN05zQWJlaTJKT09VaktybmhXMVdjaVhIMmtpUk5TeWRDVGdHenFJY3liMHlsaV90dnR1ZGVNU2pkWXNJUEwzVmV2d1FmNmJFcUtGbmdHdlM0cGJ2cVlpQnVrVHhTLURiMjhjeGZxQ1ZGRk00VEgxS3FtbTJFd0ZuSEtVYTRj?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 14:25:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -121,6 +121,36 @@
       }
     },
     {
+      "title": "Радан Кънев е избран за лидер на ДСБ",
+      "link": "https://svobodnatochka.bg/novini/radan-kanev-lider-dsb/",
+      "pubDate": "2026-07-11 15:23:34",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Няма ги да забравим“. Хиляди отбелязаха годишнината от геноцида в Сребреница",
+      "link": "https://svobodnatochka.bg/novini/genocid-srebrenica-godishnina/",
+      "pubDate": "2026-07-11 14:37:59",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Русия за пръв път призна, че липсата на бензин се дължи на удари на Украйна по рафинериите",
+      "link": "https://svobodnatochka.bg/novini/rusiya-ukrayna-benzin-udari-rafinerii/",
+      "pubDate": "2026-07-11 13:32:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Горски пожар обхвана 6600 хектара в Южна Испания. Поне 12 души загинаха",
       "link": "https://svobodnatochka.bg/novini/pozhar-ispaniya/",
       "pubDate": "2026-07-11 12:43:03",
@@ -141,41 +171,11 @@
       }
     },
     {
-      "title": "Голямата картина: Радев замразява, НАТФИЗ протестира и жената като другарка",
-      "link": "https://svobodnatochka.bg/golyamata-kartina/golyamata-kartina-radev-zamrazyava-natfiz-protestira-i-zhenata-kato-drugarka/",
-      "pubDate": "2026-07-11 07:30:00",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "България влиза в процедура за свръхдефицит и има срок до 2029 да се върне към прага от 3%",
-      "link": "https://svobodnatochka.bg/novini/protsedura-svrahdefitsit-balgariya/",
-      "pubDate": "2026-07-11 07:01:41",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Не сме по-различни от другите“. Как младежи с увреждания намират оазис в село до Видин",
-      "link": "https://svobodnatochka.bg/video/mladeji-s-uvrejdania-vidin/",
-      "pubDate": "2026-07-11 05:46:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Варненски нотариус издал  документ за собственост на 35 сгради върху горска територия",
-      "link": "https://www.mediapool.bg/varnenski-notarius-izdal-dokument-za-sobstvenost-na-35-sgradi-varhu-gorska-teritoriya-news385370.html",
-      "pubDate": "2026-07-11 11:31:48",
+      "title": "Енергийният експерт Георги Касчиев е махнат от АЕЦ и заменен от бивш шеф на разузнаването",
+      "link": "https://www.mediapool.bg/energiyniyat-ekspert-georgi-kaschiev-e-mahnat-ot-aets-i-zamenen-ot-bivsh-shef-na-razuznavaneto-news385374.html",
+      "pubDate": "2026-07-11 14:24:34",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_7751957d0a35d010024ddad2f491856a.jpg"
+        "link": "https://www.mediapool.bg/images/385/medium_8c43a1c4a31d90c2adc4daa7071e56a1.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -183,11 +183,11 @@
       }
     },
     {
-      "title": "\"Радев запазва досегашния модел\". ДСБ избира нов лидер, но Атанасов остава в политиката",
-      "link": "https://www.mediapool.bg/radev-zapazva-dosegashniya-model-dsb-izbira-nov-lider-no-atanasov-ostava-v-politikata-news385365.html",
-      "pubDate": "2026-07-11 11:01:04",
+      "title": "Украйна е атакувала 21 руски танкера в Азовско море",
+      "link": "https://www.mediapool.bg/ukraina-e-atakuvala-21-ruski-tankera-v-azovsko-more-news385373.html",
+      "pubDate": "2026-07-11 14:20:35",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_018ad9a44af2f79d1d87669d5fabe79c.jpg"
+        "link": "https://www.mediapool.bg/images/385/medium_5c512ec8fbeaf9c0623dfb00472a5f92.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -195,11 +195,11 @@
       }
     },
     {
-      "title": "\"Cool\": Правителството със заявка да удвои броя на туристите до края на мандата",
-      "link": "https://www.mediapool.bg/cool-pravitelstvoto-sas-zayavka-da-udvoi-broya-na-turistite-do-kraya-na-mandata-news385369.html",
-      "pubDate": "2026-07-11 09:51:37",
+      "title": "Радан Кънев е новият лидер на ДСБ (обновена)",
+      "link": "https://www.mediapool.bg/radan-kanev-e-noviyat-lider-na-dsb-obnovena-news385365.html",
+      "pubDate": "2026-07-11 14:01:04",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_7403d80c5b3c2ab82b951f6977c95467.jpg"
+        "link": "https://www.mediapool.bg/images/385/medium_aa72e0fb9ebe339b73b418e2d7ee1902.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -207,11 +207,11 @@
       }
     },
     {
-      "title": "Рекордни чуждестранни инвестиции в Гърция",
-      "link": "https://www.mediapool.bg/rekordni-chuzhdestranni-investitsii-v-gartsiya-news385368.html",
-      "pubDate": "2026-07-11 09:03:21",
+      "title": "Върховният лидер на Иран се закле да отмъсти за убитият си баща",
+      "link": "https://www.mediapool.bg/varhovniyat-lider-na-iran-se-zakle-da-otmasti-za-ubitiyat-si-bashta-news385372.html",
+      "pubDate": "2026-07-11 12:49:16",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_2e1509c576e1551a1185bbdf2879c863.jpg"
+        "link": "https://www.mediapool.bg/images/385/medium_28dc34891380a883d552c35a678b2a5b.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -219,11 +219,11 @@
       }
     },
     {
-      "title": "Осводиха двама от шестимата българи, обвинени в шпионаж за Русия във Великобритания",
-      "link": "https://www.mediapool.bg/osvodiha-dvama-ot-shestimata-balgari-obvineni-v-shpionazh-za-rusiya-vav-velikobritaniya-news385367.html",
-      "pubDate": "2026-07-11 07:13:31",
+      "title": "Apple съди OpenAI за кражба на търговски тайни",
+      "link": "https://www.mediapool.bg/apple-sadi-openai-za-krazhba-na-targovski-taini-news385371.html",
+      "pubDate": "2026-07-11 12:47:31",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/385/medium_d3d33d2ee26a5448a6c5f774006dd72d.jpg"
+        "link": "https://www.mediapool.bg/images/385/medium_98c8f710a49fbb2fc4e24909da9c690f.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Горчиви сълзи в Русия: И в България зареждат по-евтин бензин!",
-      "link": "https://www.actualno.com/europe/gorchivi-sylzi-v-rusija-i-v-bylgarija-zarejdat-po-evtin-benzin-news_2616923.html",
-      "pubDate": "2026-07-11 12:32:00",
+      "title": "В атака на клея: Григор Димитров научи схемата по пътя към трофея в Бостад",
+      "link": "https://www.actualno.com/tennis/v-ataka-na-kleja-grigor-dimitrov-nauchi-shemata-po-pytja-kym-trofeja-v-bostad-news_2617090.html",
+      "pubDate": "2026-07-11 15:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/250fd881f8a84a74833fd9d22132bf22_2616923_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/a19c9746647ddde42b6d3a1936792138_2617090_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Яник Синер направи нещо срещу Джокович, което само Федерер и Надал са постигали в историята",
-      "link": "https://www.actualno.com/tennis/janik-siner-napravi-neshto-sreshtu-djokovich-koeto-samo-federer-i-nadal-sa-postigali-v-istorijata-news_2617047.html",
-      "pubDate": "2026-07-11 12:32:00",
+      "title": "Украйна скоро ще занули Русия: Бензинът е само началото",
+      "link": "https://www.actualno.com/europe/ukrajna-skoro-shte-zanuli-rusija-benzinyt-e-samo-nachaloto-news_2616920.html",
+      "pubDate": "2026-07-11 15:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/878736eeec6e7c7ab6e6283570769c01_2617047_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/10/1044309c98e72beab31d101c15a389a5_2616920_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Куртоа след отпадането от Испания: Можех да продължа да играя, но треньорът реши да ме смени! (ВИДЕО)",
-      "link": "https://www.actualno.com/football/kurtoa-sled-otpadaneto-ot-ispanija-mojeh-da-prodylja-da-igraja-no-trenioryt-reshi-da-me-smeni-video-news_2617046.html",
-      "pubDate": "2026-07-11 12:28:00",
+      "title": "Задържаха шестима души за разпространение на райски газ и наркотици в Слънчев бряг",
+      "link": "https://www.actualno.com/crime/zadyrjaha-shestima-dushi-za-razprostranenie-na-rajski-gaz-i-narkotici-v-slynchev-brjag-news_2617087.html",
+      "pubDate": "2026-07-11 15:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/4ed2d63e95d766ff1137a936c7bc25aa_2617046_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/c1239477e4a810a7b59da85cf5a5baba_2617087_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Турция ще изгражда газопровод до северната част на Кипър",
-      "link": "https://www.actualno.com/economy/turcija-shte-izgrajda-gazoprovod-do-severnata-chast-na-kipyr-news_2617045.html",
-      "pubDate": "2026-07-11 12:27:00",
+      "title": "\"Демократи за силна България\" обяви новия си лидер",
+      "link": "https://www.actualno.com/politics/demokrati-za-silna-bylgarija-objavi-novija-si-lider-news_2617086.html",
+      "pubDate": "2026-07-11 15:21:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/032a96c574f45a732ad6b43a43cd7502_2617045_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/7135d467752d7e884fb8f6fd03b45edc_2617086_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Първият полски вятърен парк в Балтийско море започна да произвежда ток",
-      "link": "https://www.actualno.com/economy/pyrvijat-polski-vjatyren-park-v-baltijsko-more-zapochna-da-proizvejda-tok-news_2617042.html",
-      "pubDate": "2026-07-11 12:14:00",
+      "title": "В Русия магьосници вече предлагат ритуали за превръщане на един бензин в друг",
+      "link": "https://www.actualno.com/europe/v-rusija-magiosnici-veche-predlagat-rituali-za-prevryshtane-na-edin-benzin-v-drug-news_2617080.html",
+      "pubDate": "2026-07-11 14:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/14967458b922740742b4b73291f2344b_2617042_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/11/ac492c737b4d6a8bf60884d3a408ea06_2617080_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "Networking and the Internet, from First Principles",
-      "link": "https://fazamhd.com/mental-models/networking/",
-      "pubDate": "2026-07-11 12:30:40",
+      "title": "Modern Decor May Be Straining People's Brains",
+      "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "pubDate": "2026-07-11 16:28:48",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Your code is fast – if you're lucky",
-      "link": "https://tiki.li/blog/lucky_code.html",
-      "pubDate": "2026-07-11 10:50:10",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "pubDate": "2026-07-11 15:28:02",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "pubDate": "2026-07-10 22:30:44",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "pubDate": "2026-07-11 15:26:12",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "pubDate": "2026-07-10 15:59:53",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "pubDate": "2026-07-11 17:03:23",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,19 +386,67 @@
       }
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "pubDate": "2026-07-07 23:51:49",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "pubDate": "2026-07-10 22:04:45",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Дигитално робство е проектозаконът за забраната за достъп до социални мрежи",
+      "link": "https://frognews.bg/novini/digitalno-robstvo-proektozakonat-zabranata-dostap-sotsialni-mreji.html",
+      "pubDate": "2026-07-11 15:05:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/ab32c038c_1783781976_6a525a586331e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Радан Кънев е новият лидер на ДСБ",
+      "link": "https://frognews.bg/novini/radan-kanev-noviiat-lider-dsb.html",
+      "pubDate": "2026-07-11 14:36:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/fbfd16af7_1783780639_6a52551f4c8a3.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "ФИФА разпродава на чимове тревата от финала на Мондиал 2026",
+      "link": "https://frognews.bg/novini/fifa-razprodava-chimove-trevata-finala-mondial-2026.html",
+      "pubDate": "2026-07-11 14:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/37b94d16c_1783777681_6a524991b0475.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Испания събаря паметник на румънските легионери от ерата на Франко",
+      "link": "https://frognews.bg/novini/ispaniia-sabaria-pametnik-rumanskite-legioneri-erata-franko.html",
+      "pubDate": "2026-07-11 13:40:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/ffd3d1d34_1783776776_6a5246087a171.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
       "title": "Населението на ЕС продължава да расте: Миграцията компенсира спада на раждаемостта",
       "link": "https://frognews.bg/novini/naselenieto-prodaljava-raste-migratsiiata-kompensira-spada-rajdaemostta.html",
-      "pubDate": "2026-07-11 12:32:00",
+      "pubDate": "2026-07-11 13:05:00",
       "thumbnail": {
         "link": "https://frognews.bg/images2/thumbs16x9/600/ddbe404e7_1783773574_6a523986d2a58.webp"
       },
@@ -408,51 +456,23 @@
       }
     },
     {
-      "title": "Хари Кейн срещу Ерлинг Холанд. Кой е по-добър?",
-      "link": "https://frognews.bg/novini/hari-kein-sreshtu-erling-holand-koi-dobar.html",
-      "pubDate": "2026-07-11 11:55:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/1afadeaf5_1783770417_6a522d3133ac1.webp"
-      },
+      "title": "Heat is especially hard on people taking antidepressants",
+      "link": "https://www.dw.com/en/heat-is-especially-hard-on-people-taking-antidepressants/a-77912086?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-07-11T17:18:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Сценарият за караница в Анкара не се състоя, заяви политолог от Оксфорд",
-      "link": "https://frognews.bg/novini/stsenariiat-karanitsa-ankara-sastoia-zaiavi-politolog-oksford.html",
-      "pubDate": "2026-07-11 10:50:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/2da7d120d_1783766967_6a521fb7a50b6.webp"
-      },
+      "title": "Typhoon Bavi hits China after battering Taiwan, Japan",
+      "link": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-07-11T17:02:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Тайван превърна касовите бележки в национална лотария и победи сивата икономика",
-      "link": "https://frognews.bg/novini/tayvan-prevarna-kasovite-belezhki-natsionalna-lotariya-pobedi-sivata-ikonomika.html",
-      "pubDate": "2026-07-11 10:15:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/ba516e04d_1783764129_6a5214a117779.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "„Адът едва започва“: Украйна отрязва Крим от суша, море и въздух",
-      "link": "https://frognews.bg/novini/adat-edva-zapochva-ukraina-otriazva-krim-susha-more-vazduh.html",
-      "pubDate": "2026-07-11 09:25:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/cf05a704a_1783761554_6a520a92728a4.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,27 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Russia hits Ukraine&apos;s Kyiv, Odesa in fresh attacks",
-      "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-07-11T11:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Iran&apos;s Mojtaba Khamenei vows revenge for father&apos;s killing",
-      "link": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-07-11T11:40:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-07-11T15:41:07.049Z"
+  "lastUpdated": "2026-07-11T18:39:47.917Z"
 }
