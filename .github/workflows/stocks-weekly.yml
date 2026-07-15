@@ -23,7 +23,10 @@ jobs:
           python-version: "3.12"
 
       - name: Install Python dependencies
-        run: uv pip install -r requirements.txt --system
+        run: |
+          uv venv .venv
+          uv pip install -r requirements.txt
+          echo "$PWD/.venv/bin" >> $GITHUB_PATH
 
       - name: Run weekly scan
         run: |
