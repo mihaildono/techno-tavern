@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Италия прекрати Шенгенското споразумение с Испания заради кризата в Сеута",
+      "link": "https://offnews.bg/sviat/italia-prekrati-shengenskoto-sporazumenie-s-ispania-zaradi-krizata-v-s-871889.html",
+      "pubDate": "2026-07-31 19:05:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/31/871889/phppr8uhs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5644
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "БСП поема курс за ''преодоляване на капитализма''",
+      "link": "https://offnews.bg/politika/bsp-poema-kurs-za-preodoliavane-na-kapitalizma-871888.html",
+      "pubDate": "2026-07-31 18:21:40",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/31/871888/php914qvs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5084
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "България вече е с пълномощен посланик в Украйна след 4 години прекъсване",
+      "link": "https://offnews.bg/sviat/balgaria-veche-e-s-palnomoshten-poslanik-v-ukrajna-sled-4-godini-preka-871887.html",
+      "pubDate": "2026-07-31 17:39:04",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/31/871887/phpfnkil8_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6651
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Казусът с отец Никанор: Протест пред Митрополията, синодално порицание и юридически спор за парите на БПЦ",
+      "link": "https://offnews.bg/obshtestvo/kazusat-s-otetc-nikanor-protest-pred-mitropoliata-sinodalno-poritcan-871883.html",
+      "pubDate": "2026-07-31 16:48:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/07/31/871883/phpaw75o8_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8779
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Чиновничката, която подготвяше закриването на Чешкия център в София, е уволнена със скандал",
       "link": "https://offnews.bg/kultura/chinovnichkata-koiato-podgotviashe-zakrivaneto-na-cheshkia-tcentar-v-871885.html",
       "pubDate": "2026-07-31 16:04:31",
@@ -8,62 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/07/31/871885/phpy71ozq_559x345.jpg",
         "type": "image/jpeg",
         "length": 5774
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "25 000 мигранти вече са се завърнали от Сеута в Мароко",
-      "link": "https://offnews.bg/sviat/25-000-migranti-veche-sa-se-zavarnali-ot-seuta-v-maroko-871884.html",
-      "pubDate": "2026-07-31 15:17:12",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/31/871884/phpxmzeic_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7147
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "За полугодието бюджетният дефицит е 1,9 процента от БВП",
-      "link": "https://offnews.bg/ikonomika/za-polugodieto-biudzhetniat-defitcit-e-1-9-protcenta-ot-bvp-871881.html",
-      "pubDate": "2026-07-31 14:11:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/31/871881/phplnabks_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8207
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Сухи треви и храсти горят до Врана",
-      "link": "https://offnews.bg/obshtestvo/suhi-trevi-i-hrasti-goriat-do-vrana-871859.html",
-      "pubDate": "2026-07-31 13:34:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/31/871859/phpnzcbyz_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4899
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Първият от очакваните 8 американски самолета кацна в Безмер",
-      "link": "https://offnews.bg/obshtestvo/parviat-ot-ochakvanite-8-amerikanski-samoleta-katcna-v-bezmer-871878.html",
-      "pubDate": "2026-07-31 13:20:25",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/07/31/871878/phpu4wyqk_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 3497
       },
       "source": {
         "name": "OffNews",
@@ -91,19 +91,9 @@
       }
     },
     {
-      "title": "Изплащането на пенсиите ще започне на 7 август - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGcxa3B0dFlmTXEzVDZwekF0WXEtMEZJZnJGZWhtRm9XQWRPNi1JNGxHQVdRTFFrdVExcWpqRElCdzFJM1hGMFU2cmVPLWlySnlZUmE1bnRXTUhnOHc5dHBMNXZncm1zYmlUODRhaldsUVF4bHdUYWdBLTdCOExyZ0lnU2VYSjRNRDVFcWxCN2t2VGVBY0c1V1JNS3FsemNKT1E0UXRTcFVpWkU?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:20:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Президентските избори ще бъдат на 25 октомври - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUNVcGhwWjQ1aUx0bUp4b1pIbkIzTkpBZnZsVGloVFhlc1Z2ejY5ZHRPTElsazVlUjljRV9IOWZ6ZTN0djVSRUZEeXlPa21ILS12U1N2Zm1nRWNobE5HaFB6SDFwVk5nRWZ2am9paFBiSlpXTlE2Y0N0N1BOVEtZTG1USnNRVjlpLWJpNTNPLXkxTnJnMEFrYU54NXFZT3Q4ZlphVXFn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 09:01:00 GMT",
+      "title": "Асен Василев: Андрей Гюров ще бъде следващият президент на България - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2E5VVFzS1pkaGR6ZVlxUWVoMk81cUhNNDlJTFEwSmNaaGJkSFpZcEF4cVVHc0xYZFlfX0pqaUlLdUl4S0lHbVBfLWd6YTVpNGpiVTY1RjVKLUZldGItRXBaNXk3ODFGaUpOWUNfakU0SnluSVo2LUFYR2F4LWJhUzJQOTFiV3AzbWdBMVJCX3ZrTExrMFd0cHZVbW9Ta0lBZWhIQnV5cXRGZw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:11:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -114,6 +104,16 @@
       "title": "Министър остави решаването на конфликта в НАТФИЗ на академичната автономия - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlJDY0J4dFpyQXM1dUc2d2x1YWNiNGJDX2g0eVdGTTQxTUZYQk9iLTc0Zkx2SXdOeE9tMTByMTJuS0cwdHE5ZHBCMWFubWNSNEllMzhHczRIT3hEaFYyVlVDUXJSMXY4RGQxTE5iQklRaHVORVpYNFk4OU95N1hHRHFZeGR0RXRlYWZXMG9fZG5jOFhMeEk5Z3lIcmNtb2JrYmZsaS0yLTZmdzg?oc=5",
       "pubDate": "Fri, 31 Jul 2026 15:55:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Прокуратурата трябва да провери устройствен план на терен, предизвикал протести във Варна - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd25LeGZEMUlRRlRlSW9kZ1ZPb0dycm5RREJpOWJwRnJNNmNpbVhMUklTR2pIZ2ZRdjVRTnpTZE9JeXA5dEM2TG0zeUxSVTlzQS1aMjl0MnhXUFh4M3Z3QUtJSnUtczZONjA5RnpaYWVEcG9mWFc4RXRTVVJZM05NUUdBb2tLdDJPcnRWMTNtZWJ3OTVpaEV6QnlkLVh4QlJUVjVvdWNpQQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 10:54:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -171,6 +171,54 @@
       }
     },
     {
+      "title": "САЩ се заканиха да издирят ирански активи по света и да ги дадат на иранския народ",
+      "link": "https://www.mediapool.bg/sasht-se-zakaniha-da-izdiryat-iranski-aktivi-po-sveta-i-da-gi-dadat-na-iranskiya-narod-news386094.html",
+      "pubDate": "2026-07-31 19:24:44",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_fc723f288d9c74ce6f94ef62dd4caceb.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Вучич очаква до дни сделка за руския дял в НИС",
+      "link": "https://www.mediapool.bg/vuchich-ochakva-do-dni-sdelka-za-ruskiya-dyal-v-nis-news386093.html",
+      "pubDate": "2026-07-31 19:19:29",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_60d1d5eda8db6ffb8919eceaca2ccdc8.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "FIFA и Инфантино бранят идеята си въпреки критиките и трусовете във федерацията",
+      "link": "https://www.mediapool.bg/fifa-i-infantino-branyat-ideyata-si-vapreki-kritikite-i-trusovete-vav-federatsiyata-news386091.html",
+      "pubDate": "2026-07-31 16:46:59",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_ab93b733f90ea27b7eed6524394e1277.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "DARA предпочита София за домакин на \"Евровизия\", още се обсъжда избора между столицата и Бургас",
+      "link": "https://www.mediapool.bg/dara-predpochita-sofiya-za-domakin-na-evroviziya-oshte-se-obsazhda-izbora-mezhdu-stolitsata-i-burgas-news386090.html",
+      "pubDate": "2026-07-31 16:37:03",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_4b35813d729c54bcb6ba712b9a84828f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Министерството на културата още търси решение за имотните проблеми на \"Аудиовидео Орфей\"",
       "link": "https://www.mediapool.bg/ministerstvoto-na-kulturata-oshte-tarsi-reshenie-za-imotnite-problemi-na-audiovideo-orfei-news386087.html",
       "pubDate": "2026-07-31 15:13:56",
@@ -183,65 +231,7 @@
       }
     },
     {
-      "title": "Правосъдният министър: Ще ограничим началниците в съдебната власт (подкаст)",
-      "link": "https://www.mediapool.bg/pravosadniyat-ministar-shte-ogranichim-nachalnitsite-v-sadebnata-vlast-podkast-news386080.html",
-      "pubDate": "2026-07-31 14:52:37",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_3dc40f995470f187fdcb2e900b27d1f4.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Украинските сили нанесоха удар по рафинерията във Волгоград, една от най-големите в Русия",
-      "link": "https://www.mediapool.bg/ukrainskite-sili-nanesoha-udar-po-rafineriyata-vav-volgograd-edna-ot-nai-golemite-v-rusiya-news386086.html",
-      "pubDate": "2026-07-31 14:37:06",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_6fc780ab174094312bf595f2ffeff0fc.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Кметът на Горна Оряховица остава на поста, но обяви, че е готов за оставка",
-      "link": "https://www.mediapool.bg/kmetat-na-gorna-oryahovitsa-ostava-na-posta-no-obyavi-che-e-gotov-za-ostavka-news386085.html",
-      "pubDate": "2026-07-31 14:31:23",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_33c3f69218f2b212475d9612c85c655e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Тръмп заяви, че все още не е решил дали да разреши на Украйна да произвежда ракети Patriot",
-      "link": "https://www.mediapool.bg/tramp-zayavi-che-vse-oshte-ne-e-reshil-dali-da-razreshi-na-ukraina-da-proizvezhda-raketi-patriot-news386084.html",
-      "pubDate": "2026-07-31 14:27:50",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_e147f47a8f005d972ea5257c97f7c692.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Българската Nanogram привлече 2.2 млн. долара с платформата си за AI видеоигри - capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVJCYm94OGhuNlNFaVl4eU9iQkQ5YzRER0NULUg5X1lfUW9xUDFmRzd1ZjE2TGdPbGVSNzMtYnFtMFBkaHhNV1U4aFRORTF5cVBBSlV4M1Y0SmJXdUt5U3lZQjdKd18wR3dXRVhXd2hCWEs5ZDNCeEk1MXloZl92VEFMQnpkandWdlQ1Sm9QSnQxTXNqTFZpQzRFUlg3X1pIekVKWUM0Skc?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 07:26:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Библиотека / Капитал - брой 30 - capital.bg - capital.bg",
+      "title": "Библиотека / Капитал - брой 30 - capital.bg - Капитал",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2LUJiUnAyTWxyZ0dNekNoT3ZxV1lkM2lmOU5zV0s2bWZMdTNzV2VEWHVMS1RMa2lmek5qZThmLVE0UWgyUkFnMnE1cnJKSDA3Mk9jb3ZkOFh5bmpLcW9VcUQyZW5BUQ?oc=5",
       "pubDate": "Fri, 31 Jul 2026 03:35:29 GMT",
       "thumbnail": null,
@@ -251,7 +241,7 @@
       }
     },
     {
-      "title": "Ивайло Константинов иска да вземе бензиностанциите на Gazprom под наем за 1 евро - capital.bg",
+      "title": "Ивайло Константинов иска да вземе бензиностанциите на Gazprom под наем за 1 евро - Капитал",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmlqX3VJeEpTbWFmR3BOQ3dpVEJ5TXNIRURyWWhWMDRwcXltb1VfTEVLRGZzTkY0VmwwdkQyS0ZqUTFGN2ZEQ0lmaV9od1JEYzlPR2hWMk02Q2JKamI3dFEyQ3pyVFRhdmkyRklIRzZFdmp2cHlmak9LVXJRSnM2RzktZG9oRndDaTFEM2RwaXFsMkgtTlVtc19NVmMwSk9mVkQ2dkRlWmhLNWdHUGJkZFNn?oc=5",
       "pubDate": "Thu, 30 Jul 2026 09:05:00 GMT",
       "thumbnail": null,
@@ -261,7 +251,7 @@
       }
     },
     {
-      "title": "Фотогалерия: \"Еленовата Луна\" - колоритното юлско пълнолуние в кадри - capital.bg",
+      "title": "Фотогалерия: \"Еленовата Луна\" - колоритното юлско пълнолуние в кадри - Капитал",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnlHcTYyTUhfLUlGLUJENGkxWTB0dXUxRVFiTklseXZ6d1dCa1B0SkwwMnJHX1dQVXg0bEtDWDdpalM2T1BLYXdLRFJxVF85MDlCdW1CSWQxamZwU0pTOGRzUXNXNkRpU1MtQ1o4VXRrWTN1V1RQRWRnNHZMMFN1TUtQTkFRVDh5QXdtSWd1UlVObWwzZ0F4ZEtOb3pRU1FDTFdWS1dpVzNCWHl3NXRDLXZfckxkVGRjTENfQjhYdw?oc=5",
       "pubDate": "Thu, 30 Jul 2026 18:15:44 GMT",
       "thumbnail": null,
@@ -271,7 +261,7 @@
       }
     },
     {
-      "title": "Прекрасният нов орбитален бизнес свят - capital.bg",
+      "title": "Прекрасният нов орбитален бизнес свят - Капитал",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTENWMWZvS1RSbHN0YmY4M0JHYlZGRXJsVGhZSDVnQUwwb0NkMjM2bWIyb0JxemgweXlSZENlOWY0V1hyZjR6WWt6MTcwMFpLb1lreGdZWlJSemFwU05DNlpZbXp3TGdoMktveS14Rm5OQ2VyWGl1QkVCVExTX0hfYVctbW5USm12X1RiS2d4Qnp5R0N6TkdDVEsxejZGRm1GckoxaGFtWVZJbWJR?oc=5",
       "pubDate": "Fri, 31 Jul 2026 03:13:00 GMT",
       "thumbnail": null,
@@ -281,11 +271,21 @@
       }
     },
     {
-      "title": "Полша вдигна изтребители заради руски разузнавателен самолет",
-      "link": "https://www.actualno.com/europe/polsha-vdigna-iztrebiteli-zaradi-ruski-razuznavatelen-samolet-news_2624087.html",
-      "pubDate": "2026-07-31 16:14:00",
+      "title": "id.capital.bg | Публичен пр��фил на 789winbsnet - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMFUtekxoNzFIQk1mM0JtZjRVVjJicHNjbVhXbmRRelVvZ3JHV0JOTFhGTmNWTXk5NTE3ZnhwZi1CeDFNSHJhUnU3U05KUlky?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:45:35 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Изтребител F-35B се разби близо до база на морската пехота в Калифорния (ВИДЕО)",
+      "link": "https://www.actualno.com/america/iztrebitel-f-35b-se-razbi-blizo-do-baza-na-morskata-pehota-v-kalifornija-video-news_2624155.html",
+      "pubDate": "2026-07-31 21:32:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/e75d5400e88fa6221d1cb5b59136e901_2624087_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/01/e70d82851a76147a804a0efc8038fb69_2624155_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Църковен празник на 1 август: Какво се яде и се слага у дома за здраве и късмет",
-      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-1-avgust-kakvo-se-jade-i-se-slaga-u-doma-za-zdrave-i-kysmet-news_2624034.html",
-      "pubDate": "2026-07-31 16:05:00",
+      "title": "Тръмп: Усилията на САЩ за разпускане на Международния наказателен съд нямат за цел да ме предпазят",
+      "link": "https://www.actualno.com/america/trymp-usilijata-na-sasht-za-razpuskane-na-mejdunarodnija-nakazatelen-syd-njamat-za-cel-da-me-predpazjat-news_2624153.html",
+      "pubDate": "2026-07-31 21:17:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/2d189c70507099201b3686b3326d1824_2624034_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/01/45e1329766377e1f7b66d87c5172cc91_2624153_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Втори американски самолет цистерна кацна в \"Безмер\"",
-      "link": "https://www.actualno.com/society/vtori-amerikanski-samolet-cisterna-kacna-v-bezmer-news_2624081.html",
-      "pubDate": "2026-07-31 15:40:00",
+      "title": "Ученик на световния шампион Луис де ла Фуенте застана начело на национален отбор в Европа",
+      "link": "https://www.actualno.com/football/uchenik-na-svetovnija-shampion-luis-de-la-fuente-zastana-nachelo-na-nacionalen-otbor-v-evropa-news_2624151.html",
+      "pubDate": "2026-07-31 20:56:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/fa24629ef2508fb9fa004e8c91e2fbe7_2624081_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/b65b9e36c325a91614d42f5cc032fe07_2624151_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Хеликоптер на \"Гранична полиция\" извърши рискована операция при пожара в Пирин",
-      "link": "https://www.actualno.com/society/helikopter-na-granichna-policija-izvyrshi-riskovana-operacija-pri-pojara-v-pirin-news_2624068.html",
-      "pubDate": "2026-07-31 15:20:00",
+      "title": "Крум Зарков: Подкрепихме спонтанно Илияна Йотова за президент",
+      "link": "https://www.actualno.com/politics/krum-zarkov-podkrepihme-spontanno-ilijana-jotova-za-prezident-news_2624152.html",
+      "pubDate": "2026-07-31 20:55:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/cdd54bf995a4d10d3bee4e27fd8f4154_2624068_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/01/31fee451f9a394712546f519d0242617_2624152_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,16 +333,26 @@
       }
     },
     {
-      "title": "Кметът на Горна Оряховица остава на поста, но планира оставка",
-      "link": "https://www.actualno.com/velikotarnovo/kmetyt-na-gorna-orjahovica-ostava-na-posta-no-planira-ostavka-news_2624064.html",
-      "pubDate": "2026-07-31 15:05:00",
+      "title": "Асен Василев: Мисля, че Андрей Гюров ще бъде президент на България",
+      "link": "https://www.actualno.com/politics/asen-vasilev-mislja-che-andrej-gurov-shte-byde-prezident-na-bylgarija-news_2624150.html",
+      "pubDate": "2026-07-31 20:39:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/9d45f85ef63a7b1987e7efaeac310325_2624064_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/af9a6b21cd81ca44fad22fa3ed869aa5_2624150_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "link": "https://tailscale.com/blog/hugging-face-intrusion",
+      "pubDate": "2026-07-31 19:03:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -356,9 +366,9 @@
       }
     },
     {
-      "title": "Big Food vs. the People",
-      "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "pubDate": "2026-07-31 16:04:32",
+      "title": "qm",
+      "link": "https://github.com/yc-software/qm",
+      "pubDate": "2026-07-31 18:04:58",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +376,9 @@
       }
     },
     {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "pubDate": "2026-07-31 16:15:31",
+      "title": "Golang proposal: container/: generic collection types",
+      "link": "https://github.com/golang/go/issues/80590",
+      "pubDate": "2026-07-31 18:39:47",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-      "link": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "pubDate": "2026-07-31 15:53:37",
+      "title": "Severance",
+      "link": "https://lcamtuf.substack.com/p/severance",
+      "pubDate": "2026-07-31 17:15:09",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,59 +396,49 @@
       }
     },
     {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "pubDate": "2026-07-31 07:59:11",
+      "title": "От силна миризма на пушек се оплакват жителите на „Дружба“ и „Младост“",
+      "link": "https://frognews.bg/novini/silna-mirizma-pushek-oplakvat-jitelite-drujba-mladost.html",
+      "pubDate": "2026-07-31 19:03:00",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Италия спира Шенгенското споразумение с Испания заради мигрантите в Сеута",
+      "link": "https://frognews.bg/novini/italiia-spira-shengenskoto-sporazumenie-ispaniia-zaradi-migrantite-seuta.html",
+      "pubDate": "2026-07-31 18:53:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Тръмп: И Путин, и Зеленски трябва да направят компромиси",
+      "link": "https://frognews.bg/novini/tramp-putin-zelenski-triabva-napraviat-kompromisi.html",
+      "pubDate": "2026-07-31 17:56:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Заради пожари Гърция евакуира жители и туристи от различни части на страната",
+      "link": "https://frognews.bg/novini/zaradi-pojari-gartsiia-evakuira-jiteli-turisti-razlichni-chasti-stranata.html",
+      "pubDate": "2026-07-31 16:29:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
       "title": "Сеута се успокоява: 25 000 мигранти се върнаха в Мароко след рекордния наплив",
       "link": "https://frognews.bg/novini/seuta-uspokoiava-25-000-migranti-varnaha-maroko-sled-rekordniia-napliv.html",
       "pubDate": "2026-07-31 15:48:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Бърнам: Инфантино е грешният човек за ФИФА, трябва да напусне",
-      "link": "https://frognews.bg/novini/barnam-infantino-greshniiat-chovek-fifa-triabva-napusne.html",
-      "pubDate": "2026-07-31 15:42:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Кой казва истината? Демерджиев и разследващите с различни версии за убийството на Загатото",
-      "link": "https://frognews.bg/novini/koi-kazva-istinata-demerdjiev-razsledvashtite-razlichni-versii-ubiistvoto-zagatoto.html",
-      "pubDate": "2026-07-31 15:19:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Оръжията на Хамас – голямата преграда пред мира в Газа",
-      "link": "https://frognews.bg/novini/orajiiata-hamas--goliamata-pregrada-pred-mira-gaza.html",
-      "pubDate": "2026-07-31 15:15:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Кризата в Сеута – тест за дипломацията и миграционната политика на Санчес",
-      "link": "https://frognews.bg/novini/krizata-seuta-test-diplomatsiyata-migratsionnata-politika-sanches.html",
-      "pubDate": "2026-07-31 14:45:00",
       "thumbnail": null,
       "source": {
         "name": "FrogNews",
@@ -496,5 +496,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-07-31T19:01:00.940Z"
+  "lastUpdated": "2026-07-31T21:53:21.986Z"
 }
