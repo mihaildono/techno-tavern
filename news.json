@@ -251,7 +251,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на 789club101com - Капитал",
+      "title": "id.capital.bg | Публичен профил на 789club101com - knetwork.capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CdkZSTHpVU29pa0l2ckEydHBDeFpjZXlUUmVsbnhvR1N6cm5sWkk5X1FlUmNrUTZKTjJxQmtFMjR3RUN5MElWMHBrT2hYUnVGaWV3?oc=5",
       "pubDate": "Sat, 01 Aug 2026 06:45:21 GMT",
       "thumbnail": null,
@@ -261,7 +261,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на 789winbsnet - Капитал",
+      "title": "id.capital.bg | Публичен профил на 789winbsnet - knetwork.capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMFUtekxoNzFIQk1mM0JtZjRVVjJicHNjbVhXbmRRelVvZ3JHV0JOTFhGTmNWTXk5NTE3ZnhwZi1CeDFNSHJhUnU3U05KUlky?oc=5",
       "pubDate": "Fri, 31 Jul 2026 18:45:35 GMT",
       "thumbnail": null,
@@ -271,7 +271,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на kqbdvipjpnet - Капитал",
+      "title": "id.capital.bg | Публичен профил на kqbdvipjpnet - knetwork.capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NUDRPMWxBdFJCXzFJMm9NMkNHUndMZVJOc01zNXE1QmtHTXJnM3NGTVdlSm5LMG1OdmNacVRsbnRSek1JbEZZc1JEZVpGUTk0amc?oc=5",
       "pubDate": "Fri, 31 Jul 2026 14:08:35 GMT",
       "thumbnail": null,
@@ -346,9 +346,29 @@
       }
     },
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "pubDate": "2026-08-01 07:52:10",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "pubDate": "2026-08-01 14:19:51",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "pubDate": "2026-08-01 12:34:25",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "link": "https://nostarch.com/art-64-bit-assembly-v2",
+      "pubDate": "2026-08-01 14:09:00",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,29 +386,9 @@
       }
     },
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "link": "https://microsoft.github.io/flint-chart/",
-      "pubDate": "2026-08-01 02:45:09",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "link": "https://github.com/yc-software/qm",
-      "pubDate": "2026-07-31 18:04:58",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "How to Exist",
-      "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "pubDate": "2026-08-01 00:25:00",
+      "title": "Linux on ESP32",
+      "link": "https://github.com/GrieferPig/esp32-s31-linux",
+      "pubDate": "2026-07-28 17:52:00",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -446,6 +446,16 @@
       }
     },
     {
+      "title": "Famed climber Nirmal Purja among 10 killed in avalanche",
+      "link": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-01T14:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "More women die in heatwaves, but biology &apos;isn&apos;t main cause&apos;",
       "link": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-01T11:04:00Z",
@@ -484,17 +494,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "How crypto miners are stealing power in Southeast Asia",
-      "link": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-01T09:04:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-01T12:47:12.667Z"
+  "lastUpdated": "2026-08-01T15:48:25.745Z"
 }
