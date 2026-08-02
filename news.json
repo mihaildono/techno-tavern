@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Почина актрисата Наталия Дончева",
+      "link": "https://offnews.bg/kultura/pochina-aktrisata-natalia-doncheva-871938.html",
+      "pubDate": "2026-08-02 19:02:56",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871938/phpwftaqm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5935
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Работилниците, фитнесът и доджото в изгорялата хижа Петрохан (видео)",
+      "link": "https://offnews.bg/razsledvane/rabotilnitcite-fitnesat-i-dodzhoto-v-izgorialata-hizha-petrohan-vide-871937.html",
+      "pubDate": "2026-08-02 17:54:10",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871937/phpsxvo0b_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8369
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Откриха тялото на легендарния алпинист Нирмал Пурджа",
       "link": "https://offnews.bg/sviat/otkriha-tialoto-na-legendarnia-alpinist-nirmal-purdzha-871935.html",
       "pubDate": "2026-08-02 15:05:06",
@@ -43,37 +71,19 @@
       }
     },
     {
-      "title": "Шест бронзови медала за най-добрите български ученици по лингвистика",
-      "link": "https://offnews.bg/obshtestvo/shest-bronzovi-medala-za-naj-dobrite-balgarski-uchenitci-po-lingvistik-871932.html",
-      "pubDate": "2026-08-02 12:01:14",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/02/871932/php4argxs_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8279
-      },
+      "title": "Резултати от търсене по \"ниско\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CTTcxU1pyOUJiU0VuaUZPLW9oUWxkU05uX05qdkJiSW9PcXNCWEg0azJ5SWVRTXFjV01fVlZDUER4RUx5dUF4dVJhbFBKNVB2QWdRSnRGQ2JaTGlCVDIzbzZlREh5RTBDOHZaM3dR?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 18:00:04 GMT",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Испанска фермерка по чудо откри трите си магаренца живи след пожарите (видео)",
-      "link": "https://offnews.bg/sviat/ispanska-fermerka-po-chudo-otkri-trite-si-magarentca-zhivi-sled-pozhar-871931.html",
-      "pubDate": "2026-08-02 11:14:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/02/871931/php8puj0q_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5815
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Резултати от търсене по \"1 август\" - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZGZyZ3k4b2FSZDRyVnVEZ0FfRS1uZXlFY3pxTmp5a0w5bkdSdWRRc2pmZ0E1QW85MUtSQzhGSmU0Z29Hb0ZsdkxGSmViVWUxZFFrRDIwY19sT0FSdXE0MW9Fc3NRZms5d2Z3NG9URGV6ZmlwYzdUbGlKMA?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 08:04:04 GMT",
+      "title": "Резултати от търсене по \"критични\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2lMNnNPTENndG1LUjVzbWtnc0MxQjFjWUlHTXFXYzlvVG5iMjVYcWd6QWJ5RUFHU3N6amtOQkJ5eDdINGVhT3BYaV9UTTE1SE5OLUpUT1IyNFVNWC1SMU4xaXpvQW5oYlc1S0kyZ1lKWWFBeHIxakQxMHNiS3pjcDNsYlpVUQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 16:29:41 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -91,29 +101,19 @@
       }
     },
     {
+      "title": "Резултати от търсене по \"1 август\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZGZyZ3k4b2FSZDRyVnVEZ0FfRS1uZXlFY3pxTmp5a0w5bkdSdWRRc2pmZ0E1QW85MUtSQzhGSmU0Z29Hb0ZsdkxGSmViVWUxZFFrRDIwY19sT0FSdXE0MW9Fc3NRZms5d2Z3NG9URGV6ZmlwYzdUbGlKMA?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 08:04:04 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "По-високи осигуровки, винетки, акцизи: какво влиза в сила от 1 август - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVZ6UWtfdDdWTVUtT1FPdzE1WGE4NTRrVHVhS0s2ZEZLanZ6VGtoQi1pd1lDdlhCSUdpTmtpQWVHNDItUFY4VXNOaFRaRXE5c1I0QzB2aU1qRGROTFR1bld2NkJrLVQyQjEydURZTi1nMDBxU0lCSmNaSVByblB6SkpoZlQ4WTI0QmdRRzAwaVVqTEl5LThXU3Q3Xy1XbEszbnVLVU5DSF83UQ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:04:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Външният министър увери Иран, че американските самолети не са заплаха - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHBLTmNvUS1wcXNEbDROWVNpVVplajczSEdUb3dfbDR3TzlybV9aMjBOSXQ5dUxCOXRDNm9jU1pObUhTNm5GNWVfRUwxNFhPNnFHODRqdVhMR2Foa0JQQzZ2S015NHZienFRVnBxR1lNYUNkTUFwRXVmWFRObUhncUFyNDQ0Z0w1aHAzbi10VmM5M3VTT1FZemRwWXpMTzF2TjBtY2l6VQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 13:58:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Ректорът на НАТФИЗ е получавал незаконно втора заплата, стотици хиляди са платени неясно за какво - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JZY2dvTXRDLVlkZVI5X2lqNW9iMW5mb0FKdXVjVHV1eU5EOGZraTVGTW5yTzJROTRfQUU2NEYtS29UM2tuNTU1U2ZKLUxKUnJPVTRjM2pfYTlObmtVZ3hObnFGX0RQQ0lYaTFjbldiT2FjdGM1WEVDeHFfM25rS3NNTUJINDVXU0pUTkVZNld2MGFBYTMtTWdlTmsxRFg2ZFZBNA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 03:05:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Взривеният в Москва ресторант с руски генерали: Мълчание за убитите, те се увеличиха (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/vzrivenijat-v-moskva-restorant-s-ruski-generali-mylchanie-za-ubitite-te-se-uvelichiha-video-news_2624520.html",
-      "pubDate": "2026-08-02 15:48:00",
+      "title": "Законопроектът \"Греъм\" за санкции срещу Русия е блокиран в сената: Каква е причината?",
+      "link": "https://www.actualno.com/america/zakonoproektyt-greym-za-sankcii-sreshtu-rusija-e-blokiran-v-senata-kakva-e-prichinata-news_2624561.html",
+      "pubDate": "2026-08-02 21:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/830ece66f77d46e62469ff57da65e9a4_2624520_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/3102e42772a58bcd4fdd67f67717042e_2624561_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "\"Той може да спечели над 20 титли от Големия шлем\": Легендарен треньор със смела прогноза за бъдещето",
-      "link": "https://www.actualno.com/tennis/toj-moje-da-specheli-nad-20-titli-ot-golemija-shlem-legendaren-trenior-sys-smela-prognoza-za-bydeshteto-news_2624517.html",
-      "pubDate": "2026-08-02 15:42:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 03.08.26 - Много въпросителни след взрива в ресторант в Москва",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-030826-mnogo-vyprositelni-sled-vzriva-v-restorant-v-moskva-news_2624559.html",
+      "pubDate": "2026-08-02 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/0a69aed21f5e643ebf0b2cf758fe637d_2624517_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/68115a05554b237a92e918ed99e4e66e_2624559_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Има ли проблем с работата на АЕЦ \"Козлодуй\" заради ниските нива на Дунав?",
-      "link": "https://www.actualno.com/economy/ima-li-problem-s-rabotata-na-aec-kozloduj-zaradi-niskite-niva-na-dunav-news_2624514.html",
-      "pubDate": "2026-08-02 15:30:00",
+      "title": "Пълно класиране в Първа лига 2026/27 - Лудогорец догони Левски на върха",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-ludogorec-dogoni-levski-na-vyrha-news_2618889.html",
+      "pubDate": "2026-08-02 20:41:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/42421483e31f7e35a0b52f6a1678139c_2624514_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Шокиращо! Инфантино получи подкрепа от Аржентина, Бразилия и останалата част от Южна Америка",
-      "link": "https://www.actualno.com/football/shokirashto-infantino-poluchi-podkrepa-ot-arjentina-brazilija-i-ostanalata-chast-ot-ujna-amerika-news_2624510.html",
-      "pubDate": "2026-08-02 15:14:00",
+      "title": "Христо Янев оправда представянето на ЦСКА с емоционалната умора от европейските вечери",
+      "link": "https://www.actualno.com/bgfootball/hristo-janev-opravda-predstavjaneto-na-cska-s-emocionalnata-umora-ot-evropejskite-vecheri-news_2624566.html",
+      "pubDate": "2026-08-02 20:39:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/ae5540208bb1019199609cee0399d5f6_2624510_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/ac0f59e5e9aa1bbdbddfcf25bf66a08a_2624566_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,16 +333,26 @@
       }
     },
     {
-      "title": "Лудогорец е напът да предприеме неочакван ход на трансферния пазар",
-      "link": "https://www.actualno.com/bgfootball/ludogorec-e-napyt-da-predprieme-neochakvan-hod-na-transfernija-pazar-news_2624506.html",
-      "pubDate": "2026-08-02 14:52:00",
+      "title": "Пълна програма на Първа лига 2026/27 - има дати и часове до петия кръг!",
+      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-ima-dati-i-chasove-do-petija-kryg-news_2618909.html",
+      "pubDate": "2026-08-02 20:18:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/24a927344dd49190ee5b9280c138f89a_2624506_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Karpathy’s Pelican",
+      "link": "https://twitter.com/karpathy/status/2083749667410727319",
+      "pubDate": "2026-08-02 04:05:56",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -356,9 +366,9 @@
       }
     },
     {
-      "title": "How the words we teach English language learners changed",
-      "link": "https://pudding.cool/2026/07/essential-words/",
-      "pubDate": "2026-08-02 15:41:08",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "link": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "pubDate": "2026-07-28 14:21:10",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,19 +376,9 @@
       }
     },
     {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "pubDate": "2026-08-02 16:19:17",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "pubDate": "2026-08-02 12:36:07",
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "link": "https://frogs.vaguespac.es/",
+      "pubDate": "2026-08-02 19:42:08",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,53 +396,73 @@
       }
     },
     {
-      "title": "АЕЦ „Козлодуй“ работи по график при рекордно ниските нива на река Дунав",
-      "link": "https://frognews.bg/novini/aets-kozlodui-raboti-grafik-pri-rekordno-niskite-niva-reka-dunav.html",
-      "pubDate": "2026-08-02 15:30:00",
-      "thumbnail": null,
+      "title": "Абонатите на ТЕЦ „София“ остават без топла вода до 10 август",
+      "link": "https://frognews.bg/novini/abonatite-tets-sofiia-ostavat-bez-topla-voda-10-avgust.html",
+      "pubDate": "2026-08-02 17:50:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b5e425d31_1785692764_6a6f825c9a13b.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Два хеликоптера се сблъскаха в Гърция, докато гасиха пожар",
-      "link": "https://frognews.bg/novini/dva-helikoptera-sblaskaha-gartsiia-dokato-gasiha-pojar.html",
-      "pubDate": "2026-08-02 15:15:00",
-      "thumbnail": null,
+      "title": "Земята не е кръгла: НАСА показа как наистина изглежда нашата планета от космоса",
+      "link": "https://frognews.bg/novini/zemyata-kragla-nasa-pokaza-kak-naistina-izglezhda-nashata-planeta-kosmosa.html",
+      "pubDate": "2026-08-02 17:05:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/a1bbb9d90_1785689112_6a6f741892956.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Нов кошмар във Франция, 30 000 затворени в домовете си",
-      "link": "https://frognews.bg/novini/nov-koshmar-vav-frantsiia-30-000-zatvoreni-domovete-2026-08-02.html",
-      "pubDate": "2026-08-02 14:30:00",
-      "thumbnail": null,
+      "title": "Японците представиха революционен самолет: Харчи по-малко гориво",
+      "link": "https://frognews.bg/novini/iapontsite-predstaviha-revoliutsionen-samolet-harchi-malko-gorivo.html",
+      "pubDate": "2026-08-02 16:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/cb3c378be_1785657949_6a6efa5d4b438.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Алекс Николов е нападател №1 в Лигата на нациите",
-      "link": "https://frognews.bg/novini/aleks-nikolov-napadatel-1-ligata-natsiite.html",
-      "pubDate": "2026-08-02 14:25:00",
-      "thumbnail": null,
+      "title": "Освиркаха Митрофанова в храма \"Св. Неделя\", патриарх Даниил прекъсна литургията",
+      "link": "https://frognews.bg/novini/osvirkaha-mitrofanova-hrama-nedelia-patriarh-daniil-prekasna-liturgiiata.html",
+      "pubDate": "2026-08-02 16:15:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/f235d777c_1785687092_6a6f6c34d2044.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Ръст на сигналите за условията по договорите с мобилните оператори",
-      "link": "https://frognews.bg/novini/rast-signalite-usloviiata-dogovorite-mobilnite-operatori.html",
-      "pubDate": "2026-08-02 14:00:00",
-      "thumbnail": null,
+      "title": "Джип блъсна зрител на офроуд състезание, трамвай дерайлира, пожар край АМ \"Тракия\"",
+      "link": "https://frognews.bg/novini/djip-blasna-zritel-ofroud-sastezanie-tramvai-derailira-pojar-krai-trakiia.html",
+      "pubDate": "2026-08-02 16:05:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/bd6bc7f95_1785686249_6a6f68e900a81.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
+      "link": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T19:20:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -466,7 +486,7 @@
       }
     },
     {
-      "title": "Greece: fire brigade helicopters collide as wildfires spread",
+      "title": "Greece: Fire brigade helicopters collide as wildfires spread",
       "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-02T15:26:00Z",
       "thumbnail": null,
@@ -484,17 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany news: DB hampered by &apos;organized irresponsibility&apos;",
-      "link": "https://www.dw.com/en/germany-news-db-hampered-by-organized-irresponsibility/live-78199317?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-02T12:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-02T18:46:38.374Z"
+  "lastUpdated": "2026-08-02T21:41:02.814Z"
 }
