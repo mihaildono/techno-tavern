@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Турската полиция задържа бивш пилот заради участието му в преврата срещу Ердоган през 2016 г.",
+      "link": "https://offnews.bg/sviat/turskata-politcia-zadarzha-bivsh-pilot-zaradi-uchastieto-mu-v-prevrata-871918.html",
+      "pubDate": "2026-08-02 05:37:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871918/phpoaqn0t_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6560
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Иран: Ще посрещнем пропорционално на всяка агресия от САЩ, Израел и държавите от региона",
+      "link": "https://offnews.bg/sviat/iran-shte-posreshtnem-proportcionalno-na-vsiaka-agresia-ot-sasht-izr-871917.html",
+      "pubDate": "2026-08-02 04:50:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871917/phpv20bcp_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5132
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Жега: Слънце и максимални температури до 37°",
+      "link": "https://offnews.bg/obshtestvo/zhega-slantce-i-maksimalni-temperaturi-do-37-871916.html",
+      "pubDate": "2026-08-01 23:23:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871916/phpfrfrk9_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3180
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "СЗО: Епидемията от ебола в Конго не може да бъде овладяна",
       "link": "https://offnews.bg/sviat/szo-epidemiata-ot-ebola-v-kongo-ne-mozhe-da-bade-ovladiana-871915.html",
       "pubDate": "2026-08-01 17:57:18",
@@ -29,49 +71,7 @@
       }
     },
     {
-      "title": "Испания строи 500-метрова плаваща преграда по морската граница между Сеута и Мароко",
-      "link": "https://offnews.bg/sviat/ispania-stroi-500-metrova-plavashta-pregrada-po-morskata-granitca-mezh-871913.html",
-      "pubDate": "2026-08-01 17:28:10",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/01/871913/php2mua7s_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7008
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Двама 18-годишни са в тежко състояние след челен сблъсък с мотори",
-      "link": "https://offnews.bg/112/dvama-18-godishni-sa-v-tezhko-sastoianie-sled-chelen-sblasak-s-motori-871911.html",
-      "pubDate": "2026-08-01 17:07:48",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/01/871911/php12dkfb_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8380
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Пожар в близост до сгради в Стара Загора беше локализиран",
-      "link": "https://offnews.bg/112/pozhar-v-blizost-do-sgradi-v-stara-zagora-beshe-lokaliziran-871910.html",
-      "pubDate": "2026-08-01 17:01:33",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/01/871910/phplmavhr_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 10218
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Резултати от търсене по \"1 август\" - dnevnik.bg",
+      "title": "Резултати от търсене по \"1 август\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZGZyZ3k4b2FSZDRyVnVEZ0FfRS1uZXlFY3pxTmp5a0w5bkdSdWRRc2pmZ0E1QW85MUtSQzhGSmU0Z29Hb0ZsdkxGSmViVWUxZFFrRDIwY19sT0FSdXE0MW9Fc3NRZms5d2Z3NG9URGV6ZmlwYzdUbGlKMA?oc=5",
       "pubDate": "Sat, 01 Aug 2026 08:04:04 GMT",
       "thumbnail": null,
@@ -81,7 +81,7 @@
       }
     },
     {
-      "title": "По-високи осигуровки, винетки, акцизи: какво влиза в сила от 1 август - dnevnik.bg",
+      "title": "По-високи осигуровки, винетки, акцизи: какво влиза в сила от 1 август - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVZ6UWtfdDdWTVUtT1FPdzE1WGE4NTRrVHVhS0s2ZEZLanZ6VGtoQi1pd1lDdlhCSUdpTmtpQWVHNDItUFY4VXNOaFRaRXE5c1I0QzB2aU1qRGROTFR1bld2NkJrLVQyQjEydURZTi1nMDBxU0lCSmNaSVByblB6SkpoZlQ4WTI0QmdRRzAwaVVqTEl5LThXU3Q3Xy1XbEszbnVLVU5DSF83UQ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:04:00 GMT",
       "thumbnail": null,
@@ -91,7 +91,7 @@
       }
     },
     {
-      "title": "Ректорът на НАТФИЗ е получавал незаконно втора заплата, стотици хиляди са платени неясно за какво - dnevnik.bg",
+      "title": "Ректорът на НАТФИЗ е получавал незаконно втора заплата, стотици хиляди са платени неясно за какво - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JZY2dvTXRDLVlkZVI5X2lqNW9iMW5mb0FKdXVjVHV1eU5EOGZraTVGTW5yTzJROTRfQUU2NEYtS29UM2tuNTU1U2ZKLUxKUnJPVTRjM2pfYTlObmtVZ3hObnFGX0RQQ0lYaTFjbldiT2FjdGM1WEVDeHFfM25rS3NNTUJINDVXU0pUTkVZNld2MGFBYTMtTWdlTmsxRFg2ZFZBNA?oc=5",
       "pubDate": "Thu, 30 Jul 2026 03:05:00 GMT",
       "thumbnail": null,
@@ -101,7 +101,7 @@
       }
     },
     {
-      "title": "Външният министър увери Иран, че американските самолети не са заплаха - dnevnik.bg",
+      "title": "Външният министър увери Иран, че американските самолети не са заплаха - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHBLTmNvUS1wcXNEbDROWVNpVVplajczSEdUb3dfbDR3TzlybV9aMjBOSXQ5dUxCOXRDNm9jU1pObUhTNm5GNWVfRUwxNFhPNnFHODRqdVhMR2Foa0JQQzZ2S015NHZienFRVnBxR1lNYUNkTUFwRXVmWFRObUhncUFyNDQ0Z0w1aHAzbi10VmM5M3VTT1FZemRwWXpMTzF2TjBtY2l6VQ?oc=5",
       "pubDate": "Thu, 30 Jul 2026 13:58:00 GMT",
       "thumbnail": null,
@@ -111,9 +111,9 @@
       }
     },
     {
-      "title": "Президентските избори ще бъдат на 25 октомври - dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUNVcGhwWjQ1aUx0bUp4b1pIbkIzTkpBZnZsVGloVFhlc1Z2ejY5ZHRPTElsazVlUjljRV9IOWZ6ZTN0djVSRUZEeXlPa21ILS12U1N2Zm1nRWNobE5HaFB6SDFwVk5nRWZ2am9paFBiSlpXTlE2Y0N0N1BOVEtZTG1USnNRVjlpLWJpNTNPLXkxTnJnMEFrYU54NXFZT3Q4ZlphVXFn?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 09:01:00 GMT",
+      "title": "Десетки плавателни съдове изчакват на различни места в българския участък на Дунав - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2JjNlB1VTFZS0hFdzlydEtUbDFyN2s0WjRCc3Joc1NvLXl4ZmU5RWM5U1dvTzBXTnBZMmdURTBDeGxTTDc2dUNLNF9LVWlGcXlhcGJXRy1rN1lFaWdWbFR6amx2Y1dBdENaLU9RUFpzZVZwdzl0ZkZuUXFHaUJmbWNZRGs3SG9HVVhud1daTmlVOVpkSThhWHRRY2VwTElidHd3LXI3U0hyM1pkaTZj?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 11:50:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -171,6 +171,30 @@
       }
     },
     {
+      "title": "Тръмп обяви, че САЩ и Израел спират планираните срещу Иран удари",
+      "link": "https://www.mediapool.bg/tramp-obyavi-che-sasht-i-izrael-spirat-planiranite-sreshtu-iran-udari-news386115.html",
+      "pubDate": "2026-08-02 05:26:10",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_c3857cacdda71d91b95183188d591aef.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Днес ще бъде опасно горещо",
+      "link": "https://www.mediapool.bg/dnes-shte-bade-opasno-goreshto-news386114.html",
+      "pubDate": "2026-08-02 05:05:58",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_0cf076755922a6894a0ccaa4e8a70344.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Трима загинали и 15 ранени при взрив в ресторант в Москва",
       "link": "https://www.mediapool.bg/trima-zaginali-i-15-raneni-pri-vzriv-v-restorant-v-moskva-news386113.html",
       "pubDate": "2026-08-01 21:02:25",
@@ -200,30 +224,6 @@
       "pubDate": "2026-08-01 17:31:01",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/386/medium_e483c14d28c81290045158026df41e3b.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "България с историческо първо класиране на Европейско първенство по бейзбол",
-      "link": "https://www.mediapool.bg/bulgaria-s-istorichesko-parvo-klasirane-na-evropeisko-parvenstvo-po-beizbol-news386110.html",
-      "pubDate": "2026-08-01 16:34:56",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_f037cb42c693ea52f9382aa31c17cd3b.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Испания твърди, че е овлядяла мигрантската криза. Съветът на ЕС заседава извънредно във вторник (обновена)",
-      "link": "https://www.mediapool.bg/ispaniya-tvardi-che-e-ovlyadyala-migrantskata-kriza-savetat-na-es-zasedava-izvanredno-vav-vtornik-obnovena-news386098.html",
-      "pubDate": "2026-08-01 16:15:00",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_fbd123e372f7f8d6547fe17e1a18df5d.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -271,9 +271,9 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на 789winbsnet - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SMFUtekxoNzFIQk1mM0JtZjRVVjJicHNjbVhXbmRRelVvZ3JHV0JOTFhGTmNWTXk5NTE3ZnhwZi1CeDFNSHJhUnU3U05KUlky?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 18:45:35 GMT",
+      "title": "Ударът на Украйна в Каспийско море въвлича Иран в нов фронт - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmI5WlEtVjZIc1gzcjE0R0IxNllDQ25oVXBwd2xObWNWQllfc1ByTkZuYlpZR0ZsWThuVzZCWFJubHc2Rm40U2lTVVhDdXZka2NPUnZMWE95Vy13TEU2S0R0M3NoNHZCbWpja3VJaWk2dWcxZTNUaGludlpPMDNyODJDRWY0ZkJQM0Y1dnF2Q2l4OV9VbTd6QmxwckVMLTdYLTZ0MnZEQ0ZFWlVnM1lQNjNRS0JCRXJTMmFURlkxRHRLdw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 11:49:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Пълно класиране в Първа лига 2026/27 - Левски остава непобеден на върха!",
-      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-levski-ostava-nepobeden-na-vyrha-news_2618889.html",
-      "pubDate": "2026-08-01 20:17:00",
+      "title": "Илинден - вечната борба в нас и с нас",
+      "link": "https://www.actualno.com/actualno/ilinden-vechnata-borba-v-nas-i-s-nas-news_2623968.html",
+      "pubDate": "2026-08-02 05:38:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/8b4475ac6a0cc813881d1f07c87afe18_2623968_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Пълна програма на Първа лига 2026/27 - има дати и часове до петия кръг!",
-      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-ima-dati-i-chasove-do-petija-kryg-news_2618909.html",
-      "pubDate": "2026-08-01 20:13:00",
+      "title": "Борим се за първото място по купуване на антибиотици: Ако не ни ги продадат у нас, си ги снабдяваме от Гърция и Турция",
+      "link": "https://www.actualno.com/healthy/borim-se-za-pyrvoto-mjasto-po-kupuvane-na-antibiotici-ako-ne-ni-gi-prodadat-u-nas-si-gi-snabdjavame-ot-gyrcija-i-turcija-news_2624400.html",
+      "pubDate": "2026-08-02 05:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/b52b7291e405478b04e8c84091df6631_2624400_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Пълни резултати на всички мачове в Първа лига през сезон 2026/27",
-      "link": "https://www.actualno.com/bgfootball/pylni-rezultati-na-vsichki-machove-v-pyrva-liga-prez-sezon-202627-news_2618915.html",
-      "pubDate": "2026-08-01 20:12:00",
+      "title": "Тръмп отново се отметна и отказа да даде \"Пейтриът\" на Зеленски",
+      "link": "https://www.actualno.com/america/trymp-otnovo-se-otmetna-i-otkaza-da-dade-pejtriyt-na-zelenski-news_2624397.html",
+      "pubDate": "2026-08-02 05:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/8159753255a97500e8279b9aee30eb50_2618915_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/4a7997d2602a3d1fb85972ddc3e7981e_2624397_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Ботев Пловдив изстрада първия си успех за сезона! Юноша на Левски донесе радост на \"Колежа\"",
-      "link": "https://www.actualno.com/bgfootball/botev-plovdiv-izstrada-pyrvija-si-uspeh-za-sezona-unosha-na-levski-donese-radost-na-koleja-news_2624377.html",
-      "pubDate": "2026-08-01 20:09:00",
+      "title": "Почивката не започва на плажа, а когато караваната стане ваша",
+      "link": "https://www.actualno.com/society/pochivkata-ne-zapochva-na-plaja-a-kogato-karavanata-stane-vasha-news_2623873.html",
+      "pubDate": "2026-08-02 05:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/01/3aafd952ff7f0e111cf23b21a2fa19a7_2624377_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/31/f560d67ea302fd5751381b1685b941c8_2623873_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Триумфално завръщане на футбола на \"Лазур\"! Празник в Бургас след дербито на Втора лига",
-      "link": "https://www.actualno.com/bgfootball/triumfalno-zavryshtane-na-futbola-na-lazur-praznik-v-burgas-sled-derbito-na-vtora-liga-news_2624373.html",
-      "pubDate": "2026-08-01 19:46:00",
+      "title": "Тръмп обясни защо е отменил атаките срещу Иран, видял е прогрес за споразумение",
+      "link": "https://www.actualno.com/america/trymp-objasni-zashto-e-otmenil-atakite-sreshtu-iran-vidjal-e-progres-za-sporazumenie-news_2624396.html",
+      "pubDate": "2026-08-02 04:57:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/01/bbee589d4f203851d5491004cb4493c4_2624373_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/a9625c95dd75ce134cb2d5f7823f2683_2624396_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -346,9 +346,29 @@
       }
     },
     {
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "pubDate": "2026-08-01 22:25:12",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "pubDate": "2026-08-02 04:21:14",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "pubDate": "2026-08-02 01:35:51",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "pubDate": "2026-08-02 03:12:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,23 +396,27 @@
       }
     },
     {
-      "title": "Unraveling the mysteries of habit formation",
-      "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "pubDate": "2026-08-01 22:55:52",
-      "thumbnail": null,
+      "title": "Тринадесет са загинали при катастрофа с туристически самолет в Перу",
+      "link": "https://frognews.bg/novini/trinadeset-zaginali-pri-katastrofa-turisticheski-samolet-peru.html",
+      "pubDate": "2026-08-02 05:43:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/e86fd3147_1785645968_6a6ecb901f106.webp"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
-      "title": "A stray commit buried multiple levels deep cost me months",
-      "link": "https://www.droppedasbaby.com/posts/db-commits/",
-      "pubDate": "2026-08-01 23:19:23",
-      "thumbnail": null,
+      "title": "Цигарите поскъпнаха, но в магазините ще се продават на бандеролната им цена",
+      "link": "https://frognews.bg/novini/tsigarite-poskapnaha-magazinite-shte-prodavat-banderolnata-tsena.html",
+      "pubDate": "2026-08-02 04:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/798429d97_1785609407_6a6e3cbf2e837.webp"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -432,27 +456,33 @@
       }
     },
     {
-      "title": "Глад и враждебност – защо мигрантите се връщат в Мароко от Сеута",
-      "link": "https://frognews.bg/novini/glad-vrajdebnost--zashto-migrantite-vrashtat-maroko-seuta.html",
-      "pubDate": "2026-08-01 16:50:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/8ec532d9c_1785603033_6a6e23d9e5a00.webp"
-      },
+      "title": "No new Iran strikes for now amid deal hopes — Trump",
+      "link": "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T05:16:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Майстори на ужаса: Стивън Кинг ще си партнира със Сам Рейми за нов филм по „Град Отчаяние“",
-      "link": "https://frognews.bg/novini/maistori-ujasa-stivan-king-shte-partnira-sas-sam-reimi-nov-film-grad-otchaianie.html",
-      "pubDate": "2026-08-01 15:23:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/16a75b8fc_1785597824_6a6e0f80a5952.webp"
-      },
+      "title": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
+      "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T03:51:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T02:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -466,39 +496,9 @@
       }
     },
     {
-      "title": "13 dead after small tourist plane crashes in Peru",
-      "link": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-top-1022-rdf",
+      "title": "13 killed in tourist plane crash in Peru",
+      "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-01T20:36:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "How does eastern Europe commemorate the Roma Holocaust?",
-      "link": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-01T20:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Big turnout for Pride after Berlin attack",
-      "link": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-01T19:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany&apos;s long road to equality for same-sex couples",
-      "link": "https://www.dw.com/en/germany-s-long-road-to-equality-for-same-sex-couples/a-78193914?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-01T16:21:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -506,5 +506,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-02T01:22:16.593Z"
+  "lastUpdated": "2026-08-02T05:44:19.786Z"
 }
