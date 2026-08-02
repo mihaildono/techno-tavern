@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Откриха тялото на легендарния алпинист Нирмал Пурджа",
+      "link": "https://offnews.bg/sviat/otkriha-tialoto-na-legendarnia-alpinist-nirmal-purdzha-871935.html",
+      "pubDate": "2026-08-02 15:05:06",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871935/phpxgmh28_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8288
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Патриархът прекъсна литургия, защото вярващите освиркват Митрофанова в храма",
+      "link": "https://offnews.bg/obshtestvo/patriarhat-prekasna-liturgia-zashtoto-viarvashtite-osvirkvat-mitrofan-871934.html",
+      "pubDate": "2026-08-02 14:23:57",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871934/phpp9lg10_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8230
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "OFAC установи, че Божков е плащал подкуп на Борисов, пише в документ на американската служба",
+      "link": "https://offnews.bg/temida/ofac-ustanovi-che-bozhkov-e-plashtal-podkup-na-borisov-pishe-v-dokum-871933.html",
+      "pubDate": "2026-08-02 13:42:38",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/02/871933/phpm7euoj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8755
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Шест бронзови медала за най-добрите български ученици по лингвистика",
       "link": "https://offnews.bg/obshtestvo/shest-bronzovi-medala-za-naj-dobrite-balgarski-uchenitci-po-lingvistik-871932.html",
       "pubDate": "2026-08-02 12:01:14",
@@ -22,48 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/08/02/871931/php8puj0q_559x345.jpg",
         "type": "image/jpeg",
         "length": 5815
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Безпрецедентно: Унгария спира АЕЦ ''Пакш'' заради ниското ниво на Дунав",
-      "link": "https://offnews.bg/sviat/bezpretcedentno-ungaria-spira-aetc-paksh-zaradi-niskoto-nivo-na-d-871930.html",
-      "pubDate": "2026-08-02 10:51:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/02/871930/phpmafwg3_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5937
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "2 в 1: Украйна порази петролна рафинерия и военновъздушната база ''Енгелс'' в Саратовска област",
-      "link": "https://offnews.bg/sviat/2-v-1-ukrajna-porazi-petrolna-rafineria-i-voennovazdushnata-baza-en-871929.html",
-      "pubDate": "2026-08-02 10:36:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/02/871929/phpodozwf_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 9285
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Нивото на Дунав край България продължава да спада",
-      "link": "https://offnews.bg/obshtestvo/nivoto-na-dunav-kraj-balgaria-prodalzhava-da-spada-871928.html",
-      "pubDate": "2026-08-02 10:11:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/02/871928/phptoeb4p_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7842
       },
       "source": {
         "name": "OffNews",
@@ -121,6 +121,26 @@
       }
     },
     {
+      "title": "Склад на руската Wildberries пак горя. Москва отговори с удари по най-големия онлайн търговец в Украйна",
+      "link": "https://svobodnatochka.bg/novini/wildberries-ataki-rusija-ukrajna/",
+      "pubDate": "2026-08-02 13:22:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Служба на САЩ пише, че Борисов е получавал подкупи от Божков. Борисов нарече това „лъжа“",
+      "link": "https://svobodnatochka.bg/novini/a-2/",
+      "pubDate": "2026-08-02 11:21:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Заседнали кораби в България, спрян АЕЦ в Унгария. Какви са последиците от ниското ниво на Дунава",
       "link": "https://svobodnatochka.bg/novini/kakvi-sa-poslediczite-ot-niskoto-nivo-na-dunava/",
       "pubDate": "2026-08-02 10:03:57",
@@ -151,23 +171,51 @@
       }
     },
     {
-      "title": "„Трудно нещо за споделяне“. Тръмп направи крачка назад от обещанието пред Украйна за лиценз за ракети за „Пейтриът“",
-      "link": "https://svobodnatochka.bg/novini/trump-obeshtanie-ukrajna-raketi-za-pejtriut/",
-      "pubDate": "2026-08-01 08:54:55",
-      "thumbnail": null,
+      "title": "Патриархът прекъснал литургия заради освирквания срещу Митрофанова?",
+      "link": "https://www.mediapool.bg/patriarhat-prekasnal-liturgiya-zaradi-osvirkvaniya-sreshtu-mitrofanova-news386124.html",
+      "pubDate": "2026-08-02 15:19:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_358411d427c72c582a103a7e08a3d95f.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
-      "title": "Голямата картина: Как се засякоха двете войни и кой иска да бъде президент",
-      "link": "https://svobodnatochka.bg/golyamata-kartina/golyamata-kartina-vojnite-se-slivat-i-koj-iska-da-stane-prezident/",
-      "pubDate": "2026-08-01 07:00:00",
-      "thumbnail": null,
+      "title": "Украйна атакува няколко стратегически обекта на руска територия",
+      "link": "https://www.mediapool.bg/ukraina-atakuva-nyakolko-strategicheski-obekta-na-ruska-teritoriya-news386123.html",
+      "pubDate": "2026-08-02 14:51:30",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_b507dff2f6ff4f27463d2eb37dd206d4.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Загубите на руската армия през юли с рекордни стойности за цялата война",
+      "link": "https://www.mediapool.bg/zagubite-na-ruskata-armiya-prez-yuli-s-rekordni-stoinosti-za-tsyalata-voina-news386122.html",
+      "pubDate": "2026-08-02 14:31:23",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_f9ff4dd314e120146d852a3ad37f5526.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "България може да ползва пет хеликоптера за гасене на пожари",
+      "link": "https://www.mediapool.bg/bulgaria-mozhe-da-polzva-pet-helikoptera-za-gasene-na-pozhari-news386121.html",
+      "pubDate": "2026-08-02 13:36:52",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_b4641dd3bb14a7902d14219b62b4bf6d.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -176,54 +224,6 @@
       "pubDate": "2026-08-02 12:01:41",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/386/medium_8d05cb6424e22b09f65ce9a9ef27fe82.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Борисов: Единственият проблем с \"Райнметал\" е, че не можеш да вземеш подкуп. И затова няма да има завод",
-      "link": "https://www.mediapool.bg/borisov-edinstveniyat-problem-s-rainmetal-e-che-ne-mozhesh-da-vzemesh-podkup-i-zatova-nyama-da-ima-zavod-news386119.html",
-      "pubDate": "2026-08-02 10:41:01",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_857f5939675d8a80a2137318621f21e5.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "За първи път от 44 години: Унгария спира АЕЦ \"Пакш\"",
-      "link": "https://www.mediapool.bg/za-parvi-pat-ot-44-godini-ungariya-spira-aets-paksh-news386118.html",
-      "pubDate": "2026-08-02 09:40:25",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_7698dd383ac2de3766254492134ad3b1.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Bird.bg: Американска служба потвърди, че Божков е давал подкупи на Борисов",
-      "link": "https://www.mediapool.bg/birdbg-amerikanska-sluzhba-potvardi-che-bozhkov-e-daval-podkupi-na-borisov-news386117.html",
-      "pubDate": "2026-08-02 08:08:08",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_2615662f6800e2b2b8cb4a95355e95f1.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Любов без срок на годност",
-      "link": "https://www.mediapool.bg/lyubov-bez-srok-na-godnost-news386042.html",
-      "pubDate": "2026-08-02 06:18:33",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_f35b03084437ed4f5433c464379e91e5.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -251,7 +251,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на fwf17854945771637529 - knetwork.capital.bg",
+      "title": "id.capital.bg | Публичен профил на fwf17854945771637529 - Капитал",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BQm9OLTI4bnRicFdTMkxfREdmS05ZWElaYnNTUzFLM2NfUWpHdkZJT1VMbllEUlo2REQyN3VxcmdRYjNUV1ZaZU42VExPUVZaZExSZVBWbGdSRlpr?oc=5",
       "pubDate": "Sat, 01 Aug 2026 20:07:09 GMT",
       "thumbnail": null,
@@ -271,7 +271,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на 789club101com - knetwork.capital.bg",
+      "title": "id.capital.bg | Публичен профил на 789club101com - Капитал",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CdkZSTHpVU29pa0l2ckEydHBDeFpjZXlUUmVsbnhvR1N6cm5sWkk5X1FlUmNrUTZKTjJxQmtFMjR3RUN5MElWMHBrT2hYUnVGaWV3?oc=5",
       "pubDate": "Sat, 01 Aug 2026 06:45:21 GMT",
       "thumbnail": null,
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "Турция отваря ГКПП \"Къркларели Дерекьой - Малко Търново\" за преминаване на леки товарни автомобили до 3,5 тона",
-      "link": "https://www.actualno.com/society/turcija-otvarja-gkpp-kyrklareli-derekioj-malko-tyrnovo-za-preminavane-na-leki-tovarni-avtomobili-do-35-tona-news_2624475.html",
-      "pubDate": "2026-08-02 11:50:00",
+      "title": "Взривеният в Москва ресторант с руски генерали: Мълчание за убитите, те се увеличиха (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/vzrivenijat-v-moskva-restorant-s-ruski-generali-mylchanie-za-ubitite-te-se-uvelichiha-video-news_2624520.html",
+      "pubDate": "2026-08-02 15:48:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/3892a6e732d2b88f4953f7059811c818_2624475_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/830ece66f77d46e62469ff57da65e9a4_2624520_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Църковният диригент Елеонора Христова: Ръкомохането не е дирижиране. Църква означава събрание, събиране на хора",
-      "link": "https://www.actualno.com/interview/cyrkovnijat-dirigent-eleonora-hristova-rykomohaneto-ne-e-dirijirane-cyrkva-oznachava-sybranie-sybirane-na-hora-news_2624472.html",
-      "pubDate": "2026-08-02 11:48:00",
+      "title": "\"Той може да спечели над 20 титли от Големия шлем\": Легендарен треньор със смела прогноза за бъдещето",
+      "link": "https://www.actualno.com/tennis/toj-moje-da-specheli-nad-20-titli-ot-golemija-shlem-legendaren-trenior-sys-smela-prognoza-za-bydeshteto-news_2624517.html",
+      "pubDate": "2026-08-02 15:42:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/8edd2225d744b6501b1677025b3f0b97_2624472_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/0a69aed21f5e643ebf0b2cf758fe637d_2624517_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Геолози откриха доказателства за най-дългата епоха на пожари в историята на Земята",
-      "link": "https://www.actualno.com/interest/geolozi-otkriha-dokazatelstva-za-naj-dylgata-epoha-na-pojari-v-istorijata-na-zemjata-news_2624471.html",
-      "pubDate": "2026-08-02 11:46:00",
+      "title": "Има ли проблем с работата на АЕЦ \"Козлодуй\" заради ниските нива на Дунав?",
+      "link": "https://www.actualno.com/economy/ima-li-problem-s-rabotata-na-aec-kozloduj-zaradi-niskite-niva-na-dunav-news_2624514.html",
+      "pubDate": "2026-08-02 15:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/dd1260b4ed12052ad355c1b8d638259a_2624471_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/42421483e31f7e35a0b52f6a1678139c_2624514_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Магическа версия на България: \"Слънцеломи\" на Вида Делчева излиза и като аудиокнига, след като грабна европейска награда",
-      "link": "https://www.actualno.com/books/magicheska-versija-na-bylgarija-slyncelomi-na-vida-delcheva-izliza-i-kato-audiokniga-sled-kato-grabna-evropejska-nagrada-news_2624457.html",
-      "pubDate": "2026-08-02 11:24:00",
+      "title": "Шокиращо! Инфантино получи подкрепа от Аржентина, Бразилия и останалата част от Южна Америка",
+      "link": "https://www.actualno.com/football/shokirashto-infantino-poluchi-podkrepa-ot-arjentina-brazilija-i-ostanalata-chast-ot-ujna-amerika-news_2624510.html",
+      "pubDate": "2026-08-02 15:14:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/83a5a39b59d9424a0973a2cc8c60c8d7_2624457_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/ae5540208bb1019199609cee0399d5f6_2624510_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "НАСА: Потенциално опасен гигантски астероид ще прелети край Земята",
-      "link": "https://www.actualno.com/cosmos/nasa-potencialno-opasen-gigantski-asteroid-shte-preleti-kraj-zemjata-news_2624469.html",
-      "pubDate": "2026-08-02 11:19:00",
+      "title": "Лудогорец е напът да предприеме неочакван ход на трансферния пазар",
+      "link": "https://www.actualno.com/bgfootball/ludogorec-e-napyt-da-predprieme-neochakvan-hod-na-transfernija-pazar-news_2624506.html",
+      "pubDate": "2026-08-02 14:52:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/d5f20c1a852c7e159fd4a93a2e6f6afe_2624469_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/02/24a927344dd49190ee5b9280c138f89a_2624506_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -346,9 +346,29 @@
       }
     },
     {
-      "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
-      "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "pubDate": "2026-08-02 14:51:18",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "pubDate": "2026-08-02 16:26:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "How the words we teach English language learners changed",
+      "link": "https://pudding.cool/2026/07/essential-words/",
+      "pubDate": "2026-08-02 15:41:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "pubDate": "2026-08-02 16:19:17",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +386,9 @@
       }
     },
     {
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "link": "https://fstar-lang.org/",
-      "pubDate": "2026-08-02 12:31:16",
+      "title": "Developers are attached to tools because tools encode trust",
+      "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "pubDate": "2026-07-29 14:25:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,83 +396,73 @@
       }
     },
     {
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "pubDate": "2026-08-02 11:34:41",
+      "title": "АЕЦ „Козлодуй“ работи по график при рекордно ниските нива на река Дунав",
+      "link": "https://frognews.bg/novini/aets-kozlodui-raboti-grafik-pri-rekordno-niskite-niva-reka-dunav.html",
+      "pubDate": "2026-08-02 15:30:00",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "pubDate": "2026-08-02 09:06:33",
+      "title": "Два хеликоптера се сблъскаха в Гърция, докато гасиха пожар",
+      "link": "https://frognews.bg/novini/dva-helikoptera-sblaskaha-gartsiia-dokato-gasiha-pojar.html",
+      "pubDate": "2026-08-02 15:15:00",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
-      "title": "Нафтата удари по джоба на шофьорите със 17-18%",
-      "link": "https://frognews.bg/novini/naftata-udari-djoba-shofjorite-sas-17-18procenta.html",
-      "pubDate": "2026-08-02 12:40:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/c6040ca37_Benzin.webp"
-      },
+      "title": "Нов кошмар във Франция, 30 000 затворени в домовете си",
+      "link": "https://frognews.bg/novini/nov-koshmar-vav-frantsiia-30-000-zatvoreni-domovete-2026-08-02.html",
+      "pubDate": "2026-08-02 14:30:00",
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Инфантино се разклати: Искат оставката му след проваления план на ФИФА",
-      "link": "https://frognews.bg/novini/infantino-razklati-iskat-ostavkata-sled-provaleniia-plan-fifa.html",
-      "pubDate": "2026-08-02 11:45:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/bce3349fa_1785670594_6a6f2bc24b0bf.webp"
-      },
+      "title": "Алекс Николов е нападател №1 в Лигата на нациите",
+      "link": "https://frognews.bg/novini/aleks-nikolov-napadatel-1-ligata-natsiite.html",
+      "pubDate": "2026-08-02 14:25:00",
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Над 70 гайди разтърсиха Гела и Илинденските поляни",
-      "link": "https://frognews.bg/novini/nad-70-gaidi-raztarsiha-gela-ilindenskite-poliani.html",
-      "pubDate": "2026-08-02 10:55:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/79117c622_1785666436_6a6f1b849b446.webp"
-      },
+      "title": "Ръст на сигналите за условията по договорите с мобилните оператори",
+      "link": "https://frognews.bg/novini/rast-signalite-usloviiata-dogovorite-mobilnite-operatori.html",
+      "pubDate": "2026-08-02 14:00:00",
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Европа диша по-чист въздух: Емисиите намаляват, но климатичните промени създават нови рискове",
-      "link": "https://frognews.bg/novini/evropa-disha-chist-vazduh-emisiite-namaliavat-klimatichnite-promeni-sazdavat-novi-riskove-2026-08-02.html",
-      "pubDate": "2026-08-02 10:10:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/f56378fd5_1785665243_6a6f16dbe19cf.webp"
-      },
+      "title": "Ukraine hits targets deep inside Russia, killing eight",
+      "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T17:15:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Румъния отново нащрек: Неизвестен летящ обект е засечен близо до украинската граница",
-      "link": "https://frognews.bg/novini/rumaniia-otnovo-nashtrek-neizvesten-letiasht-obekt-zasechen-blizo-ukrainskata-granitsa.html",
-      "pubDate": "2026-08-02 10:00:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/d927c80fc_1785664174_6a6f12ae4cb41.webp"
-      },
+      "title": "Ceuta: Most who breached border have left, Spain says",
+      "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T16:47:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,27 +494,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Moscow restaurant blast a &apos;brutal terror attack,&apos; mayor says",
-      "link": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-02T11:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Indonesia: At least 5 dead in ferry fire",
-      "link": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-02T10:43:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-02T15:48:48.582Z"
+  "lastUpdated": "2026-08-02T18:46:38.374Z"
 }
