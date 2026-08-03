@@ -91,16 +91,6 @@
       }
     },
     {
-      "title": "Трамвай дерайлира в \"Люлин\" - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0NrVGw3VWJ4bUtjbE03N0s4ZHI1QUpfU01OQXpYSWJLRXNhTjJsdDJrZ1VPRE5MMjJ5dWtXR3ZCZHM1ZXBwZGd2eHJQbEF6SkFHV2RYN1ZGbExnYkdVVzBkU2tOcWRYcDFGZklOY0s0Nmw1a1dHOS1tbWFVSXBZcXZnNTB1ZXF1eFE?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 13:46:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Резултати от търсене по \"1 август\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZGZyZ3k4b2FSZDRyVnVEZ0FfRS1uZXlFY3pxTmp5a0w5bkdSdWRRc2pmZ0E1QW85MUtSQzhGSmU0Z29Hb0ZsdkxGSmViVWUxZFFrRDIwY19sT0FSdXE0MW9Fc3NRZms5d2Z3NG9URGV6ZmlwYzdUbGlKMA?oc=5",
       "pubDate": "Sat, 01 Aug 2026 08:04:04 GMT",
@@ -114,6 +104,16 @@
       "title": "По-високи осигуровки, винетки, акцизи: какво влиза в сила от 1 август - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVZ6UWtfdDdWTVUtT1FPdzE1WGE4NTRrVHVhS0s2ZEZLanZ6VGtoQi1pd1lDdlhCSUdpTmtpQWVHNDItUFY4VXNOaFRaRXE5c1I0QzB2aU1qRGROTFR1bld2NkJrLVQyQjEydURZTi1nMDBxU0lCSmNaSVByblB6SkpoZlQ4WTI0QmdRRzAwaVVqTEl5LThXU3Q3Xy1XbEszbnVLVU5DSF83UQ?oc=5",
       "pubDate": "Sat, 01 Aug 2026 03:04:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Миряни прекъснаха литургия на патриарха заради присъствието на Митрофанова - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0xISDVmWWZCRjE5NW1jMTZ2UzloVE9seS1vVEZjNkxEQ3NUYmVGMDJWLTdRTk5MejY2N3d4UnFNSVFCRkI3ckQxd0NWZTVBRzRiT2NYNU91MnFLMnhZOWZJcVNLb2dFcFRPYUZlc2dSXzVreFFMX042SEFWWkt6NF93VlNtbHRLcXZfc2g2YWJkb0d5SENrOVN0VjlXY2c5WFpwckxXbw?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 19:11:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -346,9 +346,29 @@
       }
     },
     {
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "link": "https://github.com/pg83/shitty",
+      "pubDate": "2026-08-02 23:05:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Karpathy’s Pelican",
       "link": "https://twitter.com/karpathy/status/2083749667410727319",
       "pubDate": "2026-08-02 04:05:56",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "link": "https://mattbeton.com/blog/bitnet-6502.html",
+      "pubDate": "2026-07-31 13:08:30",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -369,26 +389,6 @@
       "title": "Note-Taking and Personal Knowledge Management",
       "link": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
       "pubDate": "2026-07-28 14:21:10",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "link": "https://frogs.vaguespac.es/",
-      "pubDate": "2026-08-02 19:42:08",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "pubDate": "2026-07-29 14:25:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -456,6 +456,16 @@
       }
     },
     {
+      "title": "Man arrested over death of British woman found in suitcase in Athens",
+      "link": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-02T23:50:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
       "link": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-02T19:20:00Z",
@@ -494,17 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Small insects, big damage: The global ant trade is booming",
-      "link": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-02T14:30:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-02T21:41:02.814Z"
+  "lastUpdated": "2026-08-03T01:21:22.235Z"
 }
