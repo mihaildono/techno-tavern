@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Започва изплащането на пенсиите",
+      "link": "https://offnews.bg/obshtestvo/zapochva-izplashtaneto-na-pensiite-872222.html",
+      "pubDate": "2026-08-07 04:00:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/07/872222/phpdpr2wl_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6972
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Пореден горещ ден, но на места ще прегърми и превали",
+      "link": "https://offnews.bg/obshtestvo/poreden-goresht-den-no-na-mesta-shte-pregarmi-i-prevali-872221.html",
+      "pubDate": "2026-08-07 02:30:25",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/07/872221/phpl5ts8j_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5462
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Иран обмисля забрана за американски и израелски кораби в Ормузкия проток",
       "link": "https://offnews.bg/sviat/iran-obmislia-zabrana-za-amerikanski-i-izraelski-korabi-v-ormuzkia-pro-872236.html",
       "pubDate": "2026-08-06 18:42:00",
@@ -43,35 +71,7 @@
       }
     },
     {
-      "title": "Украйна очаква скоро да има собствена защита срещу балистични ракети",
-      "link": "https://offnews.bg/sviat/ukrajna-ochakva-skoro-da-ima-sobstvena-zashtita-sreshtu-balistichni-ra-872231.html",
-      "pubDate": "2026-08-06 16:35:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/06/872231/php9ui5ne_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4445
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Русия може да атакува балтийските държави с украински дронове, предупреждава литовското разузнаване",
-      "link": "https://offnews.bg/sviat/rusia-mozhe-da-atakuva-baltijskite-darzhavi-s-ukrainski-dronove-predu-872230.html",
-      "pubDate": "2026-08-06 16:10:35",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/06/872230/phpxwtgqd_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5775
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Сладоледаджията - dnevnik.bg",
+      "title": "Сладоледаджията - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Jc3VqdzAyNGpQQlIxdmtJaEFRaGhJQ2o2UG9jTGlVMnI2LXdwSER3b1h3ZzFBSjljZGVsSVVOZk5JOGhFbmFuNzFLTWJ3STFBQnhOUHN1TnNVWWRqVG5FVGJYSU1rOWNwYWRiUlRPd1pBcVVIcV9RX1Z2SQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 21:09:00 GMT",
       "thumbnail": null,
@@ -81,7 +81,7 @@
       }
     },
     {
-      "title": "Програма на телевизиите - Dnevnik.bg - dnevnik.bg",
+      "title": "Програма на телевизиите - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WQW50ZWswV0VlZC1DWWNISXptQlZmbTB3UTV6eUFEeHdPaU5aZXFtWUQ3TE5wdmw2S0E4eFpsUjdIMVhrOFVabmlJQ00wcmlSb014Q01zMHEtYTdRc3lzWW5xNUktaG11ZmlzcDJ4N29YVnM?oc=5",
       "pubDate": "Wed, 05 Aug 2026 20:28:38 GMT",
       "thumbnail": null,
@@ -91,29 +91,29 @@
       }
     },
     {
-      "title": "Демократ мюсюлманин спечели първичните избори в Мичиган - dnevnik.bg",
+      "title": "Одит в НАТФ��З: Помощник-ректор управлява в разрез с правилата и на несъществуваща длъжност - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazJURFZOTXcxak9ISWpGVFhpeUhjWW5Ud0dwd21FQWVCV3hDd2JvazRabGlXR3dQMURXbFBMOEY5VEVIUHlYWnVORXNrQWVEVVNSREJxWmM3cnVwRnVUcHNlVUZTWXdaczU5Y3phc21KUW1lREIzaklsM0loZ19Md3AzeFpmakV2RTljaHhMU3hIeDRLZkxCQ3NTVlFrRWxYekR1TzhjTm12ZEts?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 03:17:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Съдът на ЕС разреши на държавите членки да ограничават функции в навигациите - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHZFUlhSX1dhQmFDR1l6VTZPa1FzcTNNOUVnTDRueUZZb3BtOGFjd1AycUp4ck8xT0h5VEhkbWdNMm03WWZZdEdOdDdkR0ZMR1V0YnhZdXpQMmxSc1Nod1RRdDNJOUNKM0JkSDFXUnIxVUVqNHFfMzJpU1k5aHI2b1gyUm9pdVV4MTNlWDFYUzhKc08zcmhjbVlmME5kbTJTT285eU1Tb0F0NEhOTnEw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 19:48:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Демократ мюсюлманин спечели първичните избори в Мичиган - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3owVkI2T2djVF8zX0JtN0tIZ3hlU3p2UGxhMlhvamMxcGNVS1B2X01jc1d2S1U1S3RTVjVneGJXMjhPb1lIRFFSNktnbmg3eHB2amsxRGRoekNLZGF2elFHUl8zNC1pMEYwampVbWlpRndEd1R0YWdyTDNDZXREWHhncWJqdDJUZlZGS3dTdnVmeXlVNmdSUWxkck5wWFhOUzhQVHJad25nbE0?oc=5",
       "pubDate": "Wed, 05 Aug 2026 15:39:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Студенти искат ограничаване на достъпа до социалните мрежи - dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOek9WX0dsTjJNaXVualRvajlyRHotRnJXWTBVZWppMk9qVGdCb0pMbDlDOTktTWFfcElGUmxCN1lYVlJkR2lJQklYaDk2bWlSUXFOX09NSERWZGdFT2pVbjZLcWJyM0RRUlhJOE9RNDVtWmg0dzRpS1p0N0JsbmFBbzMxRVk3ZU5jaVlZZkc5bjVkR0wtWEJSVnRjZmtuUUdidklpc1JvaUFNN0Zqa0E?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:30:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Нетаняху отхвърли сделката на Тръмп за Газа - dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlpYMWFfb0JIdzZpTEw1UUVXQ21ndHN0M3lFeEFEdEwxWE5SYnNXamxhYjFNdmVsbFJwUzBLeE02Q2hxU2Iwb0Y5RU5UVVNTX3R0YUxpYzRPLThicXliNlQzZzhtVFpMTkVOcUpTaVZmQkN6R0JUUGRfMkRvR2xZSzM3dWVDX1ZQN0NiOE1Bb1dLeTNDYUZpeGEzYXNPUGFMOHc?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 05:26:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,7 +231,17 @@
       }
     },
     {
-      "title": "EnduroSat подписа меморандум с правителството за космически индустриален парк в Доброславци - Капитал",
+      "title": "Библиотека / Капитал - брой 31 - capital.bg - capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmlqV1hFeWVlYjZDODAwUGtDY01FelZUbzYyN09Eby03TkIwRnV5emNBWVZ0WktKTGlJOG01WWJHUk9UU3BMcGtkQV85QUhzSUstWjhDTzBOT2RodzBQcmp2cTNLN1BNNUVXYmo1VW54X0ZwbDV0QXd5YTlZeTdFMEdR?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 03:32:25 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "EnduroSat подписа меморандум с правителството за космически индустриален парк в Доброславци - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnFFTmJpVHdvM25LME5YRHRaRTZkcWNua1ZiSFA1eEtFMXQxUjhzcWhJNWJUdzF0RGhoT1NvUG5BcDhhdGhfM21Vb1IzeTVVRWZHQ0NCOWVudGVQS3I1UFMxRmFRelQ0Wl9nS2FsdWRSSXhNWHY0UzgxemtFUWtoTjY4U0lEc2ZHNXM5SXo3QzN3N2hGd3hod2xWVmJSMmVJZ281R3ZPSlVFYWs1b3NwT3paNTROTkJs?oc=5",
       "pubDate": "Thu, 06 Aug 2026 09:35:00 GMT",
       "thumbnail": null,
@@ -251,7 +261,7 @@
       }
     },
     {
-      "title": "Сеута: Как една гранична криза се превърна в бойно поле на наративи - Капитал",
+      "title": "Сеута: Как една гранична криза се превърна в бойно поле на наративи - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1NMVWNWMXI0RGhBckdSR3gzZWtOMktFQmRmTTlqSEUzcXducnRlOEg4VFc0czAyU1hPTTlWTmVJNHVXNmFGa2ZTTnFRZXhoYXhiSnJtQVY4TnF5di1IXzBIdk5ySld4bXBoaHR2QU5LYTBIWFp3ZkpfU29RLW82N1U5SzI2blJXaXZsWGRROUFmZVI4X1Fza1o4YV9fTFphV0N0RDRncXpJb0JWQi1ZYXBOSzhWZFJnSERUMA?oc=5",
       "pubDate": "Sat, 01 Aug 2026 12:46:00 GMT",
       "thumbnail": null,
@@ -264,16 +274,6 @@
       "title": "id.capital.bg | Публичен профил на gg777betvip - Капитал",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfbVRvUlJ0Ymt6VFVtc2hwdFlxZmYxeVQxUFpoNkdoekE5UWpYaHpNYkpZZ1diWTdsbHZkMGwxbXlSRHhjYk9pQkFRSjhxRE13?oc=5",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на phbidaacom - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WQXNQN1c0ZE0tUmRJQ2RGX0V1eVlVS2cyb3pKTVVORjRzUWFmT3V5ZnA2WTVZekhDNU9sNDlRUEtfSTE3bzRFY0s4VU5mc0U?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -356,19 +356,9 @@
       }
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "pubDate": "2026-08-05 15:33:23",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "pubDate": "2026-08-06 21:52:16",
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+      "pubDate": "2026-08-06 23:30:03",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +376,59 @@
       }
     },
     {
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "pubDate": "2026-08-07 00:37:30",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "pubDate": "2026-08-05 15:33:23",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "pubDate": "2026-08-06 17:01:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Спират тировете по „Тракия“, „Струма“ и Кресненското дефиле в пиковите часове през уикенда",
+      "link": "https://frognews.bg/novini/spirat-tirovete-trakiya-struma-kresnenskoto-defile-pikovite-chasove-prez-uikenda.html",
+      "pubDate": "2026-08-07 04:31:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/9f989f8c2_tirove-bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Куба в тежка криза – няма ток, горива и лекарства. МВнР предупреди да не се пътува",
+      "link": "https://frognews.bg/novini/kuba-tezhka-kriza-nyama-tok-goriva-lekarstva-mvnr-predupredi-patuva.html",
+      "pubDate": "2026-08-07 04:15:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/a2ec07d13_1786075847_6a755ac7c75a2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Слънце и жега до 37°, следобед с краткотрайни бури на места",
+      "link": "https://frognews.bg/novini/slantse-zhega-37-sledobed-kratkotrayni-buri-mesta.html",
+      "pubDate": "2026-08-07 04:08:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/222de6903_lqto-bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -420,39 +456,23 @@
       }
     },
     {
-      "title": "10 пъти по-висок от еврозоната: България е трета в ЕС по ръст на търговията на дребно",
-      "link": "https://frognews.bg/novini/10-pati-visok-evrozonata-balgariia-treta-rast-targoviiata-drebno.html",
-      "pubDate": "2026-08-06 17:30:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/2b7990bc5_1786036298_6a74c04ad6df6.webp"
-      },
+      "title": "US judge orders Meta to pay $567 million over harm to children",
+      "link": "https://www.dw.com/en/us-judge-orders-meta-to-pay-567-million-over-harm-to-children/a-78272884?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-07T04:03:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "„Тежки финансови последици“ грозят Румъния заради ново законодателство за въглищата",
-      "link": "https://frognews.bg/novini/tejki-finansovi-posleditsi-groziat-rumaniia-zaradi-novo-zakonodatelstvo-vaglishtata.html",
-      "pubDate": "2026-08-06 17:00:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/b4e36d445_1786034972_6a74bb1cd1bfe.webp"
-      },
+      "title": "Middle East: Houthi attack wounds 11 in Saudi Arabia",
+      "link": "https://www.dw.com/en/middle-east-houthi-attack-wounds-11-in-saudi-arabia/live-78272895?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-07T03:51:00Z",
+      "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Иран към държавите от Залива: Убедете Тръмп да се откаже, иначе ще ви ударим силно",
-      "link": "https://frognews.bg/novini/iran-kam-darzhavite-zaliva-ubedete-tramp-otkazhe-inache-shte-udarim-silno.html",
-      "pubDate": "2026-08-06 16:30:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/05e8e7cdd_1786033200_6a74b43027247.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,27 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "How drought threatens electricity supplies in Europe",
-      "link": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-06T19:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ceuta leader says 100 migrants died in border rush",
-      "link": "https://www.dw.com/en/ceuta-leader-says-100-migrants-died-in-border-rush/a-78271067?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-06T17:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-07T01:55:13.757Z"
+  "lastUpdated": "2026-08-07T04:44:44.989Z"
 }
