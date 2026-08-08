@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Сенатът на САЩ прие закон за адски санкции срещу Русия",
+      "link": "https://offnews.bg/sviat/senatat-na-sasht-prie-zakon-za-adski-sanktcii-sreshtu-rusia-872306.html",
+      "pubDate": "2026-08-07 19:14:01",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/07/872306/phpau180x_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3518
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "В петък вечерта и в разгара на лятото правителството обяви формулата си за справедливи цени на храните",
       "link": "https://offnews.bg/ikonomika/v-petak-vecherta-i-v-razgara-na-liatoto-pravitelstvoto-obiavi-formulat-872303.html",
       "pubDate": "2026-08-07 18:25:20",
@@ -57,20 +71,6 @@
       }
     },
     {
-      "title": "Покушения срещу генерали: военните в Русия са под прицел",
-      "link": "https://offnews.bg/dw/pokushenia-sreshtu-generali-voennite-v-rusia-sa-pod-pritcel-872300.html",
-      "pubDate": "2026-08-07 15:23:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/07/872300/phpkgdbjm_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6661
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Програма на телевизиите - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJcVY3al9wSDhGQk5ucDN6RUgzMEVWd1kwVm5nN092cGNRdFdPb3o5UTRDeEtyQmRPa3l0aVNUU0x0S1NqMmZ0ZzBuelpLMXUxblFOa2gxUmZOUy1sZ005dlpZb3RidUZNWTJBRzFNRTktOGhPWElZ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 23:13:14 GMT",
@@ -91,16 +91,6 @@
       }
     },
     {
-      "title": "Министърът на образованието спря сливането на две училища - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDdoUVUzXzc2NkpDQVlyUndMdFZVYW9qSERndW9JN0hCNEdYY1ZyZFhaUTlYYzkyQUVCaUN0U1hicElueGllUzlyd2VGZGpaZjd2bFQ1Vld5Q1V4NENsek96eDE2SXlfY3h5NldzcmdLaFJ2Z1lCLUxLQWtGSmxNRWZOOVkwNm94U1BOZWt1aUZqRTZmckpJYmRhc2ZyeDFXWmJQMXEyd0Zwdw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 18:43:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Сладоледаджията - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Jc3VqdzAyNGpQQlIxdmtJaEFRaGhJQ2o2UG9jTGlVMnI2LXdwSER3b1h3ZzFBSjljZGVsSVVOZk5JOGhFbmFuNzFLTWJ3STFBQnhOUHN1TnNVWWRqVG5FVGJYSU1rOWNwYWRiUlRPd1pBcVVIcV9RX1Z2SQ?oc=5",
       "pubDate": "Thu, 06 Aug 2026 21:09:00 GMT",
@@ -114,6 +104,16 @@
       "title": "След гонка в столичен квартал полицаи задържаха \"Венци Белия негър\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1g0Qkc0Qk5fcktQLXBYN2ZsQWVaSVNNZFZ1YWwyTE1wb2VPekpnYmEzSXFNU3oyb1U0aU1yaU5PTkc5eVdBVWRXZXRManY0RzZTa2tRV01hRXJhNVdhZjZkWnlpcHpRM3U4NEJ0eGRrYkhQNXdNQzhMTUg3V1l4YjlZdHo3VHBSRXJabWpTeWRXelRkVnJOSnUzYVlzNkVqdzFmNXZsdmNmQ3hBMURr?oc=5",
       "pubDate": "Fri, 07 Aug 2026 20:23:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Програма на телевизиите - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WQW50ZWswV0VlZC1DWWNISXptQlZmbTB3UTV6eUFEeHdPaU5aZXFtWUQ3TE5wdmw2S0E4eFpsUjdIMVhrOFVabmlJQ00wcmlSb014Q01zMHEtYTdRc3lzWW5xNUktaG11ZmlzcDJ4N29YVnM?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:28:38 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -171,6 +171,18 @@
       }
     },
     {
+      "title": "Сенатът на САЩ прие нови санкции срещу Путин, руския петрол и газ",
+      "link": "https://www.mediapool.bg/senatat-na-sasht-prie-novi-sanktsii-sreshtu-putin-ruskiya-petrol-i-gaz-news386339.html",
+      "pubDate": "2026-08-07 20:33:27",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_f36a4008fcaa84ab19b6821dc42cfae7.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Никола Цолов: Първото място е отплата за положените усилия",
       "link": "https://www.mediapool.bg/nikola-tsolov-parvoto-myasto-e-otplata-za-polozhenite-usiliya-news386335.html",
       "pubDate": "2026-08-07 15:55:23",
@@ -212,18 +224,6 @@
       "pubDate": "2026-08-07 15:20:04",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/386/medium_ece0686a7fdf04c00561a93a71c1754a.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "В Пловдив и Бургас ще има лаборатории за кръвни проби за наркотици",
-      "link": "https://www.mediapool.bg/v-plovdiv-i-burgas-shte-ima-laboratorii-za-kravni-probi-za-narkotitsi-news386332.html",
-      "pubDate": "2026-08-07 14:59:52",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_4666b2a883e0cf4306b63a108af5c249.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "ЦСКА запали \"червена\" България! \"Армейците\" щурмуват Националния стадион",
-      "link": "https://www.actualno.com/bgfootball/cska-zapali-chervena-bylgarija-armejcite-shturmuvat-nacionalnija-stadion-news_2626504.html",
-      "pubDate": "2026-08-07 18:38:00",
+      "title": "Зеленски с първа реакция на гласувания в американския сенат законопроект за санкции срещу Русия",
+      "link": "https://www.actualno.com/europe/zelenski-s-pyrva-reakcija-na-glasuvanija-v-amerikanskija-senat-zakonoproekt-za-sankcii-sreshtu-rusija-news_2626543.html",
+      "pubDate": "2026-08-07 23:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/d6743b0bec70773267e5e1822125ac5c_2626504_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/08/1afd3b1409bcdedb3fdde406112c9dbc_2626543_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "С огромна подкрепа: Сенатът на САЩ прие законопроекта \"Греъм\", считан за \"ядрено търговско оръжие\" срещу Путин (ВИДЕО)",
-      "link": "https://www.actualno.com/america/s-ogromna-podkrepa-senatyt-na-sasht-prie-zakonoproekta-greym-schitan-za-jadreno-tyrgovsko-oryjie-sreshtu-putin-video-news_2626501.html",
-      "pubDate": "2026-08-07 18:21:00",
+      "title": "Психотерапевт за убийството в Пловдив: Почти винаги децата, които проявяват агресивно поведение, са били жертва на такова",
+      "link": "https://www.actualno.com/society/psihoterapevt-za-ubijstvoto-v-plovdiv-pochti-vinagi-decata-koito-projavjavat-agresivno-povedenie-sa-bili-jertva-na-takova-news_2626542.html",
+      "pubDate": "2026-08-07 22:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/bc4907a0009d41bd1b59f4f9f63a68cc_2626501_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/08/a7414356836043b74cb18298ed78c042_2626542_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Каква мобилизация, руснаците са идиоти: Соловьов с нов изблик, а списъци как се прави са публични (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/kakva-mobilizacija-rusnacite-sa-idioti-soloviov-s-nov-izblik-a-spisyci-kak-se-pravi-sa-publichni-video-news_2626499.html",
-      "pubDate": "2026-08-07 18:19:00",
+      "title": "Руска атака порази стадион в центъра на Одеса (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ruska-ataka-porazi-stadion-v-centyra-na-odesa-video-news_2626537.html",
+      "pubDate": "2026-08-07 21:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/0df2774d336646d3da936ec2cd5f570b_2626499_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/08/7400863b643fdad01914854f68860a2b_2626537_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Космическа \"треска за злато\": Може ли да се добиват благородни метали от астероидите",
-      "link": "https://www.actualno.com/cosmos/kosmicheska-treska-za-zlato-moje-li-da-se-dobivat-blagorodni-metali-ot-asteroidite-news_2626496.html",
-      "pubDate": "2026-08-07 18:11:00",
+      "title": "Извинението не мина: УЕФА остави в сила бойкота срещу ФИФА",
+      "link": "https://www.actualno.com/football/izvinenieto-ne-mina-uefa-ostavi-v-sila-bojkota-sreshtu-fifa-news_2626535.html",
+      "pubDate": "2026-08-07 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/b52bc16125647a2f0af53eb147b16ea2_2626496_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/08/c34c889086e59ffdb0d4f602e4104a66_2626535_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Важна раздяла на \"Герена\": Директор напусна Левски предсрочно",
-      "link": "https://www.actualno.com/bgfootball/vajna-razdjala-na-gerena-direktor-napusna-levski-predsrochno-news_2626493.html",
-      "pubDate": "2026-08-07 18:00:00",
+      "title": "Тревожна тишина на \"Герена\": Левски мълчи за тежка контузия",
+      "link": "https://www.actualno.com/bgfootball/trevojna-tishina-na-gerena-levski-mylchi-za-tejka-kontuzija-news_2626532.html",
+      "pubDate": "2026-08-07 20:51:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/4c781637438fbee4d5987b9ca09fab87_2626493_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/aa8d8282af49e9d252db60b2ec6cb7aa_2626532_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "Assembly Hall of Shame",
-      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "pubDate": "2026-08-07 18:01:30",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "pubDate": "2026-08-07 22:24:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "Databricks drove down AI coding spend 70%",
-      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "pubDate": "2026-08-07 18:25:17",
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "pubDate": "2026-08-07 18:01:30",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "pubDate": "2026-08-07 17:36:30",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "pubDate": "2026-08-07 12:42:27",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -396,10 +396,48 @@
       }
     },
     {
+      "title": "Електро поп дуото Lunikk пусна ново клубно парче – “Antitype”",
+      "link": "https://frognews.bg/novini/elektro-pop-duoto-lunikk-pusna-novo-klubno-parche--antitype.html",
+      "pubDate": "2026-08-07 19:38:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/6875f182f_1786131721_6a7635098bfc8.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Сенатът на САЩ одобри законопроект за санкции срещу Русия и страните, с които търгува",
+      "link": "https://frognews.bg/novini/senatat-sasht-odobri-zakonoproekt-sanktsii-sreshtu-rusiia-stranite-koito-targuva.html",
+      "pubDate": "2026-08-07 19:12:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b8895feae_1786130271_6a762f5f2852c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "България е с рекорден износ на ток, парковете с батерии ни правят лидер на пазара",
+      "link": "https://frognews.bg/novini/balgariia-rekorden-iznos-tok-parkovete-baterii-praviat-lider-pazara.html",
+      "pubDate": "2026-08-07 18:46:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/eca6c3e7f_1786128529_6a762891bca24.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
       "title": "Апелативният съд на САЩ блокира проекта на Тръмп за бална зала в Белия дом",
       "link": "https://frognews.bg/novini/apelativniiat-sad-sasht-blokira-proekta-tramp-balna-zala-beliia-dom.html",
       "pubDate": "2026-08-07 17:37:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/9dc05570d_1786124339_6a7618332eee5.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -409,40 +447,22 @@
       "title": "Италия с остър отговор на ултиматума на Испания за граничния контрол",
       "link": "https://frognews.bg/novini/italiia-ostar-otgovor-ultimatuma-ispaniia-granichniia-kontrol.html",
       "pubDate": "2026-08-07 17:07:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/e33ab3539_1786122539_6a76112bb06c9.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Извадиха риболовна мрежа от едно от Седемте рилски езера",
-      "link": "https://frognews.bg/novini/izvadiha-ribolovna-mreja-edno-sedemte-rilski-ezera.html",
-      "pubDate": "2026-08-07 16:39:00",
+      "title": "Colombia: Trump ally De la Espriella takes office",
+      "link": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-08T00:31:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Екстази, фентанил, кокаин: Полицията разби още една нарколаборатория",
-      "link": "https://frognews.bg/novini/ekstazi-fentanil-kokain-politsiiata-razbi-oshte-edna-narkolaboratoriia.html",
-      "pubDate": "2026-08-07 15:55:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Кризисният щаб обсъжда планове за подобряване на водния режим в резерват „Сребърна“",
-      "link": "https://frognews.bg/novini/krizisniiat-shtab-obsajda-planove-podobriavane-vodniia-rejim-rezervat-srebarna.html",
-      "pubDate": "2026-08-07 15:44:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,17 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Ceuta: Spain warns Italy it will reciprocate entry checks",
-      "link": "https://www.dw.com/en/ceuta-spain-warns-italy-it-will-reciprocate-entry-checks/a-78282840?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-07T16:12:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-07T21:25:12.052Z"
+  "lastUpdated": "2026-08-08T00:37:54.285Z"
 }
