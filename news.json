@@ -281,6 +281,19 @@
       }
     },
     {
+      "title": "17-годишна атлетка донесе световна титла на България от САЩ след невероятна драма",
+      "link": "https://www.actualno.com/moresport/17-godishna-atletka-donese-svetovna-titla-na-bylgarija-ot-sasht-sled-neverojatna-drama-news_2626989.html",
+      "pubDate": "2026-08-09 22:12:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/10/d9f9e350214913568864334bdf9e5205_2626989_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
       "title": "Христо Янев хвърли ръкавицата: ЦСКА няма да отлага мачове - всичко е в главите ни!",
       "link": "https://www.actualno.com/bgfootball/hristo-janev-hvyrli-rykavicata-cska-njama-da-otlaga-machove-vsichko-e-v-glavite-ni-news_2626976.html",
       "pubDate": "2026-08-09 20:40:00",
@@ -333,16 +346,13 @@
       }
     },
     {
-      "title": "Класиране на голмайсторите в Първа лига 2026/27 - и тримата нападатели на ЦСКА с голове",
-      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-i-trimata-napadateli-na-cska-s-golove-news_2625725.html",
-      "pubDate": "2026-08-09 20:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/316d4ccf8ad3a4484016b574909935a2_2625725_1920x1080.jpg",
-        "type": "image/jpg"
-      },
+      "title": "What Happened to HackerOne?",
+      "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "pubDate": "2026-08-10 02:23:17",
+      "thumbnail": null,
       "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -356,29 +366,9 @@
       }
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "pubDate": "2026-08-09 20:42:29",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "link": "https://publicdomainreview.org/collection/marnameh/",
-      "pubDate": "2026-08-07 04:04:56",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Mea Culpa – Dark Hours",
-      "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "pubDate": "2026-08-09 13:20:43",
+      "title": "How We Pushed CDC into Postgres",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "pubDate": "2026-08-10 01:01:34",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -389,6 +379,16 @@
       "title": "Ask HN: What are you working on? (August 2026)",
       "link": "https://news.ycombinator.com/item?id=49233423",
       "pubDate": "2026-08-09 17:23:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "pubDate": "2026-08-09 20:42:29",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -446,6 +446,16 @@
       }
     },
     {
+      "title": "Western Europe records hottest June and July on record",
+      "link": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-10T03:49:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Netanyahu rejects Trump-backed Gaza peace plan",
       "link": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-09T23:11:00Z",
@@ -484,17 +494,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany news: Berlin to step up drone security research",
-      "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-09T16:05:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-10T00:41:39.938Z"
+  "lastUpdated": "2026-08-10T04:19:26.426Z"
 }
