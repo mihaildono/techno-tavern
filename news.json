@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Американски F-16 прехванаха два самолета край голф клуба на Тръмп",
+      "link": "https://offnews.bg/sviat/amerikanski-f-16-prehvanaha-dva-samoleta-kraj-golf-kluba-na-tramp-872359.html",
+      "pubDate": "2026-08-10 04:27:03",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/10/872359/phpp66oom_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5472
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Седмицата започва със слънце, в края й се задава дъжд",
+      "link": "https://offnews.bg/obshtestvo/sedmitcata-zapochva-sas-slantce-v-kraia-j-se-zadava-dazhd-872350.html",
+      "pubDate": "2026-08-10 03:40:32",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/10/872350/phpddou6d_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9328
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Българска компания участва в трансфер на ракети и боеприпаси от Турция за Украйна",
       "link": "https://offnews.bg/ikonomika/balgarska-kompania-uchastva-v-transfer-na-raketi-i-boepripasi-ot-turtc-872358.html",
       "pubDate": "2026-08-09 18:41:41",
@@ -36,34 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/08/09/872355/phpdcikao_559x345.jpg",
         "type": "image/jpeg",
         "length": 6458
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Москва похвали поведението на Радев",
-      "link": "https://offnews.bg/politika/moskva-pohvali-povedenieto-na-radev-872354.html",
-      "pubDate": "2026-08-09 15:40:17",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/09/872354/phpnaxjmm_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5477
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Моджтаба Хаменей бил жив, иранците пуснаха съмнителни кадри",
-      "link": "https://offnews.bg/sviat/modzhtaba-hamenej-bil-zhiv-irantcite-pusnaha-samnitelni-kadri-872353.html",
-      "pubDate": "2026-08-09 15:01:37",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/09/872353/phpjicvlw_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6783
       },
       "source": {
         "name": "OffNews",
@@ -121,6 +121,46 @@
       }
     },
     {
+      "title": "„Лов на педофили“ и сгънат палец. Как една онлайн субкултура прерасна в смъртоносно насилие",
+      "link": "https://svobodnatochka.bg/analizi/lov-na-pedofili-zastho-e-opasna-samorazpravata/",
+      "pubDate": "2026-08-10 06:56:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Риториката на София стана по-сдържана“. Москва похвали кабинета „Радев“, но очаква по-малка зависимост от Брюксел",
+      "link": "https://svobodnatochka.bg/novini/ritorikata-na-sofiya-stana-po-sdarzhana-moskva-pohvali-kabineta-radev-no/",
+      "pubDate": "2026-08-10 06:30:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Три минути: Военен дрон попадна в България. Деца раздават правосъдие в Пловдив. 942 млн. долара глоба за „Мета“",
+      "link": "https://svobodnatochka.bg/tri-minuti/tri-minuti-27/",
+      "pubDate": "2026-08-10 05:36:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Слезте от автобуса, напуснете страната.“ Какво стои зад нападенията срещу украинци в Полша",
+      "link": "https://svobodnatochka.bg/analizi/slezte-ot-avtobusa-napusnete-stranata-ukrainczite-potarsiha-ubezhisthe-v-polsha-sega-strahat-im-narastva/",
+      "pubDate": "2026-08-10 05:33:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Избягали или мъртви? Как Русия пести пари, като обявява изчезналите войници за дезертирали",
       "link": "https://svobodnatochka.bg/istorii/izcheznali-ili-martvi-rusiya-pesti-pari-kato-obyavyava-izcheznalite-vojniczi-za-dizertirali/",
       "pubDate": "2026-08-09 12:51:36",
@@ -131,51 +171,11 @@
       }
     },
     {
-      "title": "Съдът остави Христо Широков от ДПС в ареста по делото за престъпна група във ВиК-Бургас",
-      "link": "https://svobodnatochka.bg/novini/sadat-ostavi-hristo-shirokov-ot-dps-v-aresta-po-deloto-za-prestapna-grupa-vav-vik-burgas/",
-      "pubDate": "2026-08-09 11:26:22",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Взривилият се в България дрон вероятно е украински. Тагарев не изключва и руска следа",
-      "link": "https://svobodnatochka.bg/novini/navlezliyat-v-balgariya-dron-e-ukrainski-kiev-kazva-che-ne-e-umishleno-izpraten-vanshno-privika-poslanichkata/",
-      "pubDate": "2026-08-09 10:05:24",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Иран постави нови условия за отварянето на Ормузкия проток",
-      "link": "https://svobodnatochka.bg/novini/iran-postavi-novi-usloviya-za-otvaryaneto-na-ormuzkiya-protok/",
-      "pubDate": "2026-08-09 07:48:04",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Мета“ е осъдена да плати 942 млн. долара за вреди върху психичното здраве на непълнолетните",
-      "link": "https://svobodnatochka.bg/novini/sad-v-sasth-naredi-na-meta-da-plati-obstho-942-mln-dolara-za-za-naneseni-vredi-na-psihichnoto-zdrave-na-deczata/",
-      "pubDate": "2026-08-09 07:10:46",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Индонезия хвана1.3 тона кетамин за над 100 млн. евро",
-      "link": "https://www.mediapool.bg/indoneziya-hvana13-tona-ketamin-za-nad-100-mln-evro-news386379.html",
-      "pubDate": "2026-08-09 18:29:05",
+      "title": "Съмнения за бавна реакция и други въпроси след взривилия се у нас дрон",
+      "link": "https://www.mediapool.bg/samneniya-za-bavna-reaktsiya-i-drugi-vaprosi-sled-vzriviliya-se-u-nas-dron-news386387.html",
+      "pubDate": "2026-08-10 06:33:45",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_b3cfe7db50319d9726d8bb65208db73e.jpg"
+        "link": "https://www.mediapool.bg/images/386/medium_22a0dce2a42f53853172cae2f09844e9.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -183,11 +183,11 @@
       }
     },
     {
-      "title": "Израел отхвърли плана на САЩ за Газа",
-      "link": "https://www.mediapool.bg/izrael-othvarli-plana-na-sasht-za-gaza-news386378.html",
-      "pubDate": "2026-08-09 16:31:00",
+      "title": "Българка стана световна шампионка в тройния скок",
+      "link": "https://www.mediapool.bg/balgarka-stana-svetovna-shampionka-v-troiniya-skok-news386386.html",
+      "pubDate": "2026-08-10 06:15:50",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_2c50dd4f30aff24e20153a4afe8cbd8c.jpg"
+        "link": "https://www.mediapool.bg/images/386/medium_fb34eedd87ba2f7e04f4130135b7f5d8.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -195,11 +195,11 @@
       }
     },
     {
-      "title": "Обвързват бонусите на ръководството на \"Дойче бан\" с точността на влаковете",
-      "link": "https://www.mediapool.bg/obvarzvat-bonusite-na-rakovodstvoto-na-doiche-ban-s-tochnostta-na-vlakovete-news386376.html",
-      "pubDate": "2026-08-09 16:24:38",
+      "title": "Западна Европа е преживяла най-горещите юни и юли в историята",
+      "link": "https://www.mediapool.bg/zapadna-evropa-e-prezhivyala-nai-goreshtite-yuni-i-yuli-v-istoriyata-news386385.html",
+      "pubDate": "2026-08-10 05:28:52",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_0179c2c040f037963d952f6e6ff1061c.jpg"
+        "link": "https://www.mediapool.bg/images/386/medium_f58395dc4326c6f167f919bce18b201f.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -207,11 +207,11 @@
       }
     },
     {
-      "title": "Москва похвали кабинета на Радев, че позицията на България станала по-сдържана",
-      "link": "https://www.mediapool.bg/moskva-pohvali-kabineta-na-radev-che-pozitsiyata-na-bulgaria-stanala-po-sdarzhana-news386375.html",
-      "pubDate": "2026-08-09 16:02:58",
+      "title": "Зеленски: В Русия ще бъдат разположени до 50 000 севернокорейски войници",
+      "link": "https://www.mediapool.bg/zelenski-v-rusiya-shte-badat-razpolozheni-do-50-000-severnokoreiski-voinitsi-news386384.html",
+      "pubDate": "2026-08-10 05:20:19",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_98a532bb532340c3fe65900c884a082c.jpg"
+        "link": "https://www.mediapool.bg/images/386/medium_153929e5ef7609700ab5cefed130e114.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -219,11 +219,11 @@
       }
     },
     {
-      "title": "В поне 5 общини няма нито една медицинска сестра",
-      "link": "https://www.mediapool.bg/v-pone-5-obshtini-nyama-nito-edna-meditsinska-sestra-news386374.html",
-      "pubDate": "2026-08-09 14:55:09",
+      "title": "Американски изтребители прехванаха самолети в близост до голф клуба на Тръмп в Ню Джърси",
+      "link": "https://www.mediapool.bg/amerikanski-iztrebiteli-prehvanaha-samoleti-v-blizost-do-golf-kluba-na-tramp-v-nyu-dzharsi-news386383.html",
+      "pubDate": "2026-08-10 04:32:03",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_c6c5bf3fb784b3139da4c0d49a85aacb.jpg"
+        "link": "https://www.mediapool.bg/images/386/medium_d186345fa57ac775bdd5daa3e8b40022.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "17-годишна атлетка донесе световна титла на България от САЩ след невероятна драма",
-      "link": "https://www.actualno.com/moresport/17-godishna-atletka-donese-svetovna-titla-na-bylgarija-ot-sasht-sled-neverojatna-drama-news_2626989.html",
-      "pubDate": "2026-08-09 22:12:00",
+      "title": "Изненадващата война, която Китай може да избере",
+      "link": "https://www.actualno.com/asia/iznenadvashtata-vojna-kojato-kitaj-moje-da-izbere-news_2626263.html",
+      "pubDate": "2026-08-10 04:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/10/d9f9e350214913568864334bdf9e5205_2626989_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/07/49126a2f58a089f474702f791f403817_2626263_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Христо Янев хвърли ръкавицата: ЦСКА няма да отлага мачове - всичко е в главите ни!",
-      "link": "https://www.actualno.com/bgfootball/hristo-janev-hvyrli-rykavicata-cska-njama-da-otlaga-machove-vsichko-e-v-glavite-ni-news_2626976.html",
-      "pubDate": "2026-08-09 20:40:00",
+      "title": "Фойерверки се взривиха сред тълпата на плаж в Испания, десетки са ранени (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/fojerverki-se-vzriviha-sred-tylpata-na-plaj-v-ispanija-desetki-sa-raneni-video-news_2627009.html",
+      "pubDate": "2026-08-10 04:21:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/09/abce8e168ea84ce008c8570edee3036b_2626976_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/10/76b54309052748b7d4b0823387124710_2627009_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Двоен удар по Левски: Ключов съперник им отмъква ключов играч",
-      "link": "https://www.actualno.com/bgfootball/dvoen-udar-po-levski-kluchov-sypernik-im-otmykva-kluchov-igrach-news_2626978.html",
-      "pubDate": "2026-08-09 20:35:00",
+      "title": "Магнитни бури през седмицата 10-16 август 2026 г. Прогноза от САЩ (ГРАФИКА)",
+      "link": "https://www.actualno.com/cosmos/magnitni-buri-prez-sedmicata-10-16-avgust-2026-g-prognoza-ot-sasht-grafika-news_2626987.html",
+      "pubDate": "2026-08-10 04:15:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/09/e9f720b1158d601ce3be829d9128b8b3_2626978_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/10/3c79c5a831080a426864088967ce37f7_2626987_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Класиране по асистенции в Първа лига 2026/27 (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-po-asistencii-v-pyrva-liga-202627-obnovena-news_2625727.html",
-      "pubDate": "2026-08-09 20:32:00",
+      "title": "До 90 евро годишно: Колко струва лечението от джоба ни",
+      "link": "https://www.actualno.com/healthy/do-90-evro-godishno-kolko-struva-lechenieto-ot-djoba-ni-news_2627006.html",
+      "pubDate": "2026-08-10 04:04:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/0ad21101ba44813883d5a0f869c5df0c_2625727_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/10/90d2150f49e96833e4977b8d94dbc319_2627006_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,16 +333,36 @@
       }
     },
     {
-      "title": "Най-много \"сухи мрежи\" в Първа лига: Класиране на вратарите за \"Златната ръкавица\" за сезон 2026/27",
-      "link": "https://www.actualno.com/bgfootball/naj-mnogo-suhi-mreji-v-pyrva-liga-klasirane-na-vratarite-za-zlatnata-rykavica-za-sezon-202627-news_2625729.html",
-      "pubDate": "2026-08-09 20:27:00",
+      "title": "2004: Годината, в която футболът полудя",
+      "link": "https://www.actualno.com/football/2004-godinata-v-kojato-futbolyt-poludja-news_2626948.html",
+      "pubDate": "2026-08-10 04:00:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/bbc89268974bb7c0cd591a4630eb890d_2625729_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/09/3ecb676178d650a47df5e2c1edb00b84_2626948_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "link": "https://www.docker.com/products/docker-sandboxes/",
+      "pubDate": "2026-08-10 06:02:38",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "pubDate": "2026-08-10 03:50:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -356,9 +376,9 @@
       }
     },
     {
-      "title": "How I use LLMs to learn complex topics",
-      "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "pubDate": "2026-08-09 19:16:49",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "link": "https://www.whodunnitai.com/",
+      "pubDate": "2026-08-10 03:18:40",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +386,9 @@
       }
     },
     {
-      "title": "How We Pushed CDC into Postgres",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "pubDate": "2026-08-10 01:01:34",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "link": "https://github.com/shinyquagsire23/Klepton",
+      "pubDate": "2026-08-10 03:12:48",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,73 +396,103 @@
       }
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "link": "https://news.ycombinator.com/item?id=49233423",
-      "pubDate": "2026-08-09 17:23:22",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "pubDate": "2026-08-09 20:42:29",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Екстрадираха Даниел Кинахан в Ирландия: Брониран автомобил и въоръжена охрана го очакват",
-      "link": "https://frognews.bg/novini/ekstradiraha-daniel-kinahan-irlandiia-broniran-avtomobil-vaorajena-ohrana-ochakvat.html",
-      "pubDate": "2026-08-09 18:22:00",
-      "thumbnail": null,
+      "title": "Първата зоолинейка в България ще помага безплатно на животни в беда",
+      "link": "https://frognews.bg/novini/parvata-zoolineika-balgariia-shte-pomaga-bezplatno-jivotni-beda.html",
+      "pubDate": "2026-08-10 07:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/e22d49667_1786344833_6a797581a3142.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Пламъци в Странджа: Пожар избухна край Петрова нива",
-      "link": "https://frognews.bg/novini/plamatsi-strandja-pojar-izbuhna-krai-petrova-niva.html",
-      "pubDate": "2026-08-09 17:47:00",
-      "thumbnail": null,
+      "title": "Климатичните промени излизат скъпо на Европа: Щетите вече достигат стотици милиарди",
+      "link": "https://frognews.bg/novini/klimatichnite-promeni-izlizat-skapo-evropa-shtetite-veche-dostigat-stotitsi-miliardi.html",
+      "pubDate": "2026-08-10 06:40:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/0f22d101d_1786343759_6a79714f294eb.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Кремълски комплимент към Радев: Москва отчете „по-сдържаната“ София",
-      "link": "https://frognews.bg/novini/kremalski-kompliment-kam-radev-moskva-otchete-sdarjanata-sofiia.html",
-      "pubDate": "2026-08-09 17:21:00",
-      "thumbnail": null,
+      "title": "Психолог: Руски неофашизъм трови децата ни",
+      "link": "https://frognews.bg/novini/psiholog-ruski-neofashizam-trovi-detsata.html",
+      "pubDate": "2026-08-10 06:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/30c0ed4b2_1786342737_6a796d51f1474.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Иран прави ход за Ормуз, Тръмп търси изход от войната без ядрена сделка",
-      "link": "https://frognews.bg/novini/iran-pravi-hod-ormuz-tramp-tarsi-izhod-voinata-bez-iadrena-sdelka.html",
-      "pubDate": "2026-08-09 16:16:00",
-      "thumbnail": null,
+      "title": "Над 1 млн. евакуирани в Китай заради тайфуна „Долфин“",
+      "link": "https://frognews.bg/novini/nad-1-mln-evakuirani-kitai-zaradi-taifuna-dolfin.html",
+      "pubDate": "2026-08-10 06:10:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/dedf8560f_1786342178_6a796b2216059.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Убийство край Слънчев бряг: Заподозреният избяга с кола, полицията го залови",
-      "link": "https://frognews.bg/novini/ubiistvo-krai-slanchev-briag-zapodozreniiat-izbiaga-kola-politsiiata-zalovi.html",
-      "pubDate": "2026-08-09 14:21:00",
-      "thumbnail": null,
+      "title": "Експерти: България не може да засече дори дронове, създадени да бъдат засечени",
+      "link": "https://frognews.bg/novini/eksperti-balgariia-moje-zaseche-dori-dronove-sazdadeni-badat-zasecheni.html",
+      "pubDate": "2026-08-10 06:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/565288443_1786341433_6a79683958dfa.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
+      "link": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-10T06:49:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany news: Low water on Rhine could sever freight route",
+      "link": "https://www.dw.com/en/germany-news-low-water-on-rhine-could-sever-freight-route/live-78299336?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-10T06:22:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Type 2 diabetes in young women increasingly common",
+      "link": "https://www.dw.com/en/type-2-diabetes-in-young-women-increasingly-common/a-78251712?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-10T06:06:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Iran War:  Is Iran’s middle class being pushed into poverty?",
+      "link": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-10T04:46:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -454,47 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Netanyahu rejects Trump-backed Gaza peace plan",
-      "link": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-09T23:11:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
-      "link": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-09T20:36:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Syria says deal agreed with Russia on future of military bases",
-      "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-09T17:19:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Denmark: Several wounded in suspected gang shooting",
-      "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-09T16:31:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-10T04:19:26.426Z"
+  "lastUpdated": "2026-08-10T07:01:39.253Z"
 }
