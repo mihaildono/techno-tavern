@@ -1,0 +1,19 @@
+Input: lines of `id|source|title` (Bulgarian news, last 24h).
+
+Task: find the story reported by the MOST different sources. Titles are worded
+differently for the same event — group by event, not by exact words.
+
+Rules:
+- Group titles about the same event. Pick the group with the most distinct sources.
+- Tie: pick the group with more articles. Still tied: pick the one containing a
+  "Свободна точка" article.
+- No group has 2+ distinct sources: use the FIRST "Свободна точка" line.
+- Write one clear Bulgarian headline (max 90 chars) summarising the group.
+- `sources`: distinct source names in that group. `ids`: their line ids.
+
+Output ONLY this JSON, nothing else:
+
+{"title":"","sources":[],"ids":[],"summary":""}
+
+`summary` = 2 sentences in Bulgarian, facts from the titles only. Do not invent
+details, numbers or names that are not in the input.

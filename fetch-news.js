@@ -4,7 +4,13 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
+// Active feed shown on the site (overwritten on every run)
 const OUTPUT_FILE = path.join(__dirname, "news.json");
+// Rolling accumulator of everything seen in the last 24h (never overwritten,
+// only appended to + pruned). Cleared by reset-news-24h.js after the daily
+// top-news summary is generated.
+const ARCHIVE_FILE = path.join(__dirname, "news-24h.json");
+const ARCHIVE_WINDOW_HOURS = 24;
 
 // RSS feeds with source metadata
 const RSS_SOURCES = [
@@ -241,6 +247,78 @@ function loadExistingNews() {
   return [];
 }
 
+// --- 24h rolling archive ---
+
+function dedupeKey(item) {
+  if (item.link) {
+    try {
+      const url = new URL(item.link);
+      return `${url.hostname.toLowerCase()}${url.pathname.replace(/\/+$/, "")}`;
+    } catch (_) {
+      return item.link.trim();
+    }
+  }
+  return `${item.source?.name || ""}::${(item.title || "").trim().toLowerCase()}`;
+}
+
+function loadArchive() {
+  try {
+    if (fs.existsSync(ARCHIVE_FILE)) {
+      const data = JSON.parse(fs.readFileSync(ARCHIVE_FILE, "utf8"));
+      if (Array.isArray(data.items)) return data;
+    }
+  } catch (e) {
+    console.log("⚠️  Could not read existing news-24h.json, starting fresh");
+  }
+  return { windowStart: null, lastUpdated: null, items: [] };
+}
+
+function updateArchive(freshItems) {
+  const now = new Date();
+  const archive = loadArchive();
+  const cutoff = now.getTime() - ARCHIVE_WINDOW_HOURS * 60 * 60 * 1000;
+
+  const seen = new Map();
+  for (const item of archive.items) {
+    seen.set(dedupeKey(item), item);
+  }
+
+  let added = 0;
+  for (const item of freshItems) {
+    const key = dedupeKey(item);
+    if (seen.has(key)) continue;
+    seen.set(key, { ...item, firstSeen: now.toISOString() });
+    added++;
+  }
+
+  const kept = [...seen.values()].filter((item) => {
+    const ts = Date.parse(item.firstSeen || item.pubDate || "");
+    return Number.isNaN(ts) ? true : ts >= cutoff;
+  });
+
+  const dropped = seen.size - kept.length;
+
+  kept.sort((a, b) => {
+    const at = Date.parse(a.firstSeen || a.pubDate || 0) || 0;
+    const bt = Date.parse(b.firstSeen || b.pubDate || 0) || 0;
+    return bt - at;
+  });
+
+  const output = {
+    windowStart: archive.windowStart || now.toISOString(),
+    windowHours: ARCHIVE_WINDOW_HOURS,
+    lastUpdated: now.toISOString(),
+    totalItems: kept.length,
+    items: kept,
+  };
+
+  fs.writeFileSync(ARCHIVE_FILE, JSON.stringify(output, null, 2));
+
+  console.log(
+    `🗄️  news-24h.json: +${added} new, -${dropped} expired, ${kept.length} total (window started ${output.windowStart})`,
+  );
+}
+
 // --- Main ---
 
 async function fetchAllFeeds() {
@@ -290,6 +368,7 @@ async function fetchAllFeeds() {
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
+  updateArchive(allItems);
 
   console.log("\n✅ Successfully updated news.json");
   console.log(`📰 Total articles: ${output.items.length}`);

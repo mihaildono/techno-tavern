@@ -1,0 +1,54 @@
+name: Daily Top News Digest
+
+on:
+  schedule:
+    # 18:00 Europe/Sofia — 15:00 UTC in summer (EEST), 16:00 UTC in winter (EET).
+    # Both fire; the guard below lets only the correct one through.
+    - cron: "0 15 * * *"
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check it is 18:00 in Bulgaria
+        id: guard
+        run: |
+          HOUR=$(TZ=Europe/Sofia date +%H)
+          if [ "$HOUR" = "18" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Skipping — local hour is $HOUR, not 18"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout repository
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Final fetch to close the 24h window
+        if: steps.guard.outputs.run == 'true'
+        run: node fetch-news.js
+
+      - name: Build compact AI digest
+        if: steps.guard.outputs.run == 'true'
+        run: node news-daily.js digest
+
+      - name: Commit and push if changed
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news.json news-24h.json news-digest.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Close 24h news window and build digest" && git push)
