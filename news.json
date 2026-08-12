@@ -71,17 +71,7 @@
       }
     },
     {
-      "title": "Комикс №132229 - dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHLVk3VUJXakNwQ29uYTZTTWstVU9JczZnQW9uOC1jMFFjWWZnTF9Yd3cxRXVUd1NkQmRodlYzdm1oTGEtcUplVVFfMF8?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 06:58:21 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №344004 - dnevnik.bg",
+      "title": "Комикс №344004 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4ZS1JbWJtUTRWWlhXT3RqRWxGT19WQWVpdU1EenJtbFg4M2cyZVhyelJ4RDJMWlh0OHZEekp6VDBUaTYxM3A4aUEydzg?oc=5",
       "pubDate": "Sat, 04 Jan 2025 08:00:00 GMT",
       "thumbnail": null,
@@ -91,7 +81,7 @@
       }
     },
     {
-      "title": "Комикс №182255 - dnevnik.bg",
+      "title": "Комикс №182255 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGhJYklycUNGeC1ZWnprZmZNMTh0bHYzcEExNmtmcUl6NXhvV290cEx1WWlIZHVHUF9rRlRNWkhpNjhLVjJnbmVXT1lCNEJpV0V1MDFlLTJVSzJ1ZEZVby1XS2FRUnZCTElrelJnV2FlUTdUbmNzVUdmaWlBVF9mNkltNF9zd3hCTk9tMkNha2YzcDN6NFR0X3BLN0JsTURTRXhFY05LZEhLTXFjUjVBUm9WT1FJNExiN3NKX2U2aw?oc=5",
       "pubDate": "Tue, 25 Apr 2017 07:00:00 GMT",
       "thumbnail": null,
@@ -101,7 +91,7 @@
       }
     },
     {
-      "title": "Комикс №60869 - dnevnik.bg",
+      "title": "Комикс №60869 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xSTJMME1NTjhsYXZ0MkJ4SXhxdjZzTmN4eG4yMVZranc5Y2FoR1J4TEdpSWdWczEtQ056TjN0eENtN1JBSTNuOGpBYw?oc=5",
       "pubDate": "Tue, 11 Aug 2026 16:30:19 GMT",
       "thumbnail": null,
@@ -111,7 +101,7 @@
       }
     },
     {
-      "title": "Комикс №345485 - dnevnik.bg",
+      "title": "Комикс №345485 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QTWhMLXdvR0h4cmRtZHVTNzU5TnRpamY2a2k3QzRmU3VjcVk3dzRzX2RxdUxub2ZlOC1hdDZTTy1mVXRjajctRUNMOV8?oc=5",
       "pubDate": "Fri, 24 Jan 2025 08:00:00 GMT",
       "thumbnail": null,
@@ -121,49 +111,59 @@
       }
     },
     {
+      "title": "Комикс №341600 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HanNORU5ULXR5cnd6RTdnMTl3S09mR09MQ2Q1MGhvX3FQLXFvZVBTZ09CZXVIZENHbFBQU0pTcnNpbXRGOFNOazl0bDU?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 05:10:38 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Съдия, отстранен от Орбан. Кой е новият президент на Унгария Андраш Бака",
+      "link": "https://svobodnatochka.bg/novini/ungariya-nov-prezident/",
+      "pubDate": "2026-08-12 13:44:57",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Донев получи седмица отсрочка да реши ще даде ли Пловдивския панаир на Гергов",
+      "link": "https://svobodnatochka.bg/novini/plovdivskiya-panair-georgi-gergov-galab-donev/",
+      "pubDate": "2026-08-12 12:05:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Деолигархизация“. Правителството гласува управленската си програма 3 месеца след началото на мандата",
+      "link": "https://svobodnatochka.bg/novini/radev-upravlenska-programa/",
+      "pubDate": "2026-08-12 11:01:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Безотговорно“. ГЕРБ, ДБ и ПП отхвърлиха думите на Радев, че тийнейджърите от Пловдив са „креатура“ на опозицията",
+      "link": "https://svobodnatochka.bg/novini/gerb-db-pp-reaktsii-radev/",
+      "pubDate": "2026-08-12 10:45:11",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "„Умишлено или непредпазливо“. Прокуратурата започна дело за палеж на завода на Гебрев до Трявна",
       "link": "https://svobodnatochka.bg/novini/prokuratura-delo-palezh-emko/",
       "pubDate": "2026-08-12 09:33:35",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Един от младежите, обвинени за побой над непалци в Пловдив, е присъствал и на убийството на Георги Кузев",
-      "link": "https://svobodnatochka.bg/novini/mladezhi-poboy-nepaltsi-plovdiv-ubiistvo/",
-      "pubDate": "2026-08-12 09:21:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Ваши креатури“. Радев обвини опозицията за убийството в Пловдив. Заговори за религията в училище и съветските паметници",
-      "link": "https://svobodnatochka.bg/novini/radev-obvini-opozitsiya-ubiistvo/",
-      "pubDate": "2026-08-12 08:27:15",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Като скинар ще го бия“. Какво знаем за побоя в Радомир, който 14-годишно момче нанесе над 12-годишно",
-      "link": "https://svobodnatochka.bg/istorii/radomir-poboy-skinar/",
-      "pubDate": "2026-08-12 06:13:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Три минути: Дунав продължава да спада. Асад е осъден задочно на смърт. Как България ще се пази от дронове",
-      "link": "https://svobodnatochka.bg/tri-minuti/r-2/",
-      "pubDate": "2026-08-12 05:27:30",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
@@ -261,7 +261,7 @@
       }
     },
     {
-      "title": "EnduroSat подписа меморандум с правителството за космически индустриален парк в Доброславци - Капитал",
+      "title": "EnduroSat подписа меморандум с правителството за космически индустриален парк в Доброславци - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnFFTmJpVHdvM25LME5YRHRaRTZkcWNua1ZiSFA1eEtFMXQxUjhzcWhJNWJUdzF0RGhoT1NvUG5BcDhhdGhfM21Vb1IzeTVVRWZHQ0NCOWVudGVQS3I1UFMxRmFRelQ0Wl9nS2FsdWRSSXhNWHY0UzgxemtFUWtoTjY4U0lEc2ZHNXM5SXo3QzN3N2hGd3hod2xWVmJSMmVJZ281R3ZPSlVFYWs1b3NwT3paNTROTkJs?oc=5",
       "pubDate": "Thu, 06 Aug 2026 09:35:00 GMT",
       "thumbnail": null,
@@ -506,5 +506,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-12T15:45:22.484Z"
+  "lastUpdated": "2026-08-12T15:51:55.405Z"
 }
