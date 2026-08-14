@@ -1,9 +1,361 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-14T04:40:00.556Z",
-  "totalItems": 126,
+  "lastUpdated": "2026-08-14T07:01:45.815Z",
+  "totalItems": 150,
   "items": [
+    {
+      "title": "Малкият стадион на ЦСКА и голямото българско огледало",
+      "link": "https://offnews.bg/analizi-i-komentari/malkiat-stadion-na-tcska-i-goliamoto-balgarsko-ogledalo-872664.html",
+      "pubDate": "2026-08-14 06:57:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872664/phpcvktj7_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8857
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "",
+      "link": "https://offnews.bg//-872663.html",
+      "pubDate": "2026-08-14 06:41:06",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872663/phpibylc0_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6341
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Тръмп наложи 100% мита върху вноса на дронове",
+      "link": "https://offnews.bg/sviat/tramp-nalozhi-100-mita-varhu-vnosa-na-dronove-872661.html",
+      "pubDate": "2026-08-14 06:40:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872661/php0kigct_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5529
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Акция на ГДБОП срещу лихвари в Ботевградско, има задържани",
+      "link": "https://offnews.bg/112/aktcia-na-gdbop-sreshtu-lihvari-v-botevgradsko-ima-zadarzhani-872660.html",
+      "pubDate": "2026-08-14 06:02:33",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872660/phpbeo2wu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5418
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Иван Христанов ще се кандидатира за президент",
+      "link": "https://offnews.bg/politika/ivan-hristanov-shte-se-kandidatira-za-prezident-872659.html",
+      "pubDate": "2026-08-14 05:37:50",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872659/phpcpaqvg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6412
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Фотогалерия: Хали Бери на 60 години - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0htaVdEMXp5SHdaSnNGelFZRFNnaFNhcW94WjRVWEE4TWNiWFlPVHJNTnhBcFNjTUJTa2ZERkRrZWdERzljbktSVncxNGd6MHhsWUVEOXdTSU5sUTB1UGZQbjY1WUloYk1vaGxNcW42WDdQV0V0NXlvOVJJVWNYZldFTHA1dG90ajF4NFh3?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 03:30:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Кабинетът задейства завода за барут на Гебрев, който беше спрян след натиск от Пеевски",
+      "link": "https://svobodnatochka.bg/novini/radev-gebrev-zavod-barut-peevski/",
+      "pubDate": "2026-08-14 06:23:24",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Три минути: Гебрев получава зелена светлина за завода за барут. Халкидики гори. Защо процъфтява саморазправата",
+      "link": "https://svobodnatochka.bg/tri-minuti/tri-minuti-30/",
+      "pubDate": "2026-08-14 05:09:33",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "20 нови мотриси заместват старите влакове на БДЖ",
+      "link": "https://www.mediapool.bg/20-novi-motrisi-zamestvat-starite-vlakove-na-bdzh-news386533.html",
+      "pubDate": "2026-08-14 06:30:06",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_eab0c486753c7d3b331e31ed56963124.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Тръмп налага до 100% мита за внос на дронове",
+      "link": "https://www.mediapool.bg/tramp-nalaga-do-100-mita-za-vnos-na-dronove-news386532.html",
+      "pubDate": "2026-08-14 06:00:20",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_3c6f1d32d2f48c93df56f80a9fc9445c.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Погребват пребития от младежи Георги Кузев, Пловдивският митрополит води опелото",
+      "link": "https://www.mediapool.bg/pogrebvat-prebitiya-ot-mladezhi-georgi-kuzev-plovdivskiyat-mitropolit-vodi-opeloto-news386531.html",
+      "pubDate": "2026-08-14 05:27:43",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_3315f009d9cc97581cbaccd4578125b6.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Три нови станции и още 3 км - тръгва метрото до кв. \"Левски Г\"",
+      "link": "https://www.mediapool.bg/tri-novi-stantsii-i-oshte-3-km---tragva-metroto-do-kv-levski-g-news386523.html",
+      "pubDate": "2026-08-14 04:50:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_e09ec88145ff70e49ab19923113b83b0.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Кабинетът \"Радев\" няма да завърши нито една магистрала до 2030 г.",
+      "link": "https://www.mediapool.bg/kabinetat-radev-nyama-da-zavarshi-nito-edna-magistrala-do-2030-g-news386529.html",
+      "pubDate": "2026-08-14 04:45:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_885d909d5dad934919b045653c9862ee.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на mu88co - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NMGJBYVJjbU82NEpqYUtxMTFHWXREYnd5STFlajB1NDVJaDY0bTJaUXJUR3UtRE12T1k1LU9xSVByS0NSbzFYeUFn?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 05:19:19 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Библиотека / Капитал - брой 32 - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmQzdUZ3eW51RzQ3UDVhUGRrdmpUQ000dGVOWmYwREVoN3N3WUZkcXJwdVowQWZGYTlEd21YRV9zYnI0ay1nYXp1anBaeGhqbzYwXzlTRjlwVUIyN1huRWRsa200b0NMSG9vR2tLSVdXMmh2Yk9Mc190Tkplb2pDMTlR?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 03:28:19 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Командирът на авиобаза \"Граф Игнатиево\": Да си поддържаме МиГ-29 до края",
+      "link": "https://www.actualno.com/society/komandiryt-na-aviobaza-graf-ignatievo-da-si-poddyrjame-mig-29-do-kraja-news_2628735.html",
+      "pubDate": "2026-08-14 06:56:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/ae35ae2129f9b6881a0c0bb6d5870166_2628735_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Себастиан Баес – Григор Димитров: Кога и къде да гледаме старта на Гришо на Мастърс-а в Синсинати?",
+      "link": "https://www.actualno.com/tennis/sebastian-baes-grigor-dimitrov-koga-i-kyde-da-gledame-starta-na-grisho-na-mastyrs-a-v-sinsinati-news_2628734.html",
+      "pubDate": "2026-08-14 06:55:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/3e39f4133c3e3cc4c8c5f40c62f4fbc5_2628734_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Русия притиска Украйна с удари по зърното: Мащабите (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/rusija-pritiska-ukrajna-s-udari-po-zyrnoto-mashtabite-obzor-video-news_2628732.html",
+      "pubDate": "2026-08-14 06:53:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/46dc3d4c121fea7250c570fbf8212367_2628732_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "DARA с уникален подарък от Бургас",
+      "link": "https://www.actualno.com/burgas/dara-s-unikalen-podaryk-ot-burgas-news_2628731.html",
+      "pubDate": "2026-08-14 06:52:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/7d4aacd225735920722f1b7b9430414b_2628731_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Загасиха пожара в Халкидики, но може да пламне отново",
+      "link": "https://www.actualno.com/balkani/zagasiha-pojara-v-halkidiki-no-moje-da-plamne-otnovo-news_2628728.html",
+      "pubDate": "2026-08-14 06:42:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/dad78c9d5056410837caf394b235ec30_2628728_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "5000 души и над 250 дни на борда: Сигнали за криза на USS Abraham Lincoln",
+      "link": "https://frognews.bg/novini/5000-dushi-nad-250-dni-borda-signali-kriza-uss-abraham-lincoln.html",
+      "pubDate": "2026-08-14 06:50:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/59bbb85f9_1786684065_6a7ea2a1cac73.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Командвал единствената подводница на Украйна, после избрал Русия – убит с бомба",
+      "link": "https://frognews.bg/novini/komandval-edinstvenata-podvodnitsa-ukrayna-posle-izbral-rusiya-ubit-bomba.html",
+      "pubDate": "2026-08-14 06:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/059fafefe_1786687884_6a7eb18c64cfd.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Десетки каравани край Тюленово и „Паша дере“ – започнаха проверки и санкции",
+      "link": "https://frognews.bg/novini/desetki-karavani-krai-tiulenovo-pasha-dere--zapochnaha-proverki-sanktsii.html",
+      "pubDate": "2026-08-14 06:05:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/1e44c5be2_1786687669_6a7eb0b562a56.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Иван Христанов се кандидатира за президент. Кои са ясните имена за вота?",
+      "link": "https://frognews.bg/novini/ivan-hristanov-kandidatira-prezident-koi-yasnite-imena-vota.html",
+      "pubDate": "2026-08-14 05:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/93d80d888_1786684792_6a7ea578773a9.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Нов участък от метрото отваря днес – пътниците тръгват след 12:00 ч.",
+      "link": "https://frognews.bg/novini/nov-uchastak-metroto-otvarya-dnes-patnitsite-tragvat-sled-12-00.html",
+      "pubDate": "2026-08-14 05:15:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/91d32bbdc_1786684166_6a7ea3066fe9a.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "India news: 7 dead, 3 trapped in Uttarakhand tunnel collapse",
+      "link": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-14T06:45:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
+    {
+      "title": "Can childhood trauma be prevented with a drug?",
+      "link": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-14T06:22:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-14T07:01:45.815Z"
+    },
     {
       "title": "Bluesky Protocol Services",
       "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
@@ -1510,39 +1862,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-13T07:05:15.216Z"
-    },
-    {
-      "title": "ForexTrump - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRGlzZENhUmVOZm1kb04xOGVlek16Y2JNNVhnc0hKZkFKelRCXzFlNHQtNDE4QVZyS2NyZVJUM01KcjY4Yml0czBBTEtNSUU?oc=5",
-      "pubDate": "Thu, 11 Sep 2025 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-13T04:42:13.760Z"
-    },
-    {
-      "title": "Нолановата \"Одисея\": човешко, твърде човешко - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2hSdFNYeV9jaV9TXy00VmlITHcxLWkxLUFRUkVGTFlJSDJxakdUYXlGMDhvRHhLZkVGTjYzYnQtZEt4bkk2R1I4MC1DNnpYRjZsYWFEUzRxYUhXUzNmcGNjMnY3Z282NkNvbGdXbjZGS0lrLW9GdnpaelZTN0lkUlo2T1hZNWNGcVNXUFdPbHNmajBGa0ozdHVDejRMYkZqRkE?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-13T04:42:13.760Z"
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "pubDate": "2026-08-12 23:26:21",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-13T04:42:13.760Z"
     }
   ]
 }
