@@ -72,8 +72,8 @@
     },
     {
       "title": "Читателски дневник - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yaXhQdW9ucmJLd0NCcGplSkQ2LXk2NmlCdG5IRldTRmlrcC1kem1rQ3RDc0I3NXN1UWRTUDNBM3l5NFg2Rk1nXzluX3NHUngxUzR5SDY0dTctb3phNEhiZUV4SUV4U0ZZYTV2MlJn?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 04:40:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YZG5Xc2JWVTNvMThDdU53bzdxZ21zdTVJa2FtaDZMcjRwRU5MSGxjVkxhbzdYRWtPQUJYYWpfTGlKd3gwb2FXOFIwdG9ZaDBlWGJuRW85Y2l1VUtKcW9vbXBqVlRzTHZKNjhreGpB?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:39:57 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -81,9 +81,19 @@
       }
     },
     {
-      "title": "Комикс №354662 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5MzJNMF9XUzlLYXAyZThYUmdHbkUyRy0zbWN5N0Q0N3AwaXhmaEdjVUt5ZjJ1ZFIxX3VOOXpHMFRIMTUwWGRmc0FmY0o?oc=5",
-      "pubDate": "Sat, 19 Jul 2025 07:00:00 GMT",
+      "title": "Комикс №348140 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iWVFSSTJseWpidW1SbTVKM0VyenctWXp3YXVLRXVGSEo4MkZmYVR5cUI4cHdXS3dHbEJCVzF3elZaTmFWTm5Gdm5ZWHQ4QTk2WFk3U0trZFNxdDdiSkxjQjM3OFI0QQ?oc=5",
+      "pubDate": "Sat, 15 Mar 2025 07:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №95569 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zdVA4NUpPTm9pYlJGRy02a3YyUW5kTUNOYVhpMEo3WDVSRVBXeWo2WWZaRURfS0dVN1Vfd2NvLUhDVjRJMmRKYmJaRQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 03:26:20 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,19 +111,9 @@
       }
     },
     {
-      "title": "Комикс №344750 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85SlVmWmdtZzdkSk1NNjB2NDJMa3hmS0ROeHQ4YWhJSEdjSkJVQjlEYWVDQmRNNnhRVEVrR1JxVGJWTzl5NlVjLXJmaDM?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:52:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №351070 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MN1Y0SmVGRXBXTE1CREVaVW5ySmVNTU95MU02OGlmZndxWTctRm4xY2VWUnRQNnVhM2wxWjduYnFKMHJJT3BHSVljRFk?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 19:45:44 GMT",
+      "title": "Комикс №354661 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15UUlYWC1QTnVieHlYWjh6b0dsajkwOG1hRmRaZDVteG82RXdWVXV2ZkdWQ2ZGZWtrU0VBZ2ZQLTJCd3lqRy10c3pGYlU?oc=5",
+      "pubDate": "Sat, 19 Jul 2025 07:00:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -496,5 +496,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-15T15:07:44.074Z"
+  "lastUpdated": "2026-08-15T15:11:54.183Z"
 }
