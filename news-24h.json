@@ -1,9 +1,336 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-15T12:11:13.477Z",
-  "totalItems": 128,
+  "lastUpdated": "2026-08-15T15:07:44.074Z",
+  "totalItems": 144,
   "items": [
+    {
+      "title": "Писмо от Евксиноград",
+      "link": "https://offnews.bg/nashite-avtori/pismo-ot-evksinograd-872699.html",
+      "pubDate": "2026-08-15 11:51:58",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/14/872699/phpdpbsxs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5117
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Нетаняху нарече Великобритания ''ислямска република'', Лондон: ''Напълно неприемливо''",
+      "link": "https://offnews.bg/sviat/netaniahu-nareche-velikobritania-isliamska-republika-london-na-872745.html",
+      "pubDate": "2026-08-15 11:48:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/15/872745/phptfy7it_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4973
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Оставиха в ареста мъжа, превозвал наркотици с бебе в колата",
+      "link": "https://offnews.bg/112/ostaviha-v-aresta-mazha-prevozval-narkotitci-s-bebe-v-kolata-872744.html",
+      "pubDate": "2026-08-15 11:38:01",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/15/872744/phpsg8i4q_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4532
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Украйна удари обект на Роскосмос",
+      "link": "https://offnews.bg/sviat/ukrajna-udari-obekt-na-roskosmos-872743.html",
+      "pubDate": "2026-08-15 11:32:11",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/15/872743/phpe4jfel_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7025
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Руски атаки взеха жертви в Украйна, сред тях 3-месечно бебе",
+      "link": "https://offnews.bg/sviat/ruski-ataki-vzeha-zhertvi-v-ukrajna-sred-tiah-3-mesechno-bebe-872742.html",
+      "pubDate": "2026-08-15 11:24:25",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/15/872742/phpnpm9my_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5494
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Читателски дневник - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yaXhQdW9ucmJLd0NCcGplSkQ2LXk2NmlCdG5IRldTRmlrcC1kem1rQ3RDc0I3NXN1UWRTUDNBM3l5NFg2Rk1nXzluX3NHUngxUzR5SDY0dTctb3phNEhiZUV4SUV4U0ZZYTV2MlJn?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 04:40:02 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Десетки имоти и стотици хиляди евро. Кои са най-богатите министри в кабинета „Радев“",
+      "link": "https://svobodnatochka.bg/novini/koi-sa-naj-bogatite-ministri-v-pravitelstvoto-na-radev/",
+      "pubDate": "2026-08-15 13:07:11",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Украйна удари центъра за производство на космически ракети „Союз“ в Русия",
+      "link": "https://svobodnatochka.bg/novini/ukrajna-udari-czentara-za-proizvodstvo-na-kosmicheski-raketi-soyuz-v-rusiya/",
+      "pubDate": "2026-08-15 11:17:59",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "„Не съдържа достатъчно конкретни факти“. Делото срещу Благомир Коцев окончателно се връща в прокуратурата",
+      "link": "https://svobodnatochka.bg/novini/delo-blagomir-koczev-prokuraturata/",
+      "pubDate": "2026-08-15 09:22:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Голямата картина: Бой, деолигархизация и баня без вода",
+      "link": "https://svobodnatochka.bg/golyamata-kartina/boy-deoligarhizatsiya-banya-bez-voda/",
+      "pubDate": "2026-08-15 07:30:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Как видът на новите евробанкноти може да зависи и от вас",
+      "link": "https://svobodnatochka.bg/video/glasuvane-za-novite-evrobanknoti/",
+      "pubDate": "2026-08-15 06:42:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Терзиев: София ще бъде част от празника \"Евровизия\", но БНТ дължи отговори за избора си",
+      "link": "https://www.mediapool.bg/terziev-sofiya-shte-bade-chast-ot-praznika-evroviziya-no-bnt-dalzhi-otgovori-za-izbora-si-news386571.html",
+      "pubDate": "2026-08-15 10:57:44",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_acb616135bc1385d516433cf8d015ad3.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Най-малко 7 жертви на израелски удар в Южен Ливан",
+      "link": "https://www.mediapool.bg/nai-malko-7-zhertvi-na-izraelski-udar-v-yuzhen-livan-news386570.html",
+      "pubDate": "2026-08-15 10:36:57",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_52cb234d1f0d235570dc5bb5d5b6e108.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Мощно земетресение край Индонезия уби 37 души и предизвиква масови евакуации",
+      "link": "https://www.mediapool.bg/moshtno-zemetresenie-krai-indoneziya-ubi-37-dushi-i-predizvikva-masovi-evakuatsii-news386560.html",
+      "pubDate": "2026-08-15 10:30:04",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_13d38b555158184877de04da0f84471b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Библиотека / Спорт и бизнес - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3JWUEp1NHZKNXJ1cXFNY1FlNnJtM1pqd3lvdkxTYjR4UnlMRTgxSnlRSDdjTGJhMm5pdzN2cUxKR2h3Z3ZSTUcwRHZRbERkTk5wdWRSbHB6aUZiWGVtRVBIeVZDRzkxblN3RzJjRnpVeDhueDMtSUxXR1h0cEJyNg?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 07:11:56 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Недейте да заговорничите срещу нас: Талибаните празнуват 5-та година на власт",
+      "link": "https://www.actualno.com/asia/nedejte-da-zagovornichite-sreshtu-nas-talibanite-praznuvat-5-ta-godina-na-vlast-news_2629161.html",
+      "pubDate": "2026-08-15 11:53:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/765d067635002c67a9db6aa18d607219_2629161_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "С един удар: Украински рейнджъри взеха трима пленници, но това, което откриха още, ги трогна",
+      "link": "https://www.actualno.com/europe/s-edin-udar-ukrainski-rejndjyri-vzeha-trima-plennici-no-tova-koeto-otkriha-oshte-gi-trogna-news_2629157.html",
+      "pubDate": "2026-08-15 11:38:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/79d59f572d95a9b4b0e621b610e4b435_2629157_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Ормузкият проток не може да бъде превзет с туитове",
+      "link": "https://www.actualno.com/cite/ormuzkijat-protok-ne-moje-da-byde-prevzet-s-tuitove-news_2629135.html",
+      "pubDate": "2026-08-15 11:03:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/369b0ba8d25b265de3d1c148a439d502_2629135_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Съдът реши: Мъжът, хванат с наркотици и бебе в колата, остава зад решетките",
+      "link": "https://www.actualno.com/crime/sydyt-reshi-myjyt-hvanat-s-narkotici-i-bebe-v-kolata-ostava-zad-reshetkite-news_2629151.html",
+      "pubDate": "2026-08-15 11:03:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/7a84fa6145a516c2d147943243024e45_2629151_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Отчаяният скок от 11-ия етаж: Единственият изход от пламъците (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/otchajanijat-skok-ot-11-ija-etaj-edinstvenijat-izhod-ot-plamycite-video-news_2629145.html",
+      "pubDate": "2026-08-15 10:37:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/502bdbd0779a414e83676af19b92f150_2629145_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Летището в Бургас е готово за Евровизия. Терзиев: София ще участва в празника",
+      "link": "https://frognews.bg/novini/letishteto-burgas-gotovo-evroviziia-terziev-sofiia-shte-uchastva-praznika.html",
+      "pubDate": "2026-08-15 12:20:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Туризмът се променя: Как инфлуенсърите трансформират пътуванията",
+      "link": "https://frognews.bg/novini/turizmat-promenia-kak-influensarite-transformirat-patuvaniiata.html",
+      "pubDate": "2026-08-15 11:35:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "„Далекобойни санкции“: Киев удари с „Фламинго“ обект на Роскосмос и военно летище",
+      "link": "https://frognews.bg/novini/dalekoboini-sanktsii-kiev-udari-flamingo-obekt-roskosmos-voenno-letishte.html",
+      "pubDate": "2026-08-15 10:45:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Кремъл се мъчи да избегне втора масова мобилизация, но жертвите растат",
+      "link": "https://frognews.bg/novini/kremal-machi-izbegne-vtora-masova-mobilizatsiia-jertvite-rastat.html",
+      "pubDate": "2026-08-15 10:20:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Предписания, глоби и пак същото: Нови нарушения в столичния завод за отпадъци",
+      "link": "https://frognews.bg/novini/predpisaniia-globi-pak-sashtoto-novi-narusheniia-stolichniia-zavod-otpadatsi.html",
+      "pubDate": "2026-08-15 09:30:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
+    {
+      "title": "Hawaii under state of emergency ahead of historic hurricane",
+      "link": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-15T12:11:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-15T15:07:44.074Z"
+    },
     {
       "title": "The other Sean Byrne doesn't exist",
       "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
@@ -1472,116 +1799,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-14T15:38:40.549Z"
-    },
-    {
-      "title": "Комикс №106478 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMFJFaVdiMFZ2QkpGMFJSVUpKekxpeXktMklPNzB2N213RHZHcHVGYmhTalp4VzVOMndpTDdTNlhCaTktY0RKMXo4MzFxVllMWURPS2lqeVQySGktU09FUTdDRzVuN0V2SFl4dGpKUmxsemVxRjB3VlVsQWtTV2ZHWGlJcXpwWXJlVmg4ZHZEMUJacndvS1pZZkQyOFVVTEswT2N0dXlrRFI4N0xWa3M5T3pseHpHQTJGc3ZFUEF0dGF0TnRFYjBnNzYtZlQ5RjRY?oc=5",
-      "pubDate": "Mon, 23 Feb 2015 08:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Комикс №353547 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KbUdVRzl1UWQtem9sNWdDRjFzYVd5REJmN1FmWXV1Vk5WX1pTMkdiV0pDcUVQVl8xNGNaSGtuYXpidkx2eDNFeFZSRUoyX2U5bmhJOGprTGhFZnhxNHl1a19sSGdaTm5CSFdBc1Q5NA?oc=5",
-      "pubDate": "Fri, 27 Jun 2025 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Комикс №347522 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SWUNYV1FLYm45VzhGSHpyMFNIRURWQ1ZDQlRweENGblp6eTVWLVl5LS1hTWdvVzZkbUhkblU2LThBaFVZWndQdXEyZTc?oc=5",
-      "pubDate": "Sat, 01 Mar 2025 08:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Библиотека / Капитал - брой 32 - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UNXZQak44aWw4clJCMUdUaWpLaFJpX1U3Q3B5ZlJqbG42QlRMMG43WUdIblB1V2ZGYzdWT1F4dVhHMGM2cFRnQ0NVUDlnYTUteGlVWF9EN1hhOTRCTnRmWXFWTkhmd2haalBKSmFQZk84b1FlZXduT2NuX2tEZw?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 08:53:23 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "link": "https://z.ai/blog/glm-5.3",
-      "pubDate": "2026-08-14 05:19:59",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "pubDate": "2026-08-14 10:12:48",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Can a massive Madonna help slow secularization in Poland?",
-      "link": "https://www.dw.com/en/can-a-massive-madonna-help-slow-secularization-in-poland/a-78369179?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-14T12:27:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "NATO jets shoot down drone over Latvia",
-      "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-14T12:17:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Zambia suspends vote count after violence",
-      "link": "https://www.dw.com/en/zambia-suspends-vote-count-after-violence/a-78368601?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-14T10:56:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
-    },
-    {
-      "title": "Berlin&apos;s Russian House: A hub for propaganda and espionage?",
-      "link": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-14T10:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-14T12:33:09.065Z"
     }
   ]
 }
