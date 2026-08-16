@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Откриха тялото на мъжа, който потъна в яз. Доспат",
+      "link": "https://offnews.bg/112/otkriha-tialoto-na-mazha-kojto-potana-v-iaz-dospat-872759.html",
+      "pubDate": "2026-08-15 19:20:44",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/15/872759/php9pi5cc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6093
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Пламна пожар край Слънчев бряг",
       "link": "https://offnews.bg/112/plamna-pozhar-kraj-slanchev-briag-872758.html",
       "pubDate": "2026-08-15 17:54:40",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/15/872758/php96uxdt_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/08/15/872758/php96uxdt_559x345.jpg",
         "type": "image/jpeg",
         "length": 3327
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/gimnastika/balgaria-sas-srebro-v-otbornata-nadprevara-na-svetovnoto-po-hudozhestv-872757.html",
       "pubDate": "2026-08-15 17:39:41",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/15/872757/phpmkda4e_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/08/15/872757/phpmkda4e_559x345.jpg",
         "type": "image/jpeg",
         "length": 8027
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/112/spasitelna-operatcia-za-postradalo-momche-v-rila-872756.html",
       "pubDate": "2026-08-15 16:50:09",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/15/872756/phpzjiuyi_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/08/15/872756/phpzjiuyi_559x345.jpg",
         "type": "image/jpeg",
         "length": 3996
       },
@@ -47,23 +61,9 @@
       "link": "https://offnews.bg/sviat/moskva-iska-obiasnenia-ot-sasht-i-turtcia-za-orazhia-za-ukrajna-chrez-872755.html",
       "pubDate": "2026-08-15 15:26:38",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/15/872755/phptvihcw_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/08/15/872755/phptvihcw_559x345.jpg",
         "type": "image/jpeg",
         "length": 5184
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Ансамбълът с шесто място в многобоя на Световното във Франкфурт",
-      "link": "https://offnews.bg/gimnastika/ansambalat-s-shesto-miasto-v-mnogoboia-na-svetovnoto-vav-frankfurt-872754.html",
-      "pubDate": "2026-08-15 15:17:26",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/15/872754/phpjwseuu_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 10807
       },
       "source": {
         "name": "OffNews",
@@ -171,6 +171,42 @@
       }
     },
     {
+      "title": "ТЕЦ \"Бобов дол\" спря заради възникнала авария",
+      "link": "https://www.mediapool.bg/tets-bobov-dol-sprya-zaradi-vazniknala-avariya-news386576.html",
+      "pubDate": "2026-08-15 18:34:11",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_9b1fa22b56641baa45a52ce2fc10ad7d.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Рекорден пожар в Белгия: ЕС изпрати самолети, тече евакуация в засегнатите райони",
+      "link": "https://www.mediapool.bg/rekorden-pozhar-v-belgiya-es-izprati-samoleti-teche-evakuatsiya-v-zasegnatite-raioni-news386575.html",
+      "pubDate": "2026-08-15 18:26:05",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_6474bc7944f10528b7ed8109392f1e54.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Нивото на река Дунав при Русе продължава да спада",
+      "link": "https://www.mediapool.bg/nivoto-na-reka-dunav-pri-ruse-prodalzhava-da-spada-news386574.html",
+      "pubDate": "2026-08-15 18:18:18",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_6ffc43c1a2153af965d94459201ed666.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "България е втора отборно, Николова - вицешампионка в многобоя с олимпийска квота",
       "link": "https://www.mediapool.bg/bulgaria-e-vtora-otborno-nikolova---vitseshampionka-v-mnogoboya-s-olimpiyska-kvota-news386561.html",
       "pubDate": "2026-08-15 17:06:20",
@@ -188,42 +224,6 @@
       "pubDate": "2026-08-15 13:30:26",
       "thumbnail": {
         "link": "https://www.mediapool.bg/images/386/medium_59891bdf1fb2158f99a790525d3f7bfa.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Терзиев: София ще бъде част от празника \"Евровизия\", но БНТ дължи отговори за избора си",
-      "link": "https://www.mediapool.bg/terziev-sofiya-shte-bade-chast-ot-praznika-evroviziya-no-bnt-dalzhi-otgovori-za-izbora-si-news386571.html",
-      "pubDate": "2026-08-15 10:57:44",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_acb616135bc1385d516433cf8d015ad3.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Най-малко 7 жертви на израелски удар в Южен Ливан",
-      "link": "https://www.mediapool.bg/nai-malko-7-zhertvi-na-izraelski-udar-v-yuzhen-livan-news386570.html",
-      "pubDate": "2026-08-15 10:36:57",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_52cb234d1f0d235570dc5bb5d5b6e108.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Мощно земетресение край Индонезия уби 37 души и предизвиква масови евакуации",
-      "link": "https://www.mediapool.bg/moshtno-zemetresenie-krai-indoneziya-ubi-37-dushi-i-predizvikva-masovi-evakuatsii-news386560.html",
-      "pubDate": "2026-08-15 10:30:04",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_13d38b555158184877de04da0f84471b.jpg"
       },
       "source": {
         "name": "Mediapool",
@@ -281,11 +281,11 @@
       }
     },
     {
-      "title": "AI бот преобръща Уолстрийт с главата надолу: Превърна 1000 долара в 50 000",
-      "link": "https://www.actualno.com/finance/ai-bot-preobryshta-uolstrijt-s-glavata-nadolu-prevyrna-1000-dolara-v-50-000-news_2628897.html",
-      "pubDate": "2026-08-15 18:00:00",
+      "title": "Пълно класиране в Първа лига 2026/27 - Лудогорец се върна на върха",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-ludogorec-se-vyrna-na-vyrha-news_2618889.html",
+      "pubDate": "2026-08-15 20:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/9fc368b1da6fd700f132b8523d0b7a92_2628897_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Тотално отписаха българския шампион от Шампионска лига, но посочиха един играч, който \"не спира да бележи\"",
-      "link": "https://www.actualno.com/bgfootball/totalno-otpisaha-bylgarskija-shampion-ot-shampionska-liga-no-posochiha-edin-igrach-kojto-ne-spira-da-beleji-news_2629238.html",
-      "pubDate": "2026-08-15 17:48:00",
+      "title": "Най-много \"сухи мрежи\" в Първа лига: Класиране на вратарите за \"Златната ръкавица\" за сезон 2026/27",
+      "link": "https://www.actualno.com/bgfootball/naj-mnogo-suhi-mreji-v-pyrva-liga-klasirane-na-vratarite-za-zlatnata-rykavica-za-sezon-202627-news_2625729.html",
+      "pubDate": "2026-08-15 20:31:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/66639eb532be28c244a095db94f566cc_2629238_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/bbc89268974bb7c0cd591a4630eb890d_2625729_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Талибаните прокудиха САЩ от Афганистан, но 5 години по-късно ги искат обратно",
-      "link": "https://www.actualno.com/asia/talibanite-prokudiha-sasht-ot-afganistan-no-5-godini-po-kysno-gi-iskat-obratno-news_2629180.html",
-      "pubDate": "2026-08-15 17:30:00",
+      "title": "Класиране на голмайсторите в Първа лига 2026/27 - двама делят върха",
+      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-dvama-deljat-vyrha-news_2625725.html",
+      "pubDate": "2026-08-15 20:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/1cb1dd306ff9d4c5fcfa81415c85ea39_2629180_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/13ab72fca37c4c27c6bb12dc8766fe7a_2625725_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "ЦСКА обяви още една очаквана раздяла - ненужен на Христо Янев напуска клуба",
-      "link": "https://www.actualno.com/bgfootball/cska-objavi-oshte-edna-ochakvana-razdjala-nenujen-na-hristo-janev-napuska-kluba-news_2629234.html",
-      "pubDate": "2026-08-15 17:28:00",
+      "title": "Пълни резултати на всички мачове в Първа лига през сезон 2026/27 - лекция за Лудогорец",
+      "link": "https://www.actualno.com/bgfootball/pylni-rezultati-na-vsichki-machove-v-pyrva-liga-prez-sezon-202627-lekcija-za-ludogorec-news_2618915.html",
+      "pubDate": "2026-08-15 20:24:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/38f0828d7182442c99415c105501b179_2629234_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/8159753255a97500e8279b9aee30eb50_2618915_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "България е световен вицешампион! Още един медал за родните грации във Франкфурт",
-      "link": "https://www.actualno.com/moresport/bylgarija-e-svetoven-viceshampion-oshte-edin-medal-za-rodnite-gracii-vyv-frankfurt-news_2629230.html",
-      "pubDate": "2026-08-15 16:53:00",
+      "title": "Пълна програма на Първа лига 2026/27 - Лудогорец продължава без грешка",
+      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-ludogorec-prodyljava-bez-greshka-news_2618909.html",
+      "pubDate": "2026-08-15 20:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/15/6b4b691dc8535768c42aef9a803dfafd_2629230_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "pubDate": "2026-08-15 14:04:49",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "pubDate": "2026-08-15 15:58:53",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -356,9 +356,9 @@
       }
     },
     {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "link": "https://spectrum.ieee.org/ai-designed-virus",
-      "pubDate": "2026-08-15 15:32:25",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "pubDate": "2026-08-15 20:54:11",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +366,9 @@
       }
     },
     {
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "link": "https://sankalp.bearblog.dev/autoresearch/",
-      "pubDate": "2026-08-15 11:00:02",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "link": "https://spectrum.ieee.org/digital-signal-processing",
+      "pubDate": "2026-08-15 21:45:54",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "The AI Situation in Software Development",
-      "link": "https://srikanth.ch/posts/the-ai-situation/",
-      "pubDate": "2026-08-15 14:12:27",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "pubDate": "2026-08-15 21:14:34",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,13 +386,33 @@
       }
     },
     {
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "pubDate": "2026-08-15 13:43:46",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "pubDate": "2026-08-15 18:13:02",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Израел иска „по-амбициозни“ преговори с Ливан, Иран – САЩ да признаят поражението",
+      "link": "https://frognews.bg/novini/izrael-iska-ambitsiozni-pregovori-livan-iran--sasht-priznaiat-porajenieto.html",
+      "pubDate": "2026-08-15 18:55:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "България се окичи със среброто на Световното по художествена гимнастика",
+      "link": "https://frognews.bg/novini/balgariya-okichi-sas-srebroto-svetovnoto-hudozhestvena-gimnastika.html",
+      "pubDate": "2026-08-15 18:15:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -426,23 +446,13 @@
       }
     },
     {
-      "title": "Три пътя към втората пенсия: Всичко, което трябва да знаят 4,5 млн. българи",
-      "link": "https://frognews.bg/novini/tri-patya-kam-vtorata-pensiya-vsichko-koeto-tryabva-znayat-4-5-mln-balgari.html",
-      "pubDate": "2026-08-15 16:25:00",
+      "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+      "link": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-15T23:26:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Впечатляваща гледка: Воден смерч се изви над Черно море (видео)",
-      "link": "https://frognews.bg/novini/vpechatliavashta-gledka-voden-smerch-izvi-nad-cherno-more-video.html",
-      "pubDate": "2026-08-15 15:25:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,17 +494,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Afghan allies still waiting for the safety Germany promised",
-      "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-15T11:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-15T21:08:48.007Z"
+  "lastUpdated": "2026-08-16T00:27:52.202Z"
 }
