@@ -1,9 +1,31 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-16T00:27:52.203Z",
+  "lastUpdated": "2026-08-16T03:36:19.187Z",
   "totalItems": 114,
   "items": [
+    {
+      "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
+      "link": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-16T02:49:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-16T03:36:19.187Z"
+    },
+    {
+      "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+      "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-16T01:38:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-16T03:36:19.187Z"
+    },
     {
       "title": "Откриха тялото на мъжа, който потъна в яз. Доспат",
       "link": "https://offnews.bg/112/otkriha-tialoto-na-mazha-kojto-potana-v-iaz-dospat-872759.html",
@@ -1402,28 +1424,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-15T06:15:15.439Z"
-    },
-    {
-      "title": "Комикс №349952 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoOERHMmJCbmxwSDNpZklIcEo2ZUVyRVd6a1JkLVFScnRzX21BV0lUeUpNSHViX1EwcXlsVjZwVHZKNkxReUlaNVc5b0s?oc=5",
-      "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-15T03:26:55.232Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на ph3656ph - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MQndEWG9NTlF5ZXVsX3d5ZlYxd0JveHdPTFFibFl1TWN0c1p1NTlUeVVfOHR5VUtnY0JZUF9fMWUwbHNsYzRNNHFRZ3Q?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:20:23 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-15T03:26:55.232Z"
     }
   ]
 }
