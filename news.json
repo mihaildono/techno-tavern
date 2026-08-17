@@ -71,6 +71,26 @@
       }
     },
     {
+      "title": "Комикс №27526 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MekhlYjk5RG1senNubURiajNHRDJ1WllkX3Y2akRvZ3BOWGtzU1BhQTV3T3dXRjI5NEFoMEtYV20zcXNQQlFWYXVkQUZNXzJZdTNMQTNSMWJMRDFJNU5uSEMyN1E?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 00:09:43 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №60651 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45SjU3TG9FeFZSeDhVdTRRYTB2VGlFYmYyNEJKT1U1cmpIUlBNMzRDdWFHUWVSOWlNNWdnUTl3YU9Rb0JscjRGbXVRaw?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 14:22:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "Комикс №339084 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BeTNXYVhTU2lvN2c0M0ZFT1RGcGZ2Ti1WMEZLSktPRkoxaTY5dmZlMGpuZzZUVjFoVmNlaWFuampLcG5mcWVQc1BYRWg?oc=5",
       "pubDate": "Sun, 16 Aug 2026 15:16:00 GMT",
@@ -94,26 +114,6 @@
       "title": "Комикс №60648 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkcmhNNFRWUXYzTl85UjBEYkozTC05VXBVSEZicnhZNlQwYzFWanlWTG84N1IxTmRfSnJmem53cER2eGU5bWZZOWNKdw?oc=5",
       "pubDate": "Sun, 16 Aug 2026 15:37:48 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №346754 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XaG83WHpSU0toQ2J3SHpxOFpDWEU4bTdEdUk0Q2pYY0owNFd6QWdORFR1bThxT0RJUEZoQXlQZ0lxa01qTXZEOWcxS1k?oc=5",
-      "pubDate": "Sat, 15 Feb 2025 08:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №352368 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mdVEwejMzbFZRNU5CZnRCdnBRRWIteUZUWm5sb0hKRElxa1ZJRXczc2xrR2NmOXoxVWNnbFRKaFY5dXNuZ0wzcWVnTDk?oc=5",
-      "pubDate": "Wed, 04 Jun 2025 07:00:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,7 +231,7 @@
       }
     },
     {
-      "title": "Библиотека / Спорт и бизнес - Капитал",
+      "title": "Библиотека / Спорт и бизнес - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbWZuVlpXc3Zkak5iUWo2QjVQeno2RFNCM2FuMUZPYVZnNGlhcjYyRkhST3ExQk0wZjdGVGJWQUhHUDFHZ3JEVllGeldVUk1OaXpzX3dWRXFTS2RubWlqWTY4QTM?oc=5",
       "pubDate": "Mon, 17 Aug 2026 05:44:40 GMT",
       "thumbnail": null,
@@ -241,7 +241,7 @@
       }
     },
     {
-      "title": "Библиотека / Капитал - брой 32 - capital.bg - Капитал",
+      "title": "Библиотека / Капитал - брой 32 - capital.bg - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWVZONDBqRTVwRUdRdk0xQlRnYVZHd1JoUkprZUtuNGpMVkJnNEk5ek1GU2dVRlFKV044ejNtWWFiNlRVMUlQTi1VM2V3S2M3YWRzZ1A2ZzFjSXl0Y0VBdFFuMkFQZw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 15:08:30 GMT",
       "thumbnail": null,
@@ -506,5 +506,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-17T15:12:34.776Z"
+  "lastUpdated": "2026-08-17T15:17:28.575Z"
 }
