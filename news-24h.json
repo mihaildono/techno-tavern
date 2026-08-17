@@ -1,9 +1,328 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-17T06:25:24.282Z",
-  "totalItems": 135,
+  "lastUpdated": "2026-08-17T09:26:33.429Z",
+  "totalItems": 131,
   "items": [
+    {
+      "title": "Huawei ще представи нови продукти за спорт, здраве и аудио в Мюнхен на 2-ри септември",
+      "link": "https://offnews.bg/tehnologii/huawei-shte-predstavi-novi-produkti-za-sport-zdrave-i-audio-v-miunhen-872819.html",
+      "pubDate": "2026-08-17 09:20:04",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872819/phphrnvsh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4469
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Ръст от близо 19%: Износът на български стоки в мрежата на Lidl е над 36,9 млн. евро през първото полугодие",
+      "link": "https://offnews.bg/ikonomika/rast-ot-blizo-19-iznosat-na-balgarski-stoki-v-mrezhata-na-lidl-e-nad-872818.html",
+      "pubDate": "2026-08-17 09:16:38",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872818/phpxheecf_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6547
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Потвърждение с биометрични данни при онлайн плащане с карта neon на tbi bank",
+      "link": "https://offnews.bg/ikonomika/potvarzhdenie-s-biometrichni-danni-pri-onlajn-plashtane-s-karta-neon-n-872817.html",
+      "pubDate": "2026-08-17 09:11:03",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872817/phpvanthn_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5134
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Правосъдният министър ще ръководи и координира политиката в областта на правната помощ",
+      "link": "https://offnews.bg/temida/pravosadniat-ministar-shte-rakovodi-i-koordinira-politikata-v-oblastta-872814.html",
+      "pubDate": "2026-08-17 08:59:24",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872814/phphlugwe_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7039
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Задържаха 51-годишен мъж, застрелял куче в Димитровград",
+      "link": "https://offnews.bg/112/zadarzhaha-51-godishen-mazh-zastrelial-kuche-v-dimitrovgrad-872813.html",
+      "pubDate": "2026-08-17 08:59:04",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872813/phphaov4l_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4563
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "С над 10% повече разходи за пенсии през първото полугодие",
+      "link": "https://www.mediapool.bg/s-nad-10-poveche-razhodi-za-pensii-prez-parvoto-polugodie-news386598.html",
+      "pubDate": "2026-08-17 07:22:35",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_b407bbd1202d63fb236df3674614df11.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Ограничения по АМ \"Тракия до 21 август",
+      "link": "https://www.mediapool.bg/ogranicheniya-po-am-trakiya-do-21-avgust-news386597.html",
+      "pubDate": "2026-08-17 06:54:09",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_047744567c82e84e5010517743f84c49.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Петролът поскъпна заради отслабващи надежди за пробив в преговорите между САЩ и Иран",
+      "link": "https://www.mediapool.bg/petrolat-poskapna-zaradi-otslabvashti-nadezhdi-za-probiv-v-pregovorite-mezhdu-sasht-i-iran-news386596.html",
+      "pubDate": "2026-08-17 05:50:40",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_4cbf68699f3c65e43a6165059bf1d468.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Трима обвинени след акцията срещу \"Кръв и чест\"",
+      "link": "https://www.mediapool.bg/trima-obvineni-sled-aktsiyata-sreshtu-krav-i-chest-news386595.html",
+      "pubDate": "2026-08-17 05:14:53",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_34b74efe993137f09ca90bc3e68e0408.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Най-малко 7 жертви на най-мащабната за годината украинска атака над Русия",
+      "link": "https://www.mediapool.bg/nai-malko-7-zhertvi-na-nai-mashtabnata-za-godinata-ukrainska-ataka-nad-rusiya-news386594.html",
+      "pubDate": "2026-08-17 05:08:51",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_1483c369deaea98e16d1ebf9fd0c0428.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Библиотека / Спорт и бизнес - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbWZuVlpXc3Zkak5iUWo2QjVQeno2RFNCM2FuMUZPYVZnNGlhcjYyRkhST3ExQk0wZjdGVGJWQUhHUDFHZ3JEVllGeldVUk1OaXpzX3dWRXFTS2RubWlqWTY4QTM?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 05:44:40 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "\"Изблици от миналия век\": Мицкоски се опълчи на Вучич за македонската църква, засега само на думи",
+      "link": "https://www.actualno.com/balkani/izblici-ot-minalija-vek-mickoski-se-opylchi-na-vuchich-za-makedonskata-cyrkva-zasega-samo-na-dumi-news_2629541.html",
+      "pubDate": "2026-08-17 06:26:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/e2e7df0a2414831e5a7c274f6208ef71_2629541_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Надеждите за мир около Ормуз отслабват: Цената на петрола в началото на седмицата",
+      "link": "https://www.actualno.com/economy/nadejdite-za-mir-okolo-ormuz-otslabvat-cenata-na-petrola-v-nachaloto-na-sedmicata-news_2629540.html",
+      "pubDate": "2026-08-17 06:25:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/3c4db42a4cd4f66a956481e7fcea65ae_2629540_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Предизвестен провал: Въпроси защо поръчката за магистралата Бяла - Велико Търново е прекратена",
+      "link": "https://www.actualno.com/society/predizvesten-proval-vyprosi-zashto-porychkata-za-magistralata-bjala-veliko-tyrnovo-e-prekratena-news_2629538.html",
+      "pubDate": "2026-08-17 06:22:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/60b69f7480839078f58427bb445b3f9b_2629538_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "\"Спайдър-Мен: Нов ден\" премина колосалната бариера от 2 млрд. долара в глобалния боксофис",
+      "link": "https://www.actualno.com/cinema/spajdyr-men-nov-den-premina-kolosalnata-bariera-ot-2-mlrd-dolara-v-globalnija-boksofis-news_2629535.html",
+      "pubDate": "2026-08-17 06:11:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/ba9be5a1daae62b5be0a5111dabc6e83_2629535_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Признание: Ан Хатауей влезе в залата на славата на Disney",
+      "link": "https://www.actualno.com/cinema/priznanie-an-hatauej-vleze-v-zalata-na-slavata-na-disney-news_2629533.html",
+      "pubDate": "2026-08-17 06:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/c38b67c9b135253f3fc47cafba91e30b_2629533_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Тръмп реже ученията с Южна Корея: Между „добрите отношения“ с Ким и отказа за Иран",
+      "link": "https://frognews.bg/novini/tramp-reje-ucheniiata-iujna-koreia-mejdu-dobrite-otnosheniia-kim-otkaza-iran.html",
+      "pubDate": "2026-08-17 09:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/54ec1580b_1786958424_6a82d258c94aa.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Тайни танкери заобикалят блокадата на Ормуз: Над 4 млн. барела петрол дневно",
+      "link": "https://frognews.bg/novini/taini-tankeri-zaobikaliat-blokadata-ormuz-nad-4-mln-barela-petrol-dnevno.html",
+      "pubDate": "2026-08-17 09:10:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/aa11553d7_1786957605_6a82cf25e17d0.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "„Радецки“ чака вода: Маловодието спря легендарния кораб",
+      "link": "https://frognews.bg/novini/radetski-chaka-voda-malovodieto-spria-legendarniia-korab.html",
+      "pubDate": "2026-08-17 09:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/8acdf5fe0_1786953367_6a82be97e6823.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Спират тока и водата в „Баба Алино“ – готвят нови заповеди за събаряне",
+      "link": "https://frognews.bg/novini/spirat-toka-vodata-baba-alino-gotvyat-novi-zapovedi-sabaryane.html",
+      "pubDate": "2026-08-17 08:35:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/0b2b49b78_1786955535_6a82c70f786c3.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Ремонтът на софийския бул. „Мария Луиза“: 8.7 млн. евро и 3 години за едва 1.2 км трасе",
+      "link": "https://frognews.bg/novini/remontat-sofiyskiya-bul-mariya-luiza-8-7-mln-evro-3-godini-edva-1-2-trase.html",
+      "pubDate": "2026-08-17 08:32:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b19ababae_1786956529_6a82caf15cc60.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "India&apos;s testing agency in focus after more exams canceled",
+      "link": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T07:19:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Fatty food raises risk of colorectal cancer",
+      "link": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T06:49:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
+    {
+      "title": "Germany news: Belgium blaze kept out of Germany for now",
+      "link": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T06:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T09:26:33.429Z"
+    },
     {
       "title": "Комикс №60648 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkcmhNNFRWUXYzTl85UjBEYkozTC05VXBVSEZicnhZNlQwYzFWanlWTG84N1IxTmRfSnJmem53cER2eGU5bWZZOWNKdw?oc=5",
@@ -1318,359 +1637,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-16T12:11:53.140Z"
-    },
-    {
-      "title": "КЗП започва проверки на цените в Бургас заради 'Евровизия'",
-      "link": "https://offnews.bg/obshtestvo/kzp-zapochva-proverki-na-tcenite-v-burgas-zaradi-evrovizia-872771.html",
-      "pubDate": "2026-08-16 08:36:37",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872771/phpztftf3_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5194
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "ПП и ДБ за 100-те дни на кабинета: Герберските калинки станаха копринки",
-      "link": "https://offnews.bg/politika/pp-i-db-za-100-te-dni-na-kabineta-gerberskite-kalinki-stanaha-koprink-872770.html",
-      "pubDate": "2026-08-16 08:18:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872770/phpzxznl3_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5899
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Социалният министър се зарече да има увеличение на минималната заплата от 2027 г.",
-      "link": "https://offnews.bg/obshtestvo/sotcialniat-ministar-se-zareche-da-ima-uvelichenie-na-minimalnata-zapl-872769.html",
-      "pubDate": "2026-08-16 07:17:30",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872769/phpmgmoup_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5554
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Строители намериха зазидано съкровище в къща в Белгия",
-      "link": "https://offnews.bg/sviat/stroiteli-nameriha-zazidano-sakrovishte-v-kashta-v-belgia-872768.html",
-      "pubDate": "2026-08-16 06:49:09",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872768/phpfh9n1q_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8106
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Поне 12 загинали при катастрофа на полски автобус в Унгария (допълнена)",
-      "link": "https://offnews.bg/sviat/pone-12-zaginali-pri-katastrofa-na-polski-avtobus-v-ungaria-dopalnena-872767.html",
-      "pubDate": "2026-08-16 06:32:38",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872767/phpskccw9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6721
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Комикс №339000 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBBRG43QzVLTjRXYUZvV3ZnWVBZQ3RNczFhV3ZsN2pOcmZ6STIwZzNsODJhY3pNazRRcjhKVUg0WUxyR1pabDRQb2FTcGE?oc=5",
-      "pubDate": "Sat, 05 Oct 2024 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Комикс №344373 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HUFQyY1FoV1Y5SVNfWkt0a0pKNzJ1N3EzRXBjX2trMTFlU2hCbVlJNHFyWWVqM05pb1kxcmRObXFoMGNhR0lucFVJck4?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 13:25:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "„Кръв и чест“. МВР задържа в Пловдив 18 души, свързани с неонацистка организация",
-      "link": "https://svobodnatochka.bg/novini/krav-i-chest-mvr-plovdiv-zadarzhani/",
-      "pubDate": "2026-08-16 07:45:11",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "„Спасих само себе си“. Десетки загинаха, а цели населени места са опустошени след труса в Индонезия",
-      "link": "https://svobodnatochka.bg/novini/zemetresenie-indoneziya-zaginali/",
-      "pubDate": "2026-08-16 06:30:03",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Кафе всеки ден? Полезно е в умерени количества",
-      "link": "https://www.mediapool.bg/kafe-vseki-den-polezno-e-v-umereni-kolichestva-news386581.html",
-      "pubDate": "2026-08-16 08:53:11",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_10dbafcd6822d78a04fe72bd973f85a4.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Масирани атаки между Русия и Украйна тази нощ",
-      "link": "https://www.mediapool.bg/masirani-ataki-mezhdu-rusiya-i-ukraina-tazi-nosht-news386583.html",
-      "pubDate": "2026-08-16 08:29:02",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_f8a2b0e7df940159f0b7b8c72a0366bb.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "КЗП започва проверки за цените в Бургас заради \"Евровизия\"",
-      "link": "https://www.mediapool.bg/kzp-zapochva-proverki-za-tsenite-v-burgas-zaradi-evroviziya-news386582.html",
-      "pubDate": "2026-08-16 07:57:10",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_f952aa6ddfea606aaa92c4792403152d.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "\"Кръв и чест\": 18 задържани в Пловдив за проповядване на насилие",
-      "link": "https://www.mediapool.bg/krav-i-chest-18-zadarzhani-v-plovdiv-za-propovyadvane-na-nasilie-news386580.html",
-      "pubDate": "2026-08-16 06:32:35",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_aaeedd5aa5fc16a72409c983fccb0ca1.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Бунтът на AI започна, последствията са неочаквани",
-      "link": "https://www.mediapool.bg/buntat-na-ai-zapochna-posledstviyata-sa-neochakvani-news386577.html",
-      "pubDate": "2026-08-16 05:34:08",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_0b323613352acbda3735be35c34f1294.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на qav17867228441642258 - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RTWxPbVRSQlhVU1o3Unh1YWRSU1FfMHp3Q1NDbjlYall0bGZwdXowN1h5VXA4Y1NTRHFsd04wbTVQMGMtZ3c2QjJGNmNDLUZxNWRZRUF0YzZjWkdy?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 04:04:30 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на miramaterialscom - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTFo5UW1iZjJKTmV5RzhqaFgxMldfZTFVZVhvVlNhTTljcEdJLVotRDFfR040MVRtZkdLZzJvNWh0bGsxd3o2bmRSRjdJSXViTjlvMXhZcw?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 06:41:11 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Жертва на ЦСКА в Европа си хареса основен играч на Христо Янев в реванша в София",
-      "link": "https://www.actualno.com/bgfootball/jertva-na-cska-v-evropa-si-haresa-osnoven-igrach-na-hristo-janev-v-revansha-v-sofija-news_2629336.html",
-      "pubDate": "2026-08-16 08:58:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/0a5be07e96e7a5421d6e718dc21d56ac_2629336_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Отново ограничават движението на тирове по АМ \"Тракия\" и \"Струма\" и през Кресненското дефиле",
-      "link": "https://www.actualno.com/society/otnovo-ogranichavat-dvijenieto-na-tirove-po-am-trakija-i-struma-i-prez-kresnenskoto-defile-news_2629334.html",
-      "pubDate": "2026-08-16 08:52:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/d7a4aba6161e956e256a791d2452038e_2629334_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Средните заплати в България: Къде е най-добре и къде е най-зле",
-      "link": "https://www.actualno.com/economy/srednite-zaplati-v-bylgarija-kyde-e-naj-dobre-i-kyde-e-naj-zle-news_2629301.html",
-      "pubDate": "2026-08-16 08:44:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/6062f3da41e79e3a777d9d557323220b_2629301_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Бъдещето на трансферна цел на Реал Мадрид и Ман Сити в Ливърпул е ясно",
-      "link": "https://www.actualno.com/football/bydeshteto-na-transferna-cel-na-real-madrid-i-man-siti-v-livyrpul-e-jasno-news_2629330.html",
-      "pubDate": "2026-08-16 08:35:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/dfcaf72c8ad3f7a8594a7a0449885ce5_2629330_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Ураганът „Лала“ връхлетя Хаваите",
-      "link": "https://www.actualno.com/america/uraganyt-lala-vryhletja-havaite-news_2629328.html",
-      "pubDate": "2026-08-16 08:27:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/fd8a1182e1831a72f160995ef65ff057_2629328_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Заради пожари евакуираха туристи от гръцки острови, няма пострадали",
-      "link": "https://frognews.bg/novini/zaradi-pozhari-evakuiraha-turisti-gratski-ostrovi-nyama-postradali.html",
-      "pubDate": "2026-08-16 09:09:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Въпреки риска, МЗ не предвижда масов скрининг на професионалните шофьори за сънна апнея",
-      "link": "https://frognews.bg/novini/vapreki-riska-predvizhda-masov-skrining-profesionalnite-shofyori-sanna-apneya.html",
-      "pubDate": "2026-08-16 08:52:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Киев с мащабна въздушна атака срещу Русия, шестима са убити, горят складове на Wildberries",
-      "link": "https://frognews.bg/novini/kiev-mashtabna-vazdushna-ataka-sreshtu-rusiia-shestima-ubiti-goriat-skladove-wildberries.html",
-      "pubDate": "2026-08-16 08:31:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Членството на Турция в ЕС вече не е приоритет за Анкара, съобщи Ердоган",
-      "link": "https://frognews.bg/novini/chlenstvoto-turtsiya-veche-prioritet-ankara-saobshti-erdogan.html",
-      "pubDate": "2026-08-16 07:33:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Полски автобус катастрофира в Унгария, 12 души загинаха",
-      "link": "https://frognews.bg/novini/polski-avtobus-katastrofira-ungariya-12-dushi-zaginaha.html",
-      "pubDate": "2026-08-16 07:12:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Moscow says 600 drones targeted region overnight",
-      "link": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-16T08:13:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
-    },
-    {
-      "title": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
-      "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-16T06:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-16T09:13:58.250Z"
     }
   ]
 }
