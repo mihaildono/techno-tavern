@@ -1,9 +1,339 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-17T12:15:09.292Z",
-  "totalItems": 139,
+  "lastUpdated": "2026-08-17T15:12:34.777Z",
+  "totalItems": 146,
   "items": [
+    {
+      "title": "Конфискувани са над 7000 електрически велосипеда за последната година във Великобритания",
+      "link": "https://offnews.bg/sviat/konfiskuvani-sa-nad-7000-elektricheski-velosipeda-za-poslednata-godina-872834.html",
+      "pubDate": "2026-08-17 11:49:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872834/phpo2ofdt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9569
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "ВСУ удари завод за ракетно гориво в Ростовска област",
+      "link": "https://offnews.bg/sviat/vsu-udari-zavod-za-raketno-gorivo-v-rostovska-oblast-872835.html",
+      "pubDate": "2026-08-17 11:45:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872835/phppyv2zi_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4431
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Контрол чрез заличаване на самоличността: Нови разкрития за практиките на руската армия",
+      "link": "https://offnews.bg/sviat/kontrol-chrez-zalichavane-na-samolichnostta-novi-razkritia-za-praktik-872837.html",
+      "pubDate": "2026-08-17 11:31:31",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872837/phpwgrtan_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6087
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Готови са изравнителните сметки за парното в София",
+      "link": "https://offnews.bg/obshtestvo/gotovi-sa-izravnitelnite-smetki-za-parnoto-v-sofia-872832.html",
+      "pubDate": "2026-08-17 11:19:49",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872832/phpdj7gjc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5973
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "DEEP PURPLE и Ричи Блекмор за първи път на една сцена след 33 г. - преди концерта на групата в София",
+      "link": "https://offnews.bg/kultura/deep-purple-i-richi-blekmor-za-parvi-pat-na-edna-stcena-sled-33-g-p-872831.html",
+      "pubDate": "2026-08-17 11:03:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872831/php6y1ozy_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8199
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Полицай уби разярен питбул и простреля стопанката му в Раднево",
+      "link": "https://www.mediapool.bg/politsai-ubi-razyaren-pitbul-i-prostrelya-stopankata-mu-v-radnevo-news386603.html",
+      "pubDate": "2026-08-17 12:19:04",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_c9140b06652019c0208d9d348b42c830.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Над 100 дрона са засечени в близост до румънското въздушно пространство",
+      "link": "https://www.mediapool.bg/nad-100-drona-sa-zasecheni-v-blizost-do-rumanskoto-vazdushno-prostranstvo-news386602.html",
+      "pubDate": "2026-08-17 12:11:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_f350d8f59f54ad55ddac487d974f0311.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Болнични директори изкарват между 100 хил. и 1 млн. лв. над петцифрените си заплати",
+      "link": "https://www.mediapool.bg/bolnichni-direktori-izkarvat-mezhdu-100-hil-i-1-mln-lv-nad-pettsifrenite-si-zaplati-news386600.html",
+      "pubDate": "2026-08-17 11:18:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_671804a376c3f4924d5bf560801b070f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Надежда Нейнски: България губи външнополитическата си тежест",
+      "link": "https://www.mediapool.bg/nadezhda-neinski-bulgaria-gubi-vanshnopoliticheskata-si-tezhest-news386601.html",
+      "pubDate": "2026-08-17 10:21:18",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_802ffacee330e4562a34539c5ccabfde.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Една от новите станции на метрото е със счупени стъкла дни след откриването",
+      "link": "https://www.mediapool.bg/edna-ot-novite-stantsii-na-metroto-e-sas-schupeni-stakla-dni-sled-otkrivaneto-news386599.html",
+      "pubDate": "2026-08-17 09:21:54",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_d903a09b4326a48191a8318b22b3f2f1.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на bj38kim1 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oaE1FZVhZeGFoTlpfeUJ4UWhEdFRWMjJwWDVLNnpHejdHQzh1RHZoMHZ5d3FIVUkzM3RoSHhUeEQ3eE1xZnQ0OUFLQXQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:19:10 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Църковен празник на 18 август: Почитаме голям светец, покровител на целия български народ",
+      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-18-avgust-pochitame-goljam-svetec-pokrovitel-na-celija-bylgarski-narod-news_2626914.html",
+      "pubDate": "2026-08-17 15:09:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/09/ba0461f8c012a856de118f5a9586d394_2626914_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Върховният съд на Русия спря партията на мира за изборите, но има последен шанс: Лично Путин ли го нареди? (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/vyrhovnijat-syd-na-rusija-sprja-partijata-na-mira-za-izborite-no-ima-posleden-shans-lichno-putin-li-go-naredi-video-news_2629769.html",
+      "pubDate": "2026-08-17 14:56:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/891c7ccaceb92cfe84528d49735c6a23_2629769_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Гърция изплаща предсрочно 13 млрд. евро дълг: Какво е посланието?",
+      "link": "https://www.actualno.com/economy/gyrcija-izplashta-predsrochno-13-mlrd-evro-dylg-kakvo-e-poslanieto-news_2629760.html",
+      "pubDate": "2026-08-17 14:42:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/ad8369fcd80f3402657beccac6e44247_2629760_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Kaufland реализира над 54 000 кюфтета за бургери на български производител през 2025 г.",
+      "link": "https://www.actualno.com/society/kaufland-realizira-nad-54-000-kufteta-za-burgeri-na-bylgarski-proizvoditel-prez-2025-g-news_2629757.html",
+      "pubDate": "2026-08-17 14:37:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/38dfaaf3dfe472167aaf8528945c1e5e_2629757_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Безпрецедентно в Гърция: Потрошиха полицейски участък, за да освободят задържан",
+      "link": "https://www.actualno.com/balkani/bezprecedentno-v-gyrcija-potroshiha-policejski-uchastyk-za-da-osvobodjat-zadyrjan-news_2629751.html",
+      "pubDate": "2026-08-17 14:28:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/580dbb9c0ad29b6edd7e5c40a14078e0_2629751_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "На 67 години почина Иван Вълков, създателят на Spirit of Burgas",
+      "link": "https://frognews.bg/novini/67-godini-pochina-ivan-valkov-sazdateliat-spirit-burgas.html",
+      "pubDate": "2026-08-17 12:08:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/0a2d3e6ac_1786969037_6a82fbcd4fe18.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Къшнър при Нетаняху след срещата с Хамас – пробивът за Газа остава далеч",
+      "link": "https://frognews.bg/novini/kashnar-pri-netanyahu-sled-sreshtata-hamas-probivat-gaza-ostava-dalech.html",
+      "pubDate": "2026-08-17 11:50:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/1ed7708d9_1786967499_6a82f5cbc1e59.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Илюзията за поевтиняване: Инфлацията се забавя до 4.5%, но юли донесе нов скок в цените",
+      "link": "https://frognews.bg/novini/iliuziiata-poevtiniavane-inflatsiiata-zabavia-4-5procenta-iuli-donese-nov-skok-tsenite.html",
+      "pubDate": "2026-08-17 11:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/5b7f9a01e_1786965791_6a82ef1fc5480.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Тежка катастрофа с тротинетка в Несебър, мъж е с опасност за живота",
+      "link": "https://frognews.bg/novini/tejka-katastrofa-trotinetka-nesebar-maj-opasnost-jivota.html",
+      "pubDate": "2026-08-17 11:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/014c0e721_1786965588_6a82ee547003e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Иран държи Ормуз, Тръмп държи блокадата: Изтича срокът за мир",
+      "link": "https://frognews.bg/novini/iran-darji-ormuz-tramp-darji-blokadata-izticha-srokat-mir.html",
+      "pubDate": "2026-08-17 11:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/aac9e1c25_1786964577_6a82ea61275c6.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Norway wealth fund warns of AI-driven stock market bubble",
+      "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T14:00:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Indonesia neutrality tested by joint naval drill with China",
+      "link": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T13:37:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Wildfires: Belgium battles blaze, France&apos;s Lecornu jeered",
+      "link": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T12:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
+    {
+      "title": "Putin visited Kuril Islands to &apos;punish&apos; Japan over Ukraine stance",
+      "link": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T11:47:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-17T15:12:34.777Z"
+    },
     {
       "title": "Комикс №27526 - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MekhlYjk5RG1senNubURiajNHRDJ1WllkX3Y2akRvZ3BOWGtzU1BhQTV3T3dXRjI5NEFoMEtYV20zcXNQQlFWYXVkQUZNXzJZdTNMQTNSMWJMRDFJNU5uSEMyN1E?oc=5",
@@ -1486,245 +1816,6 @@
         "color": "#4CAF50"
       },
       "firstSeen": "2026-08-16T15:13:01.505Z"
-    },
-    {
-      "title": "''Чух, че олигархията била елиминирана и се сетих как Цецка Цачева каза от Китай, че правосъдната реформа е приключила!''",
-      "link": "https://offnews.bg/politika/chuh-che-oligarhiata-bila-eliminirana-i-se-setih-kak-tcetcka-tcache-872777.html",
-      "pubDate": "2026-08-16 12:04:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872777/phpskoemx_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5466
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Да потърсиш помощ не е слабост, а израз на смелост: Ивелина Минчева в ''Студио Габрово'' - да погледнем с други очи към зависимостите при жените!",
-      "link": "https://offnews.bg/interviu/da-potarsish-pomosht-ne-e-slabost-a-izraz-na-smelost-ivelina-minchev-872776.html",
-      "pubDate": "2026-08-16 11:28:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872776/phpm1sg8d_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4980
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Хванаха трима трафиканти със 7 вида наркотици",
-      "link": "https://offnews.bg/temida/hvanaha-trima-trafikanti-sas-7-vida-narkotitci-872774.html",
-      "pubDate": "2026-08-16 10:27:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872774/phpbydnat_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5386
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "България с бронз на съчетание с 5 топки",
-      "link": "https://offnews.bg/gimnastika/balgaria-s-bronz-na-sachetanie-s-5-topki-872773.html",
-      "pubDate": "2026-08-16 10:17:08",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872773/php1l6wyw_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7675
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "България получила информация от ФБР за 'Кръв и чест'",
-      "link": "https://offnews.bg/112/balgaria-poluchila-informatcia-ot-fbr-za-krav-i-chest-872772.html",
-      "pubDate": "2026-08-16 09:49:07",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/16/872772/phppgmzne_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7474
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Комикс №60644 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CVFk0MUlBNFE0N3BmUHp5UjZSaXJWZlpuTzVFX2JQSjlaVlJsNWZpU1F5S0xuRDBzRkVxazBLalFuaEphLTZxZFVISQ?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 09:40:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Комикс №339178 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9STU9IWkNhb3pmeUtzTHVYZkhjenhfcFAybjBfLTNUMUxhNkRpUWlsV2JPcEQxWVRVRlFPX21VSFdwV0lnRVl2cldQd2g?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 10:08:02 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Ансамбълът ни с бронз на Световното първенство, титлата е за Бразилия",
-      "link": "https://www.mediapool.bg/ansambalat-ni-s-bronz-na-svetovnoto-parvenstvo-titlata-e-za-braziliya-news386586.html",
-      "pubDate": "2026-08-16 12:05:15",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_947c8684ab2f97c41c04f1861dd992e2.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Мицин ще плува във финала на 400 м свободен стил редом с Маршан",
-      "link": "https://www.mediapool.bg/mitsin-shte-pluva-vav-finala-na-400-m-svoboden-stil-redom-s-marshan-news386585.html",
-      "pubDate": "2026-08-16 11:07:14",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_531731ff38cd17c84521d3360173cd5b.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Мароко предотварти нахлуване на мигранти в испанския анклав Сеута",
-      "link": "https://www.mediapool.bg/maroko-predotvarti-nahluvane-na-migranti-v-ispanskiya-anklav-seuta-news386584.html",
-      "pubDate": "2026-08-16 10:13:13",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_9cbd9d19a29f35bfbe1f0fb3fde0e23c.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "ИИ учи терористи как да бъдат по-добри: Стряскащо проучване",
-      "link": "https://www.actualno.com/sciencelogy/ii-uchi-teroristi-kak-da-bydat-po-dobri-strjaskashto-prouchvane-news_2628809.html",
-      "pubDate": "2026-08-16 11:30:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/0dab6dc170dba1553cfa385747047d55_2628809_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Изкуствен интелект като шеф на хора: Първи резултати как се справя",
-      "link": "https://www.actualno.com/economy/izkustven-intelekt-kato-shef-na-hora-pyrvi-rezultati-kak-se-spravja-news_2629307.html",
-      "pubDate": "2026-08-16 10:43:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/81c743ac4e00e85c7f02061366b7db26_2629307_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Страхотни грации! Медал за българския ансамбъл от Световното по художествена гимнастика",
-      "link": "https://www.actualno.com/moresport/strahotni-gracii-medal-za-bylgarskija-ansambyl-ot-svetovnoto-po-hudojestvena-gimnastika-news_2629349.html",
-      "pubDate": "2026-08-16 10:09:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/179834a898bab5b5f5f1a8ccaaf178d3_2629349_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Хоби под прицел: Глоби до 15 000 евро застрашават собствениците на дронове",
-      "link": "https://www.actualno.com/society/hobi-pod-pricel-globi-do-15-000-evro-zastrashavat-sobstvenicite-na-dronove-news_2629343.html",
-      "pubDate": "2026-08-16 09:30:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/d67d3e341395893b494b84b736ad49b2_2629343_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Подобрилата рекорда на Стефка Костадинова отново остана далеч от най-доброто си постижение, но грабна поредна титла",
-      "link": "https://www.actualno.com/moresport/podobrilata-rekorda-na-stefka-kostadinova-otnovo-ostana-dalech-ot-naj-dobroto-si-postijenie-no-grabna-poredna-titla-news_2629341.html",
-      "pubDate": "2026-08-16 09:27:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/16/f507efde1ad268fc4e0c2f97c0a26f25_2629341_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Заловиха трима за притежание на наркотици, сред които и фентанил",
-      "link": "https://frognews.bg/novini/zaloviha-trima-pritejanie-narkotitsi-sred-koito-fentanil.html",
-      "pubDate": "2026-08-16 11:15:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Хърватски остров се свърза по суша със Сърбия заради пресъхналия Дунав",
-      "link": "https://frognews.bg/novini/harvatski-ostrov-svarza-susha-sas-sarbiya-zaradi-presahnaliya-dunav.html",
-      "pubDate": "2026-08-16 10:44:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
-    },
-    {
-      "title": "Белгия се бори с най-големия горски пожар в историята си",
-      "link": "https://frognews.bg/novini/belgiia-bori-nai-golemiia-gorski-pojar-istoriiata.html",
-      "pubDate": "2026-08-16 09:43:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-16T15:08:20.538Z"
     }
   ]
 }
