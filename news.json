@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Владимир Янков не е трябвало да бъде убит, разкри Иван Демерджиев",
+      "link": "https://offnews.bg/obshtestvo/vladimir-iankov-ne-e-triabvalo-da-bade-ubit-razkri-ivan-demerdzhiev-872860.html",
+      "pubDate": "2026-08-17 18:27:52",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/17/872860/phpievqxu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5599
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Правителството и синдикатите се разбраха за механизма за минималната работна заплата",
       "link": "https://offnews.bg/politika/pravitelstvoto-i-sindikatite-se-razbraha-za-mehanizma-za-minimalnata-r-872859.html",
       "pubDate": "2026-08-17 17:48:18",
@@ -50,20 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/08/14/872729/phpuocoeb_559x345.jpg",
         "type": "image/jpeg",
         "length": 7794
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Намериха метеорит край Монтана",
-      "link": "https://offnews.bg/nauka/nameriha-meteorit-kraj-montana-872856.html",
-      "pubDate": "2026-08-17 16:37:40",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872856/php9isu8s_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7465
       },
       "source": {
         "name": "OffNews",
@@ -121,6 +121,46 @@
       }
     },
     {
+      "title": "Военни обезвредиха боеприпаси в Дунав. Министерството на отбраната предупреди хората да не ги пипат",
+      "link": "https://svobodnatochka.bg/novini/voenni-obezvrediha-boepripasi-v-dunav-mo-predupredi-horata-da-ne-gi-dokosvat/",
+      "pubDate": "2026-08-17 14:13:54",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Кои са най-богатите лидери на партии в България",
+      "link": "https://svobodnatochka.bg/novini/nay-bogatite-lideri-partii-balgariya/",
+      "pubDate": "2026-08-17 13:56:24",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Гълъб Донев заяви пред съда, че иска да защити държавния интерес в Пловдивския панаир",
+      "link": "https://svobodnatochka.bg/novini/galab-donev-se-angazhira-da-zasthiti-darzhavniya-interes-v-plovdivskiya-panair/",
+      "pubDate": "2026-08-17 13:45:48",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„За себе си съм дал обет“. До 15 май 2027 г. кметът на Бургас няма да се занимава с политика, а с „Евровизия“",
+      "link": "https://svobodnatochka.bg/novini/za-sebe-si-sam-dal-obet-do-15-maj-2027-g-kmetat-na-varna-nyama-da-se-zanimava-s-politika-a-s-evroviziya/",
+      "pubDate": "2026-08-17 12:41:45",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Елиминирана ли е вече олигархията, както каза Радев",
       "link": "https://svobodnatochka.bg/video/eliminirana-li-e-oligarhiyata/",
       "pubDate": "2026-08-17 11:52:22",
@@ -131,43 +171,27 @@
       }
     },
     {
-      "title": "„Този медал тежи много повече“. Александра Начева, която преодоля контузиите и върна България на европейския подиум",
-      "link": "https://svobodnatochka.bg/chovek-na-denya/aleksandra-nacheva-koyato-preodolya-kontuziite-i-varna-balgariya-na-evropeiskiya-podium/",
-      "pubDate": "2026-08-17 10:01:43",
-      "thumbnail": null,
+      "title": "МФ обяви, че има договорка за новата формула на минималната заплата (обновена)",
+      "link": "https://www.mediapool.bg/mf-obyavi-che-ima-dogovorka-za-novata-formula-na-minimalnata-zaplata-obnovena-news386604.html",
+      "pubDate": "2026-08-17 18:32:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_2b5edf70c93c95cecac3a89bddf5c2ac.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
-      "title": "Иван Шишков и Благомир Коцев търсят „техническо решение“ да спрат тока и водата в Баба Алино",
-      "link": "https://svobodnatochka.bg/novini/23848/",
-      "pubDate": "2026-08-17 09:56:04",
-      "thumbnail": null,
+      "title": "Демерджиев за убийството в Банкя: Първоначалната цел на извършителите не е била да убият Владимир Янков",
+      "link": "https://www.mediapool.bg/demerdzhiev-za-ubiystvoto-v-bankya-parvonachalnata-tsel-na-izvarshitelite-ne-e-bila-da-ubiyat-vladimir-yankov-news386615.html",
+      "pubDate": "2026-08-17 18:14:08",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_d18f14050a79b95b2dc491aa860af8c6.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Русия строи бази за изстрелване на дронове към страни от НАТО, твърди британско разследване",
-      "link": "https://svobodnatochka.bg/novini/rusiya-e-instalirala-bazi-za-izstrelvane-na-dronove/",
-      "pubDate": "2026-08-17 08:25:03",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Проповядване на омраза“. Трима от задържаните 18 от неонацистки клуб в Пловдив получиха обвинения от прокуратурата",
-      "link": "https://svobodnatochka.bg/novini/prokuraturata-ostavi-v-aresta-trima-ot-neonaczistkiya-klub/",
-      "pubDate": "2026-08-17 06:40:48",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -207,31 +231,7 @@
       }
     },
     {
-      "title": "Столичната община спира временно конкурса за главен архитект",
-      "link": "https://www.mediapool.bg/stolichnata-obshtina-spira-vremenno-konkursa-za-glaven-arhitekt-news386611.html",
-      "pubDate": "2026-08-17 16:30:44",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_089438cebb544001bcc84b903b90e680.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "С 2 бронза България е на 24 място в европейската атлетика",
-      "link": "https://www.mediapool.bg/s-2-bronza-bulgaria-e-na-24-myasto-v-evropeiskata-atletika-news386610.html",
-      "pubDate": "2026-08-17 14:31:17",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_5a07ee193ae984ea31632aecd1a0c45f.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Библиотека / Спорт и бизнес - Капитал",
+      "title": "Библиотека / Спорт и бизнес - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbWZuVlpXc3Zkak5iUWo2QjVQeno2RFNCM2FuMUZPYVZnNGlhcjYyRkhST3ExQk0wZjdGVGJWQUhHUDFHZ3JEVllGeldVUk1OaXpzX3dWRXFTS2RubWlqWTY4QTM?oc=5",
       "pubDate": "Mon, 17 Aug 2026 05:44:40 GMT",
       "thumbnail": null,
@@ -241,7 +241,7 @@
       }
     },
     {
-      "title": "Библиотека / Капитал - брой 32 - capital.bg - Капитал",
+      "title": "Библиотека / Капитал - брой 32 - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWVZONDBqRTVwRUdRdk0xQlRnYVZHd1JoUkprZUtuNGpMVkJnNEk5ek1GU2dVRlFKV044ejNtWWFiNlRVMUlQTi1VM2V3S2M3YWRzZ1A2ZzFjSXl0Y0VBdFFuMkFQZw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 15:08:30 GMT",
       "thumbnail": null,
@@ -251,7 +251,7 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на miramaterialscom - К��питал",
+      "title": "id.capital.bg | Публичен профил на miramaterialscom - Капитал",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTFo5UW1iZjJKTmV5RzhqaFgxMldfZTFVZVhvVlNhTTljcEdJLVotRDFfR040MVRtZkdLZzJvNWh0bGsxd3o2bmRSRjdJSXViTjlvMXhZcw?oc=5",
       "pubDate": "Sun, 16 Aug 2026 06:41:11 GMT",
       "thumbnail": null,
@@ -271,7 +271,7 @@
       }
     },
     {
-      "title": "Големите проблеми пред малките (енергийни) общности - Капитал",
+      "title": "Големите проблеми пред малките (енергийни) общности - capital.bg",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYm9hX1oxR2E4S0ZrSTluZzdORUcxMTNuMjVwMEtlRG9YMWlwUWVMRlNsVlZ4U1ZWdlFvZnljRFBVTWpHcDBleDNqTUdRd08xQmVYTDJ4WXE2LWFqZWVJVWdseGpQb3VNN1NJRmxvSVItZUtwUHBEOTdFTFNZV1RnMVBFcE5FdGd5VWlIMnp0VXN6ZXNTa1hZbmxCemZiUVI5bXZ3Slp1Y3NoLWUyQlRNbFV3?oc=5",
       "pubDate": "Mon, 17 Aug 2026 07:47:00 GMT",
       "thumbnail": null,
@@ -346,9 +346,9 @@
       }
     },
     {
-      "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study",
-      "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "pubDate": "2026-08-17 15:49:57",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "link": "https://arxiv.org/abs/2608.13759",
+      "pubDate": "2026-08-17 17:54:59",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,7 +366,17 @@
       }
     },
     {
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "title": "AI;DR (AI; Didn't Read)",
+      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "pubDate": "2026-08-17 19:47:15",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "pubDate": "2026-08-17 14:18:38",
       "thumbnail": null,
@@ -376,9 +386,9 @@
       }
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "link": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "pubDate": "2026-08-17 12:09:42",
+      "title": "Incident with Github.com",
+      "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "pubDate": "2026-08-17 13:35:06",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,63 +396,73 @@
       }
     },
     {
-      "title": "How to disable or avoid intrusive AI",
-      "link": "https://www.librarian.net/notoai/",
-      "pubDate": "2026-08-17 14:07:56",
-      "thumbnail": null,
+      "title": "35 случая на западнонилска треска в Северна Македония, трима починаха",
+      "link": "https://frognews.bg/novini/35-sluchaya-zapadnonilska-treska-severna-makedoniya-trima-pochinaha.html",
+      "pubDate": "2026-08-17 19:14:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/1a2c40a7a_1786994134_6a835dd6524b6.webp"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Бундесверът в подем: Численността на германската армия с 13-годишен рекорд",
+      "link": "https://frognews.bg/novini/bundesverat-podem-chislennostta-germanskata-armiia-13-godishen-rekord.html",
+      "pubDate": "2026-08-17 19:08:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/8f4993944_1786993862_6a835cc601004.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "На 27 август Никола Цолов ще се качи в болид от Формула 1 за TPC тест",
+      "link": "https://frognews.bg/novini/27-avgust-nikola-tsolov-shte-kachi-bolid-formula-1-tpc-test.html",
+      "pubDate": "2026-08-17 18:41:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/2f2ca19fe_1786992167_6a835627bde04.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Спряха конкурса за главен архитект на София заради бойкот от гилдиите",
+      "link": "https://frognews.bg/novini/spryaha-konkursa-glaven-arhitekt-sofiya-zaradi-boykot-gildiite.html",
+      "pubDate": "2026-08-17 18:17:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/8e3fb731c_1786990751_6a83509f8c74f.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
       "title": "По-предвидима минимална заплата: Правителството и синдикатите се разбраха за нов механизъм",
       "link": "https://frognews.bg/novini/predvidima-minimalna-zaplata-pravitelstvoto-sindikatite-razbraha-nov-mehanizam.html",
       "pubDate": "2026-08-17 18:08:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/1f70a0307_1786990236_6a834e9c69cbf.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Държавата влиза в делото за Пловдивския панаир на фона на протести в Пловдив",
-      "link": "https://frognews.bg/novini/darzhavata-vliza-deloto-plovdivskiya-panair-fona-protesti-plovdiv.html",
-      "pubDate": "2026-08-17 17:56:00",
+      "title": "US tourist killed by lightning on Sicily&apos;s Mount Etna",
+      "link": "https://www.dw.com/en/us-tourist-killed-by-lightning-on-sicily-s-mount-etna/a-78405901?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-17T22:48:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Руският съд не допуска до изборите единствената антивоенна партия „Яблоко“",
-      "link": "https://frognews.bg/novini/ruskiiat-sad-dopuska-izborite-edinstvenata-antivoenna-partiia-iabloko.html",
-      "pubDate": "2026-08-17 17:34:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "ЕС готви мащабни мерки срещу Русия през септември",
-      "link": "https://frognews.bg/novini/gotvi-mashtabni-merki-sreshtu-rusiya-prez-septemvri.html",
-      "pubDate": "2026-08-17 16:43:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Заради 90% загуби на вода и опасност от фалит, сменят управителя на ВиК-Добрич",
-      "link": "https://frognews.bg/novini/zaradi-90-zagubi-voda-opasnost-falit-smenyat-upravitelya-vik-dobrich.html",
-      "pubDate": "2026-08-17 16:28:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,17 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Norway wealth fund warns of AI-driven stock market bubble",
-      "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T14:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-17T21:13:05.746Z"
+  "lastUpdated": "2026-08-18T00:26:21.547Z"
 }
