@@ -1,9 +1,285 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-18T15:18:12.272Z",
-  "totalItems": 129,
+  "lastUpdated": "2026-08-18T15:23:01.607Z",
+  "totalItems": 150,
   "items": [
+    {
+      "title": "Тръмп обяви Ормузкия проток за ''нова американска територия'' и публикува карта",
+      "link": "https://offnews.bg/sviat/tramp-obiavi-ormuzkia-protok-za-nova-amerikanska-teritoria-i-publi-872937.html",
+      "pubDate": "2026-08-18 15:02:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/18/872937/phpc0s4bx_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8719
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Въздухът в София се подобрява, очаква се трайно разсейване на дима от Сърбия",
+      "link": "https://offnews.bg/obshtestvo/vazduhat-v-sofia-se-podobriava-ochakva-se-trajno-razsejvane-na-dima-o-872936.html",
+      "pubDate": "2026-08-18 14:44:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/18/872936/phpgxnotg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10310
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "В Кюстендилско задействаха BG-Alert заради пожарите в Сърбия",
+      "link": "https://offnews.bg/obshtestvo/v-kiustendilsko-zadejstvaha-bg-alert-zaradi-pozharite-v-sarbia-872934.html",
+      "pubDate": "2026-08-18 14:21:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/18/872934/php9qamdg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5925
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Как да проверим здравните си осигуровки в НАП",
+      "link": "https://offnews.bg/obshtestvo/kak-da-proverim-zdravnite-si-osigurovki-v-nap-872886.html",
+      "pubDate": "2026-08-18 13:59:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/18/872886/phpdm22ru_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5278
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Германия откри център за технологични изследвания срещу заплахи от дронове",
+      "link": "https://offnews.bg/sviat/germania-otkri-tcentar-za-tehnologichni-izsledvania-sreshtu-zaplahi-ot-872923.html",
+      "pubDate": "2026-08-18 13:51:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/18/872923/phpw6yvkh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6522
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Ефремова: Социалните са работили с част от замесените в убийството в Пловдив, родители са отказвали съдействие",
+      "link": "https://www.mediapool.bg/efremova-sotsialnite-sa-rabotili-s-chast-ot-zamesenite-v-ubiystvoto-v-plovdiv-roditeli-sa-otkazvali-sadeistvie-news386645.html",
+      "pubDate": "2026-08-18 14:55:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_e61c858aa1192b6e95bf981f9e6f22a0.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Човекът на Тръмп, отговарящ за балната зала в Белия дом, е провел тайни разговори с Кремъл",
+      "link": "https://www.mediapool.bg/chovekat-na-tramp-otgovaryasht-za-balnata-zala-v-beliya-dom-e-provel-taini-razgovori-s-kremal-news386644.html",
+      "pubDate": "2026-08-18 14:19:46",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_c78642ede6067d76ecb89ea23755938e.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Боклукът на София може да отиде в частен инсинератор край Елин Пелин",
+      "link": "https://www.mediapool.bg/boklukat-na-sofiya-mozhe-da-otide-v-chasten-insinerator-krai-elin-pelin-news386643.html",
+      "pubDate": "2026-08-18 14:16:56",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_0e5581de530a6e2627d3feb215ea8aaf.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Отново военен лекар за ръководен пост в здравеопазването",
+      "link": "https://www.mediapool.bg/otnovo-voenen-lekar-za-rakovoden-post-v-zdraveopazvaneto-news386642.html",
+      "pubDate": "2026-08-18 14:07:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_ab61bf739c15a27a0ec638ee16389608.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Кунчев: Лекари, отчели фиктивна ваксинация срещу морбили, да плащат лечението на заразените деца",
+      "link": "https://www.mediapool.bg/kunchev-lekari-otcheli-fiktivna-vaksinatsiya-sreshtu-morbili-da-plashtat-lechenieto-na-zarazenite-detsa-news386639.html",
+      "pubDate": "2026-08-18 13:45:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_93d0c205b2024d3c8a003f55a3c42f81.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Заради PR и евтино образование: Сръбска певица излъга, че е българка",
+      "link": "https://www.actualno.com/balkani/zaradi-pr-i-evtino-obrazovanie-srybska-pevica-izlyga-che-e-bylgarka-news_2630158.html",
+      "pubDate": "2026-08-18 15:19:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/e790347a360b2c626aeaeec41b19c3c0_2630158_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Новак Джокович разкри кой е тенисистът, в когото вижда себе си",
+      "link": "https://www.actualno.com/tennis/novak-djokovich-razkri-koj-e-tenisistyt-v-kogoto-vijda-sebe-si-news_2630154.html",
+      "pubDate": "2026-08-18 15:08:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/2334886576ebbd1dce46d128e3a376ab_2630154_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Ливърпул има сериозен проблем преди старта: Ван Дайк призна нещо притеснително",
+      "link": "https://www.actualno.com/football/livyrpul-ima-seriozen-problem-predi-starta-van-dajk-prizna-neshto-pritesnitelno-news_2630098.html",
+      "pubDate": "2026-08-18 15:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/3714055aa546e5bfc1e8414e7f3c7f92_2630098_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "“Елиминирането на олигархията” се отлага: ДБ предупреди за ББР, Орлин Алексиев и Пеевски",
+      "link": "https://www.actualno.com/politics/eliminiraneto-na-oligarhijata-se-otlaga-db-predupredi-za-bbr-orlin-aleksiev-i-peevski-news_2630146.html",
+      "pubDate": "2026-08-18 14:57:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/968a4d489f4680a9ea735025f0fbdf1d_2630146_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Само на 3 км от пресъхналия Дунав: Мечка с малкото си изненада жителите на село Драгаш войвода",
+      "link": "https://www.actualno.com/pleven/samo-na-3-km-ot-presyhnalija-dunav-mechka-s-malkoto-si-iznenada-jitelite-na-selo-dragash-vojvoda-news_2630144.html",
+      "pubDate": "2026-08-18 14:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/5843d82479a43c816fae428498dcd569_2630144_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Димът над София не е само от Сърбия – идва и от пожари в Албания. Въздухът се подобрява",
+      "link": "https://frognews.bg/novini/dimat-nad-sofiya-samo-sarbiya-idva-pozhari-albaniya-vazduhat-podobryava.html",
+      "pubDate": "2026-08-18 14:50:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Британски дронове над Русия и заплахи към Лондон: Докъде стигна войната",
+      "link": "https://frognews.bg/novini/britanski-dronove-nad-rusiia-zaplahi-kam-london-dokade-stigna-voinata.html",
+      "pubDate": "2026-08-18 14:15:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "30 деца са евакуирани във вилната зона на Мездра заради пожар",
+      "link": "https://frognews.bg/novini/30-detsa-evakuirani-vav-vilnata-zona-mezdra-zaradi-pozhar.html",
+      "pubDate": "2026-08-18 14:01:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Над 6000 бали горят край Лом, огънят застрашава ферма с над 1000 крави",
+      "link": "https://frognews.bg/novini/nad-6000-bali-goriat-krai-lom-oganiat-zastrashava-ferma-nad-1000-kravi.html",
+      "pubDate": "2026-08-18 14:00:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Лавров похвали Радев – и показа коя България е удобна за Москва",
+      "link": "https://frognews.bg/novini/lavrov-pohvali-radev--pokaza-koia-balgariia-udobna-moskva.html",
+      "pubDate": "2026-08-18 13:45:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
+    {
+      "title": "Afghanistan: Only 5% of labor market are women under Taliban",
+      "link": "https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-18T15:21:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-18T15:23:01.607Z"
+    },
     {
       "title": "Над 3 тона канабис откриха в Пирин",
       "link": "https://offnews.bg/112/nad-3-tona-kanabis-otkriha-v-pirin-872924.html",
