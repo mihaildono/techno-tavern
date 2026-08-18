@@ -1,9 +1,119 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-18T09:19:00.017Z",
-  "totalItems": 155,
+  "lastUpdated": "2026-08-18T12:17:11.879Z",
+  "totalItems": 124,
   "items": [
+    {
+      "title": "Пожар в Сърбия предизвика задимяване в София и областта, в Костинброд е най-опасно",
+      "link": "https://svobodnatochka.bg/novini/pozhar-sarbiya-dim-sofiya-kostinbrod/",
+      "pubDate": "2026-08-18 11:21:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Украйна с най-мощната атака по Москва досега. Русия заплаши Великобритания с „последствия“ заради доставките на дронове за Киев",
+      "link": "https://svobodnatochka.bg/novini/masthabna-ukrainsla-ataka-porazi-moskovska-oblast-post/",
+      "pubDate": "2026-08-18 09:48:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "11 години затвор и забрана за изборите. Русия се разправи с опозиционната партия „Яблоко“",
+      "link": "https://svobodnatochka.bg/novini/rusiya-potvardi-zabranata-za-uchastie-na-opoziczionnata-yabloko-v-izborite-i-osadi-na-11-godini-nakazatelna-koloniya-zatvor-nejniya-zam-predsedatel/",
+      "pubDate": "2026-08-18 08:31:23",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "България е получила две антидрон системи, предстои военните да ги усвоят",
+      "link": "https://svobodnatochka.bg/novini/balgariya-e-poluchila-dve-antidron-sistemi/",
+      "pubDate": "2026-08-18 06:35:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Три минути: Донев продължава битката за панаира. България е придобила първите антидрон системи",
+      "link": "https://svobodnatochka.bg/tri-minuti/donev-panair-dron/",
+      "pubDate": "2026-08-18 04:51:07",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Библиотека / Капитал - брой 32 - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWVZONDBqRTVwRUdRdk0xQlRnYVZHd1JoUkprZUtuNGpMVkJnNEk5ek1GU2dVRlFKV044ejNtWWFiNlRVMUlQTi1VM2V3S2M3YWRzZ1A2ZzFjSXl0Y0VBdFFuMkFQZw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 15:08:30 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "pubDate": "2026-08-18 07:51:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Rethinking Database Programming",
+      "link": "https://acadia.engineering/blog/rethinking-database-programming",
+      "pubDate": "2026-08-18 07:28:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Hyrox: a global fitness sensation made in Germany",
+      "link": "https://www.dw.com/en/hyrox-a-global-fitness-sensation-made-in-germany/a-78074218?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-18T09:52:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
+    {
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-18T09:29:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-18T12:17:11.879Z"
+    },
     {
       "title": "Сестрите Уилямс отново рамо до рамо след близо 4 години",
       "link": "https://offnews.bg/tenis/sestrite-uiliams-otnovo-ramo-do-ramo-sled-blizo-4-godini-872891.html",
@@ -1443,512 +1553,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-17T15:12:34.777Z"
-    },
-    {
-      "title": "Комикс №27526 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MekhlYjk5RG1senNubURiajNHRDJ1WllkX3Y2akRvZ3BOWGtzU1BhQTV3T3dXRjI5NEFoMEtYV20zcXNQQlFWYXVkQUZNXzJZdTNMQTNSMWJMRDFJNU5uSEMyN1E?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 00:09:43 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Комикс №60651 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45SjU3TG9FeFZSeDhVdTRRYTB2VGlFYmYyNEJKT1U1cmpIUlBNMzRDdWFHUWVSOWlNNWdnUTl3YU9Rb0JscjRGbXVRaw?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 14:22:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Елиминирана ли е вече олигархията, както каза Радев",
-      "link": "https://svobodnatochka.bg/video/eliminirana-li-e-oligarhiyata/",
-      "pubDate": "2026-08-17 11:52:22",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "„Този медал тежи много повече“. Александра Начева, която преодоля контузиите и върна България на европейския подиум",
-      "link": "https://svobodnatochka.bg/chovek-na-denya/aleksandra-nacheva-koyato-preodolya-kontuziite-i-varna-balgariya-na-evropeiskiya-podium/",
-      "pubDate": "2026-08-17 10:01:43",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Иван Шишков и Благомир Коцев търсят „техническо решение“ да спрат тока и водата в Баба Алино",
-      "link": "https://svobodnatochka.bg/novini/23848/",
-      "pubDate": "2026-08-17 09:56:04",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Русия строи бази за изстрелване на дронове към страни от НАТО, твърди британско разследване",
-      "link": "https://svobodnatochka.bg/novini/rusiya-e-instalirala-bazi-za-izstrelvane-na-dronove/",
-      "pubDate": "2026-08-17 08:25:03",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "„Проповядване на омраза“. Трима от задържаните 18 от неонацистки клуб в Пловдив получиха обвинения от прокуратурата",
-      "link": "https://svobodnatochka.bg/novini/prokuraturata-ostavi-v-aresta-trima-ot-neonaczistkiya-klub/",
-      "pubDate": "2026-08-17 06:40:48",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на miramaterialscom - ��апитал",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTFo5UW1iZjJKTmV5RzhqaFgxMldfZTFVZVhvVlNhTTljcEdJLVotRDFfR040MVRtZkdLZzJvNWh0bGsxd3o2bmRSRjdJSXViTjlvMXhZcw?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 06:41:11 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на qav17867228441642258 - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RTWxPbVRSQlhVU1o3Unh1YWRSU1FfMHp3Q1NDbjlYall0bGZwdXowN1h5VXA4Y1NTRHFsd04wbTVQMGMtZ3c2QjJGNmNDLUZxNWRZRUF0YzZjWkdy?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 04:04:30 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Beware the Permanent Periphery",
-      "link": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
-      "pubDate": "2026-08-11 00:35:17",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "On A.I. regulation and messaging",
-      "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "pubDate": "2026-08-17 01:59:56",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "link": "https://duti.dev/blog/2026/spr/",
-      "pubDate": "2026-08-17 07:28:43",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-      "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T12:01:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Putin visited Kuril to &apos;punish&apos; Japan over Ukraine stance",
-      "link": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T11:47:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Cooler destinations are drawing tourists — can nature cope?",
-      "link": "https://www.dw.com/en/cooler-destinations-are-drawing-tourists-can-nature-cope/a-78362462?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T11:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Germany&apos;s AfD is labeled far-right, populist or extremist",
-      "link": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T10:51:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "DRC Ebola outbreak becomes deadliest in country&apos;s history",
-      "link": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T10:06:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T12:15:09.292Z"
-    },
-    {
-      "title": "Huawei ще представи нови продукти за спорт, здраве и аудио в Мюнхен на 2-ри септември",
-      "link": "https://offnews.bg/tehnologii/huawei-shte-predstavi-novi-produkti-za-sport-zdrave-i-audio-v-miunhen-872819.html",
-      "pubDate": "2026-08-17 09:20:04",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872819/phphrnvsh_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4469
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Ръст от близо 19%: Износът на български стоки в мрежата на Lidl е над 36,9 млн. евро през първото полугодие",
-      "link": "https://offnews.bg/ikonomika/rast-ot-blizo-19-iznosat-na-balgarski-stoki-v-mrezhata-na-lidl-e-nad-872818.html",
-      "pubDate": "2026-08-17 09:16:38",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872818/phpxheecf_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6547
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Потвърждение с биометрични данни при онлайн плащане с карта neon на tbi bank",
-      "link": "https://offnews.bg/ikonomika/potvarzhdenie-s-biometrichni-danni-pri-onlajn-plashtane-s-karta-neon-n-872817.html",
-      "pubDate": "2026-08-17 09:11:03",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872817/phpvanthn_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5134
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Правосъдният министър ще ръководи и координира политиката в областта на правната помощ",
-      "link": "https://offnews.bg/temida/pravosadniat-ministar-shte-rakovodi-i-koordinira-politikata-v-oblastta-872814.html",
-      "pubDate": "2026-08-17 08:59:24",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872814/phphlugwe_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7039
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Задържаха 51-годишен мъж, застрелял куче в Димитровград",
-      "link": "https://offnews.bg/112/zadarzhaha-51-godishen-mazh-zastrelial-kuche-v-dimitrovgrad-872813.html",
-      "pubDate": "2026-08-17 08:59:04",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/17/872813/phphaov4l_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4563
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "С над 10% повече разходи за пенсии през първото полугодие",
-      "link": "https://www.mediapool.bg/s-nad-10-poveche-razhodi-za-pensii-prez-parvoto-polugodie-news386598.html",
-      "pubDate": "2026-08-17 07:22:35",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_b407bbd1202d63fb236df3674614df11.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Ограничения по АМ \"Тракия до 21 август",
-      "link": "https://www.mediapool.bg/ogranicheniya-po-am-trakiya-do-21-avgust-news386597.html",
-      "pubDate": "2026-08-17 06:54:09",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_047744567c82e84e5010517743f84c49.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Петролът поскъпна заради отслабващи надежди за пробив в преговорите между САЩ и Иран",
-      "link": "https://www.mediapool.bg/petrolat-poskapna-zaradi-otslabvashti-nadezhdi-za-probiv-v-pregovorite-mezhdu-sasht-i-iran-news386596.html",
-      "pubDate": "2026-08-17 05:50:40",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_4cbf68699f3c65e43a6165059bf1d468.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Трима обвинени след акцията срещу \"Кръв и чест\"",
-      "link": "https://www.mediapool.bg/trima-obvineni-sled-aktsiyata-sreshtu-krav-i-chest-news386595.html",
-      "pubDate": "2026-08-17 05:14:53",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_34b74efe993137f09ca90bc3e68e0408.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Най-малко 7 жертви на най-мащабната за годината украинска атака над Русия",
-      "link": "https://www.mediapool.bg/nai-malko-7-zhertvi-na-nai-mashtabnata-za-godinata-ukrainska-ataka-nad-rusiya-news386594.html",
-      "pubDate": "2026-08-17 05:08:51",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_1483c369deaea98e16d1ebf9fd0c0428.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Библиотека / Спорт и бизнес - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KbWZuVlpXc3Zkak5iUWo2QjVQeno2RFNCM2FuMUZPYVZnNGlhcjYyRkhST3ExQk0wZjdGVGJWQUhHUDFHZ3JEVllGeldVUk1OaXpzX3dWRXFTS2RubWlqWTY4QTM?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 05:44:40 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "\"Изблици от миналия век\": Мицкоски се опълчи на Вучич за македонската църква, засега само на думи",
-      "link": "https://www.actualno.com/balkani/izblici-ot-minalija-vek-mickoski-se-opylchi-na-vuchich-za-makedonskata-cyrkva-zasega-samo-na-dumi-news_2629541.html",
-      "pubDate": "2026-08-17 06:26:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/e2e7df0a2414831e5a7c274f6208ef71_2629541_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Надеждите за мир около Ормуз отслабват: Цената на петрола в началото на седмицата",
-      "link": "https://www.actualno.com/economy/nadejdite-za-mir-okolo-ormuz-otslabvat-cenata-na-petrola-v-nachaloto-na-sedmicata-news_2629540.html",
-      "pubDate": "2026-08-17 06:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/3c4db42a4cd4f66a956481e7fcea65ae_2629540_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Предизвестен провал: Въпроси защо поръчката за магистралата Бяла - Велико Търново е прекратена",
-      "link": "https://www.actualno.com/society/predizvesten-proval-vyprosi-zashto-porychkata-za-magistralata-bjala-veliko-tyrnovo-e-prekratena-news_2629538.html",
-      "pubDate": "2026-08-17 06:22:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/60b69f7480839078f58427bb445b3f9b_2629538_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "\"Спайдър-Мен: Нов ден\" премина колосалната бариера от 2 млрд. долара в глобалния боксофис",
-      "link": "https://www.actualno.com/cinema/spajdyr-men-nov-den-premina-kolosalnata-bariera-ot-2-mlrd-dolara-v-globalnija-boksofis-news_2629535.html",
-      "pubDate": "2026-08-17 06:11:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/ba9be5a1daae62b5be0a5111dabc6e83_2629535_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Признание: Ан Хатауей влезе в залата на славата на Disney",
-      "link": "https://www.actualno.com/cinema/priznanie-an-hatauej-vleze-v-zalata-na-slavata-na-disney-news_2629533.html",
-      "pubDate": "2026-08-17 06:01:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/17/c38b67c9b135253f3fc47cafba91e30b_2629533_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Тръмп реже ученията с Южна Корея: Между „добрите отношения“ с Ким и отказа за Иран",
-      "link": "https://frognews.bg/novini/tramp-reje-ucheniiata-iujna-koreia-mejdu-dobrite-otnosheniia-kim-otkaza-iran.html",
-      "pubDate": "2026-08-17 09:20:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/54ec1580b_1786958424_6a82d258c94aa.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Тайни танкери заобикалят блокадата на Ормуз: Над 4 млн. барела петрол дневно",
-      "link": "https://frognews.bg/novini/taini-tankeri-zaobikaliat-blokadata-ormuz-nad-4-mln-barela-petrol-dnevno.html",
-      "pubDate": "2026-08-17 09:10:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/aa11553d7_1786957605_6a82cf25e17d0.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "„Радецки“ чака вода: Маловодието спря легендарния кораб",
-      "link": "https://frognews.bg/novini/radetski-chaka-voda-malovodieto-spria-legendarniia-korab.html",
-      "pubDate": "2026-08-17 09:00:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/8acdf5fe0_1786953367_6a82be97e6823.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Спират тока и водата в „Баба Алино“ – готвят нови заповеди за събаряне",
-      "link": "https://frognews.bg/novini/spirat-toka-vodata-baba-alino-gotvyat-novi-zapovedi-sabaryane.html",
-      "pubDate": "2026-08-17 08:35:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/0b2b49b78_1786955535_6a82c70f786c3.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Ремонтът на софийския бул. „Мария Луиза“: 8.7 млн. евро и 3 години за едва 1.2 км трасе",
-      "link": "https://frognews.bg/novini/remontat-sofiyskiya-bul-mariya-luiza-8-7-mln-evro-3-godini-edva-1-2-trase.html",
-      "pubDate": "2026-08-17 08:32:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/b19ababae_1786956529_6a82caf15cc60.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "India&apos;s testing agency in focus after more exams canceled",
-      "link": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T07:19:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Fatty food raises risk of colorectal cancer",
-      "link": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T06:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
-    },
-    {
-      "title": "Germany news: Belgium blaze kept out of Germany for now",
-      "link": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-17T06:42:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-17T09:26:33.429Z"
     }
   ]
 }
