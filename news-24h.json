@@ -1,9 +1,233 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-19T03:34:51.820Z",
-  "totalItems": 151,
+  "lastUpdated": "2026-08-19T06:20:04.335Z",
+  "totalItems": 158,
   "items": [
+    {
+      "title": "Комикс №76970 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eUNLeHVTRnRmV002aFJOdklQOEhNaFZOWGRkOXEzd1pOOHp3Ujl0UzdiSFBlcVRJMTI4UDBOZ1RMWkI2QjlTdW5HdVVTSkdhWWdNdGZLcjRfYkJPVnZERlVXUnA?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:56:39 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Комикс №345735 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mVTd5Q0VuYVMzckJYblVBUHlOdl9LdWZLYnlCLXVaaG9yQ0xSbFlfdlREbEx3SUpBQWkzeUtoYk5OaHZUVFNHSDRjdE8?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 11:19:43 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Кремъл напредва с изграждането на „руския Starlink“. Но има един проблем",
+      "link": "https://svobodnatochka.bg/istorii/ruskiyat-starlink-barzo-se-prevrastha-v-realnost-kremal-obache-ima-problem/",
+      "pubDate": "2026-08-19 04:53:54",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Три минути: Лавров се хвали, че познава Радев. “Прогресивна България” ударно изгражда местни структури",
+      "link": "https://svobodnatochka.bg/tri-minuti/tri-minuti-lavrov-se-hvali-che-poznava-radev-progresivna-balgariya-udarno-izgrazhda-mestni-strukturi/",
+      "pubDate": "2026-08-19 04:53:34",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на qem17869345661643014 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aaFA2LUR2SElnNGxmZ2R3a2gteDh3WjluX1R3LWJtMzgtOUNXbUFXbi05YzZrcmV1NDJvSG9EdVRNUVNhdjRNTTVRVHFJODVyTkktaWtfWlUtNG5fLVE?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 01:34:36 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Кабинетът \"Радев\" обсъжда организацията на президентските избори",
+      "link": "https://www.actualno.com/politics/kabinetyt-radev-obsyjda-organizacijata-na-prezidentskite-izbori-news_2630291.html",
+      "pubDate": "2026-08-19 03:38:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/19/c8880e242dc3068d2f0bca685751e467_2630291_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "България изостава и губи достъп до спешни дигитални данни от Google и Meta",
+      "link": "https://www.actualno.com/crime/bylgarija-izostava-i-gubi-dostyp-do-speshni-digitalni-danni-ot-google-i-meta-news_2630290.html",
+      "pubDate": "2026-08-19 03:25:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/19/feafbbdaeacef43a01918960bd59a2e7_2630290_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "И Франция със сериозни обвинения към Иран",
+      "link": "https://www.actualno.com/europe/i-francija-sys-seriozni-obvinenija-kym-iran-news_2630278.html",
+      "pubDate": "2026-08-19 03:21:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/19/432252607406029895e1aae70c437266_2630278_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Тръмп иска нова среща с Ким Чен Ун през есента",
+      "link": "https://www.actualno.com/america/trymp-iska-nova-sreshta-s-kim-chen-un-prez-esenta-news_2630288.html",
+      "pubDate": "2026-08-19 03:08:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/19/9bfc941657562b8b3955d1e4b8b6a833_2630288_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Иран отрече обвиненията да е изстрелял ракети срещу ОАЕ",
+      "link": "https://www.actualno.com/asia/iran-otreche-obvinenijata-da-e-izstreljal-raketi-sreshtu-oae-news_2630284.html",
+      "pubDate": "2026-08-19 03:07:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/19/d6f5ba3771a94a52efac2c111868210e_2630284_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "pubDate": "2026-08-19 00:53:51",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "pubDate": "2026-08-19 02:24:34",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "OpenLogi",
+      "link": "https://openlogi.org/en",
+      "pubDate": "2026-08-19 01:58:28",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Cerebras CS-4",
+      "link": "https://www.cerebras.ai/cs4",
+      "pubDate": "2026-08-19 00:28:18",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "pubDate": "2026-08-19 02:41:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "Australia: Erin Patterson appeals mushroom murder conviction",
+      "link": "https://www.dw.com/en/australia-erin-patterson-appeals-mushroom-murder-conviction/a-78421118?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-19T05:56:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "US, South Korea cut short joint drills after Trump criticism",
+      "link": "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-19T05:06:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "In drought-stricken France, tankers supply drinking water",
+      "link": "https://www.dw.com/en/in-drought-stricken-france-tankers-supply-drinking-water/a-78420016?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-19T04:33:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
+    {
+      "title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
+      "link": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-19T03:32:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-19T06:20:04.335Z"
+    },
     {
       "title": "US, Canada agree deal that delays 50% tariffs, Trump says",
       "link": "https://www.dw.com/en/us-canada-agree-deal-that-delays-50-tariffs-trump-says/a-78421098?maca=en-rss-en-top-1022-rdf",
@@ -1761,153 +1985,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-18T09:19:00.017Z"
-    },
-    {
-      "title": "Снимка на деня: Индонезия чества 81 години от независимостта си - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONUtTTlgxYUdDeWpWSGd5dG4wWURWaWxDTFd3ZmR4RmlIUF9TczFOdmRMTVNnS1k1SmZXbWJtMnRVSXZac0taWXFzZjlGOElSUENJZE1CT3pjWjhSdDNBQXpsR0tCS3h2RXhGRzZ2NmJGc1ZwREZ2VklRdXBmbHhnSkRGVDRHSnRranV4bDJTSXlKclJuQUFYcHVwajhpSVpwNUZVN0gybFBzVENUNU5CTV9veWRQTmtORHBFUGl3?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:57:22 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Метрото в София с удължено работно време за мача \"Левски\" - АЕК",
-      "link": "https://www.actualno.com/sofia/metroto-v-sofija-s-udyljeno-rabotno-vreme-za-macha-levski-aek-news_2629876.html",
-      "pubDate": "2026-08-18 03:41:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/f71b0d146fa4ef11cf14f2ca1b13fcdb_2629876_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Почти 100 дрона и пожари в Москва (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/pochti-100-drona-i-pojari-v-moskva-video-news_2629873.html",
-      "pubDate": "2026-08-18 03:26:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/4ab698b02e9311b1b485f3c023c38459_2629873_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Бало̀нът \"Евровизия 2027\": Частни квартири на космически цени, които никой няма да плати",
-      "link": "https://www.actualno.com/burgas/balonyt-evrovizija-2027-chastni-kvartiri-na-kosmicheski-ceni-koito-nikoj-njama-da-plati-news_2629871.html",
-      "pubDate": "2026-08-18 03:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/75c68b55d4b3413c603b65465650356e_2629871_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Създават временни мигрантски центрове в Сеута",
-      "link": "https://www.actualno.com/europe/syzdavat-vremenni-migrantski-centrove-v-seuta-news_2629872.html",
-      "pubDate": "2026-08-18 03:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/cab1f9d66d1a9ba9293db1ab75304fdb_2629872_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Победа за природозащитниците: САЩ спря изграждането на граничната ограда в парк \"Биг Бенд\"",
-      "link": "https://www.actualno.com/america/pobeda-za-prirodozashtitnicite-sasht-sprja-izgrajdaneto-na-granichnata-ograda-v-park-big-bend-news_2629870.html",
-      "pubDate": "2026-08-18 03:08:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/18/409c60da89b49b37423db183cd0df00b_2629870_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "pubDate": "2026-08-17 22:20:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "pubDate": "2026-08-17 22:06:14",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "pubDate": "2026-08-17 21:03:18",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "link": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "pubDate": "2026-08-13 12:47:43",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Philippines: student livestreams school shooting",
-      "link": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-18T04:27:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
-    },
-    {
-      "title": "Zambia&apos;s Hichilema wins second presidential term",
-      "link": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-18T04:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-18T06:19:17.219Z"
     }
   ]
 }
