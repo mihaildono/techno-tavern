@@ -72,28 +72,8 @@
     },
     {
       "title": "Новини от вас - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlZWcUN6cmxQNVpNZGthREVYbC1oZFBhbExkMHVocE9DdjBDZWFaMmdlVWN6Zk1jOVFURUZmNnBOSVNLSGx1R3l3TVlLaXhUWlNXdVFfSDJ6NkZodnhrbFRkSnlYX201RkdMelVlVktzemI0cXZtdXpyVExrR0tkQ1YtTUVJNjZp?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №344203 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2T1hjeFZiVUZOMEZfZnk0RTRTaUdnTHVrSjE2VlhiM1lXVDhRNldYQ0dieG9tSkNpQkUyTUFDODJTYWFPMEFoVmxXVlo?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 18:11:06 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №311104 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZGpqMV9VUnFZLVJ3ekFUYnhwNUdJSnh6TmE4bThGWU5WbFEydVpROUVPLU1rd3l6cl81Mm5nUkhacFA2eVVZX3hRSkZrcUh6Qmg2Z1Iwbi1MbnRaU2VXRS1ZaWJTQQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:43:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDV6cDdvQVdnd0cxU1F2OW5iLVJabWtoa0c0MUpnSGg5Ul9zM2x6QlpoMGdwWEV2NUYwaGFsd0M4QTVoQThEcFp5elNDQkhRLXRMdTlpZmdiTnVseU9YWUUwU0poWUt6WlVOcGZNakFDT3kxcWVXbDRwNXplaXMxcHV1aGdDQmZu?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -114,6 +94,26 @@
       "title": "Комикс №020488 - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SMlE3OGY0c0hkVEdMMlhXSzNVQ3RKWE5LclJZVHkxbS1MYmRsTS1vc2tFSVVEb0diUVI5WFhublZ6Qi1NWDBJNlZxLXgxV2swWkFLWWNwQ09iVG1keV9sWnoxbU1fS0ZuNWJ2SWdtbw?oc=5",
       "pubDate": "Wed, 19 Aug 2026 16:48:36 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №343746 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54Wi04ZGxQSUVsMjNPR0lHaWo4VFVFVF9HMGZmSGhCMUhwLTBSamlWM19IT2lVVHE3MjBZWnFJUjNZSUZjYXBiZF8yWWk?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:44:54 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №346364 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxLWdXaUZ2Z01JV29JUVZDM2JvZG83TzdoT3RfMFBaREhZb1cyWkp5bk1KSlBPNTZtOEpyYVZCRUJWNHZKZlN5djI0d3k?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 09:45:30 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -346,6 +346,26 @@
       }
     },
     {
+      "title": "Don't Paste the AI, please",
+      "link": "https://dontpastetheai.com/",
+      "pubDate": "2026-08-20 08:20:44",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "pubDate": "2026-08-20 06:16:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "OpenRouter is joining Stripe",
       "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "pubDate": "2026-08-19 17:32:38",
@@ -356,7 +376,7 @@
       }
     },
     {
-      "title": "Turns are Better than Radians",
+      "title": "Turns are Better than Radians (2022)",
       "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
       "pubDate": "2026-08-20 01:29:12",
       "thumbnail": null,
@@ -369,26 +389,6 @@
       "title": "Go 1.27",
       "link": "https://go.dev/blog/go1.27",
       "pubDate": "2026-08-19 18:33:49",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "A faster way to calculate the day of the week",
-      "link": "https://www.benjoffe.com/fast-day-of-week",
-      "pubDate": "2026-08-16 21:20:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "pubDate": "2026-08-19 17:47:29",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -446,6 +446,46 @@
       }
     },
     {
+      "title": "In Iran, contact with foreigners could soon be a crime",
+      "link": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T12:11:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
+      "link": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T11:19:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "South Africa&apos;s ANC faces voter backlash",
+      "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T11:02:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "How DW fact-checks fake news",
+      "link": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T10:37:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "How to better protect Europe from wildfires",
       "link": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-20T09:00:00Z",
@@ -454,47 +494,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Ukraine: Several killed in &apos;massive&apos; Russian strikes on Kyiv",
-      "link": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T08:59:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Bernadette Amani &apos;living her dream&apos; at Bayern Munich",
-      "link": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T08:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "North Korea fires possible ballistic missiles toward sea",
-      "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T08:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Powerful storms damage homes, leave 1 dead",
-      "link": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T08:12:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-20T09:20:40.508Z"
+  "lastUpdated": "2026-08-20T12:18:21.587Z"
 }
