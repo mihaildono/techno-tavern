@@ -1,9 +1,64 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-20T00:27:07.590Z",
-  "totalItems": 166,
+  "lastUpdated": "2026-08-20T03:34:53.640Z",
+  "totalItems": 168,
   "items": [
+    {
+      "title": "Новини от вас - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXlpRmRqWnphZ1pJX3NmSl9xTHFJbHhWb2VFSEFWaW5wZlk3Z3VJOXBicVByZnZvV2VGTkpzd3R0SFNLSmdDYUZZc2QzN3l5SWdQZHFXd1d5NFFweWZSZWNreHZIRmJTMWR0S1ZwZF83aVdYaEYtRDd3NGFYSWNFSnVzNVRfWWN4?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:52:28 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-20T03:34:53.640Z"
+    },
+    {
+      "title": "Комикс №070844 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBNTFpRHc5a0xsSC03UVE1SEJhM1NkSXZUdi1sYXNMTXNpNGFYcUdQTnl2ajhKaElXT3puV3BWeEpZbkpVcmNmSGhZNkFxNmFGYUhiNmt4UDRDZVB1azVJUGFEWjNnQQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 17:18:41 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-20T03:34:53.640Z"
+    },
+    {
+      "title": "axf17870653181643573 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IaDVIWVotbEFVVnNWd2RhcWJlQWk0REJDRldTdklkTG5pbmk4b1JYQk4yMmxxZ2lwZEcwR3ZqaTRRNGp1M25oYm80Nl9tUVpJU3RTd3F5azRqNWJp?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 20:34:55 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-20T03:34:53.640Z"
+    },
+    {
+      "title": "Harry and Meghan moving back to Britain: reports",
+      "link": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T03:10:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-20T03:34:53.640Z"
+    },
+    {
+      "title": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+      "link": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-20T02:54:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-20T03:34:53.640Z"
+    },
     {
       "title": "Партията на Иван Христанов призова дясното да го подкрепи за президент",
       "link": "https://offnews.bg/politika/partiata-na-ivan-hristanov-prizova-diasnoto-da-go-podkrepi-za-preziden-873031.html",
@@ -2030,39 +2085,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-19T06:20:04.335Z"
-    },
-    {
-      "title": "US, Canada agree deal that delays 50% tariffs, Trump says",
-      "link": "https://www.dw.com/en/us-canada-agree-deal-that-delays-50-tariffs-trump-says/a-78421098?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-19T03:32:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-19T03:34:51.820Z"
-    },
-    {
-      "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
-      "link": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-19T02:18:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-19T03:34:51.820Z"
-    },
-    {
-      "title": "German Africa Prize goes to Kenyan social entrepreneur",
-      "link": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-19T02:00:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-19T03:34:51.820Z"
     }
   ]
 }
