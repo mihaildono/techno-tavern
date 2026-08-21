@@ -1,9 +1,351 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-21T12:18:25.641Z",
-  "totalItems": 135,
+  "lastUpdated": "2026-08-21T15:19:47.398Z",
+  "totalItems": 162,
   "items": [
+    {
+      "title": "Прокуратурата към Демерджиев: Коментари по неприключили разследвания са неприемливи",
+      "link": "https://offnews.bg/temida/prokuraturata-kam-demerdzhiev-komentari-po-neprikliuchili-razsledvani-873163.html",
+      "pubDate": "2026-08-21 12:28:01",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/21/873163/phpxxehl3_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5111
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "МОН публикува отговорите на поправителните матури",
+      "link": "https://offnews.bg/obshtestvo/mon-publikuva-otgovorite-na-popravitelnite-maturi-873164.html",
+      "pubDate": "2026-08-21 12:24:51",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/21/873164/phpah6vtc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5750
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "ЕК: Сърбия не е искала помощ за пожарите. Белград: Руският Ил-76 ни е по-полезен",
+      "link": "https://offnews.bg/sviat/ek-sarbia-ne-e-iskala-pomosht-za-pozharite-belgrad-ruskiat-il-76-ni-873161.html",
+      "pubDate": "2026-08-21 12:07:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/21/873161/phptpsdtt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4367
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Фармабизнесът предупреди за рискове от закриването на Националния съвет за лекарствата",
+      "link": "https://offnews.bg/zdrave/farmabiznesat-predupredi-za-riskove-ot-zakrivaneto-na-natcionalnia-sav-873158.html",
+      "pubDate": "2026-08-21 11:53:57",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/21/873158/phpldnivc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5752
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Столична община обнови четири читалища",
+      "link": "https://offnews.bg/obshtestvo/stolichna-obshtina-obnovi-chetiri-chitalishta-873160.html",
+      "pubDate": "2026-08-21 11:50:33",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/21/873160/phpyt3jnf_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6527
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Комикс №007028 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OYjcxLU53NFlaZ1NRMk5fTHVLMU9vYncxejI0N2I0ZzJvX29ZMTJlck5OOTV5T05hdmhmMWJFSHhxUDFmRW5RX25sTENBZ2dzWnZDajRwWTlWb0JvYnVkQVZlZDM5VTdlLTBiMFJvaw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:15:13 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Ива Петрова: Няма кризисна ситуация в енергетиката заради 5-и блок на АЕЦ \"Козлодуй\"",
+      "link": "https://www.mediapool.bg/iva-petrova-nyama-krizisna-situatsiya-v-energetikata-zaradi-5-i-blok-na-aets-kozlodui-news386743.html",
+      "pubDate": "2026-08-21 12:21:37",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_720bd4c53b94d2124ed9839b3d6165bb.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Пулев: Инвестициите и иновациите са на фокус при партньорството ни със САЩ",
+      "link": "https://www.mediapool.bg/pulev-investitsiite-i-inovatsiite-sa-na-fokus-pri-partnyorstvoto-ni-sas-sasht-news386742.html",
+      "pubDate": "2026-08-21 11:59:47",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_4b44f22257823a2a6e6b25b8b781f610.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Трима опозиционни лидери са с по-голяма подкрепа от Ердоган",
+      "link": "https://www.mediapool.bg/trima-opozitsionni-lideri-sa-s-po-golyama-podkrepa-ot-erdogan-news386741.html",
+      "pubDate": "2026-08-21 11:55:24",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_30e1e837042f4fafad7c8c00f8a01a27.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Биткойнът и златото покоряват върхове заради страхове за слаб долар",
+      "link": "https://www.mediapool.bg/bitkoinat-i-zlatoto-pokoryavat-varhove-zaradi-strahove-za-slab-dolar-news386740.html",
+      "pubDate": "2026-08-21 11:44:31",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_d5cb6a6fa1fcc780ac4f392a7b067f3f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "По заръка на Путин руските градове ще бъдат украсени с матрьошки и балалайки",
+      "link": "https://www.mediapool.bg/po-zaraka-na-putin-ruskite-gradove-shte-badat-ukraseni-s-matryoshki-i-balalaiki-news386739.html",
+      "pubDate": "2026-08-21 11:40:13",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_0f1ea5b32c60e9713a1c4615912ae4eb.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "axf17870653181643573 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IaDVIWVotbEFVVnNWd2RhcWJlQWk0REJDRldTdklkTG5pbmk4b1JYQk4yMmxxZ2lwZEcwR3ZqaTRRNGp1M25oYm80Nl9tUVpJU3RTd3F5azRqNWJp?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 20:34:55 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "За агентите на Путин? В гора край Берлин откриха таен склад с оръжие",
+      "link": "https://www.actualno.com/europe/za-agentite-na-putin-v-gora-kraj-berlin-otkriha-taen-sklad-s-oryjie-news_2631273.html",
+      "pubDate": "2026-08-21 12:26:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/6e87bb982f2090d1352908204b900e19_2631273_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Срещу 51 милиона паунда: Арсенал се подсили с национал на Англия!",
+      "link": "https://www.actualno.com/football/sreshtu-51-miliona-paunda-arsenal-se-podsili-s-nacional-na-anglija-news_2631268.html",
+      "pubDate": "2026-08-21 12:22:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/f579de0c8c129dde2746da8f65fe3087_2631268_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Отговорите на поправителната матура по БЕЛ за 2026 г.",
+      "link": "https://www.actualno.com/education/otgovorite-na-popravitelnata-matura-po-bel-za-2026-g-news_2631261.html",
+      "pubDate": "2026-08-21 12:15:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/3be0b2b5fdfdc888f84dd10ebf4c0e6b_2631261_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "\"Нехуманно\": МВнР обяви как ще опита да доведе за лечение от Северна Македония блокираната Ива Михайлова",
+      "link": "https://www.actualno.com/balkani/nehumanno-mvnr-objavi-kak-shte-opita-da-dovede-za-lechenie-ot-severna-makedonija-blokiranata-iva-mihajlova-news_2631259.html",
+      "pubDate": "2026-08-21 12:13:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/5b06ac93fe9a2da9880884bd9ac5888b_2631259_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Мениджърът на Ливърпул иска още нови, но мърсисайдци имат проблем на трансферния пазар",
+      "link": "https://www.actualno.com/football/menidjyryt-na-livyrpul-iska-oshte-novi-no-myrsisajdci-imat-problem-na-transfernija-pazar-news_2631257.html",
+      "pubDate": "2026-08-21 12:09:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/438af70bb779ce17e63a4d171ded3208_2631257_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "По въздух, суша и вода: Техеран заплаши Тръмп с „опустошителен“ отговор",
+      "link": "https://frognews.bg/novini/vazduh-susha-voda-teheran-zaplashi-tramp-opustoshitelen-otgovor.html",
+      "pubDate": "2026-08-21 12:20:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Пети блок на АЕЦ „Козлодуй“ е на 91,4% – няма риск за домакинствата, изнасяме ток",
+      "link": "https://frognews.bg/novini/peti-blok-aets-kozlodui-91-4procenta--niama-risk-domakinstvata-iznasiame-tok.html",
+      "pubDate": "2026-08-21 12:00:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Пет жени и трима мъже: Кой се впуска в надпреварата за нов шеф на ООН",
+      "link": "https://frognews.bg/novini/pet-jeni-trima-maje-koi-vpuska-nadprevarata-nov-shef-oon.html",
+      "pubDate": "2026-08-21 11:40:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Задава се мощен Ел Ниньо – 2027 г. може да стане най-горещата в историята",
+      "link": "https://frognews.bg/novini/zadava-moshten-ninyo-2027-mozhe-stane-nay-goreshtata-istoriyata.html",
+      "pubDate": "2026-08-21 11:35:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Държавата дава до 6 средни заплати за преместване от голям в малък град",
+      "link": "https://frognews.bg/novini/darjavata-dava-6-sredni-zaplati-premestvane-goliam-malak-grad.html",
+      "pubDate": "2026-08-21 11:25:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "40 years after the Lake Nyos disaster in Cameroon",
+      "link": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T14:00:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Ukraine&apos;s farmers struggle to sell harvest amid war, drought",
+      "link": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T13:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "What to do when wildfires trigger trauma",
+      "link": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T13:36:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Sweden: Several wounded in school sword attack",
+      "link": "https://www.dw.com/en/sweden-several-wounded-in-school-sword-attack/a-78460421?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T13:34:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
+    {
+      "title": "Swiss tourist jailed in Bali for insulting Hindu holiday",
+      "link": "https://www.dw.com/en/swiss-tourist-jailed-in-bali-for-insulting-hindu-holiday/a-78459089?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T13:29:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T15:19:47.398Z"
+    },
     {
       "title": "Комикс №006670 - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvU1hHOEpIN0oyVnJoUVFiSExWMU8xUzdHXy13YnFpS2pjWk1KLWZKMVREOFg2Y182OHd0RWljQXdvR0NreFJuTFl5T0k4UzBZNlRzZlZNSW5RZmlBYlNjTHBPRDJFNmtvR3FkRi1iNA?oc=5",
