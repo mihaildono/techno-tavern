@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Жегата ще е непоносима. Спасението е на морето и в планините",
+      "link": "https://offnews.bg/obshtestvo/zhegata-shte-e-neponosima-spasenieto-e-na-moreto-i-v-planinite-873114.html",
+      "pubDate": "2026-08-20 21:27:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/20/873114/phpbsqf4q_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6064
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Тежка вечер в Крит: ОФИ наказа пропуските на ЦСКА",
+      "link": "https://offnews.bg/futbol/tezhka-vecher-v-krit-ofi-nakaza-propuskite-na-tcska-873117.html",
+      "pubDate": "2026-08-20 19:53:09",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/20/873117/phpedzjhn_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7311
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Терзиев призова София да не бъде поставяна в изолация заради политически апетити",
       "link": "https://offnews.bg/politika/terziev-prizova-sofia-da-ne-bade-postaviana-v-izolatcia-zaradi-politic-873116.html",
       "pubDate": "2026-08-20 18:09:03",
@@ -43,37 +71,19 @@
       }
     },
     {
-      "title": "Една година затвор за швейцарец, нарушил Деня на мълчанието в Бали",
-      "link": "https://offnews.bg/sviat/edna-godina-zatvor-za-shvejtcaretc-narushil-denia-na-malchanieto-v-ba-873112.html",
-      "pubDate": "2026-08-20 17:25:04",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/20/873112/phpafza9i_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7277
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Борисов за заплахите: Защо не свикат КСНС да ни успокоят. Аз от Австрия разбирам",
-      "link": "https://offnews.bg/politika/borisov-za-zaplahite-zashto-ne-svikat-ksns-da-ni-uspokoiat-az-ot-avs-873108.html",
-      "pubDate": "2026-08-20 16:39:06",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/20/873108/phphiwp5m_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5207
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Ghost: 2 big to rig - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2ZTRfbktVdHE2cVlDeVVkWXlyVFp3S3hwQTk3cldOb2pVNGk3N0h5MFA0X2ZrWkxfcnp0VXhFM2hoT3RHSGhVYjI4NEllXzNmcmtuXzA3RmJPMENiZTg0WHJueGpuSHpuRDR6MUtQdnJkLV81bmdHT3MwQnpNZw?oc=5",
       "pubDate": "Thu, 20 Aug 2026 21:08:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №308967 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYVpiYldiRzB2S3RGRVpGbHA2UjRkZEdpYllFaldwYks3R3pxd1RMM2tBMkxGbTNYVzUzaEFsU2FrWDI3RG1Ia21Wc1k?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 05:49:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -104,16 +114,6 @@
       "title": "Комикс №344203 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2T1hjeFZiVUZOMEZfZnk0RTRTaUdnTHVrSjE2VlhiM1lXVDhRNldYQ0dieG9tSkNpQkUyTUFDODJTYWFPMEFoVmxXVlo?oc=5",
       "pubDate": "Wed, 19 Aug 2026 18:11:06 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №311104 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZGpqMV9VUnFZLVJ3ekFUYnhwNUdJSnh6TmE4bThGWU5WbFEydVpROUVPLU1rd3l6cl81Mm5nUkhacFA2eVVZX3hRSkZrcUh6Qmg2Z1Iwbi1MbnRaU2VXRS1ZaWJTQQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:43:29 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -241,9 +241,29 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на xoso66vodka - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JeVpodUJsT1NMdHdKcVM3aVZtSlg1VWdkQVFoS3FEcjdNM3JiVHpSZ0laRmppeVF1MEtzc3ctMHliVnE4VjdBbVNoUWVDcGx2?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "title": "id.capital.bg | Публичен профил на kxp1551797285123955822 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBVUwwaDJ1akttNmtUY1ZQQVllRzQ5Tjg1aXl0eWV6Q0pwMjQ0X3lHWjBWSG93eVdzcUJHdUlISzVqUzFKRU1ScWhkRkpkd3VMMEZJYk5IXzBPMXBQZjNQSmtJNFI?oc=5",
+      "pubDate": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на uy88media - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41c3JjMVZ2ajRCYUhNUXlyR1NiMExVb1VRZ2UtY0J5bWxtUVlDX2I4T3F0UUxydUxFTEg3VmQ1c1dUeEdEQkRaQnVLMm5FeC15T3pv?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на monument - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNW5RQ0NBUmh0eU9EZ19BWmtTbmN6SnFFdTJQaUgzM2VWTU9LZFpuRXpOdjJqLUVISVpkM2dKNkNNbVlqWlpxcVdKazIzQTYtYlE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:02:02 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -261,31 +281,11 @@
       }
     },
     {
-      "title": "axf17870653181643573 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IaDVIWVotbEFVVnNWd2RhcWJlQWk0REJDRldTdklkTG5pbmk4b1JYQk4yMmxxZ2lwZEcwR3ZqaTRRNGp1M25oYm80Nl9tUVpJU3RTd3F5azRqNWJp?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 20:34:55 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "keonhacai552com - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eEFQTmlSUlFNa00xaERzai0zdG1nMmpMRXJvZ2Ffeml6dURkcTlEM0RTeFJjNm1RWjJrcUpxOVZSV3dQYUFPYWxtNGtObmtkeGx5TU53?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:31:19 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Зеленски призна: Войната става все по-скъпа, нужни са още ресурси, за да се браним (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/zelenski-prizna-vojnata-stava-vse-po-skypa-nujni-sa-oshte-resursi-za-da-se-branim-video-news_2630995.html",
-      "pubDate": "2026-08-20 18:12:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 21.08.26 - Убити и ранени след нова масирана атака по Киев, разпространила се в Румъния",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-210826-ubiti-i-raneni-sled-nova-masirana-ataka-po-kiev-razprostranila-se-v-rumynija-news_2630953.html",
+      "pubDate": "2026-08-20 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/c34350f9b19674efd1c8fa5ea0d1979a_2630995_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/615d06a9493bac8fcc89385b8c2b8265_2630953_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Откриха нарушения в обществената поръчка за Националната детска болница",
-      "link": "https://www.actualno.com/healthy/otkriha-narushenija-v-obshtestvenata-porychka-za-nacionalnata-detska-bolnica-news_2630994.html",
-      "pubDate": "2026-08-20 17:53:00",
+      "title": "Самолет нахлу във въздушното пространство на Финландия. Вероятно е руски",
+      "link": "https://www.actualno.com/europe/samolet-nahlu-vyv-vyzdushnoto-prostranstvo-na-finlandija-verojatno-e-ruski-news_2631023.html",
+      "pubDate": "2026-08-20 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/0240a500a2e434d8f635b0837f795d82_2630994_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/4b694875812aab20980bc5cc50a7c534_2631023_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Има пари, угажда си: Марк Зукърбърг си купи триетажен замък",
-      "link": "https://www.actualno.com/showbusiness/ima-pari-ugajda-si-mark-zukyrbyrg-si-kupi-trietajen-zamyk-news_2630991.html",
-      "pubDate": "2026-08-20 17:29:00",
+      "title": "Христо Янев призна най-голямата си болка в Крит и бе брутално честен за ЦСКА",
+      "link": "https://www.actualno.com/bgfootball/hristo-janev-prizna-naj-goljamata-si-bolka-v-krit-i-be-brutalno-chesten-za-cska-news_2631022.html",
+      "pubDate": "2026-08-20 20:59:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/093fe9a6c7b1cf23f499147f1ed6d9cd_2630991_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/d2815329fe6aedcc94b629d4bab14951_2631022_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Прогноза за времето - 21 август 2026 г. (петък)",
-      "link": "https://www.actualno.com/society/prognoza-za-vremeto-21-avgust-2026-g-petyk-news_2630987.html",
-      "pubDate": "2026-08-20 17:13:00",
+      "title": "ЦСКА ще търси чудо в София с огромни кадрови проблеми! Две звезди са аут, още трима са под въпрос",
+      "link": "https://www.actualno.com/bgfootball/cska-shte-tyrsi-chudo-v-sofija-s-ogromni-kadrovi-problemi-dve-zvezdi-sa-aut-oshte-trima-sa-pod-vypros-news_2631020.html",
+      "pubDate": "2026-08-20 20:38:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/10c9805babd63275c61825239dcf6adc_2630987_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/f28ef58a51e130138c07753c3861e22a_2631020_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Andrea Celeste пристига с формацията The Italian Jazz Band на 14 ноември в Sofia Live Club",
-      "link": "https://www.actualno.com/music/andrea-celeste-pristiga-s-formacijata-the-italian-jazz-band-na-14-noemvri-v-sofia-live-club-news_2630985.html",
-      "pubDate": "2026-08-20 17:04:00",
+      "title": "На 87 години почина легендарното сопрано Илеана Котрубас",
+      "link": "https://www.actualno.com/music/na-87-godini-pochina-legendarnoto-soprano-ileana-kotrubas-news_2631011.html",
+      "pubDate": "2026-08-20 20:27:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/75481248c82e1a21ef17cea48910d35d_2630985_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/20/048cb622934302ead7d214ee3bcbd62a_2631011_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -396,10 +396,36 @@
       }
     },
     {
+      "title": "Пожар край жп линията между Розино и Кърнаре, има опасност за гората",
+      "link": "https://frognews.bg/novini/pojar-krai-liniiata-mejdu-rozino-karnare-ima-opasnost-gorata.html",
+      "pubDate": "2026-08-20 19:04:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/7689a80ac_stara-zagaor-pojar.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Русия удари Киев за втори път за деня: Има загинали и ранени",
+      "link": "https://frognews.bg/novini/rusiia-udari-kiev-vtori-pat-denia-ima-zaginali-raneni.html",
+      "pubDate": "2026-08-20 18:50:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b593103d1_1787251856_6a874c90d5600.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
       "title": "Коя е Натали Харп – „пазачът“ на Тръмп, който не се отделя от президента",
       "link": "https://frognews.bg/novini/koia-natali-harp--pazachat-tramp-koito-otdelia-prezidenta.html",
       "pubDate": "2026-08-20 18:07:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/54114ca95_1787250571_6a87478b6a1c7.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -409,7 +435,9 @@
       "title": "Въпреки нуждата от операция: Окончателен отказ от Македония за лечението на Ива Михайлова в България",
       "link": "https://frognews.bg/novini/vapreki-nujdata-operatsiia-okonchatelen-otkaz-makedoniia-lechenieto-iva-mihailova-balgariia.html",
       "pubDate": "2026-08-20 17:19:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/a15600018_1787246671_6a87384f54e31.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -419,35 +447,37 @@
       "title": "Нови проби ще търсят причината за смъртта на птиците в „Централен Балкан“",
       "link": "https://frognews.bg/novini/novi-probi-shte-tarsiat-prichinata-smartta-ptitsite-tsentralen-balkan.html",
       "pubDate": "2026-08-20 17:07:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/7ce57177c_1787247109_6a873a056d817.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Вода потече като река по улиците на Варна след пробив на водопровод",
-      "link": "https://frognews.bg/novini/voda-poteche-kato-reka-ulitsite-varna-sled-probiv-vodoprovod.html",
-      "pubDate": "2026-08-20 16:58:00",
+      "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
+      "link": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T03:23:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Кой и защо избра Бургас? София поиска от БНТ оценките за „Евровизия“ 2027",
-      "link": "https://frognews.bg/novini/koi-zashto-izbra-burgas-sofiia-poiska-bnt-otsenkite-evroviziia-2027-2026-08-20.html",
-      "pubDate": "2026-08-20 16:24:00",
+      "title": "Hong Kong convicts activists in national security trial",
+      "link": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T02:39:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
-      "title": "Pakistan: Former PM Khan moved to private hospital",
-      "link": "https://www.dw.com/en/pakistan-former-pm-khan-moved-to-private-hospital/a-78451553?maca=en-rss-en-top-1022-rdf",
+      "title": "Pakistan: Former PM Khan briefly moved to private hospital",
+      "link": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-20T21:56:00Z",
       "thumbnail": null,
       "source": {
@@ -474,27 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Why is Israel&apos;s military presence growing in Syria?",
-      "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T17:33:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Drought in Germany and Europe are driving up costs",
-      "link": "https://www.dw.com/en/drought-in-germany-and-europe-are-driving-up-costs/a-78447266?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T16:30:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-21T00:29:13.617Z"
+  "lastUpdated": "2026-08-21T03:38:48.090Z"
 }
