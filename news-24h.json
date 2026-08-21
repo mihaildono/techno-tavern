@@ -1,9 +1,108 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-21T09:22:35.033Z",
-  "totalItems": 133,
+  "lastUpdated": "2026-08-21T12:18:25.641Z",
+  "totalItems": 135,
   "items": [
+    {
+      "title": "Комикс №006670 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvU1hHOEpIN0oyVnJoUVFiSExWMU8xUzdHXy13YnFpS2pjWk1KLWZKMVREOFg2Y182OHd0RWljQXdvR0NreFJuTFl5T0k4UzBZNlRzZlZNSW5RZmlBYlNjTHBPRDJFNmtvR3FkRi1iNA?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 19:38:28 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "pubDate": "2026-08-21 07:23:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "link": "https://encore.dev/blog/firecracker-apple-silicon",
+      "pubDate": "2026-08-21 06:59:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "link": "https://htmlcat.net/",
+      "pubDate": "2026-08-21 09:45:14",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "The case against a C alternative (2022)",
+      "link": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "pubDate": "2026-08-16 15:17:09",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
+      "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T11:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "DRC Ebola outbreak &apos;growing exponentially,&apos; UN says",
+      "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T11:06:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+      "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T10:47:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
+    {
+      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
+      "link": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-21T10:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-21T12:18:25.641Z"
+    },
     {
       "title": "Задържаха 36-годишен за отровените лешояди, направил е самопризнания",
       "link": "https://offnews.bg/112/zadarzhaha-36-godishen-za-otrovenite-leshoiadi-napravil-e-samopriznan-873140.html",
@@ -1576,83 +1675,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-20T15:21:06.836Z"
-    },
-    {
-      "title": "id.capital.bg | Публичен профил на s8trcom - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSV0tZZk14VDR1c2E1WWdyOTJDa3VUNUV5MmpjeFZwZzhrMGRUM2hGUXB1OXhTdFZtVWVUSGtuNkpFY2RhdzBsbmdCNA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 07:05:50 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "Don't Paste the AI, please",
-      "link": "https://dontpastetheai.com/",
-      "pubDate": "2026-08-20 08:20:44",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "Windows brings out the Rorschach test in everyone",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "pubDate": "2026-08-20 06:16:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "In Iran, contact with foreigners could soon be a crime",
-      "link": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T12:11:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-      "link": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T11:19:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "South Africa&apos;s ANC faces voter backlash",
-      "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T11:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
-    },
-    {
-      "title": "How DW fact-checks fake news",
-      "link": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-20T10:37:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-20T12:18:21.588Z"
     }
   ]
 }
