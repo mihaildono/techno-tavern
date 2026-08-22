@@ -1,9 +1,325 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-22T12:11:53.394Z",
-  "totalItems": 161,
+  "lastUpdated": "2026-08-22T15:07:36.470Z",
+  "totalItems": 177,
   "items": [
+    {
+      "title": "Йотова не вижда основание да свика КСНС",
+      "link": "https://offnews.bg/politika/jotova-ne-vizhda-osnovanie-da-svika-ksns-873200.html",
+      "pubDate": "2026-08-22 12:06:18",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/22/873200/phpwjirqz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5812
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Как да запазим бананите свежи по-дълго",
+      "link": "https://offnews.bg/kuhnia/kak-da-zapazim-bananite-svezhi-po-dalgo-873057.html",
+      "pubDate": "2026-08-22 12:00:59",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/20/873057/phpjpar4j_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3569
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Заглушителят в Драгалевци вероятно е срещу атака с дрон, казва експерт",
+      "link": "https://offnews.bg/obshtestvo/zaglushiteliat-v-dragalevtci-veroiatno-e-sreshtu-ataka-s-dron-kazva-e-873199.html",
+      "pubDate": "2026-08-22 11:55:26",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/22/873199/phph5j2vb_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7762
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Откриха останки от дрон на плажа между Албена и Кранево",
+      "link": "https://offnews.bg/obshtestvo/otkriha-ostanki-ot-dron-na-plazha-mezhdu-albena-i-kranevo-873198.html",
+      "pubDate": "2026-08-22 10:56:03",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/22/873198/phpzny5cl_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6501
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "На столичния Женски пазар - 7 проверки, 7 без касови апарати",
+      "link": "https://offnews.bg/ikonomika/na-stolichnia-zhenski-pazar-7-proverki-7-bez-kasovi-aparati-873197.html",
+      "pubDate": "2026-08-22 10:38:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/22/873197/php7zyy0o_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8394
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Социалните партньори постигнаха съгласие и по последния елемент за определяне на минималната работна заплата - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2FfbGtqTWY5Yk1yUlFhR0tXZkx0REVpWklEZFE5aEZ5RWplekNacnNWVnlSemtSejdYQUdNZ2JFcEFyNVBTNm01QkN2OGNIMnp5YnBZaGFkUDl4Zmtkd19SWHItT2RZUllvcDM2LWJjUW8tLXBUanhWNm9EbEJRUndDVFJCNzRER01zaDVYODU5eEp4OThRTmNyRnpNUQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:20:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Американските самолети-цистерни от „Безмер“ са напуснали България",
+      "link": "https://svobodnatochka.bg/novini/bezmer-samoleti/",
+      "pubDate": "2026-08-22 11:15:37",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Тайни коридори и мощен GPS заглушител са намерени в ресторант в „Драгалевци“, свързван с Таки",
+      "link": "https://svobodnatochka.bg/novini/tajni-tuneli-i-mosthen-gps-zagl/",
+      "pubDate": "2026-08-22 09:48:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Американските самолети са напуснали база \"Безмер\"",
+      "link": "https://www.mediapool.bg/amerikanskite-samoleti-sa-napusnali-baza-bezmer-news386766.html",
+      "pubDate": "2026-08-22 12:14:12",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_9653bbce851692c408ea78848f0d02e4.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Подготвя се премахване на схемата \"парите следват ученика\"",
+      "link": "https://www.mediapool.bg/podgotvya-se-premahvane-na-shemata-parite-sledvat-uchenika-news386765.html",
+      "pubDate": "2026-08-22 10:06:05",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_ea276bdf45ef003964b30e6fb1a44075.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Украйна удари склад на руския онлайн търговец Ozon",
+      "link": "https://www.mediapool.bg/ukraina-udari-sklad-na-ruskiya-onlain-targovets-ozon-news386763.html",
+      "pubDate": "2026-08-22 08:17:21",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_11d45184c158add844586806b5854d70.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Библиотека / Спорт и фитнес - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14cjBXSktUal9HcFhidkNwaHBNM3BZMUVycDl1S19ka0twTUpyejY4Q3Mxc3dySldTd3d5YmFwWGdGcE84RGFzd0ZtSVluX3JxMElaNG9DMXpSYldTdHF1T0pISE0?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 07:04:08 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Евакуации заради горски пожари в Източна Испания. В Северна - пострадали заради порои",
+      "link": "https://www.actualno.com/europe/evakuacii-zaradi-gorski-pojari-v-iztochna-ispanija-v-severna-postradali-zaradi-poroi-news_2631561.html",
+      "pubDate": "2026-08-22 12:21:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/6baf2fc53940e4b9686faf728053b839_2631561_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Германия готова за удари дълбоко зад фронтовата линия: 12 млрд. евро в опустошителни ракети",
+      "link": "https://www.actualno.com/europe/germanija-gotova-za-udari-dylboko-zad-frontovata-linija-12-mlrd-evro-v-opustoshitelni-raketi-news_2631556.html",
+      "pubDate": "2026-08-22 11:57:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/8c017d5f828614d948273ad224b03da0_2631556_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "7 години по-късно! България отново ще има участник във финалите на Диамантената лига",
+      "link": "https://www.actualno.com/moresport/7-godini-po-kysno-bylgarija-otnovo-shte-ima-uchastnik-vyv-finalite-na-diamantenata-liga-news_2631551.html",
+      "pubDate": "2026-08-22 11:24:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/0defca0532371c70bd349e2e562f5e3f_2631551_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Трамвай излезе от релсите в София",
+      "link": "https://www.actualno.com/society/tramvaj-izleze-ot-relsite-v-sofija-news_2631550.html",
+      "pubDate": "2026-08-22 11:21:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/217bf29f38eb39c9036ebb7611c41929_2631550_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Тръмп: Никой не иска да e президент в Иран, не знам с кого да преговарям",
+      "link": "https://www.actualno.com/asia/trymp-nikoj-ne-iska-da-e-prezident-v-iran-ne-znam-s-kogo-da-pregovarjam-news_2631545.html",
+      "pubDate": "2026-08-22 11:05:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/2ef2e6fe3781f7255e915be580ba0ddd_2631545_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Пореден дрон изплува на български плаж – останки са открити между Албена и Кранево",
+      "link": "https://frognews.bg/novini/poreden-dron-izpluva-balgarski-plaj--ostanki-otkriti-mejdu-albena-kranevo.html",
+      "pubDate": "2026-08-22 11:50:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Порои, мълнии и наводнения – стотици евакуирани в Италия, хаос в Полша",
+      "link": "https://frognews.bg/novini/poroi-malnii-navodneniia--stotitsi-evakuirani-italiia-haos-polsha.html",
+      "pubDate": "2026-08-22 11:20:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "НАП влезе по пазарите в София – нарушения при почти всяка проверка",
+      "link": "https://frognews.bg/novini/nap-vleze-pazarite-sofiia--narusheniia-pri-pochti-vsiaka-proverka.html",
+      "pubDate": "2026-08-22 10:45:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Американските цистерни са напуснали „Безмер“, Йотова не вижда нужда от КСНС",
+      "link": "https://frognews.bg/novini/amerikanskite-tsisterni-napusnali-bezmer-iotova-vijda-nujda-ksns.html",
+      "pubDate": "2026-08-22 10:15:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "ФИФА наказа тежко Аржентина след боя на финала – Паредес аут за 10 мача",
+      "link": "https://frognews.bg/novini/fifa-nakaza-tejko-arjentina-sled-boia-finala--paredes-aut-10-macha.html",
+      "pubDate": "2026-08-22 09:25:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Kazakhstan&apos;s future after the elections: Russia, EU or China",
+      "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-22T14:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Spain battles forest fire a short drive from flash flood",
+      "link": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-22T14:35:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
+    {
+      "title": "Chinese robot beats Usain Bolt&apos;s 100m world record",
+      "link": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-22T12:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-22T15:07:36.470Z"
+    },
     {
       "title": "Американските самолети напуснаха \"Безмер\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTVSdzhLeDJDSk5OeGRNOXVxMVlCN1JoaDF6eC00MFVjQi1KcDd5OFhnaTdXV1V2TVZlZ3RoOVNpdjNLb2V2MWcyUWpzTHVtUmtoRThUU21Ub0xvc00xdlBsQktveElrYmNZczVLcnR4UmY1Mk0yWmxXN3lxX2wwOUFhNWVONXdGWXU5MkxVYTN4RHExM3c?oc=5",
@@ -1910,105 +2226,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-21T15:19:47.398Z"
-    },
-    {
-      "title": "Комикс №006670 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvU1hHOEpIN0oyVnJoUVFiSExWMU8xUzdHXy13YnFpS2pjWk1KLWZKMVREOFg2Y182OHd0RWljQXdvR0NreFJuTFl5T0k4UzBZNlRzZlZNSW5RZmlBYlNjTHBPRDJFNmtvR3FkRi1iNA?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:38:28 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "pubDate": "2026-08-21 07:23:27",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "link": "https://encore.dev/blog/firecracker-apple-silicon",
-      "pubDate": "2026-08-21 06:59:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "Small, native web tricks worth remembering",
-      "link": "https://htmlcat.net/",
-      "pubDate": "2026-08-21 09:45:14",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "The case against a C alternative (2022)",
-      "link": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "pubDate": "2026-08-16 15:17:09",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "Ceuta: Spanish police arrest 5 alleged migrant traffickers",
-      "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T11:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "DRC Ebola outbreak &apos;growing exponentially,&apos; UN says",
-      "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T11:06:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-      "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T10:47:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
-    },
-    {
-      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
-      "link": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T10:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T12:18:25.641Z"
     }
   ]
 }
