@@ -1,9 +1,183 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-22T21:09:44.463Z",
-  "totalItems": 146,
+  "lastUpdated": "2026-08-23T00:28:50.156Z",
+  "totalItems": 120,
   "items": [
+    {
+      "title": "Фериботите по р. Рейн тръгнаха след 29 дни прекъсване",
+      "link": "https://offnews.bg/sviat/feribotite-po-r-rejn-tragnaha-sled-29-dni-prekasvane-873214.html",
+      "pubDate": "2026-08-22 18:30:14",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/22/873214/php9lnsmu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6265
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Несебър иска да излезе на слънце - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajg1Q2M5U080UDRmWWMxdFhWWEh1WnhGTDFVQldpTFNleExkczY0YjUzZEh0cHZEbi02SVZNNWppNFZJcDFuWGFNemZYMkRuaGJhR0c2VFh0ZHNpWXFBWmQweEJGYXJXWnZpSUtOakVDdldRUDJOSlExeUtsYnJ4azJTRWJQN095T2JzTWlJclVPNWhL?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 10:53:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "b52clubbactor - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zYXVtZ0F4c3p3U2VXN01zbHpENEdkclcwX2t3czAtTzVlcUt0SzJGbWFQNmVDZEpVcHhzdm1NZDV4bnJMa19hcHkxWWlXMktxRkFOSUMweDU?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 11:13:23 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на kqxsllc - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfclJ6dHd4NTgxNl9aUFhxWVROOUZxMDFGbTdFSUFlYm1kd2thMjZmTC1WLTUxdm41cFJ0eFVBcjB2OXR2NGd0MDd5NA?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 17:14:35 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Нов герой донесе драматична победа на Реал Мадрид на старта на новата ера на Моуриньо",
+      "link": "https://www.actualno.com/football/nov-geroj-donese-dramatichna-pobeda-na-real-madrid-na-starta-na-novata-era-na-mourinio-news_2631649.html",
+      "pubDate": "2026-08-22 22:04:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/ab637c5313c84ac6343ff20f97374726_2631649_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Класиране на голмайсторите в Първа лига 2026/27 - трима са на върха с 5 попадения",
+      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-trima-sa-na-vyrha-s-5-popadenija-news_2625725.html",
+      "pubDate": "2026-08-22 21:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/13ab72fca37c4c27c6bb12dc8766fe7a_2625725_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Най-много \"сухи мрежи\" в Първа лига: Класиране на вратарите за \"Златната ръкавица\" за сезон 2026/27",
+      "link": "https://www.actualno.com/bgfootball/naj-mnogo-suhi-mreji-v-pyrva-liga-klasirane-na-vratarite-za-zlatnata-rykavica-za-sezon-202627-news_2625729.html",
+      "pubDate": "2026-08-22 20:59:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/bbc89268974bb7c0cd591a4630eb890d_2625729_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Веласкес остана доволен от боя над Спартак Варна и насочи вниманието към АЕК",
+      "link": "https://www.actualno.com/bgfootball/velaskes-ostana-dovolen-ot-boja-nad-spartak-varna-i-nasochi-vnimanieto-kym-aek-news_2631645.html",
+      "pubDate": "2026-08-22 20:58:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/22/971d339afb525df0768d2a102080fa83_2631645_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "pubDate": "2026-08-22 19:04:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Scrap",
+      "link": "https://twitter.com/moxie/status/2091218652133732491",
+      "pubDate": "2026-08-22 18:08:56",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "NetBSD and My Life (2005)",
+      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "pubDate": "2026-08-22 19:07:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "pubDate": "2026-08-22 18:14:16",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Принц Хари се връща във Великобритания със солена сметка от делото срещу Daily Mail",
+      "link": "https://frognews.bg/novini/prints-hari-vrashta-vav-velikobritaniia-sas-solena-smetka-deloto-sreshtu-daily-mail.html",
+      "pubDate": "2026-08-22 19:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/c8dc91cc7_1787395127_6a897c376ab5e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
+    {
+      "title": "Танкерите „изчезват“ в Ормуз – тайната операция, която удържа цените на петрола",
+      "link": "https://frognews.bg/novini/tankerite-izchezvat-ormuz--tainata-operatsiia-koiato-udarja-tsenite-petrola.html",
+      "pubDate": "2026-08-22 18:25:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/90aeb031e_1787399662_6a898dee8980c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-23T00:28:50.156Z"
+    },
     {
       "title": "Cargo vessel sinks off Indian coast",
       "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-top-1022-rdf",
@@ -1316,524 +1490,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-22T03:30:27.174Z"
-    },
-    {
-      "title": "Откриха устройство в София, заглушавало сигнала на летището и телевизионните кули",
-      "link": "https://offnews.bg/balgaria/otkriha-ustrojstvo-v-sofia-zaglushavalo-signala-na-letishteto-i-telev-873182.html",
-      "pubDate": "2026-08-21 16:55:17",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873182/phpfknmog_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6691
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Постигната е финална договорка за новата формула на минималната заплата (обновена)",
-      "link": "https://www.mediapool.bg/postignata-e-finalna-dogovorka-za-novata-formula-na-minimalnata-zaplata-obnovena-news386756.html",
-      "pubDate": "2026-08-21 18:23:53",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_482dd99f41cba5af16a81f3a6e13bede.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "fpr081089202 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NVG1Wckp6V2hiWjFUdHF4cGtoeGZmdlVsbmhkTXRMcW9hbjBkcmJPOG9xWEhBWVZmZ2s1bnN6SGJWUFN3T0JSSU40RjV6N0JHQTVtT1Q1NA?oc=5",
-      "pubDate": "Mon, 22 Nov 2021 08:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Кого следва wix1859178249008063959 в клуба на Икономедиа - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2QlE3bWV5ZDJ1Z1BOY0hhLWdmaXJxc1RzWmxyV0gzTjZnb1poYUJkZ256RC1oZmZGb2hLdlFPQl9takZkQzlUWmc0LVVlWHVEa0VGLVZfb3pVcU43MUpaUW50Ql8xLVVCUDctaldfNA?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Шампионът Арсенал не се затрудни срещу новака в елита на старта на новия сезон в Англия",
-      "link": "https://www.actualno.com/football/shampionyt-arsenal-ne-se-zatrudni-sreshtu-novaka-v-elita-na-starta-na-novija-sezon-v-anglija-news_2631433.html",
-      "pubDate": "2026-08-21 20:52:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/8b290cdcc6ff0a1f370647d66b626af0_2631433_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Аржентина се въоръжава: Купува стотици бронирани машини от САЩ",
-      "link": "https://www.actualno.com/america/arjentina-se-vyoryjava-kupuva-stotici-bronirani-mashini-ot-sasht-news_2631431.html",
-      "pubDate": "2026-08-21 20:50:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/3a02bfae0667d1de973f8860ded0f84c_2631431_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "\"Трябва да се борим\": Глас от Канада часове преди крайния срок за митата със САЩ",
-      "link": "https://www.actualno.com/america/trjabva-da-se-borim-glas-ot-kanada-chasove-predi-krajnija-srok-za-mitata-sys-sasht-news_2631428.html",
-      "pubDate": "2026-08-21 20:45:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/615cd5adf6176d92f3fd5811a5963bd8_2631428_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "След атаката в Кривой Рог: Кая Калас обвини Русия в умишлен тероризъм",
-      "link": "https://www.actualno.com/europe/sled-atakata-v-krivoj-rog-kaja-kalas-obvini-rusija-v-umishlen-terorizym-news_2631427.html",
-      "pubDate": "2026-08-21 20:35:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/df8d6c6862bd3baba773160684763d0d_2631427_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Класиране по асистенции в Първа лига 2026/27 - новият в ЦСКА заблестя (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-po-asistencii-v-pyrva-liga-202627-novijat-v-cska-zablestja-obnovena-news_2625727.html",
-      "pubDate": "2026-08-21 20:26:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/0ad21101ba44813883d5a0f869c5df0c_2625727_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Kobo can run apps now",
-      "link": "https://bandarlabs.github.io/Cobalt/",
-      "pubDate": "2026-08-21 16:25:25",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Felony Bench",
-      "link": "https://www.felonybench.com/",
-      "pubDate": "2026-08-21 15:17:04",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "pubDate": "2026-08-21 12:10:13",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Scientists release biggest 2D map of the universe",
-      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "pubDate": "2026-08-21 18:36:34",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Независими медии и активисти на мушка: Москва разшири списъка с „чуждестранни агенти“",
-      "link": "https://frognews.bg/novini/nezavisimi-medii-aktivisti-mushka-moskva-razshiri-spisaka-chujdestranni-agenti.html",
-      "pubDate": "2026-08-21 18:50:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/d9ad77292_1787337570_6a889b6274611.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Помощ от космоса: Сателитите като оръжиe в битката с пожарите",
-      "link": "https://frognews.bg/novini/pomosht-kosmosa-satelitite-kato-orajie-bitkata-pojarite.html",
-      "pubDate": "2026-08-21 17:55:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/6968ca78a_1787334792_6a889088a6487.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "TikTok agrees to pay $400m to settle US children&apos;s privacy case",
-      "link": "https://www.dw.com/en/tiktok-agrees-to-pay-400m-to-settle-us-children-s-privacy-case/a-78466204?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T23:13:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-22T00:26:24.426Z"
-    },
-    {
-      "title": "Без България: Макрон, Мерц и Бърнам събират ''Коалицията на желаещите'' за Украйна",
-      "link": "https://offnews.bg/sviat/bez-balgaria-makron-mertc-i-barnam-sabirat-koalitciata-na-zhelaesh-873181.html",
-      "pubDate": "2026-08-21 18:07:41",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873181/phpmsskc6_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 6214
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Чехия и Словакия помнят 21 август 1968 г. – деня, в който танковете смазаха Пражката пролет",
-      "link": "https://offnews.bg/sviat/chehia-i-slovakia-pomniat-21-avgust-1968-g-denia-v-kojto-tankove-873179.html",
-      "pubDate": "2026-08-21 17:00:07",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873179/phpeecopk_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 6609
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Издирва се жена на 78 от Казанлък",
-      "link": "https://offnews.bg/112/izdirva-se-zhena-na-78-ot-kazanlak-873178.html",
-      "pubDate": "2026-08-21 16:30:07",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873178/php6ehjfb_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 7405
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Демерджиев: Ще проверяваме и Делян Пеевски, и Бойко Борисов",
-      "link": "https://offnews.bg/temida/demerdzhiev-shte-proveriavame-i-delian-peevski-i-bojko-borisov-873177.html",
-      "pubDate": "2026-08-21 15:54:56",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873177/php0pmewk_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 6310
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Двама души бяха убити, а 52 - ранени, при руска атака срещу най-големия мол в украинския град Кривой Рог",
-      "link": "https://offnews.bg/sviat/dvama-dushi-biaha-ubiti-a-52-raneni-pri-ruska-ataka-sreshtu-naj-go-873180.html",
-      "pubDate": "2026-08-21 15:27:25",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/21/873180/phpmvmp3k_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 7559
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Комикс №348040 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NNVNGSnFpZHNydTFVc0ptRjJOOFFOazBUdnlqS1NkTE1aZ2YzQ2w1anFCaTVoWjlIWGhXbHRzX2ZQZEVfMTVKc3lQVE4?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 09:39:09 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "ДАНС неутрализира мощен GPS заглушител в София, засягал сигнала на летището (обновена)",
-      "link": "https://www.mediapool.bg/dans-neutralizira-moshten-gps-zaglushitel-v-sofiya-zasyagal-signala-na-letishteto-obnovena-news386757.html",
-      "pubDate": "2026-08-21 16:48:41",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_cd55ce2f8dc8830e8a2e89ba5f40f769.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Постигната е финална договорка за новата формула на минималната заплата",
-      "link": "https://www.mediapool.bg/postignata-e-finalna-dogovorka-za-novata-formula-na-minimalnata-zaplata-news386756.html",
-      "pubDate": "2026-08-21 16:23:53",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_482dd99f41cba5af16a81f3a6e13bede.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Слави Трифонов с над 4.5 млн. евро в банка",
-      "link": "https://www.mediapool.bg/slavi-trifonov-s-nad-45-mln-evro-v-banka-news386755.html",
-      "pubDate": "2026-08-21 16:18:36",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_02a7508482f516aabfb2c8a3c8ea92f0.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Русия удари най-големия търговски център в Кривой рог, загинали са поне 6 души",
-      "link": "https://www.mediapool.bg/rusiya-udari-nai-golemiya-targovski-tsentar-v-krivoi-rog-zaginali-sa-pone-6-dushi-news386754.html",
-      "pubDate": "2026-08-21 16:10:09",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_dda05e45f08463e5e26028f8622cd60a.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "wix1859178249008063959 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MUktJbFh6R1IzVGFPTU84bTJjQTRJN1h5TS11MDF1Y0tSSVB6dm85T0xRZmdwYjg4YTZiX1ZrWjduVlVDMjM1N0dseW9mbGd0YWxNcW5oeHhnY0pQQjdZ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Руски комплекс от биолаборатории - в центъра на язовир, осигуряващ питейна вода на руски град",
-      "link": "https://www.actualno.com/europe/ruski-kompleks-ot-biolaboratorii-v-centyra-na-jazovir-osigurjavasht-pitejna-voda-na-ruski-grad-news_2631405.html",
-      "pubDate": "2026-08-21 18:30:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/b14ebc15db15b1c35a1eb0b0903c2118_2631405_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "ФИФА наложи сурови санкции на Аржентина заради грозните сцени на Мондиал 2026",
-      "link": "https://www.actualno.com/football/fifa-naloji-surovi-sankcii-na-arjentina-zaradi-groznite-sceni-na-mondial-2026-news_2631404.html",
-      "pubDate": "2026-08-21 18:26:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/0fb0a13194ce9978432b08a967835e77_2631404_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Торнадо и воден смерч минаха през Ню Йорк (ВИДЕА)",
-      "link": "https://www.actualno.com/america/tornado-i-voden-smerch-minaha-prez-nu-jork-videa-news_2631403.html",
-      "pubDate": "2026-08-21 18:23:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/4abddb4722020afb29699e7c8e85da2d_2631403_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Сериозен удар по организаторите на US Open дни преди старта",
-      "link": "https://www.actualno.com/tennis/seriozen-udar-po-organizatorite-na-us-open-dni-predi-starta-news_2631397.html",
-      "pubDate": "2026-08-21 17:55:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/4a5feedba43fd6a160d822b04787cc1c_2631397_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "След икономическата заплаха на САЩ: Иран обещава „съкрушителен“ отговор",
-      "link": "https://www.actualno.com/america/sled-ikonomicheskata-zaplaha-na-sasht-iran-obeshtava-sykrushitelen-otgovor-news_2631396.html",
-      "pubDate": "2026-08-21 17:51:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/21/6cf17a839bfc412b9b5c1e2619ca0f13_2631396_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "„Мисъл на деня“: Продадоха ръкописи на Махатма Ганди за рекордните за Индия $1,7 млн.",
-      "link": "https://frognews.bg/novini/misal-denia-prodadoha-rakopisi-mahatma-gandi-rekordnite-indiia-7-mln.html",
-      "pubDate": "2026-08-21 18:25:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/53e5e558b_1787335342_6a8892aeb522d.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Помощ от космоса: Сателитите като оръжив в битката с пожарите",
-      "link": "https://frognews.bg/novini/pomosht-kosmosa-satelitite-kato-orajiv-bitkata-pojarite.html",
-      "pubDate": "2026-08-21 17:55:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/6968ca78a_1787334792_6a889088a6487.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Обратно в залата: ПВУ скъси ваканцията на депутатите, събират се във вторник",
-      "link": "https://frognews.bg/novini/obratno-zalata-pvu-skasi-vakantsiiata-deputatite-sabirat-vav-vtornik.html",
-      "pubDate": "2026-08-21 17:20:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/30e63d80d_1787332410_6a88873a2b8c0.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Защо американският дълг от 40 трлн. долара е проблем и за Европа",
-      "link": "https://frognews.bg/novini/zashto-amerikanskiiat-dalg-40-trln-dolara-problem-evropa.html",
-      "pubDate": "2026-08-21 17:10:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/a5050c4c5_1787331721_6a8884898594e.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "ДАНС, МВР и КРС неутрализираха мощен GPS заглушител в София. Достигал е и летището",
-      "link": "https://frognews.bg/novini/dans-mvr-krs-neutraliziraha-moshten-gps-zaglushitel-sofiia-dostigal-letishteto.html",
-      "pubDate": "2026-08-21 16:25:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/52702d83e_1787329375_6a887b5fc87cf.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "Sweden: One killed in school sword attack",
-      "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T19:47:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "&apos;Masha and the Bear&apos;: Ukraine sanctions Russian cartoon",
-      "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T18:59:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
-    },
-    {
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-21T18:44:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-21T21:11:19.941Z"
     }
   ]
 }
