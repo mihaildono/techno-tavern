@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Променят движението в София заради фестивал на Соня Йончева",
+      "link": "https://offnews.bg/obshtestvo/promeniat-dvizhenieto-v-sofia-zaradi-festival-na-sonia-joncheva-873226.html",
+      "pubDate": "2026-08-23 10:03:22",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/23/873226/phppim1bs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8201
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Зеленски отхвърли идеята за избори по време на войната",
+      "link": "https://offnews.bg/sviat/zelenski-othvarli-ideiata-za-izbori-po-vreme-na-vojnata-873225.html",
+      "pubDate": "2026-08-23 09:15:42",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/23/873225/phppkaofm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4286
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Историкът Трейси Борман развенчава митовете за Ан Болейн и кралица Елизабет I",
       "link": "https://offnews.bg/medii/istorikat-trejsi-borman-razvenchava-mitovete-za-an-bolejn-i-kralitca-e-872844.html",
       "pubDate": "2026-08-23 08:15:20",
@@ -43,34 +71,6 @@
       }
     },
     {
-      "title": "Германците очакват Мерц да падне преди редовните избори",
-      "link": "https://offnews.bg/sviat/germantcite-ochakvat-mertc-da-padne-predi-redovnite-izbori-873221.html",
-      "pubDate": "2026-08-23 07:37:10",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/23/873221/phpxlcm6i_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7204
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Дори в плен Мария Стюарт ръководи политическа мрежа в цяла Европа",
-      "link": "https://offnews.bg/medii/dori-v-plen-maria-stiuart-rakovodi-politicheska-mrezha-v-tciala-evropa-872852.html",
-      "pubDate": "2026-08-23 07:27:55",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/26/872852/phpjbbzye_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5519
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Социалните партньори постигнаха съгласие и по последния елемент за определяне на минималната работна заплата - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2FfbGtqTWY5Yk1yUlFhR0tXZkx0REVpWklEZFE5aEZ5RWplekNacnNWVnlSemtSejdYQUdNZ2JFcEFyNVBTNm01QkN2OGNIMnp5YnBZaGFkUDl4Zmtkd19SWHItT2RZUllvcDM2LWJjUW8tLXBUanhWNm9EbEJRUndDVFJCNzRER01zaDVYODU5eEp4OThRTmNyRnpNUQ?oc=5",
       "pubDate": "Fri, 21 Aug 2026 16:20:00 GMT",
@@ -101,6 +101,16 @@
       }
     },
     {
+      "title": "Комикс №348040 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NNVNGSnFpZHNydTFVc0ptRjJOOFFOazBUdnlqS1NkTE1aZ2YzQ2w1anFCaTVoWjlIWGhXbHRzX2ZQZEVfMTVKc3lQVE4?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:39:09 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "Комикс №022009 - Dnevnik.bg - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43RWQ4Q1ZnOW9INUNwNlhMNzhKclo4TGsyWHlOM2VOeVBDUmItMjNLUUdUU1Rfay1iR0V4VnZ5UkNxQXAwazdWN0RsdzNGb1BhdmlDNlk0S3g1R2ZJZlZrOGowTXFhZw?oc=5",
       "pubDate": "Fri, 21 Aug 2026 09:00:03 GMT",
@@ -111,13 +121,43 @@
       }
     },
     {
-      "title": "Комикс №141176 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJaU1vRVN2WnZKZ1dOUWlxVFk0R3d0eGpTMWNyUE9TeTRqU1NHYXhaSk5RZk5qMmdaRllNbHZxWmpWV21YY2dFcXpQNUpCczBFTVBWNkVR?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 05:19:31 GMT",
+      "title": "Нивото на Дунав се повиши леко. Как ниските води засягат атомните централи в региона",
+      "link": "https://svobodnatochka.bg/novini/dunav/",
+      "pubDate": "2026-08-23 12:51:13",
       "thumbnail": null,
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "„Цунами“. Зеленски смята, че изборите по време на война биха били опасни за Украйна",
+      "link": "https://svobodnatochka.bg/novini/ukraina-izbori/",
+      "pubDate": "2026-08-23 10:40:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Иран ще смята за враг всяка държава, която се включва в икономическия натиск, воден от САЩ",
+      "link": "https://svobodnatochka.bg/novini/iran-ikonomicheskiya-natisk/",
+      "pubDate": "2026-08-23 09:03:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Мобилизация и миграция. Бягат ли отново руснаците от Русия",
+      "link": "https://svobodnatochka.bg/istorii/mobilizaciq-rusiq/",
+      "pubDate": "2026-08-23 06:54:10",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
@@ -131,43 +171,39 @@
       }
     },
     {
-      "title": "Американските самолети цистерни от „Безмер“ са напуснали България",
-      "link": "https://svobodnatochka.bg/novini/bezmer-samoleti/",
-      "pubDate": "2026-08-22 11:15:37",
-      "thumbnail": null,
+      "title": "OpenAI предупреждава за заплаха от постоянни кибератаки с изкуствен интелект",
+      "link": "https://www.mediapool.bg/openai-preduprezhdava-za-zaplaha-ot-postoyanni-kiberataki-s-izkustven-intelekt-news386777.html",
+      "pubDate": "2026-08-23 11:31:09",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_78c0aaedae38e6afe1637425526d2996.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
-      "title": "Тайни коридори и мощен GPS заглушител са намерени в ресторант в „Драгалевци“, свързван с Таки",
-      "link": "https://svobodnatochka.bg/novini/tajni-tuneli-i-mosthen-gps-zagl/",
-      "pubDate": "2026-08-22 09:48:00",
-      "thumbnail": null,
+      "title": "Радан Кънев: Само Андрей Гюров може да каже кога ще обяви кандидатурата си за президент",
+      "link": "https://www.mediapool.bg/radan-kanev-samo-andrei-gyurov-mozhe-da-kazhe-koga-shte-obyavi-kandidaturata-si-za-prezident-news386776.html",
+      "pubDate": "2026-08-23 10:52:23",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_f14ef2e6ac40a30b7428e940b5aef82e.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
-      "title": "Саудитският дисидент Абдулрахман Ал-Халиди е освободен от центъра от затворен тип след близо 5 години",
-      "link": "https://svobodnatochka.bg/novini/sauditskiyat-disident-abdulrahman-al-halidi-e-osvoboden-ot-czentara-po-zadar/",
-      "pubDate": "2026-08-22 07:58:44",
-      "thumbnail": null,
+      "title": "\"Обикновената\" жена, обвинена в атентат срещу руски командир в Крим",
+      "link": "https://www.mediapool.bg/obiknovenata-zhena-obvinena-v-atentat-sreshtu-ruski-komandir-v-krim-news386775.html",
+      "pubDate": "2026-08-23 10:05:18",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_15c9380bba9e87520ee6e19e36c9ce88.jpg"
+      },
       "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Талибаните им забраниха. Как футболистките на Афганистан отново играят заедно",
-      "link": "https://svobodnatochka.bg/video/talibani-jeni-futbol/",
-      "pubDate": "2026-08-22 07:32:24",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -195,39 +231,13 @@
       }
     },
     {
-      "title": "\"Витоша ски\" може да остане с един лифт по-малко",
-      "link": "https://www.mediapool.bg/vitosha-ski-mozhe-da-ostane-s-edin-lift-po-malko-news386772.html",
-      "pubDate": "2026-08-23 06:37:23",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_0857f61d8a5a95a4ad52767e647c5fe2.jpg"
-      },
+      "title": "id.capital.bg | Публичен профил на clp17872854321644402 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dHdOYnI4ZExqWUZOYzhtOUYzNEFucHU5by1LdUNreVUycnZfX0tUcXluYlFURzc2WURMVVZndU9PYmF5blFzTEVvdVFWS2NCQVBqUlJySkZTLU5h?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 05:15:30 GMT",
+      "thumbnail": null,
       "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Иран ще смята за врагове страните, присъединили се към икономическата война на САЩ",
-      "link": "https://www.mediapool.bg/iran-shte-smyata-za-vragove-stranite-prisaedinili-se-kam-ikonomicheskata-voina-na-sasht-news386771.html",
-      "pubDate": "2026-08-23 05:53:01",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_992bddac04617c93aaaddd6bbf15a24f.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Жълт код за опасни жеги в почти цялата страна",
-      "link": "https://www.mediapool.bg/zhalt-kod-za-opasni-zhegi-v-pochti-tsyalata-strana-news386770.html",
-      "pubDate": "2026-08-23 05:38:56",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_3bba906e435c9b20883534a9af74b4d6.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
+        "name": "Capital",
+        "color": "#4CAF50"
       }
     },
     {
@@ -241,9 +251,9 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на clp17872854321644402 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dHdOYnI4ZExqWUZOYzhtOUYzNEFucHU5by1LdUNreVUycnZfX0tUcXluYlFURzc2WURMVVZndU9PYmF5blFzTEVvdVFWS2NCQVBqUlJySkZTLU5h?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:15:30 GMT",
+      "title": "Кои са последователите на mwp5750854427456039656 в клуба на Икономедиа - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wVi15RHZZOERpRWhrdjZUd21kTHQ2VVdOajJVNUpISl9NOG9vUlV2QVJFZms5bGkwendRRkxmRFBfa1JnQm1Lc3hfZGhlSkVuUndoWVltSkpseVFIRk1JaTF4dWFjcGliUFRDR0VRRQ?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -251,9 +261,9 @@
       }
     },
     {
-      "title": "Несебър иска да излезе на слънце - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajg1Q2M5U080UDRmWWMxdFhWWEh1WnhGTDFVQldpTFNleExkczY0YjUzZEh0cHZEbi02SVZNNWppNFZJcDFuWGFNemZYMkRuaGJhR0c2VFh0ZHNpWXFBWmQweEJGYXJXWnZpSUtOakVDdldRUDJOSlExeUtsYnJ4azJTRWJQN095T2JzTWlJclVPNWhL?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 10:53:00 GMT",
+      "title": "Кои са последователите на ycn28371985 в клуба на Икономедиа - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FZTNQTEc1Vld6RDN4YTlqa2dwTUZKa2ZNNUdjYS00UDE1R2xQQ285TjU4TC1aY1NVUEVDYUhhcUswUG9HM2NsU2lQcV9rQUluWEotdWJFRkhOM24wX1BLRA?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 00:49:16 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -271,21 +281,11 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на sunwin81org - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JLU83NEpIVUFfTFpvbUN4eWhPTGhtYkh2U2FZdS1mcHFHa0lBZWNGRHpFNmJKNjg0a3BKWXUwdmdUN1lhSEJNWWxiWk9OYXo3?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 17:34:30 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "Агресията започва там, където човекът се превръща в „то“",
-      "link": "https://www.actualno.com/cite/agresijata-zapochva-tam-kydeto-chovekyt-se-prevryshta-v-to-news_2631717.html",
-      "pubDate": "2026-08-23 09:11:00",
+      "title": "Унгарската АЕЦ \"Пакш\" възобновява работа",
+      "link": "https://www.actualno.com/europe/ungarskata-aec-paksh-vyzobnovjava-rabota-news_2631723.html",
+      "pubDate": "2026-08-23 12:08:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/7a76449998aa3982dd2ef98b7e7fc5ef_2631717_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/e2fdc33e5e0665cd07b0f85bf780597e_2631723_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Нов скандал! Джани Инфантино се появи без покана и опита да си \"купи\" подкрепата на страна от Америка",
-      "link": "https://www.actualno.com/football/nov-skandal-djani-infantino-se-pojavi-bez-pokana-i-opita-da-si-kupi-podkrepata-na-strana-ot-amerika-news_2631715.html",
-      "pubDate": "2026-08-23 09:09:00",
+      "title": "Легендарната Мишел Пфайфър проговори за пенсионирането ѝ от Холивуд",
+      "link": "https://www.actualno.com/showbusiness/legendarnata-mishel-pfajfyr-progovori-za-pensioniraneto-ot-holivud-news_2631753.html",
+      "pubDate": "2026-08-23 11:54:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/a7aefcd588627b56d6707831d27d89f9_2631715_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/b4b8e78adea589e15c5189a523093dba_2631753_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Стана ясно кои стоят зад „Окупирай педофилията“ и „Кръв и чест“ в Пловдив",
-      "link": "https://www.actualno.com/crime/stana-jasno-koi-stojat-zad-okupiraj-pedofilijata-i-kryv-i-chest-v-plovdiv-news_2631711.html",
-      "pubDate": "2026-08-23 08:50:00",
+      "title": "Три основни правила при дълго шофиране в жегите: Експерти с ключови съвети",
+      "link": "https://www.actualno.com/cars/tri-osnovni-pravila-pri-dylgo-shofirane-v-jegite-eksperti-s-kluchovi-syveti-news_2631751.html",
+      "pubDate": "2026-08-23 11:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/e5551170d818087156e3b15b036006d6_2631711_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/ce5388f54a8461e5acb8e3ff99685092_2631751_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Илиана Раева: Приела съм ролята на \"Желязна лейди\" и не чакам помощ, трябва да убивам човешката агресия",
-      "link": "https://www.actualno.com/moresport/iliana-raeva-priela-sym-roljata-na-jeljazna-lejdi-i-ne-chakam-pomosht-trjabva-da-ubivam-choveshkata-agresija-news_2631709.html",
-      "pubDate": "2026-08-23 08:47:00",
+      "title": "Трагедия в Рила: Тежко падане отне живота жена",
+      "link": "https://www.actualno.com/society/tragedija-v-rila-tejko-padane-otne-jivota-jena-news_2631744.html",
+      "pubDate": "2026-08-23 11:14:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/538635114ba2a6406741fc75561d3a55_2631709_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/826d75df687a9ed83960543094ba6dfe_2631744_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Ясно е кога ще има нов ВСС: Отговорът от управляващото мнозинство",
-      "link": "https://www.actualno.com/politics/jasno-e-koga-shte-ima-nov-vss-otgovoryt-ot-upravljavashtoto-mnozinstvo-news_2631708.html",
-      "pubDate": "2026-08-23 08:36:00",
+      "title": "Играч от Висшата лига се вдигна на бунт срещу клуба си - призова ФИФА да вземе мерки",
+      "link": "https://www.actualno.com/football/igrach-ot-visshata-liga-se-vdigna-na-bunt-sreshtu-kluba-si-prizova-fifa-da-vzeme-merki-news_2631736.html",
+      "pubDate": "2026-08-23 10:28:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/e6c0073e2b06c4b337b33162ed3054aa_2631708_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/fab74f7623c2979855118cf481b52213_2631736_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -396,53 +396,103 @@
       }
     },
     {
-      "title": "700 декара изпепели пожарът край Симеоновград, огънят е локализиран",
-      "link": "https://frognews.bg/novini/700-dekara-izpepeli-pojarat-krai-simeonovgrad-oganiat-lokaliziran.html",
-      "pubDate": "2026-08-23 08:53:00",
-      "thumbnail": null,
+      "title": "След трагедията в Рила: 7 неща, които никога да не правим в планината",
+      "link": "https://frognews.bg/novini/sled-tragediiata-rila-7-neshta-koito-nikoga-pravim-planinata.html",
+      "pubDate": "2026-08-23 12:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/68aa9b92f_1787485997_6a8adf2d1faa0.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "„В сърцето на нашия Съюз“: Украинското знаме се развя пред ЕК в Брюксел",
-      "link": "https://frognews.bg/novini/sartseto-nashiia-saiuz-ukrainskoto-zname-razvia-pred-briuksel.html",
-      "pubDate": "2026-08-23 08:37:00",
-      "thumbnail": null,
+      "title": "Вражеско превземане и семеен разкол: Кризата в гиганта зад Jack Daniel’s",
+      "link": "https://frognews.bg/novini/vrajesko-prevzemane-semeen-razkol-krizata-giganta-zad-jack-daniels.html",
+      "pubDate": "2026-08-23 11:33:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/8c4e53474_1787485282_6a8adc62dbb22.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Три дни ограничения в центъра на София: Ето кои улици се затварят",
-      "link": "https://frognews.bg/novini/tri-dni-ogranicheniia-tsentara-sofiia-eto-koi-ulitsi-zatvariat.html",
-      "pubDate": "2026-08-23 08:32:00",
-      "thumbnail": null,
+      "title": "Кораб с 24 души екипаж потъна в Бенгалския залив, издирват 22-ма моряци",
+      "link": "https://frognews.bg/novini/korab-24-dushi-ekipaj-potana-bengalskiia-zaliv-izdirvat-22-moriatsi.html",
+      "pubDate": "2026-08-23 11:13:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/f5efb08a5_1787484007_6a8ad767e5820.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Исторически вот в Казахстан: Избират първия еднокамарен парламент",
-      "link": "https://frognews.bg/novini/istoricheski-vot-kazahstan-izbirat-parviia-ednokamaren-parlament.html",
-      "pubDate": "2026-08-23 08:17:00",
-      "thumbnail": null,
+      "title": "„Шипка не пада“: Трите дни, в които проходът решава съдбата на войната",
+      "link": "https://frognews.bg/novini/shipka-pada-trite-dni-koito-prohodat-reshava-sadbata-voinata.html",
+      "pubDate": "2026-08-23 10:41:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/1b1f83a7b_1787483415_6a8ad5177ae6f.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Доматите паднаха с 28%, но маслото скочи с почти 7%: Как се промениха цените на храните",
-      "link": "https://frognews.bg/novini/domatite-padnaha-28procenta-masloto-skochi-pochti-7procenta-kak-promeniha-tsenite-hranite.html",
-      "pubDate": "2026-08-23 08:07:00",
-      "thumbnail": null,
+      "title": "Европа се включва в битката с пожарите в Сърбия",
+      "link": "https://frognews.bg/novini/evropa-vkliuchva-bitkata-pojarite-sarbiia.html",
+      "pubDate": "2026-08-23 10:29:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b4499e41c_helikopter2.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "Iran: President defends deal with US as best option for peace",
+      "link": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-23T14:49:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Could Russia&apos;s growing fuel crisis help end the Ukraine war?",
+      "link": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-23T14:42:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Congo, M23 rebels agree to peace roadmap",
+      "link": "https://www.dw.com/en/congo-m23-rebels-agree-to-peace-roadmap/a-78476169?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-23T12:37:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Harry Kane named footballer of the year in Germany",
+      "link": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-23T12:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -454,47 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Is the US seeing a turning point in obesity rates?",
-      "link": "https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-23T09:20:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "What is the &apos;political firewall&apos; against Germany&apos;s far-right AfD?",
-      "link": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-23T09:15:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Kazakhstan parliamentary vote to cement president&apos;s power",
-      "link": "https://www.dw.com/en/kazakhstan-parliamentary-vote-to-cement-president-s-power/a-78474598?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-23T08:54:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Search resumes for 22 crew after cargo ship sinks off India",
-      "link": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-23T07:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-23T12:12:24.918Z"
+  "lastUpdated": "2026-08-23T15:08:57.175Z"
 }
