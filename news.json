@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Хуманоид пробяга 100 метра по-бързо от Юсеин Болт",
+      "link": "https://offnews.bg/tehnologii/humanoid-probiaga-100-metra-po-barzo-ot-iusein-bolt-873237.html",
+      "pubDate": "2026-08-23 18:17:27",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/23/873237/phpau79mc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8426
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Русия официално обяви, че е отзовала посланика си във Великобритания",
       "link": "https://offnews.bg/sviat/rusia-ofitcialno-obiavi-che-e-otzovala-poslanika-si-vav-velikobritani-873236.html",
       "pubDate": "2026-08-23 17:41:27",
@@ -57,20 +71,6 @@
       }
     },
     {
-      "title": "Птичките на Мадяр унищожиха два руски изтребителя, горя втори Озон",
-      "link": "https://offnews.bg/sviat/ptichkite-na-madiar-unishtozhiha-dva-ruski-iztrebitelia-goria-vtori-o-873232.html",
-      "pubDate": "2026-08-23 15:15:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/23/873232/phpftfig9_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5560
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Социалните партньори постигнаха съгласие и по последния елемент за определяне на минималната работна заплата - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2FfbGtqTWY5Yk1yUlFhR0tXZkx0REVpWklEZFE5aEZ5RWplekNacnNWVnlSemtSejdYQUdNZ2JFcEFyNVBTNm01QkN2OGNIMnp5YnBZaGFkUDl4Zmtkd19SWHItT2RZUllvcDM2LWJjUW8tLXBUanhWNm9EbEJRUndDVFJCNzRER01zaDVYODU5eEp4OThRTmNyRnpNUQ?oc=5",
       "pubDate": "Fri, 21 Aug 2026 16:20:00 GMT",
@@ -101,9 +101,9 @@
       }
     },
     {
-      "title": "Комикс №348040 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NNVNGSnFpZHNydTFVc0ptRjJOOFFOazBUdnlqS1NkTE1aZ2YzQ2w1anFCaTVoWjlIWGhXbHRzX2ZQZEVfMTVKc3lQVE4?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 09:39:09 GMT",
+      "title": "Комикс №022009 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43RWQ4Q1ZnOW9INUNwNlhMNzhKclo4TGsyWHlOM2VOeVBDUmItMjNLUUdUU1Rfay1iR0V4VnZ5UkNxQXAwazdWN0RsdzNGb1BhdmlDNlk0S3g1R2ZJZlZrOGowTXFhZw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:00:03 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -111,9 +111,9 @@
       }
     },
     {
-      "title": "Комикс №022009 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43RWQ4Q1ZnOW9INUNwNlhMNzhKclo4TGsyWHlOM2VOeVBDUmItMjNLUUdUU1Rfay1iR0V4VnZ5UkNxQXAwazdWN0RsdzNGb1BhdmlDNlk0S3g1R2ZJZlZrOGowTXFhZw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 09:00:03 GMT",
+      "title": "Комикс №141176 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJaU1vRVN2WnZKZ1dOUWlxVFk0R3d0eGpTMWNyUE9TeTRqU1NHYXhaSk5RZk5qMmdaRllNbHZxWmpWV21YY2dFcXpQNUpCczBFTVBWNkVR?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 05:19:31 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,9 +231,29 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на clp17872854321644402 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dHdOYnI4ZExqWUZOYzhtOUYzNEFucHU5by1LdUNreVUycnZfX0tUcXluYlFURzc2WURMVVZndU9PYmF5blFzTEVvdVFWS2NCQVBqUlJySkZTLU5h?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 05:15:30 GMT",
+      "title": "id.capital.bg | Публичен профил на sej17874767431645353 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YMWJzLUtHbGFDZHluNTZTcXNtVE9xWEc0ajRZckE5MlQzSFo0RzNRMU5LTjQ4OE5ma0xVM0JFamQyT3I2dllZbm1zNEk3bExBWjQ4V3RmNXF5MnRS?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 19:01:49 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "Кои са последователите на mwp5750854427456039656 в клуба на Икономедиа - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wVi15RHZZOERpRWhrdjZUd21kTHQ2VVdOajJVNUpISl9NOG9vUlV2QVJFZms5bGkwendRRkxmRFBfa1JnQm1Lc3hfZGhlSkVuUndoWVltSkpseVFIRk1JaTF4dWFjcGliUFRDR0VRRQ?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на manclubfashion - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vZFVzaFRaXzJUVmxxendhUXR1WDNPRzhLY2J1SEFmUjh4X2JIbUdfWVNVTDdlaHI3aUlwRVlyd3VNMktQbGlQeGluWmRQUWlTWlBwbg?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 13:46:06 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -251,16 +271,6 @@
       }
     },
     {
-      "title": "Библиотека / Капитал - брой 33 - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRDlkQkh4eVAwV24xWEEtZE05aGZVU281WkNMVjJ1QzV6VnhzN3dibVJ3cHJORkJiU1dHTERhM2RiRWVKbTQ4RmZudzFyVXdmbjJZenFfQzc3RUNmYzB1eHRBWTE2QQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 22:22:37 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
       "title": "id.capital.bg | Публичен профил на kqxsllc - knetwork.capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfclJ6dHd4NTgxNl9aUFhxWVROOUZxMDFGbTdFSUFlYm1kd2thMjZmTC1WLTUxdm41cFJ0eFVBcjB2OXR2NGd0MDd5NA?oc=5",
       "pubDate": "Sat, 22 Aug 2026 17:14:35 GMT",
@@ -271,82 +281,92 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на sunwin81org - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JLU83NEpIVUFfTFpvbUN4eWhPTGhtYkh2U2FZdS1mcHFHa0lBZWNGRHpFNmJKNjg0a3BKWXUwdmdUN1lhSEJNWWxiWk9OYXo3?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 17:34:30 GMT",
+      "title": "НА ЖИВО: Кризата в Украйна, 24.08.26 - Украйна празнува 35 г. независимост",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-240826-ukrajna-praznuva-35-g-nezavisimost-news_2631831.html",
+      "pubDate": "2026-08-23 21:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/5bc97f056497ffd01337db9d7f390bb9_2631831_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Ударно начало! 20-годишен българин избухна в дебюта си за Цървена звезда",
+      "link": "https://www.actualno.com/bgfootball/udarno-nachalo-20-godishen-bylgarin-izbuhna-v-debuta-si-za-cyrvena-zvezda-news_2631843.html",
+      "pubDate": "2026-08-23 20:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/69d55c2ba417e3273a7dc7c3c521cf61_2631843_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Преодолими съперници за Григор Димитров в квалификациите на US Open",
+      "link": "https://www.actualno.com/tennis/preodolimi-sypernici-za-grigor-dimitrov-v-kvalifikaciite-na-us-open-news_2631840.html",
+      "pubDate": "2026-08-23 19:42:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/cd7eec825425e01051a06f06aa8b5c8d_2631840_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Мо Салах ги почна в Турция! Легендата на Ливърпул донесе успех на новия си отбор",
+      "link": "https://www.actualno.com/football/mo-salah-gi-pochna-v-turcija-legendata-na-livyrpul-donese-uspeh-na-novija-si-otbor-news_2631838.html",
+      "pubDate": "2026-08-23 19:35:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/c62c20c6aad0dae9e825545a329bbee9_2631838_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Дупки в небето: Допамин за неделя",
+      "link": "https://www.actualno.com/society/dupki-v-nebeto-dopamin-za-nedelja-news_2631647.html",
+      "pubDate": "2026-08-23 19:30:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/14e697b8a743e2fdd6715af8c05bfa0c_2631647_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "pubDate": "2026-08-23 19:23:29",
       "thumbnail": null,
       "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
-      "title": "Още един претендент за първото място в Първа лига допусна грешна стъпка",
-      "link": "https://www.actualno.com/bgfootball/oshte-edin-pretendent-za-pyrvoto-mjasto-v-pyrva-liga-dopusna-greshna-stypka-news_2631819.html",
-      "pubDate": "2026-08-23 17:58:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/d12e5f4da4250972ba6e4bf20cf514af_2631819_1920x1080.jpg",
-        "type": "image/jpg"
-      },
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "pubDate": "2026-08-23 19:29:32",
+      "thumbnail": null,
       "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
-      "title": "С дузпа в края! Ливърпул се спаси от голям срам на старта на Висшата лига",
-      "link": "https://www.actualno.com/football/s-duzpa-v-kraja-livyrpul-se-spasi-ot-goljam-sram-na-starta-na-visshata-liga-news_2631816.html",
-      "pubDate": "2026-08-23 17:29:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/df943226407f008262f27fd5b5a0d795_2631816_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "България се бори здраво, но допусна загуба на Европейското първенство в Бърно",
-      "link": "https://www.actualno.com/volleyball/bylgarija-se-bori-zdravo-no-dopusna-zaguba-na-evropejskoto-pyrvenstvo-v-byrno-news_2631810.html",
-      "pubDate": "2026-08-23 17:02:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/5318759f3a225f11a522fccb7f27968d_2631810_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Най-важните новини за деня, 23 август 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-23-avgust-2026-g-news_2631804.html",
-      "pubDate": "2026-08-23 17:00:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/45485a474590cd2fe490a48269369563_2631804_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Шампионът във Формула 1 изненада фаворитите за второ поредно състезание и триумфира в Нидерландия",
-      "link": "https://www.actualno.com/moresport/shampionyt-vyv-formula-1-iznenada-favoritite-za-vtoro-poredno-systezanie-i-triumfira-v-niderlandija-news_2631807.html",
-      "pubDate": "2026-08-23 16:51:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/23/4f8eef61499d8d9b5910859fb6f82d8a_2631807_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "How Complex Systems Fail",
+      "title": "How Complex Systems Fail (1998)",
       "link": "https://how.complexsystems.fail/",
       "pubDate": "2026-08-23 15:13:31",
       "thumbnail": null,
@@ -356,9 +376,9 @@
       }
     },
     {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "link": "https://securelist.com/android-head-unit-malware/121106/",
-      "pubDate": "2026-08-23 13:05:38",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "link": "https://fabiensanglard.net/agent.md/index.html",
+      "pubDate": "2026-08-23 17:59:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -366,9 +386,9 @@
       }
     },
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "link": "https://ericpardee.github.io/fire-hd-ownership/",
-      "pubDate": "2026-08-23 14:23:09",
+      "title": "What Is a Harness?",
+      "link": "https://earendil.com/posts/what-is-a-harness/",
+      "pubDate": "2026-08-23 14:24:21",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -376,30 +396,24 @@
       }
     },
     {
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "pubDate": "2026-08-23 13:51:10",
-      "thumbnail": null,
+      "title": "Нетаняху обяви Ердоган за „антисемитски диктатор“: Напрежението между Израел и Турция расте",
+      "link": "https://frognews.bg/novini/netaniahu-obiavi-erdogan-antisemitski-diktator-naprejenieto-mejdu-izrael-turtsiia-raste.html",
+      "pubDate": "2026-08-23 18:50:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/837cd1e14_1787513310_6a8b49de2bc81.webp"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-      "link": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-      "pubDate": "2026-08-23 15:50:18",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
       "title": "Нова находка по Черноморието: Дрон изплува край Варна",
       "link": "https://frognews.bg/novini/nova-nahodka-chernomorieto-dron-izpluva-krai-varna.html",
       "pubDate": "2026-08-23 17:40:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/bbe3573ee_1787507046_6a8b316600ae6.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -409,7 +423,9 @@
       "title": "Втори силен трус разтърси Япония за часове – 5,9 край Хокайдо",
       "link": "https://frognews.bg/novini/vtori-silen-trus-raztarsi-iaponiia-chasove--5-9-krai-hokaido.html",
       "pubDate": "2026-08-23 17:36:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/0083f9bba_zemetresenie_bgnes2.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -419,7 +435,9 @@
       "title": "Гърция вдига въздушния щит: „Пейтриът“ се мести на Крит заради Иран",
       "link": "https://frognews.bg/novini/gartsiia-vdiga-vazdushniia-shtit-peitriat-mesti-krit-zaradi-iran.html",
       "pubDate": "2026-08-23 15:47:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/c59492712_peitriat.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -429,20 +447,22 @@
       "title": "„Всичко за победата“: Путин превръща „Единна Русия“ в партия на войната",
       "link": "https://frognews.bg/novini/vsichko-pobedata-putin-prevrashta-edinna-rusiia-partiia-voinata.html",
       "pubDate": "2026-08-23 15:10:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/8ecf7c3d7_putin_bgns.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Вагон излезе от релсите между Владая и Горна баня, движението е спряно",
-      "link": "https://frognews.bg/novini/vagon-izleze-relsite-mejdu-vladaia-gorna-bania-dvijenieto-spriano.html",
-      "pubDate": "2026-08-23 14:59:00",
+      "title": "Norway: King Harald&apos;s health has &apos;deteriorated,&apos; palace says",
+      "link": "https://www.dw.com/en/norway-king-harald-s-health-has-deteriorated-palace-says/a-78479515?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-23T23:14:00Z",
       "thumbnail": null,
       "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -484,17 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Iran: President defends deal with US as best option for peace",
-      "link": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-23T14:49:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-23T21:09:20.970Z"
+  "lastUpdated": "2026-08-24T00:28:04.399Z"
 }
