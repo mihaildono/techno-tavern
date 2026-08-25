@@ -1,9 +1,31 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-25T15:30:26.086Z",
-  "totalItems": 135,
+  "lastUpdated": "2026-08-25T15:34:34.201Z",
+  "totalItems": 133,
   "items": [
+    {
+      "title": "Комикс №350343 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1teVBzYzJuZF82d3JMLWtIUXlzTC1YMWRjUWZxaS1BOU5CQjBzMzk4RUF2MVh5bnRtUDlmaXdpLVFHd1F2MjR0MlVtVHQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 08:35:46 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-25T15:34:34.201Z"
+    },
+    {
+      "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
+      "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T15:31:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-25T15:34:34.201Z"
+    },
     {
       "title": "Обявиха бедствено положение в Батак заради наводненията",
       "link": "https://offnews.bg/obshtestvo/obiaviha-bedstveno-polozhenie-v-batak-zaradi-navodneniata-873388.html",
@@ -1647,50 +1669,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-24T18:19:34.990Z"
-    },
-    {
-      "title": "Комикс №80657 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVWJXT1FFMU9DV2pFN3A5UWpkREwzVG1qVWhOdFdoc191MFR3ZFlHSzJ5cWQ3QkxKT0d6TjFsejI0bzRwem9WMmI3NA?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 08:01:46 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-24T15:31:28.585Z"
-    },
-    {
-      "title": "Комикс №80620 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNkRZVDI1dnVDcU1kQmVPbVlmZVJRa3dIMkNVMG5qM181WTRQVFNHdVRTNmRjRkpVMHZySHJZSm1ST055Nk15ejZvTQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 06:59:52 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-24T15:31:28.585Z"
-    },
-    {
-      "title": "Анкета: Какво правихте на 1 май? - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ySTE0VkhCTVJoUzBSdExRanU3WERiS0hoWlBiRXpGNTU3V05OR1AzUVU1Qm1ad28xR3NTZnRoU2dSLXhMM1FRRFdLU3Z4SHlzQkxPYmxXV015R3BOekMxQTN6anU0aTM3eVE?oc=5",
-      "pubDate": "Tue, 01 May 2018 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-24T15:31:28.585Z"
-    },
-    {
-      "title": "fcy3559018965910720698 - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jb2lGMW55S3NhNmJrR1puRWZ2NF91Y1lJci00eTV5TGVXdTdiWlhKZk1aUElaSFFTT2JKb1puaUFfX2FSWTZDcnJZVXV0djFpV3JrbmNsOXNwYUpxVTl2NkItLU0?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-24T15:31:28.585Z"
     }
   ]
 }
