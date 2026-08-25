@@ -81,6 +81,16 @@
       }
     },
     {
+      "title": "Комикс №337824 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LZ3pvNXFyQ01JQUNQQkhhT3Vza0dvYWVkbkROaEZ0Y0tQdEtNY0hLeXNaTTJsRGpnZjMyOC1GRW9ZdWpKY2RhcERtbFM?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:50:46 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "Комикс №350343 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1teVBzYzJuZF82d3JMLWtIUXlzTC1YMWRjUWZxaS1BOU5CQjBzMzk4RUF2MVh5bnRtUDlmaXdpLVFHd1F2MjR0MlVtVHQ?oc=5",
       "pubDate": "Tue, 25 Aug 2026 08:35:46 GMT",
@@ -104,16 +114,6 @@
       "title": "Комикс №80656 - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFZkxGUUd5M0JSNUc1aEkyUEIwTTloRUJDQzNnYll5Y1NqT1pQa08xeVhHc2ZpeFNtSkZteTRBUWZHeFhuSEtEbWZfNA?oc=5",
       "pubDate": "Mon, 24 Aug 2026 07:08:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №80657 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVWJXT1FFMU9DV2pFN3A5UWpkREwzVG1qVWhOdFdoc191MFR3ZFlHSzJ5cWQ3QkxKT0d6TjFsejI0bzRwem9WMmI3NA?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 08:01:46 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -271,9 +271,9 @@
       }
     },
     {
-      "title": "id.capital.bg | Публичен профил на manclubfashion - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vZFVzaFRaXzJUVmxxendhUXR1WDNPRzhLY2J1SEFmUjh4X2JIbUdfWVNVTDdlaHI3aUlwRVlyd3VNMktQbGlQeGluWmRQUWlTWlBwbg?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 13:46:06 GMT",
+      "title": "Снимка на деня: GullivAir пуска директни полети от София до Малдивите и Тайланд - Капитал",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJCc0RqcWJ6cE1yc2pZN0dtYVY5VXFCRDZYaUR6Ym81eG8yM3M5QkZMRmZSbm15ZHdBd1ZFbU5UZDNETjJlbkY1WFFKR3dUR2JnektzNUIyUFBBTU5RS0xVRW44MnFzdHNHWUpaQUZTZHB4bTZWRHZrMDdQVzVMNzczN1AzSWZRM0p6TlFReFRBVmp6Rll5U0RURXFnUHNWODk0cTdOSHg3LVJqM25MVUZQSDBwMUJIV1RCODBRdkRjZw?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 14:39:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Capital",
@@ -346,7 +346,17 @@
       }
     },
     {
-      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "pubDate": "2026-08-25 13:01:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
       "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "pubDate": "2026-08-25 13:03:17",
       "thumbnail": null,
@@ -356,7 +366,7 @@
       }
     },
     {
-      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
       "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "pubDate": "2026-08-25 13:13:00",
       "thumbnail": null,
@@ -366,7 +376,7 @@
       }
     },
     {
-      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
       "pubDate": "2026-08-25 14:29:32",
       "thumbnail": null,
@@ -379,16 +389,6 @@
       "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
       "link": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
       "pubDate": "2026-08-25 11:49:43",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "France's tax agency got hacked (in French)",
-      "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "pubDate": "2026-08-25 12:44:35",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -456,6 +456,36 @@
       }
     },
     {
+      "title": "US country music legend Dolly Parton dies aged 80",
+      "link": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T18:11:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Grain exports stall as Ukraine steps up attacks on Russia&apos;s Black Sea ports",
+      "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T18:04:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "CIA director in Moscow for meetings — US media reports",
+      "link": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T16:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
       "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-08-25T15:31:00Z",
@@ -466,39 +496,9 @@
       }
     },
     {
-      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
-      "link": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-25T09:25:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Schalke coach looks to Bosnia bond in Bundesliga return",
-      "link": "https://www.dw.com/en/schalke-coach-looks-to-bosnia-bond-in-bundesliga-return/a-78486008?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-25T14:57:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "How Germany&apos;s drone defense fails",
-      "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-25T14:51:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Will Volkswagen&apos;s crunch week decide Germany&apos;s auto future?",
-      "link": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-25T13:57:00Z",
+      "title": "Canada announces retaliatory tariffs on US goods",
+      "link": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T15:17:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -506,5 +506,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-25T15:34:34.109Z"
+  "lastUpdated": "2026-08-25T18:19:04.915Z"
 }
