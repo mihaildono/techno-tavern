@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Слънце и малко дъжд, температурите тръгват надолу",
+      "link": "https://offnews.bg/obshtestvo/slantce-i-malko-dazhd-temperaturite-tragvat-nadolu-873271.html",
+      "pubDate": "2026-08-25 03:35:06",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/25/873271/phpgtjrwx_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3585
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Нетаняху обвини Иран, че се опитал да убие един от синовете му",
       "link": "https://offnews.bg/sviat/netaniahu-obvini-iran-che-se-opital-da-ubie-edin-ot-sinovete-mu-873302.html",
       "pubDate": "2026-08-24 18:53:04",
@@ -57,23 +71,19 @@
       }
     },
     {
-      "title": "Тиктокърът Стоян Колев избяга и вдигна на крак полицията в Бургас",
-      "link": "https://offnews.bg/112/tiktokarat-stoian-kolev-izbiaga-i-vdigna-na-krak-politciata-v-burgas-873297.html",
-      "pubDate": "2026-08-24 16:56:13",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873297/php7wrwdi_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4879
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "ЕС отпусна 6.1 млрд. евро военна помощ на Украйна - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR25uMkhDRnZtU1E3SmZxQWkxNHotbjdVazRCd3c0ZDk4c1dNWjlvMU5lWDh4VVZndFVFYXRiYW9kck5nU0ZPdXgwRzZvWVU5bzVXWWk2WWRrRHJkYUNUZmtfcWgwcTdYQWdMT2pLYllMcDhETTk1VDdWaGdiV01UZUxXWWhCaUZ4SXN2M0NVbDFSU0lKZ1VjdmM0b2FUSF9DRHRrUnZmRUQ?oc=5",
       "pubDate": "Mon, 24 Aug 2026 06:26:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Комикс №351228 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lbVBSeVpobTlZd2IyV3NjdEdRd1JOdDRLbVFJRkZxOEJ0LU9GcFQ0ajJkODQ5V2ZLUzVuS3RXUjNuUElTTWp3eFRlUE4?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 15:27:29 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -101,19 +111,9 @@
       }
     },
     {
-      "title": "Комикс №019417 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xTHBHcjR3cEJYS0RKWUlZc25QSm5GcVUxck1kRXBkWkRydmJWbm1JZnFNWDhzTFF5Q2tzUkpkS3QwbUpQX1E2UlowWDI4amllOGF2NlVJZTFCTE1wSXBDLWFLQkFPM0NQcUd6OHVlaw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 07:08:01 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Комикс №038791 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fd0VEbmtsdTQ0cnhhOUJwRWpobVpzTkM2TDBBempMVEd2NXU4ZExBYmNWTUpNYVhHMURUcTdxam9IS1BjcTZoS2RlaVd5TlFVUDhVR2hZLXVwbWZEVkQ1MmZXX3RYQQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 03:10:00 GMT",
+      "title": "Комикс №80658 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VUml2QXVSbjZkRkVGS3B0WTJCaElrYUhZcnRVbGtUdkF0eHZnWDUtdDE0a0plOUdodTVuX2ZpaUs5aWlkcnQ4SW85WQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 07:35:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,6 +231,16 @@
       }
     },
     {
+      "title": "fcy3559018965910720698 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jb2lGMW55S3NhNmJrR1puRWZ2NF91Y1lJci00eTV5TGVXdTdiWlhKZk1aUElaSFFTT2JKb1puaUFfX2FSWTZDcnJZVXV0djFpV3JrbmNsOXNwYUpxVTl2NkItLU0?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      }
+    },
+    {
       "title": "id.capital.bg | Публичен профил на hanoiwoodcom - knetwork.capital.bg",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVEJCT1ZaY0I4TWtJckZpalM0V1RXZFlfZWZYdUdmRXN4WXhha0FlZDI5Q1pBZDVPLXpEYno1d0hCS2pCQnJUMTNrWHkwaTBjcWc?oc=5",
       "pubDate": "Mon, 24 Aug 2026 07:21:34 GMT",
@@ -271,21 +281,11 @@
       }
     },
     {
-      "title": "Снимка на деня: GullivAir пуска директни полети от София до Малдивите и Тайланд - Капитал",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJCc0RqcWJ6cE1yc2pZN0dtYVY5VXFCRDZYaUR6Ym81eG8yM3M5QkZMRmZSbm15ZHdBd1ZFbU5UZDNETjJlbkY1WFFKR3dUR2JnektzNUIyUFBBTU5RS0xVRW44MnFzdHNHWUpaQUZTZHB4bTZWRHZrMDdQVzVMNzczN1AzSWZRM0p6TlFReFRBVmp6Rll5U0RURXFnUHNWODk0cTdOSHg3LVJqM25MVUZQSDBwMUJIV1RCODBRdkRjZw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:39:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      }
-    },
-    {
-      "title": "НА ЖИВО: Кризата в Украйна, 25.08.26 - Първи военни учения на \"Коалицията на желаещите\"",
-      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-250826-pyrvi-voenni-uchenija-na-koalicijata-na-jelaeshtite-news_2632199.html",
-      "pubDate": "2026-08-24 21:01:00",
+      "title": "САЩ готвят нови мита срещу Китай",
+      "link": "https://www.actualno.com/economy/sasht-gotvjat-novi-mita-sreshtu-kitaj-news_2632229.html",
+      "pubDate": "2026-08-25 03:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/eb55350ab53492a0e9200fcdee525271_2632199_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/3f29c754b95c2c269833ef01971cc0c2_2632229_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -294,11 +294,11 @@
       }
     },
     {
-      "title": "Челси оцеля в лудо дерби: Алонсо тръгна победоносно с най-младия отбор във Висшата лига",
-      "link": "https://www.actualno.com/football/chelsi-ocelja-v-ludo-derbi-alonso-trygna-pobedonosno-s-naj-mladija-otbor-vyv-visshata-liga-news_2632214.html",
-      "pubDate": "2026-08-24 20:56:00",
+      "title": "Нетаняху: Иран е опитал да убие един от синовете ми",
+      "link": "https://www.actualno.com/asia/netanjahu-iran-e-opital-da-ubie-edin-ot-sinovete-mi-news_2632228.html",
+      "pubDate": "2026-08-25 03:26:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/2a63f1b983225839f288a54e55f23cd9_2632214_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/77145999d3935ac91785b91513e8f7ac_2632228_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -307,11 +307,11 @@
       }
     },
     {
-      "title": "Най-много \"сухи мрежи\" в Първа лига за сезон 2026/27: Четирима вратари са на върха",
-      "link": "https://www.actualno.com/bgfootball/naj-mnogo-suhi-mreji-v-pyrva-liga-za-sezon-202627-chetirima-vratari-sa-na-vyrha-news_2625729.html",
-      "pubDate": "2026-08-24 20:36:00",
+      "title": "Медведев: Украйна е \"близо\" до гражданска война",
+      "link": "https://www.actualno.com/asia/medvedev-ukrajna-e-blizo-do-grajdanska-vojna-news_2632227.html",
+      "pubDate": "2026-08-25 03:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/bbc89268974bb7c0cd591a4630eb890d_2625729_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/8e466b18a9db857ef277f1643d77c869_2632227_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -320,11 +320,11 @@
       }
     },
     {
-      "title": "Класиране по асистенции в Първа лига 2026/27 (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-po-asistencii-v-pyrva-liga-202627-obnovena-news_2625727.html",
-      "pubDate": "2026-08-24 20:35:00",
+      "title": "Десетки ранени и разрушени домове след мощно торнадо в Южна Франция (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/desetki-raneni-i-razrusheni-domove-sled-moshtno-tornado-v-ujna-francija-video-news_2632226.html",
+      "pubDate": "2026-08-25 03:17:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/0ad21101ba44813883d5a0f869c5df0c_2625727_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/df6deeba8574ddc8f6cf0d7e451c6408_2632226_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -333,11 +333,11 @@
       }
     },
     {
-      "title": "Класиране на голмайсторите в Първа лига 2026/27 (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-obnovena-news_2625725.html",
-      "pubDate": "2026-08-24 20:33:00",
+      "title": "Тръмп удължи ембаргото срещу Куба",
+      "link": "https://www.actualno.com/america/trymp-udylji-embargoto-sreshtu-kuba-news_2632225.html",
+      "pubDate": "2026-08-25 03:12:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/13ab72fca37c4c27c6bb12dc8766fe7a_2625725_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/1a2e9811e3bfd059e895183cb54fb21d_2632225_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -376,9 +376,9 @@
       }
     },
     {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "pubDate": "2026-08-24 21:03:06",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "pubDate": "2026-08-25 03:54:19",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -386,9 +386,9 @@
       }
     },
     {
-      "title": "The entire city of San Francisco as a video game",
-      "link": "https://sf.thijs.gg/",
-      "pubDate": "2026-08-24 17:05:38",
+      "title": "How Universities Should Prepare Founders",
+      "link": "https://paulgraham.com/prepare.html",
+      "pubDate": "2026-08-25 01:40:39",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -399,7 +399,9 @@
       "title": "Дете на 13 години е предизвикало пожара в Хасковско, изгорели са 14 000 декара",
       "link": "https://frognews.bg/novini/dete-13-godini-predizvikalo-pojara-haskovsko-izgoreli-14-000-dekara.html",
       "pubDate": "2026-08-24 19:03:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/7a84ccc15_1787598430_6a8c965e65e86.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -409,7 +411,9 @@
       "title": "Руските дронове вече избират сами целите си? NYT разкрива смъртоносна атака в Запорожие",
       "link": "https://frognews.bg/novini/ruskite-dronove-veche-izbirat-sami-tselite-nyt-razkriva-smartonosna-ataka-zaporojie.html",
       "pubDate": "2026-08-24 18:45:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/45151029c_dronove2345.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -419,7 +423,9 @@
       "title": "След бурята: Мъж е в неизвестност, пътят Пещера – Батак остава затворен",
       "link": "https://frognews.bg/novini/sled-buriata-maj-neizvestnost-patiat-peshtera--batak-ostava-zatvoren.html",
       "pubDate": "2026-08-24 18:18:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/53e597c49_navodnenie_bgnes2.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -429,7 +435,9 @@
       "title": "Ключовите решения от Киев: Какво договориха съюзниците на Украйна",
       "link": "https://frognews.bg/novini/kliuchovite-resheniia-kiev-kakvo-dogovoriha-saiuznitsite-ukraina.html",
       "pubDate": "2026-08-24 16:39:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/7805a7e90_1787592657_6a8c7fd1402f8.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -439,10 +447,42 @@
       "title": "GPS заглушителят в София: МВР иззе джип с професионална техника",
       "link": "https://frognews.bg/novini/gps-zaglushiteliat-sofiia-mvr-izze-djip-profesionalna-tehnika.html",
       "pubDate": "2026-08-24 16:08:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/e10e75b4b_policiq_bgnes.webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "Germany news: Third drone found in Leipzig airport probe",
+      "link": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T06:10:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Australia&apos;s music chart bars fully AI-generated music",
+      "link": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T05:52:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+      "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-25T04:44:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -464,37 +504,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Sudan: US proposes expanding UN arms embargo",
-      "link": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-24T19:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "US announces bid to further isolate Iran economically",
-      "link": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-24T19:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "DR Congo peace roadmap: Will the fighting finally end?",
-      "link": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-24T16:25:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-08-25T03:36:42.621Z"
+  "lastUpdated": "2026-08-25T06:21:16.688Z"
 }
