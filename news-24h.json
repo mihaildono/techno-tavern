@@ -1,9 +1,209 @@
 {
   "windowStart": "2026-08-12T11:57:20.954Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-25T21:14:33.042Z",
-  "totalItems": 154,
+  "lastUpdated": "2026-08-26T00:28:42.596Z",
+  "totalItems": 132,
   "items": [
+    {
+      "title": "Вятър носи хлад, но на морето ще е екстра",
+      "link": "https://offnews.bg/obshtestvo/viatar-nosi-hlad-no-na-moreto-shte-e-ekstra-873395.html",
+      "pubDate": "2026-08-25 21:27:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/25/873395/php2vrdwi_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6064
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Мирчев: Заглушителят от Драгалевци е купен от българска фирма, държавата е знаела за него от години",
+      "link": "https://offnews.bg/politika/mirchev-zaglushiteliat-ot-dragalevtci-e-kupen-ot-balgarska-firma-dar-873400.html",
+      "pubDate": "2026-08-25 18:56:01",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/25/873400/phpq582bs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5059
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Почина кралицата на кънтри музиката Доли Партън",
+      "link": "https://offnews.bg/kultura/pochina-kralitcata-na-kantri-muzikata-doli-partan-873398.html",
+      "pubDate": "2026-08-25 18:37:55",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/25/873398/phpqm3px8_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6623
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Комикс №80656 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFZkxGUUd5M0JSNUc1aEkyUEIwTTloRUJDQzNnYll5Y1NqT1pQa08xeVhHc2ZpeFNtSkZteTRBUWZHeFhuSEtEbWZfNA?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 07:08:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Разузнавателен дрон е открит край Царево",
+      "link": "https://www.mediapool.bg/razuznavatelen-dron-e-otkrit-krai-tsarevo-news386869.html",
+      "pubDate": "2026-08-25 19:46:13",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_3bae69442eabbee3378ec96fa43c5947.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Кралицата на кънтри музиката Доли Партън почина на 80 години",
+      "link": "https://www.mediapool.bg/kralitsata-na-kantri-muzikata-doli-partan-pochina-na-80-godini-news386868.html",
+      "pubDate": "2026-08-25 19:46:04",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_818eec545b5ddc33e06edd59fdf8affe.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 26.08.26 - Киев е получил ракети Patriot",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-260826-kiev-e-poluchil-raketi-patriot-news_2632521.html",
+      "pubDate": "2026-08-25 21:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/03944125fbeb9201648d80e5a1b41667_2632521_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Учени: Който слуша хеви метъл, издържа повече на болка",
+      "link": "https://www.actualno.com/music/ucheni-kojto-slusha-hevi-metyl-izdyrja-poveche-na-bolka-news_2632608.html",
+      "pubDate": "2026-08-25 20:59:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/bf8c1c5a015f86d6c55e6a2283b2e2d8_2632608_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Лудогорец предприема ход за аржентински халф, но има сериозна пречка пред трансфера",
+      "link": "https://www.actualno.com/bgfootball/ludogorec-predpriema-hod-za-arjentinski-half-no-ima-seriozna-prechka-pred-transfera-news_2632604.html",
+      "pubDate": "2026-08-25 20:49:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/f6ca45f8aea9b70ba217fd9e1ec6a8ee_2632604_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Илон Мъск ще строи най-големия космодрум на Земята (ВИДЕО)",
+      "link": "https://www.actualno.com/cosmos/ilon-mysk-shte-stroi-naj-golemija-kosmodrum-na-zemjata-video-news_2632607.html",
+      "pubDate": "2026-08-25 20:40:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/fd5ef41fa3660f975034a16edd843292_2632607_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Един век музика среща морето: Берлинският радиосимфоничен оркестър идва за първи път в България",
+      "link": "https://www.actualno.com/music/edin-vek-muzika-sreshta-moreto-berlinskijat-radiosimfonichen-orkestyr-idva-za-pyrvi-pyt-v-bylgarija-news_2632605.html",
+      "pubDate": "2026-08-25 20:26:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/25/4ede469fa86898c5c06e4d2604f1f172_2632605_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Python's pre-declared constants are kinda weird",
+      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "pubDate": "2026-08-25 21:39:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "pubDate": "2026-08-25 14:06:02",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "Война, ядрени слънца и български дебют: “A Matter of Life and Death” на Iron Maiden на 20",
+      "link": "https://frognews.bg/novini/voyna-yadreni-slantsa-balgarski-debyut-matter-life-and-death-iron-maiden-20.html",
+      "pubDate": "2026-08-25 19:33:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/58d489b0b_1787686418_6a8dee12891d9.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
+    {
+      "title": "На 80 години почина кънтри легендата Доли Партън",
+      "link": "https://frognews.bg/novini/80-godini-pochina-kantri-legendata-doli-partan.html",
+      "pubDate": "2026-08-25 18:45:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/347fae572_1787684188_6a8de55c2ee18.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-26T00:28:42.596Z"
+    },
     {
       "title": "Колите на Андрю Тейт са взимани под наем, не бил толкова богат",
       "link": "https://offnews.bg/offtopic/kolite-na-andriu-tejt-sa-vzimani-pod-naem-ne-bil-tolkova-bogat-873397.html",
@@ -1470,487 +1670,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-08-25T03:36:42.621Z"
-    },
-    {
-      "title": "Нетаняху обвини Иран, че се опитал да убие един от синовете му",
-      "link": "https://offnews.bg/sviat/netaniahu-obvini-iran-che-se-opital-da-ubie-edin-ot-sinovete-mu-873302.html",
-      "pubDate": "2026-08-24 18:53:04",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873302/phpcd6j1x_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5449
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "НА ЖИВО: Кризата в Украйна, 25.08.26 - Първи военни учения на \"Коалицията на желаещите\"",
-      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-250826-pyrvi-voenni-uchenija-na-koalicijata-na-jelaeshtite-news_2632199.html",
-      "pubDate": "2026-08-24 21:01:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/eb55350ab53492a0e9200fcdee525271_2632199_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Челси оцеля в лудо дерби: Алонсо тръгна победоносно с най-младия отбор във Висшата лига",
-      "link": "https://www.actualno.com/football/chelsi-ocelja-v-ludo-derbi-alonso-trygna-pobedonosno-s-naj-mladija-otbor-vyv-visshata-liga-news_2632214.html",
-      "pubDate": "2026-08-24 20:56:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/2a63f1b983225839f288a54e55f23cd9_2632214_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Най-много \"сухи мрежи\" в Първа лига за сезон 2026/27: Четирима вратари са на върха",
-      "link": "https://www.actualno.com/bgfootball/naj-mnogo-suhi-mreji-v-pyrva-liga-za-sezon-202627-chetirima-vratari-sa-na-vyrha-news_2625729.html",
-      "pubDate": "2026-08-24 20:36:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/bbc89268974bb7c0cd591a4630eb890d_2625729_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Класиране по асистенции в Първа лига 2026/27 (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-po-asistencii-v-pyrva-liga-202627-obnovena-news_2625727.html",
-      "pubDate": "2026-08-24 20:35:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/05/0ad21101ba44813883d5a0f869c5df0c_2625727_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Класиране на голмайсторите в Първа лига 2026/27 (ОБНОВЕНА)",
-      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-obnovena-news_2625725.html",
-      "pubDate": "2026-08-24 20:33:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/14/13ab72fca37c4c27c6bb12dc8766fe7a_2625725_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "pubDate": "2026-08-24 22:13:40",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "pubDate": "2026-08-24 21:03:06",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "The entire city of San Francisco as a video game",
-      "link": "https://sf.thijs.gg/",
-      "pubDate": "2026-08-24 17:05:38",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Дете на 13 години е предизвикало пожара в Хасковско, изгорели са 14 000 декара",
-      "link": "https://frognews.bg/novini/dete-13-godini-predizvikalo-pojara-haskovsko-izgoreli-14-000-dekara.html",
-      "pubDate": "2026-08-24 19:03:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Руските дронове вече избират сами целите си? NYT разкрива смъртоносна атака в Запорожие",
-      "link": "https://frognews.bg/novini/ruskite-dronove-veche-izbirat-sami-tselite-nyt-razkriva-smartonosna-ataka-zaporojie.html",
-      "pubDate": "2026-08-24 18:45:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "След бурята: Мъж е в неизвестност, пътят Пещера – Батак остава затворен",
-      "link": "https://frognews.bg/novini/sled-buriata-maj-neizvestnost-patiat-peshtera--batak-ostava-zatvoren.html",
-      "pubDate": "2026-08-24 18:18:00",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-25T00:27:31.795Z"
-    },
-    {
-      "title": "Световният океан достигна най-високата температура в историята на наблюденията",
-      "link": "https://offnews.bg/sviat/svetovniat-okean-dostigna-naj-visokata-temperatura-v-istoriata-na-nabl-873301.html",
-      "pubDate": "2026-08-24 18:30:05",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873301/phpoguafc_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 2879
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "И Армения гледа към членство в ЕС",
-      "link": "https://offnews.bg/sviat/i-armenia-gleda-kam-chlenstvo-v-es-873300.html",
-      "pubDate": "2026-08-24 18:14:13",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873300/phpc9tjzn_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5738
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Почина Клаус.Михаел Кюне - един от най-богатите германци",
-      "link": "https://offnews.bg/sviat/pochina-klaus-mihael-kiune-edin-ot-naj-bogatite-germantci-873298.html",
-      "pubDate": "2026-08-24 17:14:04",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873298/php1keztl_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7096
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Тиктокърът Стоян Колев избяга и вдигна на крак полицията в Бургас",
-      "link": "https://offnews.bg/112/tiktokarat-stoian-kolev-izbiaga-i-vdigna-na-krak-politciata-v-burgas-873297.html",
-      "pubDate": "2026-08-24 16:56:13",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873297/php7wrwdi_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4879
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Потоп и в Батак. Издирват мъж, отнесен от Стара река (Видео)",
-      "link": "https://offnews.bg/112/potop-i-v-batak-izdirvat-mazh-otnesen-ot-stara-reka-video-873296.html",
-      "pubDate": "2026-08-24 16:37:30",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/08/24/873296/php7pdcpi_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8962
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Комикс №019417 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xTHBHcjR3cEJYS0RKWUlZc25QSm5GcVUxck1kRXBkWkRydmJWbm1JZnFNWDhzTFF5Q2tzUkpkS3QwbUpQX1E2UlowWDI4amllOGF2NlVJZTFCTE1wSXBDLWFLQkFPM0NQcUd6OHVlaw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 07:08:01 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Комикс №038791 - Dnevnik.bg - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fd0VEbmtsdTQ0cnhhOUJwRWpobVpzTkM2TDBBempMVEd2NXU4ZExBYmNWTUpNYVhHMURUcTdxam9IS1BjcTZoS2RlaVd5TlFVUDhVR2hZLXVwbWZEVkQ1MmZXX3RYQQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 03:10:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Почина Клаус-Михаел Кюне: тъмната история зад империя за 36 милиарда евро",
-      "link": "https://www.mediapool.bg/pochina-klaus-mihael-kyune-tamnata-istoriya-zad-imperiya-za-36-miliarda-evro-news386824.html",
-      "pubDate": "2026-08-24 16:37:19",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_f86565b0f821f8d8c5b8c3494a1d050e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Проливен дъжд с градушка се изсипа над София (галерия)",
-      "link": "https://www.mediapool.bg/proliven-dazhd-s-gradushka-se-izsipa-nad-sofiya-galeriya-news386813.html",
-      "pubDate": "2026-08-24 16:13:19",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_2094ac26d074e3810d27549291584512.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Говорителката на Иван Гешев иска да става съдебен кадровик",
-      "link": "https://www.mediapool.bg/govoritelkata-na-ivan-geshev-iska-da-stava-sadeben-kadrovik-news386823.html",
-      "pubDate": "2026-08-24 16:07:09",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_1d551a8043fcefdf2f8e09e46f790889.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Магистрати се оплакват от \"джуджетата\" преди изборите за ВСС",
-      "link": "https://www.mediapool.bg/magistrati-se-oplakvat-ot-dzhudzhetata-predi-izborite-za-vss-news386821.html",
-      "pubDate": "2026-08-24 15:37:05",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_027a0c7003594e5246bb6cea2245658e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Иран с ново предупреждение към България. Радев и Борисов се разправят за американските самолети",
-      "link": "https://www.mediapool.bg/iran-s-novo-preduprezhdenie-kam-bulgaria-radev-i-borisov-se-razpravyat-za-amerikanskite-samoleti-news386820.html",
-      "pubDate": "2026-08-24 15:24:10",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/386/medium_5e2e1d0fb4e0fabeb70a343a17a79d1b.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Кои са последователите на ycn28371985 в клуба на Икономедиа - knetwork.capital.bg",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FZTNQTEc1Vld6RDN4YTlqa2dwTUZKa2ZNNUdjYS00UDE1R2xQQ285TjU4TC1aY1NVUEVDYUhhcUswUG9HM2NsU2lQcV9rQUluWEotdWJFRkhOM24wX1BLRA?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 00:49:16 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Capital",
-        "color": "#4CAF50"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Юноша на Левски подчини гранд и върна отбора си към живота",
-      "link": "https://www.actualno.com/bgfootball/unosha-na-levski-podchini-grand-i-vyrna-otbora-si-kym-jivota-news_2632187.html",
-      "pubDate": "2026-08-24 18:05:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/4643dbc8f703bd7bd85de8c407b44cd7_2632187_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Учени създадоха карта на човешкия гъдел",
-      "link": "https://www.actualno.com/interest/ucheni-syzdadoha-karta-na-choveshkija-gydel-news_2631920.html",
-      "pubDate": "2026-08-24 17:50:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/ba6e84d6f9c77a06a7d69821bc87e529_2631920_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Мъж изчезна след наводнението в Пещера (ВИДЕО)",
-      "link": "https://www.actualno.com/pazardjik/myj-izchezna-sled-navodnenieto-v-peshtera-video-news_2632178.html",
-      "pubDate": "2026-08-24 17:37:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/b6b787621b79c91c00baa253d59ac751_2632178_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Слави Трифонов е натрупал още милиони и нови коли, Ивелин Михайлов с 6 къщи и 6 парцела за 126 хил. евро",
-      "link": "https://www.actualno.com/politics/slavi-trifonov-e-natrupal-oshte-milioni-i-novi-koli-ivelin-mihajlov-s-6-kyshti-i-6-parcela-za-126-hil-evro-news_2632104.html",
-      "pubDate": "2026-08-24 17:30:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/7e16fec5bf656b516c1c3d0c3083cbfe_2632104_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "В Гърция: Жена уби котка. Какво е наказанието?",
-      "link": "https://www.actualno.com/balkani/v-gyrcija-jena-ubi-kotka-kakvo-e-nakazanieto-news_2632155.html",
-      "pubDate": "2026-08-24 17:22:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/24/eb17e6a1f96a6e6c527bc88447ae6531_2632155_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Мъж е отнесен от придошлата Стара река в Пещера, издирват го с дрон и кучета",
-      "link": "https://frognews.bg/novini/maj-otnesen-pridoshlata-stara-reka-peshtera-izdirvat-dron-kucheta.html",
-      "pubDate": "2026-08-24 18:18:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/53e597c49_navodnenie_bgnes2.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Ключовите решения от Киев: Какво договориха съюзниците на Украйна",
-      "link": "https://frognews.bg/novini/kliuchovite-resheniia-kiev-kakvo-dogovoriha-saiuznitsite-ukraina.html",
-      "pubDate": "2026-08-24 16:39:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/7805a7e90_1787592657_6a8c7fd1402f8.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "GPS заглушителят в София: МВР иззе джип с професионална техника",
-      "link": "https://frognews.bg/novini/gps-zaglushiteliat-sofiia-mvr-izze-djip-profesionalna-tehnika.html",
-      "pubDate": "2026-08-24 16:08:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/e10e75b4b_policiq_bgnes.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Скална маса се срути в Кресненското дефиле, две жени са пострадали",
-      "link": "https://frognews.bg/novini/skalna-masa-sruti-kresnenskoto-defile-dve-jeni-postradali.html",
-      "pubDate": "2026-08-24 15:57:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/b20bd7629_svlachishte_bgnes.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "„Витоша ски“: Законът за горите не позволява подмяната на Княжевския лифт",
-      "link": "https://frognews.bg/novini/vitosha-ski-zakonat-gorite-pozvoliava-podmianata-kniajevskiia-lift.html",
-      "pubDate": "2026-08-24 15:49:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/ae0adefaa_1787586814_6a8c68fe336d8.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "Sudan: US proposes expanding UN arms embargo",
-      "link": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-24T19:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
-    },
-    {
-      "title": "US announces bid to further isolate Iran economically",
-      "link": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-24T19:03:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-08-24T21:16:01.342Z"
     }
   ]
 }
