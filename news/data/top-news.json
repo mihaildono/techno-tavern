@@ -1,27 +1,67 @@
 {
-  "updatedAt": "2026-08-26T18:10:40.371402",
-  "overview": "Днес българската и международната новинарска сцена се състоеше от разнообразие от събития, включително разузнавателни дейности в Черно море, политически развитието в Германия и социални осигуровки за младежи от приемни центрове.",
+  "updatedAt": "2026-08-26T18:29:30.666728",
+  "overview": "Кратък общ преглед на водещите събития за деня. Ние отчeтваме важни политики, икономически развития и обществени събития от целия ден.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "Дрон в Черно море най-вероятно руски, силите си разширяват",
-      "summary": "Експерти определят петте установени дронове в Черноморския басейн като руски и съвсем безобидни. Увеличаващата се активност може да продължи.",
+      "category": "Други",
+      "headline": "US limits Ukraine military aid, supports reconstruction",
+      "summary": "Key developments include ЕС отпусна 6.1 млрд. евро военна помощ на Украйна - Dnevnik.bg Най-мощното оръжие на Украйна: Софтуерът за координация на рояците бойни дронове",
+      "sources": [
+        "Dnevnik",
+        "FrogNews"
+      ],
+      "ids": [
+        27,
+        58
+      ]
+    },
+    {
+      "category": "Други",
+      "headline": "F-16 fighter jet sales to Bulgaria delayed until 2030",
+      "summary": "Key developments include Потвърдиха забавянето на вторите осем F-16, правителството иска неустойка F-16 се забавят до 2030 г.: САЩ и Швеция отказаха на България изтребители втора ръка",
+      "sources": [
+        "FrogNews",
+        "OffNews"
+      ],
+      "ids": [
+        1,
+        18
+      ]
+    },
+    {
+      "category": "Други",
+      "headline": "Trump visited Russia, CIA meeting raises questions",
+      "summary": "Key developments include Тръмп за визитата на ЦРУ в Москва: Може да излезе нещо Тръмп не вярва, че Моджтаба Хаменей е мъртвец Шефът на ЦРУ предупредил Путин какво ще стане, ако атакува НАТО? Тръмп отговори (ВИДЕО)",
+      "sources": [
+        "Actualno",
+        "OffNews"
+      ],
+      "ids": [
+        2,
+        4,
+        15
+      ]
+    },
+    {
+      "category": "Други",
+      "headline": "Daily News Summary - Event 4",
+      "summary": "Key developments include Reports: UEFA backs off FIFA boycott threat",
       "sources": [
         "DW"
       ],
       "ids": [
-        162
+        66
       ]
     },
     {
-      "category": "Общество",
-      "headline": "Очаква се социална помощ и за младежите, напускащи приемни центрове",
-      "summary": "Правителствените представители изтъкват, че финансирането ще покрие основни нужди като образование и професионална подготовка за тези младежи.",
+      "category": "Други",
+      "headline": "Daily News Summary - Event 5",
+      "summary": "Key developments include Meta settles in US states lawsuit on teen user addiction",
       "sources": [
-        "OffNews"
+        "DW"
       ],
       "ids": [
-        10
+        65
       ]
     }
   ]
