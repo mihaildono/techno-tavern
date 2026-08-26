@@ -50,7 +50,9 @@ function reset() {
   // Sanity check: only clear once the AI actually produced a headline.
   const top = JSON.parse(fs.readFileSync(TOP_NEWS_FILE, "utf8"));
   if (!top.title || !Array.isArray(top.sources) || top.sources.length === 0) {
-    console.error("❌ top-news.json is incomplete — refusing to clear the archive");
+    console.error(
+      "❌ top-news.json is incomplete — refusing to clear the archive",
+    );
     process.exit(1);
   }
 
@@ -58,7 +60,13 @@ function reset() {
   fs.writeFileSync(
     ARCHIVE_FILE,
     JSON.stringify(
-      { windowStart: now, windowHours: 24, lastUpdated: now, totalItems: 0, items: [] },
+      {
+        windowStart: now,
+        windowHours: 24,
+        lastUpdated: now,
+        totalItems: 0,
+        items: [],
+      },
       null,
       2,
     ),
