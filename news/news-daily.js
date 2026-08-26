@@ -12,9 +12,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const ARCHIVE_FILE = path.join(__dirname, "news-24h.json");
-const DIGEST_FILE = path.join(__dirname, "news-digest.txt");
-const TOP_NEWS_FILE = path.join(__dirname, "top-news.json");
+const ARCHIVE_FILE = path.join(__dirname, "data", "news-24h.json");
+const DIGEST_FILE = path.join(__dirname, "data", "news-digest.txt");
+const TOP_NEWS_FILE = path.join(__dirname, "data", "top-news.json");
 
 function readArchive() {
   if (!fs.existsSync(ARCHIVE_FILE)) {

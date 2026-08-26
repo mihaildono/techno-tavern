@@ -39,16 +39,16 @@ jobs:
 
       - name: Final fetch to close the 24h window
         if: steps.guard.outputs.run == 'true'
-        run: node fetch-news.js
+        run: node news/fetch-news.js
 
       - name: Build compact AI digest
         if: steps.guard.outputs.run == 'true'
-        run: node news-daily.js digest
+        run: node news/news-daily.js digest
 
       - name: Commit and push if changed
         if: steps.guard.outputs.run == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add news.json news-24h.json news-digest.txt
+          git add news/data/news.json news/data/news-24h.json news/data/news-digest.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Close 24h news window and build digest" && git push)

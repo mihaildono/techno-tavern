@@ -25,11 +25,11 @@ jobs:
       - name: Fetch and convert RSS to JSON from multiple sources
         run: |
           # Run the Node.js script to fetch from all sources
-          node fetch-news.js
+          node news/fetch-news.js
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add news.json news-24h.json
+          git add news/data/news.json news/data/news-24h.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)

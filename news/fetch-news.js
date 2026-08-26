@@ -5,11 +5,11 @@ const fs = require("fs");
 const path = require("path");
 
 // Active feed shown on the site (overwritten on every run)
-const OUTPUT_FILE = path.join(__dirname, "news.json");
+const OUTPUT_FILE = path.join(__dirname, "data", "news.json");
 // Rolling accumulator of everything seen in the last 24h (never overwritten,
 // only appended to + pruned). Cleared by reset-news-24h.js after the daily
 // top-news summary is generated.
-const ARCHIVE_FILE = path.join(__dirname, "news-24h.json");
+const ARCHIVE_FILE = path.join(__dirname, "data", "news-24h.json");
 const ARCHIVE_WINDOW_HOURS = 24;
 
 // RSS feeds with source metadata

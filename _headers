@@ -13,8 +13,8 @@
 /*.html
   Cache-Control: public, max-age=3600, must-revalidate
 
-# Cache news.json for 10 minutes (updated every 3 hours)
-/news.json
+# Cache news data for 10 minutes (updated regularly)
+/news/data/*
   Cache-Control: public, max-age=600, must-revalidate
 
 # Root HTML file

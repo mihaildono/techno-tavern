@@ -35,20 +35,20 @@ From the repository root (`~/Personal/techno-tavern`):
    npm run fetch-news
    npm run news:digest
    ```
-   *(This produces `news-digest.txt` with lines in `id|source|title` format)*
+   *(This produces `news/data/news-digest.txt` with lines in `id|source|title` format)*
 
 3. **Generate summary:**
-   Read `news-digest.txt` and follow the **Task & Rules** below. Write the resulting JSON into `top-news.json`.
+   Read `news/data/news-digest.txt` and follow the **Task & Rules** below. Write the resulting JSON into `news/data/top-news.json`.
 
 4. **Reset 24h archive window & clean up:**
    ```bash
    npm run news:reset
-   rm -f news-digest.txt
+   rm -f news/data/news-digest.txt
    ```
 
 5. **Commit and Push:**
    ```bash
-   git add top-news.json news-24h.json
+   git add news/data/top-news.json news/data/news-24h.json news/data/news.json
    git diff --quiet && git diff --staged --quiet || (git commit -m "chore(news): update daily news summary [skip ci]" && git push origin main)
    ```
 
@@ -69,7 +69,7 @@ From the repository root (`~/Personal/techno-tavern`):
 ---
 
 ## OUTPUT SCHEMA
-Write the resulting JSON directly into `top-news.json` in the repository root:
+Write the resulting JSON directly into `news/data/top-news.json`:
 
 ```json
 {

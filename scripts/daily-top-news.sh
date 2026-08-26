@@ -30,28 +30,28 @@ step_prepare() {
   log "Building compact news digest..."
   npm run news:digest
 
-  if [[ ! -s "news-digest.txt" ]]; then
-    log "❌ Error: news-digest.txt was not created or is empty."
+  if [[ ! -s "news/data/news-digest.txt" ]]; then
+    log "❌ Error: news/data/news-digest.txt was not created or is empty."
     exit 1
   fi
 
-  log "✅ news-digest.txt is ready for AI summarization."
+  log "✅ news/data/news-digest.txt is ready for AI summarization."
 }
 
 step_finish() {
   log "=== [2/2] Finalizing and committing news summary ==="
 
-  if [[ ! -s "top-news.json" ]]; then
-    log "❌ Error: top-news.json does not exist or is empty. Cannot finalize."
+  if [[ ! -s "news/data/top-news.json" ]]; then
+    log "❌ Error: news/data/top-news.json does not exist or is empty. Cannot finalize."
     exit 1
   fi
 
   # Validate JSON format
   if command -v node >/dev/null 2>&1; then
     node -e '
-      const data = JSON.parse(require("fs").readFileSync("top-news.json", "utf8"));
+      const data = JSON.parse(require("fs").readFileSync("news/data/top-news.json", "utf8"));
       if (!data.overview || !Array.isArray(data.stories) || data.stories.length === 0) {
-        console.error("❌ top-news.json is missing required overview or stories fields");
+        console.error("❌ news/data/top-news.json is missing required overview or stories fields");
         process.exit(1);
       }
     ' || exit 1
@@ -61,10 +61,10 @@ step_finish() {
   npm run news:reset
 
   log "Cleaning up temporary news-digest.txt..."
-  rm -f news-digest.txt
+  rm -f news/data/news-digest.txt
 
   log "Staging files..."
-  git add top-news.json news-24h.json news.json
+  git add news/data/top-news.json news/data/news-24h.json news/data/news.json
 
   if git diff --staged --quiet; then
     log "ℹ️ No changes detected to commit."
@@ -90,7 +90,7 @@ case "$CMD" in
     ;;
   all)
     step_prepare
-    log "ℹ️ Please run AI generation on news-digest.txt -> top-news.json, then run './scripts/daily-top-news.sh finish'"
+    log "ℹ️ Please run AI generation on news/data/news-digest.txt -> news/data/top-news.json, then run './scripts/daily-top-news.sh finish'"
     ;;
   *)
     echo "Usage: $0 {prepare|finish|all}"
