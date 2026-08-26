@@ -49,7 +49,7 @@ function reset() {
 
   // Sanity check: only clear once the AI actually produced a headline.
   const top = JSON.parse(fs.readFileSync(TOP_NEWS_FILE, "utf8"));
-  if (!top.title || !Array.isArray(top.sources) || top.sources.length === 0) {
+  if (!top.overview || !Array.isArray(top.stories) || top.stories.length === 0) {
     console.error(
       "❌ top-news.json is incomplete — refusing to clear the archive",
     );
