@@ -1,9 +1,119 @@
 {
   "windowStart": "2026-08-26T15:39:05.925Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-26T16:06:46.953Z",
-  "totalItems": 45,
+  "lastUpdated": "2026-08-26T19:26:47.130Z",
+  "totalItems": 55,
   "items": [
+    {
+      "title": "Инфлуенсърът Стоян Колев ще влезе в ареста, ако бъде открит - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzQ1SnZheFprZE1xZm9na0FfRDZoelVUT251cWFvYXRYRW80cTFJRXB5Nno5YjdWR2tYbV9SaHQxR1VFTmpPTUNDNXpkSDF2S2wwVTU1R1JNRElfT2Q5bGJQdVBCaXkwY2RtdHNBZF9BOTBpOTFFOTFHMDVsR3hvcjNWNE0wZ1lMN0p2aWR2YVk4WDBLcmJacVpuWnVQVnFfMVVDT0JuLUVKTzNqMDdF?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 15:31:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "link": "https://z.ai/blog/glm-5.3-flash",
+      "pubDate": "2026-08-26 14:08:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "AWS Acquires DuckDB",
+      "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "pubDate": "2026-08-26 12:59:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Disruption with Some GitHub Services",
+      "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "pubDate": "2026-08-26 15:19:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Nebula Sans",
+      "link": "https://www.nebulasans.com/",
+      "pubDate": "2026-08-26 15:03:52",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "pubDate": "2026-08-26 12:52:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+      "link": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-26T17:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "No, this wasn&apos;t a &quot;completely normal summer&quot;, despite far-right climate denial",
+      "link": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-26T16:44:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Tim Curry, of &apos;The Rocky Horror Picture Show,&apos; dies at 80",
+      "link": "https://www.dw.com/en/tim-curry-of-the-rocky-horror-picture-show-dies-at-80/a-78514945?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-26T16:40:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
+    {
+      "title": "Saxony-Anhalt: an AfD stronghold in Germany&apos;s east",
+      "link": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-26T14:24:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-26T19:26:47.130Z"
+    },
     {
       "title": "Потвърдиха забавянето на вторите осем F-16, правителството иска неустойка",
       "link": "https://offnews.bg/obshtestvo/potvardiha-zabavianeto-na-vtorite-osem-f-16-pravitelstvoto-iska-neust-873478.html",
