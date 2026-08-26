@@ -9,21 +9,22 @@
 
     <title>Новини - Techno Tavern Пловдив</title>
 
-    <link rel="icon" href="../assets/logo.svg" />
+    <link rel="icon" href="/assets/logo.svg" />
 
     <!-- Preload critical above-the-fold image -->
-    <link rel="preload" href="../assets/logo.svg" as="image" type="image/svg+xml" />
+    <link rel="preload" href="/assets/logo.svg" as="image" type="image/svg+xml" />
 
     <!-- Preconnect to external domains for faster resource loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
     <!-- Preload critical resources -->
-    <link rel="preload" href="data/news.json" as="fetch" crossorigin />
+    <link rel="preload" href="/news/data/top-news.json" as="fetch" crossorigin />
+    <link rel="preload" href="/news/data/news.json" as="fetch" crossorigin />
 
     <!-- Critical CSS inline or load asynchronously -->
-    <link rel="stylesheet" href="../style.css" />
-    <link rel="stylesheet" href="news.css" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/news/news.css" />
 
     <!-- Load Google Fonts asynchronously to prevent render blocking -->
     <link rel="preload"
@@ -39,7 +40,7 @@
 <body>
     <main class="layout">
         <div class="mainHeader">
-            <img src="../assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
+            <img src="/assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
             <h1>Techno Tavern</h1>
             <span>Социално пространство в Пловдив</span>
         </div>
@@ -59,6 +60,32 @@
         </nav>
 
         <div class="content">
+            <!-- Daily Top News Summary -->
+            <section id="daily-summary" class="summary-card" style="display: none;">
+                <div class="summary-header">
+                    <div class="summary-title-row">
+                        <div class="summary-badge">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="13" height="13" fill="currentColor">
+                                <path d="M13 10V3L4 14h7v7l9-11h-7z" />
+                            </svg>
+                            <span>Дневен обзор</span>
+                        </div>
+                        <span id="summary-updated" class="summary-updated"></span>
+                    </div>
+                    <p id="summary-overview" class="summary-overview"></p>
+                </div>
+
+                <div class="summary-divider"></div>
+
+                <div id="summary-stories" class="summary-stories"></div>
+            </section>
+
+            <!-- Feed Section Header -->
+            <div class="feed-header">
+                <h2>Всички новини</h2>
+                <span class="feed-subtitle">Последни 24 часа</span>
+            </div>
+
             <!-- news feed -->
             <div id="news-feed">
                 <div class="feed-loading">Зареждане на новини...</div>
@@ -75,14 +102,95 @@
         </footer>
 
         <script>
+            const CATEGORY_CLASSES = {
+                "Политика": "cat-politika",
+                "Икономика": "cat-ikonomika",
+                "Общество": "cat-obshtestvo",
+                "Свят": "cat-sviat",
+                "Технологии": "cat-tehnologii",
+                "Култура": "cat-kultura",
+                "Спорт": "cat-sport",
+                "Здравеопазване": "cat-zdraveopazvane",
+                "Екология": "cat-ekologia",
+                "Други": "cat-drugi"
+            };
+
+            const SOURCE_COLORS = {
+                "OffNews": "#E91E63",
+                "Dnevnik": "#2196F3",
+                "Свободна точка": "#FF9800",
+                "Mediapool": "#00BCD4",
+                "Capital": "#4CAF50",
+                "Actualno": "#9C27B0",
+                "Hacker News": "#FF6600",
+                "FrogNews": "#795548",
+                "DW": "#0080FF"
+            };
+
+            async function loadTopNewsSummary() {
+                const summaryContainer = document.getElementById("daily-summary");
+                const overviewElem = document.getElementById("summary-overview");
+                const updatedElem = document.getElementById("summary-updated");
+                const storiesContainer = document.getElementById("summary-stories");
+
+                try {
+                    const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
+                    const response = await fetch(`/news/data/top-news.json?v=${cacheBuster}`);
+                    if (!response.ok) return;
+
+                    const data = await response.json();
+                    if (!data || !data.stories || data.stories.length === 0) return;
+
+                    overviewElem.textContent = data.overview || "";
+
+                    if (data.updatedAt) {
+                        const date = new Date(data.updatedAt);
+                        const timeStr = date.toLocaleTimeString("bg-BG", { hour: '2-digit', minute: '2-digit' });
+                        const dateStr = date.toLocaleDateString("bg-BG", { day: 'numeric', month: 'short' });
+                        updatedElem.textContent = `${dateStr}, ${timeStr}`;
+                    }
+
+                    storiesContainer.innerHTML = "";
+                    data.stories.forEach((story) => {
+                        const storyCard = document.createElement("div");
+                        storyCard.className = "summary-story-item";
+
+                        const catClass = CATEGORY_CLASSES[story.category] || "cat-drugi";
+                        const categoryBadge = `<span class="category-badge ${catClass}">${story.category || "Общи"}</span>`;
+
+                        const sourcesHtml = Array.isArray(story.sources) && story.sources.length > 0
+                            ? `<div class="story-sources">
+                                <span class="story-sources-label">Източници:</span>
+                                ${story.sources.map(src => {
+                                    const color = SOURCE_COLORS[src] || "#555";
+                                    return `<span class="story-source-pill" style="background-color: ${color}">${src}</span>`;
+                                }).join("")}
+                               </div>`
+                            : "";
+
+                        storyCard.innerHTML = `
+                            <div class="summary-story-header">
+                                ${categoryBadge}
+                            </div>
+                            <div class="story-headline">${story.headline}</div>
+                            <p class="story-summary">${story.summary}</p>
+                            ${sourcesHtml}
+                        `;
+                        storiesContainer.appendChild(storyCard);
+                    });
+
+                    summaryContainer.style.display = "block";
+                } catch (err) {
+                    console.warn("Top news summary not loaded:", err);
+                }
+            }
+
             async function loadNewsFeed() {
                 const feedContainer = document.getElementById("news-feed");
 
                 try {
-                    // Fetch from local JSON file (updated by GitHub Action)
-                    // Cache-bust: round to 10-min windows so browser doesn't serve stale data
                     const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
-                    const response = await fetch(`data/news.json?v=${cacheBuster}`);
+                    const response = await fetch(`/news/data/news.json?v=${cacheBuster}`);
                     const data = await response.json();
                     feedContainer.innerHTML = "";
 
@@ -130,12 +238,15 @@
                 } catch (error) {
                     console.error("Error loading news:", error);
                     feedContainer.innerHTML =
-                        '<div class="feed-error">Failed to load news. Please try again later.</div>';
+                        '<div class="feed-error">Неуспешно зареждане на новините. Моля, опитайте по-късно.</div>';
                 }
             }
 
-            // Load news when page is ready
-            document.addEventListener("DOMContentLoaded", loadNewsFeed);
+            // Load top news summary and news feed when page is ready
+            document.addEventListener("DOMContentLoaded", () => {
+                loadTopNewsSummary();
+                loadNewsFeed();
+            });
         </script>
 </body>
 
