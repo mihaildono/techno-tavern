@@ -1,9 +1,379 @@
 {
   "windowStart": "2026-08-26T15:39:05.925Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-26T19:26:47.130Z",
-  "totalItems": 55,
+  "lastUpdated": "2026-08-27T00:18:27.895Z",
+  "totalItems": 84,
   "items": [
+    {
+      "title": "Синята приказка в Шампионската лига приключи: АЕК спря Левски",
+      "link": "https://offnews.bg/futbol/siniata-prikazka-v-shampionskata-liga-prikliuchi-aek-spria-levski-873493.html",
+      "pubDate": "2026-08-26 20:37:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/26/873493/phpaaiyim_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8639
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Латвийци и украинец планирали палеж на фабрика за дронове в Словакия",
+      "link": "https://offnews.bg/sviat/latvijtci-i-ukrainetc-planirali-palezh-na-fabrika-za-dronove-v-slovaki-873492.html",
+      "pubDate": "2026-08-26 18:37:12",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/26/873492/phpkovq8k_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4479
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Проруски хакери обявиха кибервойна на Норвегия",
+      "link": "https://offnews.bg/sviat/proruski-hakeri-obiaviha-kibervojna-na-norvegia-873491.html",
+      "pubDate": "2026-08-26 18:28:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/26/873491/php3cgyuu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5249
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Зеленски: Благодаря Ви, Илияна Йотова",
+      "link": "https://offnews.bg/politika/zelenski-blagodaria-vi-iliana-jotova-873490.html",
+      "pubDate": "2026-08-26 18:20:29",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/26/873490/phpubyx4u_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5773
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Зеленски награди с орден Надежда Нейнски",
+      "link": "https://offnews.bg/obshtestvo/zelenski-nagradi-s-orden-nadezhda-nejnski-873489.html",
+      "pubDate": "2026-08-26 18:00:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/08/26/873489/phpoavewq_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5299
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Комикс №053023 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50MW5Qd3I5akM3N0hPQ3ZFclk4enRBZHUya3ZKa0Z2dUZUY3pMYWdsV3ktX3B5cERvYl83aDE0cThJRVh6N3JOUjRpMDcwcmVDR0ZTRkdBTzhHUVhidXFPbVFWRGpya3Y3eERFVl9wdw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 17:59:32 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Комикс №139644 - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hUzA5RDlsTGs4bU5QOWYzR1ZkSXZ2RDEzRnh2MmpMTjVoakN6QWxiblgtTDNFQ0xlU3JydG9obDE5dDVmTDNSWW9OWFA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 17:25:51 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Комикс №023395 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM2w2MFBNMlpSc21ENWp3ZW41RmtPd1lrUXhSNFJMdTdPdS1va2xSNGN4SFJQOUZiSzhTSDgtYzZCVTlGV3JpeUZJZDNVR3BlcUpRTWhqa0lzenJidFZTNUU4TFpsdw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 12:50:06 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Комикс №007768 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hb1V0bDF0Sk9vNVhXTF9mRDJKRVo4bzhWN1hMRFVpNnZqVkotQ2VPb0FsZjJvNzZWS0JzWnd1SGNnTDVzUmNVYjZiNTVZN2Q3TmxrQ3hKeHUxMWhXSFN5SkFVUk9jLXVYOUE0WDR0TQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 08:36:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Комикс №25247 - Dnevnik.bg - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91eF96QS14ZVJLaGFWaHFFVWdEQkVhR3VtQ2txX0pOT0J0cW8yNm5fV0l2S0E0WUhvUWZWaTYtT2RMWTBxSTRVVlBpYURCeU1QZWpCODhhYjFoRTlMYWRPczlPQlo?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 08:36:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Безплатни обиколки ще потопят столичани в историята на тоталитарния режим в България",
+      "link": "https://www.mediapool.bg/bezplatni-obikolki-shte-potopyat-stolichani-v-istoriyata-na-totalitarniya-rezhim-v-bulgaria-news386906.html",
+      "pubDate": "2026-08-26 15:31:48",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_f99a085a12d19c345879f9412ff526ab.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Тръмп каза, че \"може да излезе нещо\" от визитата на директора на ЦРУ в Русия",
+      "link": "https://www.mediapool.bg/tramp-kaza-che-mozhe-da-izleze-neshto-ot-vizitata-na-direktora-na-tsru-v-rusiya-news386871.html",
+      "pubDate": "2026-08-26 15:30:04",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_444d24fd93a22a4422722f1e0304ada0.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Цените на регулираните лекарства са паднали с до 14% за три години",
+      "link": "https://www.mediapool.bg/tsenite-na-reguliranite-lekarstva-sa-padnali-s-do-14-za-tri-godini-news386903.html",
+      "pubDate": "2026-08-26 15:30:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/386/medium_44e23ae5cd7d5220d77919722051fb26.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "id.capital.bg | Публичен профил на nak17876747141646069 - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wRi1Yd1VYYTNrVXBSWWRYSWlYdENfd21qTzJ5eTBrTUd5UU5XVWFiWGtlU2pFMXc2M2VRZUpMWXl5bTdtVF91ZEp1em9sRlhCNjVTS3k1S2dhdmhj?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 17:58:38 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Кого следва ngc191265138 в клуба на Икономедиа - knetwork.capital.bg",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Qb2owZU1wT044LXg3S0lUUVBSZWJFTndHNWRfd1NUQ0lQUFZZcGlOWHNKYWl1QmhFQmZBQWtEbTNFNWlZMTJ2ejFXeGZwLVlDcGRjaGp3bnRIcmMtU0x3N2hR?oc=5",
+      "pubDate": "Thu, 19 Dec 2024 08:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Capital",
+        "color": "#4CAF50"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "АЕК бе в очакване да отстрани Левски - светкавична реакция за влизането в Шампионска лига (ВИДЕО)",
+      "link": "https://www.actualno.com/football/aek-be-v-ochakvane-da-otstrani-levski-svetkavichna-reakcija-za-vlizaneto-v-shampionska-liga-video-news_2633006.html",
+      "pubDate": "2026-08-26 21:55:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/27/89d885f4e3e7fcca9d812a9c099fca44_2633006_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "\"Най-болезненият миг в кариерата ми! Надявам се Левски отново да играе в такъв мач\"",
+      "link": "https://www.actualno.com/bgfootball/naj-boleznenijat-mig-v-karierata-mi-nadjavam-se-levski-otnovo-da-igrae-v-takyv-mach-news_2633008.html",
+      "pubDate": "2026-08-26 21:35:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/27/227b5187f173e178256e6a0c21eb2012_2633008_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Веласкес остана горд с Левски след разгрома от АЕК: Такива неща се случват в живота",
+      "link": "https://www.actualno.com/bgfootball/velaskes-ostana-gord-s-levski-sled-razgroma-ot-aek-takiva-neshta-se-sluchvat-v-jivota-news_2633007.html",
+      "pubDate": "2026-08-26 21:35:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/27/b8bf5c5b39f6456d5d71d0e7038ce833_2633007_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Играчът на Левски, който Веласкес остави резерва, а можеше да спре агонията срещу АЕК",
+      "link": "https://www.actualno.com/bgfootball/igrachyt-na-levski-kojto-velaskes-ostavi-rezerva-a-mojeshe-da-spre-agonijata-sreshtu-aek-news_2632999.html",
+      "pubDate": "2026-08-26 21:31:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/26/1af0dfdd198181e9df1e60d41c20ab6d_2632999_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "\"Това не е Спартак Варна! Футболът в България трябва да се забрани със закон\": Реакциите след разгрома на Левски в Европа",
+      "link": "https://www.actualno.com/bgfootball/tova-ne-e-spartak-varna-futbolyt-v-bylgarija-trjabva-da-se-zabrani-sys-zakon-reakciite-sled-razgroma-na-levski-v-evropa-news_2633003.html",
+      "pubDate": "2026-08-26 21:16:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/27/6f52452fcd3b0a0210e89db0beb199f6_2633003_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "link": "https://github.com/tailscale/tailcat",
+      "pubDate": "2026-08-26 17:42:22",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "pubDate": "2026-08-26 19:23:01",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "An ongoing 3D-printer AGPL violation",
+      "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "pubDate": "2026-08-26 17:41:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "ЦИК започва подготовката на машинния вот – поръчката е за близо 10,3 млн. евро",
+      "link": "https://frognews.bg/novini/tsik-zapochva-podgotovkata-mashinniya-vot-porachkata-blizo-10-3-mln-evro.html",
+      "pubDate": "2026-08-26 19:05:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/38da50113_991_ratio_cik.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "$17 млрд. са само началото – сделката с Meta може да преобърне социалните мрежи",
+      "link": "https://frognews.bg/novini/17-mlrd-samo-nachaloto-sdelkata-meta-mozhe-preobarne-sotsialnite-mrezhi.html",
+      "pubDate": "2026-08-26 18:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/b126e9821_socialni_mrezhi_internet_fejsbuk.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "95 жертви и над 400 туристи в неизвестност след бедствието в Непал",
+      "link": "https://frognews.bg/novini/95-zhertvi-nad-400-turisti-neizvestnost-sled-bedstvieto-nepal.html",
+      "pubDate": "2026-08-26 17:35:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/5c9dfffee_1787765603_6a8f2363bc15e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "Ясни са първите 26 номинации за ВСС – сред тях бивши министри и магистрати",
+      "link": "https://frognews.bg/novini/iasni-parvite-26-nominatsii-vss--sred-tiah-bivshi-ministri-magistrati.html",
+      "pubDate": "2026-08-26 17:25:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/21100fd09_991-ratio-vss-vissh-sydeben-syvet.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "160 мегавата по-малко: Какво означава това за АЕЦ „Козлодуй“",
+      "link": "https://frognews.bg/novini/160-megavata-malko-kakvo-oznachava-tova-aets-kozlodui.html",
+      "pubDate": "2026-08-26 17:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/dd564819b_991-ratio-shesti-blok-aec-kozloduj.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
+    {
+      "title": "France: Car rams crowd at bus stop in Caen",
+      "link": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-26T22:56:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-27T00:18:27.895Z"
+    },
     {
       "title": "Инфлуенсърът Стоян Колев ще влезе в ареста, ако бъде открит - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzQ1SnZheFprZE1xZm9na0FfRDZoelVUT251cWFvYXRYRW80cTFJRXB5Nno5YjdWR2tYbV9SaHQxR1VFTmpPTUNDNXpkSDF2S2wwVTU1R1JNRElfT2Q5bGJQdVBCaXkwY2RtdHNBZF9BOTBpOTFFOTFHMDVsR3hvcjNWNE0wZ1lMN0p2aWR2YVk4WDBLcmJacVpuWnVQVnFfMVVDT0JuLUVKTzNqMDdF?oc=5",
