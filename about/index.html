@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="bg">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Как работи Techno Tavern — Архитектура, автоматизация и новини" />
+
+    <title>Как работи | Techno Tavern Пловдив</title>
+
+    <link rel="icon" href="/assets/logo.svg">
+
+    <!-- Preload critical above-the-fold image -->
+    <link rel="preload" href="/assets/logo.svg" as="image" type="image/svg+xml" />
+
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Critical CSS -->
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/about/about.css" />
+
+    <!-- Google Fonts -->
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+            rel="stylesheet" />
+    </noscript>
+</head>
+
+<body>
+    <main class="layout">
+        <div class="mainHeader">
+            <img src="/assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
+            <h1>Techno Tavern</h1>
+            <span>Социално пространство в Пловдив</span>
+        </div>
+
+        <nav class="tabs">
+            <a href="/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+                </svg></a>
+            <a href="/news/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12zM6 10h12v2H6zm0 4h8v2H6z" />
+                </svg></a>
+            <a href="/stocks/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" />
+                </svg></a>
+        </nav>
+
+        <div class="content">
+            <div class="about-container">
+                <div class="about-header">
+                    <h2>Как работи Techno Tavern?</h2>
+                    <p class="about-subtitle">
+                        Автоматизирана и независима система, която събира, обработва и синтезира новините за вас без реклами и излишен шум.
+                    </p>
+                </div>
+
+                <!-- ── Interactive Visual Architecture Diagram ── -->
+                <div class="diagram-card">
+                    <div class="diagram-card-title">
+                        <h3>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+                            </svg>
+                            Архитектура накратко
+                        </h3>
+                        <span class="diagram-badge">Автоматизиран процес</span>
+                    </div>
+
+                    <div class="flow-wrapper">
+                        <!-- Step 1: News Sources -->
+                        <div class="flow-node">
+                            <div class="node-icon-box">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+                                </svg>
+                            </div>
+                            <div class="node-content">
+                                <div class="node-top">
+                                    <span class="node-title">1. Медийни източници</span>
+                                    <span class="node-pill">RSS / Web Feeds</span>
+                                </div>
+                                <p class="node-desc">
+                                    Следим водещи независими медии (Дневник, Mediapool, Капитал, DW, Hacker News и др.).
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Connector 1 -->
+                        <div class="flow-arrow">
+                            <span class="arrow-label">На всеки 3 часа</span>
+                            <svg class="arrow-svg" viewBox="0 0 24 24">
+                                <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+                            </svg>
+                        </div>
+
+                        <!-- Step 2: CI Pipeline -->
+                        <div class="flow-node">
+                            <div class="node-icon-box ci-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                    <path d="M19 8l-4 4h3c0 3.31-2.69 6-6 6-1.01 0-1.97-.25-2.8-.7l-1.46 1.46C8.97 19.54 10.43 20 12 20c4.42 0 8-3.58 8-8h3l-4-4zM6 12c0-3.31 2.69-6 6-6 1.01 0 1.97.25 2.8.7l1.46-1.46C15.03 4.46 13.57 4 12 4c-4.42 0-8 3.58-8 8H1l4 4 4-4H6z"/>
+                                </svg>
+                            </div>
+                            <div class="node-content">
+                                <div class="node-top">
+                                    <span class="node-title">2. Автоматичен CI Процес</span>
+                                    <span class="node-pill blue">CI Job · 3 часа</span>
+                                </div>
+                                <p class="node-desc">
+                                    Автоматичен скрипт преглежда източниците, филтрира дублиращи се заглавия и обновява свежия новинарски поток.
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Connector 2 -->
+                        <div class="flow-arrow">
+                            <span class="arrow-label">Всяка вечер в 18:30 ч.</span>
+                            <svg class="arrow-svg" viewBox="0 0 24 24">
+                                <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+                            </svg>
+                        </div>
+
+                        <!-- Step 3: Raspberry Pi & Hermes Agent -->
+                        <div class="flow-node highlight-pi">
+                            <div class="node-icon-box pi-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                    <path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7c0 2.22-1.03 4.2-2.64 5.48l-.01.01C16.89 20.61 14.56 22 12 22s-4.89-1.39-6.35-2.51l-.01-.01A6.99 6.99 0 0 1 3 14a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2zm0 8a4 4 0 0 0-4 4c0 1.34.66 2.53 1.67 3.26C10.42 17.81 11.19 18 12 18s1.58-.19 2.33-.74A4.004 4.004 0 0 0 16 14a4 4 0 0 0-4-4z"/>
+                                </svg>
+                            </div>
+                            <div class="node-content">
+                                <div class="node-top">
+                                    <span class="node-title">3. Raspberry Pi + Hermes AI Агент</span>
+                                    <span class="node-pill pink">Cron Job · 18:30</span>
+                                </div>
+                                <p class="node-desc">
+                                    На локален <strong>Raspberry Pi</strong> мини-сървър работи AI агент <strong>Hermes</strong>. Всяка вечер в 18:30 ч. той синтезира най-важните новини за деня в кратък и ясен "Дневен обзор".
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Connector 3 (Branching) -->
+                        <div class="flow-arrow">
+                            <span class="arrow-label">Автоматично разпространение</span>
+                            <svg class="arrow-svg" viewBox="0 0 24 24">
+                                <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+                            </svg>
+                        </div>
+
+                        <!-- Step 4: Distribution Branch -->
+                        <div class="flow-branch">
+                            <!-- Branch 4a: WhatsApp -->
+                            <div class="flow-node">
+                                <div class="node-icon-box wa-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                        <path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2zm.01 1.67c4.54 0 8.24 3.7 8.24 8.24 0 2.2-.86 4.27-2.42 5.82a8.188 8.188 0 0 1-5.82 2.42c-1.45 0-2.88-.38-4.14-1.11l-.3-.18-3.08.81.82-3-.2-.31a8.172 8.172 0 0 1-1.26-4.45c0-4.54 3.7-8.24 8.24-8.24zm4.5 11.64c-.25-.13-1.47-.72-1.7-.81-.23-.08-.39-.13-.56.13-.17.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.13-1.07-.39-2.03-1.25-.75-.67-1.26-1.5-1.41-1.75-.14-.25-.02-.39.11-.51.11-.11.25-.29.38-.44.13-.14.17-.25.25-.42.08-.17.04-.31-.02-.44-.06-.13-.56-1.34-.76-1.84-.2-.49-.4-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1 0 1.24.9 2.44 1.03 2.61.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.47-.6 1.68-1.18.21-.58.21-1.08.15-1.18-.06-.1-.23-.17-.48-.29z"/>
+                                    </svg>
+                                </div>
+                                <div class="node-content">
+                                    <div class="node-top">
+                                        <span class="node-title">WhatsApp Канал</span>
+                                        <span class="node-pill whatsapp">Известия</span>
+                                    </div>
+                                    <p class="node-desc">
+                                        Дневните отчети пристигат право във WhatsApp за бърз преглед.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Branch 4b: GitHub Pages -->
+                            <div class="flow-node">
+                                <div class="node-icon-box gh-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z"/>
+                                    </svg>
+                                </div>
+                                <div class="node-content">
+                                    <div class="node-top">
+                                        <span class="node-title">GitHub Pages</span>
+                                        <span class="node-pill green">Уебсайт</span>
+                                    </div>
+                                    <p class="node-desc">
+                                        Целият сайт работи като статично приложение — зарежда моментално и без реклами.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ── Simple Details for Non-Technical Users ── -->
+                <div class="details-section">
+                    <h3>Какво прави системата специална?</h3>
+                    <div class="details-grid">
+                        <div class="detail-card">
+                            <div class="detail-card-header">
+                                <span class="detail-emoji">🍓</span>
+                                <span class="detail-card-title">Домашен сървър Raspberry Pi</span>
+                            </div>
+                            <p class="detail-card-text">
+                                Малък и супер икономичен мини-компютър, който работи непрекъснато. Не зависи от скъпи облачни услуги и пази данните под наш контрол.
+                            </p>
+                        </div>
+
+                        <div class="detail-card">
+                            <div class="detail-card-header">
+                                <span class="detail-emoji">🤖</span>
+                                <span class="detail-card-title">AI Агент Hermes</span>
+                            </div>
+                            <p class="detail-card-text">
+                                Умен софтуерен асистент, който филтрира спама, намира най-важните акценти от деня и създава обективни и балансирани обобщения.
+                            </p>
+                        </div>
+
+                        <div class="detail-card">
+                            <div class="detail-card-header">
+                                <span class="detail-emoji">⏰</span>
+                                <span class="detail-card-title">Новини на всеки 3 часа</span>
+                            </div>
+                            <p class="detail-card-text">
+                                Автоматични фонови задачи проверяват новините денонощно, така че винаги разполагате с актуалната картина на събитията.
+                            </p>
+                        </div>
+
+                        <div class="detail-card">
+                            <div class="detail-card-header">
+                                <span class="detail-emoji">⚡</span>
+                                <span class="detail-card-title">100% GitHub Pages хостинг</span>
+                            </div>
+                            <p class="detail-card-text">
+                                Сайтът е съставен от леки статични файлове, без бавни бази данни. Отваря се за части от секундата както на телефон, така и на компютър.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ── Tech Stack Summary ── -->
+                <div class="tech-bar">
+                    <span class="tech-bar-title">Технологичен стек</span>
+                    <div class="tech-pills">
+                        <span class="tech-pill">🍓 Raspberry Pi</span>
+                        <span class="tech-pill">🤖 Hermes AI Agent</span>
+                        <span class="tech-pill">🐙 GitHub Actions (CI)</span>
+                        <span class="tech-pill">🌐 GitHub Pages</span>
+                        <span class="tech-pill">💬 WhatsApp API</span>
+                        <span class="tech-pill">🕒 Cron Schedules</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="site-footer">
+            <a href="/about/" class="footer-link active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z" />
+                </svg>Как работи?</a>
+            <span>Архив</span>
+            <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path
+                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
+                </svg>Политика</a>
+        </footer>
+    </main>
+</body>
+
+</html>

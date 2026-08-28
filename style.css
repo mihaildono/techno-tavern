@@ -187,6 +187,10 @@ body {
   color: #ccc;
 }
 
+.footer-link.active {
+  color: #6bbc8a;
+}
+
 @media (max-width: 640px) {
   .site-footer {
     padding-left: 20px;
