@@ -24,4 +24,9 @@ Opening `index.html` directly in your browser (file:// protocol) will show sampl
 ## Features
 
 - **Home**: Mastodon feed from @Technotavern@masto.bg
-- **News**: Latest 5 articles from various news sites (auto-updated every 6 hours via GitHub Actions)
+- **News**: Latest articles from 9 curated news sources (auto-updated every 3 hours)
+- **Daily Top News**: AI-curated daily overview and top stories summary published at 18:30 Sofia time
+
+## Automated Jobs & Schedules
+
+Background cron jobs and Hermes agent tasks are documented in detail in [CRONS.md](./CRONS.md).
