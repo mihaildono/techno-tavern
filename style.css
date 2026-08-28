@@ -197,3 +197,61 @@ body {
     padding-right: 20px;
   }
 }
+
+/* Floating Donate Button */
+.floating-donate-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 999;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: rgba(26, 26, 26, 0.88);
+  color: #f0f0f0;
+  border: 1px solid #333;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+  transition: all 0.25s ease;
+}
+
+.floating-donate-btn svg {
+  width: 15px;
+  height: 15px;
+  fill: #ff4b72;
+  transition: transform 0.25s ease;
+  flex-shrink: 0;
+}
+
+.floating-donate-btn:hover {
+  background: #252525;
+  border-color: #ff4b72;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 75, 114, 0.25);
+}
+
+.floating-donate-btn:hover svg {
+  transform: scale(1.18);
+}
+
+@media (max-width: 640px) {
+  .floating-donate-btn {
+    bottom: 16px;
+    left: 16px;
+    padding: 8px 14px;
+    font-size: 12px;
+  }
+
+  .floating-donate-btn svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
