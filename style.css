@@ -151,7 +151,7 @@ body {
 
 .site-footer {
   width: 100%;
-  margin: 32px 0 24px;
+  margin: 32px 0 0;
   padding-top: 16px;
   border-top: 1px solid #333;
   display: flex;
@@ -198,17 +198,17 @@ body {
   }
 }
 
-/* Floating Donate Button */
+/* Floating Donate Button (Top-Left Pill) */
 .floating-donate-btn {
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   left: 20px;
   z-index: 999;
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 16px;
-  background: rgba(26, 26, 26, 0.88);
+  padding: 8px 14px;
+  background: rgba(26, 26, 26, 0.85);
   color: #f0f0f0;
   border: 1px solid #333;
   border-radius: 9999px;
@@ -217,7 +217,7 @@ body {
   text-decoration: none;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
   transition: all 0.25s ease;
 }
 
@@ -234,24 +234,25 @@ body {
   border-color: #ff4b72;
   color: #ffffff;
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 75, 114, 0.25);
+  box-shadow: 0 6px 18px rgba(255, 75, 114, 0.25);
 }
 
 .floating-donate-btn:hover svg {
-  transform: scale(1.18);
+  transform: scale(1.15);
 }
 
 @media (max-width: 640px) {
   .floating-donate-btn {
-    bottom: 16px;
+    top: 16px;
     left: 16px;
-    padding: 8px 14px;
+    padding: 6px 12px;
     font-size: 12px;
+    gap: 6px;
   }
 
   .floating-donate-btn svg {
-    width: 14px;
-    height: 14px;
+    width: 13px;
+    height: 13px;
   }
 }
 
