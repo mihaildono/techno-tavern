@@ -7,6 +7,10 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
 
+# Ensure node is on PATH even when cron is invoked with a minimal env
+# (node lives under /home/neuromancer/.hermes/node/bin in this setup)
+export PATH="/home/neuromancer/.hermes/node/bin:/home/neuromancer/.local/bin:$PATH"
+
 cd "$REPO_DIR"
 
 log() {
