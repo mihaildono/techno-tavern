@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # daily-top-news.sh — Pipeline for daily Bulgarian news summary in Techno Tavern
 # Usage:
-#   ./scripts/daily-top-news.sh prepare   # 1. Pull repo, fetch RSS, build news-digest.txt
+#   ./scripts/daily-top-news.sh prepare   # 1. Pull repo, fetch RSS, build news-digest.md
 #   ./scripts/daily-top-news.sh finish    # 2. Validate top-news.json, reset archive, commit & push
 #   ./scripts/daily-top-news.sh all       # Runs prepare, checks for top-news.json, and finishes
 
@@ -30,12 +30,12 @@ step_prepare() {
   log "Building compact news digest..."
   npm run news:digest
 
-  if [[ ! -s "news/data/news-digest.txt" ]]; then
-    log "❌ Error: news/data/news-digest.txt was not created or is empty."
+  if [[ ! -s "news/data/news-digest.md" ]]; then
+    log "❌ Error: news/data/news-digest.md was not created or is empty."
     exit 1
   fi
 
-  log "✅ news/data/news-digest.txt is ready for AI summarization."
+  log "✅ news/data/news-digest.md is ready for AI summarization."
 }
 
 step_finish() {
@@ -60,8 +60,8 @@ step_finish() {
   log "Resetting 24h archive window..."
   npm run news:reset
 
-  log "Cleaning up temporary news-digest.txt..."
-  rm -f news/data/news-digest.txt
+  log "Cleaning up temporary news-digest.md..."
+  rm -f news/data/news-digest.md
 
   log "Staging files..."
   git add news/data/top-news.json news/data/news-24h.json news/data/news.json
@@ -90,7 +90,7 @@ case "$CMD" in
     ;;
   all)
     step_prepare
-    log "ℹ️ Please run AI generation on news/data/news-digest.txt -> news/data/top-news.json, then run './scripts/daily-top-news.sh finish'"
+    log "ℹ️ Please run AI generation on news/data/news-digest.md -> news/data/top-news.json, then run './scripts/daily-top-news.sh finish'"
     ;;
   *)
     echo "Usage: $0 {prepare|finish|all}"

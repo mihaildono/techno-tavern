@@ -2,7 +2,7 @@
 
 // Daily top-news helper.
 //
-//   node news-daily.js digest   -> news-digest.txt  (compact AI input)
+//   node news-daily.js digest   -> news-digest.md  (compact AI input)
 //   node news-daily.js reset    -> clears news-24h.json for the next window
 //
 // The digest is deliberately tiny (one line per article) so the AI call stays
@@ -13,7 +13,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ARCHIVE_FILE = path.join(__dirname, "data", "news-24h.json");
-const DIGEST_FILE = path.join(__dirname, "data", "news-digest.txt");
+const DIGEST_FILE = path.join(__dirname, "data", "news-digest.md");
 const TOP_NEWS_FILE = path.join(__dirname, "data", "top-news.json");
 
 function readArchive() {
@@ -38,7 +38,7 @@ function digest() {
   }
 
   fs.writeFileSync(DIGEST_FILE, lines.join("\n") + "\n");
-  console.log(`✅ news-digest.txt — ${lines.length} articles`);
+  console.log(`✅ news-digest.md — ${lines.length} articles`);
 }
 
 function reset() {

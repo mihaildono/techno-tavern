@@ -42,7 +42,7 @@ This document details all scheduled background jobs and automated agent pipeline
 - **Scripts & Rules:**
   - Script: [`scripts/daily-top-news.sh`](./scripts/daily-top-news.sh)
   - Prompt Rules: [`prompts/daily-news-summary.md`](./prompts/daily-news-summary.md)
-  - Digest Input: `news/data/news-digest.txt`
+  - Digest Input: `news/data/news-digest.md`
   - Output Target: `news/data/top-news.json`
 
 ### Hermes Agent Task Configuration
@@ -55,7 +55,7 @@ Run the daily news summarization pipeline for Techno Tavern:
 1. In the repository directory (~/Personal/techno-tavern), run:
    ./scripts/daily-top-news.sh prepare
 
-2. Read `news/data/news-digest.txt` and the prompt instructions in `prompts/daily-news-summary.md`.
+2. Read `news/data/news-digest.md` and the prompt instructions in `prompts/daily-news-summary.md`.
 
 3. Group related stories, pick the top 3-5 key events, categorize them strictly into the predefined categories, and write the structured summary into `news/data/top-news.json`.
 
@@ -64,5 +64,5 @@ Run the daily news summarization pipeline for Techno Tavern:
 ```
 
 ### What `daily-top-news.sh` handles:
-- **`prepare`**: Pulls repo, fetches fresh RSS to close the 24h window, and compiles `news/data/news-digest.txt`.
+- **`prepare`**: Pulls repo, fetches fresh RSS to close the 24h window, and compiles `news/data/news-digest.md`.
 - **`finish`**: Validates the schema of `news/data/top-news.json`, clears the 24h archive window (`npm run news:reset`), removes temporary digest files, commits `[skip ci]`, and pushes to GitHub.

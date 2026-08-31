@@ -35,15 +35,15 @@ From the repository root (`~/Personal/techno-tavern`):
    npm run fetch-news
    npm run news:digest
    ```
-   *(This produces `news/data/news-digest.txt` with lines in `id|source|title` format)*
+   *(This produces `news/data/news-digest.md` with lines in `id|source|title` format)*
 
 3. **Generate summary:**
-   Read `news/data/news-digest.txt` and follow the **Task & Rules** below. Write the resulting JSON into `news/data/top-news.json`.
+   Read `news/data/news-digest.md` and follow the **Task & Rules** below. Write the resulting JSON into `news/data/top-news.json`.
 
 4. **Reset 24h archive window & clean up:**
    ```bash
    npm run news:reset
-   rm -f news/data/news-digest.txt
+   rm -f news/data/news-digest.md
    ```
 
 5. **Commit and Push:**
