@@ -1,9 +1,103 @@
 {
   "windowStart": "2026-08-30T15:32:46.629Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-31T00:01:29.037Z",
-  "totalItems": 79,
+  "lastUpdated": "2026-08-31T03:00:22.489Z",
+  "totalItems": 86,
   "items": [
+    {
+      "title": "Горски пожар е възникнал в района на Рилския манастир - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1p3M2Z4aWRkSDhfU21WRTdwSnJ3QWhEM05QalZIMGFrc1hqbXcwaXY3RnR3SG1XOGlMMVItRi1UaVMwOExONko1V3c5d3ZnMzdjTUVSd3FOVF9kYWwyWGlodE92N1B1QnZScFpCSFJjaHh5YXRNd1JMOEJYQ1YxcnpoalROOXFWejdJU3lTckROQm9nV3BsaFM4VXN3N05JVUk0SEtKdWNMdGtZV2Iw?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 14:49:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "\"Ситуацията е критична\": Американски сенатор зове за спешни санкции срещу Русия",
+      "link": "https://www.actualno.com/america/situacijata-e-kritichna-amerikanski-senator-zove-za-speshni-sankcii-sreshtu-rusija-news_2634219.html",
+      "pubDate": "2026-08-30 22:09:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/31/3b371c7741e0e23c8475575e516003af_2634219_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 31.08.26 - Защо шефът на ЦРУ отиде в Москва?",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-310826-zashto-shefyt-na-cru-otide-v-moskva-news_2634218.html",
+      "pubDate": "2026-08-30 21:58:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/31/ad0b9edd4f1f8abc045d6730b4e756f2_2634218_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "Класиране по асистенции в Първа лига 2026/27 - Сержиньо се изравни с лидерите (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/bgfootball/klasirane-po-asistencii-v-pyrva-liga-202627-serjinio-se-izravni-s-liderite-obnovena-news_2625727.html",
+      "pubDate": "2026-08-30 21:44:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/31/af2844c22e54343772de0c827304df00_2625727_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "Класиране на голмайсторите в Първа лига 2026/27 - Зварц излезе сам на върха (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-zvarc-izleze-sam-na-vyrha-obnovena-news_2625725.html",
+      "pubDate": "2026-08-30 21:39:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/31/e108cf82511fe6b7d67c9daf0d6c38da_2625725_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "Пълни резултати на всички мачове в Първа лига през сезон 2026/27 - безгрешни ЦСКА и Левски",
+      "link": "https://www.actualno.com/bgfootball/pylni-rezultati-na-vsichki-machove-v-pyrva-liga-prez-sezon-202627-bezgreshni-cska-i-levski-news_2618915.html",
+      "pubDate": "2026-08-30 21:33:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/8159753255a97500e8279b9aee30eb50_2618915_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
+    {
+      "title": "Отново грозни графити по влаковете. А когато ги взривят?",
+      "link": "https://frognews.bg/novini/otnovo-grozni-grafiti-vlakovete-kogato-vzrivyat.html",
+      "pubDate": "2026-08-30 21:13:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/73de8c9c3_1788124640_6a949de024736.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-08-31T03:00:22.489Z"
+    },
     {
       "title": "Нови областни координатори влязоха в ръководството на ГЕРБ - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjZmNHg5aXZYczVBX0RxYjcybGNYX1JpQnp1UnJmQXhxQkYzY3hYa2NQWjRuSV93Rzhfb3pHZGJIajFrTmp2WlRHQXk5aDJHYnc4QUF0dE0ybDc3bFBxMXVzTDNNTGYzSjNRN3Npc091QTJLTXhBVVhyaWEtc0dCWkpzMlRkTkdGdzZJa3pEanpaQnJ1V3JtNmE2S0cxdHVjZXd2N0FiOEJidw?oc=5",
