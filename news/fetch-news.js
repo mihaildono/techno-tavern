@@ -28,7 +28,7 @@ const RSS_SOURCES = [
   },
   {
     name: "Свободна точка",
-    url: "https://news.google.com/rss/search?q=site:svobodnatochka.bg&hl=bg&gl=BG&ceid=BG:bg",
+    url: "https://svobodnatochka.bg/feed/",
     color: "#FF9800", // Orange
     type: "direct",
   },
@@ -37,12 +37,6 @@ const RSS_SOURCES = [
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.mediapool.bg%2Frss%2F",
     color: "#00BCD4", // Teal
     type: "rss2json",
-  },
-  {
-    name: "Capital",
-    url: "https://news.google.com/rss/search?q=site:capital.bg&hl=bg&gl=BG&ceid=BG:bg",
-    color: "#4CAF50", // Green
-    type: "direct",
   },
   {
     name: "Actualno",
@@ -84,8 +78,9 @@ function fetchUrl(url, timeoutMs = 15000) {
       path: parsed.pathname + parsed.search,
       headers: {
         "User-Agent":
-          "Mozilla/5.0 (compatible; RSS-Reader/1.0; +https://technotavern.com)",
-        Accept: "application/rss+xml, application/xml, text/xml, */*",
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        Accept:
+          "text/html,application/xhtml+xml,application/xml;q=0.9,application/rss+xml,text/xml,*/*;q=0.8",
       },
     };
     const req = https
@@ -131,7 +126,8 @@ function parseRssXml(xml) {
     const mediaMatch =
       /media:content[^>]+url="([^"]+)"/.exec(block) ||
       /media:thumbnail[^>]+url="([^"]+)"/.exec(block) ||
-      /enclosure[^>]+url="([^"]+)"/.exec(block);
+      /enclosure[^>]+url="([^"]+)"/.exec(block) ||
+      /<img[^>]+src=["']([^"']+)["']/i.exec(block);
     const thumbnail = mediaMatch ? { link: mediaMatch[1] } : null;
     if (title && link) items.push({ title, link, pubDate, thumbnail });
   }
