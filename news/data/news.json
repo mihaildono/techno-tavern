@@ -81,16 +81,6 @@
       }
     },
     {
-      "title": "Състезател по водомоторен спорт пострада тежко след сблъсък в надпревара в Дунав - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGk5aTE4YmJDYjZQbHg1bExoUDlYeldJYm1reTRRTzlWQldkdHE1QXBhMUxlXzNFLTJKYm5xUks2Nk9PenlWOWUtWHZvQkxMdlNFZ3Q1ZEc2QXZ0ZUw1ZUhNcEgzS1RUWWVyZnRBTEl5SzhHLVp1RjUyZXpuc1g5aW15R2xRTVV5cDhjUTBJaEV1dTBpMDJ3R0NjZnBRTE5tRWpoYkNvcy10VjQ?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 16:12:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Горски пожар е възникнал в района на Рилския манастир - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1p3M2Z4aWRkSDhfU21WRTdwSnJ3QWhEM05QalZIMGFrc1hqbXcwaXY3RnR3SG1XOGlMMVItRi1UaVMwOExONko1V3c5d3ZnMzdjTUVSd3FOVF9kYWwyWGlodE92N1B1QnZScFpCSFJjaHh5YXRNd1JMOEJYQ1YxcnpoalROOXFWejdJU3lTckROQm9nV3BsaFM4VXN3N05JVUk0SEtKdWNMdGtZV2Iw?oc=5",
       "pubDate": "Sun, 30 Aug 2026 14:49:00 GMT",
@@ -111,6 +101,16 @@
       }
     },
     {
+      "title": "Състезател по водомоторен спорт пострада тежко след сблъсък в надпревара в Дунав - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGk5aTE4YmJDYjZQbHg1bExoUDlYeldJYm1reTRRTzlWQldkdHE1QXBhMUxlXzNFLTJKYm5xUks2Nk9PenlWOWUtWHZvQkxMdlNFZ3Q1ZEc2QXZ0ZUw1ZUhNcEgzS1RUWWVyZnRBTEl5SzhHLVp1RjUyZXpuc1g5aW15R2xRTVV5cDhjUTBJaEV1dTBpMDJ3R0NjZnBRTE5tRWpoYkNvcy10VjQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 16:12:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "Млада жена е убита в апартамент в София - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORl9oZXpJN0g3eWJuYTRpRXl3cXF6S0NPbzJ3YUw4bFhOdkVmYjFOel82SmJjN3F0UmdvblQtcVhldHNEdkZCZ3RyQUtvVUpaSjlsRVZGS3FucVVHU19EX05aNzF6ZmpLM2IzZzhiUGU3QjliczVSWnlqVkFMd0l4a2ZfZDJHS0ZDUjZnazd1VlFVYWhyMEJMSkVVbW8?oc=5",
       "pubDate": "Mon, 31 Aug 2026 06:03:00 GMT",
@@ -118,6 +118,40 @@
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Заглушител, Драгалевци, мафия. Какво пропускаме в тази история",
+      "link": "https://svobodnatochka.bg/video/zaglushitel-dragalevczi-mafiya-kakvo-propuskame-v-tazi-istoriya/",
+      "pubDate": "Mon, 31 Aug 2026 11:41:25 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Машина на 75. Роб Халфорд, чийто глас реже по-силно и по-точно от бръснач",
+      "link": "https://svobodnatochka.bg/chovek-na-denya/75-godini-mashina-rob-halford-chijto-glas-rezhe-po-tochno-i-po-silno-ot-brasnach/",
+      "pubDate": "Mon, 31 Aug 2026 11:22:44 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/08/jr9a8109-1024x683.jpg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Северна Македония и Ива Михайлова. Как катастрофа с един загинал стана повод за политически сблъсъци",
+      "link": "https://svobodnatochka.bg/istorii/severna-makedonija-iva-mihajlova-katastrofa-s-edin-zaginal/",
+      "pubDate": "Mon, 31 Aug 2026 11:06:19 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/08/snimka-na-balgarkata-iva-mihajlova-i-kolata-ot-koyato-e-oczelyala-sled-sblasaka.jpg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
@@ -131,42 +165,12 @@
       }
     },
     {
-      "title": "„Всичко ми стана я��но“. Те воюваха на страната на Русия срещу Украйна. После избягаха с лодка през Черно море",
+      "title": "„Всичко ми стана ясно“. Те воюваха на страната на Русия срещу Украйна. После избягаха с лодка през Черно море",
       "link": "https://svobodnatochka.bg/istorii/rusiya-ukrayna-voyna-izbyagali-cherno-more/",
       "pubDate": "Mon, 31 Aug 2026 05:17:10 +0000",
       "thumbnail": {
         "link": "https://svobodnatochka.bg/wp-content/uploads/2026/08/dd0f5a20-eea9-421f-1bc7-08decad58b60_cx9_cy41_cw82_w650_r1_s.jpg"
       },
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Три минути: Борисов сменя ръководството на ГЕРБ. Ферибот потъна край Кипър. Исландия не иска в ЕС",
-      "link": "https://svobodnatochka.bg/tri-minuti/tri-minuti-32/",
-      "pubDate": "Mon, 31 Aug 2026 01:43:41 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "„Дойдоха в селото и ѝ взеха проба“. Как Беларус събира ДНК на противници на режима на Лукашенко",
-      "link": "https://svobodnatochka.bg/istorii/belarus-dnk-protivniczi-rezhim-lukashenko/",
-      "pubDate": "Sun, 30 Aug 2026 15:35:54 +0000",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Тръмп обяви „историческа“ сделка за контрол над петрола на Венецуела. Какво знаем",
-      "link": "https://svobodnatochka.bg/novini/tramp-obyavi-istoricheska-sdelka-za-petrola-na-veneczuela/",
-      "pubDate": "Sun, 30 Aug 2026 13:01:46 +0000",
-      "thumbnail": null,
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
@@ -298,6 +302,16 @@
       }
     },
     {
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "pubDate": "2026-08-31 09:59:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "“I just chose words carefully”",
       "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
       "pubDate": "2026-08-30 22:49:48",
@@ -308,29 +322,9 @@
       }
     },
     {
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "pubDate": "2026-08-31 03:20:33",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "link": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "pubDate": "2026-08-28 16:43:11",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "link": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "pubDate": "2026-08-28 15:34:30",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "pubDate": "2026-08-31 07:49:18",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -341,6 +335,16 @@
       "title": "Creepy Crawlies",
       "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
       "pubDate": "2026-08-29 17:49:01",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "pubDate": "2026-08-31 03:20:33",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -408,9 +412,9 @@
       }
     },
     {
-      "title": "Kenya: Passengers stranded amid airport staff strike",
-      "link": "https://www.dw.com/en/kenya-passengers-stranded-amid-airport-staff-strike/a-78570644?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-31T09:03:00Z",
+      "title": "Italy extends Schengen suspension with Spain",
+      "link": "https://www.dw.com/en/italy-extends-schengen-suspension-with-spain/a-78573029?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:51:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -418,9 +422,9 @@
       }
     },
     {
-      "title": "Germany news: Police operation in Cologne after shots fired",
-      "link": "https://www.dw.com/en/germany-news-police-operation-in-cologne-after-shots-fired/live-78568957?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-31T08:02:00Z",
+      "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
+      "link": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:47:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -428,9 +432,9 @@
       }
     },
     {
-      "title": "Nepal flood: Death toll crosses 900, thousands still missing",
-      "link": "https://www.dw.com/en/nepal-flood-death-toll-crosses-900-thousands-still-missing/a-78568505?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-31T07:09:00Z",
+      "title": "Nepal floods: A major test for PM Balen&apos;s government",
+      "link": "https://www.dw.com/en/nepal-floods-a-major-test-for-pm-balen-s-government/a-78574227?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:34:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -438,9 +442,9 @@
       }
     },
     {
-      "title": "South Korea hands jail term to Unification Church leader",
-      "link": "https://www.dw.com/en/south-korea-hands-jail-term-to-unification-church-leader/a-78568345?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-31T06:31:00Z",
+      "title": "Niger: Failed coup exposes junta&apos;s weakness — and Russia&apos;s influence",
+      "link": "https://www.dw.com/en/niger-failed-coup-exposes-junta-s-weakness-and-russia-s-influence/a-78572278?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:32:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -448,9 +452,9 @@
       }
     },
     {
-      "title": "US: Deadly flash flood hits Grand Canyon",
-      "link": "https://www.dw.com/en/us-deadly-flash-flood-hits-grand-canyon/a-78568246?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-08-31T05:28:00Z",
+      "title": "Swiss police arrest man over deadly rave shooting",
+      "link": "https://www.dw.com/en/swiss-police-arrest-man-over-deadly-rave-shooting/a-78575110?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:23:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -458,5 +462,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-31T09:16:50.355Z"
+  "lastUpdated": "2026-08-31T12:00:21.291Z"
 }

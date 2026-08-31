@@ -1,9 +1,123 @@
 {
   "windowStart": "2026-08-30T15:32:46.629Z",
   "windowHours": 24,
-  "lastUpdated": "2026-08-31T09:16:50.356Z",
-  "totalItems": 107,
+  "lastUpdated": "2026-08-31T12:00:21.298Z",
+  "totalItems": 117,
   "items": [
+    {
+      "title": "Заглушител, Драгалевци, мафия. Какво пропускаме в тази история",
+      "link": "https://svobodnatochka.bg/video/zaglushitel-dragalevczi-mafiya-kakvo-propuskame-v-tazi-istoriya/",
+      "pubDate": "Mon, 31 Aug 2026 11:41:25 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Машина на 75. Роб Халфорд, чийто глас реже по-силно и по-точно от бръснач",
+      "link": "https://svobodnatochka.bg/chovek-na-denya/75-godini-mashina-rob-halford-chijto-glas-rezhe-po-tochno-i-po-silno-ot-brasnach/",
+      "pubDate": "Mon, 31 Aug 2026 11:22:44 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/08/jr9a8109-1024x683.jpg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Северна Македония и Ива Михайлова. Как катастрофа с един загинал стана повод за политически сблъсъци",
+      "link": "https://svobodnatochka.bg/istorii/severna-makedonija-iva-mihajlova-katastrofa-s-edin-zaginal/",
+      "pubDate": "Mon, 31 Aug 2026 11:06:19 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/08/snimka-na-balgarkata-iva-mihajlova-i-kolata-ot-koyato-e-oczelyala-sled-sblasaka.jpg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "pubDate": "2026-08-31 09:59:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "pubDate": "2026-08-31 07:49:18",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Italy extends Schengen suspension with Spain",
+      "link": "https://www.dw.com/en/italy-extends-schengen-suspension-with-spain/a-78573029?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
+      "link": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:47:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Nepal floods: A major test for PM Balen&apos;s government",
+      "link": "https://www.dw.com/en/nepal-floods-a-major-test-for-pm-balen-s-government/a-78574227?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:34:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Niger: Failed coup exposes junta&apos;s weakness — and Russia&apos;s influence",
+      "link": "https://www.dw.com/en/niger-failed-coup-exposes-junta-s-weakness-and-russia-s-influence/a-78572278?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:32:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
+    {
+      "title": "Swiss police arrest man over deadly rave shooting",
+      "link": "https://www.dw.com/en/swiss-police-arrest-man-over-deadly-rave-shooting/a-78575110?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-08-31T11:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-08-31T12:00:21.298Z"
+    },
     {
       "title": "От Ормузкия проток до Йордания. САЩ и Иран си размениха удари за пръв път от месец",
       "link": "https://svobodnatochka.bg/novini/sasth-i-i/",
