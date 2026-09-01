@@ -1,9 +1,148 @@
 {
   "windowStart": "2026-09-01T15:33:45.540Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-01T21:00:20.288Z",
-  "totalItems": 63,
+  "lastUpdated": "2026-09-01T21:01:46.067Z",
+  "totalItems": 73,
   "items": [
+    {
+      "title": "Тръмп пак заплашва: От Иран ще остане много малко",
+      "link": "https://offnews.bg/sviat/tramp-pak-zaplashva-ot-iran-shte-ostane-mnogo-malko-873902.html",
+      "pubDate": "2026-09-01 18:48:26",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/01/873902/php0dnokk_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 4503
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Скоро Тръмп може да се срещне и с Путин, и със Си Цзинпин",
+      "link": "https://offnews.bg/sviat/skoro-tramp-mozhe-da-se-sreshtne-i-s-putin-i-sas-si-tczinpin-873901.html",
+      "pubDate": "2026-09-01 18:11:56",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/01/873901/phpprf78u_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 8543
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Зеленски предупреди авиокомпаниите в Русия, че небето й е опасно",
+      "link": "https://www.mediapool.bg/zelenski-predupredi-aviokompaniite-v-rusiya-che-nebeto-y-e-opasno-news387109.html",
+      "pubDate": "2026-09-01 19:50:12",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_96e652bca9c0d88c932f00704800ebf8.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Михайло Федоров основа отбранителна компания, избра ключов мениджър за пръв инвеститор (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/mihajlo-fedorov-osnova-otbranitelna-kompanija-izbra-kluchov-menidjyr-za-pryv-investitor-video-news_2634980.html",
+      "pubDate": "2026-09-01 20:45:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/2beae2485a6e9cc4edd2e09121e83f78_2634980_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Прогноза за времето - 2 септември 2026 г. (сряда)",
+      "link": "https://www.actualno.com/society/prognoza-za-vremeto-2-septemvri-2026-g-srjada-news_2634975.html",
+      "pubDate": "2026-09-01 20:17:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/3fb966f2a9ca62de5a2788dd6b5cf88d_2634975_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Радар за икономика: Най-важните новини на 1 септември 2026 г.",
+      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-1-septemvri-2026-g-news_2634892.html",
+      "pubDate": "2026-09-01 20:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/25667cd141d55721d10dccab75706bf5_2634892_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Вицепремиерът Александър Пулев: Стара Загора има потенциала да бъде индустриалното сърце на България",
+      "link": "https://www.actualno.com/economy/vicepremieryt-aleksandyr-pulev-stara-zagora-ima-potenciala-da-byde-industrialnoto-syrce-na-bylgarija-news_2634973.html",
+      "pubDate": "2026-09-01 19:48:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/1efd3341df258ad720c5be1f6602f5e9_2634973_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Зеленски с предупреждение: Руското въздушно пространство на практика ще бъде затворено (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/zelenski-s-preduprejdenie-ruskoto-vyzdushno-prostranstvo-na-praktika-shte-byde-zatvoreno-video-news_2634971.html",
+      "pubDate": "2026-09-01 19:32:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/0ae32048bf59dce62a1c3a7690c74513_2634971_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "Испания налива милиони в Сеута заради мигрантската криза",
+      "link": "https://frognews.bg/novini/ispaniya-naliva-milioni-seuta-zaradi-migrantskata-kriza.html",
+      "pubDate": "2026-09-01 18:37:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/db49286b5_1788288236_6a971cec5d93e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
+    {
+      "title": "САЩ нанесоха нова серия от удари срещу Иран покрай Ормузкия проток",
+      "link": "https://frognews.bg/novini/sasht-nanesoha-nova-seriia-udari-sreshtu-iran-pokrai-ormuzkiia-protok.html",
+      "pubDate": "2026-09-01 18:33:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/600/204b29850_1788287754_6a971b0a749f3.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-01T21:01:46.067Z"
+    },
     {
       "title": "Пожар изпепели складове и камиони в Свищов",
       "link": "https://offnews.bg/112/pozhar-izpepeli-skladove-i-kamioni-v-svishtov-873900.html",
