@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "48-годишен лекар с инсулт бе транспортиран с медикоптер до София",
+      "link": "https://offnews.bg/zdrave/48-godishen-lekar-s-insult-be-transportiran-s-medikopter-do-sofia-873979.html",
+      "pubDate": "2026-09-02 18:41:20",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/02/873979/php387bcg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4643
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Кандев: Не мога да бъда прибран в кабинета си и да подписвам пощата си, а зад гърба ми да сменят хора",
       "link": "https://offnews.bg/112/kandev-ne-moga-da-bada-pribran-v-kabineta-si-i-da-podpisvam-poshtata-873978.html",
       "pubDate": "2026-09-02 18:00:19",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873978/phpwvtxyl_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/02/873978/phpwvtxyl_559x345.jpg",
         "type": "image/jpeg",
         "length": 4952
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/sviat/vsu-prizemi-ruski-mig-29-i-helikopter-873977.html",
       "pubDate": "2026-09-02 17:32:03",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873977/phpwe0wp2_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/02/873977/phpwe0wp2_559x345.jpg",
         "type": "image/jpeg",
         "length": 3802
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/sviat/tramp-krasti-ormuzkia-protok-na-svoe-ime-873976.html",
       "pubDate": "2026-09-02 16:18:18",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873976/phpufszdz_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/02/873976/phpufszdz_559x345.jpg",
         "type": "image/jpeg",
         "length": 5895
       },
@@ -47,23 +61,9 @@
       "link": "https://offnews.bg/sviat/da-ostanat-li-v-odesa-pametnitcite-na-pushkin-i%C2%A0ekaterina-ii-spor-za-873952.html",
       "pubDate": "2026-09-02 16:13:29",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873952/phpzq2toy_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/02/873952/phpzq2toy_559x345.jpg",
         "type": "image/jpeg",
         "length": 5988
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Доц. Ангел Кунчев vs здравния министър: Реформи се правят с обществена подкрепа, не с медийни димки и нападки",
-      "link": "https://offnews.bg/zdrave/dotc-angel-kunchev-vs-zdravnia-ministar-reformi-se-praviat-s-obshtes-873975.html",
-      "pubDate": "2026-09-02 15:52:19",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873975/phpyjiuhy_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 6655
       },
       "source": {
         "name": "OffNews",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "title": "DARA се разделя с \"Вирджиния рекър��с\" - Dnevnik.bg",
+      "title": "DARA се разделя с \"Вирджиния рекърдс\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzliWUlzMEZyQVZnUDRtazRpSGFQOXppUUJtRzdwc200cHFpUjNtN2ZUQlFCVlI3QlZqUktJeFhqWlFzZmF2ZlB4WFRfYURHTld1dGV6djBZT2RQc2VFY19jazFSUHFEYWw5Y2FtV0lSVkdEWVg5cG5nX2xfdk9qU0I3TzJyaFlnSVR6b1dDdkZ6MG1rTENXYw?oc=5",
       "pubDate": "Tue, 01 Sep 2026 18:11:00 GMT",
       "thumbnail": null,
@@ -151,7 +151,7 @@
       }
     },
     {
-      "title": "Иран обвини САЩ за удар, при който са убити хора на сватбено тържество. Изстреля дронове срещу Йордания, Кувейт, Ирак и Бахрейн",
+      "title": "Иран обвини САЩ за удар, при който са убити хора на сватбено тържество. Изстреля дронове срещу ��ордания, Кувейт, Ирак и Бахрейн",
       "link": "https://svobodnatochka.bg/novini/iran-bazi-na-sasth-amerikanski-udar-ubiti-svatbeno-tarzhestvo/",
       "pubDate": "Wed, 02 Sep 2026 08:46:00 +0000",
       "thumbnail": null,
@@ -231,11 +231,11 @@
       }
     },
     {
-      "title": "Велислава Петрова: ЕС трябва да укрепва ролята си на силен геополитически играч",
-      "link": "https://www.actualno.com/europe/velislava-petrova-es-trjabva-da-ukrepva-roljata-si-na-silen-geopoliticheski-igrach-news_2635372.html",
-      "pubDate": "2026-09-02 17:52:00",
+      "title": "Официално: ЦСКА привлече бивш защитник на Лудогорец и Локомотив Пловдив",
+      "link": "https://www.actualno.com/bgfootball/oficialno-cska-privleche-bivsh-zashtitnik-na-ludogorec-i-lokomotiv-plovdiv-news_2635404.html",
+      "pubDate": "2026-09-02 20:39:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/1be5b85aa299e4b69cd7a5adcbe012ff_2635372_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/9f1f9eafaf59470d2ca6ae0259920772_2635404_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -244,11 +244,11 @@
       }
     },
     {
-      "title": "Родният вицешампион с изненадваща раздяла и нов нападател",
-      "link": "https://www.actualno.com/bgfootball/rodnijat-viceshampion-s-iznenadvashta-razdjala-i-nov-napadatel-news_2635367.html",
-      "pubDate": "2026-09-02 17:38:00",
+      "title": "ЦИК определи възнагражденията на членовете на РИК и СИК за изборите на 25 октомври",
+      "link": "https://www.actualno.com/politics/cik-opredeli-vyznagrajdenijata-na-chlenovete-na-rik-i-sik-za-izborite-na-25-oktomvri-news_2635402.html",
+      "pubDate": "2026-09-02 20:28:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/9838a6681c43732e4a0f47f12a6115b0_2635367_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/bc343acdbbc84cd3cfaa31f5435d2cbe_2635402_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -257,11 +257,11 @@
       }
     },
     {
-      "title": "4 часа в денонощието и то не наведнъж: Срокът да зареждаш бензин и дизел в Крим",
-      "link": "https://www.actualno.com/europe/4-chasa-v-denonoshtieto-i-to-ne-navednyj-srokyt-da-zarejdash-benzin-i-dizel-v-krim-news_2635364.html",
-      "pubDate": "2026-09-02 17:33:00",
+      "title": "Даниел Боримиров: \"Бях убеден, че Левски ще обърне мача, от вас чувам за румънеца\"",
+      "link": "https://www.actualno.com/bgfootball/daniel-borimirov-bjah-ubeden-che-levski-shte-obyrne-macha-ot-vas-chuvam-za-rumyneca-news_2635399.html",
+      "pubDate": "2026-09-02 20:16:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/d162014861d83c0eca3e7f9cdd0d26a8_2635364_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/ed53d54bc4ec18bce1161615181fdb17_2635399_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -270,11 +270,11 @@
       }
     },
     {
-      "title": "На фона на напрежението с Русия: Германия изпробва мощна балистична ракета (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/na-fona-na-naprejenieto-s-rusija-germanija-izprobva-moshtna-balistichna-raketa-video-news_2635363.html",
-      "pubDate": "2026-09-02 17:24:00",
+      "title": "След 250 дни в морето: Американският самолетоносач \"Ейбрахам Линкълн\" акостира в Тайланд",
+      "link": "https://www.actualno.com/america/sled-250-dni-v-moreto-amerikanskijat-samoletonosach-ejbraham-linkyln-akostira-v-tajland-news_2635401.html",
+      "pubDate": "2026-09-02 20:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/19a2d7fe4ba89f7d43cb72d500f08f51_2635363_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/c51a6b2a2738736400eb53d64e7f3b29_2635401_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -283,11 +283,11 @@
       }
     },
     {
-      "title": "Противник на Левски в Лига Европа спечели битката за едно от най-атрактивните имена в Европа",
-      "link": "https://www.actualno.com/football/protivnik-na-levski-v-liga-evropa-specheli-bitkata-za-edno-ot-naj-atraktivnite-imena-v-evropa-news_2635358.html",
-      "pubDate": "2026-09-02 17:08:00",
+      "title": "Пълно класиране в Първа лига 2026/27 - Левски оглавява родния елит",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-levski-oglavjava-rodnija-elit-news_2618889.html",
+      "pubDate": "2026-09-02 20:05:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/edf8baa3db7186aa228ea081065cc544_2635358_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -446,5 +446,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-02T21:00:18.756Z"
+  "lastUpdated": "2026-09-02T21:01:10.323Z"
 }
