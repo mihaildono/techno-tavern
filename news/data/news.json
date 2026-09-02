@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "title": "Зеленски предупреди авиокомпаниите: Руското небе става опасно",
+      "link": "https://offnews.bg/sviat/zelenski-predupredi-aviokompaniite-ruskoto-nebe-stava-opasno-873903.html",
+      "pubDate": "2026-09-01 21:12:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/02/873903/phposjc2z_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4961
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Тръмп пак заплашва: От Иран ще остане много малко",
       "link": "https://offnews.bg/sviat/tramp-pak-zaplashva-ot-iran-shte-ostane-mnogo-malko-873902.html",
       "pubDate": "2026-09-01 18:48:26",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873902/php0dnokk_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/01/873902/php0dnokk_559x345.jpg",
         "type": "image/jpeg",
         "length": 4503
       },
@@ -19,7 +33,7 @@
       "link": "https://offnews.bg/sviat/skoro-tramp-mozhe-da-se-sreshtne-i-s-putin-i-sas-si-tczinpin-873901.html",
       "pubDate": "2026-09-01 18:11:56",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873901/phpprf78u_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/01/873901/phpprf78u_559x345.jpg",
         "type": "image/jpeg",
         "length": 8543
       },
@@ -33,7 +47,7 @@
       "link": "https://offnews.bg/112/pozhar-izpepeli-skladove-i-kamioni-v-svishtov-873900.html",
       "pubDate": "2026-09-01 17:37:29",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873900/phpx0d7ag_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/01/873900/phpx0d7ag_559x345.jpg",
         "type": "image/jpeg",
         "length": 8096
       },
@@ -47,7 +61,7 @@
       "link": "https://offnews.bg/sviat/ispania-prashta-nad-300-miliona-evro-pomosht-za-seuta-873899.html",
       "pubDate": "2026-09-01 17:23:31",
       "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873899/phpnancfj_152x158.jpg",
+        "link": "https://i2.offnews.bg/events/2026/09/01/873899/phpnancfj_559x345.jpg",
         "type": "image/jpeg",
         "length": 8688
       },
@@ -57,21 +71,17 @@
       }
     },
     {
-      "title": "САЩ отново нанасят удари в Иран",
-      "link": "https://offnews.bg/sviat/sasht-otnovo-nanasiat-udari-v-iran-873898.html",
-      "pubDate": "2026-09-01 17:07:44",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873898/php1bh4lu_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 8748
-      },
+      "title": "DARA се разделя с \"Вирджиния рекърдс\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzliWUlzMEZyQVZnUDRtazRpSGFQOXppUUJtRzdwc200cHFpUjNtN2ZUQlFCVlI3QlZqUktJeFhqWlFzZmF2ZlB4WFRfYURHTld1dGV6djBZT2RQc2VFY19jazFSUHFEYWw5Y2FtV0lSVkdEWVg5cG5nX2xfdk9qU0I3TzJyaFlnSVR6b1dDdkZ6MG1rTENXYw?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 18:11:00 GMT",
+      "thumbnail": null,
       "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
-      "title": "Тръмп обяви \"най-голяма петролна сделка в историята\" – тя е кошмар за инвеститорите - Dnevnik.bg",
+      "title": "Тръмп обяви \"най-голяма петр��лна сделка в историята\" – тя е кошмар за инвеститорите - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWstTDVoV3dySUoweVlEV2U1UkQ4b0N6TTZqQjFlRDdBWW1WYm0wWGFOdmlJbTkwakpSTmVjVzJTNmRkamRsVld5S1hhSXBfRVUxaVdFeHNZTmpVS0hmZGVvbXBlZG5JOEt3TlU2UjVvNWVtQTZfZHlPSndOdDBRRUNyMzVIWEZBTm5TMHRMQm1CbWFWTjY0S3NZNkotWXM?oc=5",
       "pubDate": "Tue, 01 Sep 2026 03:22:00 GMT",
       "thumbnail": null,
@@ -104,16 +114,6 @@
       "title": "Букмейкърът 8888 е новият генерален спонсор на \"Левски\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnd1b3djVldlM0FoZDZaV0tON3VzekkwbmNUY1ladzVxeC10QlhiSGc3TDBuUWRvUjM5c2JsYnZyRzE1SnQxcHJlT1pCd3EyU3hueHdOamlJZ0Q1dkNtUzZSVnVCTi02TS1CcXB0X3NIWm9oVTRBdWhnSjlWS1EwalF6dE52LWVYMU1xVzBKNE5QbjF6SzliYTBwUkZWQ0lKdlBPTm9qRTQzSU9FNnc?oc=5",
       "pubDate": "Tue, 01 Sep 2026 08:37:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "\"Не мога просто да гледам страшно в камерите\": кой е кандидатът за вицепрезидент Георги Кандев - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0VLdklxUTNoNWRHQnlqNmVKUnY3NzFKZHJJWjBFdTk3Q2dSSUh6cVFLWWg4R3RGWU83YnFHZjdaU1daanNkcmYzd1VRb2czX1l2dTB5OG1IblZjUnlLRXFmQm9RWHpmSVpERGRjVml0QVVBbXhjTkxSejh5SWRZenktNFBYQWhnOExlZ2d6MGZ1YXIyUHNScjhnRHVPdTZkQUxIbQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 09:36:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,11 +231,11 @@
       }
     },
     {
-      "title": "Михайло Федоров основа отбранителна компания, избра ключов мениджър за пръв инвеститор (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/mihajlo-fedorov-osnova-otbranitelna-kompanija-izbra-kluchov-menidjyr-za-pryv-investitor-video-news_2634980.html",
-      "pubDate": "2026-09-01 20:45:00",
+      "title": "Илон Мъск: До 10 години в света ще има повече от милиард хуманоидни роботи (ВИДЕО)",
+      "link": "https://www.actualno.com/sciencelogy/ilon-mysk-do-10-godini-v-sveta-shte-ima-poveche-ot-miliard-humanoidni-roboti-video-news_2634991.html",
+      "pubDate": "2026-09-01 23:02:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/2beae2485a6e9cc4edd2e09121e83f78_2634980_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/da653733db57910c6127950265d7799c_2634991_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -244,11 +244,11 @@
       }
     },
     {
-      "title": "Прогноза за времето - 2 септември 2026 г. (сряда)",
-      "link": "https://www.actualno.com/society/prognoza-za-vremeto-2-septemvri-2026-g-srjada-news_2634975.html",
-      "pubDate": "2026-09-01 20:17:00",
+      "title": "Нова ескалация в Близкия изток: САЩ и Иран отново си разменят удари (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/nova-eskalacija-v-blizkija-iztok-sasht-i-iran-otnovo-si-razmenjat-udari-video-news_2634989.html",
+      "pubDate": "2026-09-01 22:52:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/3fb966f2a9ca62de5a2788dd6b5cf88d_2634975_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/30129e7df525e38689af99febc40ebd6_2634989_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -257,11 +257,11 @@
       }
     },
     {
-      "title": "Радар за икономика: Най-важните новини на 1 септември 2026 г.",
-      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-1-septemvri-2026-g-news_2634892.html",
-      "pubDate": "2026-09-01 20:00:00",
+      "title": "\"Държавен тероризъм\": Путин отговори на предупрежденията на Зеленски, отрече да готви нова мобилизация (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/dyrjaven-terorizym-putin-otgovori-na-preduprejdenijata-na-zelenski-otreche-da-gotvi-nova-mobilizacija-video-news_2634987.html",
+      "pubDate": "2026-09-01 22:25:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/25667cd141d55721d10dccab75706bf5_2634892_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/be28dc6e6820be8f98066ac336540368_2634987_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -270,11 +270,11 @@
       }
     },
     {
-      "title": "Вицепремиерът Александър Пулев: Стара Загора има потенциала да бъде индустриалното сърце на България",
-      "link": "https://www.actualno.com/economy/vicepremieryt-aleksandyr-pulev-stara-zagora-ima-potenciala-da-byde-industrialnoto-syrce-na-bylgarija-news_2634973.html",
-      "pubDate": "2026-09-01 19:48:00",
+      "title": "Възможно е скоро да има тристранна среща между Путин, Тръмп и Си Цзинпин",
+      "link": "https://www.actualno.com/europe/vyzmojno-e-skoro-da-ima-tristranna-sreshta-mejdu-putin-trymp-i-si-czinpin-news_2634990.html",
+      "pubDate": "2026-09-01 21:50:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/1efd3341df258ad720c5be1f6602f5e9_2634973_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/cc495847b7c8feda54d9fc4ea0069e20_2634990_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -283,11 +283,11 @@
       }
     },
     {
-      "title": "Зеленски с предупреждение: Руското въздушно пространство на практика ще бъде затворено (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/zelenski-s-preduprejdenie-ruskoto-vyzdushno-prostranstvo-na-praktika-shte-byde-zatvoreno-video-news_2634971.html",
-      "pubDate": "2026-09-01 19:32:00",
+      "title": "След атаката с дрон в Лайпциг: Френският президент Макрон заяви, че подкрепя нови санкции срещу Русия",
+      "link": "https://www.actualno.com/europe/sled-atakata-s-dron-v-lajpcig-frenskijat-prezident-makron-zajavi-che-podkrepja-novi-sankcii-sreshtu-rusija-news_2634984.html",
+      "pubDate": "2026-09-01 21:30:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/0ae32048bf59dce62a1c3a7690c74513_2634971_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/7b2d386c763fb726b190ec4460f491f0_2634984_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -349,9 +349,7 @@
       "title": "Испания налива милиони в Сеута заради мигрантската криза",
       "link": "https://frognews.bg/novini/ispaniya-naliva-milioni-seuta-zaradi-migrantskata-kriza.html",
       "pubDate": "2026-09-01 18:37:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/db49286b5_1788288236_6a971cec5d93e.webp"
-      },
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -361,9 +359,7 @@
       "title": "САЩ нанесоха нова серия от удари срещу Иран покрай Ормузкия проток",
       "link": "https://frognews.bg/novini/sasht-nanesoha-nova-seriia-udari-sreshtu-iran-pokrai-ormuzkiia-protok.html",
       "pubDate": "2026-09-01 18:33:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/204b29850_1788287754_6a971b0a749f3.webp"
-      },
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -373,9 +369,7 @@
       "title": "ЕС с нови санкции срещу Русия заради дрона в Германия",
       "link": "https://frognews.bg/novini/novi-sanktsii-sreshtu-rusiya-zaradi-drona-germaniya.html",
       "pubDate": "2026-09-01 17:42:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/5dfa0e696_1788284619_6a970ecba4e1c.webp"
-      },
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -385,9 +379,7 @@
       "title": "Строги мерки около огнището на шарка по животните в Ямболско",
       "link": "https://frognews.bg/novini/strogi-merki-okolo-ognishteto-sharka-zhivotnite-yambolsko.html",
       "pubDate": "2026-09-01 16:57:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/9e239eb76_1788282034_6a9704b2038bd.webp"
-      },
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -397,18 +389,16 @@
       "title": "Германия официално обвини Русия за атаката с дрон на летището в Лайпциг",
       "link": "https://frognews.bg/novini/germaniia-ofitsialno-obvini-rusiia-atakata-dron-letishteto-laiptsig.html",
       "pubDate": "2026-09-01 16:41:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/8bc8c7586_1788280970_6a97008af1263.webp"
-      },
+      "thumbnail": null,
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
       }
     },
     {
-      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-01T22:55:00Z",
+      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
+      "link": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T02:30:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -418,7 +408,27 @@
     {
       "title": "Iran war: US, Tehran trade fire in new flare-up",
       "link": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-01T20:57:00Z",
+      "pubDate": "2026-09-02T01:29:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Ukraine: Russia threatens &apos;devastating&apos; Baltic response",
+      "link": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T00:08:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+      "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-01T22:56:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -434,27 +444,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Congo&apos;s Ebola caseload tops 6,000 as concerns grow",
-      "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-01T18:02:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany terminates lease for Berlin&apos;s Russian House",
-      "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-01T16:16:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-02T00:01:53.582Z"
+  "lastUpdated": "2026-09-02T03:00:19.900Z"
 }

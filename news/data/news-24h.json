@@ -1,9 +1,116 @@
 {
   "windowStart": "2026-09-01T15:33:45.540Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-02T00:01:53.588Z",
-  "totalItems": 79,
+  "lastUpdated": "2026-09-02T03:00:19.906Z",
+  "totalItems": 87,
   "items": [
+    {
+      "title": "Зеленски предупреди авиокомпаниите: Руското небе става опасно",
+      "link": "https://offnews.bg/sviat/zelenski-predupredi-aviokompaniite-ruskoto-nebe-stava-opasno-873903.html",
+      "pubDate": "2026-09-01 21:12:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/02/873903/phposjc2z_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4961
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "Илон Мъск: До 10 години в света ще има повече от милиард хуманоидни роботи (ВИДЕО)",
+      "link": "https://www.actualno.com/sciencelogy/ilon-mysk-do-10-godini-v-sveta-shte-ima-poveche-ot-miliard-humanoidni-roboti-video-news_2634991.html",
+      "pubDate": "2026-09-01 23:02:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/da653733db57910c6127950265d7799c_2634991_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "Нова ескалация в Близкия изток: САЩ и Иран отново си разменят удари (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/nova-eskalacija-v-blizkija-iztok-sasht-i-iran-otnovo-si-razmenjat-udari-video-news_2634989.html",
+      "pubDate": "2026-09-01 22:52:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/30129e7df525e38689af99febc40ebd6_2634989_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "\"Държавен тероризъм\": Путин отговори на предупрежденията на Зеленски, отрече да готви нова мобилизация (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/dyrjaven-terorizym-putin-otgovori-na-preduprejdenijata-na-zelenski-otreche-da-gotvi-nova-mobilizacija-video-news_2634987.html",
+      "pubDate": "2026-09-01 22:25:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/be28dc6e6820be8f98066ac336540368_2634987_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "Възможно е скоро да има тристранна среща между Путин, Тръмп и Си Цзинпин",
+      "link": "https://www.actualno.com/europe/vyzmojno-e-skoro-da-ima-tristranna-sreshta-mejdu-putin-trymp-i-si-czinpin-news_2634990.html",
+      "pubDate": "2026-09-01 21:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/cc495847b7c8feda54d9fc4ea0069e20_2634990_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "След атаката с дрон в Лайпциг: Френският президент Макрон заяви, че подкрепя нови санкции срещу Русия",
+      "link": "https://www.actualno.com/europe/sled-atakata-s-dron-v-lajpcig-frenskijat-prezident-makron-zajavi-che-podkrepja-novi-sankcii-sreshtu-rusija-news_2634984.html",
+      "pubDate": "2026-09-01 21:30:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/7b2d386c763fb726b190ec4460f491f0_2634984_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
+      "link": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T02:30:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
+    {
+      "title": "Ukraine: Russia threatens &apos;devastating&apos; Baltic response",
+      "link": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T00:08:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T03:00:19.906Z"
+    },
     {
       "title": "\"Не мога просто да гледам страшно в камерите\": кой е кандидатът за вицепрезидент Георги Кандев - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0VLdklxUTNoNWRHQnlqNmVKUnY3NzFKZHJJWjBFdTk3Q2dSSUh6cVFLWWg4R3RGWU83YnFHZjdaU1daanNkcmYzd1VRb2czX1l2dTB5OG1IblZjUnlLRXFmQm9RWHpmSVpERGRjVml0QVVBbXhjTkxSejh5SWRZenktNFBYQWhnOExlZ2d6MGZ1YXIyUHNScjhnRHVPdTZkQUxIbQ?oc=5",
