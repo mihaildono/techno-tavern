@@ -1,9 +1,141 @@
 {
   "windowStart": "2026-09-01T15:33:45.540Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-02T15:01:28.783Z",
-  "totalItems": 156,
+  "lastUpdated": "2026-09-02T18:00:17.345Z",
+  "totalItems": 168,
   "items": [
+    {
+      "title": "София купува 42 автобуса втора ръка - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHFWSkxud0JVbEFwMHNVUW5CX0dFM2NkSDVKdWtpcEp6WGowNVFLX0Z5eE9sTTNlVURkOEhOQkU0WWk3VEFaQnJHazFNMnFHRWtETFNLcDlkUE1VeTdXTGMzX0hTQ0hBR25FRnNfNnhIN251d21QanktQVRsVDh2QVJQbmI2Vzh4LVhBRG1rajNwWm9SUXFB?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 12:33:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "pubDate": "2026-09-02 15:12:40",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "A Note from LWN",
+      "link": "https://lwn.net/Articles/1090585/",
+      "pubDate": "2026-09-02 13:17:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "pubDate": "2026-09-02 12:30:39",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "link": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "pubDate": "2026-09-02 13:40:29",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "link": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "pubDate": "2026-09-02 14:00:28",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Berlin&apos;s punitive measures unlikely to deter Putin: experts",
+      "link": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T17:37:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Unity at last: Is Libya&apos;s damaging power struggle at an end?",
+      "link": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T17:35:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Germany: How to woo voters with an immigrant background",
+      "link": "https://www.dw.com/en/germany-how-to-woo-voters-with-an-immigrant-background/a-78790775?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T16:03:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Macron visits Bayeux Tapestry with King Charles, PM Andy Burnham",
+      "link": "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T16:00:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Russia&apos;s hybrid attacks on Germany: When is it &apos;war?&apos;",
+      "link": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T15:30:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T18:00:17.345Z"
+    },
+    {
+      "title": "Austria women ice hockey team fight for future generations",
+      "link": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T15:21:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-02T15:31:04.358Z"
+    },
     {
       "title": "Жп движението край Струмяни е възстановено, влаковете ще минават с 15 км/ч",
       "link": "https://frognews.bg/novini/zhp-dvizhenieto-kray-strumyani-vazstanoveno-vlakovete-shte-minavat-15.html",
