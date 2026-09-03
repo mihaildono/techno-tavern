@@ -1,9 +1,119 @@
 {
   "windowStart": "2026-09-01T15:33:45.540Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-02T21:01:10.330Z",
-  "totalItems": 132,
+  "lastUpdated": "2026-09-03T00:00:28.318Z",
+  "totalItems": 126,
   "items": [
+    {
+      "title": "DARA се разделя с \"Вирджиния рекърдс\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzliWUlzMEZyQVZnUDRtazRpSGFQOXppUUJtRzdwc200cHFpUjNtN2ZUQlFCVlI3QlZqUktJeFhqWlFzZmF2ZlB4WFRfYURHTld1dGV6djBZT2RQc2VFY19jazFSUHFEYWw5Y2FtV0lSVkdEWVg5cG5nX2xfdk9qU0I3TzJyaFlnSVR6b1dDdkZ6MG1rTENXYw?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 18:11:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "pubDate": "2026-09-02 19:35:04",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "pubDate": "2026-09-02 14:46:16",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "pubDate": "2026-09-02 23:08:47",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "link": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "pubDate": "2026-08-31 12:01:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Оправдаха малтийски магнат по делото за убийството на журналистката Дафне Каруана Галиция",
+      "link": "https://frognews.bg/novini/opravdaha-maltiiski-magnat-deloto-ubiistvoto-jurnalistkata-dafne-karuana-galitsiia.html",
+      "pubDate": "2026-09-02 18:50:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Пясък във водопровода в Перник – част от града остава без вода",
+      "link": "https://frognews.bg/novini/piasak-vav-vodoprovoda-pernik--chast-grada-ostava-bez-voda.html",
+      "pubDate": "2026-09-02 18:25:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "От България до Франция: Климатът обърква ядрените планове на Европа",
+      "link": "https://frognews.bg/novini/balgariia-frantsiia-klimatat-obarkva-iadrenite-planove-evropa.html",
+      "pubDate": "2026-09-02 18:05:00",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Spain: Tens of thousands rally over Ceuta crisis",
+      "link": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T23:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
+    {
+      "title": "Malta: Businessman acquitted of journalist&apos;s murder",
+      "link": "https://www.dw.com/en/malta-businessman-acquitted-of-journalist-s-murder/a-78814305?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-02T21:21:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-03T00:00:28.318Z"
+    },
     {
       "title": "48-годишен лекар с инсулт бе транспортиран с медикоптер до София",
       "link": "https://offnews.bg/zdrave/48-godishen-lekar-s-insult-be-transportiran-s-medikopter-do-sofia-873979.html",
@@ -1462,211 +1572,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "\"Не мога просто да гледам страшно в камерите\": кой е кандидатът за вицепрезидент Георги Кандев - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0VLdklxUTNoNWRHQnlqNmVKUnY3NzFKZHJJWjBFdTk3Q2dSSUh6cVFLWWg4R3RGWU83YnFHZjdaU1daanNkcmYzd1VRb2czX1l2dTB5OG1IblZjUnlLRXFmQm9RWHpmSVpERGRjVml0QVVBbXhjTkxSejh5SWRZenktNFBYQWhnOExlZ2d6MGZ1YXIyUHNScjhnRHVPdTZkQUxIbQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 09:36:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "pubDate": "2026-09-01 17:53:53",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "Hang on to Your Firefox",
-      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-      "pubDate": "2026-09-01 20:30:51",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "link": "https://danluu.com/zitron/",
-      "pubDate": "2026-09-01 18:35:15",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "link": "https://masteranza.github.io/weedout/",
-      "pubDate": "2026-09-01 22:06:57",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "pubDate": "2026-09-01 20:07:57",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-02T00:00:20.803Z"
-    },
-    {
-      "title": "Тръмп пак заплашва: От Иран ще остане много малко",
-      "link": "https://offnews.bg/sviat/tramp-pak-zaplashva-ot-iran-shte-ostane-mnogo-malko-873902.html",
-      "pubDate": "2026-09-01 18:48:26",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873902/php0dnokk_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 4503
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Скоро Тръмп може да се срещне и с Путин, и със Си Цзинпин",
-      "link": "https://offnews.bg/sviat/skoro-tramp-mozhe-da-se-sreshtne-i-s-putin-i-sas-si-tczinpin-873901.html",
-      "pubDate": "2026-09-01 18:11:56",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/01/873901/phpprf78u_152x158.jpg",
-        "type": "image/jpeg",
-        "length": 8543
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Зеленски предупреди авиокомпаниите в Русия, че небето й е опасно",
-      "link": "https://www.mediapool.bg/zelenski-predupredi-aviokompaniite-v-rusiya-che-nebeto-y-e-opasno-news387109.html",
-      "pubDate": "2026-09-01 19:50:12",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_96e652bca9c0d88c932f00704800ebf8.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Михайло Федоров основа отбранителна компания, избра ключов мениджър за пръв инвеститор (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/mihajlo-fedorov-osnova-otbranitelna-kompanija-izbra-kluchov-menidjyr-za-pryv-investitor-video-news_2634980.html",
-      "pubDate": "2026-09-01 20:45:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/2beae2485a6e9cc4edd2e09121e83f78_2634980_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Прогноза за времето - 2 септември 2026 г. (сряда)",
-      "link": "https://www.actualno.com/society/prognoza-za-vremeto-2-septemvri-2026-g-srjada-news_2634975.html",
-      "pubDate": "2026-09-01 20:17:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/3fb966f2a9ca62de5a2788dd6b5cf88d_2634975_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Радар за икономика: Най-важните новини на 1 септември 2026 г.",
-      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-1-septemvri-2026-g-news_2634892.html",
-      "pubDate": "2026-09-01 20:00:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/25667cd141d55721d10dccab75706bf5_2634892_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Вицепремиерът Александър Пулев: Стара Загора има потенциала да бъде индустриалното сърце на България",
-      "link": "https://www.actualno.com/economy/vicepremieryt-aleksandyr-pulev-stara-zagora-ima-potenciala-da-byde-industrialnoto-syrce-na-bylgarija-news_2634973.html",
-      "pubDate": "2026-09-01 19:48:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/1efd3341df258ad720c5be1f6602f5e9_2634973_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Зеленски с предупреждение: Руското въздушно пространство на практика ще бъде затворено (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/zelenski-s-preduprejdenie-ruskoto-vyzdushno-prostranstvo-na-praktika-shte-byde-zatvoreno-video-news_2634971.html",
-      "pubDate": "2026-09-01 19:32:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/01/0ae32048bf59dce62a1c3a7690c74513_2634971_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "Испания налива милиони в Сеута заради мигрантската криза",
-      "link": "https://frognews.bg/novini/ispaniya-naliva-milioni-seuta-zaradi-migrantskata-kriza.html",
-      "pubDate": "2026-09-01 18:37:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/db49286b5_1788288236_6a971cec5d93e.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
-    },
-    {
-      "title": "САЩ нанесоха нова серия от удари срещу Иран покрай Ормузкия проток",
-      "link": "https://frognews.bg/novini/sasht-nanesoha-nova-seriia-udari-sreshtu-iran-pokrai-ormuzkiia-protok.html",
-      "pubDate": "2026-09-01 18:33:00",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/600/204b29850_1788287754_6a971b0a749f3.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-09-01T21:01:46.067Z"
     }
   ]
 }
