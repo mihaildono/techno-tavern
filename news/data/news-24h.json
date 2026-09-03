@@ -1,9 +1,101 @@
 {
   "windowStart": "2026-09-01T15:33:45.540Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-03T00:02:11.125Z",
-  "totalItems": 126,
+  "lastUpdated": "2026-09-03T03:00:32.294Z",
+  "totalItems": 125,
   "items": [
+    {
+      "title": "Заради \"Нафтогаз\": Норвегия задържа руски кораб по искане на Украйна",
+      "link": "https://www.actualno.com/economy/zaradi-naftogaz-norvegija-zadyrja-ruski-korab-po-iskane-na-ukrajna-news_2635415.html",
+      "pubDate": "2026-09-02 22:24:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/03/8f4feab2d69f48311ef5f4e1d3ae3861_2635415_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "Хиляди испанци излязоха по улиците на градовете в подкрепа на Сеута (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/hiljadi-ispanci-izljazoha-po-ulicite-na-gradovete-v-podkrepa-na-seuta-video-news_2635414.html",
+      "pubDate": "2026-09-02 22:03:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/03/50f00f4a8491512977437b7702d6f73f_2635414_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "\"Позорна ситуация\": Зеленски реагира остро на стрелба между военни и служители на службите в Киев (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/pozorna-situacija-zelenski-reagira-ostro-na-strelba-mejdu-voenni-i-slujiteli-na-slujbite-v-kiev-video-news_2635413.html",
+      "pubDate": "2026-09-02 21:51:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/03/663a70f477128c60804147a145be7fd3_2635413_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "Зеленски: Украйна въвежда нови нива за предупреждение при въздушни заплахи",
+      "link": "https://www.actualno.com/europe/zelenski-ukrajna-vyvejda-novi-niva-za-preduprejdenie-pri-vyzdushni-zaplahi-news_2635411.html",
+      "pubDate": "2026-09-02 21:25:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/03/4505bbc0f323441eebb6e4df54f024d1_2635411_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "Украински дронове спряха напълно работата на една от най-големите руски рафинерии",
+      "link": "https://www.actualno.com/economy/ukrainski-dronove-sprjaha-napylno-rabotata-na-edna-ot-naj-golemite-ruski-rafinerii-news_2635408.html",
+      "pubDate": "2026-09-02 21:20:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/03/8cb8aa4c50346c6914fd42038d07798b_2635408_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "US: 3 dead including suspect in Minneapolis shooting",
+      "link": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-03T00:45:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
+    {
+      "title": "UNICEF: 1 in 5 youths targeted by online sexual abuse",
+      "link": "https://www.dw.com/en/unicef-1-in-5-youths-targeted-by-online-sexual-abuse/a-78654173?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-03T00:05:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-03T03:00:32.294Z"
+    },
     {
       "title": "DARA се разделя с \"Вирджиния рекърдс\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzliWUlzMEZyQVZnUDRtazRpSGFQOXppUUJtRzdwc200cHFpUjNtN2ZUQlFCVlI3QlZqUktJeFhqWlFzZmF2ZlB4WFRfYURHTld1dGV6djBZT2RQc2VFY19jazFSUHFEYWw5Y2FtV0lSVkdEWVg5cG5nX2xfdk9qU0I3TzJyaFlnSVR6b1dDdkZ6MG1rTENXYw?oc=5",
@@ -1465,113 +1557,6 @@
         "color": "#C8102E"
       },
       "firstSeen": "2026-09-02T06:00:19.890Z"
-    },
-    {
-      "title": "Зеленски предупреди авиокомпаниите: Руското небе става опасно",
-      "link": "https://offnews.bg/sviat/zelenski-predupredi-aviokompaniite-ruskoto-nebe-stava-opasno-873903.html",
-      "pubDate": "2026-09-01 21:12:05",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/02/873903/phposjc2z_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4961
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "Илон Мъск: До 10 години в света ще има повече от милиард хуманоидни роботи (ВИДЕО)",
-      "link": "https://www.actualno.com/sciencelogy/ilon-mysk-do-10-godini-v-sveta-shte-ima-poveche-ot-miliard-humanoidni-roboti-video-news_2634991.html",
-      "pubDate": "2026-09-01 23:02:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/da653733db57910c6127950265d7799c_2634991_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "Нова ескалация в Близкия изток: САЩ и Иран отново си разменят удари (ВИДЕО)",
-      "link": "https://www.actualno.com/asia/nova-eskalacija-v-blizkija-iztok-sasht-i-iran-otnovo-si-razmenjat-udari-video-news_2634989.html",
-      "pubDate": "2026-09-01 22:52:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/30129e7df525e38689af99febc40ebd6_2634989_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "\"Държавен тероризъм\": Путин отговори на предупрежденията на Зеленски, отрече да готви нова мобилизация (ВИДЕО)",
-      "link": "https://www.actualno.com/europe/dyrjaven-terorizym-putin-otgovori-na-preduprejdenijata-na-zelenski-otreche-da-gotvi-nova-mobilizacija-video-news_2634987.html",
-      "pubDate": "2026-09-01 22:25:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/be28dc6e6820be8f98066ac336540368_2634987_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "Възможно е скоро да има тристранна среща между Путин, Тръмп и Си Цзинпин",
-      "link": "https://www.actualno.com/europe/vyzmojno-e-skoro-da-ima-tristranna-sreshta-mejdu-putin-trymp-i-si-czinpin-news_2634990.html",
-      "pubDate": "2026-09-01 21:50:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/cc495847b7c8feda54d9fc4ea0069e20_2634990_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "След атаката с дрон в Лайпциг: Френският президент Макрон заяви, че подкрепя нови санкции срещу Русия",
-      "link": "https://www.actualno.com/europe/sled-atakata-s-dron-v-lajpcig-frenskijat-prezident-makron-zajavi-che-podkrepja-novi-sankcii-sreshtu-rusija-news_2634984.html",
-      "pubDate": "2026-09-01 21:30:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/02/7b2d386c763fb726b190ec4460f491f0_2634984_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
-      "link": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-02T02:30:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
-    },
-    {
-      "title": "Ukraine: Russia threatens &apos;devastating&apos; Baltic response",
-      "link": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-02T00:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-09-02T03:00:19.906Z"
     }
   ]
 }
