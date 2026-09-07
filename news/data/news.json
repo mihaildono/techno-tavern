@@ -300,9 +300,29 @@
       }
     },
     {
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "link": "https://beige.party/@intransitivelie/117057396732763183",
-      "pubDate": "2026-09-06 13:02:41",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "pubDate": "2026-09-06 20:24:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "pubDate": "2026-09-06 23:14:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "link": "https://github.com/marsbos/mador",
+      "pubDate": "2026-09-06 20:45:13",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -313,26 +333,6 @@
       "title": "Your intellectual fly is open (2025)",
       "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "pubDate": "2026-09-06 11:56:43",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "pubDate": "2026-09-06 15:44:24",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "We monitor internal coding agents for misalignment",
-      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-      "pubDate": "2026-09-06 16:37:55",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -410,6 +410,46 @@
       }
     },
     {
+      "title": "Several killed in Amazon cargo plane crash in Miami",
+      "link": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T23:19:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+      "link": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T22:22:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
+      "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T21:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Saxony-Anhalt: Digesting the AfD&apos;s landmark election win",
+      "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T21:04:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
       "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-09-06T19:59:00Z",
@@ -418,47 +458,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-      "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-06T19:08:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Saxony-Anhalt&apos;s state election will have a nationwide impact",
-      "link": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-06T18:50:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Fact check: Germany&apos;s postal voting system isn&apos;t rigged",
-      "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-06T18:39:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Saxony-Anhalt election: Why the AfD is so strong",
-      "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-06T18:33:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-06T21:00:22.375Z"
+  "lastUpdated": "2026-09-07T00:00:19.731Z"
 }

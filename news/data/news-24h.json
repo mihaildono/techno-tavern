@@ -1,9 +1,86 @@
 {
   "windowStart": "2026-09-06T15:31:48.387Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-06T21:00:22.382Z",
-  "totalItems": 65,
+  "lastUpdated": "2026-09-07T00:00:19.740Z",
+  "totalItems": 72,
   "items": [
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "pubDate": "2026-09-06 20:24:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "pubDate": "2026-09-06 23:14:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "link": "https://github.com/marsbos/mador",
+      "pubDate": "2026-09-06 20:45:13",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "Several killed in Amazon cargo plane crash in Miami",
+      "link": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T23:19:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+      "link": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T22:22:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
+      "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T21:41:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
+    {
+      "title": "Saxony-Anhalt: Digesting the AfD&apos;s landmark election win",
+      "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-06T21:04:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T00:00:19.740Z"
+    },
     {
       "title": "Йотова: Съединението е нашата клетва да търсим съгласие въпреки различията",
       "link": "https://offnews.bg/politika/jotova-saedinenieto-e-nashata-kletva-da-tarsim-saglasie-vapreki-razli-874193.html",
