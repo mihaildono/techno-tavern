@@ -1,9 +1,119 @@
 {
   "windowStart": "2026-09-06T15:31:48.387Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-07T09:01:33.945Z",
-  "totalItems": 113,
+  "lastUpdated": "2026-09-07T12:01:35.960Z",
+  "totalItems": 123,
   "items": [
+    {
+      "title": "Брутният вътрешен продукт нараства с 2.8% през второто тримесечие - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXlDSl9DR1l3ZWJzc200SVJMQjJ5aUJEWHpyMWpJVTU3aEZMelQzNFExRGtLQWtGS2dCWXAtWkZpX25CY2c1d0hpSC1HVG9QQ3U5VmZQdUZ5WjhtMGZxRm9JY2hCSXRBdThyWjR0SDJ1Q0s4Z3ZKQjkxaVJHYmVCQWZILThTLXV6VVM2c2Fncks5bnFfX3dZNG82RnVQeG9mREE?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 08:45:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Три места не достигат на „Алтернатива за Германия“ за самостоятелно управление в Саксония-Анхалт. Съюзът „Сара Вагенкнехт“ може да се окаже ключът към мнозинство",
+      "link": "https://svobodnatochka.bg/novini/tri-mesta-ne-dostigat-na-alternativa-za-germaniya-za-samostoyatelno-upravlenie-v-saksoniya-anhalt-sayuzat-sara-vagenkneht-mozhe-da-se-okazhe-klyuchat-kam-mnozinstvo/",
+      "pubDate": "Mon, 07 Sep 2026 09:59:35 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "link": "https://openbaarvervoerbelgie.be/",
+      "pubDate": "2026-09-07 09:02:47",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "link": "https://mathathonchallenge.com/index.html",
+      "pubDate": "2026-09-07 09:26:53",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "pubDate": "2026-09-07 09:26:41",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Impedance Matching (2017)",
+      "link": "https://www.edge.org/response-detail/27238",
+      "pubDate": "2026-09-07 09:52:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Russia opens first road bridge with North Korea",
+      "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T10:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T10:13:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Middle East: Israeli strikes kill several in Lebanon",
+      "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T09:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
+    {
+      "title": "Ukraine: Zelenskyy says war looks set to go on into winter",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T08:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-07T12:01:35.960Z"
+    },
     {
       "title": "АзГ спечели изборите в Саксония-Анхалт, но не успя да постигне мнозинство",
       "link": "https://offnews.bg/sviat/azg-specheli-izborite-v-saksonia-anhalt-no-ne-uspia-da-postigne-mnozi-874208.html",
