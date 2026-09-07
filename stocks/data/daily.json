@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:55:44.016450Z",
+  "generated_at": "2026-09-07T23:23:09.487163Z",
   "run_type": "daily",
   "universe_size": 139,
   "top_n": 10,
@@ -29,7 +29,7 @@
       "pe": 10.0,
       "pb": 1.17,
       "fcf_yield_pct": 11.6,
-      "div_yield_pct": 7.84,
+      "div_yield_pct": 7.91,
       "div_growth_pct": 0.0,
       "company_age": 46,
       "score": 0.8905
@@ -44,10 +44,10 @@
       "pe": 8.5,
       "pb": 1.05,
       "fcf_yield_pct": 13.51,
-      "div_yield_pct": 4.95,
+      "div_yield_pct": 4.98,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.8604
+      "score": 0.8609
     },
     {
       "symbol": "CI",
@@ -59,10 +59,10 @@
       "pe": 11.7,
       "pb": 1.75,
       "fcf_yield_pct": 10.69,
-      "div_yield_pct": 2.18,
+      "div_yield_pct": 2.21,
       "div_growth_pct": 0.0,
       "company_age": 44,
-      "score": 0.784
+      "score": 0.7844
     },
     {
       "symbol": "GIS",
@@ -74,10 +74,10 @@
       "pe": 11.9,
       "pb": 3.7,
       "fcf_yield_pct": 11.28,
-      "div_yield_pct": 6.21,
+      "div_yield_pct": 6.37,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.7783
+      "score": 0.7807
     },
     {
       "symbol": "CHTR",
@@ -104,10 +104,10 @@
       "pe": 12.5,
       "pb": -320.0,
       "fcf_yield_pct": 11.52,
-      "div_yield_pct": 3.76,
+      "div_yield_pct": 3.68,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.7264
+      "score": 0.7252
     },
     {
       "symbol": "VZ",
@@ -119,10 +119,10 @@
       "pe": 13.1,
       "pb": 2.0,
       "fcf_yield_pct": 8.38,
-      "div_yield_pct": 5.59,
+      "div_yield_pct": 5.64,
       "div_growth_pct": 0.0,
       "company_age": 43,
-      "score": 0.7039
+      "score": 0.7047
     },
     {
       "symbol": "BRK-B",
@@ -140,19 +140,34 @@
       "score": 0.7029
     },
     {
+      "symbol": "CPB",
+      "name": "The Campbell's Company",
+      "sector": "Consumer Defensive",
+      "price": 21.38,
+      "intrinsic_dcf": 24.8,
+      "margin_of_safety": 13.78,
+      "pe": 16.3,
+      "pb": 1.58,
+      "fcf_yield_pct": 11.72,
+      "div_yield_pct": 4.68,
+      "div_growth_pct": 0.0,
+      "company_age": 53,
+      "score": 0.6951
+    },
+    {
       "symbol": "EOG",
       "name": "EOG Resources, Inc.",
       "sector": "Energy",
       "price": 145.19,
-      "intrinsic_dcf": 332.67,
-      "margin_of_safety": 56.36,
+      "intrinsic_dcf": 327.61,
+      "margin_of_safety": 55.68,
       "pe": 11.3,
       "pb": 2.39,
-      "fcf_yield_pct": 5.88,
-      "div_yield_pct": 2.8,
+      "fcf_yield_pct": 5.79,
+      "div_yield_pct": 2.81,
       "div_growth_pct": 0.0,
       "company_age": 37,
-      "score": 0.6948
+      "score": 0.6931
     },
     {
       "symbol": "NEM",
@@ -164,7 +179,7 @@
       "pe": 16.2,
       "pb": 3.85,
       "fcf_yield_pct": 6.53,
-      "div_yield_pct": 80.0,
+      "div_yield_pct": 81.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
       "score": 0.6706
@@ -174,15 +189,15 @@
       "name": "Marathon Petroleum Corporati",
       "sector": "Energy",
       "price": 388.9,
-      "intrinsic_dcf": 1283.21,
-      "margin_of_safety": 69.69,
+      "intrinsic_dcf": 1234.37,
+      "margin_of_safety": 68.49,
       "pe": 13.5,
       "pb": 5.77,
-      "fcf_yield_pct": 8.47,
+      "fcf_yield_pct": 8.15,
       "div_yield_pct": 1.03,
       "div_growth_pct": 0.0,
       "company_age": 15,
-      "score": 0.6548
+      "score": 0.6484
     },
     {
       "symbol": "CRM",
@@ -191,10 +206,10 @@
       "price": 259.23,
       "intrinsic_dcf": 481.93,
       "margin_of_safety": 46.21,
-      "pe": 23.7,
+      "pe": 23.8,
       "pb": 5.56,
       "fcf_yield_pct": 8.31,
-      "div_yield_pct": 67.0,
+      "div_yield_pct": 68.0,
       "div_growth_pct": 0.0,
       "company_age": 22,
       "score": 0.6468
@@ -209,25 +224,10 @@
       "pe": 14.5,
       "pb": -43.1,
       "fcf_yield_pct": 7.86,
-      "div_yield_pct": 6.39,
+      "div_yield_pct": 6.45,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.6344
-    },
-    {
-      "symbol": "CPB",
-      "name": "The Campbell's Company",
-      "sector": "Consumer Defensive",
-      "price": 21.38,
-      "intrinsic_dcf": 20.02,
-      "margin_of_safety": -6.82,
-      "pe": 16.3,
-      "pb": 1.58,
-      "fcf_yield_pct": 9.46,
-      "div_yield_pct": 4.52,
-      "div_growth_pct": 0.0,
-      "company_age": 53,
-      "score": 0.6304
+      "score": 0.6353
     },
     {
       "symbol": "VLO",
@@ -254,7 +254,7 @@
       "pe": 17.0,
       "pb": 2.15,
       "fcf_yield_pct": 5.62,
-      "div_yield_pct": 86.0,
+      "div_yield_pct": 89.0,
       "div_growth_pct": 0.0,
       "company_age": 34,
       "score": 0.6202
@@ -269,25 +269,10 @@
       "pe": 20.1,
       "pb": 2.15,
       "fcf_yield_pct": 5.36,
-      "div_yield_pct": 3.37,
+      "div_yield_pct": 3.41,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.6189
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "sector": "Energy",
-      "price": 134.26,
-      "intrinsic_dcf": 249.44,
-      "margin_of_safety": 46.17,
-      "pe": 17.8,
-      "pb": 2.47,
-      "fcf_yield_pct": 4.77,
-      "div_yield_pct": 2.48,
-      "div_growth_pct": 0.0,
-      "company_age": 45,
-      "score": 0.6163
+      "score": 0.6195
     },
     {
       "symbol": "PFE",
@@ -299,10 +284,25 @@
       "pe": 37.4,
       "pb": 1.9,
       "fcf_yield_pct": 7.7,
-      "div_yield_pct": 5.97,
+      "div_yield_pct": 6.05,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.6162
+      "score": 0.6174
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "sector": "Energy",
+      "price": 134.26,
+      "intrinsic_dcf": 249.44,
+      "margin_of_safety": 46.17,
+      "pe": 17.8,
+      "pb": 2.47,
+      "fcf_yield_pct": 4.77,
+      "div_yield_pct": 2.5,
+      "div_growth_pct": 0.0,
+      "company_age": 45,
+      "score": 0.6166
     },
     {
       "symbol": "SJM",
@@ -311,28 +311,28 @@
       "price": 126.08,
       "intrinsic_dcf": 240.66,
       "margin_of_safety": 47.61,
-      "pe": 58.6,
+      "pe": 58.9,
       "pb": 2.43,
       "fcf_yield_pct": 10.87,
-      "div_yield_pct": 3.49,
+      "div_yield_pct": 3.55,
       "div_growth_pct": 0.0,
       "company_age": 32,
-      "score": 0.6153
+      "score": 0.6152
     },
     {
       "symbol": "DD",
       "name": "DuPont de Nemours, Inc.",
       "sector": "Basic Materials",
       "price": 131.59,
-      "intrinsic_dcf": 228.61,
-      "margin_of_safety": 42.44,
+      "intrinsic_dcf": 228.65,
+      "margin_of_safety": 42.45,
       "pe": 56.5,
       "pb": 1.29,
       "fcf_yield_pct": 10.33,
-      "div_yield_pct": 1.83,
+      "div_yield_pct": 1.82,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.613
+      "score": 0.6129
     },
     {
       "symbol": "T",
@@ -344,25 +344,25 @@
       "pe": 8.5,
       "pb": 1.6,
       "fcf_yield_pct": 5.76,
-      "div_yield_pct": 4.24,
+      "div_yield_pct": 4.32,
       "div_growth_pct": 0.0,
       "company_age": 43,
-      "score": 0.6114
+      "score": 0.6126
     },
     {
       "symbol": "PSX",
       "name": "Phillips 66",
       "sector": "Energy",
       "price": 255.09,
-      "intrinsic_dcf": 441.69,
-      "margin_of_safety": 42.25,
+      "intrinsic_dcf": 443.81,
+      "margin_of_safety": 42.52,
       "pe": 14.6,
       "pb": 3.23,
-      "fcf_yield_pct": 4.44,
+      "fcf_yield_pct": 4.47,
       "div_yield_pct": 1.99,
       "div_growth_pct": 0.0,
       "company_age": 14,
-      "score": 0.6102
+      "score": 0.6114
     },
     {
       "symbol": "ADBE",
@@ -389,10 +389,25 @@
       "pe": 38.0,
       "pb": 2.51,
       "fcf_yield_pct": 4.03,
-      "div_yield_pct": 87.0,
+      "div_yield_pct": 88.0,
       "div_growth_pct": 0.0,
       "company_age": 45,
-      "score": 0.5817
+      "score": 0.5816
+    },
+    {
+      "symbol": "BBY",
+      "name": "Best Buy Co., Inc.",
+      "sector": "Consumer Cyclical",
+      "price": 90.27,
+      "intrinsic_dcf": 110.1,
+      "margin_of_safety": 18.01,
+      "pe": 15.0,
+      "pb": 5.97,
+      "fcf_yield_pct": 7.38,
+      "div_yield_pct": 4.25,
+      "div_growth_pct": 0.0,
+      "company_age": 41,
+      "score": 0.5613
     },
     {
       "symbol": "WHR",
@@ -414,15 +429,15 @@
       "name": "Halliburton Company",
       "sector": "Energy",
       "price": 37.07,
-      "intrinsic_dcf": 40.91,
-      "margin_of_safety": 9.38,
+      "intrinsic_dcf": 40.8,
+      "margin_of_safety": 9.13,
       "pe": 19.4,
       "pb": 2.81,
-      "fcf_yield_pct": 6.64,
-      "div_yield_pct": 1.82,
+      "fcf_yield_pct": 6.63,
+      "div_yield_pct": 1.83,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.5434
+      "score": 0.5426
     },
     {
       "symbol": "NFLX",
@@ -449,10 +464,10 @@
       "pe": 14.7,
       "pb": 6.12,
       "fcf_yield_pct": 5.94,
-      "div_yield_pct": 3.7,
+      "div_yield_pct": 3.77,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.5369
+      "score": 0.5379
     },
     {
       "symbol": "CVS",
@@ -464,25 +479,10 @@
       "pe": 25.5,
       "pb": 1.55,
       "fcf_yield_pct": 6.53,
-      "div_yield_pct": 2.74,
+      "div_yield_pct": 2.75,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.5332
-    },
-    {
-      "symbol": "BBY",
-      "name": "Best Buy Co., Inc.",
-      "sector": "Consumer Cyclical",
-      "price": 90.27,
-      "intrinsic_dcf": 99.61,
-      "margin_of_safety": 9.37,
-      "pe": 15.0,
-      "pb": 5.99,
-      "fcf_yield_pct": 6.67,
-      "div_yield_pct": 4.39,
-      "div_growth_pct": 0.0,
-      "company_age": 41,
-      "score": 0.5277
+      "score": 0.5334
     },
     {
       "symbol": "TMUS",
@@ -494,10 +494,10 @@
       "pe": 19.0,
       "pb": 3.47,
       "fcf_yield_pct": 5.82,
-      "div_yield_pct": 2.17,
+      "div_yield_pct": 2.25,
       "div_growth_pct": 0.0,
       "company_age": 19,
-      "score": 0.5259
+      "score": 0.5271
     },
     {
       "symbol": "SPG",
@@ -509,25 +509,40 @@
       "pe": 14.8,
       "pb": 15.42,
       "fcf_yield_pct": 3.26,
-      "div_yield_pct": 4.21,
+      "div_yield_pct": 4.25,
       "div_growth_pct": 0.0,
       "company_age": 33,
-      "score": 0.517
+      "score": 0.5176
     },
     {
       "symbol": "LUMN",
       "name": "Lumen Technologies, Inc.",
       "sector": "Communication Serv",
       "price": 6.77,
-      "intrinsic_dcf": 19.02,
-      "margin_of_safety": 64.4,
+      "intrinsic_dcf": 19.04,
+      "margin_of_safety": 64.44,
       "pe": -22.8,
       "pb": -4.69,
-      "fcf_yield_pct": 30.31,
+      "fcf_yield_pct": 30.34,
       "div_yield_pct": 0.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
       "score": 0.5
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic plc.",
+      "sector": "Healthcare",
+      "price": 94.17,
+      "intrinsic_dcf": 106.46,
+      "margin_of_safety": 11.55,
+      "pe": 23.2,
+      "pb": 2.44,
+      "fcf_yield_pct": 4.49,
+      "div_yield_pct": 3.06,
+      "div_growth_pct": 0.0,
+      "company_age": 53,
+      "score": 0.4937
     },
     {
       "symbol": "BLK",
@@ -554,10 +569,10 @@
       "pe": 20.5,
       "pb": 2.53,
       "fcf_yield_pct": 3.15,
-      "div_yield_pct": 2.54,
+      "div_yield_pct": 2.58,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.4744
+      "score": 0.475
     },
     {
       "symbol": "GILD",
@@ -581,13 +596,13 @@
       "price": 137.34,
       "intrinsic_dcf": 135.29,
       "margin_of_safety": -1.52,
-      "pe": 30.5,
+      "pe": 30.6,
       "pb": 2.39,
       "fcf_yield_pct": 4.05,
-      "div_yield_pct": 3.09,
+      "div_yield_pct": 3.12,
       "div_growth_pct": 0.0,
       "company_age": 29,
-      "score": 0.4621
+      "score": 0.4623
     },
     {
       "symbol": "EXC",
@@ -599,25 +614,25 @@
       "pe": 16.0,
       "pb": 1.52,
       "fcf_yield_pct": -5.97,
-      "div_yield_pct": 3.77,
+      "div_yield_pct": 3.85,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.4486
+      "score": 0.4498
     },
     {
-      "symbol": "PPG",
-      "name": "PPG Industries, Inc.",
-      "sector": "Basic Materials",
-      "price": 112.53,
-      "intrinsic_dcf": 95.74,
-      "margin_of_safety": -17.54,
-      "pe": 16.1,
-      "pb": 2.96,
-      "fcf_yield_pct": 4.42,
-      "div_yield_pct": 2.67,
+      "symbol": "DUK",
+      "name": "Duke Energy Corporation (Hol",
+      "sector": "Utilities",
+      "price": 120.22,
+      "intrinsic_dcf": -85.2,
+      "margin_of_safety": null,
+      "pe": 18.1,
+      "pb": 1.74,
+      "fcf_yield_pct": -4.78,
+      "div_yield_pct": 3.61,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.4405
+      "score": 0.4406
     },
     {
       "symbol": "ED",
@@ -629,9 +644,24 @@
       "pe": 17.6,
       "pb": 1.54,
       "fcf_yield_pct": -2.13,
-      "div_yield_pct": 3.23,
+      "div_yield_pct": 3.27,
       "div_growth_pct": 0.0,
       "company_age": 64,
+      "score": 0.4405
+    },
+    {
+      "symbol": "PPG",
+      "name": "PPG Industries, Inc.",
+      "sector": "Basic Materials",
+      "price": 112.53,
+      "intrinsic_dcf": 95.74,
+      "margin_of_safety": -17.54,
+      "pe": 16.1,
+      "pb": 2.96,
+      "fcf_yield_pct": 4.42,
+      "div_yield_pct": 2.63,
+      "div_growth_pct": 0.0,
+      "company_age": 46,
       "score": 0.4399
     },
     {
@@ -659,10 +689,10 @@
       "pe": 25.5,
       "pb": 3.65,
       "fcf_yield_pct": 6.81,
-      "div_yield_pct": 2.31,
+      "div_yield_pct": 2.34,
       "div_growth_pct": 0.0,
       "company_age": 42,
-      "score": 0.4244
+      "score": 0.4249
     },
     {
       "symbol": "HRL",
@@ -674,10 +704,10 @@
       "pe": 34.7,
       "pb": 1.51,
       "fcf_yield_pct": 5.24,
-      "div_yield_pct": 5.4,
+      "div_yield_pct": 5.43,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.4073
+      "score": 0.4077
     },
     {
       "symbol": "TGT",
@@ -689,10 +719,10 @@
       "pe": 17.1,
       "pb": 4.19,
       "fcf_yield_pct": 4.6,
-      "div_yield_pct": 2.83,
+      "div_yield_pct": 2.82,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.4037
+      "score": 0.4036
     },
     {
       "symbol": "EQR",
@@ -700,7 +730,7 @@
       "sector": "Real Estate",
       "price": 63.66,
       "intrinsic_dcf": 58.83,
-      "margin_of_safety": -8.22,
+      "margin_of_safety": -8.21,
       "pe": 28.7,
       "pb": 2.27,
       "fcf_yield_pct": 5.78,
@@ -714,15 +744,15 @@
       "name": "NextEra Energy, Inc.",
       "sector": "Utilities",
       "price": 83.43,
-      "intrinsic_dcf": -203.35,
+      "intrinsic_dcf": -203.38,
       "margin_of_safety": null,
       "pe": 18.7,
       "pb": 3.05,
       "fcf_yield_pct": -10.21,
-      "div_yield_pct": 2.97,
+      "div_yield_pct": 2.99,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.3984
+      "score": 0.3987
     },
     {
       "symbol": "PPL",
@@ -740,6 +770,21 @@
       "score": 0.3949
     },
     {
+      "symbol": "ES",
+      "name": "Eversource Energy (D/B/A)",
+      "sector": "Utilities",
+      "price": 71.05,
+      "intrinsic_dcf": 33.7,
+      "margin_of_safety": -110.84,
+      "pe": 18.5,
+      "pb": 1.64,
+      "fcf_yield_pct": 3.03,
+      "div_yield_pct": 4.43,
+      "div_growth_pct": 0.0,
+      "company_age": 53,
+      "score": 0.3912
+    },
+    {
       "symbol": "XEL",
       "name": "Xcel Energy Inc.",
       "sector": "Utilities",
@@ -749,40 +794,10 @@
       "pe": 20.7,
       "pb": 1.97,
       "fcf_yield_pct": -16.72,
-      "div_yield_pct": 3.1,
+      "div_yield_pct": 3.13,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.3874
-    },
-    {
-      "symbol": "ABT",
-      "name": "Abbott Laboratories",
-      "sector": "Healthcare",
-      "price": 108.33,
-      "intrinsic_dcf": 101.91,
-      "margin_of_safety": -6.3,
-      "pe": 35.1,
-      "pb": 3.67,
-      "fcf_yield_pct": 3.85,
-      "div_yield_pct": 2.32,
-      "div_growth_pct": 0.0,
-      "company_age": 46,
-      "score": 0.3874
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy Corporation (Hol",
-      "sector": "Utilities",
-      "price": 120.22,
-      "intrinsic_dcf": -85.2,
-      "margin_of_safety": null,
-      "pe": 18.1,
-      "pb": 1.74,
-      "fcf_yield_pct": -4.78,
-      "div_yield_pct": 0.0,
-      "div_growth_pct": 0.0,
-      "company_age": 46,
-      "score": 0.3864
+      "score": 0.3878
     },
     {
       "symbol": "HON",
@@ -794,10 +809,25 @@
       "pe": 8.1,
       "pb": 3.58,
       "fcf_yield_pct": 3.93,
-      "div_yield_pct": 1.35,
+      "div_yield_pct": 1.34,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.3858
+      "score": 0.3857
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Healthcare",
+      "price": 108.33,
+      "intrinsic_dcf": 101.24,
+      "margin_of_safety": -7.0,
+      "pe": 35.1,
+      "pb": 3.67,
+      "fcf_yield_pct": 3.82,
+      "div_yield_pct": 2.33,
+      "div_growth_pct": 0.0,
+      "company_age": 46,
+      "score": 0.3853
     },
     {
       "symbol": "AEP",
@@ -815,19 +845,34 @@
       "score": 0.3829
     },
     {
+      "symbol": "WEC",
+      "name": "WEC Energy Group, Inc.",
+      "sector": "Utilities",
+      "price": 105.94,
+      "intrinsic_dcf": -114.4,
+      "margin_of_safety": null,
+      "pe": 20.6,
+      "pb": 2.53,
+      "fcf_yield_pct": -6.82,
+      "div_yield_pct": 3.6,
+      "div_growth_pct": 0.0,
+      "company_age": 46,
+      "score": 0.3807
+    },
+    {
       "symbol": "PEP",
       "name": "Pepsico, Inc.",
       "sector": "Consumer Defensive",
       "price": 137.63,
       "intrinsic_dcf": 106.81,
       "margin_of_safety": -28.85,
-      "pe": 18.0,
+      "pe": 18.1,
       "pb": 8.51,
       "fcf_yield_pct": 4.17,
-      "div_yield_pct": 4.23,
+      "div_yield_pct": 4.3,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.3796
+      "score": 0.3807
     },
     {
       "symbol": "SO",
@@ -839,10 +884,10 @@
       "pe": 21.2,
       "pb": 2.56,
       "fcf_yield_pct": -3.86,
-      "div_yield_pct": 3.42,
+      "div_yield_pct": 3.45,
       "div_growth_pct": 0.0,
       "company_age": 45,
-      "score": 0.3773
+      "score": 0.3777
     },
     {
       "symbol": "DPZ",
@@ -854,10 +899,10 @@
       "pe": 19.3,
       "pb": -2.83,
       "fcf_yield_pct": 4.71,
-      "div_yield_pct": 2.29,
+      "div_yield_pct": 2.33,
       "div_growth_pct": 0.0,
       "company_age": 22,
-      "score": 0.3721
+      "score": 0.3727
     },
     {
       "symbol": "CNP",
@@ -869,10 +914,10 @@
       "pe": 23.6,
       "pb": 2.23,
       "fcf_yield_pct": -19.87,
-      "div_yield_pct": 2.4,
+      "div_yield_pct": 2.42,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.3703
+      "score": 0.3706
     },
     {
       "symbol": "LOW",
@@ -884,10 +929,10 @@
       "pe": 17.3,
       "pb": -15.42,
       "fcf_yield_pct": 4.02,
-      "div_yield_pct": 2.48,
+      "div_yield_pct": 2.45,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.3647
+      "score": 0.3642
     },
     {
       "symbol": "AVB",
@@ -911,7 +956,7 @@
       "price": 234.89,
       "intrinsic_dcf": 189.77,
       "margin_of_safety": -23.78,
-      "pe": 20.8,
+      "pe": 20.9,
       "pb": 6.42,
       "fcf_yield_pct": 5.45,
       "div_yield_pct": 2.88,
@@ -924,15 +969,15 @@
       "name": "FirstEnergy Corp.",
       "sector": "Utilities",
       "price": 46.77,
-      "intrinsic_dcf": -71.71,
+      "intrinsic_dcf": -71.74,
       "margin_of_safety": null,
       "pe": 25.0,
       "pb": 2.09,
-      "fcf_yield_pct": -7.44,
-      "div_yield_pct": 3.95,
+      "fcf_yield_pct": -7.45,
+      "div_yield_pct": 3.98,
       "div_growth_pct": 0.0,
       "company_age": 29,
-      "score": 0.3569
+      "score": 0.3574
     },
     {
       "symbol": "CL",
@@ -944,10 +989,10 @@
       "pe": 34.9,
       "pb": 299.9,
       "fcf_yield_pct": 4.89,
-      "div_yield_pct": 2.35,
+      "div_yield_pct": 2.39,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.3489
+      "score": 0.3495
     },
     {
       "symbol": "VTR",
@@ -959,25 +1004,25 @@
       "pe": 164.1,
       "pb": 3.16,
       "fcf_yield_pct": 3.21,
-      "div_yield_pct": 2.26,
+      "div_yield_pct": 2.3,
       "div_growth_pct": 0.0,
       "company_age": 29,
-      "score": 0.3428
+      "score": 0.3434
     },
     {
       "symbol": "EMR",
       "name": "Emerson Electric Company",
       "sector": "Industrials",
       "price": 152.82,
-      "intrinsic_dcf": 126.95,
-      "margin_of_safety": -20.38,
+      "intrinsic_dcf": 126.43,
+      "margin_of_safety": -20.88,
       "pe": 33.4,
       "pb": 4.18,
-      "fcf_yield_pct": 4.35,
-      "div_yield_pct": 1.48,
+      "fcf_yield_pct": 4.33,
+      "div_yield_pct": 1.45,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.3422
+      "score": 0.3401
     },
     {
       "symbol": "NKE",
@@ -989,10 +1034,25 @@
       "pe": 18.3,
       "pb": 3.83,
       "fcf_yield_pct": 3.32,
-      "div_yield_pct": 4.23,
+      "div_yield_pct": 4.27,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.339
+      "score": 0.3396
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK, Inc.",
+      "sector": "Energy",
+      "price": 95.43,
+      "intrinsic_dcf": 55.65,
+      "margin_of_safety": -71.49,
+      "pe": 16.5,
+      "pb": 2.62,
+      "fcf_yield_pct": 1.5,
+      "div_yield_pct": 4.48,
+      "div_growth_pct": 0.0,
+      "company_age": 46,
+      "score": 0.3366
     },
     {
       "symbol": "QCOM",
@@ -1016,28 +1076,13 @@
       "price": 514.77,
       "intrinsic_dcf": 279.88,
       "margin_of_safety": -83.93,
-      "pe": 33.5,
+      "pe": 33.4,
       "pb": 2.68,
       "fcf_yield_pct": 1.62,
-      "div_yield_pct": 66.0,
+      "div_yield_pct": 65.0,
       "div_growth_pct": 0.0,
       "company_age": 32,
-      "score": 0.3289
-    },
-    {
-      "symbol": "ES",
-      "name": "Eversource Energy (D/B/A)",
-      "sector": "Utilities",
-      "price": 71.05,
-      "intrinsic_dcf": 33.7,
-      "margin_of_safety": -110.84,
-      "pe": 18.5,
-      "pb": 1.64,
-      "fcf_yield_pct": 3.03,
-      "div_yield_pct": 0.0,
-      "div_growth_pct": 0.0,
-      "company_age": 53,
-      "score": 0.3247
+      "score": 0.329
     },
     {
       "symbol": "O",
@@ -1049,10 +1094,10 @@
       "pe": 44.7,
       "pb": 1.47,
       "fcf_yield_pct": 2.73,
-      "div_yield_pct": 5.27,
+      "div_yield_pct": 5.31,
       "div_growth_pct": 0.0,
       "company_age": 32,
-      "score": 0.323
+      "score": 0.3236
     },
     {
       "symbol": "NUE",
@@ -1061,10 +1106,10 @@
       "price": 261.07,
       "intrinsic_dcf": 108.87,
       "margin_of_safety": -139.8,
-      "pe": 20.9,
+      "pe": 20.8,
       "pb": 2.68,
       "fcf_yield_pct": 1.15,
-      "div_yield_pct": 85.0,
+      "div_yield_pct": 86.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
       "score": 0.3211
@@ -1079,25 +1124,10 @@
       "pe": 31.0,
       "pb": 4.01,
       "fcf_yield_pct": 2.48,
-      "div_yield_pct": 80.0,
+      "div_yield_pct": 79.0,
       "div_growth_pct": 0.0,
       "company_age": 53,
       "score": 0.321
-    },
-    {
-      "symbol": "WEC",
-      "name": "WEC Energy Group, Inc.",
-      "sector": "Utilities",
-      "price": 105.94,
-      "intrinsic_dcf": -114.4,
-      "margin_of_safety": null,
-      "pe": 20.6,
-      "pb": null,
-      "fcf_yield_pct": -6.82,
-      "div_yield_pct": 3.57,
-      "div_growth_pct": 0.0,
-      "company_age": 46,
-      "score": 0.3185
     },
     {
       "symbol": "ETR",
@@ -1109,10 +1139,10 @@
       "pe": 27.4,
       "pb": 2.75,
       "fcf_yield_pct": -8.59,
-      "div_yield_pct": 2.38,
+      "div_yield_pct": 2.39,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.3171
+      "score": 0.3172
     },
     {
       "symbol": "SHW",
@@ -1127,7 +1157,7 @@
       "div_yield_pct": 96.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.3092
+      "score": 0.3093
     },
     {
       "symbol": "APD",
@@ -1139,10 +1169,10 @@
       "pe": 20.9,
       "pb": 4.83,
       "fcf_yield_pct": -2.23,
-      "div_yield_pct": 2.38,
+      "div_yield_pct": 2.4,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.3049
+      "score": 0.3052
     },
     {
       "symbol": "DIS",
@@ -1154,40 +1184,40 @@
       "pe": 21.7,
       "pb": 1.66,
       "fcf_yield_pct": 2.67,
-      "div_yield_pct": 1.4,
+      "div_yield_pct": 1.42,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.2981
+      "score": 0.2984
     },
     {
       "symbol": "KMI",
       "name": "Kinder Morgan, Inc.",
       "sector": "Energy",
       "price": 31.4,
-      "intrinsic_dcf": 10.8,
-      "margin_of_safety": -190.78,
+      "intrinsic_dcf": 10.81,
+      "margin_of_safety": -190.53,
       "pe": 20.3,
       "pb": 2.21,
       "fcf_yield_pct": 1.54,
-      "div_yield_pct": 3.73,
+      "div_yield_pct": 3.76,
       "div_growth_pct": 0.0,
       "company_age": 15,
-      "score": 0.2965
+      "score": 0.297
     },
     {
       "symbol": "CCI",
       "name": "Crown Castle Inc.",
       "sector": "Real Estate",
       "price": 75.83,
-      "intrinsic_dcf": 26.93,
-      "margin_of_safety": -181.62,
+      "intrinsic_dcf": 27.66,
+      "margin_of_safety": -174.18,
       "pe": 31.0,
       "pb": -9.88,
-      "fcf_yield_pct": 3.13,
-      "div_yield_pct": 5.5,
+      "fcf_yield_pct": 3.21,
+      "div_yield_pct": 5.6,
       "div_growth_pct": 0.0,
       "company_age": 28,
-      "score": 0.2919
+      "score": 0.2951
     },
     {
       "symbol": "GOOGL",
@@ -1211,13 +1241,13 @@
       "price": 1035.98,
       "intrinsic_dcf": 1084.85,
       "margin_of_safety": 4.5,
-      "pe": 66.8,
+      "pe": 66.7,
       "pb": 7.11,
       "fcf_yield_pct": 3.69,
-      "div_yield_pct": 1.98,
+      "div_yield_pct": 1.99,
       "div_growth_pct": 0.0,
       "company_age": 26,
-      "score": 0.2898
+      "score": 0.29
     },
     {
       "symbol": "PH",
@@ -1232,7 +1262,7 @@
       "div_yield_pct": 83.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.286
+      "score": 0.2862
     },
     {
       "symbol": "CLX",
@@ -1244,25 +1274,25 @@
       "pe": 19.3,
       "pb": 125.08,
       "fcf_yield_pct": 0.98,
-      "div_yield_pct": 5.3,
+      "div_yield_pct": 5.37,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.2791
+      "score": 0.2802
     },
     {
       "symbol": "GWW",
       "name": "W.W. Grainger, Inc.",
       "sector": "Industrials",
       "price": 1324.49,
-      "intrinsic_dcf": 580.53,
-      "margin_of_safety": -128.15,
-      "pe": 33.7,
+      "intrinsic_dcf": 579.15,
+      "margin_of_safety": -128.7,
+      "pe": 33.8,
       "pb": 15.1,
       "fcf_yield_pct": 2.0,
-      "div_yield_pct": 76.0,
+      "div_yield_pct": 75.0,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.2775
+      "score": 0.2773
     },
     {
       "symbol": "AAPL",
@@ -1271,13 +1301,13 @@
       "price": 319.97,
       "intrinsic_dcf": 206.79,
       "margin_of_safety": -54.74,
-      "pe": 36.7,
+      "pe": 36.6,
       "pb": 43.47,
       "fcf_yield_pct": 2.31,
-      "div_yield_pct": 33.0,
+      "div_yield_pct": 34.0,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.274
+      "score": 0.2741
     },
     {
       "symbol": "FCX",
@@ -1289,7 +1319,7 @@
       "pe": 35.7,
       "pb": 5.19,
       "fcf_yield_pct": 2.07,
-      "div_yield_pct": 83.0,
+      "div_yield_pct": 82.0,
       "div_growth_pct": 0.0,
       "company_age": 31,
       "score": 0.2725
@@ -1304,10 +1334,10 @@
       "pe": 24.2,
       "pb": 22.03,
       "fcf_yield_pct": 3.56,
-      "div_yield_pct": 3.93,
+      "div_yield_pct": 3.97,
       "div_growth_pct": 0.0,
       "company_age": 28,
-      "score": 0.2702
+      "score": 0.2708
     },
     {
       "symbol": "DE",
@@ -1322,22 +1352,7 @@
       "div_yield_pct": 93.0,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.2698
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK, Inc.",
-      "sector": "Energy",
-      "price": 95.43,
-      "intrinsic_dcf": 55.62,
-      "margin_of_safety": -71.58,
-      "pe": 16.5,
-      "pb": 2.62,
-      "fcf_yield_pct": 1.5,
-      "div_yield_pct": 0.0,
-      "div_growth_pct": 0.0,
-      "company_age": 46,
-      "score": 0.2694
+      "score": 0.2696
     },
     {
       "symbol": "WMB",
@@ -1349,10 +1364,10 @@
       "pe": 29.5,
       "pb": 6.89,
       "fcf_yield_pct": -1.67,
-      "div_yield_pct": 2.84,
+      "div_yield_pct": 2.83,
       "div_growth_pct": 0.0,
       "company_age": 45,
-      "score": 0.2676
+      "score": 0.2675
     },
     {
       "symbol": "DOV",
@@ -1364,10 +1379,10 @@
       "pe": 23.3,
       "pb": 3.37,
       "fcf_yield_pct": 3.49,
-      "div_yield_pct": 1.1,
+      "div_yield_pct": 1.09,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.267
+      "score": 0.2668
     },
     {
       "symbol": "META",
@@ -1376,7 +1391,7 @@
       "price": 616.77,
       "intrinsic_dcf": 380.81,
       "margin_of_safety": -61.96,
-      "pe": 23.2,
+      "pe": 23.3,
       "pb": 6.02,
       "fcf_yield_pct": 1.37,
       "div_yield_pct": 34.0,
@@ -1394,25 +1409,40 @@
       "pe": 32.8,
       "pb": 8.57,
       "fcf_yield_pct": 2.6,
-      "div_yield_pct": 1.55,
+      "div_yield_pct": 1.54,
       "div_growth_pct": 0.0,
       "company_age": 36,
-      "score": 0.2632
+      "score": 0.263
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company (Th",
       "sector": "Consumer Defensive",
       "price": 146.44,
-      "intrinsic_dcf": 86.33,
-      "margin_of_safety": -69.62,
+      "intrinsic_dcf": 86.27,
+      "margin_of_safety": -69.75,
       "pe": 22.1,
       "pb": 6.38,
       "fcf_yield_pct": 3.9,
-      "div_yield_pct": 2.96,
+      "div_yield_pct": 2.97,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.2625
+      "score": 0.2626
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "sector": "Healthcare",
+      "price": 437.23,
+      "intrinsic_dcf": 339.08,
+      "margin_of_safety": -28.95,
+      "pe": 27.2,
+      "pb": 20.22,
+      "fcf_yield_pct": 3.66,
+      "div_yield_pct": 2.31,
+      "div_growth_pct": 0.0,
+      "company_age": 43,
+      "score": 0.2604
     },
     {
       "symbol": "CAT",
@@ -1424,25 +1454,10 @@
       "pe": 35.1,
       "pb": 19.29,
       "fcf_yield_pct": 1.35,
-      "div_yield_pct": 81.0,
+      "div_yield_pct": 80.0,
       "div_growth_pct": 0.0,
       "company_age": 64,
       "score": 0.26
-    },
-    {
-      "symbol": "AMGN",
-      "name": "Amgen Inc.",
-      "sector": "Healthcare",
-      "price": 437.23,
-      "intrinsic_dcf": 339.08,
-      "margin_of_safety": -28.95,
-      "pe": 27.1,
-      "pb": 20.22,
-      "fcf_yield_pct": 3.66,
-      "div_yield_pct": 2.27,
-      "div_growth_pct": 0.0,
-      "company_age": 43,
-      "score": 0.2598
     },
     {
       "symbol": "PM",
@@ -1454,25 +1469,25 @@
       "pe": 25.1,
       "pb": -33.15,
       "fcf_yield_pct": 3.41,
-      "div_yield_pct": 3.16,
+      "div_yield_pct": 3.22,
       "div_growth_pct": 0.0,
       "company_age": 18,
-      "score": 0.258
+      "score": 0.2589
     },
     {
       "symbol": "ROST",
       "name": "Ross Stores, Inc.",
       "sector": "Consumer Cyclical",
       "price": 230.69,
-      "intrinsic_dcf": 154.52,
-      "margin_of_safety": -49.29,
+      "intrinsic_dcf": 155.17,
+      "margin_of_safety": -48.67,
       "pe": 27.9,
       "pb": 10.94,
-      "fcf_yield_pct": 2.71,
+      "fcf_yield_pct": 2.72,
       "div_yield_pct": 77.0,
       "div_growth_pct": 0.0,
       "company_age": 41,
-      "score": 0.2559
+      "score": 0.2576
     },
     {
       "symbol": "GE",
@@ -1481,13 +1496,13 @@
       "price": 337.12,
       "intrinsic_dcf": 213.72,
       "margin_of_safety": -57.74,
-      "pe": 39.8,
+      "pe": 39.7,
       "pb": 19.83,
       "fcf_yield_pct": 1.89,
       "div_yield_pct": 56.0,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.255
+      "score": 0.2555
     },
     {
       "symbol": "MCD",
@@ -1499,10 +1514,10 @@
       "pe": 20.8,
       "pb": -176.83,
       "fcf_yield_pct": 3.46,
-      "div_yield_pct": 2.87,
+      "div_yield_pct": 2.91,
       "div_growth_pct": 0.0,
       "company_age": 60,
-      "score": 0.2523
+      "score": 0.2529
     },
     {
       "symbol": "HD",
@@ -1514,10 +1529,10 @@
       "pe": 22.5,
       "pb": 19.28,
       "fcf_yield_pct": 3.36,
-      "div_yield_pct": 2.93,
+      "div_yield_pct": 2.9,
       "div_growth_pct": 0.0,
       "company_age": 45,
-      "score": 0.2512
+      "score": 0.2507
     },
     {
       "symbol": "YUM",
@@ -1527,12 +1542,12 @@
       "intrinsic_dcf": 72.31,
       "margin_of_safety": -108.43,
       "pe": 19.0,
-      "pb": -5.7,
+      "pb": -5.71,
       "fcf_yield_pct": 2.03,
-      "div_yield_pct": 1.97,
+      "div_yield_pct": 1.99,
       "div_growth_pct": 0.0,
       "company_age": 29,
-      "score": 0.2501
+      "score": 0.2504
     },
     {
       "symbol": "PSA",
@@ -1544,10 +1559,10 @@
       "pe": 28.8,
       "pb": 10.96,
       "fcf_yield_pct": 4.14,
-      "div_yield_pct": 3.93,
+      "div_yield_pct": 3.97,
       "div_growth_pct": 0.0,
       "company_age": 46,
-      "score": 0.2467
+      "score": 0.2473
     },
     {
       "symbol": "ORCL",
@@ -1556,13 +1571,13 @@
       "price": 158.78,
       "intrinsic_dcf": -281.0,
       "margin_of_safety": null,
-      "pe": 27.3,
+      "pe": 27.2,
       "pb": 12.18,
       "fcf_yield_pct": -5.36,
-      "div_yield_pct": 1.3,
+      "div_yield_pct": 1.26,
       "div_growth_pct": 0.0,
       "company_age": 40,
-      "score": 0.2445
+      "score": 0.2439
     },
     {
       "symbol": "CHD",
@@ -1589,25 +1604,25 @@
       "pe": 28.1,
       "pb": 3.27,
       "fcf_yield_pct": 3.46,
-      "div_yield_pct": 2.06,
+      "div_yield_pct": 2.05,
       "div_growth_pct": 0.0,
       "company_age": 45,
-      "score": 0.2433
+      "score": 0.2432
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly and Company",
       "sector": "Healthcare",
       "price": 1149.36,
-      "intrinsic_dcf": 483.47,
-      "margin_of_safety": -137.73,
+      "intrinsic_dcf": 483.68,
+      "margin_of_safety": -137.63,
       "pe": 38.6,
       "pb": 30.24,
       "fcf_yield_pct": 1.08,
       "div_yield_pct": 60.0,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.243
+      "score": 0.2429
     },
     {
       "symbol": "ITW",
@@ -1616,13 +1631,13 @@
       "price": 270.12,
       "intrinsic_dcf": 157.15,
       "margin_of_safety": -71.89,
-      "pe": 24.5,
+      "pe": 24.4,
       "pb": 26.58,
       "fcf_yield_pct": 3.16,
-      "div_yield_pct": 2.53,
+      "div_yield_pct": 2.55,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.2412
+      "score": 0.2415
     },
     {
       "symbol": "COST",
@@ -1631,13 +1646,13 @@
       "price": 915.74,
       "intrinsic_dcf": 535.42,
       "margin_of_safety": -71.03,
-      "pe": 46.0,
+      "pe": 46.1,
       "pb": 24.57,
       "fcf_yield_pct": 1.71,
       "div_yield_pct": 64.0,
       "div_growth_pct": 0.0,
       "company_age": 40,
-      "score": 0.2309
+      "score": 0.2306
     },
     {
       "symbol": "ABBV",
@@ -1649,10 +1664,10 @@
       "pe": 72.4,
       "pb": -76.35,
       "fcf_yield_pct": 3.72,
-      "div_yield_pct": 2.66,
+      "div_yield_pct": 2.7,
       "div_growth_pct": 0.0,
       "company_age": 13,
-      "score": 0.225
+      "score": 0.2256
     },
     {
       "symbol": "JNJ",
@@ -1661,10 +1676,10 @@
       "price": 275.23,
       "intrinsic_dcf": 131.63,
       "margin_of_safety": -109.09,
-      "pe": 31.9,
+      "pe": 32.0,
       "pb": 7.8,
       "fcf_yield_pct": 2.55,
-      "div_yield_pct": 1.93,
+      "div_yield_pct": 1.95,
       "div_growth_pct": 0.0,
       "company_age": 64,
       "score": 0.2236
@@ -1674,15 +1689,15 @@
       "name": "TJX Companies, Inc. (The)",
       "sector": "Consumer Cyclical",
       "price": 132.08,
-      "intrinsic_dcf": 71.4,
-      "margin_of_safety": -84.98,
-      "pe": 24.4,
+      "intrinsic_dcf": 71.1,
+      "margin_of_safety": -85.78,
+      "pe": 24.5,
       "pb": 14.03,
-      "fcf_yield_pct": 3.03,
+      "fcf_yield_pct": 3.01,
       "div_yield_pct": 1.45,
       "div_growth_pct": 0.0,
       "company_age": 39,
-      "score": 0.2223
+      "score": 0.222
     },
     {
       "symbol": "NVDA",
@@ -1694,7 +1709,7 @@
       "pe": 29.2,
       "pb": 24.29,
       "fcf_yield_pct": 0.75,
-      "div_yield_pct": 44.0,
+      "div_yield_pct": 43.0,
       "div_growth_pct": 0.0,
       "company_age": 27,
       "score": 0.215
@@ -1706,10 +1721,10 @@
       "price": 499.7,
       "intrinsic_dcf": 65.69,
       "margin_of_safety": -660.65,
-      "pe": 27.8,
+      "pe": 27.9,
       "pb": 8.39,
       "fcf_yield_pct": 0.45,
-      "div_yield_pct": 71.0,
+      "div_yield_pct": 73.0,
       "div_growth_pct": 0.0,
       "company_age": 40,
       "score": 0.2089
@@ -1721,13 +1736,13 @@
       "price": 477.57,
       "intrinsic_dcf": 189.8,
       "margin_of_safety": -151.61,
-      "pe": 30.9,
+      "pe": 30.8,
       "pb": 5.63,
       "fcf_yield_pct": 1.89,
-      "div_yield_pct": 1.33,
+      "div_yield_pct": 1.34,
       "div_growth_pct": 0.0,
       "company_age": 34,
-      "score": 0.2049
+      "score": 0.2053
     },
     {
       "symbol": "MRK",
@@ -1739,10 +1754,10 @@
       "pe": 120.3,
       "pb": 8.85,
       "fcf_yield_pct": 4.09,
-      "div_yield_pct": 2.23,
+      "div_yield_pct": 2.26,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.1936
+      "score": 0.1941
     },
     {
       "symbol": "MSI",
@@ -1754,7 +1769,7 @@
       "pe": 36.9,
       "pb": 28.99,
       "fcf_yield_pct": 2.55,
-      "div_yield_pct": 1.02,
+      "div_yield_pct": 1.03,
       "div_growth_pct": 0.0,
       "company_age": 64,
       "score": 0.1935
@@ -1764,12 +1779,12 @@
       "name": "Rockwell Automation, Inc.",
       "sector": "Industrials",
       "price": 433.81,
-      "intrinsic_dcf": 232.48,
-      "margin_of_safety": -86.6,
+      "intrinsic_dcf": 232.95,
+      "margin_of_safety": -86.22,
       "pe": 40.7,
       "pb": 13.79,
-      "fcf_yield_pct": 2.7,
-      "div_yield_pct": 1.29,
+      "fcf_yield_pct": 2.71,
+      "div_yield_pct": 1.27,
       "div_growth_pct": 0.0,
       "company_age": 45,
       "score": 0.1877
@@ -1781,13 +1796,13 @@
       "price": 258.44,
       "intrinsic_dcf": 139.25,
       "margin_of_safety": -85.59,
-      "pe": 39.3,
+      "pe": 39.2,
       "pb": 13.1,
       "fcf_yield_pct": 1.5,
-      "div_yield_pct": 2.24,
+      "div_yield_pct": 2.2,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.1825
+      "score": 0.1823
     },
     {
       "symbol": "ECL",
@@ -1796,28 +1811,28 @@
       "price": 279.28,
       "intrinsic_dcf": 112.48,
       "margin_of_safety": -148.3,
-      "pe": 37.5,
+      "pe": 37.4,
       "pb": 7.79,
       "fcf_yield_pct": 1.88,
       "div_yield_pct": 1.05,
       "div_growth_pct": 0.0,
       "company_age": 53,
-      "score": 0.1785
+      "score": 0.1786
     },
     {
       "symbol": "ETN",
       "name": "Eaton Corporation, PLC",
       "sector": "Industrials",
       "price": 410.85,
-      "intrinsic_dcf": 272.02,
-      "margin_of_safety": -51.04,
-      "pe": 41.9,
+      "intrinsic_dcf": 272.09,
+      "margin_of_safety": -51.0,
+      "pe": 41.8,
       "pb": 7.88,
       "fcf_yield_pct": 1.95,
-      "div_yield_pct": 1.11,
+      "div_yield_pct": 1.07,
       "div_growth_pct": 0.0,
       "company_age": 54,
-      "score": 0.166
+      "score": 0.1655
     },
     {
       "symbol": "KO",
@@ -1829,10 +1844,10 @@
       "pe": 26.4,
       "pb": 10.48,
       "fcf_yield_pct": 1.38,
-      "div_yield_pct": 2.39,
+      "div_yield_pct": 2.41,
       "div_growth_pct": 0.0,
       "company_age": 64,
-      "score": 0.1634
+      "score": 0.1637
     },
     {
       "symbol": "SBUX",
@@ -1841,13 +1856,13 @@
       "price": 104.47,
       "intrinsic_dcf": 35.74,
       "margin_of_safety": -192.33,
-      "pe": 60.7,
+      "pe": 60.4,
       "pb": -15.52,
       "fcf_yield_pct": 2.57,
-      "div_yield_pct": 2.34,
+      "div_yield_pct": 2.37,
       "div_growth_pct": 0.0,
       "company_age": 34,
-      "score": 0.1366
+      "score": 0.137
     },
     {
       "symbol": "INTC",
