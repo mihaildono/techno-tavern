@@ -5,6 +5,10 @@ set -euo pipefail
 REPO_DIR="/home/neuromancer/Personal/techno-tavern"
 GIT_USER_NAME="Neuromancer"
 GIT_USER_EMAIL="neuromancer@hermes.ai"
+NODE_PATH="/home/neuromancer/.local/bin/node"
+
+# Ensure node is in PATH for cron environment
+export PATH="$HOME/.local/bin:$PATH"
 
 # Change to repository directory
 cd "$REPO_DIR"
@@ -19,7 +23,7 @@ git pull --rebase origin main
 
 # Execute Node.js script to fetch news
 echo "📰 Fetching news from RSS feeds..."
-node news/fetch-news.js
+"$NODE_PATH" news/fetch-news.js
 
 # Check if there are any changes to commit
 if ! git diff --quiet || ! git diff --cached --quiet; then
