@@ -22,7 +22,7 @@ echo "📰 Fetching news from RSS feeds..."
 node news/fetch-news.js
 
 # Check if there are any changes to commit
-if ! git diff --quiet && ! git diff --cached --quiet; then
+if ! git diff --quiet || ! git diff --cached --quiet; then
     echo "📝 Committing and pushing changes..."
     
     # Stage changes
