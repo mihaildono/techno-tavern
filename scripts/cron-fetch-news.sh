@@ -1,45 +1,42 @@
-#!/usr/bin/env bash
-# cron-fetch-news.sh — 3-hourly RSS feed fetcher for Techno Tavern
-# Designed for Raspberry Pi cron
+#!/bin/bash
 
 set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-REPO_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
+REPO_DIR="/home/neuromancer/Personal/techno-tavern"
+GIT_USER_NAME="Neuromancer"
+GIT_USER_EMAIL="neuromancer@hermes.ai"
 
-# Ensure node is on PATH even when cron is invoked with a minimal env
-# (node lives under /home/neuromancer/.hermes/node/bin in this setup)
-export PATH="/home/neuromancer/.hermes/node/bin:/home/neuromancer/.local/bin:$PATH"
-
+# Change to repository directory
 cd "$REPO_DIR"
 
-log() {
-  echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"
-}
+# Set git config (ensure these are set)
+git config user.name "$GIT_USER_NAME"
+git config user.email "$GIT_USER_EMAIL"
 
-log "=== Fetching news feeds ==="
+# Pull latest changes from GitHub
+echo "🔄 Pulling latest changes from origin/main..."
+git pull --rebase origin main
 
-# Pull latest changes
-git pull --rebase origin main || {
-  log "⚠️ Git pull failed or had conflicts, attempting to continue..."
-}
+# Execute Node.js script to fetch news
+echo "📰 Fetching news from RSS feeds..."
+node news/fetch-news.js
 
-# Run RSS fetcher
-if command -v npm >/dev/null 2>&1; then
-  npm run fetch-news
+# Check if there are any changes to commit
+if ! git diff --quiet && ! git diff --cached --quiet; then
+    echo "📝 Committing and pushing changes..."
+    
+    # Stage changes
+    git add news/data/news.json news/data/news-24h.json
+    
+    # Commit with skip ci
+    git commit -m "$(date '+%Y-%m-%d %H:%M:%S') - Update news feeds [skip ci]"
+    
+    # Push to remote
+    git push origin main
+    
+    echo "✅ Successfully updated and pushed news feeds"
 else
-  node news/fetch-news.js
+    echo "ℹ️  No changes detected - news feeds are up to date"
 fi
 
-# Stage and commit if changed
-git add news/data/news.json news/data/news-24h.json
-
-if git diff --staged --quiet; then
-  log "ℹ️ No new changes to commit."
-else
-  log "Committing changes..."
-  git commit -m "chore(news): update news feed [skip ci]"
-  log "Pushing to GitHub..."
-  git push origin main
-  log "✅ News feed successfully updated and pushed."
-fi
+echo "🎉 News fetch pipeline completed successfully"
