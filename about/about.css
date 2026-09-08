@@ -142,9 +142,9 @@
   color: #e91e63;
 }
 
-.node-icon-box.wa-icon {
-  background: rgba(37, 211, 102, 0.15);
-  color: #25d366;
+.node-icon-box.discord-icon {
+  background: rgba(88, 101, 242, 0.15);
+  color: #5865f2;
 }
 
 .node-icon-box.gh-icon {
@@ -200,9 +200,9 @@
   color: #e91e63;
 }
 
-.node-pill.whatsapp {
-  background: rgba(37, 211, 102, 0.15);
-  color: #25d366;
+.node-pill.discord {
+  background: rgba(88, 101, 242, 0.15);
+  color: #5865f2;
 }
 
 .node-desc {
