@@ -1,9 +1,160 @@
 {
   "windowStart": "2026-09-07T15:32:18.830Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-07T21:01:09.646Z",
-  "totalItems": 57,
+  "lastUpdated": "2026-09-08T00:00:40.468Z",
+  "totalItems": 69,
   "items": [
+    {
+      "title": "Босна намалява дипломатическото си присъствие в Сърбия след погребението на Ратко Младич",
+      "link": "https://offnews.bg/sviat/bosna-namaliava-diplomaticheskoto-si-prisastvie-v-sarbia-sled-pogreben-874230.html",
+      "pubDate": "2026-09-07 19:03:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/07/874230/phpfwrwvu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8475
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Официално: Лионел Меси и Кристиано Роналдо ще играят в един отбор",
+      "link": "https://www.actualno.com/football/oficialno-lionel-mesi-i-kristiano-ronaldo-shte-igrajat-v-edin-otbor-news_2636901.html",
+      "pubDate": "2026-09-07 21:23:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/08/ca9e2ef4c1950968071216dbba0b1385_2636901_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Главният прокурор на Украйна се оттегли от поста",
+      "link": "https://www.actualno.com/europe/glavnijat-prokuror-na-ukrajna-se-ottegli-ot-posta-news_2636900.html",
+      "pubDate": "2026-09-07 21:11:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/08/ccfb83c3e3a363af8e53186b7964c6de_2636900_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 08.09.26 - Русия има ресурс да продължи войната още две години, предупреди ГУР",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-080926-rusija-ima-resurs-da-prodylji-vojnata-oshte-dve-godini-predupredi-gur-news_2636898.html",
+      "pubDate": "2026-09-07 21:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/542b49c4780ba6403cc5ca17cbf37380_2636898_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Пълно класиране в Първа лига 2026/27 - Левски остава на върха в родния елит",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-levski-ostava-na-vyrha-v-rodnija-elit-news_2618889.html",
+      "pubDate": "2026-09-07 20:32:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Пълна програма на Първа лига 2026/27 - Левски продължава без грешка, ЦСКА пак се спъна",
+      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-levski-prodyljava-bez-greshka-cska-pak-se-spyna-news_2618909.html",
+      "pubDate": "2026-09-07 20:28:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "pubDate": "2026-09-07 18:52:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "link": "https://arxiv.org/abs/2607.24888",
+      "pubDate": "2026-09-05 11:25:18",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "pubDate": "2026-09-07 20:32:55",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "WeatherNext 3",
+      "link": "https://deepmind.google/science/weathernext/",
+      "pubDate": "2026-09-03 16:06:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "pubDate": "2026-09-04 20:28:52",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
+    {
+      "title": "Eiffel Tower employees strike after female staff removed",
+      "link": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T22:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-08T00:00:40.468Z"
+    },
     {
       "title": "Австрия забранява забрадките в училище за момичета до 14 години",
       "link": "https://offnews.bg/sviat/avstria-zabraniava-zabradkite-v-uchilishte-za-momicheta-do-14-godini-874227.html",

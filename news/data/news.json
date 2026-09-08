@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Босна намалява дипломатическото си присъствие в Сърбия след погребението на Ратко Младич",
+      "link": "https://offnews.bg/sviat/bosna-namaliava-diplomaticheskoto-si-prisastvie-v-sarbia-sled-pogreben-874230.html",
+      "pubDate": "2026-09-07 19:03:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/07/874230/phpfwrwvu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8475
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Австрия забранява забрадките в училище за момичета до 14 години",
       "link": "https://offnews.bg/sviat/avstria-zabraniava-zabradkite-v-uchilishte-za-momicheta-do-14-godini-874227.html",
       "pubDate": "2026-09-07 18:12:00",
@@ -22,20 +36,6 @@
         "link": "https://i2.offnews.bg/events/2026/09/07/874229/phpyqhfze_559x345.jpg",
         "type": "image/jpeg",
         "length": 6266
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "139 пияни и дрогирани шофьори спипа МВР през почивните дни",
-      "link": "https://offnews.bg/obshtestvo/139-piani-i-drogirani-shofiori-spipa-mvr-prez-pochivnite-dni-874228.html",
-      "pubDate": "2026-09-07 16:55:00",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/07/874228/phpovksux_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6327
       },
       "source": {
         "name": "OffNews",
@@ -91,16 +91,6 @@
       }
     },
     {
-      "title": "Знаете ли защо PISA е важна - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNGZTlmRjgxdmhiT21KS2JPVk9KZnFuNkVXVnNBV2tkMDZNVzBNVXg2bndSSjVtdE1SOXg4cm1SRmpzSjhzR09GVmpwMDhDbUpSZ2c3ZGhfODhPUERUemJXVldGN01tNUt5bE5NejM0LVVHdXYzaUVGdWZta3h3dXlQWDBzSmc?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 04:07:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Заради катастрофа с пострадал на \"Хемус\" се образува 10 км. колона в посока София - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDRxcHlGbDlTV0lPbHN2WDZjR0pFbXFrdlM2YjV4dlVGNmtlSXpWOU1PZFpGVGNxWDhRNnloUFhFNi1rdS1oNElWcUdOaUtjRTFLUzRMQUV3clNJQ05wU290UEhCY0tWQUZUMXRmbHFzQ0RKdThDdjNaMGNTbjBTd1lUSWpHcHZadUtZdHJBZVhpa0x2dUdqdnY4dmVhcHhsYy0wZFN0QmhjNnU0c0JZ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 12:36:00 GMT",
@@ -114,6 +104,16 @@
       "title": "Две класации показват кои са топ университетите за AI специалисти - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk9kRm1NaWE0eXV0cXRjakEyNlBGNUx0LUZjQm5oa1NvQmhuQVdZTEY2Mk1zSHcyRmJpRXdSM0U1TFNlc09pWnJOMzJfX3hZel94blNvSHppV0pJSlpiZnJfeGpmSjl0VzBBNS14enkyTjlUa0hveHlGSEp5cW5BWHJrS2lMQ0h5WEhmRUdNLVJGVzNDRFRqYUhQUTNZeUlRQ0plc1liYWE3aFhDc3c?oc=5",
       "pubDate": "Mon, 07 Sep 2026 13:00:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Знаете ли защо PISA е важна - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNGZTlmRjgxdmhiT21KS2JPVk9KZnFuNkVXVnNBV2tkMDZNVzBNVXg2bndSSjVtdE1SOXg4cm1SRmpzSjhzR09GVmpwMDhDbUpSZ2c3ZGhfODhPUERUemJXVldGN01tNUt5bE5NejM0LVVHdXYzaUVGdWZta3h3dXlQWDBzSmc?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 04:07:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -231,11 +231,11 @@
       }
     },
     {
-      "title": "Звездите създават елементите, които изграждат телата ни: Учените откриха как се случва това",
-      "link": "https://www.actualno.com/cosmos/zvezdite-syzdavat-elementite-koito-izgrajdat-telata-ni-uchenite-otkriha-kak-se-sluchva-tova-news_2636872.html",
-      "pubDate": "2026-09-07 18:24:00",
+      "title": "Официално: Лионел Меси и Кристиано Роналдо ще играят в един отбор",
+      "link": "https://www.actualno.com/football/oficialno-lionel-mesi-i-kristiano-ronaldo-shte-igrajat-v-edin-otbor-news_2636901.html",
+      "pubDate": "2026-09-07 21:23:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/9c62f54b9ccacba64126c2f142c36956_2636872_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/08/ca9e2ef4c1950968071216dbba0b1385_2636901_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -244,11 +244,11 @@
       }
     },
     {
-      "title": "Сериозен удар по ЦСКА: Основен играч е наказан за първите мачове в Европа",
-      "link": "https://www.actualno.com/football/seriozen-udar-po-cska-osnoven-igrach-e-nakazan-za-pyrvite-machove-v-evropa-news_2636869.html",
-      "pubDate": "2026-09-07 18:13:00",
+      "title": "Главният прокурор на Украйна се оттегли от поста",
+      "link": "https://www.actualno.com/europe/glavnijat-prokuror-na-ukrajna-se-ottegli-ot-posta-news_2636900.html",
+      "pubDate": "2026-09-07 21:11:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/35cf2766d1e168205e468d107a1a6f7b_2636869_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/08/ccfb83c3e3a363af8e53186b7964c6de_2636900_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -257,11 +257,11 @@
       }
     },
     {
-      "title": "Учени: Сондата на НАСА може да не успее да разследва сериозна заплаха за човечеството",
-      "link": "https://www.actualno.com/cosmos/ucheni-sondata-na-nasa-moje-da-ne-uspee-da-razsledva-seriozna-zaplaha-za-chovechestvoto-news_2636865.html",
-      "pubDate": "2026-09-07 18:03:00",
+      "title": "НА ЖИВО: Кризата в Украйна, 08.09.26 - Русия има ресурс да продължи войната още две години, предупреди ГУР",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-080926-rusija-ima-resurs-da-prodylji-vojnata-oshte-dve-godini-predupredi-gur-news_2636898.html",
+      "pubDate": "2026-09-07 21:01:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/3176f2a6fba137683b9d562b523d2afd_2636865_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/542b49c4780ba6403cc5ca17cbf37380_2636898_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -270,11 +270,11 @@
       }
     },
     {
-      "title": "Нова заплаха надвисва над Земята - учените прогнозират хиляди инциденти",
-      "link": "https://www.actualno.com/interest/nova-zaplaha-nadvisva-nad-zemjata-uchenite-prognozirat-hiljadi-incidenti-news_2636863.html",
-      "pubDate": "2026-09-07 17:52:00",
+      "title": "Пълно класиране в Първа лига 2026/27 - Левски остава на върха в родния елит",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-levski-ostava-na-vyrha-v-rodnija-elit-news_2618889.html",
+      "pubDate": "2026-09-07 20:32:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/e311371e36a272e70dba7719dfc5ee46_2636863_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -283,11 +283,11 @@
       }
     },
     {
-      "title": "Официално: Родният вицешампион се раздели с треньора си след половин година",
-      "link": "https://www.actualno.com/bgfootball/oficialno-rodnijat-viceshampion-se-razdeli-s-treniora-si-sled-polovin-godina-news_2636857.html",
-      "pubDate": "2026-09-07 17:30:00",
+      "title": "Пълна програма на Първа лига 2026/27 - Левски продължава без грешка, ЦСКА пак се спъна",
+      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-levski-prodyljava-bez-greshka-cska-pak-se-spyna-news_2618909.html",
+      "pubDate": "2026-09-07 20:28:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/07/3cec6157b3cfdf65c9085455bb1c7dad_2636857_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -296,9 +296,9 @@
       }
     },
     {
-      "title": "bzip3",
-      "link": "https://github.com/iczelia/bzip3",
-      "pubDate": "2026-09-07 13:35:13",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "pubDate": "2026-09-07 18:52:06",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -306,9 +306,9 @@
       }
     },
     {
-      "title": "Keep Our Servers Running",
-      "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "pubDate": "2026-09-07 03:29:51",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "link": "https://arxiv.org/abs/2607.24888",
+      "pubDate": "2026-09-05 11:25:18",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -316,9 +316,9 @@
       }
     },
     {
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "link": "https://news.ycombinator.com/item?id=49600233",
-      "pubDate": "2026-09-07 16:40:32",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "pubDate": "2026-09-07 20:32:55",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -326,9 +326,9 @@
       }
     },
     {
-      "title": "Simple Is Not Small",
-      "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
-      "pubDate": "2026-09-03 23:47:28",
+      "title": "WeatherNext 3",
+      "link": "https://deepmind.google/science/weathernext/",
+      "pubDate": "2026-09-03 16:06:08",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -336,9 +336,9 @@
       }
     },
     {
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "link": "https://mathathonchallenge.com/index.html",
-      "pubDate": "2026-09-07 09:26:53",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "pubDate": "2026-09-04 20:28:52",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -349,7 +349,10 @@
       "title": "Два руски изтребителя Су-35 С се сблъскаха в Курска област",
       "link": "https://frognews.bg/novini/dva-ruski-iztrebitelia-35-sblaskaha-kurska-oblast.html",
       "pubDate": "2026-09-07 17:55:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7448e7240_1788803919_6a9efb4f0e75d.webp",
+        "type": "image/webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -359,7 +362,10 @@
       "title": "Съдия Евстатиева и трима прокурори са номинирани за членове на новия ВСС",
       "link": "https://frognews.bg/novini/sadiia-evstatieva-trima-prokurori-nominirani-chlenove-noviia-vss.html",
       "pubDate": "2026-09-07 17:35:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/85ce33d9e_1788801038_6a9ef00ea3efc.webp",
+        "type": "image/webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -369,7 +375,10 @@
       "title": "Нови записи за атентата на 11 септември: ФБР скрило данни за връзки с \"Ал Кайда\" и С. Арабия",
       "link": "https://frognews.bg/novini/novi-zapisi-atentata-11-septemvri-fbr-skrilo-danni-vrazki-kaida-arabiia.html",
       "pubDate": "2026-09-07 17:00:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9f6cdc84d_1788793848_6a9ed3f8527b5.webp",
+        "type": "image/webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -379,7 +388,10 @@
       "title": "Австрийски полковник: 4 са фазите на руския сценарий – деморализация, дестабилизация, криза и военна интервенция",
       "link": "https://frognews.bg/inteviu/avstriiski-polkovnik-4-fazite-ruskiia-stsenarii--demoralizatsiia-destabilizatsiia-kriza-voenna-interventsiia.html",
       "pubDate": "2026-09-07 16:15:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0362554ec_1788795079_6a9ed8c7d9da9.webp",
+        "type": "image/webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
@@ -389,10 +401,23 @@
       "title": "Всеки шести възрастен в ЕС е със затлъстяване, българинът – под средното ниво",
       "link": "https://frognews.bg/novini/vseki-shesti-vazrasten-sas-zatlastiavane-balgarinat--pod-srednoto-nivo.html",
       "pubDate": "2026-09-07 15:30:00",
-      "thumbnail": null,
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4d2fe5da6_1788790469_6a9ec6c5a1ec0.webp",
+        "type": "image/webp"
+      },
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "Eiffel Tower employees strike after female staff removed",
+      "link": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-07T22:23:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -434,17 +459,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Can the AfD form a government in Saxony-Anhalt?",
-      "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-07T16:09:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-07T21:01:09.640Z"
+  "lastUpdated": "2026-09-08T00:00:40.462Z"
 }
