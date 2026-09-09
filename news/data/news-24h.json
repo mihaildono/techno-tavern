@@ -1,7 +1,510 @@
 {
   "windowStart": "2026-09-09T20:06:45.663Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-09T20:06:45.663Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-09T21:01:11.980Z",
+  "totalItems": 40,
+  "items": [
+    {
+      "title": "Пуснаха на свобода шофьора на тир, причинил катастрофата, при която загинаха две деца от ФК 'Славия'",
+      "link": "https://offnews.bg/temida/pusnaha-na-svoboda-shofiora-na-tir-prichinil-katastrofata-pri-koiato-874374.html",
+      "pubDate": "2026-09-09 15:32:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/09/874374/phpue494l_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5651
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Украинското контранастъпление. Фронтова линия с Камен Невенкин 09.09.2026",
+      "link": "https://offnews.bg/analizi-i-komentari/ukrainskoto-kontranastaplenie-frontova-linia-s-kamen-nevenkin-09-09-2-874375.html",
+      "pubDate": "2026-09-09 15:26:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/09/874375/php8fsfhh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10251
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "ЕК отпуска на Испания близо 115 милиона € за управление на миграцията в Сеута",
+      "link": "https://offnews.bg/sviat/ek-otpuska-na-ispania-blizo-115-miliona-za-upravlenie-na-migratcia-874373.html",
+      "pubDate": "2026-09-09 15:17:40",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/09/874373/phpx9fcaw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7844
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "''Залагат на карта живота ни'': Изследовател напусна Anthropic заради надпреварата към свръхинтелект",
+      "link": "https://offnews.bg/tehnologii/zalagat-na-karta-zhivota-ni-izsledovatel-napusna-anthropic-zaradi-874368.html",
+      "pubDate": "2026-09-09 14:52:41",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/09/874368/phpvprvn9_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5031
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "ЦИК разпореди проверка на гражданството на кандидатите за ''Дондуков'' 2",
+      "link": "https://offnews.bg/izbori/tcik-razporedi-proverka-na-grazhdanstvoto-na-kandidatite-za-dondukov-874372.html",
+      "pubDate": "2026-09-09 14:22:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/09/874372/phplzv8cp_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6909
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Тръмп: Путин иска сделка за край на войната в Украйна - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFlmenlXTnNKYldtSGE1MFl5bUg3R2Z3bXZjS0wxWkNhdlE1d1VvLV9mNE81SkJsWGY4ZzZhTHNVZnNVR3JHWFo0OVhudlFEbGY0SGZJeTJlM1NTb2ItWl9icUdTNGRGSkFGaXVkSlFGVVZkSjB3RjBsbWk0MHJPOHRoanRweU52b2FIYTU0SVpQcFhXNXkwMVpSNHA2TWhwSFVTT3JwdUFtaXJQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 18:54:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Най-дългият удар с дрон: Украйна порази руски обекти на 3000 км - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ZJbHRmRGw5ZXN3Z2tyNDViTmVKczlyZWFnSmwtM1BmYU13aWdPdWpzWUkwY1NYZWpiLTBBWVBZTF95bUZZTTh0dTNBTWNDMDNWLTZhVE1FTlg3UEN0dUFUUjA5OXBfcFNCWnpaUkwySHRlcVFXS0duSjdFU2F1ajZHNVh1dERpekVScl9wVjh1a1NlNm9LbDY1UGlzZU5panoxeWZBeW1Jc2o3WWctR3BaMkRlVlFOSUdGX3FB?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 18:32:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Националният отбор по волейбол започна европейското с победа над Северна Македония - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzZnUlFqelRMczdzNENVbHBjc0RfLXUxbUhSSzRRV2NreWQ0WGVRemVzWDhaQ2FCZUNtbnd1c3BuNV82NUV4R2lVSzlFbzNtcVJfODlCd1ItZENldlJNbW9rbVdBcTRNSGRtOW9vdV9kZ1pWZFpfamMyXzB3Y1o5dmNRcy0zRU1nVnhCc2xMSUdYOHJuX0JCY0I1bnZOZ09fSTJKUG5kTElzbWVnbVE?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 17:49:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Китайски кораб преплава през Арктика, за да заобиколи Близкия изток - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFVpS2lEX25fbWlyV1VCeEh3NFJXQ0F4VExnS3FyenMwb0ZBNm9IQXYzdUJhQnRQRGpqSlRDMl9mVFdSclBtNnV5Ti1JaVRXc2tqTmYxeVV0dEhTRXRRanJfWHFyVVV5Yk5PT1hTbm5XSVJ3djBqRjA3R1g4d1A5R0JQS1FJdTdoSHIyRXJBNFd4S201RWY3amNPSi1HdDFCZzdBenRzUTJYWG1W?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 17:58:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "\"Контролът е разпокъсан\": Кабинетът създава нова агенция за пътна безопасност - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEFvdTFtX2ZOSEJKQi1Zc3dodS02LXZuNnc5dGpGRjVnZHFnOVJFSzNSR3NidWN1WEZUSGxMazcyQnVqTGZRSl9FZHdYTHFOcW05ZzNRUFhUNXVIYm1lY29iVy0zVl9MUHpJT0pVR3l1N252bTFvZGJoamlpb1IwdjZXSDNZU1FHMkVCeFdOQWhFT1JwQ0Z3Q3RIVk02alk1TElZMHdkZjY?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:24:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Вучич насрочи извънредни избори в Сърбия за 25 октомври. Протестиращите студенти ще участват в тях",
+      "link": "https://svobodnatochka.bg/novini/vuchich-nasrochi-izvanredni-izbori-v-sarbiya-za-25-oktomvri/",
+      "pubDate": "Wed, 09 Sep 2026 14:11:11 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "&#8222;Прогресивно ми е&#8220;. БНТ свали от ефир водещия на История.бг Георги Ангелов",
+      "link": "https://svobodnatochka.bg/novini/tova-e-efektiven-nachin-da-bada-nakaran-da-mlakna-bnt-svali-ot-efir/",
+      "pubDate": "Wed, 09 Sep 2026 12:21:20 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/themes/total-child-theme/assets/images/logo-st-text.jpeg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Германия ще достави на Украйна ракети &#8222;Пейтриът&#8220; от резервите си. Киев преговаря за още 1000 от САЩ",
+      "link": "https://svobodnatochka.bg/novini/patriot-ukrayna-germaniya-rusiya-dostavki-rezervi-sasht/",
+      "pubDate": "Wed, 09 Sep 2026 11:12:40 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "„Коалиция за мир“. Йотова критикува ЕС за „изсипани милиарди“ за Украйна и поиска дипломация с Русия",
+      "link": "https://svobodnatochka.bg/novini/yotova-ukrayna-evropa-izsipani-miliardi-rusiya-diplomatsiya-pregovori-rech/",
+      "pubDate": "Wed, 09 Sep 2026 10:05:42 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "МВР поема целия контрол по пътищата. Ще проверява и превози, и винетки",
+      "link": "https://svobodnatochka.bg/novini/kabinetat-sthe-reformira-patnata-bezopasnost/",
+      "pubDate": "Wed, 09 Sep 2026 08:10:39 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Фредерик Нин е новият главен директор \"Технологии и информационни системи\" в Yettel България",
+      "link": "https://www.mediapool.bg/frederik-nin-e-noviyat-glaven-direktor-tehnologii-i-informatsionni-sistemi-v-yettel-bulgaria-news387367.html",
+      "pubDate": "2026-09-09 15:25:38",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_af9310e9752ac2438b80508bea0a6df7.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "ЦСКА получи акт 16 за стадион \"Българска армия\", може да го открие срещу \"Монако\"",
+      "link": "https://www.mediapool.bg/tsska-poluchi-akt-16-za-stadion-balgarska-armiya-mozhe-da-go-otkrie-sreshtu-monako-news387366.html",
+      "pubDate": "2026-09-09 14:47:23",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_38fbd580f75886468c6f8912a5de5663.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "София иска да купи частен терен за детска градина за 1.56 млн. евро",
+      "link": "https://www.mediapool.bg/sofiya-iska-da-kupi-chasten-teren-za-detska-gradina-za-156-mln-evro-news387364.html",
+      "pubDate": "2026-09-09 14:36:06",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_e9dd73ea840eba6463b9eca4bc06bd95.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "ЕК отпуска на Испания близо 115 милиона евро за управление на миграцията в Сеута",
+      "link": "https://www.mediapool.bg/ek-otpuska-na-ispaniya-blizo-115-miliona-evro-za-upravlenie-na-migratsiyata-v-seuta-news387362.html",
+      "pubDate": "2026-09-09 14:31:20",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_d5d642f4b779d37333f5e50c653647a5.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Норвегия се сбогува с \"дядото на нацията\" крал Харалд Пети",
+      "link": "https://www.mediapool.bg/norvegiya-se-sboguva-s-dyadoto-na-natsiyata-kral-harald-peti-news387361.html",
+      "pubDate": "2026-09-09 14:04:14",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_e8e1e2c4a569dca7ea7ad292afac774a.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "\"Само в ЦСКА може да стане такава глупост\": Легенда на \"Армията\" коментира действията на Янев",
+      "link": "https://www.actualno.com/bgfootball/samo-v-cska-moje-da-stane-takava-glupost-legenda-na-armijata-komentira-dejstvijata-na-janev-news_2637604.html",
+      "pubDate": "2026-09-09 15:38:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/09/a7de40e0f2ee46fe24f167ad5a34aad5_2637604_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Надежда Нейнски: Националната ни сигурност зависи от това да не бъде допуснато Русия да променя границите със сила",
+      "link": "https://www.actualno.com/europe/nadejda-nejnski-nacionalnata-ni-sigurnost-zavisi-ot-tova-da-ne-byde-dopusnato-rusija-da-promenja-granicite-sys-sila-news_2637600.html",
+      "pubDate": "2026-09-09 15:30:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/09/932e5853394c656fec8b93b87e38c923_2637600_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Църковен празник на 10 септември: Какво се слага на масата и до входната врата на дома",
+      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-10-septemvri-kakvo-se-slaga-na-masata-i-do-vhodnata-vrata-na-doma-news_2637526.html",
+      "pubDate": "2026-09-09 15:09:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/09/c3d61f197ae97fd5c5302e622eab4d96_2637526_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Магнитна буря за четвъртък, 10 септември 2026: Прогноза от САЩ",
+      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-chetvyrtyk-10-septemvri-2026-prognoza-ot-sasht-news_2637490.html",
+      "pubDate": "2026-09-09 15:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/09/92e4928f83f205b702294b09e9ea3e34_2637490_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "За бъдеща война с НАТО: Германия разкри как Русия трупа излишък от оръжия",
+      "link": "https://www.actualno.com/europe/za-bydeshta-vojna-s-nato-germanija-razkri-kak-rusija-trupa-izlishyk-ot-oryjija-news_2637585.html",
+      "pubDate": "2026-09-09 14:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/09/35bc6ba2210127d2e6ade832d1192680_2637585_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Tailwind Labs is joining Shopify",
+      "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "pubDate": "2026-09-09 13:27:11",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Apple Introduces AirPods 5",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "pubDate": "2026-09-09 17:39:24",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "pubDate": "2026-09-09 14:37:47",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "GNU Radio in the browser",
+      "link": "https://gnuradioworld.com/",
+      "pubDate": "2026-09-09 15:53:06",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "pubDate": "2026-09-09 17:24:28",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Дрон едва не е ударил самолета на Зеленски на път за погребението на крал Харалд V",
+      "link": "https://frognews.bg/novini/dron-edva-udaril-samoleta-zelenski-pat-pogrebenieto-kral-harald.html",
+      "pubDate": "2026-09-09 18:55:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b84d660a6_zelensky-harkov.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Apple представи първия сгъваем iPhone – нова ера за компанията и по-високи цени",
+      "link": "https://frognews.bg/novini/apple-predstavi-parviya-sgavaem-iphone-nova-era-kompaniyata-visoki-tseni.html",
+      "pubDate": "2026-09-09 18:40:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0af3a8ba2_1788978737_6aa1a6313efe0.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "50 години след смъртта на Мао: Защо Китай още пази образа му?",
+      "link": "https://frognews.bg/novini/50-godini-sled-smartta-mao-zashto-kitay-oshte-pazi-obraza.html",
+      "pubDate": "2026-09-09 18:25:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/04738f474_1788977912_6aa1a2f8bc896.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "ЦСКА победи „Левски“ с 4:2 и спечели Суперкупата на България",
+      "link": "https://frognews.bg/novini/tsska-pobedi-levski-4-2-specheli-superkupata-balgariya.html",
+      "pubDate": "2026-09-09 18:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1a6566f76_1788976901_6aa19f050ec94.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Ивелин Михайлов и Волен Сидеров се кандидатират за президент. Картината преди вота",
+      "link": "https://frognews.bg/novini/ivelin-mihailov-volen-siderov-kandidatirat-prezident-kartinata-predi-vota.html",
+      "pubDate": "2026-09-09 17:55:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f9838259d_1788976419_6aa19d23c593c.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Norway&apos;s PM: Zelenskyy&apos;s plane almost hit by drone",
+      "link": "https://www.dw.com/en/norway-s-pm-zelenskyy-s-plane-almost-hit-by-drone/a-79207528?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-09T20:01:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "China: English to be removed as a graded core subject?",
+      "link": "https://www.dw.com/en/china-english-to-be-removed-as-a-graded-core-subject/a-79199629?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-09T19:34:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Ceuta: EU grants Spain €115 million in emergency aid",
+      "link": "https://www.dw.com/en/ceuta-eu-grants-spain-€115-million-in-emergency-aid/a-79206505?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-09T17:53:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Germany&apos;s connection to the September 11, 2001 attacks",
+      "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-09T17:52:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    },
+    {
+      "title": "Serbia, the conflicted EU candidate",
+      "link": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-09T16:50:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-09T21:01:11.980Z"
+    }
+  ]
 }
