@@ -1,9 +1,432 @@
 {
   "windowStart": "2026-09-09T20:06:45.663Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-10T12:01:37.369Z",
-  "totalItems": 106,
+  "lastUpdated": "2026-09-10T15:02:12.668Z",
+  "totalItems": 139,
   "items": [
+    {
+      "title": "'Алфа Метал': Публикациите в британски медии целят сензация",
+      "link": "https://offnews.bg/112/alfa-metal-publikatciite-v-britanski-medii-tceliat-senzatcia-874443.html",
+      "pubDate": "2026-09-10 14:58:42",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/10/874443/phpj6pqws_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7689
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Лятото на 2026 г. е най-горещото за планетата. През август бяха отбелязани няколко температурни рекорда",
+      "link": "https://offnews.bg/sviat/liatoto-na-2026-g-e-naj-goreshtoto-za-planetata-prez-avgust-biaha-ot-874442.html",
+      "pubDate": "2026-09-10 14:42:07",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/10/874442/phpze8hlh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5417
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "25 души загинаха при пожар на борда на чуждестранен товарен кораб в Китай",
+      "link": "https://offnews.bg/sviat/25-dushi-zaginaha-pri-pozhar-na-borda-na-chuzhdestranen-tovaren-korab-874441.html",
+      "pubDate": "2026-09-10 14:23:07",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/10/874441/phpmokjyi_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8937
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Трима лекари отиват на съд заради смъртта на 6-годишно дете в Пловдив",
+      "link": "https://offnews.bg/zdrave/trima-lekari-otivat-na-sad-zaradi-smartta-na-6-godishno-dete-v-plovdiv-874440.html",
+      "pubDate": "2026-09-10 14:00:44",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/10/874440/phppjynmm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7836
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Задържаха 4-ма за кражба и побой на възрастен мъж от с. Крушевец",
+      "link": "https://offnews.bg/112/zadarzhaha-4-ma-za-krazhba-i-poboj-na-vazrasten-mazh-ot-s-krushevetc-874438.html",
+      "pubDate": "2026-09-10 14:00:07",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/10/874438/phpwpfu8c_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5571
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Руски учения за прекъсване на кабели в Арктика са били спрени от членове на НАТО - dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVEyUENXWDJiM0RXZk91UnRvd29LY1lFbGY0cTJOdzE4MjY4LVk5V1JsZUg4WDJmaFpzcnhWdHlsQmZUZEtXUVhIS05qUXoxUnJGOVVwY3JIUUk1Z3VwaFZOdHJhN1NhLXJLUVhhaUVZWjBJanNiVkF2XzItSVNsakRjdEZ0c0lwYUEwLXRJbmxkblJabW85NkczVDhxOGo4bnc?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 12:51:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Парламентът даде ход на мерки срещу делата шамари - dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVBb1N1QWFkRWVrZDVwSFg2RzVpemVZM0t3bXpzaEFidDlBSlR4TzJfeDVHd1IzdDJIbmQ2MmNfUzQ1T29qcEM0SlpUUUZPMzZ6XzJrXzJQenV1ZllZcm9CcGo1U1BNNFIzZTBPVll5VmhOOHJaUElUQkNKQVNzaXRabF80cTJSWk50bmpfbFZjR196bUpCcUhuTnlWUHRUMjBkb25xYw?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 08:41:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "„Средство за сплашване“ на журналисти. Депутатите приеха на първо четене мерки срещу делата шамари",
+      "link": "https://svobodnatochka.bg/novini/parlamentat-prie-na-parvo-chetene-merki-sresthu-delata-shamari/",
+      "pubDate": "Thu, 10 Sep 2026 12:46:37 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "„Недопустима намеса“. ПП и ДБ осъдиха БНТ за свалянето от ефир на Георги Ангелов. СЕМ ще изслуша Милотинова",
+      "link": "https://svobodnatochka.bg/novini/bnt-reakczii-pp-db-georgi-angelov-sem/",
+      "pubDate": "Thu, 10 Sep 2026 12:27:30 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Защо все повече експерти се опасяват, че изкуственият интелект ще поеме контрола",
+      "link": "https://www.mediapool.bg/zashto-vse-poveche-eksperti-se-opasyavat-che-izkustveniyat-intelekt-shte-poeme-kontrola-news387403.html",
+      "pubDate": "2026-09-10 14:18:39",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_4fd92d5650404a19c9192a8e3852d06c.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "МВР и ДАНС с акция в 12 области срещу схема с лекарства, източвала НЗОК",
+      "link": "https://www.mediapool.bg/mvr-i-dans-s-aktsiya-v-12-oblasti-sreshtu-shema-s-lekarstva-iztochvala-nzok-news387390.html",
+      "pubDate": "2026-09-10 14:12:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_e496e1cd7513a986693ced00a9702411.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "ЕЦБ очаквано повиши за втори път тази година водещите си лихви",
+      "link": "https://www.mediapool.bg/etsb-ochakvano-povishi-za-vtori-pat-tazi-godina-vodeshtite-si-lihvi-news387402.html",
+      "pubDate": "2026-09-10 14:08:14",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_16956bf1c3b02dd35833a4ec502618d0.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Трима лекари на съд за смъртта на 6-годишния Ангел след стоматологично лечение в Пловдив",
+      "link": "https://www.mediapool.bg/trima-lekari-na-sad-za-smartta-na-6-godishniya-angel-sled-stomatologichno-lechenie-v-plovdiv-news387401.html",
+      "pubDate": "2026-09-10 13:51:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_649c1bb3ebf2031c4847ae58e3fd962b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Изследване установи, че смъртните случаи от КОВИД-19 в света са били умишлено занижавани",
+      "link": "https://www.mediapool.bg/izsledvane-ustanovi-che-smartnite-sluchai-ot-kovid-19-v-sveta-sa-bili-umishleno-zanizhavani-news387400.html",
+      "pubDate": "2026-09-10 13:27:37",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_3edb176426a1ec060d85f79ff0913820.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Още едно емблематично име падна от ефира на БНТ",
+      "link": "https://www.actualno.com/society/oshte-edno-emblematichno-ime-padna-ot-efira-na-bnt-news_2637984.html",
+      "pubDate": "2026-09-10 14:53:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/2166119f242aaa002bd8b0cadb6bc9b7_2637984_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Смениха директорите на полицията в Русе и Разград",
+      "link": "https://www.actualno.com/society/smeniha-direktorite-na-policijata-v-ruse-i-razgrad-news_2637981.html",
+      "pubDate": "2026-09-10 14:49:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/4b90853efb63ecbaeaac720fde0d1130_2637981_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "\"Русия е инвестирала сериозно в германски партии\": Как Кремъл планира да прекрои Германия",
+      "link": "https://www.actualno.com/europe/rusija-e-investirala-seriozno-v-germanski-partii-kak-kremyl-planira-da-prekroi-germanija-news_2637979.html",
+      "pubDate": "2026-09-10 14:49:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/31fe0ae14a8e62364af3f068551a99f1_2637979_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Благой Георгиев с остър коментар за Левски: \"Малко се позабравиха\"",
+      "link": "https://www.actualno.com/bgfootball/blagoj-georgiev-s-ostyr-komentar-za-levski-malko-se-pozabraviha-news_2637938.html",
+      "pubDate": "2026-09-10 14:43:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/a433e65e3bab01b865d5a3b748e6fa9b_2637938_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "\"Амнести\": Набирането на чужденци от Русия за войната в Украйна е трафик на хора",
+      "link": "https://www.actualno.com/europe/amnesti-nabiraneto-na-chujdenci-ot-rusija-za-vojnata-v-ukrajna-e-trafik-na-hora-news_2637975.html",
+      "pubDate": "2026-09-10 14:42:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/748b6ef4a2555a4516acab9d6d04eebb_2637975_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "pubDate": "2026-09-10 09:04:14",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "pubDate": "2026-09-10 06:11:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Stockfish 19",
+      "link": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "pubDate": "2026-09-07 16:17:27",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "link": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "pubDate": "2026-09-10 10:13:59",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Тръмп няма да присъства в Ню Йорк на възпоменателната церемония за 11 септември",
+      "link": "https://frognews.bg/novini/tramp-niama-prisastva-niu-iork-vazpomenatelnata-tseremoniia-11-septemvri.html",
+      "pubDate": "2026-09-10 15:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/15f1392e0_1789052450_6aa2c6228b8d0.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Мерц с последно предупреждение от съпартийци заради загубата на избиратели",
+      "link": "https://frognews.bg/novini/merts-posledno-preduprejdenie-sapartiitsi-zaradi-zagubata-izbirateli.html",
+      "pubDate": "2026-09-10 14:55:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7bac40aca_1789052078_6aa2c4ae8d498.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "БФС наказа Левски: Без публика в сектор „А“ заради хвърлена бутилка по време на Суперкупата",
+      "link": "https://frognews.bg/novini/bfs-nakaza-levski-bez-publika-sektor-zaradi-hvarlena-butilka-vreme-superkupata.html",
+      "pubDate": "2026-09-10 14:55:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f5e7ecc18_1789052098_6aa2c4c2c1960.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "„Амнести интернешънъл“: Русия набира чужденци за войната в Украйна чрез трафик на хора",
+      "link": "https://frognews.bg/novini/amnesti-interneshanal-rusiia-nabira-chujdentsi-voinata-ukraina-chrez-trafik-hora.html",
+      "pubDate": "2026-09-10 14:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9b1b0d6d4_1789050436_6aa2be44f20c7.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Корупционна криза и шок в Малта след делото за Дафне Галиция: Искат намеса на ЕС",
+      "link": "https://frognews.bg/novini/koruptsionna-kriza-shok-malta-sled-deloto-dafne-galitsiia-iskat-namesa.html",
+      "pubDate": "2026-09-10 14:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/dc89fd5bb_1789050129_6aa2bd1116e94.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "North Korea spends war windfall on arms, infrastructure",
+      "link": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T14:56:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Germany sets its sights on Russia&apos;s shadow fleet",
+      "link": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T14:31:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "How Celine Dion became a pop culture icon across generations",
+      "link": "https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T13:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "Uganda: Traditional kingdom plunged into succession crisis",
+      "link": "https://www.dw.com/en/uganda-traditional-kingdom-plunged-into-succession-crisis/a-79214786?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T13:51:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
+    {
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "link": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T13:39:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-10T15:02:12.668Z"
+    },
     {
       "title": "Столичната община одобри рекорден дълг от над 350 млн. евро - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjBQaS1ZNlVMa2U5UUdfRk1XSXNKSS1mMjBhZVF4d0ItbjdXT0lEQ2dyejliS1JLd1RaY2dXbkltVEVfdEkyQlJ2cVlXVWl2WDd2eXkwS0VOckdCbmpCU1l3aDgxOUJnQVJnMTZKU3plc3ZrWGNHekZQaEY4YmN2Z3VSZGQ0aDZ4NHVJbEgtRFh5SHlza1RRVV9KVGF2d05teC1pOGRDOXBRaWNiLWc?oc=5",
