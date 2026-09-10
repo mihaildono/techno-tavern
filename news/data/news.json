@@ -131,7 +131,7 @@
       }
     },
     {
-      "title": "&#8222;Прогресивно ми е&#8220;. БНТ свали от ефир водещия на История.бг Георги Ангелов",
+      "title": "&#8222;Прогресивно ми е&#8220;. БНТ свали от ефир в��дещия на История.бг Георги Ангелов",
       "link": "https://svobodnatochka.bg/novini/tova-e-efektiven-nachin-da-bada-nakaran-da-mlakna-bnt-svali-ot-efir/",
       "pubDate": "Wed, 09 Sep 2026 12:21:20 +0000",
       "thumbnail": {
@@ -298,7 +298,17 @@
       }
     },
     {
-      "title": "Tailwind Labs is joining Shopify",
+      "title": "iPhone Duo",
+      "link": "https://www.apple.com/iphone-duo/",
+      "pubDate": "2026-09-09 18:15:43",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Shopify acquires Tailwind",
       "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "pubDate": "2026-09-09 13:27:11",
       "thumbnail": null,
@@ -308,7 +318,17 @@
       }
     },
     {
-      "title": "Apple Introduces AirPods 5",
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "link": "https://tautology.town/2026/06/01/card-networks.html",
+      "pubDate": "2026-09-08 18:11:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "AirPods 5",
       "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "pubDate": "2026-09-09 17:39:24",
       "thumbnail": null,
@@ -318,29 +338,9 @@
       }
     },
     {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "pubDate": "2026-09-09 14:37:47",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "GNU Radio in the browser",
-      "link": "https://gnuradioworld.com/",
-      "pubDate": "2026-09-09 15:53:06",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "pubDate": "2026-09-09 17:24:28",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "pubDate": "2026-09-09 17:33:20",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -413,6 +413,16 @@
       }
     },
     {
+      "title": "Philippines: Several killed, dozens missing after fire on ferry",
+      "link": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-10T01:48:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Finland: Google announces €13 billion AI, energy investment",
       "link": "https://www.dw.com/en/finland-google-announces-€13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-09-09T22:27:00Z",
@@ -451,17 +461,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Germany&apos;s connection to the September 11, 2001 attacks",
-      "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-09T17:52:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-10T00:01:41.438Z"
+  "lastUpdated": "2026-09-10T03:01:08.743Z"
 }
