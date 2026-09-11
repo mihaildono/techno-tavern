@@ -1,9 +1,64 @@
 {
   "windowStart": "2026-09-11T15:31:56.437Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-11T18:02:30.362Z",
-  "totalItems": 57,
+  "lastUpdated": "2026-09-11T21:00:22.796Z",
+  "totalItems": 62,
   "items": [
+    {
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "link": "https://github.com/godot-pty/gpty",
+      "pubDate": "2026-09-11 16:03:05",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-11T21:00:22.796Z"
+    },
+    {
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "link": "https://snap.berkeley.edu/",
+      "pubDate": "2026-09-11 17:36:11",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-11T21:00:22.796Z"
+    },
+    {
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "pubDate": "2026-09-07 18:05:04",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-11T21:00:22.796Z"
+    },
+    {
+      "title": "Logo Programming Language",
+      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "pubDate": "2026-09-09 07:07:26",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-11T21:00:22.796Z"
+    },
+    {
+      "title": "118M Queries per Second on Neki",
+      "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "pubDate": "2026-09-11 15:56:37",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-11T21:00:22.796Z"
+    },
     {
       "title": "Радев: Няма никаква политическа намеса от управляващите в БНТ",
       "link": "https://offnews.bg/politika/radev-niama-nikakva-politicheska-namesa-ot-upravliavashtite-v-bnt-874535.html",
