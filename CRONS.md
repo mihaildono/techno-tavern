@@ -25,7 +25,7 @@ This document details all scheduled background jobs and automated agent pipeline
 - **Crontab Entry:**
   ```cron
   # Fetch news every 3 hours (aligned with 18:00 Sofia time)
-  0 */3 * * * /home/pi/Personal/techno-tavern/scripts/cron-fetch-news.sh >> /home/pi/logs/techno-tavern-fetch.log 2>&1
+  0 */3 * * * /home/neuromancer/Personal/techno-tavern/scripts/cron-fetch-news.sh >> /home/neuromancer/logs/techno-tavern-fetch.log 2>&1
   ```
 - **What it does:**
   1. Pulls latest `origin/main` (`git pull --rebase`).
