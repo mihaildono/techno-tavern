@@ -1,7 +1,512 @@
 {
   "windowStart": "2026-09-12T15:35:38.043Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-12T15:35:38.043Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-12T18:00:21.169Z",
+  "totalItems": 40,
+  "items": [
+    {
+      "title": "ЕЦБ: Бързото внедряване на AI може да увеличи икономиката на еврозоната с 630 млрд. евро годишно",
+      "link": "https://offnews.bg/ikonomika/etcb-barzoto-vnedriavane-na-ai-mozhe-da-uvelichi-ikonomikata-na-evroz-874567.html",
+      "pubDate": "2026-09-12 13:29:57",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/12/874567/phpg6noa5_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5885
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Песков: Ако Зеленски иска среща с Путин, да дойде в Москва",
+      "link": "https://offnews.bg/sviat/peskov-ako-zelenski-iska-sreshta-s-putin-da-dojde-v-moskva-874566.html",
+      "pubDate": "2026-09-12 13:29:07",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/12/874566/phpsia476_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4871
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "След смъртта на Мазонакис: Гърция ще регулира услугите за дълголетие и подмладяване",
+      "link": "https://offnews.bg/sviat/sled-smartta-na-mazonakis-gartcia-shte-regulira-uslugite-za-dalgoleti-874565.html",
+      "pubDate": "2026-09-12 13:22:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/12/874565/phpcwjwiz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4900
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Прокуратурата в Габрово поема пожара в ЕМКО. Разпитан е свидетел (допълнена)",
+      "link": "https://offnews.bg/temida/prokuraturata-v-gabrovo-poema-pozhara-v-emko-razpitan-e-svidetel-dop-874564.html",
+      "pubDate": "2026-09-12 13:01:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/12/874564/php3fzuwz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9014
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Експлозивът за летището в Лайпциг е минал през България",
+      "link": "https://offnews.bg/112/eksplozivat-za-letishteto-v-lajptcig-e-minal-prez-balgaria-874563.html",
+      "pubDate": "2026-09-12 12:51:08",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/12/874563/phpofts8u_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5317
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Гюров поиска свикване на съвета по сигурността към президента - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVJpOFFiM0RYMV90cU15YVJueFZHa1lTZWVTNEpReWlMamhNWF9NRXN6MlhqQUpZOW1XMHN3YlRmSjZnZ2F1bEVGak5qUF83QjlSaWVRWFZuTWw4T1dvcXQ4OTNfYXUzem5TZU1TUTVSWk5aUFJWT29panBuN3U5bERfLUJWNklmaS1ua2U1cGhic21iLWlrVW9nT2hXZ0lfYTBaN3pOUERsVFE?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 10:43:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Протестиращи срещу Тръмп изпълниха улиците на Дъблин - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVzh1bDd0SmVGNS1JZ0VDZVhMWHVURVVTaWNJQ2RWa09URDJtbV9fd21qQnpleVhaYnlwQVZQbG5wWGFOWHBmWXYzZktDcU9KM0F4VVlVeU4zczRrSE1UQ2ZIRFhVakhxTUx0Vy1ZYjVMZWVreksxUlAtRXU0U19lMnNxaXdWSDEyZGNNSlN0SHN0TEJLMzVNbUJTeGxUWEZCTzNaRi1rSnY?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 15:48:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Три трудни решения в света, победа за математиците и кой е \"наркотикът\" на 25 хил. години - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQal9XY2ZGbmxYTXRhSEEyYThLT1FGUEdMR0k1d3FkUEpaWXF0a1dwVnhQUXk1NFpQU0JXTUpuR0ZOaThudWk4RUtkTXJwOXRuWmN4NFppSnFUOXNvVW02NGQyNzZzdHhzWjRBZWRqRDY2UE4yZm91aVJjQWV3UE5tQ0RPbzNGOXJwMWF2b1d5WkFXRlFRT01VVDdoSHZyeWxUTS1nT0FJMDh0ZEZ1d2stYkdKQXhLQ1JEanc?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 12:15:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "ДСБ подкрепи кандидатурите на Андрей Гюров и Георги Кандев за президентските избори - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlJDNVRtSk1DR3lLeE91ZEJGVlBMTnR1TXdNM2NmY3o3ajRuTVd0ajZXTHpEQlhfVXZHbzNwVzNQM3VRVGVSSXZBdC1wdFdiemwxamVWVnAwaW1Dc0k0N0ZBZXg2dUVIWFJZcDlDT3k1eUZTMDhHa1h3ZGw2WEJBM0RmcU5fcmJHMTZLU0RxODJMdUNjTlhHRmVrM2VrRlJBM3ZWdFhZcFl6UEw2?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 16:09:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "БНТ се оплака от политически натиск заради сваления водещ на \"История.БГ\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ05qS0UyZU9uVVh2blZtWUh1dnlPRkRFRGlhaFAyRndTTUpVSXVDdk1pUlVzNDd5ZzdPN1JrMG1ORUtPVDQ3NlJXN0NtUGZLOUxoSHNFWXVBSEhPZFgySEppT2lVLU9QdDVsQ25TWmJGYXBYYktKdUw1b21KOGlzUzBfbGFGVWVocmNXRlVsTC1Oekhub2RFNWZDYUtUaEJtYS11UkMtRG8?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:21:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Гюров иска съвет по сигурността заради взрива в склад за боеприпаси, Йотова обмисля. ДБ настоява за разследване на руска връзка",
+      "link": "https://svobodnatochka.bg/novini/jotov-i-gyurov/",
+      "pubDate": "Sat, 12 Sep 2026 15:02:07 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Ивайло Симеонов, кметът на &#8222;православната&#8220; община Елин Пелин, се кандидатира за президент",
+      "link": "https://svobodnatochka.bg/novini/elin-pelin/",
+      "pubDate": "Sat, 12 Sep 2026 13:15:00 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/09/img_0740-1024x768.jpg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Отново горя склад за боеприпаси на Гебрев. &#8222;ЕМКО&#8220; подозира саботаж, Демерджиев видя &#8222;неглижиране&#8220; в съхранението",
+      "link": "https://svobodnatochka.bg/novini/poreden-pozhar-v-sklad-za-boepripasi-na-emko-db-iska-razsledvane-za-ruska-vrazka/",
+      "pubDate": "Sat, 12 Sep 2026 07:58:04 +0000",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/themes/total-child-theme/assets/images/logo-st-text.jpeg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Голямата картина: Москва, Оксфорд, Камчия и няколко тайни",
+      "link": "https://svobodnatochka.bg/golyamata-kartina/moskva-oksford-kamchiya-nyakolko-tayni/",
+      "pubDate": "Sat, 12 Sep 2026 07:30:00 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "„Да извадим мутрите от сектора“. Защо хората на Радев уплашиха потребителите на бързи кредити",
+      "link": "https://svobodnatochka.bg/novini/barzi-krediti/",
+      "pubDate": "Sat, 12 Sep 2026 05:00:45 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Tръмп \"би се радвал да види Ирландия обединена със Северна Ирландия\"",
+      "link": "https://www.mediapool.bg/tramp-bi-se-radval-da-vidi-irlandiya-obedinena-sas-severna-irlandiya-news387461.html",
+      "pubDate": "2026-09-12 14:28:41",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_b076e2ae864afc14f9ce614f45235594.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Един от заподозрените за взривовете в Лайпциг е свързан с ГРУ. Взривът е осигурен през България",
+      "link": "https://www.mediapool.bg/edin-ot-zapodozrenite-za-vzrivovete-v-laiptsig-e-svarzan-s-gru-vzrivat-e-osiguren-prez-bulgaria-news387460.html",
+      "pubDate": "2026-09-12 13:01:17",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_e62ce207096a55d2e6b244c910c0e8ca.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "\"Емко\": Безхаберното отношение на държавата насърчава извършителите на саботажи",
+      "link": "https://www.mediapool.bg/emko-bezhabernoto-otnoshenie-na-darzhavata-nasarchava-izvarshitelite-na-sabotazhi-news387459.html",
+      "pubDate": "2026-09-12 12:57:59",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_4182bad91f665d12123e15a6a7fa456d.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Пореден пожар в склад за боеприпаси на \"Емко\". Компанията подозира саботаж",
+      "link": "https://www.mediapool.bg/poreden-pozhar-v-sklad-za-boepripasi-na-emko-kompaniyata-podozira-sabotazh-news387451.html",
+      "pubDate": "2026-09-12 12:52:35",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_66d3aa23227dbfcbac5f8de89edc53b4.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Oчаквано и ПП подкрепи Гюров за президент",
+      "link": "https://www.mediapool.bg/ochakvano-i-pp-podkrepi-gyurov-za-prezident-news387458.html",
+      "pubDate": "2026-09-12 11:59:08",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_46907677ff0906c3161dc974247947fe.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Магнитна буря за неделя, 13 септември 2026: Прогноза от САЩ",
+      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-nedelja-13-septemvri-2026-prognoza-ot-sasht-news_2638269.html",
+      "pubDate": "2026-09-12 15:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/11/a01b5836463ef281683cec5e2b0ecda3_2638269_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Кампания за кастрация на женски котки в област Търговище",
+      "link": "https://www.actualno.com/targovishte/kampanija-za-kastracija-na-jenski-kotki-v-oblast-tyrgovishte-news_2638630.html",
+      "pubDate": "2026-09-12 14:51:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/713595dbec22852d6892f8998d7f32e1_2638630_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Дмитрий Медведев: Литва ще изчезне от картата на света",
+      "link": "https://www.actualno.com/europe/dmitrij-medvedev-litva-shte-izchezne-ot-kartata-na-sveta-news_2638637.html",
+      "pubDate": "2026-09-12 14:48:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/d577e1bf3d9b827c9085b88a6ecfb054_2638637_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Казусът с помилването: Десислава Иванчева коментира решението на Илияна Йотова",
+      "link": "https://www.actualno.com/politics/kazusyt-s-pomilvaneto-desislava-ivancheva-komentira-reshenieto-na-ilijana-jotova-news_2638634.html",
+      "pubDate": "2026-09-12 14:33:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/33692feaa2216e0072438e65c866bb69_2638634_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Никола Цолов отпадна от спринта в Мадрид след борба със съотборника си, завършила с инцидент",
+      "link": "https://www.actualno.com/moresport/nikola-colov-otpadna-ot-sprinta-v-madrid-sled-borba-sys-syotbornika-si-zavyrshila-s-incident-news_2638633.html",
+      "pubDate": "2026-09-12 14:26:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/2e903bb200923d27c944fc49512516b7_2638633_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "pubDate": "2026-09-12 11:42:32",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "pubDate": "2026-09-10 07:20:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "pubDate": "2026-09-12 07:54:03",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "pubDate": "2026-09-11 17:45:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "pubDate": "2026-09-12 11:13:38",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Никола Цолов се удари в стената и отпадна от спринта на Формула 2 в Мадрид",
+      "link": "https://frognews.bg/novini/nikola-tsolov-udari-stenata-otpadna-sprinta-formula-2-madrid.html",
+      "pubDate": "2026-09-12 14:25:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0993cc1ef_nikola-tsolov2.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Дронове от Ирак удариха петролопровода, с който Саудитска Арабия заобикаля Ормуз",
+      "link": "https://frognews.bg/novini/dronove-irak-udariha-petroloprovoda-koyto-sauditska-arabiya-zaobikalya-ormuz.html",
+      "pubDate": "2026-09-12 13:35:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1e132aefe_1789220156_6aa5553cac755.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Пускат отново трамваи №12 и №27 по бул. „Княгиня Мария Луиза“",
+      "link": "https://frognews.bg/novini/puskat-otnovo-tramvai-12-27-bul-knyaginya-mariya-luiza.html",
+      "pubDate": "2026-09-12 13:24:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/16dbd9e34_1789219558_6aa552e61ef73.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Над 110 души гасят край Димовци, два от фронтовете на пожара са под контрол",
+      "link": "https://frognews.bg/novini/nad-110-dushi-gasyat-kray-dimovtsi-dva-frontovete-pozhara-pod-kontrol.html",
+      "pubDate": "2026-09-12 13:10:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9f87383f6_1789218507_6aa54ecb4d560.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Подозират саботаж след дерайлирането на влак във Франция, 44 души са ранени",
+      "link": "https://frognews.bg/novini/podozirat-sabotazh-sled-derayliraneto-vlak-vav-frantsiya-44-dushi-raneni.html",
+      "pubDate": "2026-09-12 12:55:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f773b6d55_relsi_vlak_bgnes.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+      "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-12T17:36:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Why are European banks moving gold out of United States?",
+      "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-12T15:32:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Ukraine: Several killed in series of Russian strikes",
+      "link": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-12T15:01:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Bulgaria: Fire at factory making munitions for Ukraine",
+      "link": "https://www.dw.com/en/bulgaria-fire-at-factory-making-munitions-for-ukraine/a-79245062?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-12T12:12:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    },
+    {
+      "title": "Trump visits Ireland, says unification would be &apos;fantastic&apos;",
+      "link": "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-12T11:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T18:00:21.169Z"
+    }
+  ]
 }
