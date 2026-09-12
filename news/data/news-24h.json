@@ -1,9 +1,257 @@
 {
   "windowStart": "2026-09-11T15:31:56.437Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-11T21:01:12.576Z",
-  "totalItems": 62,
+  "lastUpdated": "2026-09-12T00:00:25.298Z",
+  "totalItems": 80,
   "items": [
+    {
+      "title": "Бедствено положение и BG-Alert заради голям пожар край село Димовци, засегнати са над 300 декара иглолистна гора",
+      "link": "https://offnews.bg/obshtestvo/bedstveno-polozhenie-i-bg-alert-zaradi-goliam-pozhar-kraj-selo-dimovtc-874539.html",
+      "pubDate": "2026-09-11 19:45:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/11/874539/phpftxsgb_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6239
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "5-годишно момче загина при инцидент с електрическа тротинетка в Сливен",
+      "link": "https://offnews.bg/112/5-godishno-momche-zagina-pri-intcident-s-elektricheska-trotinetka-v-sl-874538.html",
+      "pubDate": "2026-09-11 19:40:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/11/874538/php44bla2_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 4948
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Лидер на германската еврейска общност получи заплаха за убийство след призив за забрана на ''Алтернатива за Германия''",
+      "link": "https://offnews.bg/sviat/lider-na-germanskata-evrejska-obshtnost-poluchi-zaplaha-za-ubijstvo-sl-874537.html",
+      "pubDate": "2026-09-11 18:49:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/11/874537/phpkdp5aw_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 5296
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Максималната минимална работна заплата по новата формула е 672,80 евро",
+      "link": "https://offnews.bg/ikonomika/maksimalnata-minimalna-rabotna-zaplata-po-novata-formula-e-672-80-evro-874536.html",
+      "pubDate": "2026-09-11 18:07:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/11/874536/phpfb2qju_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6339
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Четиригодишно момче е загинало при инцидент в сливенския квартал \"Надежда\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmc1SjItYlhCVDhuN0R0bUkwRnd3bERMRWdFNHJxU0hFclpINHU5ZkYxeW91Z2FiNWRlb3dMbTAyYjc3QWFuSUs5Y2RqNXZZWUFwRTFuZ1Fwd013dzgzTDEwNXROUWV3OFV5NXJMTFRPM1ZNeV9sRXlKOWJFSUZSTGJVOFEyNHpMUnJYRk53bUxaY0k2NjFtSjBKb1lMMm5BTEhTeU41QQ?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 19:37:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Тръмп отбеляза 25-ата годишнина от атаките от 11 септември в Пентагона",
+      "link": "https://www.mediapool.bg/tramp-otbelyaza-25-ata-godishnina-ot-atakite-ot-11-septemvri-v-pentagona-news387449.html",
+      "pubDate": "2026-09-11 20:01:49",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_4aa82594c568d4c773f9830ec43d1b50.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "И ДСБ подкрепи официално кандидатурата на Андрей Гюров и Георги Кандев",
+      "link": "https://www.mediapool.bg/i-dsb-podkrepi-ofitsialno-kandidaturata-na-andrei-gyurov-i-georgi-kandev-news387448.html",
+      "pubDate": "2026-09-11 19:54:52",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_059e422acb1f88ae671d7b34116940e7.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Илиан Илиев изригна срещу играчи без психика: Събираме мъртъвци в съблекалнята!",
+      "link": "https://www.actualno.com/bgfootball/ilian-iliev-izrigna-sreshtu-igrachi-bez-psihika-sybirame-myrtyvci-v-syblekalnjata-news_2638464.html",
+      "pubDate": "2026-09-11 20:54:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/11/b60b4dd0be827de769ea6196bf8d034e_2638464_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Класиране на голмайсторите в Първа лига 2026/27 (ОБНОВЕНА)",
+      "link": "https://www.actualno.com/bgfootball/klasirane-na-golmajstorite-v-pyrva-liga-202627-obnovena-news_2625725.html",
+      "pubDate": "2026-09-11 20:21:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/08/31/e108cf82511fe6b7d67c9daf0d6c38da_2625725_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Пълно класиране в Първа лига 2026/27 - един отбор остава без победа в елита",
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-edin-otbor-ostava-bez-pobeda-v-elita-news_2618889.html",
+      "pubDate": "2026-09-11 20:18:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Пълни резултати на всички мачове в Първа лига през сезон 2026/27 - страхотен обрат на старта на 9-ия кръг!",
+      "link": "https://www.actualno.com/bgfootball/pylni-rezultati-na-vsichki-machove-v-pyrva-liga-prez-sezon-202627-strahoten-obrat-na-starta-na-9-ija-kryg-news_2618915.html",
+      "pubDate": "2026-09-11 20:15:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/8159753255a97500e8279b9aee30eb50_2618915_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Пълна програма на Първа лига 2026/27 - първи тест за супершампиона ЦСКА без Христо Янев",
+      "link": "https://www.actualno.com/bgfootball/pylna-programa-na-pyrva-liga-202627-pyrvi-test-za-supershampiona-cska-bez-hristo-janev-news_2618909.html",
+      "pubDate": "2026-09-11 20:14:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/b446db2d9f93b1c1b914bd3777551f27_2618909_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "България с ново 3:0 на ЕвроВолей, повали и Португалия",
+      "link": "https://frognews.bg/novini/balgariia-novo-3-0-evrovolei-povali-portugaliia.html",
+      "pubDate": "2026-09-11 19:28:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6f155224c_1789155129_6aa4573936044.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "ЦРУ разкри: Предупреждение за самолет с експлозиви е имало още през 1998 г.",
+      "link": "https://frognews.bg/novini/tsru-razkri-preduprejdenie-samolet-eksplozivi-imalo-oshte-prez-1998.html",
+      "pubDate": "2026-09-11 19:10:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/82d94e14e_1789154789_6aa455e5da280.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "„Откровена шарлатания“: Цветлин Йовчев за антидроновите системи",
+      "link": "https://frognews.bg/novini/otkrovena-sharlataniya-tsvetlin-yovchev-antidronovite-sistemi.html",
+      "pubDate": "2026-09-11 18:57:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/bda0894c1_1789153486_6aa450ceeb248.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Ердоган заговори за „наближаващи“ избори: Възможен ли е предсрочен вот в Турция?",
+      "link": "https://frognews.bg/novini/erdogan-zagovori-nablijavashti-izbori-vazmojen-predsrochen-vot-turtsiia.html",
+      "pubDate": "2026-09-11 18:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d8ae3abd9_erdogan_bgnes.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "Планината сменя характера си: ПСС предупреди туристите",
+      "link": "https://frognews.bg/novini/planinata-smenia-haraktera-pss-predupredi-turistite.html",
+      "pubDate": "2026-09-11 18:13:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8cf455deb_planinska_slujba.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
+    {
+      "title": "France: More than 40 injured in train derailment",
+      "link": "https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-11T21:01:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-12T00:00:25.298Z"
+    },
     {
       "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
       "link": "https://github.com/godot-pty/gpty",
