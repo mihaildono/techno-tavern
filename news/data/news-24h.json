@@ -1,9 +1,134 @@
 {
   "windowStart": "2026-09-11T15:31:56.437Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-12T00:01:36.672Z",
-  "totalItems": 80,
+  "lastUpdated": "2026-09-12T03:00:28.099Z",
+  "totalItems": 90,
   "items": [
+    {
+      "title": "\"Украйна е способна да отговори\": Зеленски предупреди Русия да не удря енергийни обекти през зимата",
+      "link": "https://www.actualno.com/europe/ukrajna-e-sposobna-da-otgovori-zelenski-predupredi-rusija-da-ne-udrja-energijni-obekti-prez-zimata-news_2638476.html",
+      "pubDate": "2026-09-11 22:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/2265a46689e065e649374022496f0acc_2638476_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "Потвърдено: Русия ще участва на срещата на Г-20 в Хюстън",
+      "link": "https://www.actualno.com/europe/potvyrdeno-rusija-shte-uchastva-na-sreshtata-na-g-20-v-hustyn-news_2638474.html",
+      "pubDate": "2026-09-11 22:30:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/5a62fe03995a4876f0041d31fcac8a89_2638474_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "Путин: Изпращането на войски в Украйна означава война с нас, не възнамеряваме да нападаме Европа (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/putin-izprashtaneto-na-vojski-v-ukrajna-oznachava-vojna-s-nas-ne-vyznamerjavame-da-napadame-evropa-video-news_2638475.html",
+      "pubDate": "2026-09-11 22:10:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/e32a0f7d728dc2abe244723ab3149121_2638475_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "В САЩ: Кръщават летище на кънтри легендата Доли Партък",
+      "link": "https://www.actualno.com/music/v-sasht-kryshtavat-letishte-na-kyntri-legendata-doli-partyk-news_2638472.html",
+      "pubDate": "2026-09-11 22:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/49d21ad5e95bfedb7a659ae38b8b0e14_2638472_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "Нов пожар в склад за боеприпаси на \"ЕМКО\", огънят се вижда от километри",
+      "link": "https://www.actualno.com/crime/nov-pojar-v-sklad-za-boepripasi-na-emko-ogynjat-se-vijda-ot-kilometri-news_2638470.html",
+      "pubDate": "2026-09-11 21:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/0fcaca14cf32afd51eff0cb0200ec9e6_2638470_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "pubDate": "2026-09-11 23:17:42",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "pubDate": "2026-09-11 17:45:12",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "pubDate": "2026-09-11 18:24:55",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "pubDate": "2026-09-09 13:59:50",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "pubDate": "2026-09-11 18:50:36",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-12T03:00:28.099Z"
+    },
     {
       "title": "Бедствено положение и BG-Alert заради голям пожар край село Димовци, засегнати са над 300 декара иглолистна гора",
       "link": "https://offnews.bg/obshtestvo/bedstveno-polozhenie-i-bg-alert-zaradi-goliam-pozhar-kraj-selo-dimovtc-874539.html",
