@@ -1,9 +1,164 @@
 {
   "windowStart": "2026-09-12T15:35:38.043Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-13T06:00:22.908Z",
-  "totalItems": 75,
+  "lastUpdated": "2026-09-13T06:01:10.381Z",
+  "totalItems": 86,
   "items": [
+    {
+      "title": "Няма го вече съветският войник с пералнята - на негово място ще расте дърво",
+      "link": "https://offnews.bg/sviat/niama-go-veche-savetskiat-vojnik-s-peralniata-na-negovo-miasto-shte-874575.html",
+      "pubDate": "2026-09-13 05:24:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874575/phplfleez_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8604
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Полски генерал: Руснаците издържат на сериозни лишения, икономическият натиск не е достатъчен",
+      "link": "https://offnews.bg/sviat/polski-general-rusnatcite-izdarzhat-na-seriozni-lishenia-ikonomiches-874574.html",
+      "pubDate": "2026-09-13 05:03:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874574/php8fly7h_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6530
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Прохладна неделя, температурите падат",
+      "link": "https://offnews.bg/obshtestvo/prohladna-nedelia-temperaturite-padat-874573.html",
+      "pubDate": "2026-09-13 04:46:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874573/phpgili6y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8182
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Мелиса Джефърсън-Уудън и Кени Беднарек са кралете на 100 м този сезон",
+      "link": "https://www.mediapool.bg/melisa-dzhefarsan-uudan-i-keni-bednarek-sa-kralete-na-100-m-tozi-sezon-news387464.html",
+      "pubDate": "2026-09-13 05:27:08",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_76711aa554a2209d2fe9ec9924cc413b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Край на романтиката: Как ЕС променя правилата на разширяването",
+      "link": "https://www.mediapool.bg/krai-na-romantikata-kak-es-promenya-pravilata-na-razshiryavaneto-news387446.html",
+      "pubDate": "2026-09-13 05:10:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_33a03269ce928f4054135cdfff34dd58.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "“Неизвестен“ снаряд удари кораб в Ормузкия проток",
+      "link": "https://www.actualno.com/asia/neizvesten-snarjad-udari-korab-v-ormuzkija-protok-news_2638726.html",
+      "pubDate": "2026-09-13 05:49:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/25d88cf107a40dd863562fa11f3ecd70_2638726_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Натоварен трафик на три гранични пункта",
+      "link": "https://www.actualno.com/society/natovaren-trafik-na-tri-granichni-punkta-news_2638735.html",
+      "pubDate": "2026-09-13 05:35:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/70b2c3db33944749d6a68cebddfaec92_2638735_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Отново в Тихия океан: Потъна ферибот, има жертва",
+      "link": "https://www.actualno.com/asia/otnovo-v-tihija-okean-potyna-feribot-ima-jertva-news_2638727.html",
+      "pubDate": "2026-09-13 05:29:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/596aa5a79462e7a7daff22906d2f7f4c_2638727_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Пътнически кораб с 243 души на борда изчезна в Тихия океан",
+      "link": "https://www.actualno.com/asia/pytnicheski-korab-s-243-dushi-na-borda-izchezna-v-tihija-okean-news_2638730.html",
+      "pubDate": "2026-09-13 05:22:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/b1708082f6befff2adced29bb9a8b8e1_2638730_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "13 септември: Избухва Септемврийското въстание",
+      "link": "https://www.actualno.com/society/13-septemvri-izbuhva-septemvrijskoto-vystanie-news_2638068.html",
+      "pubDate": "2026-09-13 04:45:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/da08bff7d69d8864deb1eebef563cde8_2638068_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
+    {
+      "title": "Руската хибридна война: Българска следа в атентата в Лайпциг, следите водят към ГРУ",
+      "link": "https://frognews.bg/novini/ruskata-hibridna-voina-balgarska-sleda-atentata-laiptsig-sledite-vodiat-kam-gru.html",
+      "pubDate": "2026-09-12 17:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0f8418e3f_1789229145_6aa57859ec76b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T06:01:10.381Z"
+    },
     {
       "title": "Русия изпраща отвлечени украински деца в Северна Корея, твърди документ на ЕС",
       "link": "https://svobodnatochka.bg/istorii/rusiya-izprastha-otvlecheni-ukrainski-decza-v-severna-koreya/",

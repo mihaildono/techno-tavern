@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Няма го вече съветският войник с пералнята - на негово място ще расте дърво",
+      "link": "https://offnews.bg/sviat/niama-go-veche-savetskiat-vojnik-s-peralniata-na-negovo-miasto-shte-874575.html",
+      "pubDate": "2026-09-13 05:24:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874575/phplfleez_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8604
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Полски генерал: Руснаците издържат на сериозни лишения, икономическият натиск не е достатъчен",
+      "link": "https://offnews.bg/sviat/polski-general-rusnatcite-izdarzhat-na-seriozni-lishenia-ikonomiches-874574.html",
+      "pubDate": "2026-09-13 05:03:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874574/php8fly7h_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6530
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Прохладна неделя, температурите падат",
+      "link": "https://offnews.bg/obshtestvo/prohladna-nedelia-temperaturite-padat-874573.html",
+      "pubDate": "2026-09-13 04:46:43",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874573/phpgili6y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8182
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
       "title": "Правителството на Мадяр отменя закони на Орбан за хомосексуалните",
       "link": "https://offnews.bg/sviat/pravitelstvoto-na-madiar-otmenia-zakoni-na-orban-za-homoseksualnite-874572.html",
       "pubDate": "2026-09-12 18:36:06",
@@ -22,48 +64,6 @@
         "link": "https://i2.offnews.bg/events/2026/09/12/874571/phpar0ke0_559x345.jpg",
         "type": "image/jpeg",
         "length": 8004
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Янкулов и Дечев опровергаха БНТ - не са част от ничий инициативен комитет",
-      "link": "https://offnews.bg/politika/iankulov-i-dechev-oprovergaha-bnt-ne-sa-chast-ot-nichij-initciativen-874570.html",
-      "pubDate": "2026-09-12 16:05:27",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/12/874570/phpfbmtky_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8473
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Само за 48 часа партията на Фараж е получила две дарения по 36 млн. паунда",
-      "link": "https://offnews.bg/sviat/samo-za-48-chasa-partiata-na-farazh-e-poluchila-dve-darenia-po-36-mln-874569.html",
-      "pubDate": "2026-09-12 15:48:15",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/12/874569/phplgcrd8_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5673
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Шефът на ключова служба във ФСБ напусна заради влошено здраве",
-      "link": "https://offnews.bg/sviat/shefat-na-kliuchova-sluzhba-vav-fsb-napusna-zaradi-vlosheno-zdrave-874568.html",
-      "pubDate": "2026-09-12 15:09:09",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/12/874568/phpijoimo_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7892
       },
       "source": {
         "name": "OffNews",
@@ -175,6 +175,30 @@
       }
     },
     {
+      "title": "Мелиса Джефърсън-Уудън и Кени Беднарек са кралете на 100 м този сезон",
+      "link": "https://www.mediapool.bg/melisa-dzhefarsan-uudan-i-keni-bednarek-sa-kralete-na-100-m-tozi-sezon-news387464.html",
+      "pubDate": "2026-09-13 05:27:08",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_76711aa554a2209d2fe9ec9924cc413b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Край на романтиката: Как ЕС променя правилата на разширяването",
+      "link": "https://www.mediapool.bg/krai-na-romantikata-kak-es-promenya-pravilata-na-razshiryavaneto-news387446.html",
+      "pubDate": "2026-09-13 05:10:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_33a03269ce928f4054135cdfff34dd58.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Божидар Саръбоюков е втори на световния Ultimate в атлетиката",
       "link": "https://www.mediapool.bg/bozhidar-saraboyukov-e-vtori-na-svetovniya-ultimate-v-atletikata-news387463.html",
       "pubDate": "2026-09-12 18:34:02",
@@ -211,35 +235,11 @@
       }
     },
     {
-      "title": "Един от заподозрените за взривовете в Лайпциг е свързан с ГРУ. Взривът е осигурен през България",
-      "link": "https://www.mediapool.bg/edin-ot-zapodozrenite-za-vzrivovete-v-laiptsig-e-svarzan-s-gru-vzrivat-e-osiguren-prez-bulgaria-news387460.html",
-      "pubDate": "2026-09-12 13:01:17",
+      "title": "“Неизвестен“ снаряд удари кораб в Ормузкия проток",
+      "link": "https://www.actualno.com/asia/neizvesten-snarjad-udari-korab-v-ormuzkija-protok-news_2638726.html",
+      "pubDate": "2026-09-13 05:49:00",
       "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_e62ce207096a55d2e6b244c910c0e8ca.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "\"Емко\": Безхаберното отношение на държавата насърчава извършителите на саботажи",
-      "link": "https://www.mediapool.bg/emko-bezhabernoto-otnoshenie-na-darzhavata-nasarchava-izvarshitelite-na-sabotazhi-news387459.html",
-      "pubDate": "2026-09-12 12:57:59",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_4182bad91f665d12123e15a6a7fa456d.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Реал Мадрид се върна на пътя на победата с разгром над трандиционно труден съперник",
-      "link": "https://www.actualno.com/football/real-madrid-se-vyrna-na-pytja-na-pobedata-s-razgrom-nad-trandicionno-truden-sypernik-news_2638715.html",
-      "pubDate": "2026-09-12 21:10:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/8468c3008399d73e62437afb4299e50d_2638715_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/25d88cf107a40dd863562fa11f3ecd70_2638726_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -248,11 +248,11 @@
       }
     },
     {
-      "title": "Новата перла и Давид Рая спасиха Арсенал от първа издънка във Висшата лига",
-      "link": "https://www.actualno.com/football/novata-perla-i-david-raja-spasiha-arsenal-ot-pyrva-izdynka-vyv-visshata-liga-news_2638713.html",
-      "pubDate": "2026-09-12 20:56:00",
+      "title": "Натоварен трафик на три гранични пункта",
+      "link": "https://www.actualno.com/society/natovaren-trafik-na-tri-granichni-punkta-news_2638735.html",
+      "pubDate": "2026-09-13 05:35:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/262c4e03fac3590da0da335c8a140f70_2638713_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/70b2c3db33944749d6a68cebddfaec92_2638735_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -261,11 +261,11 @@
       }
     },
     {
-      "title": "Даниел Моралес: \"Това е ДНК-то на ЦСКА, отборът знаеше какво иска\"",
-      "link": "https://www.actualno.com/bgfootball/daniel-morales-tova-e-dnk-to-na-cska-otboryt-znaeshe-kakvo-iska-news_2638711.html",
-      "pubDate": "2026-09-12 20:50:00",
+      "title": "Отново в Тихия океан: Потъна ферибот, има жертва",
+      "link": "https://www.actualno.com/asia/otnovo-v-tihija-okean-potyna-feribot-ima-jertva-news_2638727.html",
+      "pubDate": "2026-09-13 05:29:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/0bc8cfbab1cc626c88ef3ada30394c6a_2638711_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/596aa5a79462e7a7daff22906d2f7f4c_2638727_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -274,11 +274,11 @@
       }
     },
     {
-      "title": "Александър Тунчев разкри какво закопа Арда срещу ЦСКА и отправи сериозен залп към съдийството",
-      "link": "https://www.actualno.com/bgfootball/aleksandyr-tunchev-razkri-kakvo-zakopa-arda-sreshtu-cska-i-otpravi-seriozen-zalp-kym-sydijstvoto-news_2638709.html",
-      "pubDate": "2026-09-12 20:37:00",
+      "title": "Пътнически кораб с 243 души на борда изчезна в Тихия океан",
+      "link": "https://www.actualno.com/asia/pytnicheski-korab-s-243-dushi-na-borda-izchezna-v-tihija-okean-news_2638730.html",
+      "pubDate": "2026-09-13 05:22:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/12/283159dba2c05aa747ed3dd00322829b_2638709_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/b1708082f6befff2adced29bb9a8b8e1_2638730_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -287,11 +287,11 @@
       }
     },
     {
-      "title": "Пълно класиране в Първа лига 2026/27 - един отбор остава без победа в елита",
-      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-edin-otbor-ostava-bez-pobeda-v-elita-news_2618889.html",
-      "pubDate": "2026-09-12 20:33:00",
+      "title": "13 септември: Избухва Септемврийското въстание",
+      "link": "https://www.actualno.com/society/13-septemvri-izbuhva-septemvrijskoto-vystanie-news_2638068.html",
+      "pubDate": "2026-09-13 04:45:00",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/07/16/3843f223055764ac96079c212b73a9bd_2618889_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/10/da08bff7d69d8864deb1eebef563cde8_2638068_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -402,11 +402,11 @@
       }
     },
     {
-      "title": "Дете загина при игра в Сливен, полицията изключи удар с тротинетка",
-      "link": "https://frognews.bg/novini/dete-zagina-pri-igra-sliven-politsiyata-izklyuchi-udar-trotinetka.html",
+      "title": "Руската хибридна война: Българска следа в атентата в Лайпциг, следите водят към ГРУ",
+      "link": "https://frognews.bg/novini/ruskata-hibridna-voina-balgarska-sleda-atentata-laiptsig-sledite-vodiat-kam-gru.html",
       "pubDate": "2026-09-12 17:00:00",
       "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/d5e1c8414_991-ratio-policiia-policejska-lenta.webp",
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0f8418e3f_1789229145_6aa57859ec76b.webp",
         "type": "image/webp"
       },
       "source": {
@@ -465,5 +465,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-13T06:00:22.816Z"
+  "lastUpdated": "2026-09-13T06:01:10.369Z"
 }
