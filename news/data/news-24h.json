@@ -1,9 +1,97 @@
 {
   "windowStart": "2026-09-12T15:35:38.043Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-13T06:01:10.381Z",
-  "totalItems": 86,
+  "lastUpdated": "2026-09-13T09:00:23.727Z",
+  "totalItems": 94,
   "items": [
+    {
+      "title": "Ресторантите (не) са скъпи - dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S0VXS25fUlRPMFlFMlJLWmxXU0dJczl6MTJoX2NIM2FhNEMySjBaYkxBS3JjenhLMXJteENEQTE5OXVoWDktNG9jdXlrdHFYa2pJVHNpSWUzaHQtazdoR29Vdy03YkdFWEozdFVsTUdPamVYMWZzQVItVHhqOUU?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 04:35:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "Силното поскъпване не е при храните, а в ресторантите, обяви министър - dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVl1ZENlcHM4TWszUEVEWEpVN0JSeHRwUEM2LWFsdHdpOEc5R29Ub0Q1cEIxS3RzYkR3MlBKTUx2VVZXQUloZm5OazFRRHI5UXdUWGw0TlAzbVl3b0dyQkZvTU5oLTVwRjA4MEtMQTRBelprUkNIeERjLXYwMzNiaUhSa1gtUUtZNnJqTUgxX1FONjA5YWNnWjZYU1JvUHVUZzl3N2ZhV250a1BV?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 17:47:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "link": "https://icm.museum/",
+      "pubDate": "2026-09-13 02:43:57",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "pubDate": "2026-09-13 01:22:31",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
+      "link": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "pubDate": "2026-09-10 09:32:17",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "Germany: Lower Saxony local polls in focus after AfD win",
+      "link": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T08:26:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "A Romani artist in Hungary reclaims his identity",
+      "link": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T08:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
+    {
+      "title": "Indonesia rescuers search for 140 people after ferry sinks",
+      "link": "https://www.dw.com/en/indonesia-rescuers-search-for-140-people-after-ferry-sinks/a-79248600?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T06:29:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T09:00:23.727Z"
+    },
     {
       "title": "Няма го вече съветският войник с пералнята - на негово място ще расте дърво",
       "link": "https://offnews.bg/sviat/niama-go-veche-savetskiat-vojnik-s-peralniata-na-negovo-miasto-shte-874575.html",
