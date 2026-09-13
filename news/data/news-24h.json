@@ -1,7 +1,508 @@
 {
   "windowStart": "2026-09-13T15:33:45.195Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-13T15:33:45.195Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-13T18:00:22.341Z",
+  "totalItems": 40,
+  "items": [
+    {
+      "title": "Асен Василев: През 2025 г. Йотова помилва втори наркодилър, рецидивист и част от ОПГ",
+      "link": "https://offnews.bg/politika/asen-vasilev-prez-2025-g-jotova-pomilva-vtori-narkodilar-retcidivis-874594.html",
+      "pubDate": "2026-09-13 14:11:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874594/phphhxqwx_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 3556
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Сенчестият флот на Русия: и Германия ще подхожда по-твърдо?",
+      "link": "https://offnews.bg/dw/senchestiat-flot-na-rusia-i-germania-shte-podhozhda-po-tvardo-874593.html",
+      "pubDate": "2026-09-13 14:06:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874593/phphd56eq_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 6423
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Над 30 арестувани при мащабна акция в Турция срещу ЛГБТ асоциации и свързани с тях хора",
+      "link": "https://offnews.bg/sviat/nad-30-arestuvani-pri-mashtabna-aktcia-v-turtcia-sreshtu-lgbt-asotciat-874590.html",
+      "pubDate": "2026-09-13 13:47:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874590/phpzti1sh_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7960
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "35-годишен мъж загина при трудов инцидент в Карлово",
+      "link": "https://offnews.bg/112/35-godishen-mazh-zagina-pri-trudov-intcident-v-karlovo-874589.html",
+      "pubDate": "2026-09-13 13:19:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/13/874589/php8a9k3v_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7879
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Кога започват Коледните пости и колко продължават",
+      "link": "https://offnews.bg/tcarkoven-kalendar/koga-zapochvat-kolednite-posti-i-kolko-prodalzhavat-874493.html",
+      "pubDate": "2026-09-13 12:59:55",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/11/874493/phpvrivtw_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 9137
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "С Турция са водени разговори за логистична подкрепа за \"Евровизия\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeS1rbE1GVTFLVkV3OU5WaGF6b2tJM1puUTRmdlRPRmw3UndrRmI1Rjc3UV9ZSVAzU1ZwWHdBRVFZaElGSC1xZUlQRXNTNDVxZ09aaUhZNFFDRE1oc2pWTTloZlBGZkJEZnJHeXYwcnRhYk84T3g1Y2ZlcXY4OXk2a1pRQ3NwbHJnd1p1b1RteDlBeXo1ekZaZkFWMFV1aEo5N2NzdzNyVjVMWGQ4SGc?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 10:14:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Проверки хванаха в нарушение 32-ма лични лекари на болни от морбили - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMC1DeWVxS3YzdnFOQ3dwWmhCc25fcU5URkRBTVZ4OWU4RWFadEpDa0RwTS1xTFMxWFRqc1pwUEVfUjhPb0I0OGpyS1RJMGxXRWxGcFVKcjZZTFF1Mm5jb1lXV1VRa0lZcXVzeDIzX3ZuVkFZVjNxcVMxMzZrYTVOUWswcEQzRWliOGNyT1FKT1RCTGxXc18zV0NrRVpDc2tPRk9KYnNQdVpMRVU2?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 08:30:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Ресторантите (не) са скъпи - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S0VXS25fUlRPMFlFMlJLWmxXU0dJczl6MTJoX2NIM2FhNEMySjBaYkxBS3JjenhLMXJteENEQTE5OXVoWDktNG9jdXlrdHFYa2pJVHNpSWUzaHQtazdoR29Vdy03YkdFWEozdFVsTUdPamVYMWZzQVItVHhqOUU?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 04:35:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Силното поскъпване не е при храните, а в ресторантите, обяви министър - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVl1ZENlcHM4TWszUEVEWEpVN0JSeHRwUEM2LWFsdHdpOEc5R29Ub0Q1cEIxS3RzYkR3MlBKTUx2VVZXQUloZm5OazFRRHI5UXdUWGw0TlAzbVl3b0dyQkZvTU5oLTVwRjA4MEtMQTRBelprUkNIeERjLXYwMzNiaUhSa1gtUUtZNnJqTUgxX1FONjA5YWNnWjZYU1JvUHVUZzl3N2ZhV250a1BV?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 17:47:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "На среща при премиера ще се обсъжда охраната на стратегически обекти - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRldZSnE2SDFXUkJ5Mzg2RFp6bG8xMDZtZUk5S2lCNmRkOFRfRFUyUExvNWNOUXNfSWZDR3hfT1R2eUVidGZvNTVXRkh1SHo3MG84ZGlOdFZZZ0tsZHdxOWd2bEJzXzk1VDZDMGc3QmM2NzRiUWdKN1dtNUR5cGtlOEpQX3B4a2ZZaFd4OXNwSkp6c3c2dTFVT2x3TTYyYW9OU3BFMURR?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 09:51:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "&#8222;Канал на помилвания&#8220;. Асен Василев посочи още наркодилъри, освободени от Йотова",
+      "link": "https://svobodnatochka.bg/novini/asen-vasilev-obyavi-i-drugi-pomilvani-ot-jotova-narkodilari/",
+      "pubDate": "Sun, 13 Sep 2026 15:39:09 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "След взривовете на боеприпаси. Правителството ще засили охраната на стратегическите обекти",
+      "link": "https://svobodnatochka.bg/novini/pravitelstvoto-sthe-zasili-ohranata-na-strategicheskite-obekti/",
+      "pubDate": "Sun, 13 Sep 2026 13:08:52 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "&#8222;Създал съм ГЕРБ, за да победя БСП&#8220;. Борисов няма да гласува за Йотова. Крум Зарков я защити за помилвания наркотрафикант",
+      "link": "https://svobodnatochka.bg/novini/sazdal-sam-gerb-za-da-pobedi-bsp-borisov-nyama-da-glasuva-za-jotova-krum-zarkov-ya-zasthiti/",
+      "pubDate": "Sun, 13 Sep 2026 11:01:10 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Русия удари Одеса и Западна Украйна, пострада влакът за Варшава. Полша обяви въздушна тревога",
+      "link": "https://svobodnatochka.bg/novini/rusiya-dronove-odeska-oblast-zapadna-ukayna-polsha-trevoga/",
+      "pubDate": "Sun, 13 Sep 2026 09:14:48 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Русия изпраща отвлечени украински деца в Северна Корея, твърди документ на ЕС",
+      "link": "https://svobodnatochka.bg/istorii/rusiya-izprastha-otvlecheni-ukrainski-decza-v-severna-koreya/",
+      "pubDate": "Sun, 13 Sep 2026 05:11:20 +0000",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Асен Василев: Илияна Йотова е помилвала 5-ма, осъдени за наркотици",
+      "link": "https://www.mediapool.bg/asen-vasilev-iliyana-yotova-e-pomilvala-5-ma-osadeni-za-narkotitsi-news387467.html",
+      "pubDate": "2026-09-13 14:30:29",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_345bae2cdfa46b7a6b29f537ee1df92f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Управляващите ще засилват охраната на стратегически обекти",
+      "link": "https://www.mediapool.bg/upravlyavashtite-shte-zasilvat-ohranata-na-strategicheski-obekti-news387470.html",
+      "pubDate": "2026-09-13 13:34:47",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_b07d67b1683d7bd4cd6e5febebc47f92.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "МВР обеща подробности от разследването за \"Петрохан\" в понеделник",
+      "link": "https://www.mediapool.bg/mvr-obeshta-podrobnosti-ot-razsledvaneto-za-petrohan-v-ponedelnik-news387469.html",
+      "pubDate": "2026-09-13 12:07:49",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_b98a0da4c0c414e2587728c2c63265cb.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Борисов нямало да гласува за Йотова, избирателите на ГЕРБ били отблъснати от Гюров",
+      "link": "https://www.mediapool.bg/borisov-nyamalo-da-glasuva-za-yotova-izbiratelite-na-gerb-bili-otblasnati-ot-gyurov-news387468.html",
+      "pubDate": "2026-09-13 10:31:57",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_704af073b7960e795dfafd5659f46e1a.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Елена Рибакина детронира Арина Сабаленка и спечели US Open",
+      "link": "https://www.mediapool.bg/elena-ribakina-detronira-arina-sabalenka-i-specheli-us-open-news387466.html",
+      "pubDate": "2026-09-13 06:53:14",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_9962f1cb26cafd31b1152e5dbc99cd34.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Магнитна буря за понеделник, 14 септември 2026: Прогноза от САЩ",
+      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-ponedelnik-14-septemvri-2026-prognoza-ot-sasht-news_2638271.html",
+      "pubDate": "2026-09-13 15:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/11/482cf13fe96ad9d58effba6e2b01309b_2638271_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Хитов писател и криминален психолог за \"Петрохан\": Виждал съм случаи на групово самоубийство, но никога с огнестрелно оръжие",
+      "link": "https://www.actualno.com/society/hitov-pisatel-i-kriminalen-psiholog-za-petrohan-vijdal-sym-sluchai-na-grupovo-samoubijstvo-no-nikoga-s-ognestrelno-oryjie-news_2638884.html",
+      "pubDate": "2026-09-13 14:52:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/e106dbf78c24d154d04c5e75c92054f5_2638884_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Ферибот с над 240 души на борда потъна край остров Ява (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/feribot-s-nad-240-dushi-na-borda-potyna-kraj-ostrov-java-video-news_2638877.html",
+      "pubDate": "2026-09-13 14:46:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/f2186ab14c4417176339f96b3f509ba1_2638877_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Асен Василев избухна с нов пример за Илияна Йотова: Освободила е втори наркодилър след Петричкия Ескобар",
+      "link": "https://www.actualno.com/politics/asen-vasilev-izbuhna-s-nov-primer-za-ilijana-jotova-osvobodila-e-vtori-narkodilyr-sled-petrichkija-eskobar-news_2638878.html",
+      "pubDate": "2026-09-13 14:44:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/33e5464c1ab0d9c2e3bb32363c003ce8_2638878_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "След Лудогорец и ЦСКА: Сензация в Първа лига спря още един гранд в елита",
+      "link": "https://www.actualno.com/bgfootball/sled-ludogorec-i-cska-senzacija-v-pyrva-liga-sprja-oshte-edin-grand-v-elita-news_2638876.html",
+      "pubDate": "2026-09-13 14:41:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/51b842ab9d87b18bdb3e0f0dccef3e47_2638876_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "JetKVM Mini",
+      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "pubDate": "2026-09-13 07:49:46",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "pubDate": "2026-09-13 10:29:18",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "pubDate": "2026-09-13 01:22:31",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "pubDate": "2026-09-12 16:25:08",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "link": "https://icm.museum/",
+      "pubDate": "2026-09-13 02:43:57",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Трагедията в Исперих: От зависимости до домашно насилие",
+      "link": "https://frognews.bg/novini/tragediiata-isperih-zavisimosti-domashno-nasilie.html",
+      "pubDate": "2026-09-13 14:45:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7eb8356f6_1789310677_6aa6b6d534deb.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Заедно срещу Лондон: Шотландия, Уелс и Северна Ирландия искат референдуми за независимост",
+      "link": "https://frognews.bg/novini/zaedno-sreshtu-london-shotlandiia-uels-severna-irlandiia-iskat-referendumi-nezavisimost.html",
+      "pubDate": "2026-09-13 14:15:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a8ed7a0c5_1789308035_6aa6ac83f1842.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Схема за изнудване на застрахователи: Подпалвачът на автомобили в София остава в ареста",
+      "link": "https://frognews.bg/novini/shema-iznudvane-zastrahovateli-podpalvachat-avtomobili-sofiya-ostava-aresta.html",
+      "pubDate": "2026-09-13 13:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/57dc1e6f3_1789306192_6aa6a550689aa.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Политиката на Тръмп доведе до рядко срещано единство по върховете на БРИКС",
+      "link": "https://frognews.bg/novini/politikata-tramp-dovede-ryadko-sreshtano-edinstvo-varhovete-briks.html",
+      "pubDate": "2026-09-13 13:20:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6b0d2ff0f_1789305670_6aa6a3466e50b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Москва е готова за преговори през октомври. ОАЕ са най-вероятният домакини",
+      "link": "https://frognews.bg/novini/moskva-gotova-pregovori-prez-oktomvri-turtsiia-oae-iskat-domakini.html",
+      "pubDate": "2026-09-13 11:30:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a46227bae_1789299015_6aa6894792cb5.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Turkey: 162 arrested in LGBTQ+ raids",
+      "link": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T13:14:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
+      "link": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T12:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Russians on the Goethe-Institut: &apos;Hostage to politics&apos;",
+      "link": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T11:50:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Croatia: &apos;Monster&apos; fire triggers evacuation on Brac island",
+      "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T10:55:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    },
+    {
+      "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
+      "link": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T10:09:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-13T18:00:22.341Z"
+    }
+  ]
 }
