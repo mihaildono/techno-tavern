@@ -231,6 +231,85 @@ async function fetchFeedWithRetry(source, maxRetries = 3) {
 
 // --- Preserve old news on failure ---
 
+// Maximum age (hours) for articles in the active news.json feed.
+// Articles older than this are excluded from the active feed but
+// may still appear in the 24h rolling archive.
+const MAX_ARTICLE_AGE_HOURS = 10;
+const SOURCE_TIMEZONE = "Europe/Sofia";
+
+function parseArticleDate(pubDate) {
+  if (!pubDate) return null;
+
+  const raw = String(pubDate).trim();
+  if (!raw) return null;
+
+  // Some RSS-to-JSON providers return a timezone-less Bulgarian local time.
+  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
+    const match = raw.match(
+      /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/,
+    );
+    if (!match) return null;
+
+    const [, year, month, day, hour, minute, second] = match;
+    const localTimestamp = Date.UTC(
+      Number(year),
+      Number(month) - 1,
+      Number(day),
+      Number(hour),
+      Number(minute),
+      Number(second),
+    );
+    const formatter = new Intl.DateTimeFormat("en-US", {
+      timeZone: SOURCE_TIMEZONE,
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hourCycle: "h23",
+    });
+    const parts = Object.fromEntries(
+      formatter
+        .formatToParts(new Date(localTimestamp))
+        .filter((part) => part.type !== "literal")
+        .map((part) => [part.type, part.value]),
+    );
+    const shiftedTimestamp = Date.UTC(
+      Number(parts.year),
+      Number(parts.month) - 1,
+      Number(parts.day),
+      Number(parts.hour),
+      Number(parts.minute),
+      Number(parts.second),
+    );
+    return localTimestamp - (shiftedTimestamp - localTimestamp);
+  }
+
+  const timestamp = Date.parse(raw);
+  if (Number.isFinite(timestamp)) return timestamp;
+  // Some providers return ISO 8601 with explicit offset: "+0000", "+0300"
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
+    const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
+    const t = Date.parse(normalized);
+    if (Number.isFinite(t)) return t;
+  }
+  return null;
+}
+
+/**
+ * Returns true if the article's pubDate is within MAX_ARTICLE_AGE_HOURS.
+ * Handles ISO 8601, RFC 822, and timezone-less Bulgarian local timestamps.
+ * Items with missing or unparseable dates are kept (age unknown — safer to keep).
+ */
+function isWithinAgeLimit(pubDate) {
+  const timestamp = parseArticleDate(pubDate);
+  if (timestamp === null) return true;
+
+  const ageHours = (Date.now() - timestamp) / (1000 * 60 * 60);
+  return ageHours <= MAX_ARTICLE_AGE_HOURS;
+}
+
 function loadExistingNews() {
   try {
     if (fs.existsSync(OUTPUT_FILE)) {
@@ -328,7 +407,15 @@ async function fetchAllFeeds() {
     const items = await fetchFeedWithRetry(source);
 
     if (items.length > 0) {
-      allItems.push(...items);
+      const fresh = items.filter((item) => isWithinAgeLimit(item.pubDate));
+      if (fresh.length > 0) {
+        allItems.push(...fresh);
+        if (fresh.length < items.length) {
+          console.log(
+            `⏰ Filtered ${items.length - fresh.length} stale article(s) from ${source.name} (older than ${MAX_ARTICLE_AGE_HOURS}h)`,
+          );
+        }
+      }
     } else {
       failedSources.push(source.name);
       // Preserve old articles from this source
@@ -352,19 +439,35 @@ async function fetchAllFeeds() {
     process.exit(1);
   }
 
+  // Filter out stale items carried over from previous runs or preserved from
+  // failed sources. Only fresh items should remain in the active feed.
+  const beforeCount = allItems.length;
+  const filteredItems = allItems.filter((item) => isWithinAgeLimit(item.pubDate));
+  const staleDropped = beforeCount - filteredItems.length;
+
+  if (filteredItems.length === 0) {
+    console.error("❌ No items fetched from any source");
+    process.exit(1);
+  }
+
   if (failedSources.length > 0) {
     console.log(
       `\n⚠️  Sources that failed (old data preserved): ${failedSources.join(", ")}`,
     );
+    if (staleDropped > 0) {
+      console.log(
+        `⏰ Removed ${staleDropped} stale article(s) (older than ${MAX_ARTICLE_AGE_HOURS}h) from active feed`,
+      );
+    }
   }
 
   const output = {
-    items: allItems,
+    items: filteredItems,
     lastUpdated: new Date().toISOString(),
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
-  updateArchive(allItems);
+  updateArchive(filteredItems);
 
   console.log("\n✅ Successfully updated news.json");
   console.log(`📰 Total articles: ${output.items.length}`);
