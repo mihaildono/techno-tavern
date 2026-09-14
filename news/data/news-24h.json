@@ -1,9 +1,92 @@
 {
   "windowStart": "2026-09-13T15:33:45.195Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-14T00:01:22.419Z",
-  "totalItems": 67,
+  "lastUpdated": "2026-09-14T03:00:23.446Z",
+  "totalItems": 74,
   "items": [
+    {
+      "title": "Кандидат за ВСС е подал сигнал за влияние върху избора - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTBWNUEtWkdmNG5oMWlSeUlDM2RhengtNzZoVXpwaXl0RGZQb3JCUjAybExYcFBCYmx0MVE3RkhzWDR0bFlycEo1Y1lZanhyNUlyU19hN0hUUE9QeExuODBGakJFUGFWV2FzNXMtU1JNSFR1cWZwd3drbHJMUkJGN21QSFRDVzhHX0U5U19WZk9jVk9pMjZNV05INmdvbkowQTVGdjJvR0ptQ2tkbFV2Sw?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 17:48:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "Киев: Руският ракетен терор спира корабоплаването в Черно море",
+      "link": "https://www.actualno.com/europe/kiev-ruskijat-raketen-teror-spira-koraboplavaneto-v-cherno-more-news_2638940.html",
+      "pubDate": "2026-09-13 21:11:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/a72d7d472120a58a9af3e729b4689e35_2638940_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 14.09.26 - Киев отговори на Русия с нова контраофанзива",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-140926-kiev-otgovori-na-rusija-s-nova-kontraofanziva-news_2638938.html",
+      "pubDate": "2026-09-13 21:01:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/13/1055f3d0dd78312e7caa10fbfe0aa7c2_2638938_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "pubDate": "2026-09-13 21:06:13",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "pubDate": "2026-09-13 21:47:04",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "Julia 1.13 highlights",
+      "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "pubDate": "2026-09-10 12:27:25",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
+    {
+      "title": "Germany: CDU ahead in Lower Saxony local election",
+      "link": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T00:12:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T03:00:23.446Z"
+    },
     {
       "title": "Sweden election &apos;very close&apos; as left bloc claims tight lead",
       "link": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-top-1022-rdf",
