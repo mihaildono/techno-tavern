@@ -71,6 +71,16 @@
       }
     },
     {
+      "title": "Ресторантите (не) са скъпи - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S0VXS25fUlRPMFlFMlJLWmxXU0dJczl6MTJoX2NIM2FhNEMySjBaYkxBS3JjenhLMXJteENEQTE5OXVoWDktNG9jdXlrdHFYa2pJVHNpSWUzaHQtazdoR29Vdy03YkdFWEozdFVsTUdPamVYMWZzQVItVHhqOUU?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 04:35:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
       "title": "С Турция са водени разговори за логистична подкрепа за \"Евровизия\" - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeS1rbE1GVTFLVkV3OU5WaGF6b2tJM1puUTRmdlRPRmw3UndrRmI1Rjc3UV9ZSVAzU1ZwWHdBRVFZaElGSC1xZUlQRXNTNDVxZ09aaUhZNFFDRE1oc2pWTTloZlBGZkJEZnJHeXYwcnRhYk84T3g1Y2ZlcXY4OXk2a1pRQ3NwbHJnd1p1b1RteDlBeXo1ekZaZkFWMFV1aEo5N2NzdzNyVjVMWGQ4SGc?oc=5",
       "pubDate": "Sun, 13 Sep 2026 10:14:00 GMT",
@@ -84,16 +94,6 @@
       "title": "Проверки хванаха в нарушение 32-ма лични лекари на болни от морбили - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMC1DeWVxS3YzdnFOQ3dwWmhCc25fcU5URkRBTVZ4OWU4RWFadEpDa0RwTS1xTFMxWFRqc1pwUEVfUjhPb0I0OGpyS1RJMGxXRWxGcFVKcjZZTFF1Mm5jb1lXV1VRa0lZcXVzeDIzX3ZuVkFZVjNxcVMxMzZrYTVOUWswcEQzRWliOGNyT1FKT1RCTGxXc18zV0NrRVpDc2tPRk9KYnNQdVpMRVU2?oc=5",
       "pubDate": "Sun, 13 Sep 2026 08:30:00 GMT",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Ресторантите (не) са скъпи - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S0VXS25fUlRPMFlFMlJLWmxXU0dJczl6MTJoX2NIM2FhNEMySjBaYkxBS3JjenhLMXJteENEQTE5OXVoWDktNG9jdXlrdHFYa2pJVHNpSWUzaHQtazdoR29Vdy03YkdFWEozdFVsTUdPamVYMWZzQVItVHhqOUU?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 04:35:00 GMT",
       "thumbnail": null,
       "source": {
         "name": "Dnevnik",
@@ -411,9 +411,19 @@
       }
     },
     {
-      "title": "Sweden election: Center-left coalition leads initial polls",
-      "link": "https://www.dw.com/en/sweden-election-center-left-coalition-leads-initial-polls/a-79248599?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-13T19:41:00Z",
+      "title": "Sweden election &apos;very close&apos; as left bloc claims tight lead",
+      "link": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T23:50:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Germany&apos;s Zverev wins US Open in golden year",
+      "link": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-13T22:03:00Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -449,17 +459,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Croatia: &apos;Monster&apos; fire triggers evacuation on Brac island",
-      "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-13T10:55:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-13T21:03:13.782Z"
+  "lastUpdated": "2026-09-14T00:00:22.665Z"
 }
