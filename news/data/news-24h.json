@@ -1,9 +1,388 @@
 {
   "windowStart": "2026-09-13T15:33:45.195Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-14T12:03:02.251Z",
-  "totalItems": 116,
+  "lastUpdated": "2026-09-14T15:00:31.387Z",
+  "totalItems": 145,
   "items": [
+    {
+      "title": "Зеленски призова депутатите бързо да освободят главния прокурор",
+      "link": "https://offnews.bg/sviat/zelenski-prizova-deputatite-barzo-da-osvobodiat-glavnia-prokuror-874636.html",
+      "pubDate": "2026-09-14 12:00:05",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/14/874636/phpcvyszh_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5049
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Мъж острига приятелката си и я гори с цигари по лицето",
+      "link": "https://offnews.bg/112/mazh-ostriga-priatelkata-si-i-ia-gori-s-tcigari-po-litceto-874637.html",
+      "pubDate": "2026-09-14 11:47:00",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/14/874637/phpi3ib7w_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5542
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Tesla идва в България за три мащабни проекта за съхранение на енергия",
+      "link": "https://offnews.bg/ikonomika/tesla-idva-v-balgaria-za-tri-mashtabni-proekta-za-sahranenie-na-energi-874628.html",
+      "pubDate": "2026-09-14 11:46:19",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/14/874628/phpkulr0b_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6501
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Първият училищен звънец ще бие за над 55 000 първокласници",
+      "link": "https://offnews.bg/obshtestvo/parviat-uchilishten-zvanetc-shte-bie-za-nad-55-000-parvoklasnitci-874632.html",
+      "pubDate": "2026-09-14 11:17:33",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/14/874632/phpvwfj2j_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5546
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Защо мъжки зимни якета са задължителни за студените дни?",
+      "link": "https://offnews.bg/stil/zashto-mazhki-zimni-iaketa-sa-zadalzhitelni-za-studenite-dni-874630.html",
+      "pubDate": "2026-09-14 11:07:17",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/14/874630/phpzkezb6_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7708
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Позор е представител на научната общност да води дело шамар срещу журналист",
+      "link": "https://www.mediapool.bg/pozor-e-predstavitel-na-nauchnata-obshtnost-da-vodi-delo-shamar-sreshtu-zhurnalist-news387493.html",
+      "pubDate": "2026-09-14 11:55:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_89173dd992a908bb8d1148b6ae9d595b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "\"Подценяване на опасността\". Продължават разминаванията между Демерджиев и \"Емко\" за взривовете",
+      "link": "https://www.mediapool.bg/podtsenyavane-na-opasnostta-prodalzhavat-razminavaniyata-mezhdu-demerdzhiev-i-emko-za-vzrivovete-news387494.html",
+      "pubDate": "2026-09-14 11:51:50",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_55f7e910ded6479eb200fd86085d71d6.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "\"Фактически в обкръжение\". Руската армия е претърпяла голямо поражение в Донбас за първи път от дълго време",
+      "link": "https://www.mediapool.bg/fakticheski-v-obkrazhenie-ruskata-armiya-e-pretarpyala-golyamo-porazhenie-v-donbas-za-parvi-pat-ot-dalgo-vreme-news387492.html",
+      "pubDate": "2026-09-14 11:39:40",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_f2548f49625c920f4921366f1e50f644.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Българите консумират почти по една опаковка антибиотик на човек годишно, но приемът намалява",
+      "link": "https://www.mediapool.bg/balgarite-konsumirat-pochti-po-edna-opakovka-antibiotik-na-chovek-godishno-no-priemat-namalyava-news387491.html",
+      "pubDate": "2026-09-14 11:28:00",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_06ca07a1b289e0c0b34792eafbcbaaa3.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Revolut потвърди изтичане на чувствителни информация на клиенти, вероятно и паспортни данни",
+      "link": "https://www.mediapool.bg/revolut-potvardi-iztichane-na-chuvstvitelni-informatsiya-na-klienti-veroyatno-i-pasportni-danni-news387490.html",
+      "pubDate": "2026-09-14 10:59:18",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_49c57625d2e71e37cc2150f616e77494.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Весела Лечева подкрепи олимпийско завръщане за спорт, който има български шампион",
+      "link": "https://www.actualno.com/moresport/vesela-lecheva-podkrepi-olimpijsko-zavryshtane-za-sport-kojto-ima-bylgarski-shampion-news_2639207.html",
+      "pubDate": "2026-09-14 12:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/14/b639a76be3a02fc10410c53e7f6a4a6f_2639207_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Трансферно разочарование на Ливърпул може да възражда кариерата си в Байерн Мюнхен",
+      "link": "https://www.actualno.com/football/transferno-razocharovanie-na-livyrpul-moje-da-vyzrajda-karierata-si-v-bajern-munhen-news_2639206.html",
+      "pubDate": "2026-09-14 12:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/14/9418305c82f82e5be3a30feef9f488a6_2639206_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Румънският президент: Източният фланг на НАТО е заплашен от Русия",
+      "link": "https://www.actualno.com/balkani/rumynskijat-prezident-iztochnijat-flang-na-nato-e-zaplashen-ot-rusija-news_2639204.html",
+      "pubDate": "2026-09-14 11:57:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/14/16d2ec9ea1ef39014a243669f76ae6e7_2639204_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Нов лаптоп и слушалки могат да спечелят клиентите на Kaufland при плащане с Visa",
+      "link": "https://www.actualno.com/society/nov-laptop-i-slushalki-mogat-da-specheljat-klientite-na-kaufland-pri-plashtane-s-visa-news_2639202.html",
+      "pubDate": "2026-09-14 11:50:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/14/b9650c2742332ecfd3ef36b73b94dcb7_2639202_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Може да знаем как пие кафето си, без никога да сме се срещали (ВИДЕА)",
+      "link": "https://www.actualno.com/society/moje-da-znaem-kak-pie-kafeto-si-bez-nikoga-da-sme-se-sreshtali-videa-news_2639133.html",
+      "pubDate": "2026-09-14 11:48:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/14/a00ccc5d6ec206194e4a62b231ed9c44_2639133_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "pubDate": "2026-09-14 08:25:47",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "pubDate": "2026-09-14 08:25:57",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Who Aligns the Aligners?",
+      "link": "https://prestonbyrne.com/2026/09/13/aligners/",
+      "pubDate": "2026-09-14 10:41:56",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "link": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "pubDate": "2026-09-14 11:01:00",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Властта, синдикати и бизнес обсъждат компенсации заради цените на горивата",
+      "link": "https://frognews.bg/novini/vlastta-sindikati-biznes-obsajdat-kompensatsii-zaradi-tsenite-gorivata.html",
+      "pubDate": "2026-09-14 11:38:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b7c1d60eb_benzinostantsiya_bgnes.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Путин предпочита да продължи да убива, отколкото да признае, че е загубил. Време е НАТО да се намеси",
+      "link": "https://frognews.bg/novini/putin-predpochita-prodalji-ubiva-otkolkoto-priznae-che-zagubil-vreme-nato-namesi.html",
+      "pubDate": "2026-09-14 11:08:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/77d06a6bd_1789384414_6aa7d6de04a60.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "НОИ: Средният осигурителен доход през юни е 1007,46 евро",
+      "link": "https://frognews.bg/novini/noi-sredniiat-osiguritelen-dohod-prez-iuni-1007-46-evro.html",
+      "pubDate": "2026-09-14 10:53:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9e69e6204_noi.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Тристранката отхвърли облекчения режим за наемане на младежи между 16 и 18 години",
+      "link": "https://frognews.bg/novini/tristrankata-othvarli-oblekcheniia-rejim-naemane-mladeji-mejdu-16-18-godini.html",
+      "pubDate": "2026-09-14 10:47:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0699abd03_1789383023_6aa7d16f6fc74.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Белгия е изгонила над 1000 нелегални мигранти от началото на годината",
+      "link": "https://frognews.bg/novini/belgiya-izgonila-nad-1000-nelegalni-migranti-nachaloto-godinata.html",
+      "pubDate": "2026-09-14 10:41:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b8f949d4b_1789382656_6aa7d000c616e.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "IPO &apos;for the people&apos; is out of reach for many in Nigeria",
+      "link": "https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T14:12:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "link": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T13:52:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Ukraine: AfD questions German aid, Berlin remains committed",
+      "link": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T12:46:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "The Crusades: How a medieval Holy War still shapes politics",
+      "link": "https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T12:43:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
+    {
+      "title": "Nepal: thousands still missing as flood recovery begins",
+      "link": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-14T12:18:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-14T15:00:31.387Z"
+    },
     {
       "title": "Мотивът за \"Петрохан\" според експертиза: Калушев се е страхувал, че ще бъде разкрит и арестуван - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUp3S0lQTzFjdTAzN1diaHZWbElZa3FDWWJBSTRDMU1CS3RGWjBGU195OW9EYk1KUmg1YVJydDc1VFZnaDRaWG1rbUVfLUpOcDlEaFR6V3ZlMnIxdWlFOW1qNzVrLW54SDVJT2VIRzRDTU5LQ2ltTXN3c2lNVUZyVWRldnl6TmplN0JQdVU3T0hWeV9zeTViRVgwTG53U21iQUE?oc=5",
