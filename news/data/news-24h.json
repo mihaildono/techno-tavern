@@ -1,9 +1,31 @@
 {
   "windowStart": "2026-09-14T15:32:01.834Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-15T03:00:28.900Z",
-  "totalItems": 56,
+  "lastUpdated": "2026-09-15T06:00:29.073Z",
+  "totalItems": 58,
   "items": [
+    {
+      "title": "US scraps greenhouse gas rules for power plants",
+      "link": "https://www.dw.com/en/us-scraps-greenhouse-gas-rules-for-power-plants/a-79268393?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T05:12:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-15T06:00:29.073Z"
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania",
+      "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T04:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-15T06:00:29.073Z"
+    },
     {
       "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "link": "https://github.com/JamesRyanATX/fcbnerd",

@@ -1,71 +1,6 @@
 {
   "items": [
     {
-      "title": "Високо напрежение в небето: Изтребители на Полша и Украйна били на косъм от сериозен инцидент",
-      "link": "https://www.actualno.com/europe/visoko-naprejenie-v-nebeto-iztrebiteli-na-polsha-i-ukrajna-bili-na-kosym-ot-seriozen-incident-news_2639386.html",
-      "pubDate": "2026-09-14 22:47:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/15/b9b5ba97308d37272390814b83a16622_2639386_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Натовски изтребители свалиха дрон над Литва",
-      "link": "https://www.actualno.com/europe/natovski-iztrebiteli-svaliha-dron-nad-litva-news_2639385.html",
-      "pubDate": "2026-09-14 22:32:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/15/b3cec715021cd54d43dce8487987f175_2639385_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Удар с дрон или мина: Петролен танкер се взриви в Ормузкия проток (ВИДЕО)",
-      "link": "https://www.actualno.com/asia/udar-s-dron-ili-mina-petrolen-tanker-se-vzrivi-v-ormuzkija-protok-video-news_2639384.html",
-      "pubDate": "2026-09-14 22:21:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/15/772973be430e324dbaeb37ab4f432c6d_2639384_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Стратегическите петролни резерви на САЩ се сринаха до нивата отпреди 44 години",
-      "link": "https://www.actualno.com/economy/strategicheskite-petrolni-rezervi-na-sasht-se-srinaha-do-nivata-otpredi-44-godini-news_2639382.html",
-      "pubDate": "2026-09-14 22:10:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/15/2a96d1b682445d620114b071f11ef7b5_2639382_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Бивш висш американски военен: Русия няма да се съгласи на енергийно споразумение с Украйна",
-      "link": "https://www.actualno.com/europe/bivsh-vissh-amerikanski-voenen-rusija-njama-da-se-syglasi-na-energijno-sporazumenie-s-ukrajna-news_2639381.html",
-      "pubDate": "2026-09-14 21:52:00",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/15/16df7aaf843b1f3ce0e298615247a4da_2639381_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
       "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "link": "https://github.com/JamesRyanATX/fcbnerd",
       "pubDate": "2026-09-14 23:01:36",
@@ -76,13 +11,23 @@
       }
     },
     {
-      "title": "Charts built for Chat",
-      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "pubDate": "2026-09-14 21:22:54",
+      "title": "US scraps greenhouse gas rules for power plants",
+      "link": "https://www.dw.com/en/us-scraps-greenhouse-gas-rules-for-power-plants/a-79268393?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T05:12:00Z",
       "thumbnail": null,
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania",
+      "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T04:16:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -114,27 +59,7 @@
         "name": "DW",
         "color": "#C8102E"
       }
-    },
-    {
-      "title": "Arctic power plays: EU searches for a new strategy",
-      "link": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-14T19:28:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Ukraine, Russia set for new round of US-mediated talks",
-      "link": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-14T18:46:00Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-09-15T03:00:28.866Z"
+  "lastUpdated": "2026-09-15T06:00:28.976Z"
 }
