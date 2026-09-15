@@ -1,9 +1,53 @@
 {
   "windowStart": "2026-09-14T15:32:01.834Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-15T00:01:55.339Z",
-  "totalItems": 52,
+  "lastUpdated": "2026-09-15T03:00:28.900Z",
+  "totalItems": 56,
   "items": [
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "pubDate": "2026-09-14 23:01:36",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-15T03:00:28.900Z"
+    },
+    {
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "pubDate": "2026-09-14 21:22:54",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-15T03:00:28.900Z"
+    },
+    {
+      "title": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+      "link": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T01:38:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-15T03:00:28.900Z"
+    },
+    {
+      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "link": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-15T00:02:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-15T03:00:28.900Z"
+    },
     {
       "title": "Прокуратурата в Гърция повдигна по-тежки обвинения за смъртта на Йоргос Мазонакис",
       "link": "https://offnews.bg/sviat/prokuraturata-v-gartcia-povdigna-po-tezhki-obvinenia-za-smartta-na-jor-874666.html",
