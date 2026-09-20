@@ -1,7 +1,301 @@
 {
   "windowStart": "2026-09-20T15:34:11.511Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-20T15:34:11.511Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-20T18:00:29.156Z",
+  "totalItems": 22,
+  "items": [
+    {
+      "title": "Даниел Трифонов със злато на прескок на Световната купа",
+      "link": "https://offnews.bg/leka-atletika/daniel-trifonov-sas-zlato-na-preskok-na-svetovnata-kupa-875025.html",
+      "pubDate": "2026-09-20 14:40:19",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/20/875025/phprc87dz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8039
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Радан Кънев: Изходът от президентските избори не е предрешен",
+      "link": "https://offnews.bg/politika/radan-kanev-izhodat-ot-prezidentskite-izbori-ne-e-predreshen-875024.html",
+      "pubDate": "2026-09-20 14:32:30",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/20/875024/phpcdh3wc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6748
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Ново огнище на шарка по овцете в Пловдивско",
+      "link": "https://offnews.bg/obshtestvo/novo-ognishte-na-sharka-po-ovtcete-v-plovdivsko-875022.html",
+      "pubDate": "2026-09-20 13:29:50",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/20/875022/phppkhgrx_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 8603
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Експлозия срина детска градина. Няма пострадали",
+      "link": "https://offnews.bg/sviat/eksplozia-srina-detska-gradina-niama-postradali-875021.html",
+      "pubDate": "2026-09-20 13:12:04",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/20/875021/phpv7n0en_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9392
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Зеленски потвърди: Поразихме рафинерията ''Газпромнефт - Москва'' (видео)",
+      "link": "https://offnews.bg/sviat/zelenski-potvardi-porazihme-rafineriata-gazpromneft-moskva-vid-875020.html",
+      "pubDate": "2026-09-20 12:48:57",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/20/875020/phprhlbth_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5422
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Саудитска Арабия потвърди за атака на хутите с балистична ракета - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXA5ZnB1MTYzVkxsRmR6elRhaHM2QmhNWUpXajhMYkdjSnFkNTZ1Y0RnaUgxWVQxVWpUVU5KalRSMXJxLXNTQ3czTlY1V0VBWnB0THFRX1hhLUttTnlqTXA2R1dIYlNkMHBIdENaMUE1SldEQjVramQ2ZUZGY1ROYlhLZ1FTaTg1U0RlcW9uLVRRdHF5NEtFU1Q2Smw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:13:00 GMT",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Открито е огнище на шарка по овцете и козите край Карлово",
+      "link": "https://www.mediapool.bg/otkrito-e-ognishte-na-sharka-po-ovtsete-i-kozite-krai-karlovo-news387701.html",
+      "pubDate": "2026-09-20 13:41:05",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_b6dfb68768f75bad78795d6a926355b4.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Гюров: Изборът не е само между мен и Йотова, а за развитието на страната",
+      "link": "https://www.mediapool.bg/gyurov-izborat-ne-e-samo-mezhdu-men-i-yotova-a-za-razvitieto-na-stranata-news387700.html",
+      "pubDate": "2026-09-20 13:15:18",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_e0b511cd80ed6e3801c385f30dbab18d.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Мая Манолова ще прави \"табло на срама\" за търговските вериги",
+      "link": "https://www.mediapool.bg/maya-manolova-shte-pravi-tablo-na-srama-za-targovskite-verigi-news387699.html",
+      "pubDate": "2026-09-20 12:08:25",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_8374cf66d75eece113573aeea542f117.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Льо Пен и Бардела втвърдиха тона към Русия: Френската политика се решава в Париж",
+      "link": "https://www.mediapool.bg/lyo-pen-i-bardela-vtvardiha-tona-kam-rusiya-frenskata-politika-se-reshava-v-parizh-news387698.html",
+      "pubDate": "2026-09-20 11:34:48",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_4c14b6b61d02903a4ee03d778ede2503.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Пхенян изстреля неидентифицирани снаряди към Японско море",
+      "link": "https://www.mediapool.bg/phenyan-izstrelya-neidentifitsirani-snaryadi-kam-yaponsko-more-news387697.html",
+      "pubDate": "2026-09-20 11:09:11",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_c380d138db65edf8fb306bb4a1e72bc7.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Магнитна буря за понеделник, 21 септември 2026: Прогноза от САЩ",
+      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-ponedelnik-21-septemvri-2026-prognoza-ot-sasht-news_2640939.html",
+      "pubDate": "2026-09-20 15:00:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/18/ea4ff371b14e01ad668ff62f03888c2b_2640939_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Ливърпул оцеля в Борнемут! Исак донесе измъчена победа на \"червените\" във Висшата лига",
+      "link": "https://www.actualno.com/football/livyrpul-ocelja-v-bornemut-isak-donese-izmychena-pobeda-na-chervenite-vyv-visshata-liga-news_2641445.html",
+      "pubDate": "2026-09-20 14:55:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/20/716844b95d6582b1084056e8d68056fb_2641445_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Лидерът на забранената опозиция в Русия пред българска аудитория: Вървим към ядрена война и искаме да спрем Путин, за да ви спасим",
+      "link": "https://www.actualno.com/europe/lideryt-na-zabranenata-opozicija-v-rusija-pred-bylgarska-auditorija-vyrvim-kym-jadrena-vojna-i-iskame-da-sprem-putin-za-da-vi-spasim-news_2641452.html",
+      "pubDate": "2026-09-20 14:40:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/20/0f719639d7f3f908235757e940953f75_2641452_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Седмична прогноза за времето за 21-27 септември 2026 г.",
+      "link": "https://www.actualno.com/society/sedmichna-prognoza-za-vremeto-za-21-27-septemvri-2026-g-news_2641434.html",
+      "pubDate": "2026-09-20 14:30:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/20/a7c528dc89435feac093676841656e53_2641434_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Българска връзка в руската атака с дрон в Лайпциг? Германският посланик ни предупреди за Путин",
+      "link": "https://www.actualno.com/europe/bylgarska-vryzka-v-ruskata-ataka-s-dron-v-lajpcig-germanskijat-poslanik-ni-predupredi-za-putin-news_2641450.html",
+      "pubDate": "2026-09-20 14:17:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/20/ae255f70db0fa222ba27ab84655a0972_2641450_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "The Millennium Problems for Biology",
+      "link": "https://millenniumproblems.bio/",
+      "pubDate": "2026-09-20 12:17:54",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Русия обвини Великобритания и Украйна за кибератаки по време на изборите",
+      "link": "https://frognews.bg/novini/rusiia-obvini-velikobritaniia-ukraina-kiberataki-vreme-izborite.html",
+      "pubDate": "2026-09-20 14:00:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/bb685e550_1789912959_6aafe77f43956.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Последното шелфово езеро на Канада изчезна след стапяне на шелфа",
+      "link": "https://frognews.bg/novini/poslednoto-shelfovo-ezero-kanada-izchezna-sled-stapiane-shelfa.html",
+      "pubDate": "2026-09-20 11:23:00",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/da27c2a62_1789903793_6aafc3b1a9f20.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Germany faces energy tax losses as EV sales rise",
+      "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-20T14:02:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Peter Thiel: Power, Palantir, and the antichrist",
+      "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-20T13:29:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    },
+    {
+      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
+      "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-20T08:37:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-20T18:00:29.156Z"
+    }
+  ]
 }
