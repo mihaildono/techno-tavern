@@ -1,9 +1,81 @@
 {
   "windowStart": "2026-09-20T15:34:11.511Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-21T00:01:47.527Z",
-  "totalItems": 53,
+  "lastUpdated": "2026-09-21T03:00:29.792Z",
+  "totalItems": 59,
   "items": [
+    {
+      "title": "Тръмп и Зеленски разговаряха по телефона: Какво са обсъждали?",
+      "link": "https://www.actualno.com/europe/trymp-i-zelenski-razgovarjaha-po-telefona-kakvo-sa-obsyjdali-news_2641519.html",
+      "pubDate": "2026-09-20 22:36:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/21/7b40a800a211ce3cf672253071e326e0_2641519_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 21.09.26 - Украинските дронове стигнаха и до основен за Москва ТЕЦ",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-210926-ukrainskite-dronove-stignaha-i-do-osnoven-za-moskva-tec-news_2641518.html",
+      "pubDate": "2026-09-20 22:11:00",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/21/aacd90eb33f5c0851b8e7e1d98f86352_2641518_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
+    {
+      "title": "Google's Open Agentic Orchestrator",
+      "link": "https://agentexecutor.io/",
+      "pubDate": "2026-09-20 22:32:43",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "pubDate": "2026-09-20 22:35:49",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
+    {
+      "title": "Nobody pays for FOSS, we can force them to",
+      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "pubDate": "2026-09-20 21:04:32",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
+    {
+      "title": "Iran closes language center in Tehran, France vows response",
+      "link": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-21T01:20:00Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-21T03:00:29.792Z"
+    },
     {
       "title": "Canada, France agree to closer ties in defense, economy",
       "link": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-top-1022-rdf",
