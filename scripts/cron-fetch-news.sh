@@ -17,9 +17,9 @@ cd "$REPO_DIR"
 git config user.name "$GIT_USER_NAME"
 git config user.email "$GIT_USER_EMAIL"
 
-# Pull latest changes from GitHub
+# Pull latest changes from GitHub (stash local changes first to avoid conflicts)
 echo "🔄 Pulling latest changes from origin/main..."
-git pull --rebase origin main
+git pull --rebase --autostash origin main
 
 # Execute Node.js script to fetch news
 echo "📰 Fetching news from RSS feeds..."
