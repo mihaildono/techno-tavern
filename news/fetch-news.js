@@ -57,6 +57,12 @@ const RSS_SOURCES = [
     type: "rss2json",
   },
   {
+    name: "Reuters",
+    url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+    color: "#4169E1", // Royal Blue
+    type: "direct",
+  },
+  {
     name: "DW",
     url: "https://rss.dw.com/rdf/rss-en-top",
     color: "#C8102E", // DW Red
