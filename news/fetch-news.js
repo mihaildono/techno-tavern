@@ -310,6 +310,60 @@ function parseArticleDate(pubDate) {
   if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
     return Date.parse(raw + "Z");
   }
+  // ISO 8601 without T separator ("YYYY-MM-DD HH:MM:SS") — common in
+  // Bulgarian RSS feeds.
+  // Some providers return UTC time, others return Sofia local time.
+  // Try UTC first; fall back to Sofia if UTC would be in the future.
+  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
+    const match = raw.match(
+      /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/,
+    );
+    if (!match) return null;
+
+    const [, year, month, day, hour, minute, second] = match;
+    const utcTimestamp = Date.UTC(
+      Number(year),
+      Number(month) - 1,
+      Number(day),
+      Number(hour),
+      Number(minute),
+      Number(second),
+    );
+    // If this UTC interpretation is in the future, the feed is likely
+    // publishing Sofia local time. Fall back to the Sofia timezone.
+    if (utcTimestamp <= Date.now()) {
+      return utcTimestamp;
+    }
+    const formatter = new Intl.DateTimeFormat("en-US", {
+      timeZone: SOURCE_TIMEZONE,
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hourCycle: "h23",
+    });
+    const parts = Object.fromEntries(
+      formatter
+        .formatToParts(new Date(utcTimestamp))
+        .filter((part) => part.type !== "literal")
+        .map((part) => [part.type, part.value]),
+    );
+    const shiftedTimestamp = Date.UTC(
+      Number(parts.year),
+      Number(parts.month) - 1,
+      Number(parts.day),
+      Number(parts.hour),
+      Number(parts.minute),
+      Number(parts.second),
+    );
+    // The time returned by the formatter is local time. Convert it back
+    // to a UTC timestamp, then subtract the offset to get the original
+    // UTC time corresponding to the stated local time.
+    return utcTimestamp - (shiftedTimestamp - utcTimestamp);
+  }
+
   return null;
 }
 
