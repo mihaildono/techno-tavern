@@ -456,6 +456,9 @@ async function fetchAllFeeds() {
     process.exit(1);
   }
 
+  // Sort by time descending so newest articles appear first regardless of source.
+  filteredItems.sort((a, b) => Date.parse(b.pubDate || "") - Date.parse(a.pubDate || ""));
+
   if (failedSources.length > 0) {
     console.log(
       `\n⚠️  Sources that failed (old data preserved): ${failedSources.join(", ")}`,
