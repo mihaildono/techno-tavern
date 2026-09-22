@@ -306,6 +306,10 @@ function parseArticleDate(pubDate) {
     const t = Date.parse(normalized);
     if (Number.isFinite(t)) return t;
   }
+  // ISO 8601 without timezone: treat as UTC (Date.parse treats as local)
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
+    return Date.parse(raw + "Z");
+  }
   return null;
 }
 
@@ -326,7 +330,17 @@ function loadExistingNews() {
   try {
     if (fs.existsSync(OUTPUT_FILE)) {
       const data = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf8"));
-      return data.items || [];
+      const items = data.items || [];
+      // Filter out stale items that were carried over from previous runs.
+      // Only keep items still within the age limit so old articles don't
+      // accumulate in the active feed.
+      const fresh = items.filter((item) => isWithinAgeLimit(item.pubDate));
+      if (fresh.length < items.length) {
+        console.log(
+          `⏰ Filtered ${items.length - fresh.length} stale article(s) from existing news.json (older than ${MAX_ARTICLE_AGE_HOURS}h)`,
+        );
+      }
+      return fresh;
     }
   } catch (e) {
     console.log("⚠️  Could not read existing news.json");
@@ -379,8 +393,18 @@ function updateArchive(freshItems) {
   }
 
   const kept = [...seen.values()].filter((item) => {
-    const ts = Date.parse(item.firstSeen || item.pubDate || "");
-    return Number.isNaN(ts) ? true : ts >= cutoff;
+    // Prune by firstSeen (when the item was first added to the archive)
+    const firstSeenTs = Date.parse(item.firstSeen || "");
+    if (!Number.isNaN(firstSeenTs) && firstSeenTs < cutoff) return false;
+    // Also prune by pubDate: articles older than the 24h window should be dropped
+    // regardless of when they were first seen, to prevent stale articles from
+    // accumulating in the archive.
+    const pubTs = parseArticleDate(item.pubDate);
+    if (pubTs !== null) {
+      const pubAgeHours = (now.getTime() - pubTs) / (1000 * 60 * 60);
+      if (pubAgeHours > ARCHIVE_WINDOW_HOURS) return false;
+    }
+    return true;
   });
 
   const dropped = seen.size - kept.length;
@@ -461,8 +485,6 @@ async function fetchAllFeeds() {
     console.error("❌ No items fetched from any source");
     process.exit(1);
   }
-
-  // Robust time-sort: normalize pubDate to Date objects for consistent ordering.
   // Use the same parseArticleDate function that handles all known formats.
   filteredItems.sort((a, b) => {
     const dateA = parseArticleDate(a.pubDate) || 0;
