@@ -156,21 +156,10 @@ function normalizePubDate(pubDate) {
   const raw = String(pubDate).trim();
   if (!raw) return null;
 
-  // If already ends with Z, return as is (canonical form)
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(raw)) {
-    return raw;
-  }
-
-  // If space-separated format (YYYY-MM-DD HH:MM:SS), convert to ISO with Z
-  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
-    const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
-    if (!match) return raw;
-    const [, year, month, day, hour, minute, second] = match;
-    return year + "-" + month + "-" + day + "T" + hour + ":" + minute + ":" + second + "Z";
-  }
-
-  // For other formats (GMT, +offset, etc.), return raw as-is
-  return raw;
+  // Normalize every recognized input format to canonical UTC ISO 8601.
+  // This includes GMT, Z, explicit offsets, and timezone-less feed values.
+  const timestamp = parseArticleDate(raw);
+  return timestamp === null ? raw : new Date(timestamp).toISOString();
 }
 
 function normalizeThumbnail(item) {
@@ -276,8 +265,8 @@ function parseArticleDate(pubDate) {
     return Date.parse(raw);
   }
 
-  // ISO 8601 with Z
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(raw)) {
+  // ISO 8601 with Z (optional milliseconds)
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) {
     return Date.parse(raw);
   }
 
