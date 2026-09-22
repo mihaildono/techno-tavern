@@ -29,7 +29,7 @@ This document details all scheduled background jobs and automated agent pipeline
   ```
 - **What it does:**
   1. Pulls latest `origin/main` (`git pull --rebase`).
-  2. Executes `node news/fetch-news.js` to query 9 RSS feeds (direct and Google News endpoints).
+  2. Executes `node news/fetch-news.js` to query 10 RSS feeds (direct and Google News endpoints).
   3. Updates `news/data/news.json` (active site feed) and `news/data/news-24h.json` (24-hour rolling archive).
   4. Commits and pushes changes with `[skip ci]`.
 
