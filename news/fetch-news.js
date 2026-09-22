@@ -17,55 +17,55 @@ const RSS_SOURCES = [
   {
     name: "OffNews",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Foffnews.bg%2Frss%2Fall",
-    color: "#E91E63", // Pink
+    color: "#E91E63",
     type: "rss2json",
   },
   {
     name: "Dnevnik",
     url: "https://news.google.com/rss/search?q=site:dnevnik.bg&hl=bg&gl=BG&ceid=BG:bg",
-    color: "#2196F3", // Blue
+    color: "#2196F3",
     type: "direct",
   },
   {
     name: "Свободна точка",
     url: "https://svobodnatochka.bg/feed/",
-    color: "#FF9800", // Orange
+    color: "#FF9800",
     type: "direct",
   },
   {
     name: "Mediapool",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.mediapool.bg%2Frss%2F",
-    color: "#00BCD4", // Teal
+    color: "#00BCD4",
     type: "rss2json",
   },
   {
     name: "Actualno",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.actualno.com%2Frss",
-    color: "#9C27B0", // Purple
+    color: "#9C27B0",
     type: "rss2json",
   },
   {
     name: "Hacker News",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.ycombinator.com%2Frss",
-    color: "#FF6600", // HN Orange
+    color: "#FF6600",
     type: "rss2json",
   },
   {
     name: "FrogNews",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frss.frognews.bg%2F",
-    color: "#00897B", // Teal-green
+    color: "#00897B",
     type: "rss2json",
   },
   {
     name: "Reuters",
     url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-    color: "#4169E1", // Royal Blue
+    color: "#4169E1",
     type: "direct",
   },
   {
     name: "DW",
     url: "https://rss.dw.com/rdf/rss-en-top",
-    color: "#C8102E", // DW Red
+    color: "#C8102E",
     type: "direct",
   },
 ];
@@ -112,15 +112,25 @@ function fetchUrl(url, timeoutMs = 15000) {
 
 function parseRssXml(xml) {
   const items = [];
-  const itemRegex = /<item(?:\s[^>]*)?>([^]*?)<\/item>/g;
+  const itemRegex = /<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/g;
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
     const block = match[1];
     const getText = (tag) => {
-      const m =
-        new RegExp(`<${tag}><\\!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\/${tag}>`).exec(
-          block,
-        ) || new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`).exec(block);
+      // Check for CDATA-wrapped content
+      const cdataStart = `<${tag}><![CDATA[`;
+      const cdataEnd = "]]></" + tag + ">";
+      let start = block.indexOf(cdataStart);
+      if (start !== -1) {
+        start += cdataStart.length;
+        const end = block.indexOf(cdataEnd, start);
+        if (end !== -1) {
+          return block.substring(start, end).trim();
+        }
+      }
+      // Fall back to plain text regex
+      const plain = new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">");
+      const m = plain.exec(block);
       return m ? m[1].trim() : "";
     };
     const title = getText("title");
@@ -140,6 +150,29 @@ function parseRssXml(xml) {
   return items;
 }
 
+// --- Normalize pubDate to canonical UTC with Z suffix ---
+function normalizePubDate(pubDate) {
+  if (!pubDate) return null;
+  const raw = String(pubDate).trim();
+  if (!raw) return null;
+
+  // If already ends with Z, return as is (canonical form)
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(raw)) {
+    return raw;
+  }
+
+  // If space-separated format (YYYY-MM-DD HH:MM:SS), convert to ISO with Z
+  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
+    const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
+    if (!match) return raw;
+    const [, year, month, day, hour, minute, second] = match;
+    return year + "-" + month + "-" + day + "T" + hour + ":" + minute + ":" + second + "Z";
+  }
+
+  // For other formats (GMT, +offset, etc.), return raw as-is
+  return raw;
+}
+
 function normalizeThumbnail(item) {
   const raw = item.thumbnail || item.enclosure || null;
   if (!raw) return null;
@@ -157,7 +190,7 @@ function parseFeedItems(source, feedData) {
   return feedData.items.slice(0, 5).map((item) => ({
     title: item.title,
     link: item.link,
-    pubDate: item.pubDate,
+    pubDate: normalizePubDate(item.pubDate),
     thumbnail: normalizeThumbnail(item),
     source: {
       name: source.name,
@@ -168,19 +201,16 @@ function parseFeedItems(source, feedData) {
 
 // --- Fetch with retry ---
 
-// Returns: array of items on success, null on permanent failure, [] on transient failure
 async function fetchFeed(source) {
   try {
     const { status, data } = await fetchUrl(source.url);
 
     if (status < 200 || status >= 300) {
-      console.error(`  ❌ HTTP ${status} from ${source.name}`);
-      // For rss2json, a non-2xx with {"status":"error"} means the upstream feed
-      // is blocked or invalid — retrying will never help.
+      console.error("  ❌ HTTP " + status + " from " + source.name);
       if (source.type === "rss2json") {
         try {
           const json = JSON.parse(data);
-          if (json.status === "error") return null; // permanent
+          if (json.status === "error") return null;
         } catch (_) {}
       }
       return [];
@@ -191,7 +221,7 @@ async function fetchFeed(source) {
       return items.slice(0, 5).map((item) => ({
         title: item.title,
         link: item.link,
-        pubDate: item.pubDate,
+        pubDate: normalizePubDate(item.pubDate),
         thumbnail: item.thumbnail,
         source: { name: source.name, color: source.color },
       }));
@@ -200,7 +230,7 @@ async function fetchFeed(source) {
     const feedData = JSON.parse(data);
     return parseFeedItems(source, feedData);
   } catch (error) {
-    console.error(`  ❌ Error fetching ${source.name}: ${error.message}`);
+    console.error("  ❌ Error fetching " + source.name + ": " + error.message);
     return [];
   }
 }
@@ -208,38 +238,30 @@ async function fetchFeed(source) {
 async function fetchFeedWithRetry(source, maxRetries = 3) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     const items = await fetchFeed(source);
-
-    // null = permanent failure (e.g. upstream blocked), no point retrying
     if (items === null) {
-      console.log(`⚠️  Skipping retries for ${source.name} (upstream blocked)`);
+      console.log("⚠️  Skipping retries for " + source.name + " (upstream blocked)");
       return [];
     }
-
     if (items.length > 0) {
-      console.log(`✅ Fetched ${items.length} articles from ${source.name}`);
+      console.log("✅ Fetched " + items.length + " articles from " + source.name);
       return items;
     }
-
     if (attempt < maxRetries) {
       const waitMs = 2000 * attempt;
       console.log(
-        `  🔄 Retrying ${source.name} (attempt ${attempt + 1}/${maxRetries}) in ${waitMs / 1000}s...`,
+        "  🔄 Retrying " + source.name + " (attempt " + (attempt + 1) + "/" + maxRetries + ") in " + (waitMs / 1000) + "s...",
       );
       await delay(waitMs);
     }
   }
-
   console.log(
-    `⚠️  Failed to fetch ${source.name} after ${maxRetries} attempts`,
+    "⚠️  Failed to fetch " + source.name + " after " + maxRetries + " attempts",
   );
   return [];
 }
 
 // --- Preserve old news on failure ---
 
-// Maximum age (hours) for articles in the active news.json feed.
-// Articles older than this are excluded from the active feed but
-// may still appear in the 24h rolling archive.
 const MAX_ARTICLE_AGE_HOURS = 10;
 const SOURCE_TIMEZONE = "Europe/Sofia";
 
@@ -249,88 +271,41 @@ function parseArticleDate(pubDate) {
   const raw = String(pubDate).trim();
   if (!raw) return null;
 
-  // Some RSS-to-JSON providers return a timezone-less UTC time.
-  // Try UTC first, fall back to Sofia local time only if UTC would be in the future.
-  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
-    const match = raw.match(
-      /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/,
-    );
-    if (!match) return null;
-
-    const [, year, month, day, hour, minute, second] = match;
-    const localTimestamp = Date.UTC(
-      Number(year),
-      Number(month) - 1,
-      Number(day),
-      Number(hour),
-      Number(minute),
-      Number(second),
-    );
-    // If this UTC interpretation is in the future, the feed is likely
-    // publishing Sofia local time. Fall back to the Sofia timezone.
-    if (localTimestamp <= Date.now()) {
-      return localTimestamp;
-    }
-    const formatter = new Intl.DateTimeFormat("en-US", {
-      timeZone: SOURCE_TIMEZONE,
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
-      hourCycle: "h23",
-    });
-    const parts = Object.fromEntries(
-      formatter
-        .formatToParts(new Date(localTimestamp))
-        .filter((part) => part.type !== "literal")
-        .map((part) => [part.type, part.value]),
-    );
-    const shiftedTimestamp = Date.UTC(
-      Number(parts.year),
-      Number(parts.month) - 1,
-      Number(parts.day),
-      Number(parts.hour),
-      Number(parts.minute),
-      Number(parts.second),
-    );
-    return localTimestamp - (shiftedTimestamp - localTimestamp);
+  // RFC 2822 with GMT
+  if (/^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} GMT$/.test(raw)) {
+    return Date.parse(raw);
   }
 
-  const timestamp = Date.parse(raw);
-  if (Number.isFinite(timestamp)) return timestamp;
-  // Some providers return ISO 8601 with explicit offset: "+0000", "+0300"
+  // ISO 8601 with Z
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(raw)) {
+    return Date.parse(raw);
+  }
+
+  // ISO 8601 without timezone: treat as UTC
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
+    return Date.parse(raw + "Z");
+  }
+
+  // ISO 8601 with explicit offset
   if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
     const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
     const t = Date.parse(normalized);
     if (Number.isFinite(t)) return t;
+    return Date.parse(raw);
   }
-  // ISO 8601 without timezone: treat as UTC (Date.parse treats as local)
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
-    return Date.parse(raw + "Z");
-  }
-  // ISO 8601 without T separator ("YYYY-MM-DD HH:MM:SS") — common in
-  // Bulgarian RSS feeds.
-  // Some providers return UTC time, others return Sofia local time.
-  // Try UTC first; fall back to Sofia if UTC would be in the future.
+
+  // YYYY-MM-DD HH:MM:SS
   if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
-    const match = raw.match(
-      /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/,
-    );
+    const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
     if (!match) return null;
 
-    const [, year, month, day, hour, minute, second] = match;
-    const utcTimestamp = Date.UTC(
-      Number(year),
-      Number(month) - 1,
-      Number(day),
-      Number(hour),
-      Number(minute),
-      Number(second),
-    );
-    // If this UTC interpretation is in the future, the feed is likely
-    // publishing Sofia local time. Fall back to the Sofia timezone.
+    const year = Number(match[1]);
+    const month = Number(match[2]);
+    const day = Number(match[3]);
+    const hour = Number(match[4]);
+    const minute = Number(match[5]);
+    const second = Number(match[6]);
+    const utcTimestamp = Date.UTC(year, month - 1, day, hour, minute, second);
     if (utcTimestamp <= Date.now()) {
       return utcTimestamp;
     }
@@ -345,8 +320,7 @@ function parseArticleDate(pubDate) {
       hourCycle: "h23",
     });
     const parts = Object.fromEntries(
-      formatter
-        .formatToParts(new Date(utcTimestamp))
+      formatter.formatToParts(new Date(utcTimestamp))
         .filter((part) => part.type !== "literal")
         .map((part) => [part.type, part.value]),
     );
@@ -358,24 +332,15 @@ function parseArticleDate(pubDate) {
       Number(parts.minute),
       Number(parts.second),
     );
-    // The time returned by the formatter is local time. Convert it back
-    // to a UTC timestamp, then subtract the offset to get the original
-    // UTC time corresponding to the stated local time.
     return utcTimestamp - (shiftedTimestamp - utcTimestamp);
   }
 
   return null;
 }
 
-/**
- * Returns true if the article's pubDate is within MAX_ARTICLE_AGE_HOURS.
- * Handles ISO 8601, RFC 822, and timezone-less Bulgarian local timestamps.
- * Items with missing or unparseable dates are kept (age unknown — safer to keep).
- */
 function isWithinAgeLimit(pubDate) {
   const timestamp = parseArticleDate(pubDate);
   if (timestamp === null) return true;
-
   const ageHours = (Date.now() - timestamp) / (1000 * 60 * 60);
   return ageHours <= MAX_ARTICLE_AGE_HOURS;
 }
@@ -385,13 +350,10 @@ function loadExistingNews() {
     if (fs.existsSync(OUTPUT_FILE)) {
       const data = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf8"));
       const items = data.items || [];
-      // Filter out stale items that were carried over from previous runs.
-      // Only keep items still within the age limit so old articles don't
-      // accumulate in the active feed.
       const fresh = items.filter((item) => isWithinAgeLimit(item.pubDate));
       if (fresh.length < items.length) {
         console.log(
-          `⏰ Filtered ${items.length - fresh.length} stale article(s) from existing news.json (older than ${MAX_ARTICLE_AGE_HOURS}h)`,
+          "⏰ Filtered " + (items.length - fresh.length) + " stale article(s) from existing news.json (older than " + MAX_ARTICLE_AGE_HOURS + "h)",
         );
       }
       return fresh;
@@ -402,18 +364,16 @@ function loadExistingNews() {
   return [];
 }
 
-// --- 24h rolling archive ---
-
 function dedupeKey(item) {
   if (item.link) {
     try {
       const url = new URL(item.link);
-      return `${url.hostname.toLowerCase()}${url.pathname.replace(/\/+$/, "")}`;
+      return url.hostname.toLowerCase() + url.pathname.replace(/\/+$/, "");
     } catch (_) {
       return item.link.trim();
     }
   }
-  return `${item.source?.name || ""}::${(item.title || "").trim().toLowerCase()}`;
+  return (item.source?.name || "") + "::" + (item.title || "").trim().toLowerCase();
 }
 
 function loadArchive() {
@@ -442,17 +402,13 @@ function updateArchive(freshItems) {
   for (const item of freshItems) {
     const key = dedupeKey(item);
     if (seen.has(key)) continue;
-    seen.set(key, { ...item, firstSeen: now.toISOString() });
+    seen.set(key, Object.assign({}, item, { firstSeen: now.toISOString() }));
     added++;
   }
 
   const kept = [...seen.values()].filter((item) => {
-    // Prune by firstSeen (when the item was first added to the archive)
     const firstSeenTs = Date.parse(item.firstSeen || "");
     if (!Number.isNaN(firstSeenTs) && firstSeenTs < cutoff) return false;
-    // Also prune by pubDate: articles older than the 24h window should be dropped
-    // regardless of when they were first seen, to prevent stale articles from
-    // accumulating in the archive.
     const pubTs = parseArticleDate(item.pubDate);
     if (pubTs !== null) {
       const pubAgeHours = (now.getTime() - pubTs) / (1000 * 60 * 60);
@@ -478,9 +434,8 @@ function updateArchive(freshItems) {
   };
 
   fs.writeFileSync(ARCHIVE_FILE, JSON.stringify(output, null, 2));
-
   console.log(
-    `🗄️  news-24h.json: +${added} new, -${dropped} expired, ${kept.length} total (window started ${output.windowStart})`,
+    "🗄️  news-24h.json: +" + added + " new, -" + dropped + " expired, " + kept.length + " total",
   );
 }
 
@@ -502,25 +457,22 @@ async function fetchAllFeeds() {
         allItems.push(...fresh);
         if (fresh.length < items.length) {
           console.log(
-            `⏰ Filtered ${items.length - fresh.length} stale article(s) from ${source.name} (older than ${MAX_ARTICLE_AGE_HOURS}h)`,
+            "⏰ Filtered " + (items.length - fresh.length) + " stale article(s) from " + source.name + " (older than " + MAX_ARTICLE_AGE_HOURS + "h)",
           );
         }
       }
     } else {
       failedSources.push(source.name);
-      // Preserve old articles from this source
       const oldItems = existingItems.filter(
         (item) => item.source?.name === source.name,
       );
       if (oldItems.length > 0) {
         console.log(
-          `📦 Keeping ${oldItems.length} existing articles from ${source.name}`,
+          "📦 Keeping " + oldItems.length + " existing articles from " + source.name,
         );
         allItems.push(...oldItems);
       }
     }
-
-    // Delay between sources to avoid rss2json rate limiting
     await delay(1500);
   }
 
@@ -529,8 +481,6 @@ async function fetchAllFeeds() {
     process.exit(1);
   }
 
-  // Filter out stale items carried over from previous runs or preserved from
-  // failed sources. Only fresh items should remain in the active feed.
   const beforeCount = allItems.length;
   const filteredItems = allItems.filter((item) => isWithinAgeLimit(item.pubDate));
   const staleDropped = beforeCount - filteredItems.length;
@@ -539,14 +489,13 @@ async function fetchAllFeeds() {
     console.error("❌ No items fetched from any source");
     process.exit(1);
   }
-  // Use the same parseArticleDate function that handles all known formats.
+
   filteredItems.sort((a, b) => {
     const dateA = parseArticleDate(a.pubDate) || 0;
     const dateB = parseArticleDate(b.pubDate) || 0;
-    return dateB - dateA; // Descending: newest first
+    return dateB - dateA;
   });
 
-  // Verify the sort is correct (catch any remaining format mismatches).
   let sortViolations = 0;
   for (let i = 0; i < filteredItems.length - 1; i++) {
     const a = parseArticleDate(filteredItems[i].pubDate) || 0;
@@ -554,20 +503,18 @@ async function fetchAllFeeds() {
     if (a < b) sortViolations++;
   }
   if (sortViolations > 0) {
-    console.error(
-      `❌ Sort verification failed: ${sortViolations} violations found`,
-    );
+    console.error("❌ Sort verification failed: " + sortViolations + " violations found");
     process.exit(1);
   }
-  console.log(`✅ Sort verified: ${filteredItems.length} articles in time order`);
+  console.log("✅ Sort verified: " + filteredItems.length + " articles in time order");
 
   if (failedSources.length > 0) {
     console.log(
-      `\n⚠️  Sources that failed (old data preserved): ${failedSources.join(", ")}`,
+      "\n⚠️  Sources that failed (old data preserved): " + failedSources.join(", "),
     );
     if (staleDropped > 0) {
       console.log(
-        `⏰ Removed ${staleDropped} stale article(s) (older than ${MAX_ARTICLE_AGE_HOURS}h) from active feed`,
+        "⏰ Removed " + staleDropped + " stale article(s) (older than " + MAX_ARTICLE_AGE_HOURS + "h) from active feed",
       );
     }
   }
@@ -581,12 +528,12 @@ async function fetchAllFeeds() {
   updateArchive(filteredItems);
 
   console.log("\n✅ Successfully updated news.json");
-  console.log(`📰 Total articles: ${output.items.length}`);
-  console.log(`🕐 Last updated: ${output.lastUpdated}`);
+  console.log("📰 Total articles: " + output.items.length);
+  console.log("🕐 Last updated: " + output.lastUpdated);
 
   const withThumbnails = output.items.filter((item) => item.thumbnail).length;
   console.log(
-    `🖼️  Articles with images: ${withThumbnails}/${output.items.length}`,
+    "🖼️  Articles with images: " + withThumbnails + "/" + output.items.length,
   );
 }
 
