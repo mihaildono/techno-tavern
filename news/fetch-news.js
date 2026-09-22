@@ -249,7 +249,8 @@ function parseArticleDate(pubDate) {
   const raw = String(pubDate).trim();
   if (!raw) return null;
 
-  // Some RSS-to-JSON providers return a timezone-less Bulgarian local time.
+  // Some RSS-to-JSON providers return a timezone-less UTC time.
+  // Try UTC first, fall back to Sofia local time only if UTC would be in the future.
   if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
     const match = raw.match(
       /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/,
@@ -265,6 +266,11 @@ function parseArticleDate(pubDate) {
       Number(minute),
       Number(second),
     );
+    // If this UTC interpretation is in the future, the feed is likely
+    // publishing Sofia local time. Fall back to the Sofia timezone.
+    if (localTimestamp <= Date.now()) {
+      return localTimestamp;
+    }
     const formatter = new Intl.DateTimeFormat("en-US", {
       timeZone: SOURCE_TIMEZONE,
       year: "numeric",
@@ -456,8 +462,28 @@ async function fetchAllFeeds() {
     process.exit(1);
   }
 
-  // Sort by time descending so newest articles appear first regardless of source.
-  filteredItems.sort((a, b) => Date.parse(b.pubDate || "") - Date.parse(a.pubDate || ""));
+  // Robust time-sort: normalize pubDate to Date objects for consistent ordering.
+  // Use the same parseArticleDate function that handles all known formats.
+  filteredItems.sort((a, b) => {
+    const dateA = parseArticleDate(a.pubDate) || 0;
+    const dateB = parseArticleDate(b.pubDate) || 0;
+    return dateB - dateA; // Descending: newest first
+  });
+
+  // Verify the sort is correct (catch any remaining format mismatches).
+  let sortViolations = 0;
+  for (let i = 0; i < filteredItems.length - 1; i++) {
+    const a = parseArticleDate(filteredItems[i].pubDate) || 0;
+    const b = parseArticleDate(filteredItems[i + 1].pubDate) || 0;
+    if (a < b) sortViolations++;
+  }
+  if (sortViolations > 0) {
+    console.error(
+      `❌ Sort verification failed: ${sortViolations} violations found`,
+    );
+    process.exit(1);
+  }
+  console.log(`✅ Sort verified: ${filteredItems.length} articles in time order`);
 
   if (failedSources.length > 0) {
     console.log(
