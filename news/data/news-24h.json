@@ -1,9 +1,258 @@
 {
   "windowStart": "2026-09-22T18:18:09.356Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-23T03:01:41.491Z",
-  "totalItems": 59,
+  "lastUpdated": "2026-09-23T06:00:30.591Z",
+  "totalItems": 78,
   "items": [
+    {
+      "title": "Тръмп заплашва пред ООН, че ще унищожи Иран",
+      "link": "https://www.mediapool.bg/tramp-zaplashva-pred-oon-che-shte-unishtozhi-iran-news387758.html",
+      "pubDate": "2026-09-23T05:47:29.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_d9237330a862b597e8e44aee37ade6cd.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Американски F-16 се разби в Германия",
+      "link": "https://www.mediapool.bg/amerikanski-f-16-se-razbi-v-germaniya-news387757.html",
+      "pubDate": "2026-09-23T05:34:49.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_0b0928c35337645ff68eacba17214868.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Смяна на едни хора с други във ВСС, критика за управленската програма на Радев: Говори Иван Костов",
+      "link": "https://www.actualno.com/politics/smjana-na-edni-hora-s-drugi-vyv-vss-kritika-za-upravlenskata-programa-na-radev-govori-ivan-kostov-news_2642235.html",
+      "pubDate": "2026-09-23T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/b9e8288624b47c1dadb1cdac01118c07_2642235_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Търговците плашат с липса на стоки заради нови държавни мерки",
+      "link": "https://www.actualno.com/economy/tyrgovcite-plashat-s-lipsa-na-stoki-zaradi-novi-dyrjavni-merki-news_2642234.html",
+      "pubDate": "2026-09-23T05:25:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/1ebeca0f77929e48c820f87073640de9_2642234_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "\"Нямаше сива икономика, когато ДДС-то беше 0%\": Хлебарите искат нулева ставка",
+      "link": "https://www.actualno.com/economy/njamashe-siva-ikonomika-kogato-dds-to-beshe-0-hlebarite-iskat-nuleva-stavka-news_2642233.html",
+      "pubDate": "2026-09-23T05:22:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/ed02dcd245bb100c4a507edf17f1726f_2642233_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Не искам да плаша хората по принцип, а се стремя да ги убедя с аргументи",
+      "link": "https://www.actualno.com/cite/ne-iskam-da-plasha-horata-po-princip-a-se-stremja-da-gi-ubedja-s-argumenti-news_2642232.html",
+      "pubDate": "2026-09-23T05:21:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/a4eed99c339ad97624b91480ea740ddf_2642232_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Търговска асоциация: Мерките за контрол на цените ще доведат до дефицит на стоки",
+      "link": "https://frognews.bg/novini/targovska-asotsiatsiya-merkite-kontrol-tsenite-shte-dovedat-defitsit-stoki.html",
+      "pubDate": "2026-09-23T05:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9e7f67472_1790140970_6ab3622a3a163.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Защо \"Алтернатива за Германия\" има успех на избори, но остава вън от властта",
+      "link": "https://www.actualno.com/viewpoint/zashto-alternativa-za-germanija-ima-uspeh-na-izbori-no-ostava-vyn-ot-vlastta-news_2641812.html",
+      "pubDate": "2026-09-23T05:15:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/21/33b611b07cde9b191328cfe7b2f6bd12_2641812_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Земетресение разлюля Несебър, усетиха го и в Бургас",
+      "link": "https://frognews.bg/novini/zemetresenie-razliulia-nesebar-usetiha-burgas.html",
+      "pubDate": "2026-09-23T05:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5e5cf994a_1790140391_6ab35fe7569ae.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Sri Lanka: 15 men jailed for life in 2019 Easter bombings",
+      "link": "https://www.dw.com/en/sri-lanka-15-men-jailed-for-life-in-2019-easter-bombings/a-79382342?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T05:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Супер Ел Ниньо заплашва с над 450 000 допълнителни смъртни случая за 6 месеца",
+      "link": "https://frognews.bg/novini/super-ninyo-zaplashva-nad-450-000-dopalnitelni-smartni-sluchaya-6-mesetsa.html",
+      "pubDate": "2026-09-23T04:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6a9122ab2_1790139421_6ab35c1d01abf.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Зеленски към Тръмп: Готови сме за примирие, ако Путин спре ударите",
+      "link": "https://frognews.bg/novini/zelenski-kam-tramp-gotovi-sme-primirie-ako-putin-spre-udarite.html",
+      "pubDate": "2026-09-23T04:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ef97f630d_1790138446_6ab3584e1304b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "ЕК предлага край на обществените поръчки само по най-ниска цена",
+      "link": "https://www.mediapool.bg/ek-predlaga-krai-na-obshtestvenite-porachki-samo-po-nai-niska-tsena-news387756.html",
+      "pubDate": "2026-09-23T04:27:06.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_5819211c3667d935056680991c2ec375.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Изоставена жп гара чака шеф в НКЖИ, за да превърне Русе в трансграничен хъб",
+      "link": "https://www.mediapool.bg/izostavena-zhp-gara-chaka-shef-v-nkzhi-za-da-prevarne-ruse-v-transgranichen-hab-news387753.html",
+      "pubDate": "2026-09-23T04:26:27.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_98eb50b51c338e4be2b14682af3f7943.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Как един проект става стратегически за Европа?",
+      "link": "https://www.mediapool.bg/kak-edin-proekt-stava-strategicheski-za-evropa-news387516.html",
+      "pubDate": "2026-09-23T04:25:33.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_d4ba336618c375132a4483df8cea7604.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Два протеста: Близки на жертви на войната по пътищата срещу „съдебното протакане“",
+      "link": "https://frognews.bg/novini/dva-protesta-blizki-jertvi-voinata-patishtata-sreshtu-sadebnoto-protakane.html",
+      "pubDate": "2026-09-23T04:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4a90ff68e_1790137609_6ab355095d961.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "China sets guidelines for fentanyl-related crimes prior to Trump-Xi summit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXJjOGFMRk1QaDg3MWxZSWJSMTY4dFB5d1doUmZXWmR3RXBIc3R4OWxkS28zcnlsWFJNX2kxdmpqeU44UV9sN0pKeEh0UE02Y3BNemViSERVdEF4aWRra1RidHU3X1hiaUZ5LXVwMnVzNTdlQjRTZC02dHU1NU9sZ1Riczl3Slk4Z3EydVlsTDE0SzAyRjdpanpRWDYtdlMwWVZjWlRrdmszNUFUUkFFWEJNMlZ1T2V2T1hiag?oc=5",
+      "pubDate": "2026-09-23T03:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Asia stocks ride tech wave higher, oil stays subdued - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5",
+      "pubDate": "2026-09-23T01:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
+    {
+      "title": "Oil falls $1 on better supply outlook, hopes for US-Iran talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
+      "pubDate": "2026-09-23T01:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-23T06:00:30.591Z"
+    },
     {
       "title": "Zelenskiy says Russia planning new mass attack on Ukraine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5",
