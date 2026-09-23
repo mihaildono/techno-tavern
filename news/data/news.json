@@ -1,9 +1,48 @@
 {
   "items": [
     {
-      "title": "UNGA: World leaders discuss AI, global conflicts",
-      "link": "https://www.dw.com/en/unga-world-leaders-discuss-ai-global-conflicts/live-79366211?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-23T08:57:00.000Z",
+      "title": "Путин иска да провокира НАТО: Зам.-върховният главнокомандващ в Европа",
+      "link": "https://www.actualno.com/europe/putin-iska-da-provokira-nato-zam-vyrhovnijat-glavnokomandvasht-v-evropa-news_2642428.html",
+      "pubDate": "2026-09-23T11:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/e5a8694ca1e8ed766c23c86cb34f3750_2642428_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Правителството на Радев прие промени за защита и интеграция на украинци",
+      "link": "https://www.actualno.com/society/pravitelstvoto-na-radev-prie-promeni-za-zashtita-i-integracija-na-ukrainci-news_2642426.html",
+      "pubDate": "2026-09-23T11:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/670aaa3427126d63cd38b14944e958c9_2642426_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Новите правила за бързите кредити минаха на първо четене, опозицията скочи срещу оскъпяването",
+      "link": "https://www.actualno.com/politics/novite-pravila-za-byrzite-krediti-minaha-na-pyrvo-chetene-opozicijata-skochi-sreshtu-oskypjavaneto-news_2642425.html",
+      "pubDate": "2026-09-23T11:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/65703a27e955116c92af2baefdab9c92_2642425_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "ICC convicts CAR ex-rebel leader of crimes against humanity",
+      "link": "https://www.dw.com/en/icc-convicts-car-ex-rebel-leader-of-crimes-against-humanity/a-79387178?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T11:50:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -11,13 +50,244 @@
       }
     },
     {
-      "title": "China&apos;s new travel rules unsettle tech giants and talent",
-      "link": "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-23T08:54:00.000Z",
+      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
+      "link": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T11:49:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
         "color": "#C8102E"
+      }
+    },
+    {
+      "title": "На сантиметри от трагедия: Клон едва не уби майка и детето й във Варна",
+      "link": "https://www.actualno.com/crime/na-santimetri-ot-tragedija-klon-edva-ne-ubi-majka-i-deteto-j-vyv-varna-news_2642420.html",
+      "pubDate": "2026-09-23T11:47:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/9cb68030ed94c55019b74bf818c1feb1_2642420_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Зеленски заяви, че Русия планира нова мащабна атака срещу страната му",
+      "link": "https://www.mediapool.bg/zelenski-zayavi-che-rusiya-planira-nova-mashtabna-ataka-sreshtu-stranata-mu-news387774.html",
+      "pubDate": "2026-09-23T11:45:14.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_92442704610f08d87b0e7ff8f5feacda.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "\"Камп Ноу\" отново затваря врати: Барселона се мести за следващия сезон",
+      "link": "https://www.actualno.com/football/kamp-nou-otnovo-zatvarja-vrati-barselona-se-mesti-za-sledvashtija-sezon-news_2642417.html",
+      "pubDate": "2026-09-23T11:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/9efc5eff3308108f894fc239d433b936_2642417_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "България с 28,6% шанс да спечели групата си в Лигата на нациите",
+      "link": "https://frognews.bg/novini/balgariia-28-6procenta-shans-specheli-grupata-ligata-natsiite.html",
+      "pubDate": "2026-09-23T11:44:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ef30a28be_1790163975_6ab3bc072bd16.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Промени в Кодекса за застраховане приеха депутатите на първо четене",
+      "link": "https://frognews.bg/novini/promeni-kodeksa-zastrahovane-prieha-deputatite-parvo-chetene.html",
+      "pubDate": "2026-09-23T11:43:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/57d16cd94_1790164079_6ab3bc6f18e7b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Американски милиардер, подкрепен от Тръмп, може да изхвърли \"Карлайл\" от сделка за \"Лукойл\"",
+      "link": "https://www.mediapool.bg/amerikanski-miliarder-podkrepen-ot-tramp-mozhe-da-izhvarli-karlail-ot-sdelka-za-lukoil-news387773.html",
+      "pubDate": "2026-09-23T11:37:59.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_43f67a5c8711e9d0073f95e279c5b54d.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Meta expected to unveil smart glasses without camera as privacy concerns grow - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
+      "pubDate": "2026-09-23T11:34:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "„Руският терор никога не спира“: Удари край мисията на ЕС в Киев, докато Зеленски е в ООН",
+      "link": "https://frognews.bg/novini/ruskiiat-teror-nikoga-spira-udari-krai-misiiata-kiev-dokato-zelenski-oon.html",
+      "pubDate": "2026-09-23T11:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d00209516_1790162609_6ab3b6b1b42da.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Човек от екипа на кмета, журналист и двама експерти в битка за омбудсман в София",
+      "link": "https://www.mediapool.bg/chovek-ot-ekipa-na-kmeta-zhurnalist-i-dvama-eksperti-v-bitka-za-ombudsman-v-sofiya-news387771.html",
+      "pubDate": "2026-09-23T11:18:16.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_3b597c6ac0ffea874caac0292c772c0a.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Munich, Berlin, Cologne-Rhine-Ruhr – Germany&apos;s three Olympic candidates",
+      "link": "https://www.dw.com/en/munich-berlin-cologne-rhine-ruhr-germany-s-three-olympic-candidates/a-79386915?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T11:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Кой е виновен за свлачището в „Аспарухово“: Споровете продължават",
+      "link": "https://frognews.bg/novini/koi-vinoven-svlachishteto-asparuhovo-sporovete-prodaljavat.html",
+      "pubDate": "2026-09-23T10:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0e34843b8_1790164099_6ab3bc83bdfcc.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Независимостта и зависимостите ни. Когато се ражда Магна харта, нашият цар се жени за вуйна си",
+      "link": "https://frognews.bg/novini/nezavisimostta-zavisimostite-kogato-razhda-magna-harta-nashiyat-tsar-zheni-vuyna.html",
+      "pubDate": "2026-09-23T10:53:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/af59ec3ef_1790161121_6ab3b0e108520.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Russia pounds Kyiv with drone strikes after Zelenskiy-Trump talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
+      "pubDate": "2026-09-23T10:50:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Макрон пред ООН: В света се завръща законът на джунглата",
+      "link": "https://www.mediapool.bg/makron-pred-oon-v-sveta-se-zavrashta-zakonat-na-dzhunglata-news387770.html",
+      "pubDate": "2026-09-23T10:40:54.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_4136180daa1812f1f1e468237b9c5e9b.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Rome&apos;s Colosseum closes after worker falls to his death",
+      "link": "https://www.dw.com/en/rome-s-colosseum-closes-after-worker-falls-to-his-death/a-79387180?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T10:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Бившето руско консулство във Варна се превръща в сцена за изкуство",
+      "link": "https://www.mediapool.bg/bivsheto-rusko-konsulstvo-vav-varna-se-prevrashta-v-stsena-za-izkustvo-news387769.html",
+      "pubDate": "2026-09-23T10:28:51.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_279102d1369d83310e29667ba8b81caa.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Hungary: EU Commission wants to unblock €4.2b in funding",
+      "link": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-23T10:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Tigrayan forces seize airport, Ethiopian Airlines suspends flights - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlp4SFJVZ3ZuYXdueWZPdmJaOHFNbHlFYTJELWRhMm9mQWVkN2o5Yjd2dTJFSXJkWkhfV1R5OFdxTEw3blFQMzBlV1hudkV3eGJaeHNnNmdWVnZ6S0VyenNqMU9FbXdrQXljWEF1UU1VVmZjdGRuQ3Q4LVp2cERDa0FXbUlGZkNhVENUNHZ2VXRvVU5LYVZyTXl5UmVtbDA?oc=5",
+      "pubDate": "2026-09-23T10:22:34.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "EXCLUSIVE: LG, Samsung face India tariff evasion investigation over OLED TV parts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWZySUc1VVpNVFZwNjJZLXJxTG5WTGVvVlB2dHpkbXJGYjROUjBwLTdIMkNoM2h6WDE4ekJFZHlqYzNKNUxYR0ZydzJMRDFFMENSQk1Hdi05R0sxamttMmVKbGR1ejhCR1ZoT0RRQ2pveG5pNFlRLVQyUDlXNERRaHllcy12Y0pUOWFsemx5ZHdVR2E4YzZJX1JUMWZuYnlWVFA3UTUydWdYdlBRR1JaN05GUXVzV1VYeHh4Snc1U2N5Uy0zMExz?oc=5",
+      "pubDate": "2026-09-23T10:14:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Трима загинаха след челна катастрофа на пътя между Казанлък и Стара Загора - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW9abzl0aXg4ZjFfRjRKZjNDZHptVm93YVN5ZHk1ZDJPZUM4a0g5VFNoSDhsZWMwcE50NDV6N3puZU9yVkdyMG5NZm5GYlpYcThPN3Y3NXZyWkVieWFMYVBwTnIxT3QyUEZ0RHZoQVE4a1lfTmstbU9WLXlVLW9fUTA4aGE0aHJhel9Cdms1VExuTXFGQVpZZlR1NVpFdjJHMWttYWtEYjZyR0ts?oc=5",
+      "pubDate": "2026-09-23T09:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
       }
     },
     {
@@ -77,16 +347,6 @@
       }
     },
     {
-      "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
-      "link": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-23T08:23:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
       "title": "По 12 часа без вода в полите на Витоша утре",
       "link": "https://offnews.bg/obshtestvo/po-12-chasa-bez-voda-v-polite-na-vitosha-utre-875176.html",
       "pubDate": "2026-09-23T08:21:57.000Z",
@@ -101,263 +361,13 @@
       }
     },
     {
-      "title": "World lagging on key UN biodiversity targets",
-      "link": "https://www.dw.com/en/world-lagging-on-key-un-biodiversity-targets/a-79383304?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-23T07:49:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Call to scrap once-a-day gas price rises",
-      "link": "https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-23T07:25:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Argentina's Milei addresses UN as tensions rise over Falkland Islands - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjlQN1lfWE5sNnlsRDk5SUpoeHBuci1MSWk5N0FCbnE5MVBCeF9haDhhR0NMbi0zVk9yTnJ1alJPM0tiNHJmS0Flc182N1VGR0RFZGFYSF8xclhBNl9rNEZpMEhSR3Bnemt3M3YwUWxfUURFZWwwbWJNRzlfcVY5eUJoV0hCV0JfT0dmbHROSkwtYUJRZjNZMjV4MVNZTm9JLUJGT21GLW03N282X21vTUctWHlqVEE?oc=5",
-      "pubDate": "2026-09-23T07:03:48.000Z",
+      "title": "OECD expects AI boom to help offset Middle East energy shock for now - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjhCamFjUEdaSHhrSGlUR3hEaHhoczQtY0d1Q19lNWhsTUdtX0Rxb2FkbjdUSDlmOVlZZ19rdjZ2NDFrT3YyYmt6WG1WdEYtUVBjaWxuVTR1Sk1KYjJxVEppbjZtQ0hfVVpLM1UtV3pqTHJMWkR5ekNLMUczR18tekM4NXJrdHFYOXBCUTdOdjlLVTdjVDZkSThPSm84UXVDMWFLVWZ1OU1oRWRhUGc?oc=5",
+      "pubDate": "2026-09-23T08:05:32.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
         "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Philippine Senate lowers threshold for conviction in VP Duterte's impeachment trial - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFVjYl93cVc5am92U01HRzRCYll1RTZiandiazR0akVUcUZzQmVpTmd0WGlvb0ZJc2VSdFN5V1kyUnhRYUtJWkNSTFJObXVDQ0k5eDhqbUhEZl9EU2N0Ynl2Qk1VcGpjcy1yalJzT3NQeVVrN2Z2R2UwWlB1VVBKeEhTamU4b3JlWFVMQWFHc2h0dUdQc0xFNU9GWXhydmFzeXg1TmpaN2wtOU5ySm1KTWNHZmJ5a0Y2ajZuNWtYQ2s?oc=5",
-      "pubDate": "2026-09-23T06:06:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Catalonia's far-right surge divides independence camp as migration fears grow - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFZ2Vnp4aHVJWWhDdVZvR1pGSXVhNF9za25kaFkzT04ySDNFWktvNXowRVAzY3BKekNSZFgtSzZmZm5qcnRCQ2l1QVcxV1JtWHdTMm9VWm0wODhZbXJIZlVtNWt2N2Y1YWlFeHdYbWotMHVfU0hFMGpjSGlMQXhNc2dxQ2lYbVdYei1CQ09kdHY1Rktpc2xiQU4tR2xMZ1FKc19EUzNpZmN1RnljR2VWY3pMNlR3Zw?oc=5",
-      "pubDate": "2026-09-23T06:04:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Тръмп заплашва пред ООН, че ще унищожи Иран",
-      "link": "https://www.mediapool.bg/tramp-zaplashva-pred-oon-che-shte-unishtozhi-iran-news387758.html",
-      "pubDate": "2026-09-23T05:47:29.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_d9237330a862b597e8e44aee37ade6cd.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Shooting at South Africa house party kills 11, injures three - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMllIblF1bGU2dHlmSUp2NjhvUDVjZ1VkMUZIeEZyM0dLaHZLVnV4U2Z6cXZYZTUzMXRPUllmbC1SUXlZZ2JOeVVtaUh0MjlWX0FRVklzX1lVekRyN0VmdlRjcVJ6SnRveGprMHFld3FVQTdlUHdXRG4wbXlHelpsZ1lUVWxZZFNWYjNyNzJwaVVrN0JsYjQ4d1VGb0xkUWE2ajJqQVpkRWZhVm1WS0tPcTNZSQ?oc=5",
-      "pubDate": "2026-09-23T05:43:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Indian court rejects Adani plea that duty-free shops are beyond domestic laws - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEhvRnhrdzVjSXdBUmZRb3k1V05SbGdXaHRXUTNGNi1UQVlBaXpxb1ZPOTl2bnVUTTA2Sml3OENCS2NMTEFab3ktNVZOVWZlMUgwSlRpUHRvTko2a1VyQ2JjZ3pwblhydk13NnhZNWNmUXh3N2hiaDRwZ1BRX3ZRQ3J5NVdPQVNuWGhQdXhER2o3NUxmRjB6X0twWGpZWW93SjdNMFpVSXMyQVZfOEkxVkpoU2tyZ0ZMak1uUXBCWHRBM2c?oc=5",
-      "pubDate": "2026-09-23T05:38:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Американски F-16 се разби в Германия",
-      "link": "https://www.mediapool.bg/amerikanski-f-16-se-razbi-v-germaniya-news387757.html",
-      "pubDate": "2026-09-23T05:34:49.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_0b0928c35337645ff68eacba17214868.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Смяна на едни хора с други във ВСС, критика за управленската програма на Радев: Говори Иван Костов",
-      "link": "https://www.actualno.com/politics/smjana-na-edni-hora-s-drugi-vyv-vss-kritika-za-upravlenskata-programa-na-radev-govori-ivan-kostov-news_2642235.html",
-      "pubDate": "2026-09-23T05:30:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/b9e8288624b47c1dadb1cdac01118c07_2642235_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Търговците плашат с липса на стоки заради нови държавни мерки",
-      "link": "https://www.actualno.com/economy/tyrgovcite-plashat-s-lipsa-na-stoki-zaradi-novi-dyrjavni-merki-news_2642234.html",
-      "pubDate": "2026-09-23T05:25:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/1ebeca0f77929e48c820f87073640de9_2642234_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "\"Нямаше сива икономика, когато ДДС-то беше 0%\": Хлебарите искат нулева ставка",
-      "link": "https://www.actualno.com/economy/njamashe-siva-ikonomika-kogato-dds-to-beshe-0-hlebarite-iskat-nuleva-stavka-news_2642233.html",
-      "pubDate": "2026-09-23T05:22:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/ed02dcd245bb100c4a507edf17f1726f_2642233_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Не искам да плаша хората по принцип, а се стремя да ги убедя с аргументи",
-      "link": "https://www.actualno.com/cite/ne-iskam-da-plasha-horata-po-princip-a-se-stremja-da-gi-ubedja-s-argumenti-news_2642232.html",
-      "pubDate": "2026-09-23T05:21:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/23/a4eed99c339ad97624b91480ea740ddf_2642232_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Търговска асоциация: Мерките за контрол на цените ще доведат до дефицит на стоки",
-      "link": "https://frognews.bg/novini/targovska-asotsiatsiya-merkite-kontrol-tsenite-shte-dovedat-defitsit-stoki.html",
-      "pubDate": "2026-09-23T05:20:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/9e7f67472_1790140970_6ab3622a3a163.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Защо \"Алтернатива за Германия\" има успех на избори, но остава вън от властта",
-      "link": "https://www.actualno.com/viewpoint/zashto-alternativa-za-germanija-ima-uspeh-na-izbori-no-ostava-vyn-ot-vlastta-news_2641812.html",
-      "pubDate": "2026-09-23T05:15:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/21/33b611b07cde9b191328cfe7b2f6bd12_2641812_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Земетресение разлюля Несебър, усетиха го и в Бургас",
-      "link": "https://frognews.bg/novini/zemetresenie-razliulia-nesebar-usetiha-burgas.html",
-      "pubDate": "2026-09-23T05:10:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/5e5cf994a_1790140391_6ab35fe7569ae.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Супер Ел Ниньо заплашва с над 450 000 допълнителни смъртни случая за 6 месеца",
-      "link": "https://frognews.bg/novini/super-ninyo-zaplashva-nad-450-000-dopalnitelni-smartni-sluchaya-6-mesetsa.html",
-      "pubDate": "2026-09-23T04:55:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/6a9122ab2_1790139421_6ab35c1d01abf.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Зеленски към Тръмп: Готови сме за примирие, ако Путин спре ударите",
-      "link": "https://frognews.bg/novini/zelenski-kam-tramp-gotovi-sme-primirie-ako-putin-spre-udarite.html",
-      "pubDate": "2026-09-23T04:40:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/ef97f630d_1790138446_6ab3584e1304b.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "ЕК предлага край на обществените поръчки само по най-ниска цена",
-      "link": "https://www.mediapool.bg/ek-predlaga-krai-na-obshtestvenite-porachki-samo-po-nai-niska-tsena-news387756.html",
-      "pubDate": "2026-09-23T04:27:06.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_5819211c3667d935056680991c2ec375.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Изоставена жп гара чака шеф в НКЖИ, за да превърне Русе в трансграничен хъб",
-      "link": "https://www.mediapool.bg/izostavena-zhp-gara-chaka-shef-v-nkzhi-za-da-prevarne-ruse-v-transgranichen-hab-news387753.html",
-      "pubDate": "2026-09-23T04:26:27.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_98eb50b51c338e4be2b14682af3f7943.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Как един проект става стратегически за Европа?",
-      "link": "https://www.mediapool.bg/kak-edin-proekt-stava-strategicheski-za-evropa-news387516.html",
-      "pubDate": "2026-09-23T04:25:33.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_d4ba336618c375132a4483df8cea7604.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Два протеста: Близки на жертви на войната по пътищата срещу „съдебното протакане“",
-      "link": "https://frognews.bg/novini/dva-protesta-blizki-jertvi-voinata-patishtata-sreshtu-sadebnoto-protakane.html",
-      "pubDate": "2026-09-23T04:25:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/4a90ff68e_1790137609_6ab355095d961.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
       }
     },
     {
@@ -381,5 +391,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-09-23T09:00:32.508Z"
+  "lastUpdated": "2026-09-23T12:00:32.876Z"
 }
