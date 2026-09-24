@@ -1,9 +1,432 @@
 {
   "windowStart": "2026-09-23T15:32:51.219Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-24T09:04:18.499Z",
-  "totalItems": 110,
+  "lastUpdated": "2026-09-24T15:02:25.094Z",
+  "totalItems": 130,
   "items": [
+    {
+      "title": "ЕС започва дипломатическа офанзива, за да спре забраната на Тръмп за износ на дизел",
+      "link": "https://frognews.bg/novini/zapochva-diplomaticheska-ofanziva-spre-zabranata-tramp-iznos-dizel.html",
+      "pubDate": "2026-09-24T14:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/546884d53_1790261385_6ab5388984e37.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Забелязано в България: Влак лети със 160 км/ч",
+      "link": "https://www.mediapool.bg/zabelyazano-v-bulgaria-vlak-leti-sas-160-kmch-news387815.html",
+      "pubDate": "2026-09-24T14:53:17.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_c17ed4131fe17885e765f9afd24886cf.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Икономистът Михаил Кръстев: Наглостта на картела на Столична община или цената на такситата",
+      "link": "https://frognews.bg/novini/ikonomistat-mihail-krastev-naglostta-kartela-stolichna-obshtina-ili-tsenata-taksitata.html",
+      "pubDate": "2026-09-24T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7ec070d23_1790260376_6ab534981f81c.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Руският Краснодарски край обяви извънредно положение заради украински атаки срещу износа на зърно",
+      "link": "https://www.mediapool.bg/ruskiyat-krasnodarski-krai-obyavi-izvanredno-polozhenie-zaradi-ukrainski-ataki-sreshtu-iznosa-na-zarno-news387819.html",
+      "pubDate": "2026-09-24T14:42:01.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_cefbc838416e9581e1945eb741b008f3.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "ЕС санкционира руска телевизионна звезда заради хибридна дейност",
+      "link": "https://www.mediapool.bg/es-sanktsionira-ruska-televizionna-zvezda-zaradi-hibridna-deinost-news387818.html",
+      "pubDate": "2026-09-24T14:39:11.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_7f0ce8d23de4ff639de1579582b2bc97.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Зверска реакция на Никола Цолов: Българският лъв овладя болида на косъм в Баку (ВИДЕО)",
+      "link": "https://www.actualno.com/moresport/zverska-reakcija-na-nikola-colov-bylgarskijat-lyv-ovladja-bolida-na-kosym-v-baku-video-news_2642951.html",
+      "pubDate": "2026-09-24T14:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/24/80c25b7b49220c915d150b8dda16009b_2642951_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Почина режисьорът и сценарист Христо Илиев-Чарли",
+      "link": "https://www.mediapool.bg/pochina-rezhisyorat-i-stsenarist-hristo-iliev-charli-news387817.html",
+      "pubDate": "2026-09-24T14:33:38.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_261d3f64bcfd7eb3070d12180580eb6f.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Путин си строи нова резиденция в Сочи като държавна отбранителна поръчка",
+      "link": "https://www.mediapool.bg/putin-si-stroi-nova-rezidentsiya-v-sochi-kato-darzhavna-otbranitelna-porachka-news387816.html",
+      "pubDate": "2026-09-24T14:28:30.000Z",
+      "thumbnail": {
+        "link": "https://www.mediapool.bg/images/387/medium_45217e57b18de75b2f55a70b062a7fba.jpg"
+      },
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Доживотен затвор в Гърция заплашва „прокурорския син“ Васил Михайлов",
+      "link": "https://frognews.bg/novini/dojivoten-zatvor-gartsiia-zaplashva-prokurorskiia-sin-vasil-mihailov.html",
+      "pubDate": "2026-09-24T14:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/078d6d524_1790259899_6ab532bb7f3bb.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Джошуа и Фюри най-после се разбраха: Битката на гигантите си има дата и място!",
+      "link": "https://www.actualno.com/moresport/djoshua-i-furi-naj-posle-se-razbraha-bitkata-na-gigantite-si-ima-data-i-mjasto-news_2642946.html",
+      "pubDate": "2026-09-24T14:16:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/24/85cf88469bab86563c409dbbfb307778_2642946_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Гърция издирва прокурорския син Васил Михайлов. Заплашен е от затвор доживот",
+      "link": "https://offnews.bg/temida/gartcia-izdirva-prokurorskia-sin-vasil-mihajlov-zaplashen-e-ot-zatvor-875281.html",
+      "pubDate": "2026-09-24T14:01:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/24/875281/phpjwqmb3_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5104
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Мелания организира гала вечеря в чест на Си Дзипин. Какво е менюто?",
+      "link": "https://frognews.bg/novini/melaniia-organizira-gala-vecheria-chest-dzipin-kakvo-meniuto.html",
+      "pubDate": "2026-09-24T14:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6276df457_1790257603_6ab529c362253.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Political psychology: Why extremist parties are thriving and what democratic politicians can do against it",
+      "link": "https://www.dw.com/en/political-psychology-why-extremist-parties-are-thriving-and-what-democratic-politicians-can-do-against-it/a-79410960?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-24T14:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "How renewed fighting in Tigray could spread across the Horn of Africa",
+      "link": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-24T13:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "\"Компроматна атака\": Правосъдният министър отговори на обвиненията на Сарафов",
+      "link": "https://www.actualno.com/society/kompromatna-ataka-pravosydnijat-ministyr-otgovori-na-obvinenijata-na-sarafov-news_2642938.html",
+      "pubDate": "2026-09-24T13:56:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/24/20986481535f7efc1d3bb6ed14f2ca1d_2642938_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Knifeman kills priest, injures four in attack at Polish abbey - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEE5UjA1aHhjMDBtWmVPVHNoSUJNeHBBV2M0UlloMnpiMHVINmdTVlcyQnVIVXAxX2JXQ3R0TFhHcGNsU3drS1Jja3VhaXBVakM1Tlc5ODRWNWZ4WDJ5bFpxcUpHN29iS0J4WUgxREFVeUVNbjNvWVdiSDVmdm1PWkdid3hmMy03UDVHV013RVo4WWtqRHgzYV9XYkZpNUxPUzZfOFhadjQ2Y2Zy?oc=5",
+      "pubDate": "2026-09-24T13:55:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Да помогнем за лечението на малкия Павел",
+      "link": "https://www.actualno.com/help/da-pomognem-za-lechenieto-na-malkija-pavel-news_2642936.html",
+      "pubDate": "2026-09-24T13:54:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/24/26219066fbd319f79170d315231cc4ff_2642936_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Инфлацията и заплатите победиха: Ето с колко поскъпват такситата в София",
+      "link": "https://frognews.bg/novini/inflatsiiata-zaplatite-pobediha-eto-kolko-poskapvat-taksitata-sofiia.html",
+      "pubDate": "2026-09-24T13:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8f305c633_taksita_bgnes.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "50 години от първата им среща: U2 издават нов албум",
+      "link": "https://www.actualno.com/music/50-godini-ot-pyrvata-im-sreshta-u2-izdavat-nov-album-news_2642918.html",
+      "pubDate": "2026-09-24T13:48:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/24/81d57d5c4db590c8924518c85b6f70ab_2642918_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "US-China talks on trade, AI between Trump, Xi beckon",
+      "link": "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-24T13:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Цените на такситата в София скачат с 5,3% от началото на 2027 г.",
+      "link": "https://offnews.bg/obshtestvo/tcenite-na-taksitata-v-sofia-skachat-s-5-3-ot-nachaloto-na-2027-g-875278.html",
+      "pubDate": "2026-09-24T13:35:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/24/875278/phprs8don_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7378
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
+      "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-24T13:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Politico, MS NOW, CNN denied access to White House despite judge's order - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGZDelJBRHdvcFBwNGNlTGwxdVNHNnk1UmhJeDZUZWd2Y3o4ZGw4QTVaM2VrT21MQWt2eUUyR2c5cnR3ckdadDZNS0RSdUpLX1FVMHpqU1B3aWVyeGs3aGp0RE44R2JoRG55QlhiUWRQOWRhUGtoZ1ZoMlhydDJOQlRPU2JkbldsaDB4UUc3TVJxU2xwMFVvbHlMNG1UOHNPWUUzSmVaVHFCR1Y0SmJvRmFSNFVDU3JyNHdhTkp0a1RuQmEzWjNrcw?oc=5",
+      "pubDate": "2026-09-24T13:26:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic chatbots deepen political divides?",
+      "link": "https://www.dw.com/en/ai-systems-shifted-their-answers-toward-both-left-and-right-leaning-users-in-a-study-could-sycophantic-chatbots-deepen-political-divides/a-79377894?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-24T13:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Найденов: Никой кандидат за ВСС не е получавал от мен обещания и ангажименти",
+      "link": "https://offnews.bg/temida/najdenov-nikoj-kandidat-za-vss-ne-e-poluchaval-ot-men-obeshtania-i-an-875275.html",
+      "pubDate": "2026-09-24T12:55:05.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/24/875275/phpy8cahv_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6117
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Lidl отвори нов магазин в столичния квартал ''Хаджи Димитър''",
+      "link": "https://offnews.bg/ikonomika/lidl-otvori-nov-magazin-v-stolichnia-kvartal-hadzhi-dimitar-875277.html",
+      "pubDate": "2026-09-24T12:46:58.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/24/875277/php7nlvnz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9205
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Netanyahu's fleeting visit to New York mirrors strained US ties - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
+      "pubDate": "2026-09-24T12:46:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Демократична Българя предлага нови регулации за изкуствения интелект",
+      "link": "https://offnews.bg/politika/demokratichna-balgaria-predlaga-novi-regulatcii-za-izkustvenia-intelek-875274.html",
+      "pubDate": "2026-09-24T12:31:22.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/24/875274/phpv2hvkp_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5828
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Qualcomm, Apple extend licensing agreement for chips - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
+      "pubDate": "2026-09-24T11:44:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlh2MWR0Wm81Y1FKdUZZeVJNbmp5Q09HNE52ZkhJZmhBZTVtN2ZMUEIzSDM3OFI3T0JuenhGcF90aHdhS3BlSHJ5dTZuVWVNNTZodGd1N2UwYVFLd21MeDllUklrb1JPVVJfU05nWDJ1ODhTaHhJVkJ4R0xXT0JZTUVlbGZNVHZXR1hGN1d1RjZEbEFiUlZPTjNmQ29FYkJaU1U0SGFDbHluemdtZmVuazdSOUVZQmpvcHdxaTRKQndwWk5Z?oc=5",
+      "pubDate": "2026-09-24T11:33:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "pubDate": "2026-09-24T10:39:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "pubDate": "2026-09-24T09:49:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
+    {
+      "title": "Радев е на посещение в Полша - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTZQa19QMWRBcFBrdC0yWmE3QzZURTl5NHFfRmhFcHlOdjE5S0xzUHB5NXNPb2tyQ1plMXptaWllQ0ozOTZmdG9LeVZNRE12ZklqSnFkMDlSTzkxMFpacElfQVJOU0l1S29MdWlYUXFuSURHQXNqaXFvZ2xFbXpTaXFOYnNrenFtTG1XSE9oRnk?oc=5",
+      "pubDate": "2026-09-24T09:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-24T15:02:25.094Z"
+    },
     {
       "title": "Morocco: Center-right PAM leads in parliamentary election",
       "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-top-1022-rdf",
@@ -924,17 +1347,6 @@
       "firstSeen": "2026-09-23T21:18:21.639Z"
     },
     {
-      "title": "Германия се отказва от изкопаемите горива - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjIzcnZKQS1vSkl6Ql9ycEIwVEJUb0NwS3BHM2d0QVRQX2JSc3lEZUpSNEs5UUZxam5QQnlQR1BNZy1fWlJsdW5FOVZCemk2RWRNWDNrdE1HVFB1YTNqMzVnc1J2SG9wOXhFMmdKQ0d1SDYxSlJXMV9lSWYwcEVidm8tY1FtaXRXSnp5TjFfbGVnc1lFZ1E?oc=5",
-      "pubDate": "2026-09-23T13:27:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-09-23T21:18:21.639Z"
-    },
-    {
       "title": "Арсенал си хареса голмайстор от Висшата лига - вади 100 милиона още през зимата",
       "link": "https://www.actualno.com/football/arsenal-si-haresa-golmajstor-ot-visshata-liga-vadi-100-miliona-oshte-prez-zimata-news_2642497.html",
       "pubDate": "2026-09-23T18:00:00.000Z",
@@ -1226,156 +1638,6 @@
       "source": {
         "name": "OffNews",
         "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Около 2/3 от учителите не одобряват да има по 1 учебник на предмет",
-      "link": "https://www.mediapool.bg/okolo-23-ot-uchitelite-ne-odobryavat-da-ima-po-1-uchebnik-na-predmet-news387786.html",
-      "pubDate": "2026-09-23T14:59:44.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_45b64dd7cc45e314ae5d2abab612019f.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Президентът на Азербайджан помилва французин, след като ЕС отмени санкциите срещу руски милиардер",
-      "link": "https://www.mediapool.bg/prezidentat-na-azerbaidzhan-pomilva-frantsuzin-sled-kato-es-otmeni-sanktsiite-sreshtu-ruski-miliarder-news387785.html",
-      "pubDate": "2026-09-23T14:54:03.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_fd5087f91389da0add77513ecd39e63e.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Нидерландия се отказа да бойкотира Евровизия",
-      "link": "https://offnews.bg/kultura/niderlandia-se-otkaza-da-bojkotira-evrovizia-875220.html",
-      "pubDate": "2026-09-23T14:44:55.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/23/875220/php2afelm_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5964
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "China's Xi to visit Washington without CEO delegation, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkhzenNiZ2IydzlmSHA5dHc3SE8tWHZRUUIxczNoMkNFZ19PLUhNc2w2VlVJbzgwRjFGc3cwMDJ1YTI3SU5uWVMxUVd2andsNjJPd05hQmhMejZ0R09wemU3QlNEbE9PNHZadkJVVFhXZkFJR21Ddlo3MHVOck1jSTJoYloxeDZYdFNteWdiek9vTXRoN2RuWFlLWVpTSTBDZWp6SnZSUlVDZw?oc=5",
-      "pubDate": "2026-09-23T14:34:08.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Пеевски се обяви за най-проверявания политик, НАП тръгва след него",
-      "link": "https://www.mediapool.bg/peevski-se-obyavi-za-nai-proveryavaniya-politik-nap-tragva-sled-nego-news387761.html",
-      "pubDate": "2026-09-23T14:31:31.000Z",
-      "thumbnail": {
-        "link": "https://www.mediapool.bg/images/387/medium_4b289a6d438908210a7d20526a9a7ff2.jpg"
-      },
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Заловиха българин в Румъния с 3 килограма кокаин и 11 килограма канабис",
-      "link": "https://offnews.bg/obshtestvo/zaloviha-balgarin-v-rumania-s-3-kilograma-kokain-i-11-kilograma-kanabi-875214.html",
-      "pubDate": "2026-09-23T14:23:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/23/875214/phppk0bx1_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6023
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Румъния маха таксите за преминаване по ключовите мостове над Дунав от 1 октомври",
-      "link": "https://offnews.bg/sviat/rumania-maha-taksite-za-preminavane-po-kliuchovite-mostove-nad-dunav-o-875219.html",
-      "pubDate": "2026-09-23T14:07:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/23/875219/phpddz9o7_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 9043
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Нидерландия все пак ще участва в \"Евровизия\" в Бургас - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRi05am5hWlFOMy1TWHA4b2g1d055YUc5aS1tdFhqcUlfbmFKdmp1eHY0d0VXTmZ2ZHdCQlJlQlF3Z2hyc2VwdkZoZVpKMS05UnhKX0hwYnREZEZtdXRZczROZkU5TThRTWZtZ3VCMHJ5bFdzOTloem9ILXhLRVU2NDk2MGx6SThRSWhMQ3NlaGt4ZzZCeTVINXZJcklpWXZpNEMtZ2RBVU4?oc=5",
-      "pubDate": "2026-09-23T13:40:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Кои са номерата в бюлетината на кандидатите за президент - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFJHWlFwdDVOOW14MGNaN21vbWwwU19GamdqeVdHc1VTSjhUd3VOaFF3Q0o5Ri1NSzJNRlRzQ0hrc0J4QkpQNFZhMkdVU2FrSzFyMTRRaXhDSzF6ZXNRZEI2WTZjOFBIaE5ieG1lNnBsYVllQ01ySGotR1BPMnI4X1BkSEYyZHJPR2poRURENnYweWRsWlZNaU00d25WTktEbWpwNUVEVmZxZw?oc=5",
-      "pubDate": "2026-09-23T12:24:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "pubDate": "2026-09-23T12:15:33.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Z80 REPL",
-      "link": "https://abagames.github.io/z80-repl/index.html",
-      "pubDate": "2026-09-23T11:04:52.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-09-23T18:01:23.951Z"
-    },
-    {
-      "title": "Трима загинаха след челна катастрофа на пътя между Казанлък и Стара Загора - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW9abzl0aXg4ZjFfRjRKZjNDZHptVm93YVN5ZHk1ZDJPZUM4a0g5VFNoSDhsZWMwcE50NDV6N3puZU9yVkdyMG5NZm5GYlpYcThPN3Y3NXZyWkVieWFMYVBwTnIxT3QyUEZ0RHZoQVE4a1lfTmstbU9WLXlVLW9fUTA4aGE0aHJhel9Cdms1VExuTXFGQVpZZlR1NVpFdjJHMWttYWtEYjZyR0ts?oc=5",
-      "pubDate": "2026-09-23T09:30:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
       },
       "firstSeen": "2026-09-23T18:01:23.951Z"
     }
