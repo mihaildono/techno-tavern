@@ -1,28 +1,51 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="/home/neuromancer/Personal/techno-tavern"
-cd "$REPO"
+REPO_DIR="/home/neuromancer/Personal/techno-tavern"
+GIT_USER_NAME="Neuromancer"
+GIT_USER_EMAIL="neuromancer@hermes.ai"
+NODE_PATH="/home/neuromancer/.local/bin/node"
 
-echo "=== Techno Tavern cron-fetch-news ==="
-echo "Start: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+# Ensure node is in PATH for cron environment
+export PATH="$HOME/.local/bin:$PATH"
 
-# 1. Pull latest changes from GitHub (rebase to keep history linear)
-echo "--- git pull --rebase origin main ---"
-git pull --rebase origin main
+# Change to repository directory
+cd "$REPO_DIR"
 
-# 2. Fetch news from 9 RSS feeds (direct + Google News endpoints)
-echo "--- node news/fetch-news.js ---"
-node news/fetch-news.js
+# Set git config (ensure these are set)
+git config user.name "$GIT_USER_NAME"
+git config user.email "$GIT_USER_EMAIL"
 
-# 3. Commit and push updated news JSON files with [skip ci]
-echo "--- git commit + push ---"
-if [ -z "$(git status --porcelain --untracked-files=all)" ]; then
-  echo "No changes to commit."
-else
-  git add cron-fetch-news.sh news/data/news.json news/data/news-24h.json
-  git commit -m "Update news feeds [skip ci]"
-  git push origin main
+# Pull latest changes from GitHub (use autostash to handle local changes)
+echo "🔄 Pulling latest changes from origin/main..."
+if ! git pull --rebase --autostash origin main; then
+    echo "⚠️  Git pull had issues — attempting to continue with local state"
+    # Reset any partial rebase state
+    git rebase --abort 2>/dev/null || true
+    # Drop any autostash entries from failed pulls
+    git stash list 2>/dev/null | grep -q '^#' && git stash drop 2>/dev/null || true
 fi
 
-echo "Done: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+# Execute Node.js script to fetch news
+echo "📰 Fetching news from RSS feeds..."
+"$NODE_PATH" news/fetch-news.js
+
+# Check if there are any changes to commit
+if ! git diff --quiet || ! git diff --cached --quiet; then
+    echo "📝 Committing and pushing changes..."
+
+    # Stage changes
+    git add news/data/news.json news/data/news-24h.json
+
+    # Commit with skip ci
+    git commit -m "$(date '+%Y-%m-%d %H:%M:%S') - Update news feeds [skip ci]"
+
+    # Push to remote
+    git push origin main
+
+    echo "✅ Successfully updated and pushed news feeds"
+else
+    echo "ℹ️  No changes detected - news feeds are up to date"
+fi
+
+echo "🎉 News fetch pipeline completed successfully"
