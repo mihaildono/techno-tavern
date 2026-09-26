@@ -61,6 +61,26 @@ Run the daily news summarization pipeline for Techno Tavern:
 
 4. Run:
    ./scripts/daily-top-news.sh finish
+
+5. AFTER completion, send ONE message to #news channel (1546793311115681882) with this exact OLD format:
+
+@everyone 📰 Дневни новини — {date}
+
+*{overview}*
+
+━━━━━━━━━━━━━━━
+
+*{rank}. {category}* — {headline}
+{summary}
+📌 Източници: {sources}
+
+Rules for #news:
+- ONLY date, overview, and exactly 5 headlines with summaries
+- Human-readable Bulgarian text only
+- No JSON, no code blocks, no raw data, no technical details
+- Always start with @everyone
+- No failure messages - only the digest content
+- 5 bullet points numbered 1-5 with the actual stories (using simple *{rank}. format without emojis)
 ```
 
 ### What `daily-top-news.sh` handles:
