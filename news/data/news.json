@@ -1,19 +1,29 @@
 {
   "items": [
     {
-      "title": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5",
-      "pubDate": "2026-09-26T23:25:14.000Z",
+      "title": "Spain: Thousands protest in Madrid against housing crisis",
+      "link": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-27T01:53:00.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "OpenAI (2015)",
+      "link": "https://openai.com/index/introducing-openai/",
+      "pubDate": "2026-09-27T00:44:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
       "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
-      "pubDate": "2026-09-26T22:42:34.000Z",
+      "pubDate": "2026-09-26T22:36:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -165,6 +175,16 @@
       }
     },
     {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "pubDate": "2026-09-26T18:22:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Данъкът за свръхпечалбите ще важи само за 2027",
       "link": "https://offnews.bg/ikonomika/danakat-za-svrahpechalbite-shte-vazhi-samo-za-2027-875378.html",
       "pubDate": "2026-09-26T18:12:52.000Z",
@@ -229,6 +249,16 @@
       }
     },
     {
+      "title": "Nor'easter brings flooding, power outages across US Northeast, over 400 flights canceled - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhmWmpFYkY5RG1sM1JjN0ZPcUVCc3gyaVRpUVNXRnJUcEc5eGlfX2F6NVFwczZlR1MwU1ZaRnVIbUtUME9xRVlBU21mWllMdi1tQ0ptTHFLakl3bEs4U0w0aDhram5RYjRhemxaSl9iSkk5SjJxVEUzMjczX2g2c1FfS2plQ083WV9GOVRPandhbHZPSm5yR1l4QmtUeXJFcnktWjE3amF4SGczNzVzX05Pa2pLOUt2MVBVYm94UnRHMlowNkhnTVNyTQ?oc=5",
+      "pubDate": "2026-09-26T17:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Шофьор загина във Великотърновско",
       "link": "https://offnews.bg/112/shofior-zagina-vav-velikotarnovsko-875376.html",
       "pubDate": "2026-09-26T17:29:29.000Z",
@@ -240,6 +270,16 @@
       "source": {
         "name": "OffNews",
         "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
+      "pubDate": "2026-09-26T17:10:40.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -255,81 +295,7 @@
         "name": "OffNews",
         "color": "#E91E63"
       }
-    },
-    {
-      "title": "China, US agree to set up channel for AI safety incidents",
-      "link": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-26T16:26:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
-      "link": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-26T16:16:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Тръмп отхвърли предложението на Иран за Ормузкия проток",
-      "link": "https://offnews.bg/sviat/tramp-othvarli-predlozhenieto-na-iran-za-ormuzkia-protok-875372.html",
-      "pubDate": "2026-09-26T16:13:46.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/09/26/875372/phplz8at7_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5154
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
-      "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-09-26T16:13:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "pubDate": "2026-09-26T15:56:34.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Тръмп прекръсти Ормузкия проток на себе си",
-      "link": "https://www.mediapool.bg/svyat/tramp-prekrasti-ormuzkiya-protok-na-sebe-si/",
-      "pubDate": "2026-09-26T14:24:08.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Двама руснаци са арестувани в Черна гора по подозрение в шпионаж",
-      "link": "https://www.mediapool.bg/evropa/dvama-rusnatsi-sa-arestuvani-v-cherna-gora-po-podozrenie-v-shpionazh/",
-      "pubDate": "2026-09-26T14:21:16.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
     }
   ],
-  "lastUpdated": "2026-09-27T00:00:54.605Z"
+  "lastUpdated": "2026-09-27T03:01:11.889Z"
 }
