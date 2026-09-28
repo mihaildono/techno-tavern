@@ -197,12 +197,73 @@
             }
 
             // Helper to parse article pubDate to a UTC timestamp (ms) for arithmetic
+            // Matches the parseArticleDate logic in fetch-news.js (UTC-first, Sofia fallback)
             function parseArticleDate(pubDate) {
               if (!pubDate) return null;
               const raw = String(pubDate).trim();
               if (!raw) return null;
-              const timestamp = Date.parse(raw);
-              return Number.isFinite(timestamp) ? timestamp : null;
+
+              // RFC 2822 with GMT
+              if (/^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} GMT$/.test(raw)) {
+                const t = Date.parse(raw);
+                return Number.isFinite(t) ? t : null;
+              }
+
+              // ISO 8601 with Z
+              if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) {
+                const t = Date.parse(raw);
+                return Number.isFinite(t) ? t : null;
+              }
+
+              // ISO 8601 without timezone: treat as UTC
+              if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
+                const t = Date.parse(raw + "Z");
+                return Number.isFinite(t) ? t : null;
+              }
+
+              // ISO 8601 with explicit offset
+              if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
+                const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
+                const t = Date.parse(normalized);
+                if (Number.isFinite(t)) return t;
+                return Number.isFinite(Date.parse(raw)) ? Date.parse(raw) : null;
+              }
+
+              // YYYY-MM-DD HH:MM:SS — UTC-first, Sofia fallback only if future
+              if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
+                const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
+                if (!match) return null;
+                const year = Number(match[1]);
+                const month = Number(match[2]);
+                const day = Number(match[3]);
+                const hour = Number(match[4]);
+                const minute = Number(match[5]);
+                const second = Number(match[6]);
+                const utcTimestamp = Date.UTC(year, month - 1, day, hour, minute, second);
+                if (utcTimestamp <= Date.now()) {
+                  return utcTimestamp;
+                }
+                // Fallback: Sofia local time
+                const formatter = new Intl.DateTimeFormat("en-US", {
+                  timeZone: "Europe/Sofia",
+                  year: "numeric", month: "2-digit", day: "2-digit",
+                  hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23",
+                });
+                const parts = Object.fromEntries(
+                  formatter.formatToParts(new Date(utcTimestamp))
+                    .filter((part) => part.type !== "literal")
+                    .map((part) => [part.type, part.value])
+                );
+                const shiftedTimestamp = Date.UTC(
+                  Number(parts.year), Number(parts.month) - 1,
+                  Number(parts.day), Number(parts.hour),
+                  Number(parts.minute), Number(parts.second)
+                );
+                return utcTimestamp - (shiftedTimestamp - utcTimestamp);
+              }
+
+              const t = Date.parse(raw);
+              return Number.isFinite(t) ? t : null;
             }
 
             function formatAge(timestamp) {
