@@ -1,9 +1,171 @@
 {
   "windowStart": "2026-09-27T15:32:17.310Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-27T21:00:43.277Z",
-  "totalItems": 61,
+  "lastUpdated": "2026-09-28T00:01:03.342Z",
+  "totalItems": 73,
   "items": [
+    {
+      "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
+      "pubDate": "2026-09-27T22:25:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Русия удари пазар край Киев, има загинали и ранени (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/rusija-udari-pazar-kraj-kiev-ima-zaginali-i-raneni-video-news_2643923.html",
+      "pubDate": "2026-09-27T21:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/28/a98e713b36fce8ba6bf89074acf1c0db_2643923_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Очаква ни слънчев ден",
+      "link": "https://offnews.bg/obshtestvo/ochakva-ni-slanchev-den-875400.html",
+      "pubDate": "2026-09-27T21:27:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/28/875400/phpzsxb48_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3180
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 28.09.26 - Русия и Германия с историческа първа среща от началото на конфликта",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-280926-rusija-i-germanija-s-istoricheska-pyrva-sreshta-ot-nachaloto-na-konflikta-news_2643922.html",
+      "pubDate": "2026-09-27T21:15:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/28/a50a02ac7cd201ac133351ad4e1eec0a_2643922_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Гърция шокира Германия на Клоп, Португалия спечели без Роналдо: Всички резултати от Лигата на нациите",
+      "link": "https://www.actualno.com/football/gyrcija-shokira-germanija-na-klop-portugalija-specheli-bez-ronaldo-vsichki-rezultati-ot-ligata-na-naciite-news_2643921.html",
+      "pubDate": "2026-09-27T20:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/27/0b7bcd009307e73eceef7f53b878f163_2643921_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Правя всичко, за да си щастлив: Допамин за неделя",
+      "link": "https://www.actualno.com/society/pravja-vsichko-za-da-si-shtastliv-dopamin-za-nedelja-news_2643919.html",
+      "pubDate": "2026-09-27T20:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/27/a65d543534e2170a5ad75d3a1aa97230_2643919_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "South Korea demands apology from Ukraine over North Korean POW disclosure - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+      "pubDate": "2026-09-27T20:13:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Даже са си водили и бележки: 9 сърби са арестувани в Косово за военни престъпления",
+      "link": "https://www.actualno.com/balkani/daje-sa-si-vodili-i-belejki-9-syrbi-sa-arestuvani-v-kosovo-za-voenni-prestyplenija-news_2643915.html",
+      "pubDate": "2026-09-27T20:03:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/27/4195cf3f9eaf65b8070ed8b0b11b99a4_2643915_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Israel's Netanyahu visited Abu Dhabi on Sunday, Israeli official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pGMVlCUkt6b01MNWJkNlc5WlA2dlV1bUs3MDl2LXhhWFU3MGVEenBLQk1SaHNSMU1LNlh1SUpDWUloTzROY0pvb3JnWjJOUmlFSXdiNDVEeXBsRDFZb3gyVUlOY1B3UWc2MVZFLXllN1BkVlV6SXNKWWx0ZVV2azFEOVRmSE84THhKX0lLZTMyanowSnNNb0ItOGc5blhxOVR6UDQwdXVpNVljMnpwbHJBRkEzYk9mQWc?oc=5",
+      "pubDate": "2026-09-27T20:01:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Александър Вучич подаде оставка, сравни се с Румен Радев",
+      "link": "https://offnews.bg/sviat/aleksandar-vuchich-podade-ostavka-sravni-se-s-rumen-radev-875402.html",
+      "pubDate": "2026-09-27T18:45:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/27/875402/phpq077wm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4009
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "Смъртоносна катастрофа затвори Айтоския проход",
+      "link": "https://offnews.bg/112/smartonosna-katastrofa-zatvori-ajtoskia-prohod-875401.html",
+      "pubDate": "2026-09-27T18:12:12.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/27/875401/phpwofnxk_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7608
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
+    {
+      "title": "В Саудитска Арабия се строи небостъргач по-висок от Бурдж Халифа",
+      "link": "https://frognews.bg/novini/sauditska-arabiia-stroi-nebostargach-visok-burdj-halifa.html",
+      "pubDate": "2026-09-27T17:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7109d3ac3_1790523160_6ab93718abbbd.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-28T00:01:03.342Z"
+    },
     {
       "title": "Israel revokes diplomatic status of Dutch diplomats in Ramallah - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3pkY0Zia2l4Qm1yYmVVUzlQZWpYc1dnWkZJRllIREhJTy1PNWxPYXByWGdPNDVYNVN2bWx5cWxPNnFINDhIVWhEaW5BRk9qNjVJS3ExdVM5SW9MTmJ0UkJJTzFHS2Fvam5rMVhsZzZsVmZnWXFFVzFDTk05UW96V0IxNFpydV9nTEREeFJSamlqeTJWX0h0Mjl6U2ZWUG41eWtoekJiZE1Pa0dOaUZOaA?oc=5",
