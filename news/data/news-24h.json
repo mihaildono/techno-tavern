@@ -1,9 +1,119 @@
 {
   "windowStart": "2026-09-27T15:32:17.310Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-28T00:01:03.342Z",
-  "totalItems": 73,
+  "lastUpdated": "2026-09-28T03:01:29.141Z",
+  "totalItems": 83,
   "items": [
+    {
+      "title": "Ukraine, South Korea relations sour over North Korean POWs",
+      "link": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-28T02:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Gold drops more than 1% on US rate-hike bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "pubDate": "2026-09-28T01:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Madonna, Sabrina Carpenter and Lisa win at MTV's Video Music Awards - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUs5aloyWENQd2l5dW5pS1Vwa2lLdTA2RlgyNjM0LVNFdlpWSVZ2SHNWMmZFRU9QRmtYazVfMHhZOUVicHh4RTNEMzBhOWU0YXdqcDFqZHp0N0FuZFo5V0ZyV3dpOFBxVTVyR1c0bGR1VDJyY1g3LUNxSE5kcW5kWVFqUDV1bkV1X3dSV09ZVFFmR2ExVDY0WVdMV3huSFFVeXBsWEZtamFJNUhTYlowVFptX3JUUnJI?oc=5",
+      "pubDate": "2026-09-28T01:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "link": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "pubDate": "2026-09-28T01:21:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Stocks cautious in Asia as oil gains, yields rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjVwRkxEMEdFMlBlSmpIbDZEZ3dDclNNLVVBLTBya2k1VlpyT00xM1VBeFZ2cmNheUplNXJDYy1Vam9FYWdibUxrWmFLd1ZIUU9LRGhhX09yQkQ0OXF6dW5MZ0Qwc0dXNF9fU3ZBR2NwU3R5eGNWdnpPMW1heVpsUkpGNA?oc=5",
+      "pubDate": "2026-09-28T00:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Mideast oil exports rebound in September as Saudi Arabia boosts shipments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+      "pubDate": "2026-09-28T00:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Israel strips Dutch diplomats of status in West Bank",
+      "link": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Lunar Terminator Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "pubDate": "2026-09-27T21:06:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "pubDate": "2026-09-27T20:12:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
+    {
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "pubDate": "2026-09-27T19:37:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-28T03:01:29.141Z"
+    },
     {
       "title": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
