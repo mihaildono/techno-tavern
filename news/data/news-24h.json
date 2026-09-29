@@ -1,7 +1,476 @@
 {
   "windowStart": "2026-09-29T15:37:01.608Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-29T15:37:01.608Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-29T18:01:30.536Z",
+  "totalItems": 38,
+  "items": [
+    {
+      "title": "Ректорът на УАСГ нареди на докторантите задължително да отидат на форум с Йотова",
+      "link": "https://offnews.bg/politika/rektorat-na-uasg-naredi-na-doktorantite-zadalzhitelno-da-otidat-na-for-875535.html",
+      "pubDate": "2026-09-29T17:39:54.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/29/875535/php6tjzsq_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5739
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Man City found guilty of all charges of financial rule breaches, Premier League confirms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0QzWWRSUWRHcU1jbzctM0hpVXc3UW1NbEFMejJWRHJhZmFMdmFZY3MwZ2Y2elluREM5ekd1RHF4SlFXemZKNHZUb2VTLXM4bFFJQWxPcURGVWxidk9ORmlaRGF0T0tURi1CQTV6QlZQU2lQM2kxVll4eUQxS2NGMm9tWENmcWcxTDVMcEE1ajVKa2ZrNUdBMUkyVTMySzN3aUlRbkR0OVpxZ3lwRzZTR095WDhCMzVRcmJzSHhRQk5CQmpnQlJsX253?oc=5",
+      "pubDate": "2026-09-29T17:39:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Germany news: Bremerhaven port to receive defense boost",
+      "link": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-29T17:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Morocco's king appoints first woman prime minister following election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW1pZ1hkUzRiU3k3UTFjenJBS1FDSHhDV21HbUJKc1dHVjJaeEFKT3d0SEI4VGtxVVVma2gzbkgtRFdtRnRtLWZGdUs2LS12X1JWQ0lpUTBuVXhYbDdNS3hpWTFfZzJXdnl6d2RObXRfS0JLb2t5T3p5RGNCZ212OUg0bUZWYnBvVVh2bF9XZkJkcWRVTXRxN1hZa3RPenNwWmQ0R19CUDlaVFBfMXFmamVWNA?oc=5",
+      "pubDate": "2026-09-29T17:22:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Правителството на Радев наду външния дълг с още 2,250 милиарда евро",
+      "link": "https://offnews.bg/ikonomika/pravitelstvoto-na-radev-nadu-vanshnia-dalg-s-oshte-2-250-miliarda-evro-875534.html",
+      "pubDate": "2026-09-29T16:55:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/29/875534/phpndpkkc_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6028
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Ethiopia: No regard for civilians as fighting in Ethiopia&apos;s Tigray region continues",
+      "link": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-29T16:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Кметът на Белград преби общинска съветничка седмици преди изборите в Сърбия (видео)",
+      "link": "https://offnews.bg/sviat/kmetat-na-belgrad-prebi-obshtinska-savetnichka-sedmitci-predi-izborite-875533.html",
+      "pubDate": "2026-09-29T16:12:14.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/29/875533/phpymvdyj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3375
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Apple plans engineering-focused overhaul under Ternus, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVS1iZU1pQXkzLXgxVDY2UVRGRUUtQTROZkFDbDFDZWgyalpCczN6U3F5Wm9rVmJqSlVQbVJGNkN2WVEwVEZEQ3VFWmlqNmpUSmZxSGtDU25LdUlVUWhXem9HYWI3V3N0c2wtRDVlSmpZVlVWWF9SMVAxbnMyYUY3ckFKakI1NnUtdk1JY1EyaTFFNTBUSUZmZU04S1ozNGlnYWh3cWpXQkpCdGI4ZFJrN09HS3FfODZjZGVDa3JzR20zRWs?oc=5",
+      "pubDate": "2026-09-29T15:38:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "България ще върне на Гърция 48 църковни ценности в замяна на останките на цар Самуил",
+      "link": "https://offnews.bg/obshtestvo/balgaria-shte-varne-na-gartcia-48-tcarkovni-tcennosti-v-zamiana-na-ost-875532.html",
+      "pubDate": "2026-09-29T15:31:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/29/875532/phpwc4t6p_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7308
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Путин забрани износа на пари в брой от Русия, ако са над 10 500 евро",
+      "link": "https://www.actualno.com/finance/putin-zabrani-iznosa-na-pari-v-broj-ot-rusija-ako-sa-nad-10-500-evro-news_2644656.html",
+      "pubDate": "2026-09-29T14:57:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/29/f64c6e3d2c13a0d1c55a51efefeb5e27_2644656_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Съкращаване на стотици милиони: Германия и още пет държави с ултиматум за бюджета на ЕС",
+      "link": "https://frognews.bg/novini/sakrashtavane-stotitsi-milioni-germaniia-oshte-pet-darjavi-ultimatum-biudjeta.html",
+      "pubDate": "2026-09-29T14:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7341dd430_1790692027_6abbcabb4659d.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "TV journalist is crowned king of Uganda&apos;s Tooro Kingdom",
+      "link": "https://www.dw.com/en/tv-journalist-is-crowned-king-of-uganda-s-tooro-kingdom/a-79475911?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-29T14:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Spotify, Anthropic's Claude down for some US users, Downdetector shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZGeHhCUUctV3ZXZmpFV1NheVhYbFZYZkRPNjY0SWpRMFZGVjg1Zk9HYjRUM2NtRVc0SlVZbE00a1RDT283S1h4NGp3dFlkWUlDMzJKQmZldl9pY2VKejhhaFJBQUk0VGR1NTRoN2tJZ19PaFNoVEJvd3RwTkNoVUNidXM1VGVzTDUwcDQ4MDk0YklLdm5Ia1Bmbw?oc=5",
+      "pubDate": "2026-09-29T14:45:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Правителството наля 126,6 млн. евро в новия Холдинг Марица Изток",
+      "link": "https://offnews.bg/ikonomika/pravitelstvoto-nalia-126-6-mln-evro-v-novia-holding-maritca-iztok-875265.html",
+      "pubDate": "2026-09-29T14:43:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/29/875265/phpgz2ytk_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7627
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Времето на НИС изтича: Има ли Сърбия газ за зимата?",
+      "link": "https://www.actualno.com/economy/vremeto-na-nis-izticha-ima-li-syrbija-gaz-za-zimata-news_2644649.html",
+      "pubDate": "2026-09-29T14:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/29/b9aee012f34b573baa1bb5637d0e9113_2644649_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Шампиони, тенис емоции и специален мастърклас с Иван Иванов и Александър Василев на седмия ОББ Тенис турнир",
+      "link": "https://www.actualno.com/moresport/shampioni-tenis-emocii-i-specialen-mastyrklas-s-ivan-ivanov-i-aleksandyr-vasilev-na-sedmija-obb-tenis-turnir-news_2644648.html",
+      "pubDate": "2026-09-29T14:27:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/29/0ef34388af0b2d01e0ed8ddcc2ae027b_2644648_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "ОМО „Илинден-Пирин“ видя заговор срещу С. Македония с предаването на останките на Самуил",
+      "link": "https://frognews.bg/novini/omo-ilinden-pirin-vidya-zagovor-sreshtu-makedoniya-predavaneto-ostankite-samuil.html",
+      "pubDate": "2026-09-29T14:23:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3015b9c68_1790692005_6abbcaa506887.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Фирма за петрол, прехвърлена на баща му: \"Продължаваме промяната\" поиска проверка на Слави Василев",
+      "link": "https://www.actualno.com/politics/firma-za-petrol-prehvyrlena-na-bashta-mu-prodyljavame-promjanata-poiska-proverka-na-slavi-vasilev-news_2644645.html",
+      "pubDate": "2026-09-29T14:21:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/29/b4ed4daa950a3d2b8722d6ecea3401c5_2644645_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Satirist launches site naming Cornell students accused in gang-rape lawsuit",
+      "link": "https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-29T14:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Senegal&apos;s Youth Olympics makes Olympics in Africa &apos;logical&apos;",
+      "link": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-29T14:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Жителите на Смолян ще чакат още поне 2 години за път до Пампорово",
+      "link": "https://www.mediapool.bg/bulgaria/zhitelite-na-smolyan-shte-chakat-oshte-pone-2-godini-za-pat-do-pamporovo/",
+      "pubDate": "2026-09-29T14:13:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Въвеждат регистрация за електрическите тротинетки в общините",
+      "link": "https://frognews.bg/novini/vavejdat-registratsiia-elektricheskite-trotinetki-obshtinite.html",
+      "pubDate": "2026-09-29T14:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d7f7bf051_1790691149_6abbc74d20d51.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "'Let them be scared': Moscow sends EU message with widening corporate crackdown - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUpiNFhHVVZjSFowMlNkRHE5WW85cFhCM3FPYU1tTFlPZ3Z4bDVtN1VGU1JXUmFJcFpQY1V2R19LUkRCa2VXTWl0SFBVWmp0SFIwN21KNTR6NnNzQWl0eW54SkpFTkU0TkdxXzNfa3Q1ekZBTWUyenFWMFgwdjd3SlhiNnNGUnN0ZVRGRDh1eTY2V2VUbkNDNFhjYndLb2hORzdTWXpxMDBnMk1NRjZMRFV6dlF4YzlOQnl2OHZGaWN0Q2c?oc=5",
+      "pubDate": "2026-09-29T14:09:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "След влаковата катастрофа от 2023: Гърция разследва политическа намеса за прикриване на следи",
+      "link": "https://www.actualno.com/balkani/sled-vlakovata-katastrofa-ot-2023-gyrcija-razsledva-politicheska-namesa-za-prikrivane-na-sledi-news_2644640.html",
+      "pubDate": "2026-09-29T14:07:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/29/dff3a939fafd9b268309d41c8d6c34c3_2644640_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Заради съмнение за подкупи и злоупотреби: Арестуваха двама бивши министри на Орбан",
+      "link": "https://frognews.bg/novini/zaradi-samnenie-podkupi-zloupotrebi-arestuvaha-dvama-bivshi-ministri-orban.html",
+      "pubDate": "2026-09-29T14:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0980e190f_1790690364_6abbc43cb88b2.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Парламентът подкрепи мерките срещу делата за сплашване на журналисти",
+      "link": "https://www.mediapool.bg/bulgaria/parlamentat-podkrepi-merkite-sreshtu-delata-za-splashvane-na-zhurnalisti/",
+      "pubDate": "2026-09-29T13:57:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Легенда свързва жителите на Добърско със Самуиловите воини и свещеното аязмо",
+      "link": "https://frognews.bg/novini/legenda-svarzva-jitelite-dobarsko-sas-samuilovite-voini-sveshtenoto-aiazmo.html",
+      "pubDate": "2026-09-29T13:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8846f8c51_1790688608_6abbbd60c7f37.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "МЗ отнема разрешението на пловдивската клиника \"Медикус Алфа\", където почина 6-годишния Ангел",
+      "link": "https://www.mediapool.bg/bulgaria/mz-otnema-razreshenieto-na-plovdivskata-klinika-medikus-alfa-kadeto-pochina-6-godishniya-angel/",
+      "pubDate": "2026-09-29T13:37:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "\"Посягането\" върху ракията се оказа мярка срещу тонове нелегален наливен алкохол",
+      "link": "https://www.mediapool.bg/biznes/posyaganeto-varhu-rakiyata-se-okaza-myarka-sreshtu-tonove-nelegalen-naliven-alkohol/",
+      "pubDate": "2026-09-29T13:35:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "ПП подаде сигнал в антикорупционната комисия срещу Слави Василев - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVJRb3AwMXFITGhlbFZST0hqNW9PdGFyVXZ3R25ycDhDd19GT0ZvVmdDTzRPYk1tSzQ1S3d1ZE1RYXI4cUE5TmxRN3BqT1JQNXhSUTRfLXlHaUZ6OF9pUmtQRDBmRkxGNm1jR0YwX3hJN2dtMWtjazJXY2QyWXpWaDVmVjlZbHI0VWE3S245eGNtQmQyN2tNTmZ1bk5DRjQ0NG1BTlY1eUZoN1ZvQVE?oc=5",
+      "pubDate": "2026-09-29T13:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "pubDate": "2026-09-29T12:43:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Without the Hot Air",
+      "link": "https://www.withouthotair.com/",
+      "pubDate": "2026-09-29T12:38:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Скопие се опитва да намеси и НАТО в кампанията си срещу София",
+      "link": "https://www.mediapool.bg/bulgaria/skopie-se-opitva-da-namesi-i-nato-v-kampaniyata-si-sreshtu-sofiya/",
+      "pubDate": "2026-09-29T12:23:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "You Are No Longer Invited to Dinner",
+      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "pubDate": "2026-09-29T11:14:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "link": "https://github.com/PostHog/jeeves",
+      "pubDate": "2026-09-29T11:13:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Кремъл потвърди, че сменя управлението на местни фирми, защото са от \"неприятелски\" държави - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWFqY212NnFDS2p2MFB4MmU3VW5aOW00S0dYZ3o5eEZnMmFHeG55OHE1Tkc3dWVfM2kxMWNyUWdqbElIOUhGQTZFeW52a0NrVVBDTE9mWFJ3MGVoYVRNSDVQYmVyXzVoV1paWE1EZGZEZUVJYW10a0xtTVVmOWY0ODF5TGpVTW8tZnJGWUxaQ1VQZlNhLUJESlpmTmtsV1h0SjBtblpuRnA?oc=5",
+      "pubDate": "2026-09-29T09:54:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "AI companies leak data to advertisers [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "pubDate": "2026-09-29T09:03:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    },
+    {
+      "title": "Договорените безплатни ваксини за деца са с над 36 хил. дози по-малко от предвидените - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRk9MWHg5SHhaWnVKSzZnbDUxX3E0aWQ4cnJUWmdEdFRseVpMZ2l6akVZbkFKTkZieXFaUWNBc210b3lDQWJhSUVfTmdXLTZjSlVUMkdIalFwQWM5V0JwemF0VUhBWjRac1l0cm5Fc0VTcWEzaVJzTzBMLWxXWDF0SUpyWXdrQkdmejZyZGNrNHRsUFR0X2FKWmgzTS0wVjJNZWhMRGZjVQ?oc=5",
+      "pubDate": "2026-09-29T08:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-29T18:01:30.536Z"
+    }
+  ]
 }
