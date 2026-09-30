@@ -1,7 +1,443 @@
 {
   "windowStart": "2026-09-30T15:31:37.474Z",
   "windowHours": 24,
-  "lastUpdated": "2026-09-30T15:31:37.474Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-09-30T18:00:57.423Z",
+  "totalItems": 35,
+  "items": [
+    {
+      "title": "France&apos;s Macron, Spain&apos;s Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+      "link": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-30T17:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Are the Houthis winning against Saudi Arabia?",
+      "link": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-30T17:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Germany debates alleged antisemitism in the Left Party",
+      "link": "https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-30T16:54:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5",
+      "pubDate": "2026-09-30T16:29:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+      "pubDate": "2026-09-30T16:20:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "EU aviation agency issues Saudi airspace advisory after Houthi attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWJfYXZITmYzSU9mUTRTTlBVdm5fWm5IUHE0dWxwY28wR2tqbUI4eGdNTU0tRDJvR2Y4SDFLWlUxUUY4dkdEdzlOcGoyWTcyN3Z0eXc3bzRkQWlEMUZyZE80cXpnZjg0VDZvZXNsRElURDdDTDROOFNEZTAydWRpQkJiX2hfNGQ0UmU1Y2Q2NF92REtqNVExeDFEZVotNmxLZXdRUVlXRzRsTFk2UWJ5REMxZXROSnRnUXI3UHNBQnVFdw?oc=5",
+      "pubDate": "2026-09-30T16:09:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Български учени осъдиха руския удар срещу Националната академия на науките на Украйна",
+      "link": "https://offnews.bg/obshtestvo/balgarski-ucheni-osadiha-ruskia-udar-sreshtu-natcionalnata-akademia-na-875594.html",
+      "pubDate": "2026-09-30T15:25:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/30/875594/phpslfvnr_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7086
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "МВР: Илиян Филипов не е сигнализирал, че животът му е в опасност",
+      "link": "https://offnews.bg/obshtestvo/mvr-ilian-filipov-ne-e-signaliziral-che-zhivotat-mu-e-v-opasnost-875598.html",
+      "pubDate": "2026-09-30T15:23:23.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/30/875598/php2rm5np_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5599
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Депутатите приеха нови правила срещу делата шамари",
+      "link": "https://offnews.bg/temida/deputatite-prieha-novi-pravila-sreshtu-delata-shamari-875596.html",
+      "pubDate": "2026-09-30T15:12:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/30/875596/phpwlwolk_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10073
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Senegal&apos;s Youth Olympics makes Olympics in Africa &apos;logical&apos;",
+      "link": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-30T15:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "No imminent threat to NATO territory from Russia, Rutte says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdnhsSHA4bEx5VHVCLWRxVElfMTlSWjVjb3MxVmw5dC02VVlIMFlKWTd0ZXk0NVZtYmhldmRySkZLZUJiY1cwZDlUXzhLLVQ1aEdLLURNZXJtTXlmdjFqN19DUDVfWXlvY3VobDI4ZW45cGRaYmM1ZVVjZ1ZCRTZ1eGFWUllrdGF3UXNPZWxzNlF1eDRyOF9WTmZ1c1A1TEszYkUyNER3UWpDR0I5dkwzM25McFo?oc=5",
+      "pubDate": "2026-09-30T15:11:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "African leaders herald $16B Dangote oil refinery in Kenya",
+      "link": "https://www.dw.com/en/african-leaders-herald-16b-dangote-oil-refinery-in-kenya/a-79491068?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-09-30T15:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Russia says European arms factories supplying Ukraine are potential military targets for Moscow - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2poSndWXzNaQkNiZURIVnNxZ3hHbUpnSUVrRWJsdFp5bE1CZE5fSmNGa3BSZnhad3hwRWh0MmNZTXViX2RtdUpnT2xTZVlWMTc2SWpGY3g1X3c2VFFEeUlyVHlyaC1yOWd0N19adktIUnJvbzRZNVhOam9KcmRTTldZU0ZFZUEzWHBoYXNjUXZkM1IxckpnSV9JWTY4aVBfOFpFOGl6V25DWTV6NXB0OUdlclJDSksxVmxjNlFubEJKU0U?oc=5",
+      "pubDate": "2026-09-30T15:08:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Тайните на операция 'Вивалди'. Фронтова линия с Камен Невенкин 30.09.2026 г.",
+      "link": "https://offnews.bg/analizi-i-komentari/tajnite-na-operatcia-vivaldi-frontova-linia-s-kamen-nevenkin-30-09-875597.html",
+      "pubDate": "2026-09-30T15:05:20.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/30/875597/phphrnfbs_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 10197
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "БЧК подготвя доброволци за Евровизия",
+      "link": "https://offnews.bg/zdrave/bchk-podgotvia-dobrovoltci-za-evrovizia-875595.html",
+      "pubDate": "2026-09-30T14:45:58.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/09/30/875595/php5f1yim_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3571
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "„Опитал се е да разбие самолета“: Арестуваха пилота, намушкал колегата си по време на полет",
+      "link": "https://frognews.bg/novini/opital-razbie-samoleta-arestuvaha-pilota-namushkal-kolegata-vreme-polet.html",
+      "pubDate": "2026-09-30T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/620f48891_1790779593_6abd20c976453.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Лаврак, ципура и син рак превземат Черно море",
+      "link": "https://frognews.bg/novini/lavrak-tsipura-sin-rak-prevzemat-cherno-more.html",
+      "pubDate": "2026-09-30T14:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/70fbc0875_1790779967_6abd223f6ab37.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "„В сърцето си – невинен и свободен“: Испанецът с ритуалите остава в ареста заради мескалин",
+      "link": "https://frognews.bg/novini/sartseto--nevinen-svoboden-ispanetsat-ritualite-ostava-aresta-zaradi-meskalin.html",
+      "pubDate": "2026-09-30T14:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/41eee860d_1790778829_6abd1dcdbaec7.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Още двама души загинаха в катастрофа – този път на изхода на Гурково",
+      "link": "https://frognews.bg/novini/oshte-dvama-dushi-zaginaha-katastrofa--tozi-pat-izhoda-gurkovo.html",
+      "pubDate": "2026-09-30T14:03:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/592ad65d8_1790777073_6abd16f13ecd0.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "ВМРО кани премиера Мицкоски на церемонията за Самуил в София",
+      "link": "https://frognews.bg/novini/vmro-kani-premiera-mitskoski-tseremoniiata-samuil-sofiia.html",
+      "pubDate": "2026-09-30T14:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/244484326_1790776891_6abd163bba964.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "pubDate": "2026-09-30T13:50:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Заплаха, но за сръбските и руските сметки: Български лекар с обяснение за червения си картон за Сърбия",
+      "link": "https://www.actualno.com/balkani/zaplaha-no-za-srybskite-i-ruskite-smetki-bylgarski-lekar-s-objasnenie-za-chervenija-si-karton-za-syrbija-news_2645057.html",
+      "pubDate": "2026-09-30T13:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno-new-dev/production/image-broken.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Полша с послание до Русия: Атакувате ли ни, ще платите висока цена",
+      "link": "https://www.actualno.com/europe/polsha-s-poslanie-do-rusija-atakuvate-li-ni-shte-platite-visoka-cena-news_2645055.html",
+      "pubDate": "2026-09-30T13:27:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/30/6cd2a44969b9df045450ef52f63da4e7_2645055_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Втора жестока катастрофа с жертви за деня. Загинаха двама души",
+      "link": "https://www.actualno.com/crime/vtora-jestoka-katastrofa-s-jertvi-za-denja-zaginaha-dvama-dushi-news_2645052.html",
+      "pubDate": "2026-09-30T13:20:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/30/ffa8ca01c090dab17240331a2666b8e3_2645052_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Тежка катастрофа с три жертви край Айтос",
+      "link": "https://www.actualno.com/crime/tejka-katastrofa-s-tri-jertvi-kraj-ajtos-news_2645047.html",
+      "pubDate": "2026-09-30T13:10:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/30/a612a106274c0a9ff1bca55a50d2fe78_2645047_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Кремъл: Тръмп сваля санкциите срещу пускане на политически затворници? В Русия такива няма!",
+      "link": "https://www.actualno.com/europe/kremyl-trymp-svalja-sankciite-sreshtu-puskane-na-politicheski-zatvornici-v-rusija-takiva-njama-news_2645046.html",
+      "pubDate": "2026-09-30T13:10:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/30/9b52eb73020c18fac83ef1031aa07010_2645046_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Националният STEM център стартира в София Тех Парк",
+      "link": "https://www.mediapool.bg/biznes/natsionalniyat-stem-tsentar-startira-v-sofiya-teh-park/",
+      "pubDate": "2026-09-30T11:58:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Драма във въздуха: пилот бе намушкан по време на полет до Тел Авив, пътници овладяха член на екипажа",
+      "link": "https://www.mediapool.bg/svyat/drama-vav-vazduha-pilot-be-namushkan-po-vreme-na-polet-do-tel-aviv-patnitsi-ovladyaha-chlen-na-ekipazha/",
+      "pubDate": "2026-09-30T11:56:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Трима са загинали след катастрофа между бетоновоз и кола на пътя Айтос-Руен - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzBfUlhxdnlNaHoyQXAwY2JMNVpKUF9ZdXdQOWgxem1iS291a2JlWF9zZmdVS3VtZUZVQzMweGUxa05XVjFUVkhJSUkyVUFsMXdTdnNPWElGQ1hEcVpjZE45Qjk0ckQ4bzZPeXVuWDYtaWVHWm1nT2RfLVUzbVNld1RjVVRyYU84ZlFOekFaZ1NJdlI1UVZPLV9jcjhHNDNjSTlSY29fZTBWVnRLcUE?oc=5",
+      "pubDate": "2026-09-30T11:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Да имаш личен AI агент скоро ще е обикновена услуга",
+      "link": "https://www.mediapool.bg/it/da-imash-lichen-ai-agent-skoro-shte-e-obiknovena-usluga/",
+      "pubDate": "2026-09-30T11:36:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Радев за руска ядрена заплаха: Не съм адвокат на Путин, но трябва да изслушаме тревогите и на двете страни",
+      "link": "https://www.mediapool.bg/bulgaria/radev-za-ruska-yadrena-zaplaha-ne-sam-advokat-na-putin-no-tryabva-da-izslushame-trevogite-i-na-dvete-strani/",
+      "pubDate": "2026-09-30T11:28:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Тръмп се договори с технологичните гиганти за саморегулация на AI, прекръсти го на \"суперинтелект\"",
+      "link": "https://www.mediapool.bg/tehnologii/tramp-se-dogovori-s-tehnologichnite-giganti-za-samoregulatsiya-na-ai-prekrasti-go-na-superintelekt/",
+      "pubDate": "2026-09-30T11:19:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Комисията за потребителите завежда иск срещу частни училища и детски градини - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVotam9ZSzUyMlBXeXNxYVAzU1FRbzRkWVZPWGd5ekNaQzJpOE5OVGl5MFZXb3lWVkVoTlNEZGxLclhyUThKUy1ldzdaaGxBUkthQ2I2OFgxZlQ2UGpkaHBKNkd2QXE1Mk5qeGI3YTFxeVVnaTE2V3VGQl9hSVJDdlA1MUFaYkUzdHItdExoUmE5UlUwZDc2RVpuYTZ0Mk4ya0txU3JR?oc=5",
+      "pubDate": "2026-09-30T11:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "pubDate": "2026-09-30T09:55:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    },
+    {
+      "title": "Цената на войната: Украйна обяви разходи от $155 млрд. и дупка от $27 млрд. - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2hjRU4yRlQ0eWFHXzF4RktUWl92ZkE0akVQcVc4LW93RFhDMzNoRGtQQUNCTlhoa09ud2d1ZXlxU0ZaZHlETDdfUk8tdFI5cndzWlItVlZoRUZVQUhMblkwNUE0eTUtRERXM21xa3dzMExibzQ0LUMzcFNucGVTR2Q2ckJqVWxSWi0wZTBBenpOTjV6SENZc2dOY0VtNGFRWjJfcEQxV2NpM2VLM3FxNlB3b241S0tFOUlWVUxB?oc=5",
+      "pubDate": "2026-09-30T09:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-09-30T18:00:57.423Z"
+    }
+  ]
 }
