@@ -1,7 +1,476 @@
 {
   "windowStart": "2026-10-01T15:35:38.701Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-01T15:35:38.701Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-01T18:00:43.784Z",
+  "totalItems": 38,
+  "items": [
+    {
+      "title": "Latvians head to the polls with Russia on their minds",
+      "link": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T17:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T18:00:43.784Z"
+    },
+    {
+      "title": "Нетаняху заговори за \"радикализация\" на пилота на flydubai и намекна за роля на Иран - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaF9sYXlnbTBZVm5kQVNXbmdpVUJfZlZzdzhCTUkydUtFZnlXM1RxcnV0bE9ZTDRuQW12cW1jdzNXRndyTzZzNUZEQUFOWWlveVNpcTExOXJIZ19mNHp5aGlsaXRvV29GRUwyVVozZmtEcDNSeTJyQmllOXFLRGU2XzZ5OVhZa25McHFRcXBqdGxqVzNvWWtPOEhPWGxMWEk?oc=5",
+      "pubDate": "2026-10-01T15:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-01T18:00:43.784Z"
+    },
+    {
+      "title": "Ethiopia: Embassy shut in Eritrea, 10 diplomats expelled",
+      "link": "https://www.dw.com/en/ethiopia-embassy-shut-in-eritrea-10-diplomats-expelled/a-79507052?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T16:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "After 2 years in office, how has Claudia Sheinbaum changed Mexico?",
+      "link": "https://www.dw.com/en/after-2-years-in-office-how-has-claudia-sheinbaum-changed-mexico/a-79506055?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T16:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Canada to fast track oil pipeline designed to diversify economy away from US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWtEU1lqY1h5V3phT1R1RG5tQkNJeVJYS2xPYzh4Mkh4WTNZY0F2MHVwMzVGaUpfMWFvMmVXR3RYaC11WkZkV0xpOGVZWXRVbUZPOFRubE0zSWxiX3g5Mk5IajJpQ3d0Rlc1aFRlWHZLeGJaR3ctWlR6NGIyLW56TXBvd29lNHEyWWxyVThKZEFnT05LTDBwRTRZQlQ2c2VweFpqNjZEYWU0UXJFdTZmdk8zVEtnY2pu?oc=5",
+      "pubDate": "2026-10-01T16:45:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Supreme Court to weigh Trump's mandatory immigration detention policy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmVyeGwzZk0wM0xFckNWYVRTUzMwRURPMzRNQmNSNFoteHEyd3ZoSHR3RkMzYmlMbmhMd3pNVnZPNFdNaW8tdEoxUE1fTFBrYmtjQU9nc2Z0X1FDbjlNLWNnZXdqLW5YSE1HR1FWZl9rbDdRZi1hc25UUHo5QmNuOFlSMUFZVU1BZEdBT3NReG90dVQtS3JDUjlFQlZXVE1LcFAxbTl5Um1HREh4YzJB?oc=5",
+      "pubDate": "2026-10-01T16:29:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Russia's Putin says continuation of international conflicts is highly likely as world changes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDZIT3NtQlVkSnhucjBhVTFCSVZqTGFFd2F0U1IwUFdmV1VIUmNCbWJaTnR5Szc3anJ5dzdXaTY4cjBSbVY2d1AxV0kwd05kM3FETDVyY1Vjci1uRi1FdmpBVzBvc0dZTFAySnRvdkVYSkpZblVES004MUh6MVlERkJKaUE4Y08wN1lxa3A2NGNZLWEtWmROY3RGdzFsbllrUE5mc0QwRzJWV2JQekE0UFgyV3F1OWptMktyWQ?oc=5",
+      "pubDate": "2026-10-01T16:08:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "SpaceX launches 13th long-duration astronaut crew to International Space Station - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1U5NmdOVDhlV0hFbkZoeWNxalV3RnplOTRsUXhrcGM0WEhMXzZINy15ZUt5TDEyOUp4NENJVzNfR2xmejF2VkVsMEdkMUpSeHFmNW1EbHBYMm9ocjVJVDJjdmxBLXhjdC1nZ0dSM2Y5X181RTZyaWRDbzhIOVdXYjE2Uk1lNno2a25MbTNiek1Za0htSGpHV1RGYUZWOE13b2pMSEtfOHVYcUYyRUJ6TmFqT3FNUUVmZHRiNmJKc2VKbW5rWjNNUnU1UjVSdzhQNVE?oc=5",
+      "pubDate": "2026-10-01T16:03:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Ethiopia: Who could bring the warring sides to the negotiation table?",
+      "link": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T16:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Finland probes suspected break-ins at politicians&apos; homes",
+      "link": "https://www.dw.com/en/finland-probes-suspected-break-ins-at-politicians-homes/a-79506236?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T15:33:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Медицинският надзор е предложил на Ивкова затварянето на \"Медикус Алфа\" чак през септември",
+      "link": "https://www.mediapool.bg/bulgaria/meditsinskiyat-nadzor-e-predlozhil-na-ivkova-zatvaryaneto-na-medikus-alfa-chak-prez-septemvri/",
+      "pubDate": "2026-10-01T15:10:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Deep Purple и вечността",
+      "link": "https://offnews.bg/kultura/deep-purple-i-vechnostta-875657.html",
+      "pubDate": "2026-10-01T15:08:26.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/01/875657/php3slghw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7613
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Трудноизразимите чувства на мъжете във филма \"Историите на нощта\"",
+      "link": "https://www.mediapool.bg/laifstail/trudnoizrazimite-chuvstva-na-mazhete-vav-filma-istoriite-na-noshtta/",
+      "pubDate": "2026-10-01T15:06:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Топлофикация София удължава сроковете за ремонта в кв ''Дружба''",
+      "link": "https://offnews.bg/obshtestvo/toplofikatcia-sofia-udalzhava-srokovete-za-remonta-v-kv-druzhba-875670.html",
+      "pubDate": "2026-10-01T15:05:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/01/875670/phpsfjthm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5801
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "„Не можеш с кости да преместиш Охрид“: Остри реакции в Скопие за връщането на Самуил",
+      "link": "https://frognews.bg/novini/mozhesh-kosti-premestish-ohrid-ostri-reaktsii-skopie-vrashtaneto-samuil.html",
+      "pubDate": "2026-10-01T14:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/fb256e245_bg_makedoniq.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "От Пловдив за \"Марица изток\": Как бизнесът на Илиян Филипов влезе в програмата за справедлив преход",
+      "link": "https://www.mediapool.bg/biznes/ot-plovdiv-za-maritsa-iztok-kak-biznesat-na-iliyan-filipov-vleze-v-programata-za-spravedliv-prehod/",
+      "pubDate": "2026-10-01T14:49:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Мицкоски отговори на поканата да посети София за цар Самуил с обвинение за провокация",
+      "link": "https://frognews.bg/novini/mitskoski-otgovori-pokanata-poseti-sofiia-tsar-samuil-obvinenie-provokatsiia.html",
+      "pubDate": "2026-10-01T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3471f5325_1790866035_6abe7273bc5fc.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "„Добри“ и „лоши“ съюзници: Ход на Тръмп предизвика oпасения от разделение в НАТО",
+      "link": "https://frognews.bg/novini/dobri-loshi-sayuznitsi-hod-tramp-predizvika-opaseniya-razdelenie-nato.html",
+      "pubDate": "2026-10-01T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a764cc850_nato_bgnes2.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Renee Good&apos;s family sues Trump admin over fatal ICE shooting",
+      "link": "https://www.dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-01T14:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "След натиск от САЩ: Спешни преговори в ЕС за освобождаване на запасите от дизел",
+      "link": "https://frognews.bg/novini/sled-natisk-sasht-speshni-pregovori-osvobojdavane-zapasite-dizel.html",
+      "pubDate": "2026-10-01T14:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/45fc59eef_1790864661_6abe6d150e24b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "И БДЖ се включва в посрещането на останките на цар Самуил. Пуска безплатен влак",
+      "link": "https://www.mediapool.bg/biznes/i-bdzh-se-vklyuchva-v-posreshtaneto-na-ostankite-na-tsar-samuil-puska-bezplaten-vlak/",
+      "pubDate": "2026-10-01T14:34:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Управляващите още укриват какво връщаме на Гърция за останките на цар Самуил, учените го смятат за обидно",
+      "link": "https://www.mediapool.bg/bulgaria/upravlyavashtite-oshte-ukrivat-kakvo-vrashtame-na-gartsiya-za-ostankite-na-tsar-samuil-uchenite-go-smyatat-za-obidno/",
+      "pubDate": "2026-10-01T14:30:34.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Активират BG-Alert в Царево заради очаквани нови валежи",
+      "link": "https://offnews.bg/112/aktivirat-bg-alert-v-tcarevo-zaradi-ochakvani-novi-valezhi-875665.html",
+      "pubDate": "2026-10-01T14:24:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/01/875665/phpucjs5f_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5869
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "\"Практикер\" отвори 18-и хипермаркет - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1NaN1ZaZGxieTVyM2E4V1YwejYwSkoyVTRlRFVfeTF6UUc3aUJ0OG5BZHhra0RuWWJxN1FRVk1oakVOaG5QRHNUcHFEMFFIWjF4RVZSLXRMQUo3ZHJuamRMcFduZkZITHRJaWtvOXZzRzdSajNnSkYtdUhRLWtWR0ZZeUhFWlEzY1VyZlBPTzBfdlE?oc=5",
+      "pubDate": "2026-10-01T14:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Битката за Кордофан: Ключовият коридор между изтока и запада на Судан",
+      "link": "https://frognews.bg/novini/bitkata-kordofan-kliuchoviiat-koridor-mejdu-iztoka-zapada-sudan.html",
+      "pubDate": "2026-10-01T14:09:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3daae3263_1790863865_6abe69f95660a.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Астра Зенека: Назалната ваксина за деца е ефективна срещу всички грипни щамове",
+      "link": "https://offnews.bg/zdrave/astra-zeneka-nazalnata-vaksina-za-detca-e-efektivna-sreshtu-vsichki-g-875664.html",
+      "pubDate": "2026-10-01T14:03:49.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/01/875664/phpg6chqd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7011
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "БДЖ пускат безплатни влакове до София за посрещането на цар Самуил",
+      "link": "https://offnews.bg/obshtestvo/bdzh-puskat-bezplatni-vlakove-do-sofia-za-posreshtaneto-na-tcar-samuil-875661.html",
+      "pubDate": "2026-10-01T13:55:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/01/875661/phphvjack_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6085
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Renee Good's family sues Trump administration over fatal Minneapolis shooting - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDFNUUJPc2dSYzI0MURCMk9ROVdRSnBYVzdiMHNKYkhndWN5UmtfdlFvUUxwUjk1VEM0N0MxRUM2clRIS2NrSndTYlpTUE9xa3dXSUxjWjVDbkp3TGgzeFBybmw5UG1EVkx6LUJhTTJLZUEwUWYyLVFrVFJGSjBPSkpkVld3bUVuUnNPZnlXLWRDeUhRZ2tzNENoSVlRUFVYUzBDSXZLOThUR2R5djFHWW8wa0l6YXQ0c0E?oc=5",
+      "pubDate": "2026-10-01T13:45:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "pubDate": "2026-10-01T12:55:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "pubDate": "2026-10-01T12:44:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Екзекуцията невъзможна: Осъдена на смърт оцеля след 2 смъртоносни инжекции пентобарбитал (ВИДЕО)",
+      "link": "https://www.actualno.com/america/ekzekucijata-nevyzmojna-osydena-na-smyrt-ocelja-sled-2-smyrtonosni-injekcii-pentobarbital-video-news_2645445.html",
+      "pubDate": "2026-10-01T11:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/01/f75cfc32904847d4b6f8e27058775ae2_2645445_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "В Полша се появи първият абортомат (СНИМКИ)",
+      "link": "https://www.actualno.com/europe/v-polsha-se-pojavi-pyrvijat-abortomat-snimki-news_2645448.html",
+      "pubDate": "2026-10-01T11:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/01/73d039ae4fb10fea91db76a0a359e94a_2645448_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "След критиките на ИПБ: Мантинелите на \"Хемус\" издържат удар от 38-тонен камион",
+      "link": "https://www.actualno.com/society/sled-kritikite-na-ipb-mantinelite-na-hemus-izdyrjat-udar-ot-38-tonen-kamion-news_2645444.html",
+      "pubDate": "2026-10-01T11:45:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/01/acdea5b5e58d867429a2a4f724d9c29e_2645444_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Парламентът премахна още една такса за електронни услуги",
+      "link": "https://www.actualno.com/society/parlamentyt-premahna-oshte-edna-taksa-za-elektronni-uslugi-news_2645441.html",
+      "pubDate": "2026-10-01T11:45:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/01/0ac218b0e45edc2c0fc95783e3de9289_2645441_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Руски дронове удариха един от най-големите мостове в Киев (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ruski-dronove-udariha-edin-ot-naj-golemite-mostove-v-kiev-video-news_2645440.html",
+      "pubDate": "2026-10-01T11:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/01/7ce0a4654d41af420e8abacee9b30a56_2645440_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "pubDate": "2026-10-01T10:59:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "pubDate": "2026-10-01T10:21:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    },
+    {
+      "title": "Полша продължи граничния контрол с две съседни държави от ЕС - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUdqb25LRm9hOFljMk5fU0JRZ2hnWUVPdTg4b2picm5GbXg1WWNLMUI1QnJFWUx5OUlEMEZBb3g1SEVMV3E5WjBGaTVUalZ0VXU3TTFKakhsWlhZcXdYOE1USmRmd084SmVQSFR1MFdGNmpEaGVDMndzaFIwUC1COG9reUlucXVES0t2RThOUjVNN0RMZ1dsOFdwTDVJOVVESzR2NjIxenA?oc=5",
+      "pubDate": "2026-10-01T08:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-01T17:47:24.096Z"
+    }
+  ]
 }
