@@ -1,9 +1,145 @@
 {
   "windowStart": "2026-10-01T15:35:38.701Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-02T00:01:16.194Z",
-  "totalItems": 73,
+  "lastUpdated": "2026-10-02T03:01:27.960Z",
+  "totalItems": 84,
   "items": [
+    {
+      "title": "Тръмп обяви в Тексас старта на кампанията си за междинните избори",
+      "link": "https://www.actualno.com/america/trymp-objavi-v-teksas-starta-na-kampanijata-si-za-mejdinnite-izbori-news_2645612.html",
+      "pubDate": "2026-10-02T02:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/02/83a0091f95c4e2b6f7b754ed314c0174_2645612_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "EU ministers mull new ways to curb irregular migration",
+      "link": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-02T00:54:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "ЕС реши: Ускорява изплащането на заемите за Украйна догодина",
+      "link": "https://www.actualno.com/europe/es-reshi-uskorjava-izplashtaneto-na-zaemite-za-ukrajna-dogodina-news_2645611.html",
+      "pubDate": "2026-10-01T23:17:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/02/5237b05656674e2f26c4bc106cae725e_2645611_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "2026-10-01T23:10:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "\"Политическа победа за Украйна\": ПАСЕ прие резолюция за замразените руски активи",
+      "link": "https://www.actualno.com/europe/politicheska-pobeda-za-ukrajna-pase-prie-rezolucija-za-zamrazenite-ruski-aktivi-news_2645610.html",
+      "pubDate": "2026-10-01T23:07:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/02/86efee80b6757240c8ff7455f24a29c6_2645610_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDhLZ21halBzVzJicDJqTDNXYUFNVTVyZnU2OEtxNmJ5dHpHRnUyUWdoYnIxMGV2M3BkcHZ6QVAyQzdOQ05rU2V4dFdreTRFMmo2TUxwNlNvLU5lX1VleW5ybjNySVJmVjB1NFRWT1dGSy1NNGMtRlQ0NXlseHMwUllYTER3eElJbjdFZkRJOGpJMTRWUG5XblVrb2JsVkxwcV83aklGQ21LRUQ4Y00xTUFvcmRwUFJ5SFo1eDNxZlJqQ1hUYWMxaw?oc=5",
+      "pubDate": "2026-10-01T23:03:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "Тръмп за Иран: Или ще направят нещо правилно и умно, или няма да съществуват дълго (ВИДЕО)",
+      "link": "https://www.actualno.com/america/trymp-za-iran-ili-shte-napravjat-neshto-pravilno-i-umno-ili-njama-da-syshtestvuvat-dylgo-video-news_2645607.html",
+      "pubDate": "2026-10-01T22:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/02/4d7afdd511a9221ad2caf148fde60354_2645607_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+      "pubDate": "2026-10-01T22:26:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "Заради рязкото поскъпване на горивата: Страните от ЕС се събират на спешна среща",
+      "link": "https://www.actualno.com/europe/zaradi-rjazkoto-poskypvane-na-gorivata-stranite-ot-es-se-sybirat-na-speshna-sreshta-news_2645608.html",
+      "pubDate": "2026-10-01T22:07:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/02/3a1fddad68aff9e3a1fe20b5104430b8_2645608_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "Joy for Germany as Ronaldo-less Portugal win in Denmark - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEtGaHFlUkc3SmNZaUhjamR5T2NGVV9PXzFncWR3bmFjNk13Y3FCOGdqeWc4cDJ1djQxWVExRzViTExBdWxUeEhMbnZWZWp6Znk1VHhtOUZPRHZCQXpUSG9iQUlJdFhMOHZMaE16LVlsQ1N1YlowczlfUnR3ZjBpN0kzZEJBV082bmdidkdYLXEyRzZMRGNLVzNmTQ?oc=5",
+      "pubDate": "2026-10-01T21:33:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "pubDate": "2026-10-01T20:14:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-02T03:01:27.960Z"
+    },
     {
       "title": "Klopp wins first game as Germany coach, without &apos;top dogs&apos;",
       "link": "https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-top-1022-rdf",
