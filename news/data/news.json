@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "title": "САЩ наложиха нови санкции срещу ''Хамас''",
+      "link": "https://offnews.bg/sviat/sasht-nalozhiha-novi-sanktcii-sreshtu-hamas-875750.html",
+      "pubDate": "2026-10-02T15:20:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/02/875750/phpgzt2q4_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6465
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Iran accused of blocking SIM cards, digital access to silence dissent",
+      "link": "https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-02T15:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "''Господин Колперт'' е първата премиера за новия сезон в Сфумато",
+      "link": "https://offnews.bg/kultura/gospodin-kolpert-e-parvata-premiera-za-novia-sezon-v-sfumato-875751.html",
+      "pubDate": "2026-10-02T15:03:25.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/02/875751/phpvcudh5_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6537
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Trump, Macron confirm Europe will release diesel stockpiles after US requests",
+      "link": "https://www.dw.com/en/trump-macron-confirm-europe-will-release-diesel-stockpiles-after-us-requests/a-79522810?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-02T15:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Кабинетът ще изхарчи 19 млрд. евро за три месеца, но и те няма да стигнат",
+      "link": "https://www.mediapool.bg/biznes/kabinetat-shte-izharchi-19-mlrd-evro-za-tri-mesetsa-no-i-te-nyama-da-stignat/",
+      "pubDate": "2026-10-02T14:57:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "FT: Разследването за задържаните украински инкасатори може да стигне до Виктор Орбан",
       "link": "https://frognews.bg/novini/razsledvaneto-zadarjanite-ukrainski-inkasatori-moje-stigne-viktor-orban.html",
       "pubDate": "2026-10-02T14:55:00.000Z",
@@ -14,6 +72,30 @@
       }
     },
     {
+      "title": "ЕК предоставя 2.9 милиарда евро на Украйна",
+      "link": "https://offnews.bg/sviat/ek-predostavia-2-9-miliarda-evro-na-ukrajna-875748.html",
+      "pubDate": "2026-10-02T14:47:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/02/875748/phpwns2k3_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7174
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Русия набира 120 000 нови войници с обещание да не ги праща на фронта",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/rusiya-nabira-120-000-novi-voinitsi-s-obeshtanie-da-ne-gi-prashta-na-fronta/",
+      "pubDate": "2026-10-02T14:43:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "Европейската комисия отпуска 130 милиона евро за дронове за граничен контрол",
       "link": "https://frognews.bg/novini/evropeiskata-komisiia-otpuska-130-miliona-evro-dronove-granichen-kontrol.html",
       "pubDate": "2026-10-02T14:43:00.000Z",
@@ -24,6 +106,60 @@
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
+      }
+    },
+    {
+      "title": "Опасна хранителна добавка се продава необезпокоявано докато властите я проверяват вече година",
+      "link": "https://www.mediapool.bg/bulgaria/opasna-hranitelna-dobavka-se-prodava-neobezpokoyavano-dokato-vlastite-ya-proveryavat-veche-godina/",
+      "pubDate": "2026-10-02T14:41:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1lyajJ3VGVGVzRxcTRCcEwtMUhFWWVoMjd3d09uS3N3R3ZZSGFBckFYYXgyVkFiVUxUaUJ5LUtyeWF1LTRzVGh0WGM2WUl0Qjk5YWFqbzFFaVJIY0tRaW1LMWNqbUQzSHFNR19fZm9OU1RKeHhtbURfU2RNRk9pNUk3X09xV3FybWVPV05SbUNKU0ZUMWgwakRuMHlNb1V5em5QQ2oxSDZHLXFNbTdpSW0wLUEyUVFXUS1ZWHMwNVB5N2FEMy1MTA?oc=5",
+      "pubDate": "2026-10-02T14:40:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Обявени са първите шест групи за Hills of Rock 2027",
+      "link": "https://www.mediapool.bg/kultura/obyaveni-sa-parvite-shest-grupi-za-hills-of-rock-2027/",
+      "pubDate": "2026-10-02T14:37:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Разказът на 6 жени, жертви на руснаците. Говори Алиса Коваленко, автор на филма 'Следи'",
+      "link": "https://offnews.bg/kultura/razkazat-na-6-zheni-zhertvi-na-rusnatcite-govori-alisa-kovalenko-av-875749.html",
+      "pubDate": "2026-10-02T14:32:03.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/02/875749/phpedsucw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6672
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Посланикът на Германия в България: В момента най-голямата заплаха за Европа идва от Русия",
+      "link": "https://www.mediapool.bg/analizi-i-komentari/poslanikat-na-germaniya-v-bulgaria-v-momenta-nai-golyamata-zaplaha-za-evropa-idva-ot-rusiya/",
+      "pubDate": "2026-10-02T14:30:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -54,6 +190,20 @@
       "source": {
         "name": "Reuters",
         "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Върховният съд на Израел разреши на арабски партии да участват в изборите",
+      "link": "https://offnews.bg/sviat/varhovniat-sad-na-izrael-razreshi-na-arabski-partii-da-uchastvat-v-izb-875746.html",
+      "pubDate": "2026-10-02T14:20:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/02/875746/phpcb7sjg_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7870
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
       }
     },
     {
@@ -90,16 +240,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
-      }
-    },
-    {
-      "title": "David Ellison says combined Paramount and Warner Bros Discovery will be named Skydance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1lyajJ3VGVGVzRxcTRCcEwtMUhFWWVoMjd3d09uS3N3R3ZZSGFBckFYYXgyVkFiVUxUaUJ5LUtyeWF1LTRzVGh0WGM2WUl0Qjk5YWFqbzFFaVJIY0tRaW1LMWNqbUQzSHFNR19fZm9OU1RKeHhtbURfU2RNRk9pNUk3X09xV3FybWVPV05SbUNKU0ZUMWgwakRuMHlNb1V5em5QQ2oxSDZHLXFNbTdpSW0wLUEyUVFXUS1ZWHMwNVB5N2FEMy1MTA?oc=5",
-      "pubDate": "2026-10-02T13:59:29.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
       }
     },
     {
@@ -146,7 +286,7 @@
       }
     },
     {
-      "title": "Разпоредена е проверка в \"Св. Анна\" по сигнал за отказ за кръводаряване - Dnevnik.bg",
+      "title": "Разпоредена е проверка в \"Св. Анна\" по сигнал за отказ за кръводаряване - dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3E4eE8wdHhjZzZONmRDNTJhcFo4Q1l4NDVpQk9nRDZPVGNpeEk0cy1LWDlJbjU0X1lOMk1YMDhJU2VNcXd2TV9Ob3h5emRyN1VTMVpaZ1lVQWpFNjhyZjB3amNIcFBXWlBBODVIcnZ6UWZMX0JlMjdiOXR4VWFlSS1WbXJtUVJ4Yk1PTml6XzlUSUtvNzNqcGJ3ckUxNVlKMnFxLXJicGJuWmxBNjFZ?oc=5",
       "pubDate": "2026-10-02T13:39:00.000Z",
       "thumbnail": null,
@@ -166,16 +306,6 @@
       }
     },
     {
-      "title": "North and South Korea trade accusations over landmines that injured three soldiers",
-      "link": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-02T13:30:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
       "title": "The Legend of von Neumann [pdf]",
       "link": "https://gwern.net/doc/math/1973-halmos.pdf",
       "pubDate": "2026-10-02T13:18:32.000Z",
@@ -183,36 +313,6 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Manchester City Premier League charges: What do they mean?",
-      "link": "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-02T11:59:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "120-годишен локомотивно-вагонен завод възкръсна в Русе като индустриален парк",
-      "link": "https://www.mediapool.bg/biznes/120-godishen-lokomotivno-vagonen-zavod-vazkrasna-v-ruse-kato-industrialen-park/",
-      "pubDate": "2026-10-02T11:57:20.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Саркофагът за тленните останки на цар Самуил вече е в храм \"Света София\"",
-      "link": "https://www.mediapool.bg/kultura/sarkofagat-za-tlennite-ostanki-na-tsar-samuil-veche-e-v-hram-sveta-sofiya/",
-      "pubDate": "2026-10-02T11:55:34.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
       }
     },
     {
@@ -281,27 +381,7 @@
       }
     },
     {
-      "title": "Зад кулисите на \"Бодигард\": 636 костюма и рокля за 17 000 британски лири",
-      "link": "https://www.mediapool.bg/kultura/zad-kulisite-na-bodigard-636-kostyuma-i-roklya-za-17-000-britanski-liri/",
-      "pubDate": "2026-10-02T11:28:24.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Гълъб Донев: Дори да е срам за България, истината за Бюджет 2025 трябва да излезе",
-      "link": "https://www.mediapool.bg/biznes/galab-donev-dori-da-e-sram-za-bulgaria-istinata-za-byudzhet-2025-tryabva-da-izleze/",
-      "pubDate": "2026-10-02T11:26:14.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Макрон обсъжда с Г-7 освобождаване на резерви, за да паднат цените на дизела - Dnevnik.bg",
+      "title": "Макрон обсъжда с Г-7 освобождаване на резерви, за да паднат цените на дизела - dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVYwdUNUU0NBaVhRaHdyUU5heGlUbTJHX013cmJOT29HQ19GUWQ5cUZnamg4cVlnekZEbU53bEV1MnUwNmVQcnJrQkw4djZSTDNNNktDZFhKU0lOTmxxbENDYmUxNHdCZndHUUJQSnlkZFhGTzczU3NjODFxUXBjTGMxRGx5VExCbjBBOTN4Zzh1U0xTUUtzRi1zYkw1cV9BRG5fWGQ4QUhrdDA?oc=5",
       "pubDate": "2026-10-02T11:21:00.000Z",
       "thumbnail": null,
@@ -311,17 +391,7 @@
       }
     },
     {
-      "title": "Брюксел одобри 170 милиона евро помощ за горива и торове на фермерите",
-      "link": "https://www.mediapool.bg/biznes/bryuksel-odobri-170-miliona-evro-pomosht-za-goriva-i-torove-na-fermerite/",
-      "pubDate": "2026-10-02T11:01:15.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Брюксел одобри безвъзмездна помощ за българските фермери - Dnevnik.bg",
+      "title": "Брюксел одобри безвъзмездна помощ за българските фермери - dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemZZdmZpUHFHMjg4akllUTVhZEZNd3F5SkVhdUZHTy16MFA1UVpVNzhZSWZNRkt4NS1NR3ZuamVGLTRVX3FVQTJFTVRpTjEyTi12S3E0UWJNamsxNmZGcktTV0ZrNElYTWpYdF8zcGlOSndyWDNMU2VVbFBXX2tiUUJFUVduZDBlbEZzakEzMDZwOVVNSGRQeVJjcHhjSHFGRXI4ZkRRdG0?oc=5",
       "pubDate": "2026-10-02T10:20:00.000Z",
       "thumbnail": null,
@@ -331,77 +401,7 @@
       }
     },
     {
-      "title": "Пеевски към Радев: Ако има 36 фактури за платени мои полети си подавам оставката като лидер на ДПС",
-      "link": "https://offnews.bg/politika/peevski-kam-radev-ako-ima-36-fakturi-za-plateni-moi-poleti-si-podavam-875707.html",
-      "pubDate": "2026-10-02T09:21:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/02/875707/phpplqbsm_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7476
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Какво се случи на екзекуцията на Криста Пайн - разказват очевидци",
-      "link": "https://offnews.bg/sviat/kakvo-se-sluchi-na-ekzekutciata-na-krista-pajn-razkazvat-ochevidtci-875708.html",
-      "pubDate": "2026-10-02T09:18:59.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/02/875708/php3xi9ty_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6447
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Моторист загина при катастрофа във Варненско",
-      "link": "https://offnews.bg/112/motorist-zagina-pri-katastrofa-vav-varnensko-875700.html",
-      "pubDate": "2026-10-02T09:09:28.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/02/875700/phpgikfkx_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7013
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Арестуваха над 3000 протестиращи ученици във Франция",
-      "link": "https://offnews.bg/sviat/arestuvaha-nad-3000-protestirashti-uchenitci-vav-frantcia-875703.html",
-      "pubDate": "2026-10-02T09:07:28.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/02/875703/phpqzdxjt_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 8745
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "За 10-и път благотворителен крос ''Спри Рака'' събира съпричастни в Пловдив",
-      "link": "https://offnews.bg/zdrave/za-10-i-pat-blagotvoritelen-kros-spri-raka-sabira-saprichastni-v-p-875701.html",
-      "pubDate": "2026-10-02T09:06:38.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/02/875701/phpmuyhfl_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 9455
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Кабинетът \"Радев\" готви смяна на терена за завод на \"Райнметал\" - Dnevnik.bg",
+      "title": "Кабинетът \"Радев\" готви смяна на терена за завод на \"Райнметал\" - dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHN3alZFeW1SYUtxeEJkNmllalZEcURaZ3RVUktieUpKUWUtd0pQTnpSZzhwYWxqR194SWxRb0VnLXNPbWFRcGlxRkdEM3dxN2xQQS1GazB1amtod0ppdXI5Z2pxVzNoMzVZeGwySkI0dnZYZ3Vxd0ZiVmw1c21BNnJJamZlWkZXX25fQ0VuTlFJdDQybm9JWEVTM1pOSTZzRlVLUg?oc=5",
       "pubDate": "2026-10-02T07:48:00.000Z",
       "thumbnail": null,
@@ -409,27 +409,7 @@
         "name": "Dnevnik",
         "color": "#2196F3"
       }
-    },
-    {
-      "title": "Останките на цар Самуил ще бъдат пренесени от Гърция със \"Спартан\", ескортиран от МиГ-29 и F-16 - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm82YVRyU2pPUHlBX3JHdlZCMkIxaXpucm5JRDdmRlJQT1BwUElxX2QwYkFiN3NxNS1Gcm11OEFmOFVucXJyTk8ycGxlSk1GSXlxVkgzOFVCQkpXSkZRMnZYaTlFTDFFeWVGanUyZnNEN3JvbDRFRkpndjZXcHlFb0tuSlFPYVlTLUZwaElJNkpUNXFzSEJLX3ZScnZ2cS14SnQ3MEpfcHZSMDdESVBV?oc=5",
-      "pubDate": "2026-10-02T05:21:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Shimano Bicycle Museum Review",
-      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "pubDate": "2026-10-02T05:12:58.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-10-02T15:01:26.460Z"
+  "lastUpdated": "2026-10-02T15:31:33.854Z"
 }
