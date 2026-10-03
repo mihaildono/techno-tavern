@@ -1,9 +1,128 @@
 {
   "windowStart": "2026-10-02T15:33:05.907Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-03T00:01:21.911Z",
-  "totalItems": 70,
+  "lastUpdated": "2026-10-03T03:00:29.465Z",
+  "totalItems": 80,
   "items": [
+    {
+      "title": "US, Australia suspend consular services in Brazil",
+      "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-03T02:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "link": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+      "pubDate": "2026-10-03T01:15:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Things That Apparently Cause Cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "pubDate": "2026-10-03T00:23:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Crude oil tanker struck by unknown projectile off Oman, UKMTO says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5",
+      "pubDate": "2026-10-02T23:31:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
+      "pubDate": "2026-10-02T22:43:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
+      "pubDate": "2026-10-02T22:15:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5",
+      "pubDate": "2026-10-02T21:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Тайната на Ноевия ковчег в нова фаза: Изследователи са проникнали дълбоко в мистериозното място",
+      "link": "https://frognews.bg/novini/tainata-noeviia-kovcheg-nova-faza-izsledovateli-proniknali-dalboko-misterioznoto-miasto.html",
+      "pubDate": "2026-10-02T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/33468128c_1790955400_6abfcf8803f68.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "ЦИК определи местата и секциите в чужбина за президентските избори",
+      "link": "https://frognews.bg/novini/tsik-opredeli-mestata-sektsiite-chujbina-prezidentskite-izbori.html",
+      "pubDate": "2026-10-02T18:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d1751853f_1790967213_6abffdad92f67.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
+    {
+      "title": "Учени откриха „гробище“ на акули насред Сахара",
+      "link": "https://frognews.bg/novini/ucheni-otkriha-grobishte-akuli-nasred-sahara.html",
+      "pubDate": "2026-10-02T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/15c4cc1ff_1790953344_6abfc78069a88.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-03T03:00:29.465Z"
+    },
     {
       "title": "Christa Pike unconscious after failed execution — attorneys",
       "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-top-1022-rdf",
