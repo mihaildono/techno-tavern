@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "title": "Trump names AI czar to head White House task force",
+      "link": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-04T13:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Yemen leader announces major military operations against Iran-backed Houthis - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+      "pubDate": "2026-10-04T12:57:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "pubDate": "2026-10-04T12:51:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Свалбард – арктическата сива зона: Норвегия се готви за руска ескалация срещу НАТО",
+      "link": "https://frognews.bg/novini/svalbard--arkticheskata-siva-zona-norvegiia-gotvi-ruska-eskalatsiia-sreshtu-nato.html",
+      "pubDate": "2026-10-04T12:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1613a6553_1791107833_6ac222f9cdd99.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "ОАЕ са предоставили на Израел списъка с екипажа на ''Флайдубай''  преди нападението",
+      "link": "https://offnews.bg/sviat/oae-sa-predostavili-na-izrael-spisaka-s-ekipazha-na-flajdubaj-pre-875808.html",
+      "pubDate": "2026-10-04T11:42:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/04/875808/phpgnpi8v_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5920
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Brazilians head to polls in high-stakes, polarized election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+      "pubDate": "2026-10-04T11:37:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Verstappen wins chaotic rain-delayed Bahrain Grand Prix in Malaysia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkpFcGd1R0xzTFVDb3pCRUlfYUw2VDN3SXZzeVJ1QzV6WFFnV2hHSG4yVzE4dHN3cDlLMnJwV3dmekNNWnBIbmZaOHI4N01mTVp1NWlXakdvclN5Y054alMtel9uUzNSdkVVU1BrOXIzTm1YTWttR3E0aS1lMzlYQVliUU1xVFE5R3g2aUhEV1ZsUWNacTlWdkNDbGI0Y2VCaGJVXzhpWnFNNzZI?oc=5",
+      "pubDate": "2026-10-04T11:36:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain&apos;s Catalonia region",
       "link": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-04T11:36:00.000Z",
@@ -8,6 +85,19 @@
       "source": {
         "name": "DW",
         "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Тленните останки на цар Самуил вече са достъпни за поклонение в София",
+      "link": "https://frognews.bg/novini/tlennite-ostanki-tsar-samuil-veche-dostapni-poklonenie-sofiya.html",
+      "pubDate": "2026-10-04T11:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/92abe9caf_1791113591_6ac2397772d20.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -21,6 +111,16 @@
       }
     },
     {
+      "title": "Russia to intensify strikes on Ukraine after Zelenskiy interview - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd05oYU1XSThHUHE4WjZ1QVRwNkFXMXNzRzBfRGFnWDhZS3lNblYzbDRWd216QzlacDBwakNZakFFRk1xUVo4amZlXzlpZEJxLUhrSEp6M1dVOTBEOFFyTmc2emthMVprYnNOa2pIZUpOTVNPcnJ3NmlNY0czUmYyR3FkeWxpOVZzeXJUS1VUTExCeDh1M25vWHpGejc2cTVpdGdZSV9hbkhXa1k?oc=5",
+      "pubDate": "2026-10-04T11:16:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
       "link": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-04T11:15:00.000Z",
@@ -31,9 +131,9 @@
       }
     },
     {
-      "title": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
-      "pubDate": "2026-10-04T10:34:05.000Z",
+      "title": "Spanish police clear migrant camp on Ceuta beach ahead of royal visit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlYR2wzY2tZYWg1cEo5SFlaTHhXU2p6M1BmWmpwYzRWSXlBYVVOM1R5ZGNENjBLNGMtRXNyd0xpdFpRdXBKY0NuN3ozWnhhRy1zZmQteXAwMVppMDBsWFpPYVlYQ3Q1WXo3STVnaER4WnVBRjBnNnp3VmgwNXM2Y2g2LTNNdUVab3VOVEsxS0hpWm5KS3A1SEFhZHg0aGt1cVZ3eHlRWnRqNUJPT2tYV0Y0R0tLUnEwaXhENmVoQ2ktZmZI?oc=5",
+      "pubDate": "2026-10-04T11:13:44.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -41,23 +141,118 @@
       }
     },
     {
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
-      "link": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-04T09:30:00.000Z",
-      "thumbnail": null,
+      "title": "Северна Македония поиска среща със София, Муцунски идва на 7 октомври",
+      "link": "https://frognews.bg/novini/severna-makedoniia-poiska-sreshta-sas-sofiia-mutsunski-idva-7-oktomvri.html",
+      "pubDate": "2026-10-04T11:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9b4f64f1f_1791112108_6ac233ac199ae.webp",
+        "type": "image/webp"
+      },
       "source": {
-        "name": "DW",
-        "color": "#C8102E"
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
-      "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
-      "pubDate": "2026-10-04T09:19:52.000Z",
+      "title": "Наводнения в Каталуния взеха две жертви, има и човек в неизвестност",
+      "link": "https://offnews.bg/sviat/navodnenia-v-katalunia-vzeha-dve-zhertvi-ima-i-chovek-v-neizvestnost-875807.html",
+      "pubDate": "2026-10-04T11:09:36.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/04/875807/phpl2cw2d_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6162
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Познатата история с нов глас - ''Бодигард'' оживя отново в НДК",
+      "link": "https://offnews.bg/kultura/poznatata-istoria-s-nov-glas-bodigard-ozhivia-otnovo-v-ndk-875802.html",
+      "pubDate": "2026-10-04T11:00:59.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/04/875802/phpdeh1ko_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5698
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Русия атакува мостове в Киев за четвърти пореден ден, има ранени",
+      "link": "https://frognews.bg/novini/rusiya-atakuva-mostove-kiev-chetvarti-poreden-den-ima-raneni.html",
+      "pubDate": "2026-10-04T10:54:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ce96ad456_1791111320_6ac2309874f70.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Балкански мост II разкри контрабанда на дрога, оръжие, стоки менти и трафик на мигранти",
+      "link": "https://offnews.bg/112/balkanski-most-ii-razkri-kontrabanda-na-droga-orazhie-stoki-menti-i-875806.html",
+      "pubDate": "2026-10-04T10:41:47.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/04/875806/phpxoahyu_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7292
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Издирваният с европейска заповед Юлиян Янков – Картофа е задържан в Гърция",
+      "link": "https://frognews.bg/novini/izdirvaniiat-evropeiska-zapoved-iuliian-iankov--kartofa-zadarjan-gartsiia.html",
+      "pubDate": "2026-10-04T10:08:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/903465f6d_beleznici_800.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Юлиян Янков - Картофа, прочул се със заплахите към Кандев, се предал в Гърция",
+      "link": "https://offnews.bg/temida/iulian-iankov-kartofa-prochul-se-sas-zaplahite-kam-kandev-se-preda-875805.html",
+      "pubDate": "2026-10-04T09:44:54.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/04/875805/phpzeudmb_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6314
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "pubDate": "2026-10-04T09:24:52.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "link": "https://gamehistory.org/5k-magazines/",
+      "pubDate": "2026-10-04T09:07:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -74,53 +269,6 @@
       }
     },
     {
-      "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
-      "link": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-04T08:53:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Пхенян изстреля нова ракета – твърди, че маневрира в полет и използва изкуствен интелект",
-      "link": "https://frognews.bg/novini/phenian-izstrelia-nova-raketa--tvardi-che-manevrira-polet-izpolzva-izkustven-intelekt.html",
-      "pubDate": "2026-10-04T08:50:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/0ae4056c9_north-korea-1.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Rare police raid of Taipei gay bar sparks angry protest - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMURISGFRZ3VjZ1dka1Y5alhIVHBOM2xkYVkxM0R6cXY0RTVUT2UzSFVFR3J2cm1WM1Jfb1NBQUhObmhSMVUzZ2g1Y09qY3FvZy1ReXk0ZlZKUnpLWEFacnNYZjRzdy1JYWZiR1BCRENFa0Z3dFd6TTRwVzdwX1NmXzI5OGVFN1Q3amV1Z1lud3dmMjc0S0Q1ZDRLNEpRV2gxVGxmU041U0syWG1ucjZNVg?oc=5",
-      "pubDate": "2026-10-04T08:49:10.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Андрей Гюров: От Кюстендил до Габрово хората искат държава, която работи за тях",
-      "link": "https://offnews.bg/politika/andrej-giurov-ot-kiustendil-do-gabrovo-horata-iskat-darzhava-koiato-875801.html",
-      "pubDate": "2026-10-04T08:39:44.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/04/875801/phpezgfjn_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6277
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Вече 12 години няма осъдени за убийството на баща и син, извършителите са на свобода - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHVleG9RZnFwb1NCTUZ5UHZIM2VTd3dmM0pnTG9UTUkyUTBsSk9Vc3ZTNmxtcDFCYnhNTnNucmFtcVl4Y29EOUhlMnZ6di1PR2h1Z2g0MkNvNUF0bFlCSjNSNTk2T1VNWDY5RXo4WVJ2dFhMcjI1MzJPdlUtRnl3c2JaZzcyUUZkR0R4VV9GNms4b2oycmV4blpSSy1kOW80NFl0WllhUkI?oc=5",
       "pubDate": "2026-10-04T08:38:00.000Z",
@@ -131,26 +279,13 @@
       }
     },
     {
-      "title": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
-      "pubDate": "2026-10-04T08:19:43.000Z",
+      "title": "Germany&apos;s Merz visits Kyiv as Russia strikes bridge",
+      "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-04T08:13:00.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Австралия разследва миналото на втория пилот от атаката на полета на Flydubai",
-      "link": "https://frognews.bg/novini/avstraliya-razsledva-minaloto-vtoriya-pilot-atakata-poleta-flydubai.html",
-      "pubDate": "2026-10-04T08:10:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/555412009_1791101296_6ac209708251e.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
+        "name": "DW",
+        "color": "#C8102E"
       }
     },
     {
@@ -164,30 +299,6 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "EXCLUSIVE: Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5",
-      "pubDate": "2026-10-04T08:03:13.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Защо е важно пренасянето на костите на цар Самуил?",
-      "link": "https://offnews.bg/analizi-i-komentari/zashto-e-vazhno-prenasianeto-na-kostite-na-tcar-samuil-875797.html",
-      "pubDate": "2026-10-04T08:02:23.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/04/875797/phpksxbqs_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6202
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
       }
     },
     {
@@ -227,47 +338,6 @@
       }
     },
     {
-      "title": "Автомат за хапчета за аборт – полски активисти заобикалят почти пълната забрана",
-      "link": "https://frognews.bg/novini/avtomat-hapcheta-abort-polski-aktivisti-zaobikalyat-pochti-palnata-zabrana.html",
-      "pubDate": "2026-10-04T07:55:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/2f73c4149_1791100363_6ac205cb82184.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Убийството на Илиян Филипов не е планирано дълго време, според Цветанов",
-      "link": "https://offnews.bg/obshtestvo/ubijstvoto-na-ilian-filipov-ne-e-planirano-dalgo-vreme-spored-tcvetan-875800.html",
-      "pubDate": "2026-10-04T07:52:09.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/04/875800/php8kmupc_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 4892
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Задържаха мъж, стрелял с въздушна пушка по момчета",
-      "link": "https://offnews.bg/112/zadarzhaha-mazh-strelial-s-vazdushna-pushka-po-momcheta-875799.html",
-      "pubDate": "2026-10-04T07:44:36.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/04/875799/phpqep1tt_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 3765
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Награда: Лъчезар Леков е с най-голям принос в развитието на посредничеството в българското застраховане",
       "link": "https://www.actualno.com/company/nagrada-lychezar-lekov-e-s-naj-goljam-prinos-v-razvitieto-na-posrednichestvoto-v-bylgarskoto-zastrahovane-news_2646307.html",
       "pubDate": "2026-10-04T07:44:00.000Z",
@@ -278,46 +348,6 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "След години без решение: Жители на „Лагера“ протестират за опасно кръстовище",
-      "link": "https://frognews.bg/novini/sled-godini-bez-reshenie-jiteli-lagera-protestirat-opasno-krastovishte.html",
-      "pubDate": "2026-10-04T07:35:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/02d786678_1791099080_6ac200c892ea8.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Есенните вируси тръгнаха сред децата, за грипната вълна още е рано",
-      "link": "https://frognews.bg/novini/esennite-virusi-tragnaha-sred-detsata-gripnata-valna-oshte-rano.html",
-      "pubDate": "2026-10-04T07:25:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/226a27752_1791098696_6ac1ff486c614.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Гълъб Донев: Обираме опашките от повишаването на цените и спекулата",
-      "link": "https://offnews.bg/politika/galab-donev-obirame-opashkite-ot-povishavaneto-na-tcenite-i-spekulata-875798.html",
-      "pubDate": "2026-10-04T07:23:13.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/04/875798/phph0zxye_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5248
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
       }
     },
     {
@@ -359,17 +389,7 @@
         "name": "Mediapool",
         "color": "#00BCD4"
       }
-    },
-    {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "pubDate": "2026-10-04T04:10:47.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-10-04T12:01:26.599Z"
+  "lastUpdated": "2026-10-04T15:00:46.272Z"
 }
