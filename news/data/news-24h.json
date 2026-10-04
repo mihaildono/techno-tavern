@@ -1,9 +1,255 @@
 {
   "windowStart": "2026-10-04T15:32:38.376Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-04T18:00:59.498Z",
-  "totalItems": 35,
+  "lastUpdated": "2026-10-04T21:01:17.818Z",
+  "totalItems": 56,
   "items": [
+    {
+      "title": "Brazil: Polls close in tight race between Lula and Bolsonaro",
+      "link": "https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Remove and Disable Apple Macos27 AI Models Tool",
+      "link": "https://github.com/omlahore/RemoveMacAI",
+      "pubDate": "2026-10-04T19:42:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "pubDate": "2026-10-04T19:37:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Polls close in Bosnia-Herzegovina&apos;s divisive election",
+      "link": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-04T19:15:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Iran's oil minister resigns for personal reasons, state media reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+      "pubDate": "2026-10-04T18:53:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Pakistan: Imran Khan supporters demand ex-PM&apos;s release",
+      "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-04T18:22:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Регистриран е първият за сезона грипен вирус",
+      "link": "https://www.mediapool.bg/zdrave/registriran-e-parviyat-za-sezona-gripen-virus/",
+      "pubDate": "2026-10-04T18:16:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "13 млн. издания в пепел, култура под обстрел: Руската война срещу украинските книги",
+      "link": "https://frognews.bg/novini/13-mln-izdaniia-pepel-kultura-pod-obstrel-ruskata-voina-sreshtu-ukrainskite-knigi.html",
+      "pubDate": "2026-10-04T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/dbcb4b719_1791134897_6ac28cb12b42a.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Регистрираха първия грипен вирус за сезона у нас, започва имунизацията на деца",
+      "link": "https://frognews.bg/novini/registriraha-parviya-gripen-virus-sezona-nas-zapochva-imunizatsiyata-detsa.html",
+      "pubDate": "2026-10-04T17:23:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/787392204_grip.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Бразилия избира между Лула и Болсонаро – вот с последици за цяла Латинска Америка",
+      "link": "https://frognews.bg/novini/braziliya-izbira-mezhdu-lula-bolsonaro-vot-posleditsi-tsyala-latinska-amerika.html",
+      "pubDate": "2026-10-04T17:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/cf486b62a_1791134274_6ac28a4286d98.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Голям пожар бушува в Източните Родопи, хеликоптер помага в гасенето",
+      "link": "https://www.mediapool.bg/bulgaria/golyam-pozhar-bushuva-v-iztochnite-rodopi-helikopter-pomaga-v-gaseneto/",
+      "pubDate": "2026-10-04T17:18:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Britain's Green Party votes to class Zionism as a form of racism - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5",
+      "pubDate": "2026-10-04T17:18:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
+      "pubDate": "2026-10-04T16:56:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Русия се закани да засили ударите си по Киев заради интервю на Зеленски",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/rusiya-se-zakani-da-zasili-udarite-si-po-kiev-zaradi-intervyu-na-zelenski/",
+      "pubDate": "2026-10-04T16:43:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Ukrainian drones deliver new batch of food to Russian-occupied Oleshky - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VheFNzRWFqbHN5T24yR1p5cXZnNjVRZHl2cnhxU3NiaDh3QWJFNEtYZlFwM3RnaHlCQlk1X25iVm1OenR0Szl5RTBmSjFnWENnUzJrbXpLQ3YydjRMTFNhdFV2cGFRT0xSX25MTzFqOFpLUGFzQ1RrZjdtdHozby1obzY5WnpLNThMZVFnVnBWMUVjZ21Md3dwNEFEaDRoaTI0bGJRZFRGYWdnVHowU2NxMA?oc=5",
+      "pubDate": "2026-10-04T16:33:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Германският канцлер призова Путин да прекрати \"безсмислената война\" срещу Украйна (обновена)",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/germanskiyat-kantsler-prizova-putin-da-prekrati-bezsmislenata-voina-sreshtu-ukraina-obnovena/",
+      "pubDate": "2026-10-04T16:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+      "pubDate": "2026-10-04T16:05:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Латвия остава с Европа и Украйна – изборна победа за Кулбергс, ръст и за популистите",
+      "link": "https://frognews.bg/novini/latviia-ostava-evropa-ukraina--izborna-pobeda-kulbergs-rast-populistite.html",
+      "pubDate": "2026-10-04T16:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/af0f704dc_1791130098_6ac279f205cb1.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Над 400 училища във Франция затварят заради масовите ученически протести",
+      "link": "https://frognews.bg/novini/nad-400-uchilishta-vav-frantsiya-zatvaryat-zaradi-masovite-uchenicheski-protesti.html",
+      "pubDate": "2026-10-04T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/95df3da88_1791129252_6ac276a474050.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "Мотивът за убийството на Илиян Филипов са неуредени сметки от \"черно тото\" (обновена)",
+      "link": "https://www.mediapool.bg/bulgaria/motivat-za-ubiystvoto-na-iliyan-filipov-sa-neuredeni-smetki-ot-cherno-toto-obnovena/",
+      "pubDate": "2026-10-04T15:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
+    {
+      "title": "По искане на прокуратурата съдът засекрети заседанието за мярката на Славчо Мегеров - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmc0akYzX0NuN1p1SnIwaW50NHVBWXdsbi1SSjVTMFhGUTY2eXZKUS1ZQkhxMC02bEdvQ05ZNlRfUWp0Vks3ZnQ3S1ExTklQa2ZuYmJRVUhYVnpEYjFyQ0dWNmNkSk50X3Z6TWpzTzItc2hWc1Y5bDlwZ3M2bjlLZWxyaHlZYkdqRlNLVW9jRlB0VzlhbTVHeVQ5NGNIU1g2VktnX2FlekVhSTRFUFB3?oc=5",
+      "pubDate": "2026-10-04T13:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-04T21:01:17.818Z"
+    },
     {
       "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
       "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-top-1022-rdf",
