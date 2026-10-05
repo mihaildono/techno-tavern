@@ -1,9 +1,319 @@
 {
   "windowStart": "2026-10-04T15:32:38.376Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-05T09:01:22.296Z",
-  "totalItems": 116,
+  "lastUpdated": "2026-10-05T12:00:38.428Z",
+  "totalItems": 134,
   "items": [
+    {
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T11:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Klopp&apos;s first Germany internationals: What did we learn?",
+      "link": "https://www.dw.com/en/klopp-s-first-germany-internationals-what-did-we-learn/a-79547308?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T10:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
+      "link": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T10:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "German and US scientists win Nobel medicine prize for work on optogenetics - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
+      "pubDate": "2026-10-05T10:22:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Trump's deportation push forces dozens of LGBT migrants onto hostile terrain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTRId3g5QWpPdm5aNWh6R29udDVWRjNOd0hmV0Y4OTg1ZXR6azZIWkhXdzAzRWN1NzRfOGtBX3BjUUY4S2JJcnlYa3BwdHVqcHg1NDhTVDZIVXBLOUl1U0JvUkJqcXRxc2tHSVUzU0YyNlNYTERHTDROeTEyNlVuWkZQbV8yR2pyTUdkX01CLV9DTnhvQ3pvMktqSWZjRGN1VjZldVRXQk9OdHA3bUw2QXFZNGtKbXRlMGhNcGFsUlFxMmM?oc=5",
+      "pubDate": "2026-10-05T10:13:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
+      "link": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T09:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "German and US scientists win Nobel Prize in medicine for research on brain activity",
+      "link": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T09:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Yemeni government forces seize district by Bab el-Mandeb, military sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
+      "pubDate": "2026-10-05T09:20:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Germany at risk of violent conflict with Russia, intel chief says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelJXS092bDNjUVJZOGk3OHRSM3F4OHRTMjZkNHh6RWlTRXVoUnlpQ2NYMlUtV1dCUDBKUFB1YzFRUUtLVERsbmp4Y1h2WTJNbkZqeVRtZkE0d0FYUWJ4QVpjLTNBWjZ3eF8zRTFpWERkaWpVZUgyQkJWTms0RTdWN1hXMTcxczhHWnR6MHNzdzdoYlV2VU9IREd3NGs1UHloTG1nc0d1alRsWlBjTF9nTg?oc=5",
+      "pubDate": "2026-10-05T09:16:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "ИПБ: Шефът на Автомагистрали подаде оставка заради подмяната на мантинелите",
+      "link": "https://offnews.bg/ikonomika/ipb-shefat-na-avtomagistrali-podade-ostavka-zaradi-podmianata-na-mant-875849.html",
+      "pubDate": "2026-10-05T09:03:25.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875849/phprsa61y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7574
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Небрежно изхвърлена пепел от печка е предизвикала големия пожар край Коларово",
+      "link": "https://offnews.bg/112/nebrezhno-izhvarlena-pepel-ot-pechka-e-predizvikala-golemia-pozhar-kra-875848.html",
+      "pubDate": "2026-10-05T08:58:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875848/phpmfhkz6_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4129
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Отново недоволство в културния сектор, готвят протест срещу министъра",
+      "link": "https://offnews.bg/kultura/otnovo-nedovolstvo-v-kulturnia-sektor-gotviat-protest-sreshtu-minista-875846.html",
+      "pubDate": "2026-10-05T08:57:34.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875846/phphaqqq3_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5539
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Сигнали за бомби в цялата страна предизвикаха евакуации на обществени сгради - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNC1EWFlhNlh2eGZyQ1E1c3BqZWFSMVRkaVVGeTBmNlphSGJpYVN5NGFJXzVTZDd2WndpdXZJaGZHTk10eDRjRkVaWVFLNGRjd2NpUmcwNWQ4TkVQcmJNb0tOa0Z5Rk1RMXM5cTR3MGV5SmlvaEx0UkIzck5xQWoyLTVaVlVyRXhhejBTT0JCaUMyMlBnN2lvVHV3X1RLUGc?oc=5",
+      "pubDate": "2026-10-05T08:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Директорът на \"Автомагистрали\" подаде оставка заради мантинелите",
+      "link": "https://frognews.bg/novini/direktorat-avtomagistrali-podade-ostavka-zaradi-mantinelite.html",
+      "pubDate": "2026-10-05T08:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/299593dd5_1791189201_6ac360d190124.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Разкриха нелегална кланица за конско месо край Сливен",
+      "link": "https://offnews.bg/obshtestvo/razkriha-nelegalna-klanitca-za-konsko-meso-kraj-sliven-875847.html",
+      "pubDate": "2026-10-05T08:33:07.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875847/phphrcpnv_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7561
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Заради жилищната криза: Испания отива на предсрочни парламентарни избори",
+      "link": "https://frognews.bg/novini/zaradi-jilishtnata-kriza-ispaniia-otiva-predsrochni-parlamentarni-izbori.html",
+      "pubDate": "2026-10-05T08:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/26678e8d7_1791188313_6ac35d591d5ad.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Украйна твърди, че е извадила от строя 51% от руските рафинерии",
+      "link": "https://frognews.bg/novini/ukraina-tvardi-che-izvadila-stroia-51procenta-ruskite-rafinerii.html",
+      "pubDate": "2026-10-05T08:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8a5ad01a7_1791187126_6ac358b6dac31.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Съдилища, болница, детска градина: Евакуации заради сигнали за бомби в различни региони",
+      "link": "https://frognews.bg/novini/sadilishta-bolnitsa-detska-gradina-evakuatsii-zaradi-signali-bombi-razlichni-regioni.html",
+      "pubDate": "2026-10-05T08:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/80d68aebe_1791187963_6ac35bfb07258.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Сигнали за бомби из цялата страна (обновява се)",
+      "link": "https://offnews.bg/112/signali-za-bombi-iz-tcialata-strana-obnoviava-se-875845.html",
+      "pubDate": "2026-10-05T08:08:24.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875845/phpumvssw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7653
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Голямо свлачище изненада спасители в Доломитите - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2cyT1Q2OUhlMzZSYkwzdklzM01OMzNKem84UElGT2NzUUQ3Tmo2LXVyVzNPSG4wU3Nob1FRLWgtUTE5c0dZYzF5bjBNZjJSSkVDVHdLby11TzA2NmJaOXpFNnFKb1k0V3FmUTI0Y0hZOGdLeVRXSG1EdWxxejYzZ3BSU0lrZ0NSa3ZxR2ExWUxobVdrU0g4c3FXSFJKZWtUXzdPSHh3TTV3Q1VZd1E?oc=5",
+      "pubDate": "2026-10-05T08:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Естония мести войски по-близо до руската граница за активна отбрана",
+      "link": "https://frognews.bg/novini/estoniia-mesti-voiski-blizo-ruskata-granitsa-aktivna-otbrana.html",
+      "pubDate": "2026-10-05T07:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/351ed323f_1791186265_6ac35559c52c7.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Протестите в Испания предизвикаха предсрочни избори",
+      "link": "https://www.mediapool.bg/svyat/protestite-v-ispaniya-predizvikaha-predsrochni-izbori/",
+      "pubDate": "2026-10-05T07:35:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Цените на петрола се понижават, след като износът от Близкия изток надхвърли предвоенните нива",
+      "link": "https://www.mediapool.bg/biznes/tsenite-na-petrola-se-ponizhavat-sled-kato-iznosat-ot-blizkiya-iztok-nadhvarli-predvoennite-niva/",
+      "pubDate": "2026-10-05T07:04:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "Видео показва как помилваният от Йотова наркотрафикант се бие в болницата на затвора",
+      "link": "https://www.mediapool.bg/bulgaria/video-pokazva-kak-pomilvaniyat-ot-yotova-narkotrafikant-se-bie-v-bolnitsata-na-zatvora/",
+      "pubDate": "2026-10-05T07:03:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
+    {
+      "title": "\"Алфа рисърч\": Очертава се балотаж Йотова – Гюров",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/alfa-risarch-ochertava-se-balotazh-yotova-gyurov/",
+      "pubDate": "2026-10-05T06:13:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T12:00:38.428Z"
+    },
     {
       "title": "Israel&apos;s mental health crisis in the wake of Oct. 7 attacks",
       "link": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-top-1022-rdf",
@@ -1342,86 +1652,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain&apos;s Catalonia region",
-      "link": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-04T11:36:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Тленните останки на цар Самуил вече са достъпни за поклонение в София",
-      "link": "https://frognews.bg/novini/tlennite-ostanki-tsar-samuil-veche-dostapni-poklonenie-sofiya.html",
-      "pubDate": "2026-10-04T11:35:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/92abe9caf_1791113591_6ac2397772d20.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Съдът решава дали задържаният за убийството на Илиян Филипов да остане в ареста (обновена)",
-      "link": "https://www.mediapool.bg/bulgaria/sadat-reshava-dali-zadarzhaniyat-za-ubiystvoto-na-iliyan-filipov-da-ostane-v-aresta-obnovena/",
-      "pubDate": "2026-10-04T11:30:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-04T11:28:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Russia to intensify strikes on Ukraine after Zelenskiy interview - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd05oYU1XSThHUHE4WjZ1QVRwNkFXMXNzRzBfRGFnWDhZS3lNblYzbDRWd216QzlacDBwakNZakFFRk1xUVo4amZlXzlpZEJxLUhrSEp6M1dVOTBEOFFyTmc2emthMVprYnNOa2pIZUpOTVNPcnJ3NmlNY0czUmYyR3FkeWxpOVZzeXJUS1VUTExCeDh1M25vWHpGejc2cTVpdGdZSV9hbkhXa1k?oc=5",
-      "pubDate": "2026-10-04T11:16:12.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
-      "pubDate": "2026-10-04T09:24:52.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "link": "https://gamehistory.org/5k-magazines/",
-      "pubDate": "2026-10-04T09:07:11.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       },
       "firstSeen": "2026-10-04T18:00:59.498Z"
     }
