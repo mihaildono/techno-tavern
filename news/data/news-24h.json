@@ -1,7 +1,476 @@
 {
   "windowStart": "2026-10-05T16:09:50.052Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-05T16:09:50.052Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-05T18:01:07.704Z",
+  "totalItems": 38,
+  "items": [
+    {
+      "title": "Denmark: Data of millions compromised in hack",
+      "link": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T17:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T17:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "US services sector cools in September, price pressures building - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
+      "pubDate": "2026-10-05T17:03:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "EXCLUSIVE: US to announce $150 million for Alaska power lines as Vance campaigns in Senate battleground - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUMxc0gwRkE3aGs4WXA2VUdRdGxjRHhXdGtVTVpiMWdQODFFaUNuYXhnUnBPS29GY2lrc0NSakJtQlBTY3FfWVVad092M0g3aE1aNzJ1M0cyZjhLYWl5UDhQVDZaWnNjTy1SQXVCcGpDS3lKSWx0QVdUSlhwdmdBZTNEUW96ak52RWdUUHNJeXc1cVVfb1l4QmNLUl8yVUtPbk9vaUE1WE4yNVhuVWFXRm84UUFQZ2V4MWFsNVhZQms3Q0h2OGFMN0hhMA?oc=5",
+      "pubDate": "2026-10-05T16:40:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Airstrikes and artillery hit north Ethiopia as government and rebels clash, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUFxY2dITnU0S3lxNkwwbjZRd0s2RDdrcmU4dk1hWGE3SnhaVUpCXzYtaERfZGoxU3RrcVlRQTdmcWhOQkRSaFVwS2NvREJCTFBtVFJFNXJ1cXdtYTFkMVJQWS0tZExYYzVsQkpOTnhLVU83RDkyeWF3c1hBWHUwZUxWM3JaVXBmYXZtckpCMGxMa1NlelRYbm1Oelo0Q2NsaTVneENEcmtBQzRmbzNyN1JnNWE4RmNQLWlPbjV5eVpjcndPSmc?oc=5",
+      "pubDate": "2026-10-05T16:17:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Ukraine says Russian drones behind Turkish ship sinking",
+      "link": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T15:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Meta, TikTok, X challenge UK watchdog over online safety data demands - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzZWa2JOanlQUC1XM2lWd3NaMmtidFV2ckgwWlc5bWlreHdPcDR5NTBMektNSkMyZ01HOVlRX0k2MnhMU0llck56Q2dRM3pXWS1ia3ZmT3haQ1VlLTlJa01leU5NQWZGTHdPWWU3eFhrb1BJZWxPcC1pdEJ4Ql9xU29UODhHNFBQdEZTMFcwYmRwXzRnNFNYWXVUWDNLUkFUXzRRUHV4VzVYYXZBdVNKQTVvdUJ5Zi13MEVxQw?oc=5",
+      "pubDate": "2026-10-05T15:24:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Australia, New Zealand probe Flydubai pilot&apos;s time there",
+      "link": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T15:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Руските власти за чумата в Иркутск: Всичко е под контрол",
+      "link": "https://offnews.bg/sviat/ruskite-vlasti-za-chumata-v-irkutsk-vsichko-e-pod-kontrol-875879.html",
+      "pubDate": "2026-10-05T14:50:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875879/phpmqwunw_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3329
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "\"Да, България\" иска отговори от Йотова за помилвания наркотрафикант",
+      "link": "https://www.actualno.com/politics/da-bylgarija-iska-otgovori-ot-jotova-za-pomilvanija-narkotrafikant-news_2646770.html",
+      "pubDate": "2026-10-05T14:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/b61ee393ff23c06ace4cad128e95aaf2_2646770_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Октоберфест не е същият: Скочи драстично пиенето на безалкохолни напитки",
+      "link": "https://frognews.bg/novini/oktoberfest-sashtiiat-skochi-drastichno-pieneto-bezalkoholni-napitki.html",
+      "pubDate": "2026-10-05T14:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6151eb0ac_1791211694_6ac3b8ae248f3.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Загинали и десетки ранени след поредна руска бомбардировка по Харков (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/zaginali-i-desetki-raneni-sled-poredna-ruska-bombardirovka-po-harkov-video-news_2646767.html",
+      "pubDate": "2026-10-05T14:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/c40fa4cdc85dc5f50ee01c7272699857_2646767_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Мистър Бийн и Черното влечуго: Роуън Аткинсън се връща на сцената след 40 години",
+      "link": "https://offnews.bg/kultura/mistar-bijn-i-chernoto-vlechugo-rouan-atkinsan-se-vrashta-na-stcenata-875878.html",
+      "pubDate": "2026-10-05T14:39:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875878/php7wnb21_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6194
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Нова платформа дава на училищата готови уроци по технологии и изкуствен интелект",
+      "link": "https://frognews.bg/novini/nova-platforma-dava-uchilishtata-gotovi-urotsi-tehnologii-izkustven-intelekt.html",
+      "pubDate": "2026-10-05T14:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0f743a925_1791210997_6ac3b5f59b485.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Разпространение на чума: Конференция по темата е предвидена там, където от чума умря млада лаборантка",
+      "link": "https://www.actualno.com/asia/razprostranenie-na-chuma-konferencija-po-temata-e-predvidena-tam-kydeto-ot-chuma-umrja-mlada-laborantka-news_2646764.html",
+      "pubDate": "2026-10-05T14:34:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/5f0f36d3ce779bd5e6344bc4a570f17f_2646764_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "\"Русия е готова да използва сила\": Германското разузнаване предупреди за въвличане във въоръжена конфронтация с Москва",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/rusiya-e-gotova-da-izpolzva-sila-germanskoto-razuznavane-predupredi-za-vavlichane-vav-vaorazhena-konfrontatsiya-s-moskva/",
+      "pubDate": "2026-10-05T14:32:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Връщаме стрелките с час назад на 25 октомври",
+      "link": "https://frognews.bg/novini/vrashtame-strelkite-chas-nazad-25-oktomvri.html",
+      "pubDate": "2026-10-05T14:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0f78fcf22_1791210759_6ac3b507949c1.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Борис Бонев ще се кандидатира за кмет на София догодина",
+      "link": "https://www.mediapool.bg/bulgaria/boris-bonev-shte-se-kandidatira-za-kmet-na-sofiya-dogodina/",
+      "pubDate": "2026-10-05T14:29:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "\"Демократична България\" иска изслушване на службите за петричкия Ескобар",
+      "link": "https://www.mediapool.bg/bulgaria/demokratichna-bulgaria-iska-izslushvane-na-sluzhbite-za-petrichkiya-eskobar/",
+      "pubDate": "2026-10-05T14:28:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Euro plummets against US dollar: has the next financial crisis begun?",
+      "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T14:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Nigeria military helicopter crashes with 32 aboard, rescue operations ongoing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVNcjc5Rk9CNVRSWWwtNm96QmVtNGFKQVFTOGwzVmY4d29peTJ4UGFIWEpZLWF1ODFMSkszT3YyZ3N5SFNkSXBSYmd5dnhDYmwwWjU1UGpKUEJmVWZJbldGTWhQRFlnU1RFNVhKOFBEYi1YZkdvY1B2ZnJkcXBHbEg3UWNVNkVVWWRaM2RKOC1ZOVlia0xGYU9SSmxUanFscURjRjU0RlI5bFlXYXFEcE85SC1BODRKYjVMdW5n?oc=5",
+      "pubDate": "2026-10-05T14:26:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Международни експерти проведоха първото в България обучение за реанимация на новородени",
+      "link": "https://offnews.bg/zdrave/mezhdunarodni-eksperti-provedoha-parvoto-v-balgaria-obuchenie-za-reani-875877.html",
+      "pubDate": "2026-10-05T14:21:34.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875877/phpuzysx5_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7943
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Акция в пловдивската болница \"Свети Георги\" за източване на НЗОК, 10 души са задържани",
+      "link": "https://www.mediapool.bg/bulgaria/aktsiya-v-plovdivskata-bolnitsa-sveti-georgi-za-iztochvane-na-nzok-10-dushi-sa-zadarzhani/",
+      "pubDate": "2026-10-05T14:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Няма връщане назад: Един от последните ледници в Словения ще изчезне до дни",
+      "link": "https://www.actualno.com/climate/njama-vryshtane-nazad-edin-ot-poslednite-lednici-v-slovenija-shte-izchezne-do-dni-news_2646760.html",
+      "pubDate": "2026-10-05T14:19:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/65b1aa703a53fe598c7559c8d43feba3_2646760_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Военен хеликоптер с 25 пътници се разби в Нигерия",
+      "link": "https://offnews.bg/112/voenen-helikopter-s-25-patnitci-se-razbi-v-nigeria-875876.html",
+      "pubDate": "2026-10-05T14:16:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875876/phpcerjdt_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3725
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Почина рок легендата Ицо Петрофф",
+      "link": "https://www.actualno.com/music/pochina-rok-legendata-ico-petroff-news_2646758.html",
+      "pubDate": "2026-10-05T14:15:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/6c06257b7f7b48c1beb0416ba3752fec_2646758_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "„План като 11 септември“: Вторият пилот на „Флайдубай“ планирал удар в Тел Авив",
+      "link": "https://frognews.bg/novini/plan-kato-11-septemvri-vtoriiat-pilot-flaidubai-planiral-udar-tel-aviv.html",
+      "pubDate": "2026-10-05T14:15:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5df55ac8b_1791209813_6ac3b155e2b08.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "10 души са задържани в разследване за източване на НЗОК в УМБАЛ ''Св. Георги''",
+      "link": "https://offnews.bg/zdrave/10-dushi-sa-zadarzhani-v-razsledvane-za-iztochvane-na-nzok-v-umbal-s-875875.html",
+      "pubDate": "2026-10-05T14:08:19.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875875/php2ooi7v_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6456
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "САЩ изтеглиха бомбардировачи от британска база, разследват инцидент и чужда намеса",
+      "link": "https://frognews.bg/novini/sasht-iztegliha-bombardirovachi-britanska-baza-razsledvat-intsident-chujda-namesa.html",
+      "pubDate": "2026-10-05T14:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/046f1f848_1791208860_6ac3ad9ca99d8.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "\"Мяра\": Ако изборите бяха днес, Йотова и Вълчев биха получили 46,9%",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/myara-ako-izborite-byaha-dnes-yotova-i-valchev-biha-poluchili-469/",
+      "pubDate": "2026-10-05T13:45:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "pubDate": "2026-10-05T13:02:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "pubDate": "2026-10-05T11:13:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Турски кораб със зърно е ударен край Румъния, има загинали и ранени - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmp4VEppLTdIZEZxLXRSNHg5VkFfN1JldUZFSHhYNmU5OTVnU3FrZWxuS0tNQ1UxWGNhUVZoWENvZnRESXZULWFGRkJybWFoYUE2dHY1SjhSVDJ2NXNOeGFDa0lkOEpIWkFtMnpUSW1XS2kyT3R4SGhLUy1mR2dOM0E0UmxPTzNHZnZhbWdUOG1lOXZCUC04SFdWWng5SGZPOHhOT0dNYkFfVTRjYm5OMnhMd21wYkE?oc=5",
+      "pubDate": "2026-10-05T10:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "pubDate": "2026-10-05T10:47:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "pubDate": "2026-10-05T10:35:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Сигнали за бомби в цялата страна предизвикаха евакуации на обществени сгради - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNC1EWFlhNlh2eGZyQ1E1c3BqZWFSMVRkaVVGeTBmNlphSGJpYVN5NGFJXzVTZDd2WndpdXZJaGZHTk10eDRjRkVaWVFLNGRjd2NpUmcwNWQ4TkVQcmJNb0tOa0Z5Rk1RMXM5cTR3MGV5SmlvaEx0UkIzck5xQWoyLTVaVlVyRXhhejBTT0JCaUMyMlBnN2lvVHV3X1RLUGc?oc=5",
+      "pubDate": "2026-10-05T08:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "pubDate": "2026-10-05T08:09:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    },
+    {
+      "title": "Голямо свлачище изненада спасители в Доломитите - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2cyT1Q2OUhlMzZSYkwzdklzM01OMzNKem84UElGT2NzUUQ3Tmo2LXVyVzNPSG4wU3Nob1FRLWgtUTE5c0dZYzF5bjBNZjJSSkVDVHdLby11TzA2NmJaOXpFNnFKb1k0V3FmUTI0Y0hZOGdLeVRXSG1EdWxxejYzZ3BSU0lrZ0NSa3ZxR2ExWUxobVdrU0g4c3FXSFJKZWtUXzdPSHh3TTV3Q1VZd1E?oc=5",
+      "pubDate": "2026-10-05T08:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-05T18:01:07.704Z"
+    }
+  ]
 }
