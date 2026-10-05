@@ -1,9 +1,367 @@
 {
   "windowStart": "2026-10-04T15:32:38.376Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-05T03:00:46.174Z",
-  "totalItems": 77,
+  "lastUpdated": "2026-10-05T06:01:04.823Z",
+  "totalItems": 105,
   "items": [
+    {
+      "title": "Ангел Кунчев предупреди за интензивна грипна епидемия",
+      "link": "https://www.actualno.com/healthy/angel-kunchev-predupredi-za-intenzivna-gripna-epidemija-news_2646514.html",
+      "pubDate": "2026-10-05T05:54:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/8f9ae00eaa423a06256715f01c7094b9_2646514_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Пожарът край Ивайловград е почти овладян",
+      "link": "https://offnews.bg/112/pozharat-kraj-ivajlovgrad-e-pochti-ovladian-875828.html",
+      "pubDate": "2026-10-05T05:53:07.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875828/php6wxyww_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6308
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "India news: Top court to hear petitions against Chief Election Commisioner Gyanesh Kumar",
+      "link": "https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commisioner-gyanesh-kumar/live-79542552?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T05:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Hundreds of French schools closed amid protests",
+      "link": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T05:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Сигурен балотаж и две възможни изненади: \"Алфа Рисърч\" за президентския вот",
+      "link": "https://www.actualno.com/politics/siguren-balotaj-i-dve-vyzmojni-iznenadi-alfa-risyrch-za-prezidentskija-vot-news_2646511.html",
+      "pubDate": "2026-10-05T05:46:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/7a23c0ddc24f1f01a3eb929950d363fa_2646511_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "22% спад на сделките: Виждаме ли началото на имотна криза?",
+      "link": "https://www.actualno.com/economy/22-spad-na-sdelkite-vijdame-li-nachaloto-na-imotna-kriza-news_2646510.html",
+      "pubDate": "2026-10-05T05:42:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/5cb6d07252f29d01d251ba5b06ee7e16_2646510_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Тръмп създава „Сили за суперинтелект“ за наблюдение на развитието на AI",
+      "link": "https://frognews.bg/novini/tramp-sazdava-sili-superintelekt-nabliudenie-razvitieto.html",
+      "pubDate": "2026-10-05T05:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/77438d988_1791178846_6ac3385ede873.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Стана ми лошо за цар Самуил по телевизията. По-лошо е за какво друго ослепяхме",
+      "link": "https://www.actualno.com/actualno/stana-mi-losho-za-car-samuil-po-televizijata-po-losho-e-za-kakvo-drugo-oslepjahme-news_2646501.html",
+      "pubDate": "2026-10-05T05:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/fd4a6632fe14e2f746081ba5106ffad8_2646501_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Ваксинират срещу COVID в столицата",
+      "link": "https://offnews.bg/zdrave/vaksinirat-sreshtu-covid-v-stolitcata-875826.html",
+      "pubDate": "2026-10-05T05:37:52.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875826/phptkqhfd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 3864
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
+      "link": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T05:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Четирима загинали в катастрофи през последното денонощие",
+      "link": "https://offnews.bg/112/chetirima-zaginali-v-katastrofi-prez-poslednoto-denonoshtie-875825.html",
+      "pubDate": "2026-10-05T05:34:56.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875825/phprtol31_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6607
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Кристален и мощен звук, топ шумопотискане и стил – отличителните черти на новите HUAWEI FreeBuds Neo",
+      "link": "https://www.actualno.com/sciencelogy/kristalen-i-moshten-zvuk-top-shumopotiskane-i-stil-otlichitelnite-cherti-na-novite-huawei-freebuds-neo-news_2644206.html",
+      "pubDate": "2026-10-05T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/28/c989ab3f1bb349bf274cccbc85d3383d_2644206_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Грипът вече е тук, започват безплатните ваксинации за деца",
+      "link": "https://frognews.bg/novini/gripat-veche-tuk-zapochvat-bezplatnite-vaksinatsii-detsa.html",
+      "pubDate": "2026-10-05T05:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/64955c98d_1791177171_6ac331d38cd5c.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Започва безплатната имунизация на деца срещу сезонния грип",
+      "link": "https://offnews.bg/zdrave/zapochva-bezplatnata-imunizatcia-na-detca-sreshtu-sezonnia-grip-875824.html",
+      "pubDate": "2026-10-05T05:02:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875824/php20kqg4_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7011
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "След потенциален опит за саботаж: Американските бомбардировачи напуснаха базата Феърфорд",
+      "link": "https://frognews.bg/novini/sled-potentsialen-opit-sabotaj-amerikanskite-bombardirovachi-napusnaha-bazata-fearford.html",
+      "pubDate": "2026-10-05T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a7268aecb_1791176465_6ac32f11e0ef4.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Бойци на Боко Харам избиха близо 30 жители на село в Нигерия",
+      "link": "https://offnews.bg/sviat/bojtci-na-boko-haram-izbiha-blizo-30-zhiteli-na-selo-v-nigeria-875823.html",
+      "pubDate": "2026-10-05T04:50:48.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/05/875823/phpigeagm_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7011
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Пиян с АТВ се заби във фонтан, двама пострадаха",
+      "link": "https://frognews.bg/novini/piian-atv-zabi-vav-fontan-dvama-postradaha.html",
+      "pubDate": "2026-10-05T04:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b4d1389a4_1791175821_6ac32c8d7702c.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Здравната инспекция в София започва имунизационна кампания за Covid-19",
+      "link": "https://www.mediapool.bg/bulgaria/zdravnata-inspektsiya-v-sofiya-zapochva-imunizatsionna-kampaniya-za-covid-19/",
+      "pubDate": "2026-10-05T04:49:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "САЩ изтеглиха самолетите си от британската база \"Феърфорд\"",
+      "link": "https://www.mediapool.bg/svyat/sasht-iztegliha-samoletite-si-ot-britanskata-baza-fearford/",
+      "pubDate": "2026-10-05T04:43:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Румъния търси премиер: Букурещ с нов опит за решаване на политическата криза",
+      "link": "https://frognews.bg/novini/rumaniia-tarsi-premier-bukuresht-nov-opit-reshavane-politicheskata-kriza.html",
+      "pubDate": "2026-10-05T04:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b45ff24d5_1791174955_6ac3292b8cfd0.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Иранският министър на петрола е подал оставка",
+      "link": "https://www.mediapool.bg/blizak-iztok/iranskiyat-ministar-na-petrola-e-podal-ostavka/",
+      "pubDate": "2026-10-05T04:34:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Украйна е поразила половината руски нефтени мощности. Москва продължава ударите",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/ukraina-e-porazila-polovinata-ruski-nefteni-moshtnosti-moskva-prodalzhava-udarite/",
+      "pubDate": "2026-10-05T04:27:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Преторианската гвардия на властта. Полъх от комунизма, скандали и слаб контрол",
+      "link": "https://www.mediapool.bg/pulse/pretorianskata-gvardiya-na-vlastta-polah-ot-komunizma-skandali-i-slab-kontrol/",
+      "pubDate": "2026-10-05T04:09:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "US: FBI arrests woman accused of spying for China",
+      "link": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T03:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "US military says it struck vessel in Caribbean, killing four - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnlnMlA2NTU4aWRPOFA1VUlXR2kwc1RNNWJOUk9VcGtrWG1JMFN2bm1HZTRFWnJFbktKd0pjaGNjcThoZ1dvS25meGY1MkY4QWVTbDFrcVR1S1N3dUt1RWFnMHJVUjhwRWMxVUdtR3pWNTV2Nk5ZMEhpeXQ3SzdzaU9WdktNRUpzUjBXaFFxcjBXamRJNW9uRzVpODNJVzA?oc=5",
+      "pubDate": "2026-10-05T02:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Financials, IT lift Indian shares as oil, Fed fears ease - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
+      "pubDate": "2026-10-05T02:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "Gold nudges lower as dollar holds firm - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+      "pubDate": "2026-10-05T02:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
+    {
+      "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVprczY5LXJrN3V2RGJsdy04X1QzV1kzTkhraE5zeVR4QjI1SWhLTmlJWkx5WEVCQWM2S01DU09URWQ2QmlpMTNwWVFtY1FxdnZWYnk1V0UyMlVkYk50V3AycWF6SUFUQWIzUHBFOGhIQW5lUE9HZWxDanY1ajNncXhWSVROSUNyOTUzckNtT3F5bUpXRHFaSTZmNzZ6TzluQjdZUVZOc1oxbzRDeEdEZnpBUWhOTFBldGtNOG9BR2lzZw?oc=5",
+      "pubDate": "2026-10-05T01:55:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T06:01:04.823Z"
+    },
     {
       "title": "US pulls bombers out of UK&apos;s Fairford airbase after arrests",
       "link": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-top-1022-rdf",
