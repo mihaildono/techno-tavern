@@ -1,9 +1,141 @@
 {
   "windowStart": "2026-10-04T15:32:38.376Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-05T06:01:04.823Z",
-  "totalItems": 105,
+  "lastUpdated": "2026-10-05T09:01:22.296Z",
+  "totalItems": 116,
   "items": [
+    {
+      "title": "Israel&apos;s mental health crisis in the wake of Oct. 7 attacks",
+      "link": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T08:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Israel observes October 7 anniversary with national memorial day",
+      "link": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T08:38:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
+      "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+      "pubDate": "2026-10-05T07:51:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "pubDate": "2026-10-05T07:46:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Germany news: Left Party sues economy minister at top court",
+      "link": "https://www.dw.com/en/germany-news-left-party-sues-economy-minister-at-top-court/live-79542789?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T07:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Spanish PM Sanchez calls snap election for November 29 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTJjNUhPek1FdG9yOFctRVBNTThSREE1SXZmZHBWLXNWV2dRUkFWRXVTZkJBOE13dnA1Y1d4MXBQVDNDZ09hOTAtd3llaUFKb0RST054Tm9OS3JOQU5tVHhQZ1diQjRFamFmYWdNRzVHREI3UmIzdGxEbVpKLVRaVFMtTzVpRnB4WE5DbXJ3Vk0tLWttdFFZRmY2b2FkcDY0?oc=5",
+      "pubDate": "2026-10-05T07:12:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Spanish Prime Minister Pedro Sanchez calls snap election",
+      "link": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T07:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Norway to propose temporary ban on AI glasses in some public places - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
+      "pubDate": "2026-10-05T07:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Spanish PM Sanchez calls snap election for November 29 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVhBVGZVY0xzcUZLLWZFWDNlODhjb3ZtaFowYm5WTEs5b0E0NGZ2alExMUhyU0dkY0VjdllLSkY0dVItUjlqUDU1MEhfU1kzM3lORWpWUXBPek9aXzVvNmhZcS15R1JtRDJHUktOX1BvbzcxenZoSE9YYVBFRllZbk80NXJWeWlJVDgteGJfVFp2VTJuaWNNNHNFWHpobHlIWVdRV3ljTml5U1NCaWZwU2d1Y19QODRuS19IemtmMA?oc=5",
+      "pubDate": "2026-10-05T06:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Yemen launches major military operation against Houthis",
+      "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-05T06:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+      "pubDate": "2026-10-05T06:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
+    {
+      "title": "European EV sales hit record in 'pivotal' year for affordable cars, study shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcF9raGxmUjJpXzVQQmNiWmNwT1B3d3I5VGVVNnBPUk5hTzlkZGlSMjRNOURObXI3TVJqQlhqNWFHWUVRTWFaT0toa054MWFGSzRfTGR0OXdOWWJwcnJ5cnBpTjhDWkM1cDhGMUhmaHFWV3pKRkItaWQyb2FheTFqVW1KTlVmVGdzb0xHVktkVGppSVZ4cDdvdUdoai03Q3pVYTlmNDVnaHE5WXY1Y2RWX2lOVzViZ0g4cXBpLVZTTTVVd1RCTG1BQkNPaHlwTXZJMDg5RnhB?oc=5",
+      "pubDate": "2026-10-05T05:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-05T09:01:22.296Z"
+    },
     {
       "title": "Ангел Кунчев предупреди за интензивна грипна епидемия",
       "link": "https://www.actualno.com/healthy/angel-kunchev-predupredi-za-intenzivna-gripna-epidemija-news_2646514.html",
@@ -1290,17 +1422,6 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
-      },
-      "firstSeen": "2026-10-04T18:00:59.498Z"
-    },
-    {
-      "title": "Вече 12 години няма осъдени за убийството на баща и син, извършителите са на свобода - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHVleG9RZnFwb1NCTUZ5UHZIM2VTd3dmM0pnTG9UTUkyUTBsSk9Vc3ZTNmxtcDFCYnhNTnNucmFtcVl4Y29EOUhlMnZ6di1PR2h1Z2g0MkNvNUF0bFlCSjNSNTk2T1VNWDY5RXo4WVJ2dFhMcjI1MzJPdlUtRnl3c2JaZzcyUUZkR0R4VV9GNms4b2oycmV4blpSSy1kOW80NFl0WllhUkI?oc=5",
-      "pubDate": "2026-10-04T08:38:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
       },
       "firstSeen": "2026-10-04T18:00:59.498Z"
     }
