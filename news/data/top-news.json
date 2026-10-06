@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-06T14:20:00.000Z",
-  "overview": "Денят беше доминиран от чумната инфекция в Иркутск, атаките с дронове в Черно море, масовите протести във Франция и продължаващата война в Украйна.",
+  "updatedAt": "2026-10-06T18:30:00.000Z",
+  "overview": "Водещата събития за деня са атаката с дронове срещу български търговски кораби в Черно море, която предизвиква политическа криза по време на президентските избори. В Свята се наблюдава паника от възможна чумна епидемия в Русия, докато Франсис Халзен получава Нобеловата награда по физика. В икономиката Paramount и Warner Bros се сливат в холивудски гигант, а в спорта Новак Джокович спечели China Open.",
   "stories": [
     {
-      "category": "Здравеопазване",
-      "headline": "Чумна инфекция в Иркутск: млада лаборантка умря, десетки под карантина",
-      "summary": "Млада лаборантка в институт за чума умря в Иркутск, а десетки души са поставени в карантина в Сибир. Руските власти твърдят, че ситуацията е под контрол, а СЗО не отчита нови руски инфекции след смъртта на работника. Предвидена е конференция по темата.",
-      "sources": ["OffNews", "Actualno", "Reuters", "DW"],
-      "ids": [107, 113, 66, 2, 11],
-      "link": "https://offnews.bg/sviat/ruskite-vlasti-za-chumata-v-irkutsk-vsichko-e-pod-kontrol-875879.html"
+      "category": "Политика",
+      "headline": "Дронове удират български търговски кораби в Черно море, избухва политическа криза",
+      "summary": "Два търговски кораба са атакувани с дронове в българските морски води, като един от тях потъна. Президентът Радев не знаел от кого са дроновете, а министърът на отбраната съобщава, че няма данни за техния произход. Политиците Андрей Гюров и Ивайло Мирчев изразяват безпокойство, че управляващите мълчат за произхода на атаката, а ДБ поставя въпроса дали Йотова е годна за президент.",
+      "sources": ["Mediapool", "FrogNews", "Dnevnik", "OffNews"],
+      "ids": [8, 12, 34, 36, 37, 47, 52, 53, 55],
+      "link": "https://www.mediapool.bg/bulgaria/dva-targovski-koraba-byaha-udareni-do-bulgaria-radev-ne-znael-ot-kogo-yotova-svika-ksns/"
     },
     {
       "category": "Свят",
-      "headline": "Два търговски кораба атакувани от дронове в българските морски води",
-      "summary": "Два търговски кораба са атакувани от дронове в българските морски води, включително турски кораб със зърно. Двама моряци от ударения с дрон кораб са с тежки травми. Украйна обвинява Русия за дроновете зад потъването на турския кораб.",
-      "sources": ["Mediapool", "FrogNews", "DW", "Dnevnik", "OffNews"],
-      "ids": [24, 59, 104, 10, 19],
-      "link": "https://www.mediapool.bg/bulgaria/absolyutno-nedopustimo-dva-targovski-koraba-sa-atakuvani-ot-dronove-v-balgarskite-morski-vodi/"
+      "headline": "САЩ призовават Русия за пълна информация след смърт от чума в лаборатория",
+      "summary": "След смъртта на лабораторен worker от чума в Русия, САЩ чрез Рубио изискват пълна информация. СЗО оценява рискът от епидемия като нисък, а Кремъл съобщава, че няма доказани случаи сред контактите. WHO потвърждава, че няма знаци за разпространение на заболяването.",
+      "sources": ["Actualno", "FrogNews", "Reuters", "DW"],
+      "ids": [7, 14, 33, 41, 43, 48],
+      "link": "https://www.actualno.com/america/rubio-kym-rusija-za-chumata-kajete-vsichko-dajte-pylnata-informacija-video-news_2647229.html"
     },
     {
-      "category": "Общество",
-      "headline": "Масови протести във Франция с над 5000 арестувани и 190 ранени",
-      "summary": "Протестите във Франция продължават с над 5000 арестувани и 190 ранени. Профсъюзите се присъединяват към ученическите демонстрации в цяла страна.",
-      "sources": ["DW", "FrogNews"],
-      "ids": [14, 34],
-      "link": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-top-1022-rdf"
+      "category": "Технологии",
+      "headline": "Франсис Халзен получава Нобеловата награда по физика за изследването на неутриното",
+      "summary": "Франсис Халзен е удостоен с Нобеловата награда по физика за работата му върху търсенето на „призрачните частици“ в Антарктида. Той е третият учен, който получава наградата за неутрино изследвания.",
+      "sources": ["Hacker News", "Reuters", "DW"],
+      "ids": [35, 39, 46],
+      "link": "https://www.nobelprize.org/prizes/physics/2026/"
     },
     {
-      "category": "Свят",
-      "headline": "Сепаратистите в Квебек печелят изборите и обещават нов референдум за отделяне от Канада",
-      "summary": "Сепаратистите в Квебек печелят изборите и обещават нов референдум за отделяне от Канада.",
-      "sources": ["DW", "FrogNews"],
-      "ids": [25, 29],
-      "link": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-top-1022-rdf"
+      "category": "Икономика",
+      "headline": "Paramount и Warner Bros се сливат в най-големия холивудски гигант",
+      "summary": "Paramount завършва сделката за сливане на Warner Bros, създавайки нов холивудски гигант Skydance. Сделката е описана като „мега-сливане“ и ще промени ландшафта на световните развлечения.",
+      "sources": ["DW", "Reuters"],
+      "ids": [18, 28],
+      "link": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Свят",
-      "headline": "Руска атака убива 6 души в Харков и разрушава жилища",
-      "summary": "Руската атака убива 6 души в Харков и разрушава жилища. Руските бомби удариха Харков, при което петима загинали и над 50 ранени.",
-      "sources": ["Reuters", "OffNews", "Actualno"],
-      "ids": [74, 84, 110],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWhndlZITGtvc0VrRjQ1ajNIYzlBY08yRTVDc1hnSm1vNUtmQWxXRnRtOEZnc1JzalQ0QjVickdiOFNaMTVzRjNzal9ZSFlxUk5WaERvQzdlNlRRYWVWTUxKdVEyeV92WWYydlpWLXdQdmg1TnhjQnlJQVlVRjNfbGZRSldBSDl5SnNwVEIzY21mUXV5R1RyV3NHOFlTc3FqbWlwSHBRUFRTSmdnV09ySw?oc=5"
+      "category": "Спорт",
+      "headline": "Новак Джокович спечели China Open, 102-а титла в кариерата",
+      "summary": "Новак Джокович е спечелил China Open, като си е взел титла №102 в кариерата. Съперникът Деминар се е отказал поради нараняване.",
+      "sources": ["FrogNews", "Reuters"],
+      "ids": [15, 26],
+      "link": "https://frognews.bg/novini/novak-djokovich-specheli-titla-102-karierata.html"
     }
   ]
 }
