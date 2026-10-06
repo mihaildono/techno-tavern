@@ -1,7 +1,421 @@
 {
   "windowStart": "2026-10-06T11:24:11.839Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-06T11:24:11.839Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-06T12:00:59.499Z",
+  "totalItems": 33,
+  "items": [
+    {
+      "title": "Nigerian military plane crash kills all 25 on board",
+      "link": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T11:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Francis Halzen wins Nobel Physics Prize for Antarctic 'ghost particle' hunt - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ?oc=5",
+      "pubDate": "2026-10-06T11:23:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Kenya reports first-ever Ebola death",
+      "link": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T11:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Fact check: Misleading claims spark plague fears in Russia",
+      "link": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T11:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "France tests upgraded nuclear missile against backdrop of Russia tensions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnFZRFNIWk9paTlwTFFMaXJrM1BwQUtRYndNQXZCcXJfMDBadlBXZm85R0VaRFRQa3VrM3UtSGtqbUc4dU1TbU1EeGk3ZTg5eE9Da0FseEtBN3I0aXRoaEpiVW5SQjUwQ3Y0NjlKSjdINU0tM1BlYlo3czk2U3dFbDJRYnhPOGlUeWgyVHlGRnFzUVNpVjBGbVEzdmxOMk43eE50Q2Z3dlFDYUs5NldpYzlkZzEtOGt6cFRuQS1uekl6SHBMM05rc0ZwRkp2dw?oc=5",
+      "pubDate": "2026-10-06T10:57:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Russia says no plague cases have been detected among contacts of deceased lab worker - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWZZWVdFaGFMQnJxN3F5OUVrekJPTXAtajVzazBrMnJSejlwMWFNdVRmdExVUXE0WWNjOXJPcmlJVXBTVXhYNHM0RDVTa3ZqU1pnUlNPcXJTdk1tMFVIdU5OM3IyNG9scm85cnoxZ2stcElVaEljMGFfZ0R6TUhoZkE5VF85MlVUNjRPTVdEbmRHYkFLUldMMFNUMXozOXJQb0Q4QzNoSjdpMXNoVDducTVKWG1tQ2p6VmVaQnNBRkZYZ1lEeXNlWWhHV3dsUnBrSUJJYTFJZGl5NjlHc1h3?oc=5",
+      "pubDate": "2026-10-06T10:32:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Kremlin warns Lithuania that its move to lift a nuclear arms ban risks further escalation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmQtenlCMkVCU2J2YWRBcHJQTERlMVRVWmY4ZDVUaXVEVHdGazlkZGVqdURreGh1MFRSTkhoWnhBbjZzVHVYekpUd3NHRl9rNDJ4ZXhRU04yQzhnTlZuVWpYLTNtSDlyUXplaERBWVY3eVhBbDMxR2tseUZQdkJVQVZuQVRwTDRZbmRmbEdJZ2tWWFo2b3F6eG9WSXVGMVp3RGx3ZnJLNWExejk4Q2FuQi13MUtFZ1FmdWlYbXk5VQ?oc=5",
+      "pubDate": "2026-10-06T10:09:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "AI models keep hacking real systems during tests. What does this mean?",
+      "link": "https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T10:05:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Nobel Physics Prize goes to Francis Halzen for neutrino work",
+      "link": "https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T09:54:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Ивайло Мирчев попита защо управляващите мълчат за произхода на атаката в Черно море - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5XRXE1S3JBZjUzNHpnWUs3OGF2ZjM1c0xNOTk2Rm5QbndXQ3M1OXFiWldOZVFrMm5lWThQN1FyVDBLM2c0YWdFbXlfTGJaQ2xIZDVqc3A0Z29OUGlsYkR4QkU5Q0c2RE4wQWpTbU1TZl8telBMT0JVMFlVVm5QYnc2a1RMcXE0SWQ5NGNsa1UwOHdsUExYWVl4WHdXSXlhYkN5UXNlT3Y?oc=5",
+      "pubDate": "2026-10-06T09:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "WHO says no signs of further Russian infections after plague lab worker dies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTHR1TVUzX1lUNHNDUEJkaGJyUEFVU09YZ3pud2ZIb1lMUXdzWkFJR2I3UjRPSEtrSDF4REdpblRUMlFsMW9RVjY4QWw0SVVxMnQ0bnRWSWJFV2N6ZWJDT0pVZHhmSWZoRDBsSEtNN1piOGVjWjJ4T19UMk0wNEVrUXpSanZ1UWZRLWQtZ29xM3dvc0JERjQ5aXpYN29JSTR5VjczbmZSSW1QVzc2R1J0Z1QwSmpFZVhidVFLZnZZSFQtRDExcU14SE1lSnNBeXpxc2RTanhDZGR5d1V1bWc?oc=5",
+      "pubDate": "2026-10-06T09:20:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Съдят управител на строителна фирма за смъртта на работник",
+      "link": "https://offnews.bg/temida/sadiat-upravitel-na-stroitelna-firma-za-smartta-na-rabotnik-875918.html",
+      "pubDate": "2026-10-06T08:36:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875918/phprrz5me_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5773
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "ДБ: Гафът с наркотрафикантите поставя въпроса годна ли е Йотова да бъде президент",
+      "link": "https://offnews.bg/politika/db-gafat-s-narkotrafikantite-postavia-vaprosa-godna-li-e-jotova-da-ba-875917.html",
+      "pubDate": "2026-10-06T08:35:20.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875917/phpphxxqd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6361
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "8 години затвор получи подсъдим за убийство с бухалка",
+      "link": "https://offnews.bg/temida/8-godini-zatvor-poluchi-podsadim-za-ubijstvo-s-buhalka-875916.html",
+      "pubDate": "2026-10-06T08:30:53.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875916/phpqthncv_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6457
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Андрей Гюров: Имаме ли президент, когато България е под атака?",
+      "link": "https://offnews.bg/politika/andrej-giurov-imame-li-prezident-kogato-balgaria-e-pod-ataka-875915.html",
+      "pubDate": "2026-10-06T08:24:52.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875915/php8zjqif_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5291
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Двама моряци от ударения с дрон кораб са с тежки травми",
+      "link": "https://offnews.bg/obshtestvo/dvama-moriatci-ot-udarenia-s-dron-korab-sa-s-tezhki-travmi-875914.html",
+      "pubDate": "2026-10-06T08:22:09.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875914/phpazuulq_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6592
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Илияна Йотова: Ще работя за Коалиция за мир в Украйна",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/iliyana-yotova-shte-rabotya-za-koalitsiya-za-mir-v-ukraina/",
+      "pubDate": "2026-10-06T07:16:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Абсолютно недопустимо: Два търговски кораба са атакувани от дронове в българските морски води",
+      "link": "https://www.mediapool.bg/bulgaria/absolyutno-nedopustimo-dva-targovski-koraba-sa-atakuvani-ot-dronove-v-balgarskite-morski-vodi/",
+      "pubDate": "2026-10-06T07:12:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Теглят номерата на машините за гласуване, които ще преминат удостоверяване за съответствие",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/teglyat-nomerata-na-mashinite-za-glasuvane-koito-shte-preminat-udostoveryavane-za-saotvetstvie/",
+      "pubDate": "2026-10-06T06:42:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Бившата говорителка на Белия дом Карълайн Левит става коментатор във \"Фокс Нюз\"",
+      "link": "https://www.mediapool.bg/svyat/bivshata-govoritelka-na-beliya-dom-karalain-levit-stava-komentator-vav-foks-nyuz/",
+      "pubDate": "2026-10-06T06:24:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Сепаратистите печелят Квебек – обещават нов референдум за отделяне от Канада",
+      "link": "https://frognews.bg/novini/separatistite-pecheliat-kvebek--obeshtavat-nov-referendum-otdeliane-kanada.html",
+      "pubDate": "2026-10-06T06:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/711c58530_1791266528_6ac48ee074c1b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "\"Тренд\": 47.8% за Йотова и 24.6% за Гюров",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/trend-478-za-yotova-i-246-za-gyurov/",
+      "pubDate": "2026-10-06T06:03:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "2/3 от електората на ГЕРБ и ДПС няма да гласува на първи тур: Според социолози на балотажа ще имаме \"чисто нови избори\"",
+      "link": "https://www.actualno.com/politics/23-ot-elektorata-na-gerb-i-dps-njama-da-glasuva-na-pyrvi-tur-spored-sociolozi-na-balotaja-shte-imame-chisto-novi-izbori-news_2646898.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/04a6d7c194f425b4161eb6518c48d65f_2646898_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Пожар на борда на френския ядрен самолетоносач",
+      "link": "https://www.actualno.com/europe/pojar-na-borda-na-frenskija-jadren-samoletonosach-news_2646897.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/bbf6d0de06dfc4d36a2d2f122b5bfdd1_2646897_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Огънят край Ивайловград остава нелокализиран и на третия ден",
+      "link": "https://frognews.bg/novini/oganyat-kray-ivaylovgrad-ostava-nelokaliziran-tretiya-den.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/af664d99a_gora_pojar.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "„Имаше заплахи“: Тръмп обясни защо САЩ изтеглиха бомбардировачите от Великобритания",
+      "link": "https://frognews.bg/novini/imashe-zaplahi-tramp-obyasni-zashto-sasht-iztegliha-bombardirovachite-velikobritaniya.html",
+      "pubDate": "2026-10-06T05:54:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/13f85170d_donald-trump-elections.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Силите на Йемен обявиха, че са изтласкали хутите от Баб ел Мандеб и ще се борят за столицата - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY19rY1pDeFhWaVh0eDdPWnlOZm1wSDRIY2dBeVFVX25JWXYtV3N6MlVzempaQlNvdHVGcWljX2hmUndtREZIcEdpcWxMa0RCZ0VGOW93cFFwckdpSVJTVkZsbS1IcnBnOXBPOEYteFd5czNOSXFfVl9DdlV6dWpia0NCWUVHWUM2UEx1c0g2Rk1FbkoyWUU1TW5ZaUFMTnNmeHhZ?oc=5",
+      "pubDate": "2026-10-06T05:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Изборите в Русия - като психоекспертиза за Петрохан",
+      "link": "https://www.actualno.com/actualno/izborite-v-rusija-kato-psihoekspertiza-za-petrohan-news_2646572.html",
+      "pubDate": "2026-10-06T05:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/d8d03145de9f7c6d1883aa90dcadecf3_2646572_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Спорт по ТВ днес - 6 октомври",
+      "link": "https://www.actualno.com/football/sport-po-tv-dnes-6-oktomvri-news_2646893.html",
+      "pubDate": "2026-10-06T05:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/6430f6bdc011160c12d5de5e1559f67b_2646893_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Цар Самуил: Дадохме на Гърция ценности, ще даваме още – министър Милошев отговори така ли е",
+      "link": "https://www.actualno.com/society/car-samuil-dadohme-na-gyrcija-cennosti-shte-davame-oshte-ministyr-miloshev-otgovori-taka-li-e-news_2646892.html",
+      "pubDate": "2026-10-06T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/02c8b72cc031f40edda6512772b1dfce_2646892_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Почина Джефри Арчър – автор на бестселъри и политик, стигнал до затвора",
+      "link": "https://frognews.bg/novini/pochina-dzhefri-archar-avtor-bestselari-politik-stignal-zatvora.html",
+      "pubDate": "2026-10-06T05:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/51ce90ad7_1791264372_6ac48674e3f88.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Над 5000 арестувани и 190 ранени: Ученическите протести във Франция продължават",
+      "link": "https://frognews.bg/novini/nad-5000-arestuvani-190-raneni-uchenicheskite-protesti-vav-frantsiia-prodaljavat.html",
+      "pubDate": "2026-10-06T05:06:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0aa636edf_1791263283_6ac482338a573.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    },
+    {
+      "title": "Започва дело срещу \"Гугъл\" във Великобритания за скрити такси в Play Store - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY19URkhKdkZWY2VIWFNQWi04U1ZKbHJsMkJoWEd5WEZSY014bTNMQXdDMkkzdmFLWi1MWmFHRWJlYlFjYmJDY0FlbmQ1ZWgtNHFDZDR5VXFfdWJKWWFlV25yUnpYZmd1eUFwek5kcWZJSGQ5WVdNeDhPX29iTFpnUkstYVotd2ZfU2RsaUtjMzFkbWR4bVd3RjQ1U3BleFduM05HNVV6VnRMdw?oc=5",
+      "pubDate": "2026-10-06T03:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-06T12:00:59.499Z"
+    }
+  ]
 }
