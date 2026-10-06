@@ -1,6 +1,199 @@
 {
   "items": [
     {
+      "title": "France: Trade unions join students in major demonstration",
+      "link": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T08:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Съдят управител на строителна фирма за смъртта на работник",
+      "link": "https://offnews.bg/temida/sadiat-upravitel-na-stroitelna-firma-za-smartta-na-rabotnik-875918.html",
+      "pubDate": "2026-10-06T08:36:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875918/phprrz5me_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5773
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "ДБ: Гафът с наркотрафикантите поставя въпроса годна ли е Йотова да бъде президент",
+      "link": "https://offnews.bg/politika/db-gafat-s-narkotrafikantite-postavia-vaprosa-godna-li-e-jotova-da-ba-875917.html",
+      "pubDate": "2026-10-06T08:35:20.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875917/phpphxxqd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6361
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "8 години затвор получи подсъдим за убийство с бухалка",
+      "link": "https://offnews.bg/temida/8-godini-zatvor-poluchi-podsadim-za-ubijstvo-s-buhalka-875916.html",
+      "pubDate": "2026-10-06T08:30:53.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875916/phpqthncv_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6457
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Андрей Гюров: Имаме ли президент, когато България е под атака?",
+      "link": "https://offnews.bg/politika/andrej-giurov-imame-li-prezident-kogato-balgaria-e-pod-ataka-875915.html",
+      "pubDate": "2026-10-06T08:24:52.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875915/php8zjqif_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5291
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Двама моряци от ударения с дрон кораб са с тежки травми",
+      "link": "https://offnews.bg/obshtestvo/dvama-moriatci-ot-udarenia-s-dron-korab-sa-s-tezhki-travmi-875914.html",
+      "pubDate": "2026-10-06T08:22:09.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/06/875914/phpazuulq_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6592
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Germany&apos;s ex-spy chief arrested for espionage",
+      "link": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T08:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Lithuania says it would pay the cost if US establishes military base - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFBpRWVGbDBPVG1FWWpSMGg0dEw4U1VzQllYTlRKenR3VUVvcVo0OGhOckhEWV96ME51MFI5YWQ0OUVDZHdoeERjSml2T1l4Z1RCTFBENGNpSWRCMjNCTXlUdHFwQ3JSREJmVEFiMV9lTmhRRFJrLWVBSHFOTVRjZHdUUUtLVFZBR2lGMmlNV0F2UmR0OW9oaWR0dlpOaTZ4OHZmWlFISFM1QQ?oc=5",
+      "pubDate": "2026-10-06T08:09:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
+      "pubDate": "2026-10-06T07:21:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Илияна Йотова: Ще работя за Коалиция за мир в Украйна",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/iliyana-yotova-shte-rabotya-za-koalitsiya-za-mir-v-ukraina/",
+      "pubDate": "2026-10-06T07:16:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Абсолютно недопустимо: Два търговски кораба са атакувани от дронове в българските морски води",
+      "link": "https://www.mediapool.bg/bulgaria/absolyutno-nedopustimo-dva-targovski-koraba-sa-atakuvani-ot-dronove-v-balgarskite-morski-vodi/",
+      "pubDate": "2026-10-06T07:12:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Canada: Quebec separatists return to power, promise new independence referendum",
+      "link": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T06:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Теглят номерата на машините за гласуване, които ще преминат удостоверяване за съответствие",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/teglyat-nomerata-na-mashinite-za-glasuvane-koito-shte-preminat-udostoveryavane-za-saotvetstvie/",
+      "pubDate": "2026-10-06T06:42:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Бившата говорителка на Белия дом Карълайн Левит става коментатор във \"Фокс Нюз\"",
+      "link": "https://www.mediapool.bg/svyat/bivshata-govoritelka-na-beliya-dom-karalain-levit-stava-komentator-vav-foks-nyuz/",
+      "pubDate": "2026-10-06T06:24:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Germany news: Saxony-Anhalt parliament sits after AfD win",
+      "link": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T06:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Сепаратистите печелят Квебек – обещават нов референдум за отделяне от Канада",
+      "link": "https://frognews.bg/novini/separatistite-pecheliat-kvebek--obeshtavat-nov-referendum-otdeliane-kanada.html",
+      "pubDate": "2026-10-06T06:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/711c58530_1791266528_6ac48ee074c1b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "\"Тренд\": 47.8% за Йотова и 24.6% за Гюров",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/trend-478-za-yotova-i-246-za-gyurov/",
+      "pubDate": "2026-10-06T06:03:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
       "title": "2/3 от електората на ГЕРБ и ДПС няма да гласува на първи тур: Според социолози на балотажа ще имаме \"чисто нови избори\"",
       "link": "https://www.actualno.com/politics/23-ot-elektorata-na-gerb-i-dps-njama-da-glasuva-na-pyrvi-tur-spored-sociolozi-na-balotaja-shte-imame-chisto-novi-izbori-news_2646898.html",
       "pubDate": "2026-10-06T05:58:00.000Z",
@@ -24,6 +217,32 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Огънят край Ивайловград остава нелокализиран и на третия ден",
+      "link": "https://frognews.bg/novini/oganyat-kray-ivaylovgrad-ostava-nelokaliziran-tretiya-den.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/af664d99a_gora_pojar.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "„Имаше заплахи“: Тръмп обясни защо САЩ изтеглиха бомбардировачите от Великобритания",
+      "link": "https://frognews.bg/novini/imashe-zaplahi-tramp-obyasni-zashto-sasht-iztegliha-bombardirovachite-velikobritaniya.html",
+      "pubDate": "2026-10-06T05:54:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/13f85170d_donald-trump-elections.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -66,8 +285,34 @@
       }
     },
     {
-      "title": "India news: Opposition leaders set to march to Election Commission",
-      "link": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-top-1022-rdf",
+      "title": "Почина Джефри Арчър – автор на бестселъри и политик, стигнал до затвора",
+      "link": "https://frognews.bg/novini/pochina-dzhefri-archar-avtor-bestselari-politik-stignal-zatvora.html",
+      "pubDate": "2026-10-06T05:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/51ce90ad7_1791264372_6ac48674e3f88.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Над 5000 арестувани и 190 ранени: Ученическите протести във Франция продължават",
+      "link": "https://frognews.bg/novini/nad-5000-arestuvani-190-raneni-uchenicheskite-protesti-vav-frantsiia-prodaljavat.html",
+      "pubDate": "2026-10-06T05:06:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0aa636edf_1791263283_6ac482338a573.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "India news: Opposition leaders march towards Election Commission",
+      "link": "https://www.dw.com/en/india-news-opposition-leaders-march-towards-election-commission/live-79557629?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-06T05:02:00.000Z",
       "thumbnail": null,
       "source": {
@@ -76,19 +321,9 @@
       }
     },
     {
-      "title": "Trump says taxpayers will no longer fund ads touting administration",
-      "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-ads-touting-administration/a-79557317?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-06T02:32:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5",
-      "pubDate": "2026-10-06T02:24:00.000Z",
+      "title": "Spain's housing crisis bursts into the spotlight at snap election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHNzQWxGOVhmOTVkNXVHTjRZOXpHVWlGMVVrX08wZXEtS201YV95aC1rMVppNGJLREozSjRlNGtXWGJ5R1U3MjVLUGtGbnNxdVJOdDZkQmsxU1hUUWg0c0tnQW44M0pCcENfbzJGdmwtZVQ3Rm5jU1dKT1RaZkhPT0J2bUlfZ3hzenVVWF9pSV9ib1l0NnRjT1JxRGNVMUs1X094UnlhRmN4UQ?oc=5",
+      "pubDate": "2026-10-06T05:01:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -96,9 +331,9 @@
       }
     },
     {
-      "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
-      "pubDate": "2026-10-06T02:13:00.000Z",
+      "title": "BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
+      "pubDate": "2026-10-06T04:28:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -106,95 +341,15 @@
       }
     },
     {
-      "title": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
-      "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-06T01:35:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Euro struggles as it faces political, fiscal reckoning - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
-      "pubDate": "2026-10-06T01:14:00.000Z",
+      "title": "Australian opposition party vows 'biggest cut to immigration' in country's history - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEo2a2dsTU9PdEhxV1BNU2lkTHpIWWFVWng3djF4RTdMMVpOSVAxTHVEamtwTlVhcFlwU1RvNlQ0dDVzS21YQ2JVWTRaM2hFWUhZRWZsalBMVnJLeW5majdNTDBJMEhSay1RN1R6ZWtfWDlVNEdUbkNVTktuUDlZQlN0akI3UXdaSTRVdHYtRk1hTVQzT0RLZ1hDakxYQUUwY2lCNEpnZkg5dXNIbWZVZktFcGhDZw?oc=5",
+      "pubDate": "2026-10-06T03:23:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
         "color": "#4169E1"
-      }
-    },
-    {
-      "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
-      "pubDate": "2026-10-06T00:56:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
-      "pubDate": "2026-10-06T00:39:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "link": "https://edworkingpapers.com/ai26-1551",
-      "pubDate": "2026-10-06T00:00:45.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "pubDate": "2026-10-05T22:55:11.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Find the flattest route between any two points in SF",
-      "link": "https://flattensf.com/",
-      "pubDate": "2026-10-05T21:40:50.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "link": "https://qlabs.sh/research/dust",
-      "pubDate": "2026-10-05T21:15:07.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "ICC unseals Taliban leaders&apos; warrants over persecuting women",
-      "link": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-05T21:07:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
       }
     }
   ],
-  "lastUpdated": "2026-10-06T06:01:20.463Z"
+  "lastUpdated": "2026-10-06T09:00:57.762Z"
 }
