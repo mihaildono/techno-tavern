@@ -1,7 +1,77 @@
 {
   "items": [
     {
-      "title": "New York declares first US measles disaster emergency since 2025 surge - reuters.com",
+      "title": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
+      "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-controversial-tv-ads-after-backlash/a-79557317?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T02:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
+      "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T01:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "link": "https://edworkingpapers.com/ai26-1551",
+      "pubDate": "2026-10-06T00:00:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
+      "pubDate": "2026-10-05T23:17:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "pubDate": "2026-10-05T22:55:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
+      "pubDate": "2026-10-05T22:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "pubDate": "2026-10-05T21:40:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "New York declares first US measles disaster emergency since 2025 surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3?oc=5",
       "pubDate": "2026-10-05T21:20:46.000Z",
       "thumbnail": null,
@@ -11,13 +81,13 @@
       }
     },
     {
-      "title": "Tate brothers used 'lover boy' model to exploit women, Britain says - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek51MXRqMVZFWnV2dk5xWEZTZjJZWnNoSTRWS2dHVXBweTFNZWVwcy1YaFMxUklyWWJvanVyTC1SUnZhSmxremZhYUlHbVo1aVNsR25mV0U4OWhvZ2k2TVNJajlhT0JIa0F0SGg2emNLV3h5Y19ZdnBfUnZrOTdXRFNJRG1jTmV6cVRhMFlGckp4WC1kRnE3SFcxZU9wUUxlcDV4SnhtY3NJUQ?oc=5",
-      "pubDate": "2026-10-05T21:15:37.000Z",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "pubDate": "2026-10-05T21:15:07.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -28,6 +98,16 @@
       "source": {
         "name": "DW",
         "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
+      "pubDate": "2026-10-05T20:54:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
       }
     },
     {
@@ -44,17 +124,7 @@
       }
     },
     {
-      "title": "McDonald's hit with class action alleging AI-powered menu price-fixing - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUw5Q0pUMS0waFlBSmFVcnpTNDNQQlByM0pOUWVtaGc3ekc3MnRVUkhPQjdlaDZxNUpIZ2R4TzFRN0ZGQ2NpOEdIR2ZNM3Nkc2FSMXZMaWN0MlctbzU4WlRSaFZvVm5jckp0N2tBcVJOb29PTDZiSGg0RURVZmhMN3h4NjVFeFYzQkM2UlREc3VPMGpjWEdMbUFKNUFlNGZaUHZB?oc=5",
-      "pubDate": "2026-10-05T20:19:41.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds - reuters.com",
+      "title": "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01hOUZVSEEyS0E3MkdRWEFjOHAwR3BYQzg0cE1GTXVPelBSWUstNVlzUGIyTXVva3ByV3lqMWIteWxpNFRtYVNMUi1wNmJzbmdQNHVlUEpzOGpZd1o2cTV4X3lkYzBUSS11YVJzU0NjaTR1SjZ5X1MxZ1hNeVhWX1kyQWgwd0owRF9aX3lpNlVPbmdhT3F0WFdkRTFXblE2NlRvM1lvTEtXeTUzYVRzWmtralp6cWo3WW9oUW56VHpwZw?oc=5",
       "pubDate": "2026-10-05T20:14:50.000Z",
       "thumbnail": null,
@@ -87,26 +157,6 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "GitHub Actions Has Problems",
-      "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-      "pubDate": "2026-10-05T20:09:12.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Trump says US will help Russia after Siberia plague institute death - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
-      "pubDate": "2026-10-05T20:05:43.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
       }
     },
     {
@@ -170,13 +220,29 @@
       }
     },
     {
-      "title": "Why Plain Text Is Still One of the Best Technologies We Have",
-      "link": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
-      "pubDate": "2026-10-05T18:54:00.000Z",
-      "thumbnail": null,
+      "title": "Украинско зърно, турска собственост и два дрона: Какво знаем за атаката в Черно море?",
+      "link": "https://frognews.bg/novini/ukrainsko-zarno-turska-sobstvenost-dva-drona-kakvo-znaem-atakata-cherno-more.html",
+      "pubDate": "2026-10-05T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/e5d2857b4_1791225137_6ac3ed3138368.webp",
+        "type": "image/webp"
+      },
       "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
+      "title": "Четвърти опит за кабинет в Румъния: Лука Никулеску е кандидатът за премиер",
+      "link": "https://frognews.bg/novini/chetvarti-opit-kabinet-rumaniya-luka-nikulesku-kandidatat-premier.html",
+      "pubDate": "2026-10-05T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f5be8290b_1791225700_6ac3ef64832de.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
       }
     },
     {
@@ -204,6 +270,19 @@
       }
     },
     {
+      "title": "Войникът оцелява на фронта, жена му е убита в Киев: Град под денонощни руски атаки",
+      "link": "https://frognews.bg/novini/voinikat-otseliava-fronta-jena-ubita-kiev-grad-pod-denonoshtni-ruski-ataki.html",
+      "pubDate": "2026-10-05T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/242a0ded1_1791218268_6ac3d25c114b9.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      }
+    },
+    {
       "title": "Ако в България не е имало читалища, нямаше да имаме и куклен театър",
       "link": "https://offnews.bg/kultura/ako-v-balgaria-ne-e-imalo-chitalishta-niamashe-da-imame-i-kuklen-teat-875866.html",
       "pubDate": "2026-10-05T17:50:17.000Z",
@@ -228,16 +307,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#00897B"
-      }
-    },
-    {
-      "title": "Denmark: Data of millions compromised in hack",
-      "link": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-05T17:46:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
       }
     },
     {
@@ -290,106 +359,7 @@
         "name": "OffNews",
         "color": "#E91E63"
       }
-    },
-    {
-      "title": "Жените изпитват повече болка, но тя по-често остава подценена и нелекувана",
-      "link": "https://frognews.bg/novini/zhenite-izpitvat-poveche-bolka-tya-chesto-ostava-podtsenena-nelekuvana.html",
-      "pubDate": "2026-10-05T17:05:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/944677086_1791219971_6ac3d903a592b.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Турция иска да превърна порт Джейхан в световен енергиен хъб",
-      "link": "https://www.mediapool.bg/biznes/turtsiya-iska-da-prevarna-port-dzheihan-v-svetoven-energien-hab/",
-      "pubDate": "2026-10-05T16:38:55.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Снаряд удари автобус на границата между Молдова и Украйна, граничар е ранен",
-      "link": "https://frognews.bg/novini/snariad-udari-avtobus-granitsata-mejdu-moldova-ukraina-granichar-ranen.html",
-      "pubDate": "2026-10-05T16:25:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/db629f853_1791217367_6ac3ced7aeac1.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "Испанският премиер Санчес свиква предсрочни избори след протести заради жилищната криза",
-      "link": "https://www.mediapool.bg/svyat/ispanskiyat-premier-sanches-svikva-predsrochni-izbori-sled-protesti-zaradi-zhilishtnata-kriza/",
-      "pubDate": "2026-10-05T16:24:55.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Отровна примамка уби черен лешояд от България, мъж в Сърбия беше осъден",
-      "link": "https://frognews.bg/novini/otrovna-primamka-ubi-cheren-leshoyad-balgariya-mazh-sarbiya-beshe-osaden.html",
-      "pubDate": "2026-10-05T16:15:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/bc9154e3d_1791216399_6ac3cb0f08f6c.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#00897B"
-      }
-    },
-    {
-      "title": "\"Асарел-Медет\" получи 55 млн. евро за ВЕИ и проучвания в рудника",
-      "link": "https://www.mediapool.bg/biznes/asarel-medet-poluchi-55-mln-evro-za-vei-i-prouchvaniya-v-rudnika/",
-      "pubDate": "2026-10-05T16:07:18.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Тити Папазов оглави баскетболната федерация",
-      "link": "https://www.mediapool.bg/sport/titi-papazov-oglavi-basketbolnata-federatsiya/",
-      "pubDate": "2026-10-05T16:05:14.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "The future of independence is interdependence",
-      "link": "https://onlys.ky/independence-is-interdependence/",
-      "pubDate": "2026-10-05T15:30:08.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Iran poised to exploit security vacuum as US leaves Iraq",
-      "link": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-05T14:04:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
     }
   ],
-  "lastUpdated": "2026-10-06T00:00:50.630Z"
+  "lastUpdated": "2026-10-06T03:01:05.477Z"
 }

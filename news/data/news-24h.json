@@ -1,9 +1,139 @@
 {
   "windowStart": "2026-10-05T16:09:50.052Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-06T00:00:50.659Z",
-  "totalItems": 75,
+  "lastUpdated": "2026-10-06T03:01:05.481Z",
+  "totalItems": 86,
   "items": [
+    {
+      "title": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
+      "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-controversial-tv-ads-after-backlash/a-79557317?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T02:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
+      "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T01:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "link": "https://edworkingpapers.com/ai26-1551",
+      "pubDate": "2026-10-06T00:00:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "pubDate": "2026-10-05T22:55:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
+      "pubDate": "2026-10-05T22:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "pubDate": "2026-10-05T21:40:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "pubDate": "2026-10-05T21:15:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
+      "pubDate": "2026-10-05T20:54:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Украинско зърно, турска собственост и два дрона: Какво знаем за атаката в Черно море?",
+      "link": "https://frognews.bg/novini/ukrainsko-zarno-turska-sobstvenost-dva-drona-kakvo-znaem-atakata-cherno-more.html",
+      "pubDate": "2026-10-05T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/e5d2857b4_1791225137_6ac3ed3138368.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Четвърти опит за кабинет в Румъния: Лука Никулеску е кандидатът за премиер",
+      "link": "https://frognews.bg/novini/chetvarti-opit-kabinet-rumaniya-luka-nikulesku-kandidatat-premier.html",
+      "pubDate": "2026-10-05T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f5be8290b_1791225700_6ac3ef64832de.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
+    {
+      "title": "Войникът оцелява на фронта, жена му е убита в Киев: Град под денонощни руски атаки",
+      "link": "https://frognews.bg/novini/voinikat-otseliava-fronta-jena-ubita-kiev-grad-pod-denonoshtni-ruski-ataki.html",
+      "pubDate": "2026-10-05T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/242a0ded1_1791218268_6ac3d25c114b9.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#00897B"
+      },
+      "firstSeen": "2026-10-06T03:01:05.481Z"
+    },
     {
       "title": "New York declares first US measles disaster emergency since 2025 surge - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3?oc=5",
