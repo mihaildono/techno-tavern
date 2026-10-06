@@ -161,6 +161,19 @@
                         updatedElem.textContent = `${dateStr}, ${timeStr}`;
                     }
 
+                    // Make the whole "Дневен обзор" card clickable via the first story's link
+                    const firstLink = data.stories.length > 0 && data.stories[0].link
+                        ? data.stories[0].link
+                        : "";
+                    if (firstLink) {
+                        summaryContainer.style.cursor = "pointer";
+                        summaryContainer.onclick = (e) => {
+                            // Don't open if user clicked a child (headline/source pills) to avoid double-open
+                            if (e.target !== summaryContainer) return;
+                            window.open(firstLink, "_blank");
+                        };
+                    }
+
                     storiesContainer.innerHTML = "";
                     data.stories.forEach((story) => {
                         const storyCard = document.createElement("div");
