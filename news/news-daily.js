@@ -28,17 +28,29 @@ function readArchive() {
 function digest() {
   const archive = readArchive();
 
-  const lines = archive.items
-    .filter((item) => item.title && item.source?.name)
-    .map((item, i) => `${i + 1}|${item.source.name}|${item.title.trim()}`);
-
   if (lines.length === 0) {
     console.error("❌ No articles in the 24h window");
     process.exit(1);
   }
 
-  fs.writeFileSync(DIGEST_FILE, lines.join("\n") + "\n");
-  console.log(`✅ news-digest.md — ${lines.length} articles`);
+  // Build a map of ids to original items for link preservation
+  const idToItem = new Map();
+  archive.items.forEach((item, idx) => {
+    if (item.title && item.source?.name && item.link) {
+      const lineId = idx + 1;
+      idToItem.set(lineId, item);
+    }
+  });
+
+  const linesWithLinks = archive.items
+    .filter((item) => item.title && item.source?.name && item.link)
+    .map((item, i) => {
+      const lineId = i + 1;
+      return `${lineId}|${item.source.name}|${item.title.trim()}`;
+    });
+
+  fs.writeFileSync(DIGEST_FILE, linesWithLinks.join("\n") + "\n");
+  console.log(`✅ news-digest.md — ${linesWithLinks.length} articles`);
 }
 
 function reset() {

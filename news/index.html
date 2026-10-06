@@ -83,7 +83,7 @@
             <!-- Feed Section Header -->
             <div class="feed-header">
                 <h2>Всички новини</h2>
-                <span class="feed-subtitle"></span>
+                <span class="feed-subtitle">Последните 3 часа</span>
             </div>
 
             <!-- news feed -->
@@ -179,14 +179,12 @@
                                </div>`
                             : "";
 
-                        storyCard.innerHTML = `
-                            <div class="summary-story-header">
-                                ${categoryBadge}
-                            </div>
-                            <div class="story-headline">${story.headline}</div>
-                            <p class="story-summary">${story.summary}</p>
-                            ${sourcesHtml}
-                        `;
+                        storyCard.innerHTML = `<div class="summary-story-header">
+                            ${categoryBadge}
+                        </div>
+                        <div class="story-headline" style="cursor: pointer;" onclick="window.open('${story.link}', '_blank')">${story.headline}</div>
+                        <p class="story-summary">${story.summary}</p>
+                        ${sourcesHtml}`;
                         storiesContainer.appendChild(storyCard);
                     });
 
