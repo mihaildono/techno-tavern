@@ -63,6 +63,7 @@ From the repository root (`~/Personal/techno-tavern`):
    - Write a clear, objective Bulgarian headline summarizing the event.
    - Write a 1-2 sentence summary in Bulgarian using ONLY facts, numbers, and names present in the input titles.
    - List the distinct sources covering the story and their corresponding line ids.
+   - Include the `link` field with the first source's URL from the matching input line (format: `id|source|title|link`).
 4. Provide a brief overall daily overview (1-2 sentences in Bulgarian) capturing the main highlights of the day.
 5. Strict accuracy: Do NOT hallucinate or invent details, numbers, or names not present in the input titles.
 
@@ -81,7 +82,8 @@ Write the resulting JSON directly into `news/data/top-news.json`:
       "headline": "Ясно заглавие на събитието",
       "summary": "1-2 изречения с фактическо обобщение на събитието.",
       "sources": ["SourceA", "SourceB"],
-      "ids": [1, 14]
+      "ids": [1, 14],
+      "link": "https://example.com/article"
     }
   ]
 }
