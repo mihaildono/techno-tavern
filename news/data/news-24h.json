@@ -1,9 +1,156 @@
 {
   "windowStart": "2026-10-05T16:09:50.052Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-06T03:01:05.481Z",
-  "totalItems": 86,
+  "lastUpdated": "2026-10-06T06:01:20.465Z",
+  "totalItems": 98,
   "items": [
+    {
+      "title": "2/3 от електората на ГЕРБ и ДПС няма да гласува на първи тур: Според социолози на балотажа ще имаме \"чисто нови избори\"",
+      "link": "https://www.actualno.com/politics/23-ot-elektorata-na-gerb-i-dps-njama-da-glasuva-na-pyrvi-tur-spored-sociolozi-na-balotaja-shte-imame-chisto-novi-izbori-news_2646898.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/04a6d7c194f425b4161eb6518c48d65f_2646898_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Пожар на борда на френския ядрен самолетоносач",
+      "link": "https://www.actualno.com/europe/pojar-na-borda-na-frenskija-jadren-samoletonosach-news_2646897.html",
+      "pubDate": "2026-10-06T05:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/bbf6d0de06dfc4d36a2d2f122b5bfdd1_2646897_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Изборите в Русия - като психоекспертиза за Петрохан",
+      "link": "https://www.actualno.com/actualno/izborite-v-rusija-kato-psihoekspertiza-za-petrohan-news_2646572.html",
+      "pubDate": "2026-10-06T05:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/05/d8d03145de9f7c6d1883aa90dcadecf3_2646572_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Спорт по ТВ днес - 6 октомври",
+      "link": "https://www.actualno.com/football/sport-po-tv-dnes-6-oktomvri-news_2646893.html",
+      "pubDate": "2026-10-06T05:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/6430f6bdc011160c12d5de5e1559f67b_2646893_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Цар Самуил: Дадохме на Гърция ценности, ще даваме още – министър Милошев отговори така ли е",
+      "link": "https://www.actualno.com/society/car-samuil-dadohme-na-gyrcija-cennosti-shte-davame-oshte-ministyr-miloshev-otgovori-taka-li-e-news_2646892.html",
+      "pubDate": "2026-10-06T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/06/02c8b72cc031f40edda6512772b1dfce_2646892_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "India news: Opposition leaders set to march to Election Commission",
+      "link": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T05:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Trump says taxpayers will no longer fund ads touting administration",
+      "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-ads-touting-administration/a-79557317?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-06T02:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5",
+      "pubDate": "2026-10-06T02:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
+      "pubDate": "2026-10-06T02:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Euro struggles as it faces political, fiscal reckoning - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnpLWGdYR3FxRDFJMFVCN1NDalZucm9sOHhNeWVSSzFTNEJhUi0tQWg3NjY1VS1XbGVsMlpGNFVOQkZ0OUNEWjNCclhwLUhrQUNhaElCQWhPeDZ5Q0cwQzUzSW5EWnAwSkF3R25FVGYwR2RRZnNfYzhfNlUtbnRKN3lMNDBKREhONjFpcjlSbHFuNkJMaG9JNWlOdDVKMEVNbUlLc3o5WmNjaXJRWHhB?oc=5",
+      "pubDate": "2026-10-06T01:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+      "pubDate": "2026-10-06T00:56:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
+    {
+      "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
+      "pubDate": "2026-10-06T00:39:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-06T06:01:20.465Z"
+    },
     {
       "title": "Trump says taxpayers will no longer fund controversial TV ads after backlash",
       "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-controversial-tv-ads-after-backlash/a-79557317?maca=en-rss-en-top-1022-rdf",
