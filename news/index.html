@@ -188,16 +188,19 @@
                                 ${story.sources.map(src => {
                                     const color = SOURCE_COLORS[src] || "#555";
                                     return `<span class="story-source-pill" style="background-color: ${color}">${src}</span>`;
-                                }).join("")}
+                                }).join("\n")}
                                </div>`
                             : "";
 
-                        storyCard.innerHTML = `<div class="summary-story-header">
-                            ${categoryBadge}
-                        </div>
-                        <div class="story-headline" style="cursor: pointer;" onclick="window.open('${story.link}', '_blank')">${story.headline}</div>
-                        <p class="story-summary">${story.summary}</p>
-                        ${sourcesHtml}`;
+                        // Wrap the entire story card content in a clickable area that opens the story's link
+                        storyCard.innerHTML = `<div class="story-clickable-area" style="cursor: pointer;" onclick="window.open('${story.link}', '_blank')">
+                            <div class="summary-story-header">
+                                ${categoryBadge}
+                            </div>
+                            <div class="story-headline">${story.headline}</div>
+                            <p class="story-summary">${story.summary}</p>
+                            ${sourcesHtml}
+                        </div>`;
                         storiesContainer.appendChild(storyCard);
                     });
 
