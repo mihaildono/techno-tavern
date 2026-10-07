@@ -53,8 +53,14 @@ const RSS_SOURCES = [
   {
     name: "FrogNews",
     url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frss.frognews.bg%2F",
-    color: "#00897B",
+    color: "#795548",
     type: "rss2json",
+  },
+  {
+    name: "Boulevard Bulgaria",
+    url: "https://boulevardbulgaria.bg/feed/",
+    color: "#FF5722",
+    type: "direct",
   },
   {
     name: "Reuters",
