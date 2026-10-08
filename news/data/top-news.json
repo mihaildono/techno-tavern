@@ -1,90 +1,46 @@
 {
-  "updatedAt": "2026-10-07T15:33:46.000Z",
-  "overview": "Денят беше доминиран от руския удар на два кораба в български води в Черно море и твърденията на Зеленски за руска комбинирана атака, докато Лео Меси сложи край на кариерата си в националния отбор на Аржентина, а в Германия бивш разузнавателен шеф е арестуван с обвинение в предателство.",
+  "updatedAt": "2026-10-08T19:02:17.000Z",
+  "overview": "Денят е доминиран от руската масирана атака върху Украйна за рождения ден на Путин и от новината, че канадската писателка Ан Карсън печели Нобеловата награда за литература 2026. Други водещи теми са смъртта на испанската пенсионерка, чиито протести свалиха правителството в Испания, политическият скандал с барутния завод на Гебрев и атаките над танкерите в Хюрмутския пролив.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Русия удари два кораба в български води в Черно море — Зеленски",
-      "summary": "Володимир Зеленски заяви, че с българската страна е установено, че Русия е ударила двата кораба, а това е руска комбинирана атака без украинска следа. Ударен от Русия неуправляем кораб се носи към българския бряг, а търсенето на екипажа на потъналия в Черно море кораб приключи без открити отломки от дронове.",
-      "sources": [
-        "Mediapool",
-        "Actualno",
-        "FrogNews",
-        "OffNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        58,
-        59,
-        97,
-        103,
-        108
-      ],
-      "link": "https://www.mediapool.bg/bulgaria/udaren-ot-rusiya-neupravlyavam-korab-se-nosi-kam-balgarskiya-bryag/"
+      "headline": "Най-смъртоносната руска атака върху Украйна от месеци остави поне 26 загинали, сред тях 5 деца",
+      "summary": "Фроунюс съобщава за 26 загинали, сред тях 5 деца, след масирана атака над Украйна за рождения ден на Путин. Дневник уточнява, че Русия удари автобуси в Краматорск, където най-малко 12 са загинали.",
+      "sources": ["FrogNews", "Дневник", "Свободна точка"],
+      "ids": [131, 56, 60],
+      "link": "https://frognews.bg/novini/26-zaginali-sred-tiah-5-detsa-masirana-ataka-nad-ukraina-rojdeniia-den-putin.html"
     },
     {
-      "category": "Спорт",
-      "headline": "Меси сложи край на кариерата си в националния отбор на Аржентина",
-      "summary": "Със 126-ия си гол Меси сложи край на кариерата си в националния отбор на Аржентина, подписвайки последната си мач с историческо представяне. Роналдо остава в международния футбол под облак, докато Меси излезе от него.",
-      "sources": [
-        "FrogNews",
-        "Reuters",
-        "DW"
-      ],
-      "ids": [
-        70,
-        73,
-        80
-      ],
-      "link": "https://frognews.bg/novini/sas-126-iia-gol-mesi-sloji-krai-karierata-natsionalniia-otbor-arjentina.html"
+      "category": "Култура",
+      "headline": "Канадската писателка Ан Карсън печели Нобеловата награда за литература 2026",
+      "summary": "Ройтерс потвърждава, че канадската писателка Ан Карсън е носителката на Нобеловата награда за литература 2026, а DW предлага запознатителни материали за творчеството ѝ.",
+      "sources": ["DW", "Ройтерс"],
+      "ids": [3, 49],
+      "link": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "Почина 87-годишната жена, чиито протести срещу жилищната криза свалиха правителството в Испания",
+      "summary": "Медиаpool съобщава за смъртта на 87-годишната жена, чиито протести свалиха испанското правителство. Офнюс уточнява, че историята ѝ предизвика вълна от протести срещу жилищната криза.",
+      "sources": ["Медиаpool", "Офнюс"],
+      "ids": [129, 118],
+      "link": "https://www.mediapool.bg/svyat/pochina-87-godishnata-zhena-zapalila-valnata-ot-protesti-i-svalila-pravitelstvoto-v-ispaniya/"
     },
     {
       "category": "Политика",
-      "headline": "Бивш шеф на германското разузнаване под арест с обвинение в предателство",
-      "summary": "Бившият върховен германски шпионин е поставен под официален арест, а скандалът заплашва националната сигурност на Германия. Бившият шеф на службата е изпратен в предварителен арест с обвинения в предателство, а Азербайджан отрече връзка със скандала.",
-      "sources": [
-        "Reuters",
-        "DW"
-      ],
-      "ids": [
-        26,
-        30,
-        37,
-        34
-      ],
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSU1UcTZhNEk4dDZ5bE9VQ3Fkc3ZMcHRiVXJDUGZyU1hDbS1FOGtNUmJINDE4WDY5Q1kxdUN1dktpMHVYejVHWWdHTUMtTWxsdlllYkM5X2NMLVB2VWxZTzZELWxpUGtGQU1UTk9ob2JJRmtaaFJJVXZaaGRnVVdONS0xOEo4T0Rsd1pJZC1wVDJ6aVBWckI3eU85Y2V2Zw?oc=5"
+      "headline": "Правителството одобри завода за барут на Гебрев, спрян преди това след натиск от Пеевски",
+      "summary": "Кабинетът разреши завода за барут на Гебрев, който беше спрян преди това след натиск от Пеевски.",
+      "sources": ["Свободна точка"],
+      "ids": [53],
+      "link": "https://svobodnatochka.bg/novini/kabinetat-razreshi-zavoda-za-barut-na-gebrev-koyto-beshe-spryan-sled-natisk-ot-peevski/"
     },
     {
-      "category": "Общество",
-      "headline": "Франция забрани на полицията да използва шокови гранати срещу протестиращите ученици",
-      "summary": "Франция забрани на полицията да използва шокови гранати срещу протестиращите ученици, след като белгийски ученици протестираха срещу разходите за образование в маниер, отявящ френските протести. Правителството търси начини да намали разходите сред вълната от протести.",
-      "sources": [
-        "Reuters",
-        "FrogNews",
-        "DW"
-      ],
-      "ids": [
-        4,
-        14,
-        31
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGgzY1o0NU95Wk4ybWJCbmt0NDhEaXVJLW1VOVNSUThfcXRsVHp5Sm9KcEZoVE9KYkpZVTFlbV8xMGk5X05MNlV5bXVPNWVQYXduVXJ4STM2ZEFTTUtvWkZWSmoyUHpoQTFnSU1HNTNRZ0dNRE5PdVNueVF2UjE5ZEtLSkxMWUw0M3huRFAxTW1WM3YxUmhzZDhOTzVmeERTdHJpNGQzaEY1RnBlX2c?oc=5"
-    },
-    {
-      "category": "Технологии",
-      "headline": "Нобеловата награда за химия за 2026 отива при Хенри Б. Каган и Кенсо Соаи",
-      "summary": "Нобеловата награда за химия 2026 беше присъдена на Хенри Б. Каган и Кенсо Соаи за решаване на мистерията с огледалните молекули.",
-      "sources": [
-        "Reuters",
-        "DW",
-        "Hacker News"
-      ],
-      "ids": [
-        38,
-        43,
-        35
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5"
+      "category": "Свят",
+      "headline": "Рискът от атаки върху танкери се покачва: Иран заплашва да блокира Хюрмутския пролив",
+      "summary": "Ройтерс съобщава, че атаките над танкерите засилват рисковете, а Иран заплашва да блокира още маршрути през Хюрмутския пролив. Данните показват най-ниските преминавания през пролива за повече от два месеца след атаките.",
+      "sources": ["Ройтерс"],
+      "ids": [5, 104],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5"
     }
   ]
 }
