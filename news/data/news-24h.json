@@ -1,7 +1,585 @@
 {
   "windowStart": "2026-10-08T16:04:46.169Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-08T16:04:46.169Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-08T16:05:50.972Z",
+  "totalItems": 47,
+  "items": [
+    {
+      "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
+      "link": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T15:31:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "US suspending permanent residency program for Microsoft, Vance says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+      "pubDate": "2026-10-08T15:07:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "2026 Nobel Prize winner Anne Carson: Where to start reading",
+      "link": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T14:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Гръцките тротоари като капан: Масова кражба на капаци на шахти застрашава пешеходците",
+      "link": "https://www.actualno.com/balkani/gryckite-trotoari-kato-kapan-masova-krajba-na-kapaci-na-shahti-zastrashava-peshehodcite-news_2648142.html",
+      "pubDate": "2026-10-08T14:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/08/ef3619031b3a87ae39f37317cc8e72ef_2648142_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Брюксел готви списък с особено критични за отбраната и зелените индустрии химикали",
+      "link": "https://www.mediapool.bg/biznes/bryuksel-gotvi-spisak-s-osobeno-kritichni-za-otbranata-i-zelenite-industrii-himikali/",
+      "pubDate": "2026-10-08T14:54:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "105 години музика: Националната музикална академия празнува с концерт на своите млади таланти",
+      "link": "https://offnews.bg/kultura/105-godini-muzika-natcionalnata-muzikalna-akademia-praznuva-s-kontcer-876111.html",
+      "pubDate": "2026-10-08T14:50:31.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/08/876111/php1spvce_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9559
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Завършилите висше образование у нас печелят средно около 1600 евро през последните 5 години",
+      "link": "https://offnews.bg/obshtestvo/zavarshilite-visshe-obrazovanie-u-nas-pecheliat-sredno-okolo-1600-evro-876109.html",
+      "pubDate": "2026-10-08T14:46:14.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/08/876109/phpcio1cp_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5282
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "„Няма информация, а и без това не ѝ вярваме“ – чума, страхове и недоверие към Москва",
+      "link": "https://frognews.bg/novini/niama-informatsiia-bez-tova-viarvame--chuma-strahove-nedoverie-kam-moskva.html",
+      "pubDate": "2026-10-08T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/afd482777_1791468573_6ac7a41d9c58b.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Брекзит отново на дневен ред в Лондон: Франция приветства Великобритания обратно в ЕС",
+      "link": "https://frognews.bg/novini/brekzit-otnovo-dneven-red-london-frantsiia-privetstva-velikobritaniia-obratno.html",
+      "pubDate": "2026-10-08T14:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/30bd01e52_1791470024_6ac7a9c8813ab.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Окончателно: Италия въвежда пропорционална избирателна система с бонус за победителя",
+      "link": "https://www.mediapool.bg/evropa/okonchatelno-italiya-vavezhda-proportsionalna-izbiratelna-sistema-s-bonus-za-pobeditelya/",
+      "pubDate": "2026-10-08T14:43:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Ex-prince Andrew search warrants quashed after police accept legal error - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWNYRlVDdWZNdGxtWktidHlhOG1uLUN0TWR1UDFlMzVpazNiWWF5RkVEbE01RDQ0VmxwRW5MWEhGQmxVbUQ4cVZjQUxBVlJRbEcyUlN4VVdncVprOXptLWZfYUtQaENGNUhJSGY0RnR0d3BlNE44N3drbjdub1VLZk9HdUNtSVhMbkZUTUtiMnpDc2JrSVRWQjgyVDMwSVZCbmNCYzZjMmJKUTdpNGg1N0c0dExRVTYw?oc=5",
+      "pubDate": "2026-10-08T14:42:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "EU envoy in Beijing for talks to calm trade tensions",
+      "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T14:42:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "India faces water and power stress after weak monsoon",
+      "link": "https://www.dw.com/en/india-faces-water-and-power-stress-after-weak-monsoon/a-79599540?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T14:40:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Show HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "link": "https://tanzaniaeducationproject.org/",
+      "pubDate": "2026-10-08T14:39:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Нов сезон с ново смарт устройство с до 250 евро отстъпка от Vivacom",
+      "link": "https://offnews.bg/tehnologii/nov-sezon-s-novo-smart-ustrojstvo-s-do-250-evro-otstapka-ot-vivacom-876107.html",
+      "pubDate": "2026-10-08T14:33:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/08/876107/phpzs9rzz_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6949
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Детето чудо на Реал Мадрид иска да напусне \"Бернабеу\" тази зима",
+      "link": "https://www.actualno.com/football/deteto-chudo-na-real-madrid-iska-da-napusne-bernabeu-tazi-zima-news_2648134.html",
+      "pubDate": "2026-10-08T14:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/08/3faa3dc4c706d1f5fb62c554ee6271a8_2648134_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Седеметажна сграда се срути в Истанбул: Има загинали (ВИДЕО)",
+      "link": "https://www.actualno.com/balkani/sedemetajna-sgrada-se-sruti-v-istanbul-ima-zaginali-video-news_2648131.html",
+      "pubDate": "2026-10-08T14:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/08/e2fc711b91478a9ac09373b493a3b73f_2648131_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
+      "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T14:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Генерал Залужни е политикът с най-висок рейтинг в Украйна",
+      "link": "https://offnews.bg/sviat/general-zaluzhni-e-politikat-s-naj-visok-rejting-v-ukrajna-876097.html",
+      "pubDate": "2026-10-08T14:23:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/08/876097/phpec7oid_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6522
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Гърция ще похарчи още 4 милиарда долара за отбрана",
+      "link": "https://offnews.bg/sviat/gartcia-shte-poharchi-oshte-4-miliarda-dolara-za-otbrana-876106.html",
+      "pubDate": "2026-10-08T14:23:25.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/08/876106/phpqymi2y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6351
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Външните министри на България и Северна Македония се срещнаха, но не се разбраха",
+      "link": "https://www.mediapool.bg/bulgaria/vanshnite-ministri-na-bulgaria-i-severna-makedoniya-se-sreshtnaha-no-ne-se-razbraha/",
+      "pubDate": "2026-10-08T14:23:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Верстапен отхвърли възможността да кара за най-емблематичния отбор във Формула 1",
+      "link": "https://www.actualno.com/moresport/verstapen-othvyrli-vyzmojnostta-da-kara-za-naj-emblematichnija-otbor-vyv-formula-1-news_2648128.html",
+      "pubDate": "2026-10-08T14:18:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/08/836865345f865264e692c3dd8747f8ce_2648128_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Обслужва \"руски интереси\": Командирът на ВВС осъди бившия военен министър Николай Ненчев за тези думи",
+      "link": "https://www.actualno.com/crime/obslujva-ruski-interesi-komandiryt-na-vvs-osydi-bivshija-voenen-ministyr-nikolaj-nenchev-za-tezi-dumi-news_2648127.html",
+      "pubDate": "2026-10-08T14:16:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/08/7b9a002eb0070e5fde723e7346b59bef_2648127_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Криста Пайк вече ходи след провалената екзекуция, но може да има трайни увреждания",
+      "link": "https://frognews.bg/novini/krista-paik-veche-hodi-sled-provalenata-ekzekutsiia-moje-ima-traini-uvrejdaniia.html",
+      "pubDate": "2026-10-08T14:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/48704c22d_1791468190_6ac7a29e27ad6.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Правителството одобри покупката на зенитно-ракетни комплекси за над 1,1 милиарда евро",
+      "link": "https://frognews.bg/novini/pravitelstvoto-odobri-pokupkata-zenitno-raketni-kompleksi-nad-1-1-miliarda-evro.html",
+      "pubDate": "2026-10-08T14:07:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8895d5bf3_1791468640_6ac7a4601a1fd.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Защо е малко вероятно да възникне глобалнa епидемия от белодробна чума",
+      "link": "https://frognews.bg/novini/zashto-malko-veroiatno-vaznikne-globalna-epidemiia-belodrobna-chuma.html",
+      "pubDate": "2026-10-08T14:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/de83312fc_1791468321_6ac7a3219debd.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "С музика, танц и видео Yettel отбеляза четвърт век история на свързаността",
+      "link": "https://www.mediapool.bg/laifstail/s-muzika-tants-i-video-yettel-otbelyaza-chetvart-vek-istoriya-na-svarzanostta/",
+      "pubDate": "2026-10-08T13:57:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Yettel отбеляза своята 25-а годишнина с разказ за историята на свързаността",
+      "link": "https://boulevardbulgaria.bg/articles/yettel-otbelyaza-svoyata-25-a-godishnina-s-razkaz-za-istoriyata-na-svarzanostta",
+      "pubDate": "2026-10-08T13:46:38.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxODI1LCJwdXIiOiJibG9iX2lkIn19--48d232064b3d8a975d0c2438332c82b5ad468369/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjoiODQ1eDQ3NV4iLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--021e32c6ae8b5e7a87f85489325a2992ca2ec991/Bogdan%20Uzelac%20Yettel%20Bulgaria.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Rubio says war in Ukraine is at a dangerous stalemate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2dOb0hWRm9jbGxxanhVcDJFNjZfblp1aHQwNjhHRzJUT1ZvVTRuTkNxMWJLTUhEcnZQSXFJcTVHMkpzZ0huUUgxcDRyYk5obEhlS0tZaDMwWE5Yemd3S2N5bVBEdVdOUk92ZzcyZ2h1SXN5RE9vYVNrcjlhRXNrcGt5ZlpaTnhJd2l0WklzUl91TTZLRFFzeDdn?oc=5",
+      "pubDate": "2026-10-08T13:29:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Сирия поиска независимо разследване за потопяването на кораба ALFA WATAN край България",
+      "link": "https://www.mediapool.bg/bulgaria/siriya-poiska-nezavisimo-razsledvane-za-potopyavaneto-na-koraba-alfa-watan-krai-bulgaria/",
+      "pubDate": "2026-10-08T13:29:03.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "link": "https://vale.rocks/posts/dvd-menus",
+      "pubDate": "2026-10-08T13:22:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
+      "pubDate": "2026-10-08T13:17:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Emporio Armani официално откри новия си магазин и Armani/Caffè в Бургас",
+      "link": "https://boulevardbulgaria.bg/articles/emporio-armani-ofitsialno-otkri-noviya-si-magazin-i-armani-caffe-v-burgas",
+      "pubDate": "2026-10-08T13:17:25.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxNzg4LCJwdXIiOiJibG9iX2lkIn19--3637470dc8d2ed0d424d072624dff9a70df891e9/IMG_3923.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Сирия иска обяснение от България защо е прекратено издирването на изчезналите моряци от Alfa Watan",
+      "link": "https://boulevardbulgaria.bg/articles/siriya-iska-obyasnenie-ot-balgariya-zashto-e-prekrateno-izdirvaneto-na-izcheznalite-moryatsi-ot-alfa-watan",
+      "pubDate": "2026-10-08T12:43:51.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxNjYxLCJwdXIiOiJibG9iX2lkIn19--07aa2d657a47e509d8c3679235829b637d17d9c1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxMDAsNzVdLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--edbbb16d3b72018e4dc398d7ef45a872cca39d82/%D0%91%D0%BE%D0%B9%D0%BA%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%B8%D1%87.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Smoke seen rising from aircraft at Riyadh airport - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzVCaER1RzJjVVpwOXVKUFhfX2VKOW9KWGlGUjVMOGxiNHExSFY5LVFtaHlGaklLamYzUWgtUHAtNkZmRXJFRzE1a3RBNlZSSXpMUC00VHZmWjF6ak9WSjdaTlEzS3NjYi1TMFZWM2NkSVhaMUM4a2NUTXJ3OXE1V0lMbHdwTlBkY1hNZ01lY0dQOElVbmNrTXk2WQ?oc=5",
+      "pubDate": "2026-10-08T12:40:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Telnet BBS Guide",
+      "link": "https://www.telnetbbsguide.com/",
+      "pubDate": "2026-10-08T12:28:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Картините зад гърба на героите - как киното ни учи да гледаме изкуство",
+      "link": "https://boulevardbulgaria.bg/articles/kartinite-zad-garba-na-geroite-kak-kinoto-ni-uchi-da-gledame-izkustvo",
+      "pubDate": "2026-10-08T12:01:58.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxNzQ0LCJwdXIiOiJibG9iX2lkIn19--450c48d8f181a180af0b29f96f633443bb68ed1d/baskiq.webp"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Защо всички говорят за Сюзън Дел след посещението ѝ в Белия дом",
+      "link": "https://boulevardbulgaria.bg/articles/syuzan-del",
+      "pubDate": "2026-10-08T11:48:23.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxODUzLCJwdXIiOiJibG9iX2lkIn19--1e9ea7272798222cf903e4786a5daac7fe0e5fc3/kolaj45.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Ученически протести във Франция изкараха 250 000 на улиците. Полицията беше обвинена в „непропорционална агресия“",
+      "link": "https://svobodnatochka.bg/novini/uchenicheski-protesti-vav-frantsiya-izkaraha-250-000-na-ulitsite-politsiyata-beshe-obvinena-v-neproportsionalna-agresiya/",
+      "pubDate": "2026-10-08T11:16:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Кабинетът разреши завода за барут на Гебрев, който беше спрян след натиск от Пеевски",
+      "link": "https://svobodnatochka.bg/novini/kabinetat-razreshi-zavoda-za-barut-na-gebrev-koyto-beshe-spryan-sled-natisk-ot-peevski/",
+      "pubDate": "2026-10-08T10:09:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Русия удари автобуси в Краматорск, най-малко 33-ма са загинали - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5",
+      "pubDate": "2026-10-08T08:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Шести блок на АЕЦ „Козлодуй“ спира за ремонт до декември. Другият блок е с намалена мощност заради ниското ниво на Дунав",
+      "link": "https://svobodnatochka.bg/novini/shesti-blok-na-aets-kozloduy-spira-za-remont-do-dekemvri-drugiyat-blok-e-s-namalena-moshtnost-zaradi-niskoto-nivo-na-dunav/",
+      "pubDate": "2026-10-08T08:34:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Прокуратурата ще разследва монтажа на мантинели на магистрала \"Хемус\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmlOSlVXTDVSbThJNnR5cFk3V1EwTGlBQ1hhQU8tVU9CdV9wdWNvVUFwQy1NMm8xUUFCbXVlZ2twNXZtRVdJSGpBY3YwYWlOT2Iwb0lBOTZJQjQ4SW5jdGxpQWtER2RXLWVVNWFjaFZGLUZKZUZLcnp2dW1VcTNvclY3RjJjaklpS1pwZVFPbzRWQUVWQ0ZVS1kxNExwbnBvM1Z4cERKaw?oc=5",
+      "pubDate": "2026-10-08T07:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "„Подаръкът, който Путин си направи за рождения ден“. Русия удари Украйна с най-смъртоносните атаки от месеци",
+      "link": "https://svobodnatochka.bg/novini/podarakat-koyto-putin-si-napravi-za-rozhdeniya-den-rusiya-udari-ukrayna-s-nay-smartnosnite-ataki-ot-mesetsi/",
+      "pubDate": "2026-10-08T06:51:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Защо България не посочва Русия като извършител на атаката с дронове срещу кораби в Черно море",
+      "link": "https://svobodnatochka.bg/analizi/zashto-balgariya-ne-posochva-rusiya-kato-izvarshitel-na-atakata-s-dronove-sreshtu-korabi-v-cherno-more/",
+      "pubDate": "2026-10-08T05:25:03.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "link": "https://mathstodon.xyz/@tao/117395269325940185",
+      "pubDate": "2026-10-08T05:14:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    },
+    {
+      "title": "Ще остане ли декан арестуваната за източване на касата лекарка: отговорът на университета - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODBfbEhEbFpiWTZYN3FuLXc2QVFyUUY3bldEcWx5X2Zod1lyZVNhS1RaZEE2eTJQVldXTzhmWkpUVUtqT2h3VDRRX3o5RGZjNUxMLVRseGNidlVzMUdpV3Q4YmtqdHFwb0Z2WmlkbzBaek1OeXc4T0djUHNLWDJ2WVNlRDRwRHVvNTFmeUFlSjZpTWNmZmxYa0swMkNuYTB5eVI3b2lWdnY?oc=5",
+      "pubDate": "2026-10-07T16:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-08T16:05:50.972Z"
+    }
+  ]
 }
