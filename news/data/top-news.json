@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-08T19:02:17.000Z",
-  "overview": "Денят е доминиран от руската масирана атака върху Украйна за рождения ден на Путин и от новината, че канадската писателка Ан Карсън печели Нобеловата награда за литература 2026. Други водещи теми са смъртта на испанската пенсионерка, чиито протести свалиха правителството в Испания, политическият скандал с барутния завод на Гебрев и атаките над танкерите в Хюрмутския пролив.",
+  "updatedAt": "2026-10-08T16:51:48Z",
+  "overview": "Денят бе маркиран от най-смъртоносните руски атаки в Украйна от месеци, при които най-малко 33 души загинаха при обстрела на Краматорск, и от дипломатическо напрежение около потопяването на кораба \"ALFA WATAN\" край България. В националната политика и икономика важни решения включват изборната система в Италия, срещата на български и северномакедонски външни министри и спирането на блок 6 на АЕЦ \"Козлодуй\" за ремонт до декември.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Най-смъртоносната руска атака върху Украйна от месеци остави поне 26 загинали, сред тях 5 деца",
-      "summary": "Фроунюс съобщава за 26 загинали, сред тях 5 деца, след масирана атака над Украйна за рождения ден на Путин. Дневник уточнява, че Русия удари автобуси в Краматорск, където най-малко 12 са загинали.",
-      "sources": ["FrogNews", "Дневник", "Свободна точка"],
-      "ids": [131, 56, 60],
-      "link": "https://frognews.bg/novini/26-zaginali-sred-tiah-5-detsa-masirana-ataka-nad-ukraina-rojdeniia-den-putin.html"
-    },
-    {
-      "category": "Култура",
-      "headline": "Канадската писателка Ан Карсън печели Нобеловата награда за литература 2026",
-      "summary": "Ройтерс потвърждава, че канадската писателка Ан Карсън е носителката на Нобеловата награда за литература 2026, а DW предлага запознатителни материали за творчеството ѝ.",
-      "sources": ["DW", "Ройтерс"],
-      "ids": [3, 49],
-      "link": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-top-1022-rdf"
+      "headline": "Русия удари Украйна с най-смъртоносните атаки от месеци — над 33 загинали при обстрела на Краматорск",
+      "summary": "Русия удари автобуси в Краматорск, при които най-малко 33 души са загинали. Свободна точка описва атаките като \"най-смъртоносните от месеци\".",
+      "sources": ["Dnevnik.bg", "Свободна точка"],
+      "ids": [41, 44],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Почина 87-годишната жена, чиито протести срещу жилищната криза свалиха правителството в Испания",
-      "summary": "Медиаpool съобщава за смъртта на 87-годишната жена, чиито протести свалиха испанското правителство. Офнюс уточнява, че историята ѝ предизвика вълна от протести срещу жилищната криза.",
-      "sources": ["Медиаpool", "Офнюс"],
-      "ids": [129, 118],
-      "link": "https://www.mediapool.bg/svyat/pochina-87-godishnata-zhena-zapalila-valnata-ot-protesti-i-svalila-pravitelstvoto-v-ispaniya/"
+      "headline": "Сирия поиска независимо разследване за потопяването на кораба \"ALFA WATAN\" край България",
+      "summary": "Сирия поиска независимо разследване за потопяването на кораба ALFA WATAN край България, след като издирването на изчезналите моряци беше прекратено и София поиска обяснение от Дамаск.",
+      "sources": ["Mediapool", "Boulevard Bulgaria"],
+      "ids": [30, 34],
+      "link": "https://www.mediapool.bg/bulgaria/siriya-poiska-nezavisimo-razsledvane-za-potopyavaneto-na-koraba-alfa-watan-krai-bulgaria/"
     },
     {
       "category": "Политика",
-      "headline": "Правителството одобри завода за барут на Гебрев, спрян преди това след натиск от Пеевски",
-      "summary": "Кабинетът разреши завода за барут на Гебрев, който беше спрян преди това след натиск от Пеевски.",
-      "sources": ["Свободна точка"],
-      "ids": [53],
-      "link": "https://svobodnatochka.bg/novini/kabinetat-razreshi-zavoda-za-barut-na-gebrev-koyto-beshe-spryan-sled-natisk-ot-peevski/"
+      "headline": "Италия въвежда пропорционална избирателна система с бонус за победителя",
+      "summary": "Окончателно: Италия въвежда пропорционална избирателна система с бонус за победителя, съобщи Mediapool по евроинформация.",
+      "sources": ["Mediapool"],
+      "ids": [10],
+      "link": "https://www.mediapool.bg/evropa/okonchatelno-italiya-vavezhda-proportsionalna-izbiratelna-sistema-s-bonus-za-pobeditelya/"
     },
     {
-      "category": "Свят",
-      "headline": "Рискът от атаки върху танкери се покачва: Иран заплашва да блокира Хюрмутския пролив",
-      "summary": "Ройтерс съобщава, че атаките над танкерите засилват рисковете, а Иран заплашва да блокира още маршрути през Хюрмутския пролив. Данните показват най-ниските преминавания през пролива за повече от два месеца след атаките.",
-      "sources": ["Ройтерс"],
-      "ids": [5, 104],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5"
+      "category": "Политика",
+      "headline": "Българският и северномакедонският външен министър се срещнаха, но не се разбраха",
+      "summary": "Външните министри на България и Северна Македония се срещнаха, но не се разбраха по ключовите въпроси, съобщи Mediapool.",
+      "sources": ["Mediapool"],
+      "ids": [21],
+      "link": "https://www.mediapool.bg/bulgaria/vanshnite-ministri-na-bulgaria-i-severna-makedoniya-se-sreshtnaha-no-ne-se-razbraha/"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Шести блок на АЕЦ \"Козлодуй\" спира за ремонт до декември",
+      "summary": "Шести блок на АЕЦ \"Козлодуй\" спира за ремонт до декември, а другият блок е с намалена мощност заради ниското ниво на Дунав.",
+      "sources": ["Свободна точка"],
+      "ids": [42],
+      "link": "https://svobodnatochka.bg/novini/shesti-blok-na-aets-kozloduy-spira-za-remont-do-dekemvri-drugiyat-blok-e-s-namalena-moshtnost-zaradi-niskoto-nivo-na-dunav/"
     }
   ]
 }
