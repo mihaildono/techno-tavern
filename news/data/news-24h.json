@@ -1,9 +1,236 @@
 {
   "windowStart": "2026-10-07T15:33:51.204Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-08T00:01:13.315Z",
-  "totalItems": 72,
+  "lastUpdated": "2026-10-08T02:44:09.718Z",
+  "totalItems": 91,
   "items": [
+    {
+      "title": "Радев след КСНС: Ударите по корабите са в полза на Русия, но това е само хипотеза",
+      "link": "https://boulevardbulgaria.bg/articles/radev-sled-ksns-udarite-po-korabite-sa-v-polza-na-rusiya-no-tova-e-samo-hipoteza",
+      "pubDate": "2026-10-07T15:12:06.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYxMDUzLCJwdXIiOiJibG9iX2lkIn19--e50ed79af6693b05dcb488cdc77a1a4d40af6762/КСНС ЙОтова дронове.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "Божанов поиска България да изпрати нота до Русия заради атаките в Черно море",
+      "link": "https://boulevardbulgaria.bg/articles/bozhanov-14a484d2-903e-4512-9224-6def48e4303c",
+      "pubDate": "2026-10-07T14:35:40.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYwOTczLCJwdXIiOiJibG9iX2lkIn19--ef2d3b5253ef7b543d13b8904834a7434da26e53/божанов3.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "СЗО иска повече информация от Русия заради съмненията за чума в Сибир",
+      "link": "https://boulevardbulgaria.bg/articles/szo-iska-poveche-informatsiya-ot-rusiya-zaradi-samneniyata-za-chuma-v-sibir",
+      "pubDate": "2026-10-07T14:04:58.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--b0e6623a2aa653b5fa5ef531abc32574f99fbac2/линейка.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "„Виждала е по-напред“. 20 години от убийството на Анна Политковская, която разследваше режима на Путин",
+      "link": "https://svobodnatochka.bg/istorii/vizhdala-e-po-napred-ot-drugi-hora-20-godini-ot-ubiystvoto-na-zhurnalistkata-anna-politkovskaya-koyato-razsledvashe-rezhima-na-putin/",
+      "pubDate": "2026-10-07T13:32:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "„Морска доблест“. Капитан Анатоли Златаров от българския ферибот, който спаси екипажа на нападнатия кораб ABLE",
+      "link": "https://svobodnatochka.bg/chovek-na-denya/morska-doblest-kapitan-anatoli-zlatarov-ot-balgarskiya-feribot-koyto-spasi-ekipazha-na-napadnatiya-korab-able/",
+      "pubDate": "2026-10-07T13:10:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "„Радев се страхува да назове Русия“. Тодор Тагарев пред Свободна точка",
+      "link": "https://svobodnatochka.bg/golemiyat-vapros/radev-se-strahuva-da-nazove-rusiya-todor-tagarev-pred-svobodna-tochka/",
+      "pubDate": "2026-10-07T11:52:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "Номинация на ДПС. Прокурорската колегия на ВСС предложи Магдалена Лазарова за временен главен прокурор",
+      "link": "https://svobodnatochka.bg/novini/glaven-prokuror/",
+      "pubDate": "2026-10-07T11:50:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "„Войната не е приключила“. Израел отбелязва три години от атаката на Хамас на 7 октомври",
+      "link": "https://svobodnatochka.bg/novini/voynata-ne-e-priklyuchila-izrael-otbelyazva-tri-godini-ot-atakata-na-hamas-na-7-oktomvri/",
+      "pubDate": "2026-10-07T11:19:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "Stereo MC’s отбелязват 35 години от албума Connected с концерт в София - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORi05bHVlcllBbmV5T0ZWZEJBSzNZWWFELVNFc0F4VjJlWDdFRGppQ0IzZTVuSlNkaXhvbmkxS2hBQUJIbVBFWjR2Vi1Pb3hTZkJBTXRoQUVSaDVfeU5YRVhYU2V4WlFBbXNoNFNpYXFUX0hrLUExY2s0WURySFZ2S3o4Z1NkZlktUHNKM3lXMFhmUndJZWZuTTRKczBZcHIyUDZZX2ExNnhXVm5MRmpJ?oc=5",
+      "pubDate": "2026-10-07T10:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "Радев: България ще купи още пет противовъздушни комплекса IRIS-T - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlF3aEM2QUZYbTVKSTA3WUZkb2lKWE9PbmFhVEhWeWkyWmw4el9zczZ4VHBsQjI1R2piQ0lWVVFzTmxGc0p3ekdlal95QnpScEdyT3VSTDEtNW5TOU8zeXRJZ2w0SmVLY1pNY2VvblR1ZXhTWENybGhZZmM2Mkl3Q3RaZXdjbmxQNjBHV3JsN3lkSF94cG1ucTI3NFpyLUtZeTZxalE5MA?oc=5",
+      "pubDate": "2026-10-07T07:38:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-08T02:44:09.718Z"
+    },
+    {
+      "title": "Задържаната за източване на НЗОК шефка на клиника по ревматология в Пловдив е направила самопризнания",
+      "link": "https://boulevardbulgaria.bg/articles/zadarzhanata-za-iztochvane-na-nzok-shefka-na-klinika-po-revmatologiya-v-plovdiv-e-napravila-samopriznaniya",
+      "pubDate": "2026-10-07T17:44:32.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY3MTQsInB1ciI6ImJsb2JfaWQifX0=--e688b58eeff0849a90a8df994cc46b1effcdcff0/умбал_св_георги_пловдив.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T02:37:55.794Z"
+    },
+    {
+      "title": "Шести блок на АЕЦ „Козлодуй“ спира за ремонт до края на ноември",
+      "link": "https://boulevardbulgaria.bg/articles/shesti-blok-na-aets-kozloduy-spira-za-remont-do-kraya-na-noemvri",
+      "pubDate": "2026-10-07T17:06:25.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk0NzQ3LCJwdXIiOiJibG9iX2lkIn19--beb4a7240b6c19fd36b18f1059dc42b8aae61a45/аец козлодуй.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-08T02:37:55.794Z"
+    },
+    {
+      "title": "IMF reaches tentative $1.21 billion bailout deal with Pakistan",
+      "link": "https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T02:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Asia shares subdued, bonds swamped by AI debt wave - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJkYkZhMHpnb0pNVlAyTTZGOEYtSno1YTJGRV9GYWRPSDg1WGxXNlFKUVY4VGVzc0RMLVVVVFFlamgzd3ROTjBXTndhYm5Ia0hwbDhaSXBCQWIzZDhQSGxGUWdoZndaZHV3YUgyd2NUb0FsTkNlYWRYYUFyN0tSWFlYbw?oc=5",
+      "pubDate": "2026-10-08T00:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Brazil: Thousands of students march against Bolsonaro",
+      "link": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-08T00:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg?oc=5",
+      "pubDate": "2026-10-07T22:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Wolfspeed secures $1.5 billion conditional loan commitment from US defense department - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTJJdnV3bjkwcHlyTEN2NkFfZk90VkUwYjQzS0wtMGpCUm9Rb1BtY3R6LWdPbDl1X1paM2o0UmZPMk84cTZnR0pQbmh2MlJUSW1LZGZwMGdnUVQ0QTE1Q3JPU3Y1Sm5nWE5Oa3l5ME5iejl1U3J2ckxDZUtDMExpaUUyUXBwZVFsczNpdXF2dDNIdHRmUFYxWjJMYWllWHZjN0ZveGtrcmdtU0lDLURYeklBOVlENnNaUEQxb3N2N0k?oc=5",
+      "pubDate": "2026-10-07T21:09:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Почина испанската пенсионерка, чиято история предизвика вълна от протести срещу жилищната криза в Испания",
+      "link": "https://offnews.bg/sviat/pochina-ispanskata-pensionerka-chiato-istoria-predizvika-valna-ot-pro-876036.html",
+      "pubDate": "2026-10-07T19:26:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/07/876036/phpxrd6hk_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 9503
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
+    {
+      "title": "Путин бил готов да посредничи за войната в Близкия изток",
+      "link": "https://offnews.bg/sviat/putin-bil-gotov-da-posrednichi-za-vojnata-v-blizkia-iztok-876034.html",
+      "pubDate": "2026-10-07T19:12:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/07/876034/phpeiwj8k_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5019
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-08T02:32:53.718Z"
+    },
     {
       "title": "Унгария даде зелена светлина за отварянето на два клъстера от преговорите за присъединяване на Украйна към ЕС",
       "link": "https://www.actualno.com/europe/ungarija-dade-zelena-svetlina-za-otvarjaneto-na-dva-klystera-ot-pregovorite-za-prisyedinjavane-na-ukrajna-kym-es-news_2647780.html",

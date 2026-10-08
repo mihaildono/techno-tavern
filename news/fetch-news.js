@@ -28,9 +28,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Свободна точка",
-    url: "https://svobodnatochka.bg/feed/",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsvobodnatochka.bg%2Ffeed%2F",
     color: "#FF9800",
-    type: "direct",
+    type: "rss2json",
   },
   {
     name: "Mediapool",
@@ -58,9 +58,9 @@ const RSS_SOURCES = [
   },
   {
     name: "Boulevard Bulgaria",
-    url: "https://boulevardbulgaria.bg/feed/",
+    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fboulevardbulgaria.bg%2Ffeed.atom",
     color: "#FF5722",
-    type: "direct",
+    type: "rss2json",
   },
   {
     name: "Reuters",
@@ -257,7 +257,7 @@ async function fetchFeedWithRetry(source, maxRetries = 3) {
 
 // --- Preserve old news on failure ---
 
-const MAX_ARTICLE_AGE_HOURS = 10;
+const MAX_ARTICLE_AGE_HOURS = 24;
 const SOURCE_TIMEZONE = "Europe/Sofia";
 
 function parseArticleDate(pubDate) {
