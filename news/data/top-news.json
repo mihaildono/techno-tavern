@@ -1,46 +1,72 @@
 {
-  "updatedAt": "2026-10-09T15:22:53Z",
-  "overview": "Нобелевата награда за мир отиде при бившия съдия на Международния наказателен съд Наванетем \"Нави\" Пилей; Украйна порази втори център за данни на \"Яндекс\"; французски студентски протести продължават след първа победа; българските депутати се изведоха на 10-дневна ваканция; Саудитска Арабия рискува да изгуби шанса си да домакини Световната купа 2034 заради спорове около стадиона Неом.",
+  "updatedAt": "2026-10-09T12:45:00Z",
+  "overview": "Денят започна с ескалация на войната — хути атакуваха летището в Рияд, при което загинаха трима души, а Украйна поразява втори център за данни на \"Яндекс\". В България вниманието е насочено към фалшивите бомбени заплахи, в които бе намесен Пеевски, към катастрофата край Плевен, след която загиват четирима младежи, и към срещата на Радев с буданов.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Навунетем \"Нави\" Пилей получи Нобелова награда за мир 2026 г.",
-      "summary": "Бившата съдия на Международния наказателен съд Наванетем Пилей бе отличена за усилията си да промотира мира и международното право, получавайки Нобеловата награда за мир 2026 г.",
-      "sources": ["Reuters"],
-      "ids": [28],
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Украйна нанесе удар по втори център за данни на \"Яндекс\" в рамките на 24 часа.",
-      "summary": "Кибератаките поразиха втори център за данни на \"Яндекс\" в рамките на 24 часа, съобщи самата компания, давайки представа за ескалацията на украинските ударни операции срещу руски инфраструктури.",
-      "sources": ["Mediapool", "Reuters"],
-      "ids": [43, 29],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/ukraina-nanese-udar-po-vtori-tsentar-za-danni-na-yandeks-v-ramkite-na-edno-denonoshtie/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Френските студенти продължават протестите след първа победа.",
-      "summary": "Френските студентски протестанти се заклеха да продължат борбата си, след като постигнаха първата си победа срещу правителствените мерки.",
-      "sources": ["Reuters"],
-      "ids": [17],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG41MmxpUTdXUldjM1JDZFlVbjVyRzEwQUhHS2x5OVZvbUY4T0xiZFl6MFF4VWx6RjBwbTdFMW5CN2VwNDRvU0lkU0QtVVJGUmh5dzlnUjFmaXdJckJLUkt5Y2lKeDRLQkgzeVRSWUxOQzF0dHJjcUkyRDR5c2xIQUI4ekVNUGU5TDlfRUJFb1k5NHN0SmU4NXlVLTdoMTN1bmZzV1RBR01DNFBQekw1YW1tTElmQQ?oc=5"
+      "headline": "Хути атакуваха летището в Рияд — петима убити, войната ескалира",
+      "summary": "Саудитска Арабия съобщи за хути удар върху летището в Рияд, при който загинаха трима саудитски граждани, сред които пилот; събитието се тълкува като ескалация на войната в региона.",
+      "sources": [
+        "Reuters",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        12,
+        25
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Депутатите си гласуваха 10 дни ваканция.",
-      "summary": "Българските народни представители приеха решение за 10 дни парламентарна ваканция, предизвикавайки дискусии в политическите кръгове.",
-      "sources": ["Mediapool"],
-      "ids": [47],
-      "link": "https://www.mediapool.bg/bulgaria/deputatite-si-glasuvaha-10-dni-vakantsiya/"
+      "headline": "Демерджиев намеси Пеевски във веригата от фалшиви бомбени заплахи",
+      "summary": "Министърът на вътрешните работи Симеон Демерджиев коментира вълната от фалшиви бомбени заплахи в страната, като посочи връзка между тях и полетите на депутата Делян Пеевски, и охарактеризира действията като хибридна операция за всяване на хаос.",
+      "sources": [
+        "Свободна точка",
+        "Dnevnik"
+      ],
+      "ids": [
+        37,
+        38
+      ],
+      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
       "category": "Общество",
-      "headline": "Саудитска Арабия рискува да изгуби шанса си да домакини Световната купа 2034 заради стадиона Неом.",
-      "summary": "Саудитската федерация по футбол отстъпва от искането си за Световна купа 2034 заради споровете около стадиона Неом, отдръпвайки се от амбициозния план.",
-      "sources": ["DW"],
-      "ids": [23],
-      "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-top-1022-rdf"
+      "headline": "Катастрофа край Плевен — четирима младежи загиват",
+      "summary": "При пътна катастрофа край Плевен загиват четирима младежи. Инцидентът оставя трагични последици за обществото.",
+      "sources": [
+        "Dnevnik"
+      ],
+      "ids": [
+        44
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHE0Z1JlS3p6Zm5NZnhyVXo1ak5xMWYwalpMZjlUd3N5SUtHa1FERENHLWpYMnpwUTRjdnFYOGM0UGt4VEJ2UGozZEtNR0NmSEptbW9RSlJoTDRWSkplQnhVU1prbVN5Y3Fid2NLaUlzOVBaQVlkQjVKYkc4ZHRWTEpOWjA2X0hHSW5iWWg4WG9NUGNvWW1BQjRtM1FkTmt2WGUyaA"
+    },
+    {
+      "category": "Свят",
+      "headline": "Украйна атакува втори център за данни на \"Яндекс\"",
+      "summary": "Украинските въоръжени сили проведоха нова атака със дронове, поразявайки втори център за данни на руския технологичен гигант \"Яндекс\".",
+      "sources": [
+        "OffNews"
+      ],
+      "ids": [
+        2
+      ],
+      "link": "https://offnews.bg/sviat/ukrajna-atakuva-s-dronove-vtori-tcentar-za-danni-na-iandeks-876180.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Радев се срещна с Кирило Буданов — официалната визита бе потвърдена",
+      "summary": "Президентът Румен Радев проведе конфиденциална среща с бившия началник на украинското военно разузнаване Кирило Буданов, като срещата бе официално потвърдена от правителството.",
+      "sources": [
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        23,
+        32
+      ],
+      "link": "https://frognews.bg/novini/pravitelstvoto-potvardi-sreshtata-radev-budanov-vizitata-bila-konfidentsialna.html"
     }
   ]
 }
