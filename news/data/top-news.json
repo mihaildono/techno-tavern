@@ -1,71 +1,45 @@
 {
-  "updatedAt": "2026-10-09T12:45:00Z",
-  "overview": "Денят започна с ескалация на войната — хути атакуваха летището в Рияд, при което загинаха трима души, а Украйна поразява втори център за данни на \"Яндекс\". В България вниманието е насочено към фалшивите бомбени заплахи, в които бе намесен Пеевски, към катастрофата край Плевен, след която загиват четирима младежи, и към срещата на Радев с буданов.",
+  "updatedAt": "2026-10-09T14:16:00Z",
+  "overview": "Денят е отбелязан с ескалация на международните конфликти — Саудитска коалиция отговаря на хути атака у Рияд, а Украйна поразява втори център за данни на „Яндекс“. В България вниманието е насочено към вълната от фалшиви бомбени заплахи, свързани с Пеевски, катастрофата край Плевен, в която загиват четирима младежи, и официалната среща на Радев с Буданов.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Хути атакуваха летището в Рияд — петима убити, войната ескалира",
-      "summary": "Саудитска Арабия съобщи за хути удар върху летището в Рияд, при който загинаха трима саудитски граждани, сред които пилот; събитието се тълкува като ескалация на войната в региона.",
-      "sources": [
-        "Reuters",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        12,
-        25
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5"
+      "headline": "Саудитска коалиция обещава „твърд“ отговор след атака у летището в Рияд, при който умират трима",
+      "summary": "Саудитска Арабия съобщава за удар срещу летището в Рияд, при който загинаха трима саудитски граждани, сред които пилот. Събитието се тълкува като ескалация на конфликта в региона.",
+      "sources": ["DW", "Boulevard Bulgaria"],
+      "ids": [1, 29],
+      "link": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Политика",
       "headline": "Демерджиев намеси Пеевски във веригата от фалшиви бомбени заплахи",
-      "summary": "Министърът на вътрешните работи Симеон Демерджиев коментира вълната от фалшиви бомбени заплахи в страната, като посочи връзка между тях и полетите на депутата Делян Пеевски, и охарактеризира действията като хибридна операция за всяване на хаос.",
-      "sources": [
-        "Свободна точка",
-        "Dnevnik"
-      ],
-      "ids": [
-        37,
-        38
-      ],
+      "summary": "Министърът на вътрешните работи Симеон Демерджиев посочи зависимост между фалшивите бомбени заплахи и полетите на Пеевски, като охарактеризира действията като хибридна операция за всяване на хаос.",
+      "sources": ["Свободна точка", "Dnevnik"],
+      "ids": [37, 38],
       "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
       "category": "Общество",
-      "headline": "Катастрофа край Плевен — четирима младежи загиват",
-      "summary": "При пътна катастрофа край Плевен загиват четирима младежи. Инцидентът оставя трагични последици за обществото.",
-      "sources": [
-        "Dnevnik"
-      ],
-      "ids": [
-        44
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHE0Z1JlS3p6Zm5NZnhyVXo1ak5xMWYwalpMZjlUd3N5SUtHa1FERENHLWpYMnpwUTRjdnFYOGM0UGt4VEJ2UGozZEtNR0NmSEptbW9RSlJoTDRWSkplQnhVU1prbVN5Y3Fid2NLaUlzOVBaQVlkQjVKYkc4ZHRWTEpOWjA2X0hHSW5iWWg4WG9NUGNvWW1BQjRtM1FkTmt2WGUyaA"
+      "headline": "Катастрофа край Плевен — четирима младежи загиват при 139 км/ч в зона от 70 км/ч",
+      "summary": "При пътна катастрофа край Плевен загиват четирима младежи. Автомобилът е движал с 139 км/ч при ограничение от 70 км/ч.",
+      "sources": ["FrogNews", "Dnevnik"],
+      "ids": [26, 45],
+      "link": "https://frognews.bg/novini/139-kmch-pri-ogranichenie-70-novi-podrobnosti-katastrofata-chetiri-jertvi-krai-pleven.html"
     },
     {
       "category": "Свят",
-      "headline": "Украйна атакува втори център за данни на \"Яндекс\"",
-      "summary": "Украинските въоръжени сили проведоха нова атака със дронове, поразявайки втори център за данни на руския технологичен гигант \"Яндекс\".",
-      "sources": [
-        "OffNews"
-      ],
-      "ids": [
-        2
-      ],
+      "headline": "Украйна атакува с дронове втори център за данни на „Яндекс“",
+      "summary": "Украинските въоръжени сили проведоха атака със дронове, поразявайки втори център за данни на руския технологичен гигант „Яндекс“.",
+      "sources": ["OffNews"],
+      "ids": [7],
       "link": "https://offnews.bg/sviat/ukrajna-atakuva-s-dronove-vtori-tcentar-za-danni-na-iandeks-876180.html"
     },
     {
       "category": "Политика",
       "headline": "Радев се срещна с Кирило Буданов — официалната визита бе потвърдена",
-      "summary": "Президентът Румен Радев проведе конфиденциална среща с бившия началник на украинското военно разузнаване Кирило Буданов, като срещата бе официално потвърдена от правителството.",
-      "sources": [
-        "FrogNews",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        23,
-        32
-      ],
+      "summary": "Президентът Румен Радев проведе среща с бившия началник на украинското военно разузнаване Кирило Буданов, като срещата бе официално потвърдена от правителството.",
+      "sources": ["FrogNews", "Boulevard Bulgaria"],
+      "ids": [28, 33],
       "link": "https://frognews.bg/novini/pravitelstvoto-potvardi-sreshtata-radev-budanov-vizitata-bila-konfidentsialna.html"
     }
   ]
