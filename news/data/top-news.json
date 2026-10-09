@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T09:07:36.781Z",
-  "overview": "Днес водещите събития включват тежката катастрофа край Плевен, при която четирима младежи загиват, докладвана от FrogNews, Mediapool и Dnevnik, и плана на Пентагона да излъчи на живо екзекуцията на осъден войник – първа такава в САЩ от 65 години, съобщава Медипул, Фронт Булевард и FrogNews. В световен мащаб Малайзия затвори училища заради токсичния дим от индонезийските пожари, докато в технологията OpenAI постигна пробив, решавейки над 370 нерешени математически задачи.",
+  "updatedAt": "2026-10-09T09:29:32.631Z",
+  "overview": "Днес водещите събития са тежката катастрофа край Плевен, при която четирима младежи загиват, докладвана от три източника, и планът на Пентагона за първата военна екзекуция в САЩ от 65 години. В света Етиопия се подготвя за „пълномащабно нашествие“ от Еритрея, а в технологията OpenAI постигат пробив, решавайки над 370 нерешени математически задачи.",
   "stories": [
     {
       "category": "Общество",
       "headline": "Четирима младежи загинаха при тежка катастрофа край Плевен",
       "summary": "На пътя Плевен – село Ясен се случи тежка катастрофа, при която четирима души загиваха. Случката е потвърдена от FrogNews, Mediapool и Dnevnik.",
       "sources": ["FrogNews", "Mediapool", "Dnevnik"],
-      "ids": [14, 16, 33],
+      "ids": [13, 16, 33],
       "link": "https://www.mediapool.bg/bulgaria/chetirima-sa-zaginali-pri-katastrofa-krai-pleven/"
     },
     {
       "category": "Свят",
-      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден войник",
-      "summary": "Пентагонът планира да излъчи на живо изпълнението на осъдения за масово убийство войник от Форт Худ, което ще бъде първата такава екзекуция на военен в САЩ от 65 години насам. Случката се съобщава от Медипул, Булевард България и FrogNews.",
+      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден за масово убийство войник",
+      "summary": "Пентагонът планира да излъчи на живо изпълнението на осъдения за масово убийство войник от Форт Худ, което ще бъде първата такава екзекуция на военен в САЩ от 65 години насам. Съобщават Медипул, Фронт Булевард и FrogNews.",
       "sources": ["Mediapool", "Boulevard Bulgaria", "FrogNews"],
-      "ids": [21, 41, 28],
+      "ids": [21, 28, 39],
       "link": "https://www.mediapool.bg/svyat/pentagonat-shte-izlachi-na-zhivo-ekzekutsiyata-na-osaden-za-masovo-ubiystvo/"
     },
     {
       "category": "Свят",
-      "headline": "Малайзия затвори училища заради токсичен дим от пожари в Индонезия",
-      "summary": "Малайзия затвори училища в някои райони заради токсичния дим от горските пожари в Индонезия, съобщава DW, докато Reuters съобщава за бюджет от 112,5 милиарда долара за 2027 година.",
-      "sources": ["DW", "Reuters"],
-      "ids": [9, 8],
-      "link": "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231"
+      "headline": "Етиопия се подготвя да се защити срещу „пълномащабно нашествие“ от Еритрея",
+      "summary": "Етиопия твърди, че трябва да се защити срещу „пълномащабно нашествие“ от Еритрея, съобщава Reuters.",
+      "sources": ["Reuters"],
+      "ids": [5],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc?oc=5"
     },
     {
       "category": "Технологии",
-      "headline": "OpenAI постигна пробив: AI решава над 370 нерешени математически задачи",
-      "summary": "OpenAI обявиха, че изкуственият им интелект е успял да реши над 370 нерешени досега математически задачи, представяйки нов исторически пробив в областта на машинното мислене и изчисленията, съобщава Actualno.",
+      "headline": "OpenAI постигат пробив: AI решава над 370 нерешени математически задачи",
+      "summary": "OpenAI обявиха, че изкуственият им интелект е успял да реши над 370 нерешени досега математически задачи, представяйки нов исторически пробив в областта на машинното мислене, съобщава Actualno.",
       "sources": ["Actualno"],
-      "ids": [10],
+      "ids": [9],
       "link": "https://www.actualno.com/sciencelogy/openai-predizvikva-matematokalipsis-ai-dade-reshenie-na-nad-370-neresheni-dosega-zadachi-news_2648282.html"
     },
     {
       "category": "Свят",
-      "headline": "САЩ наложиха нови санкции на Иран, този път срещу танкерите",
-      "summary": "САЩ наложиха нови санкции на Иран, този път насочени срещу иранските танкери, съобщава Dnevnik.",
-      "sources": ["Dnevnik"],
-      "ids": [45],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVE3dW9ULVFsMjFiY01Vam9FN2dhOXNMS2FSXzdYX0NqeTdOTXBaODJOaFlnYldjazRmeDFKS3U1VkJtNjdhWm9jU0RGMnlGUUg4X1cxZEk4WjIyQzgwOF94cUM2NTZPdEJPMVNMU0pmeldNX0V3ZG5JaEdNWWFwb0MyTXBkUl94RjUwRDdTNVRXZ0w1VmRBdGRpZ3Q2TVlac1hCNWV5SQ"
+      "headline": "Кремъл съгласен с Рубио: не вижда дипломатическо уреждане на войната в Украйна",
+      "summary": "Кремъл е съгласен със Сек Рубио, че не вижда възможност за дипломатическо уреждане на войната в Украйна, съобщава OffNews.",
+      "sources": ["OffNews"],
+      "ids": [23],
+      "link": "https://offnews.bg/sviat/kremal-saglasen-s-rubio-che-ne-vizhda-diplomatichesko-urezhdane-na-vo-876131.html"
     }
   ]
 }
