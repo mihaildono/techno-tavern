@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T14:09:00Z",
-  "overview": "Нобелова награда за мир за Наванетем 'Нави' Пилей; втори център на 'Яндекс' ударен от Украйна; парламентът си гласува 10 дни ваканция; фалшиви бомбени заплахи и намесата на Пеевски според Демерджиев; OpenAI AI реши над 370 нерешени математически задачи.",
+  "updatedAt": "2026-10-09T15:22:53Z",
+  "overview": "Нобелевата награда за мир отиде при бившия съдия на МОК Наванетем 'Нави' Пилей; Украйна порази втори център за данни на 'Яндекс'; французски студентски протести продължават след първа победа; българските депутати се изведоха на 10-дневна ваканция; Саудитска Арабия отблъсква предимството си за Световната купа 2034 заради проблем с стадиона Неом.",
   "stories": [
     {
       "category": "Свят",
       "headline": "Навунетем 'Нави' Пилей получи Нобелова награда за мир 2026 г.",
-      "summary": "Бившата съдия на Международния наказателен съд Наванетем Пилей е отличена за усилията си да промотира мира и международното право.",
+      "summary": "Бившата съдия на Международния наказателен съд Наванетем Пилей бе отличена за усилията си да промотира мира и международното право, получавайки Нобеловата награда за мир 2026 г.",
       "sources": ["Reuters", "DW"],
-      "ids": [3, 27],
-      "link": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020"
+      "ids": [28, 27],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Украйна нанесе удар по втори център за данни на 'Яндекс' за едно денонощие.",
-      "summary": "Кибератаките поразиха втори център за данни на 'Яндекс' в рамките на 24 часа, съобщи самата компания.",
+      "headline": "Украйна нанесе удар по втори център за данни на 'Яндекс' в рамките на 24 часа.",
+      "summary": "Кибератаките поразиха втори център за данни на 'Яндекс' в рамките на 24 часа, съобщи самата компания, давайки представа за ескалацията на украинските ударни операции срещу руски инфраструктури.",
       "sources": ["Mediapool", "Reuters"],
-      "ids": [18, 22],
+      "ids": [43, 29],
       "link": "https://www.mediapool.bg/voina-v-ukraina/ukraina-nanese-udar-po-vtori-tsentar-za-danni-na-yandeks-v-ramkite-na-edno-denonoshtie/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Френските студенти продължават протестите след първа победа.",
+      "summary": "Френските студентски протестанти се заклеха да продължат борбата си, след като постигнаха първата си победа срещу правителствените мерки.",
+      "sources": ["Reuters"],
+      "ids": [17],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG41MmxpUTdXUldjM1JDZFlVbjVyRzEwQUhHS2x5OVZvbUY4T0xiZFl6MFF4VWx6RjBwbTdFMW5CN2VwNDRvU0lkU0QtVVJGUmh5dzlnUjFmaXdJckJLUkt5Y2lKeDRLQkgzeVRSWUxOQzF0dHJjcUkyRDR5c2xIQUI4ekVNUGU5TDlfRUJFb1k5NHN0SmU4NXlVLTdoMTN1bmZzV1RBR01DNFBQekw1YW1tTElmQQ?oc=5"
     },
     {
       "category": "Политика",
       "headline": "Депутатите си гласуваха 10 дни ваканция.",
-      "summary": "Българските народни представители приеха решение за 10 дни парламентарна ваканция.",
+      "summary": "Българските народни представители приеха решение за 10 дни парламентарна ваканция, предизвикавайки дискусии в политическите кръгове.",
       "sources": ["Mediapool"],
-      "ids": [24],
+      "ids": [47],
       "link": "https://www.mediapool.bg/bulgaria/deputatite-si-glasuvaha-10-dni-vakantsiya/"
     },
     {
       "category": "Общество",
-      "headline": "Фалшиви бомбени заплахи целят хаос, Демерджиев намеси Пеевски.",
-      "summary": "Хибридната кампания от фалшиви бомбени заплахи цели всяване на хаос, а политикът намеси и Пеевски.",
-      "sources": ["Свободна точка", "Dnevnik"],
-      "ids": [19, 26],
-      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
-    },
-    {
-      "category": "Технологии",
-      "headline": "OpenAI предизвика 'математокалипсис': AI реши над 370 нерешени задачи.",
-      "summary": "Изкуственият интелект на OpenAI даде решения на над 370 нерешени досега математически задачи, съобщи Actualno.",
-      "sources": ["Actualno"],
-      "ids": [31],
-      "link": "https://www.actualno.com/sciencelogy/openai-predizvikva-matematokalipsis-ai-dade-reshenie-na-nad-370-neresheni-dosega-zadachi-news_2648282.html"
+      "headline": "Саудитска Арабия отблъсква предимството си за Световната купа 2034 заради проблем с стадиона Неом.",
+      "summary": "Саудитската федерация по футбол отстъпва от искането си да домакини световната купа 2034 г., заради споровете около стадиона Неом, отдръпвайки се от амбициозния план.",
+      "sources": ["DW", "Reuters"],
+      "ids": [23, 29],
+      "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
