@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T12:47:45.000Z",
-  "overview": "Денят започна с обявяването на Нобеловата награда за мир за 2026 г. за Наванетем «Нави» Пилай; следят се конфликти в Еритрея и Южна Африка, тежка катастрофа край Плевен с четирима загинали, предстоящото излъчване на военна екзекуция в САЩ и постижение на изкуствения интелект в математиката.",
+  "updatedAt": "2026-10-09T13:50:20.000Z",
+  "overview": "Днес водещи теми са хибридните операции и фалшивите бомбени заплахи, войната в Украйна с ударите по центровете на Яндекс, Нобеловата награда за мир за 2026 г., миграционната криза в Южна Африка и тежката катастрофа край Плевен.",
   "stories": [
     {
+      "category": "Общество",
+      "headline": "Фалшивите бомбени заплахи за пореден път целят всяване на хаос — Демерджиев намеси Пеевски",
+      "summary": "Демерджиев видя зависимост между бомбените заплахи и полетите на Пеевски, а Свободна точка описва фалшивите заплахи като хибридна операция за всяване на хаос. Reuters съобщи за арестуваните тийнейджъри след заплахи срещу училища в Полша.",
+      "sources": ["Reuters", "Dnevnik", "Свободна точка"],
+      "ids": [1, 2, 11],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjI1OUV4cXhJU0wwbDQtQnRENkdRbnJmZG5hOFFPWk9WUVFHLXdIOHFUeUJXMUdSTDFKSUhxazF2M25DNGRsd3lnWWZFSVQ5bGdPUFpnN050V1NjclNrdURSZElOWExvN1ltVy1tZUZkcklQWWlRVDVKQndnbS1HZEx0b2thb3BqWU9Gd3cwUkFNLUdUUFR5STdFcWZWUlI1Y3A0RmxlMFB4RjRSTFdUNHM0SGZpM3ZlRTZXRThDbDVTbzg?oc=5"
+    },
+    {
       "category": "Свят",
-      "headline": "Наванетем «Нави» Пилай печели Нобеловата награда за мир 2026 г.",
-      "summary": "Нобеловият комитет отличи Наванетем Пилай за усилията ѝ в подкрепата на мира и международното право. Наградата е обявена от Reuters и DW.",
+      "headline": "Украйна нанесе удар по втори център за данни на Яндекс за едно денонощие",
+      "summary": "Украйна нанесе удар по втори център за данни на Яндекс в рамките на едно денонощие, а Reuters потвърди, че вторият център за данни беше ударен от дрон атака. Зеленски праща преговарящи в САЩ, но Кремъл не вижда перспективи за преговори с Украйна.",
+      "sources": ["Mediapool", "Reuters"],
+      "ids": [4, 10, 13],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/zelenski-prashta-pregovaryashti-v-sasht-za-kremal-obache-nyama-perspektivi-pred-pregovorite-s-ukraina/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Навинетем \"Нави\" Пилей спечели Нобеловата награда за мир за 2026 г.",
+      "summary": "Южноафриканската Навинетем \"Нави\" Пилей печели Нобеловата награда за мир за 2026 г., а DW уточни, че наградата е за усилията ѝ да промовира мира и международното право.",
       "sources": ["Reuters", "DW"],
-      "ids": [1, 8],
+      "ids": [9, 18],
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Четирима загинаха в тежка катастрофа край Плевен",
-      "summary": "Тежък пътен инцидент между Плевен и село Ясен взе живота на четирима души — съобщават FrogNews, Mediapool и Dnevnik.",
-      "sources": ["FrogNews", "Mediapool", "Dnevnik"],
-      "ids": [13, 16, 33],
+      "headline": "Южна Африка свали миграционната си директива след антиимигрантско насилие",
+      "summary": "Южна Африка свали правителствената миграционна директива след насилствени протести, а Reuters потвърди, че директивата беше изтеглена след антиимигрантско насилие.",
+      "sources": ["DW", "Reuters"],
+      "ids": [6, 17],
+      "link": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Четирима души загинаха в тежка катастрофа край Плевен",
+      "summary": "Четирима души загинаха в тежка катастрофа на пътя Плевен — село Ясен, а Dnevnik потвърди, че четирима младежи загинаха в катастрофа край Плевен.",
+      "sources": ["FrogNews", "Dnevnik"],
+      "ids": [25, 42],
       "link": "https://frognews.bg/novini/chetirima-dushi-zaginaha-tezhka-katastrofa-patya-pleven-selo-yasen.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден за масово убийство",
-      "summary": "Първа екзекуция на военен в САЩ от 65 години насам ще се излъчва директно — стрелецът от Форт Худ бе осъден за масово убийство, съобщиха FrogNews, Mediapool и Boulevard Bulgaria.",
-      "sources": ["FrogNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [28, 21, 38],
-      "link": "https://frognews.bg/novini/parva-ekzekutsiia-voenen-sasht-65-godini-shte-izlachvat-jivo.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Южна Африка отменя приютен указ след анти-мигрантски вълни",
-      "summary": "Правителството на Южна Африка оттегли издадения през уикенда указ, който даде широките правомощия на служители за имигралция, след като той се смята за причина за насилството срещу чужденци. Решението е съобщено от Reuters и потвърдено от DW.",
-      "sources": ["Reuters", "DW"],
-      "ids": [7, 41],
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVldBelcxUlJ3Ym45QWtpUV9FX1hyV0dYQjZ3bG8yNndZbjNtdFVtbF93b0VBeHlmS25rSmNvczYtV01sbjJvV251VFBvY0JIU01UREhzZnBiT3pHRlF4U3dVeEJ5R0JycUVBd0d0ZVdocUhCLWRkbjJFb2t3RnVLRjIwUjF4Tng5ZDlqemdRRzFXbFR4bC16ZHVBWDVJMnIyVUdDOGRzaVlSSDEwMi1JWGFOTmVha2c?oc=5"
-    },
-    {
-      "category": "Технологии",
-      "headline": "ИИ на открити над 370 нерешени математически задачи",
-      "summary": "OpenAI съобщи, че неговият AI модел е дал решения на над 370 математически задачи, които остават нерешени от десетилетия. Съобщението е на Actualno.",
-      "sources": ["Actualno"],
-      "ids": [10],
-      "link": "https://www.actualno.com/sciencelogy/openai-predizvikva-matematokalipsis-ai-dade-reshenie-na-nad-370-neresheni-dosega-zadachi-news_2648282.html"
     }
   ]
 }
