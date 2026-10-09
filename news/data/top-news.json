@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T04:53:07Z",
-  "overview": "Над 30 загинали при руски удар по автобус в Краматорск оглавява дневния ред, заедно със стотици хиляди ученически протести във Франция и напрежение между Вашингтон и Техеран пред изборите.",
+  "updatedAt": "2026-10-09T05:15:00Z",
+  "overview": "Дневният ред се води от руските атаки в Украйна — най-малко 33 загинали при удар по автобус в Краматорск, докато Киев премина в режим на \"оцеляване\". На второ място са стотици хилядните ученически протести във Франция. В САЩ се обсъждат изстрелите в Ню Йорк срещу ICE агенти и решението на Пентагона да излъчва на живо изпълнението на стрелеца от Форт Худ.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Руски удар по автобус в Краматорск уби най-малко 33 цивилни",
-      "summary": "Руски удари по автобуси в Краматорск доведоха до смъртта на най-малко 33 души според Dnevnik, докато Boulevard Bulgaria посочва най-малко 30 жертви. Зеленски обвини САЩ в бездействие на фона на интензивните руски удари.",
-      "sources": ["Dnevnik", "Boulevard Bulgaria", "Actualno"],
-      "ids": [48, 38, 8],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Ученически протести във Франция: стотици хиляди на улиците",
-      "summary": "Ескалация на протестите във Франция включва палежи, сблъсъци и над 70 000 протестиращи ученици, съобщава FrogNews. Свободна точка посочва 250 000 излезли на улиците и обвинява полицията в непропорционална агресия.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [19, 47],
-      "link": "https://svobodnatochka.bg/novini/uchenicheski-protesti-vav-frantsiya-izkaraha-250-000-na-ulitsite-politsiyata-beshe-obvinena-v-neproportsionalna-agresiya/"
+      "headline": "Русия удари автобуси в Краматорск — най-малко 33 загинали, Киев в режим на \"оцеляване\"",
+      "summary": "Руски удари по автобуси в Краматорск доведоха до смъртта на най-малко 33 души според Dnevnik, докато Boulevard Bulgaria посочва най-малко 30 жертви. Зеленски обвини САЩ в бездействие на фона на интензивните руски удари, а в Киев спряха електротранспортът, токът и водата.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik", "Actualno", "Mediapool"],
+      "ids": [38, 48, 8, 16],
+      "link": "https://boulevardbulgaria.bg/articles/ruski-udar-sreshtu-avtobus-v-kramatorsk-ubi-nay-malko-30-tsivilni"
     },
     {
       "category": "Общество",
-      "headline": "Оръжие след изстрелите в Ню Йорк срещу ICE агенти",
-      "summary": "Мъж след изстрели в кола с дете в Ню Йорк, включващи ICE агенти, останаранен според DW. Рейтерс посочва, че извършителят стреля в автомобил с дете в присъствие.",
+      "headline": "Стотици хиляди ученически протести във Франция, полицията обвинена в \"непропорционална агресия\"",
+      "summary": "Ескалацията на протестите включва палежи и сблъсъци — FrogNews посочва над 70 000 протестиращи ученици, докато Свободна точка съобщава за 250 000 излезли на улиците.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [19, 47],
+      "link": "https://frognews.bg/novini/eskalatsiia-protestite-vav-frantsiia-paleji-sblasatsi-nad-70-000-protestirashti-uchenitsi.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Мъж в Ню Йорк стреля по кола с дете, в която са ICE агенти",
+      "summary": "Според DW човек е ранен при изстрели в Ню Йорк, а по-късно кметът на града потвърди, че извършителят е стрелял в автомобил с дете, в който са били ICE агенти.",
       "sources": ["DW", "Reuters"],
-      "ids": [1, 2],
+      "ids": [1, 9],
       "link": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "САЩ ще предават живо изпълнението на стрелца от Форт Худ",
-      "summary": "Пентагонът обяви, че ще излъчва на живо разстрела на стрелца от Форт Худ, съобщава Reuters. DW потвърждава съобщението от Пентагона.",
+      "headline": "Пентагонът ще излъчва на живо изпълнението на стрелеца от Форт Худ",
+      "summary": "Официално заявление на Пентагона съобщи за предаване на живо на арестното изпълнение на стрелеца от Форт Худ, което е потвърдено от DW.",
       "sources": ["Reuters", "DW"],
       "ids": [3, 4],
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1dUWkFxY2N1cVZHNDdrZWRCWVhCeTFaSnR0dzlqRERFT3ZMZWdscklER3JGOWVNczJ2c1N5cEZuU3NXdGQyYTVPSjlSQmdrUGxjNkQzWGZBbWRTU0FfNWktZ1huRGZRemhoOXdab1llSndxTERBNE5faF8ydV9laTFoYy01b1dZdFVUTDZQQmdmWVJQN1VURjBoX0hub0UxeVR6ZkxPQkVodDNfdk84eg?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Борисов обвини Радев и Йотова в търсене на най-свенливия текст за атаките в Черно море",
-      "summary": "Борисов обвини Радев и Йотова, че са търсели най-свенливия текст за атаките в Черно море, след като го подкрепи, съобщи Свободна точка.",
-      "sources": ["Свободна точка"],
-      "ids": [46],
-      "link": "https://svobodnatochka.bg/novini/borisov-obvini-radev-i-yotova-che-sa-tarseli-nay-svenliviya-tekst-za-atakite-v-cherno-more-sled-kato-go-podkrepi/"
+      "headline": "Тръмп: САЩ няма да атакуват Иран преди изборите, нови санкции намериха ирански танкери",
+      "summary": "Тръмп обеща да не атакува Иран преди междинните избори на 3 ноември, докато Dnevnik съобщи, че САЩ наложиха още санкции на Иран, този път на танкерите.",
+      "sources": ["OffNews", "Dnevnik"],
+      "ids": [23, 26],
+      "link": "https://offnews.bg/sviat/tramp-sasht-niama-da-atakuvat-iran-predi-mezhdinnite-izbori-na-3-noem-876123.html"
     }
   ]
 }
