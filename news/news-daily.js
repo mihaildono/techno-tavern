@@ -36,8 +36,32 @@ function digest() {
     });
 
   if (lines.length === 0) {
-    console.error("❌ No articles in the 24h window");
-    process.exit(1);
+    // 24h window was cleared (finish's news:reset) — fall back to the active
+    // news.json feed (last 10h) so the AI still has material to summarize.
+    const feedPath = path.join(__dirname, "data", "news.json");
+    if (fs.existsSync(feedPath)) {
+      console.warn("⚠️ No articles in the 24h window; falling back to news.json (10h active feed)");
+      const feed = JSON.parse(fs.readFileSync(feedPath, "utf8"));
+      const feedItems = Array.isArray(feed.items) ? feed.items : feed;
+      const fallbackLines = feedItems
+        .filter((item) => item.title && item.source?.name && item.link)
+        .map((item, i) => {
+          const lineId = i + 1;
+          return `${lineId}|${item.source.name}|${item.title.trim()}|${item.link}`;
+        });
+      if (fallbackLines.length === 0) {
+        console.error("❌ No articles anywhere — skipping digest generation");
+        fs.writeFileSync(DIGEST_FILE, "");
+        return;
+      }
+      fs.writeFileSync(DIGEST_FILE, fallbackLines.join("\n") + "\n");
+      console.log(`✅ news-digest.md — ${fallbackLines.length} articles (from news.json fallback)`);
+      return;
+    }
+    console.error("❌ No articles in the 24h window – skipping digest generation");
+    fs.writeFileSync(DIGEST_FILE, "");
+    console.log("✅ news-digest.md — empty (no articles in 24h window)");
+    return;
   }
 
   fs.writeFileSync(DIGEST_FILE, lines.join("\n") + "\n");
