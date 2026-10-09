@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Ukraine, Europe, US to meet in Miami for talks on ending war",
+      "link": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T03:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "What should we tell our students?",
+      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "pubDate": "2026-10-09T02:27:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Reducing undefined behavior in the C language",
+      "link": "https://lwn.net/Articles/1095811/",
+      "pubDate": "2026-10-09T02:02:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Man injured after New York shooting involving ICE",
       "link": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-09T00:16:00.000Z",
@@ -156,16 +186,6 @@
       }
     },
     {
-      "title": "Afghan women facing arrest for dress code violations: UN",
-      "link": "https://www.dw.com/en/afghan-women-facing-arrest-for-dress-code-violations-un/a-79605758?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-08T20:37:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
       "title": "В Киев заради руските атаки спряха електротранспортът, токът и водата. Градът преминава в режим на \"оцеляване\"",
       "link": "https://www.mediapool.bg/voina-v-ukraina/v-kiev-zaradi-ruskite-ataki-spryaha-elektrotransportat-tokat-i-vodata-gradat-preminava-v-rezhim-na-otselyavane/",
       "pubDate": "2026-10-08T20:20:49.000Z",
@@ -225,16 +245,6 @@
       }
     },
     {
-      "title": "The value of not getting to the point (2015)",
-      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "pubDate": "2026-10-08T19:04:56.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Граждани с отворено писмо срещу въвеждането на „Добродетели и религии“ в училищата",
       "link": "https://frognews.bg/novini/grajdani-otvoreno-pismo-sreshtu-vavejdaneto-dobrodeteli-religii-uchilishtata.html",
       "pubDate": "2026-10-08T19:03:00.000Z",
@@ -273,16 +283,6 @@
       "source": {
         "name": "OffNews",
         "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
-      "link": "https://github.com/p10node/k10s",
-      "pubDate": "2026-10-08T18:29:06.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       }
     },
     {
@@ -551,5 +551,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-09T03:00:58.821Z"
+  "lastUpdated": "2026-10-09T03:08:44.589Z"
 }
