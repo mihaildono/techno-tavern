@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T09:13:00.000Z",
-  "overview": "Днес водещите събития включват трагическата катастрофа край Плевен, при която четирима младежи загиват, и Пентагоното, което ще излъчи на живо екзекуция, ще бъде първата такава в САЩ от 65 години. В света продължава войната в Украйна, където Русия удря автобуси в Краматорск, причивайки стотици жертви, докато в технологичната сфера OpenAI постига нов исторически пробив, решавайки над 370 досега нерешени математически задачи.",
+  "updatedAt": "2026-10-09T09:07:36.781Z",
+  "overview": "Днес водещите събития включват тежката катастрофа край Плевен, при която четирима младежи загиват, докладвана от FrogNews, Mediapool и Dnevnik, и плана на Пентагона да излъчи на живо екзекуцията на осъден войник – първа такава в САЩ от 65 години, съобщава Медипул, Фронт Булевард и FrogNews. В световен мащаб Малайзия затвори училища заради токсичния дим от индонезийските пожари, докато в технологията OpenAI постигна пробив, решавейки над 370 нерешени математически задачи.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Четирима младежи загинаха при катастрофа край Плевен",
-      "summary": "На пътя Плевен – село Ясен се е случила тежка катастрофа, при която четирима души са загинали. Случкото е потвърдено от FrogNews, Mediapool и Dnevnik.",
+      "headline": "Четирима младежи загинаха при тежка катастрофа край Плевен",
+      "summary": "На пътя Плевен – село Ясен се случи тежка катастрофа, при която четирима души загиваха. Случката е потвърдена от FrogNews, Mediapool и Dnevnik.",
       "sources": ["FrogNews", "Mediapool", "Dnevnik"],
-      "ids": [9, 11, 29],
-      "link": "https://frognews.bg/novini/chetirima-dushi-zaginaha-tezhka-katastrofa-patya-pleven-selo-yasen.html"
+      "ids": [14, 16, 33],
+      "link": "https://www.mediapool.bg/bulgaria/chetirima-sa-zaginali-pri-katastrofa-krai-pleven/"
     },
     {
       "category": "Свят",
-      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден за масово убийство",
-      "summary": "Пентагонът планира да излъчи на живо изпълнението на осъдения за масово убийство стрелец от Форт Худ, което ще бъде първата такава екзекуция на военен в САЩ от 65 години насам.",
+      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден войник",
+      "summary": "Пентагонът планира да излъчи на живо изпълнението на осъдения за масово убийство войник от Форт Худ, което ще бъде първата такава екзекуция на военен в САЩ от 65 години насам. Случката се съобщава от Медипул, Булевард България и FrogNews.",
       "sources": ["Mediapool", "Boulevard Bulgaria", "FrogNews"],
-      "ids": [16, 37, 23],
+      "ids": [21, 41, 28],
       "link": "https://www.mediapool.bg/svyat/pentagonat-shte-izlachi-na-zhivo-ekzekutsiyata-na-osaden-za-masovo-ubiystvo/"
     },
     {
       "category": "Свят",
-      "headline": "Русия удари автобуси в Краматорск, най-малко 33-ма са загинали",
-      "summary": "Русия нанесе удари по автобуси в Краматорск, Украйна, при което най-малко 33 цивилни загинали, съобщава Dnevnik, в продължение на продължаващите руски нападения в Украйна.",
-      "sources": ["Dnevnik"],
-      "ids": [48],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Кремъл съгласен с Рубио: не вижда дипломатическо уреждане на войната в Украйна",
-      "summary": "Москва е съгласна със съображенията на Вашингтон, че не се вижда път за дипломатическо уреждане на конфликта в Украйна, съобщава OffNews, продължавайки международната изолация на Русия.",
-      "sources": ["OffNews"],
-      "ids": [18],
-      "link": "https://offnews.bg/sviat/kremal-saglasen-s-rubio-che-ne-vizhda-diplomatichesko-urezhdane-na-vo-876131.html"
+      "headline": "Малайзия затвори училища заради токсичен дим от пожари в Индонезия",
+      "summary": "Малайзия затвори училища в някои райони заради токсичния дим от горските пожари в Индонезия, съобщава DW, докато Reuters съобщава за бюджет от 112,5 милиарда долара за 2027 година.",
+      "sources": ["DW", "Reuters"],
+      "ids": [9, 8],
+      "link": "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231"
     },
     {
       "category": "Технологии",
-      "headline": "OpenAI предизвиква \"математокалипсис\": AI даде решение на над 370 нерешени досега задачи",
-      "summary": "OpenAI обявиха, че техен изкуствен интелект е успял да реши над 370 нерешени досега математически задачи, представяйки нов исторически пробив в областта на машинното обмисляне и изчисления, което изпревари досегашните научни достижения.",
+      "headline": "OpenAI постигна пробив: AI решава над 370 нерешени математически задачи",
+      "summary": "OpenAI обявиха, че изкуственият им интелект е успял да реши над 370 нерешени досега математически задачи, представяйки нов исторически пробив в областта на машинното мислене и изчисленията, съобщава Actualno.",
       "sources": ["Actualno"],
-      "ids": [5],
+      "ids": [10],
       "link": "https://www.actualno.com/sciencelogy/openai-predizvikva-matematokalipsis-ai-dade-reshenie-na-nad-370-neresheni-dosega-zadachi-news_2648282.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "САЩ наложиха нови санкции на Иран, този път срещу танкерите",
+      "summary": "САЩ наложиха нови санкции на Иран, този път насочени срещу иранските танкери, съобщава Dnevnik.",
+      "sources": ["Dnevnik"],
+      "ids": [45],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVE3dW9ULVFsMjFiY01Vam9FN2dhOXNMS2FSXzdYX0NqeTdOTXBaODJOaFlnYldjazRmeDFKS3U1VkJtNjdhWm9jU0RGMnlGUUg4X1cxZEk4WjIyQzgwOF94cUM2NTZPdEJPMVNMU0pmeldNX0V3ZG5JaEdNWWFwb0MyTXBkUl94RjUwRDdTNVRXZ0w1VmRBdGRpZ3Q2TVlac1hCNWV5SQ"
     }
   ]
 }

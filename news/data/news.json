@@ -21,8 +21,8 @@
       }
     },
     {
-      "title": "Nobel Peace Prize 2026 set to be announced",
-      "link": "https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-top-1022-rdf",
+      "title": "Nobel Peace Prize 2026 goes to Navanethem &apos;Navi&apos; Pillay for her efforts to promote peace and international law",
+      "link": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-09T07:40:00.000Z",
       "thumbnail": null,
       "source": {
@@ -38,6 +38,16 @@
       "source": {
         "name": "Reuters",
         "color": "#4169E1"
+      }
+    },
+    {
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "pubDate": "2026-10-09T06:54:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -116,6 +126,16 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
+      }
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "link": "https://github.com/microsoft/mxc",
+      "pubDate": "2026-10-09T05:51:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -439,19 +459,9 @@
       }
     },
     {
-      "title": "What should we tell our students?",
-      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-      "pubDate": "2026-10-09T02:27:45.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Reducing undefined behavior in the C language",
-      "link": "https://lwn.net/Articles/1095811/",
-      "pubDate": "2026-10-09T02:02:53.000Z",
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "pubDate": "2026-10-09T03:08:05.000Z",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -466,16 +476,6 @@
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Theranos.world",
-      "link": "https://www.theranos.world/",
-      "pubDate": "2026-10-08T17:51:49.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       }
     },
     {
@@ -541,5 +541,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-09T09:01:12.700Z"
+  "lastUpdated": "2026-10-09T09:07:36.781Z"
 }
