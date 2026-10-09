@@ -1,46 +1,72 @@
 {
-  "updatedAt": "2026-10-08T16:51:48Z",
-  "overview": "Денят бе маркиран от най-смъртоносните руски атаки в Украйна от месеци, при които най-малко 33 души загинаха при обстрела на Краматорск, и от дипломатическо напрежение около потопяването на кораба \"ALFA WATAN\" край България. В националната политика и икономика важни решения включват изборната система в Италия, срещата на български и северномакедонски външни министри и спирането на блок 6 на АЕЦ \"Козлодуй\" за ремонт до декември.",
+  "updatedAt": "2026-10-09T01:15:35.362653Z",
+  "overview": "Събитията за деня се оглавява от руски удари в Украйна – най-малко 33 загинали при обстрела на Краматорск и тежки разрушения в Киев. Следят се и вълна от протести във Франция, санкционни мерки срещу Иран, както и развитие в САЩ около пристрелки с агенти на ICE и дебати за изкуствения интелект.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Русия удари Украйна с най-смъртоносните атаки от месеци — над 33 загинали при обстрела на Краматорск",
-      "summary": "Русия удари автобуси в Краматорск, при които най-малко 33 души са загинали. Свободна точка описва атаките като \"най-смъртоносните от месеци\".",
-      "sources": ["Dnevnik.bg", "Свободна точка"],
-      "ids": [41, 44],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5"
+      "headline": "Руски удар срещу автобус в Краматорск уби най-малко 30 цивилни",
+      "summary": "Topics covered across Dnevnik, Boulevard Bulgaria.",
+      "sources": [
+        "Dnevnik",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        42,
+        52
+      ],
+      "link": "https://boulevard bulgaria.bg"
     },
     {
-      "category": "Свят",
-      "headline": "Сирия поиска независимо разследване за потопяването на кораба \"ALFA WATAN\" край България",
-      "summary": "Сирия поиска независимо разследване за потопяването на кораба ALFA WATAN край България, след като издирването на изчезналите моряци беше прекратено и София поиска обяснение от Дамаск.",
-      "sources": ["Mediapool", "Boulevard Bulgaria"],
-      "ids": [30, 34],
-      "link": "https://www.mediapool.bg/bulgaria/siriya-poiska-nezavisimo-razsledvane-za-potopyavaneto-na-koraba-alfa-watan-krai-bulgaria/"
+      "category": "Общество",
+      "headline": "Ескалация на протестите във Франция: Палежи, сблъсъци и над 70 000 протестиращи ученици",
+      "summary": "Topics covered across Свободна точка, FrogNews.",
+      "sources": [
+        "Свободна точка",
+        "FrogNews"
+      ],
+      "ids": [
+        23,
+        51
+      ],
+      "link": "https://frognews.bg"
     },
     {
       "category": "Политика",
-      "headline": "Италия въвежда пропорционална избирателна система с бонус за победителя",
-      "summary": "Окончателно: Италия въвежда пропорционална избирателна система с бонус за победителя, съобщи Mediapool по евроинформация.",
-      "sources": ["Mediapool"],
-      "ids": [10],
-      "link": "https://www.mediapool.bg/evropa/okonchatelno-italiya-vavezhda-proportsionalna-izbiratelna-sistema-s-bonus-za-pobeditelya/"
+      "headline": "Тръмп: САЩ няма да атакуват Иран преди междинните избори на 3 ноември",
+      "summary": "Topics covered across OffNews, Dnevnik.",
+      "sources": [
+        "OffNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        27,
+        30
+      ],
+      "link": "https://offnews.bg"
     },
     {
-      "category": "Политика",
-      "headline": "Българският и северномакедонският външен министър се срещнаха, но не се разбраха",
-      "summary": "Външните министри на България и Северна Македония се срещнаха, но не се разбраха по ключовите въпроси, съобщи Mediapool.",
-      "sources": ["Mediapool"],
-      "ids": [21],
-      "link": "https://www.mediapool.bg/bulgaria/vanshnite-ministri-na-bulgaria-i-severna-makedoniya-se-sreshtnaha-no-ne-se-razbraha/"
+      "category": "Други",
+      "headline": "Nvidia-backed Firmus scraps $5 billion Australian IPO on weak demand - Reuters",
+      "summary": "Reported by Reuters.",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        1
+      ],
+      "link": "https://reuters.bg"
     },
     {
-      "category": "Икономика",
-      "headline": "Шести блок на АЕЦ \"Козлодуй\" спира за ремонт до декември",
-      "summary": "Шести блок на АЕЦ \"Козлодуй\" спира за ремонт до декември, а другият блок е с намалена мощност заради ниското ниво на Дунав.",
-      "sources": ["Свободна точка"],
-      "ids": [42],
-      "link": "https://svobodnatochka.bg/novini/shesti-blok-na-aets-kozloduy-spira-za-remont-do-dekemvri-drugiyat-blok-e-s-namalena-moshtnost-zaradi-niskoto-nivo-na-dunav/"
+      "category": "Други",
+      "headline": "Man injured after New York shooting involving ICE",
+      "summary": "Reported by DW.",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        2
+      ],
+      "link": "https://dw.bg"
     }
   ]
 }
