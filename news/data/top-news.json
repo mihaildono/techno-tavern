@@ -1,72 +1,46 @@
 {
-  "updatedAt": "2026-10-09T01:15:35.362653Z",
-  "overview": "Събитията за деня се оглавява от руски удари в Украйна – най-малко 33 загинали при обстрела на Краматорск и тежки разрушения в Киев. Следят се и вълна от протести във Франция, санкционни мерки срещу Иран, както и развитие в САЩ около пристрелки с агенти на ICE и дебати за изкуствения интелект.",
+  "updatedAt": "2026-10-09T04:53:07Z",
+  "overview": "Над 30 загинали при руски удар по автобус в Краматорск оглавява дневния ред, заедно със стотици хиляди ученически протести във Франция и напрежение между Вашингтон и Техеран пред изборите.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Руски удар срещу автобус в Краматорск уби най-малко 30 цивилни",
-      "summary": "Topics covered across Dnevnik, Boulevard Bulgaria.",
-      "sources": [
-        "Dnevnik",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        42,
-        52
-      ],
-      "link": "https://boulevard bulgaria.bg"
+      "headline": "Руски удар по автобус в Краматорск уби най-малко 33 цивилни",
+      "summary": "Руски удари по автобуси в Краматорск доведоха до смъртта на най-малко 33 души според Dnevnik, докато Boulevard Bulgaria посочва най-малко 30 жертви. Зеленски обвини САЩ в бездействие на фона на интензивните руски удари.",
+      "sources": ["Dnevnik", "Boulevard Bulgaria", "Actualno"],
+      "ids": [48, 38, 8],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnB3SlpoNUF5aFNST0hST190RWQtRTdmYi1vMEZuQWY2TUt5bExROU9MZlhxVnBxdmtIUGc3eEdVNUYwb2ZzN0Nnd1N4Z1FTLVJCbDJBUzN5ekd0TDJjbkh2YmtIM3ctTE04OC1mNDYzOTl4M25RckZHaW1GY3hpQ0gyVVF2bmxfVk14TFdubDhkck4wZGZScXltWkp1UDIzU18zenZVMkFkZw?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Ученически протести във Франция: стотици хиляди на улиците",
+      "summary": "Ескалация на протестите във Франция включва палежи, сблъсъци и над 70 000 протестиращи ученици, съобщава FrogNews. Свободна точка посочва 250 000 излезли на улиците и обвинява полицията в непропорционална агресия.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [19, 47],
+      "link": "https://svobodnatochka.bg/novini/uchenicheski-protesti-vav-frantsiya-izkaraha-250-000-na-ulitsite-politsiyata-beshe-obvinena-v-neproportsionalna-agresiya/"
     },
     {
       "category": "Общество",
-      "headline": "Ескалация на протестите във Франция: Палежи, сблъсъци и над 70 000 протестиращи ученици",
-      "summary": "Topics covered across Свободна точка, FrogNews.",
-      "sources": [
-        "Свободна точка",
-        "FrogNews"
-      ],
-      "ids": [
-        23,
-        51
-      ],
-      "link": "https://frognews.bg"
+      "headline": "Оръжие след изстрелите в Ню Йорк срещу ICE агенти",
+      "summary": "Мъж след изстрели в кола с дете в Ню Йорк, включващи ICE агенти, останаранен според DW. Рейтерс посочва, че извършителят стреля в автомобил с дете в присъствие.",
+      "sources": ["DW", "Reuters"],
+      "ids": [1, 2],
+      "link": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "САЩ ще предават живо изпълнението на стрелца от Форт Худ",
+      "summary": "Пентагонът обяви, че ще излъчва на живо разстрела на стрелца от Форт Худ, съобщава Reuters. DW потвърждава съобщението от Пентагона.",
+      "sources": ["Reuters", "DW"],
+      "ids": [3, 4],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1dUWkFxY2N1cVZHNDdrZWRCWVhCeTFaSnR0dzlqRERFT3ZMZWdscklER3JGOWVNczJ2c1N5cEZuU3NXdGQyYTVPSjlSQmdrUGxjNkQzWGZBbWRTU0FfNWktZ1huRGZRemhoOXdab1llSndxTERBNE5faF8ydV9laTFoYy01b1dZdFVUTDZQQmdmWVJQN1VURjBoX0hub0UxeVR6ZkxPQkVodDNfdk84eg?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Тръмп: САЩ няма да атакуват Иран преди междинните избори на 3 ноември",
-      "summary": "Topics covered across OffNews, Dnevnik.",
-      "sources": [
-        "OffNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        27,
-        30
-      ],
-      "link": "https://offnews.bg"
-    },
-    {
-      "category": "Други",
-      "headline": "Nvidia-backed Firmus scraps $5 billion Australian IPO on weak demand - Reuters",
-      "summary": "Reported by Reuters.",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        1
-      ],
-      "link": "https://reuters.bg"
-    },
-    {
-      "category": "Други",
-      "headline": "Man injured after New York shooting involving ICE",
-      "summary": "Reported by DW.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        2
-      ],
-      "link": "https://dw.bg"
+      "headline": "Борисов обвини Радев и Йотова в търсене на най-свенливия текст за атаките в Черно море",
+      "summary": "Борисов обвини Радев и Йотова, че са търсели най-свенливия текст за атаките в Черно море, след като го подкрепи, съобщи Свободна точка.",
+      "sources": ["Свободна точка"],
+      "ids": [46],
+      "link": "https://svobodnatochka.bg/novini/borisov-obvini-radev-i-yotova-che-sa-tarseli-nay-svenliviya-tekst-za-atakite-v-cherno-more-sled-kato-go-podkrepi/"
     }
   ]
 }
