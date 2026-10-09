@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-09T09:29:32.631Z",
-  "overview": "Днес водещите събития са тежката катастрофа край Плевен, при която четирима младежи загиват, докладвана от три източника, и планът на Пентагона за първата военна екзекуция в САЩ от 65 години. В света Етиопия се подготвя за „пълномащабно нашествие“ от Еритрея, а в технологията OpenAI постигат пробив, решавайки над 370 нерешени математически задачи.",
+  "updatedAt": "2026-10-09T12:47:45.000Z",
+  "overview": "Денят започна с обявяването на Нобеловата награда за мир за 2026 г. за Наванетем «Нави» Пилай; следят се конфликти в Еритрея и Южна Африка, тежка катастрофа край Плевен с четирима загинали, предстоящото излъчване на военна екзекуция в САЩ и постижение на изкуствения интелект в математиката.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "Четирима младежи загинаха при тежка катастрофа край Плевен",
-      "summary": "На пътя Плевен – село Ясен се случи тежка катастрофа, при която четирима души загиваха. Случката е потвърдена от FrogNews, Mediapool и Dnevnik.",
+      "category": "Свят",
+      "headline": "Наванетем «Нави» Пилай печели Нобеловата награда за мир 2026 г.",
+      "summary": "Нобеловият комитет отличи Наванетем Пилай за усилията ѝ в подкрепата на мира и международното право. Наградата е обявена от Reuters и DW.",
+      "sources": ["Reuters", "DW"],
+      "ids": [1, 8],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Четирима загинаха в тежка катастрофа край Плевен",
+      "summary": "Тежък пътен инцидент между Плевен и село Ясен взе живота на четирима души — съобщават FrogNews, Mediapool и Dnevnik.",
       "sources": ["FrogNews", "Mediapool", "Dnevnik"],
       "ids": [13, 16, 33],
-      "link": "https://www.mediapool.bg/bulgaria/chetirima-sa-zaginali-pri-katastrofa-krai-pleven/"
+      "link": "https://frognews.bg/novini/chetirima-dushi-zaginaha-tezhka-katastrofa-patya-pleven-selo-yasen.html"
     },
     {
       "category": "Свят",
-      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден за масово убийство войник",
-      "summary": "Пентагонът планира да излъчи на живо изпълнението на осъдения за масово убийство войник от Форт Худ, което ще бъде първата такава екзекуция на военен в САЩ от 65 години насам. Съобщават Медипул, Фронт Булевард и FrogNews.",
-      "sources": ["Mediapool", "Boulevard Bulgaria", "FrogNews"],
-      "ids": [21, 28, 39],
-      "link": "https://www.mediapool.bg/svyat/pentagonat-shte-izlachi-na-zhivo-ekzekutsiyata-na-osaden-za-masovo-ubiystvo/"
+      "headline": "Пентагонът ще излъчи на живо екзекуцията на осъден за масово убийство",
+      "summary": "Първа екзекуция на военен в САЩ от 65 години насам ще се излъчва директно — стрелецът от Форт Худ бе осъден за масово убийство, съобщиха FrogNews, Mediapool и Boulevard Bulgaria.",
+      "sources": ["FrogNews", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [28, 21, 38],
+      "link": "https://frognews.bg/novini/parva-ekzekutsiia-voenen-sasht-65-godini-shte-izlachvat-jivo.html"
     },
     {
       "category": "Свят",
-      "headline": "Етиопия се подготвя да се защити срещу „пълномащабно нашествие“ от Еритрея",
-      "summary": "Етиопия твърди, че трябва да се защити срещу „пълномащабно нашествие“ от Еритрея, съобщава Reuters.",
-      "sources": ["Reuters"],
-      "ids": [5],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc?oc=5"
+      "headline": "Южна Африка отменя приютен указ след анти-мигрантски вълни",
+      "summary": "Правителството на Южна Африка оттегли издадения през уикенда указ, който даде широките правомощия на служители за имигралция, след като той се смята за причина за насилството срещу чужденци. Решението е съобщено от Reuters и потвърдено от DW.",
+      "sources": ["Reuters", "DW"],
+      "ids": [7, 41],
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVldBelcxUlJ3Ym45QWtpUV9FX1hyV0dYQjZ3bG8yNndZbjNtdFVtbF93b0VBeHlmS25rSmNvczYtV01sbjJvV251VFBvY0JIU01UREhzZnBiT3pHRlF4U3dVeEJ5R0JycUVBd0d0ZVdocUhCLWRkbjJFb2t3RnVLRjIwUjF4Tng5ZDlqemdRRzFXbFR4bC16ZHVBWDVJMnIyVUdDOGRzaVlSSDEwMi1JWGFOTmVha2c?oc=5"
     },
     {
       "category": "Технологии",
-      "headline": "OpenAI постигат пробив: AI решава над 370 нерешени математически задачи",
-      "summary": "OpenAI обявиха, че изкуственият им интелект е успял да реши над 370 нерешени досега математически задачи, представяйки нов исторически пробив в областта на машинното мислене, съобщава Actualno.",
+      "headline": "ИИ на открити над 370 нерешени математически задачи",
+      "summary": "OpenAI съобщи, че неговият AI модел е дал решения на над 370 математически задачи, които остават нерешени от десетилетия. Съобщението е на Actualno.",
       "sources": ["Actualno"],
-      "ids": [9],
+      "ids": [10],
       "link": "https://www.actualno.com/sciencelogy/openai-predizvikva-matematokalipsis-ai-dade-reshenie-na-nad-370-neresheni-dosega-zadachi-news_2648282.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Кремъл съгласен с Рубио: не вижда дипломатическо уреждане на войната в Украйна",
-      "summary": "Кремъл е съгласен със Сек Рубио, че не вижда възможност за дипломатическо уреждане на войната в Украйна, съобщава OffNews.",
-      "sources": ["OffNews"],
-      "ids": [23],
-      "link": "https://offnews.bg/sviat/kremal-saglasen-s-rubio-che-ne-vizhda-diplomatichesko-urezhdane-na-vo-876131.html"
     }
   ]
 }
