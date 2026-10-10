@@ -1,7 +1,618 @@
 {
   "windowStart": "2026-10-09T14:18:05.304Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-09T14:18:05.304Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-10T00:01:50.082Z",
+  "totalItems": 50,
+  "items": [
+    {
+      "title": "Trump names new press secretary to succeed Karoline Leavitt",
+      "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T23:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Strong Panama quake shakes nation, but avoids major destruction - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+      "pubDate": "2026-10-09T23:00:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Криминално проявени братя са задържани при специализирана акция срещу наркоразпространението в София",
+      "link": "https://www.actualno.com/crime/kriminalno-projaveni-bratja-sa-zadyrjani-pri-specializirana-akcija-sreshtu-narkorazprostranenieto-v-sofija-news_2648653.html",
+      "pubDate": "2026-10-09T22:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/10/d81963fbcd0cf9a704bee845d617ec8f_2648653_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "САЩ предлагат на Португалия изтребители F-35, които да заменят F-16",
+      "link": "https://www.actualno.com/europe/sasht-predlagat-na-portugalija-iztrebiteli-f-35-koito-da-zamenjat-f-16-news_2648652.html",
+      "pubDate": "2026-10-09T22:14:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/10/b15c9ffb07cabd919a197058dd16a37d_2648652_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Trump selects Katie Zacharia as White House press secretary - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZfSE5tdU1qaXV4LWl1Z2hYclJVU1dVSlFWQTZQV1J6RzQydkxoZjFqTTJxc3lLNTNoaHVPOTBzbHdBUFBkcHdEWGpldVJ1Vzk1NE9EUkJfMnFNOEQxVkZfUGZmVS00M01FMGFiOENBME4xbTlZWmRBVVNNbERDNkRFSjA4dDA4LUx1MTlpZnh1VU9lWUEweld4ZG96b0QzTF9uZGhyTkxjQQ?oc=5",
+      "pubDate": "2026-10-09T21:55:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "EXCLUSIVE: Erik Prince's forces suffer battlefield loss in Congo, former UFC fighter among wounded, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnRfZTRYeTRDaDlhaTVnODk3Z2xDU2wtSlUzQ0luYmNfZGlTNGRNOVBvVURsTklDYjFSUFRvT2ZEYjd3RUxLSmZQUUlNcGRCS1VYLS1NdUJ6Q0ZoU2RqemlXNWROWHNnYkFBVEc2bmp0T201UnJmaEhhMmhlRTk1c2d5eDBXc2tkcWgweWRmbW8wMThWcHIzUkhpbVZWRjhQRW1JMW1wNU5EeVVJWVhWR3gxblRqaG11UjlzajB3YjI?oc=5",
+      "pubDate": "2026-10-09T21:46:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Джеф Безос: Изкуственият интелект ще доведе до 3-дневна работна седмица",
+      "link": "https://www.actualno.com/sciencelogy/djef-bezos-izkustvenijat-intelekt-shte-dovede-do-3-dnevna-rabotna-sedmica-news_2648651.html",
+      "pubDate": "2026-10-09T21:42:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/10/8925ee0cf085e572cd63622af25dcb59_2648651_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "The Telegraph: Испания и Гърция отказват да дадат на Украйна ракети Patriot с изтичащ експлоатационен срок",
+      "link": "https://www.actualno.com/europe/the-telegraph-ispanija-i-gyrcija-otkazvat-da-dadat-na-ukrajna-raketi-patriot-s-iztichasht-eksploatacionen-srok-news_2648649.html",
+      "pubDate": "2026-10-09T21:20:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/10/4d175bc88d967a741b4537368718111d_2648649_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police website - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
+      "pubDate": "2026-10-09T21:10:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "\"Фабрика за социални услуги\": Решиха денят след изборите да е неучебен, но присъствен, родителите възмутени",
+      "link": "https://www.actualno.com/education/fabrika-za-socialni-uslugi-reshiha-denjat-sled-izborite-da-e-neucheben-no-prisystven-roditelite-vyzmuteni-news_2648646.html",
+      "pubDate": "2026-10-09T20:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/09/94c39026b4cf33d2423380ab0d56b0a3_2648646_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Zelenskiy says letting Russia sell diesel to US is 'investment in war' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJCMFpxdHZyV3d5ZGpwMFJOODA4dW4wZW53NnJ4OHN0MGJWeWtZSzU1ZzhvRS1Jd2VvanVvN3Rsa2hxZHQwRWlqM2p4bV9PM2tYS09PTDZDV0pnbkNtLXJqMkV6ZVpXS05xc29JX3RraVZ0SnM5QmEza1NaeGJnRUJqbTNWZVBLSEtCb0p2SlFVMk5GRW9TTUtnc3FyQmw5RUN3ZFQ1Yl9EeUk?oc=5",
+      "pubDate": "2026-10-09T20:42:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Двама братя са задържани в Драгалевци за разпространение на наркотици",
+      "link": "https://offnews.bg/112/dvama-bratia-sa-zadarzhani-v-dragalevtci-za-razprostranenie-na-narkoti-876202.html",
+      "pubDate": "2026-10-09T20:05:58.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/09/876202/phpuhfjhj_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5872
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "pubDate": "2026-10-09T20:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Schools crisis in France: Investment fails to inspire confidence",
+      "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T19:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
+      "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T19:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Тръмп сключи сделка с Путин за доставки на руски дизел в САЩ и по света",
+      "link": "https://offnews.bg/ikonomika/tramp-skliuchi-sdelka-s-putin-za-dostavki-na-ruski-dizel-v-sasht-i-po-876201.html",
+      "pubDate": "2026-10-09T19:26:24.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/09/876201/phprjcb5y_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4332
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Имате ли право на 50 евро помощ? Ето кой може да получи парите",
+      "link": "https://frognews.bg/novini/imate-pravo-50-evro-pomosht-eto-koi-moje-poluchi-parite.html",
+      "pubDate": "2026-10-09T19:22:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6e8d78886_1280-840-evro234.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Strong earthquakes shake Panama, prompting tsunami alert",
+      "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T19:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Николай Ненчев: Кого лъже Радев? И защо мълчи за срещата с Буданов?",
+      "link": "https://offnews.bg/politika/nikolaj-nenchev-kogo-lazhe-radev-i-zashto-malchi-za-sreshtata-s-buda-876200.html",
+      "pubDate": "2026-10-09T18:41:59.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/09/876200/phplwzwjp_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6568
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Китай свива наполовина износа на хибриди за ЕС: Какво губи и печели България",
+      "link": "https://frognews.bg/novini/kitai-sviva-napolovina-iznosa-hibridi-kakvo-gubi-pecheli-balgariia.html",
+      "pubDate": "2026-10-09T18:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/e3da902f7_1791570756_6ac93344baa31.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
+      "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-09T18:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "pubDate": "2026-10-09T18:10:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "САЩ налагат зверски санкции срещу Международния наказателен съд, след като Тръмп не взе Нобела за мир",
+      "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html",
+      "pubDate": "2026-10-09T17:28:13.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/09/876199/phpumoj2j_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 6445
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "14-годишно момче е задържано за убийството на 45-годишната си майка в Пловдив",
+      "link": "https://offnews.bg/112/14-godishno-momche-e-zadarzhano-za-ubijstvoto-na-45-godishnata-si-majk-876187.html",
+      "pubDate": "2026-10-09T16:55:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/09/876187/php7x3isd_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7492
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Свързаха убийството на бивш британски министър с предполагаем заговор срещу Фараж",
+      "link": "https://frognews.bg/novini/svarzaha-ubiistvoto-bivsh-britanski-ministar-predpolagaem-zagovor-sreshtu-faraj.html",
+      "pubDate": "2026-10-09T16:53:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/e7045b98c_1791567021_6ac924ad3688f.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Черна гора арестува руски военен блогър по подозрения в хибридна акция",
+      "link": "https://boulevardbulgaria.bg/articles/cherna-gora-arestuva-ruski-blogar-po-podozreniya-v-hibridna-voyna",
+      "pubDate": "2026-10-09T16:04:19.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMDY3LCJwdXIiOiJibG9iX2lkIn19--5c43e21c4eb1ef9e3d519dd92769b40d02b2a7dc/михаил звинчук.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "От HBO и CNN до политиката на Австрия: Кой е Герхард Цайлер, който напусна топ позиция в Warner Bros.",
+      "link": "https://boulevardbulgaria.bg/articles/shef-na-warner-bros-napuska-za-da-pomaga-na-sotsialdemokratite-v-avstriya",
+      "pubDate": "2026-10-09T16:01:46.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMDUzLCJwdXIiOiJibG9iX2lkIn19--60c19bf4bf50b05d90d0629f0c43532c60324aa1/tsailer 2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "OpenAI и Anthropic проиграват сценарии за катастрофа с изкуствен интелект",
+      "link": "https://frognews.bg/novini/openai-anthropic-proigravat-stsenarii-katastrofa-izkustven-intelekt.html",
+      "pubDate": "2026-10-09T15:54:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/32d02a676_izkustev-intelekt.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "pubDate": "2026-10-09T15:51:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Пробите от Черно море не показват замърсяване след атаката с дронове",
+      "link": "https://frognews.bg/novini/probite-cherno-more-pokazvat-zamarsiavane-sled-atakata-dronove.html",
+      "pubDate": "2026-10-09T15:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b2861de44_1791560896_6ac90cc0588e3.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Денят след изборите ще е неучебен, но присъствен за учениците",
+      "link": "https://boulevardbulgaria.bg/articles/denyat-sled-izborite-shte-e-neucheben-no-prisastven-za-uchenitsite-26",
+      "pubDate": "2026-10-09T15:25:29.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyMjEsInB1ciI6ImJsb2JfaWQifX0=--9dafda4b2ad56733bd087e772f00ca73e09e79a6/Избори_2022_Избирателна_секция.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Катастрофа затвори пътя през Кресненското дефиле за почти три часа - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRVBwZDlBY3RqcEtxZWU2NjctMWNwUE9KT0htdFoxM2NMZmw3OFI2c2Q1d2d6VzA4M1dYZFVqbHJVUkg1X3kybzNnWE9mdkc1THFsRmpGSHFrQ2p0c1FURFJwckdqcDZpWlBLTUk5RzNCZ3J2V3AzNl9xOXBBcWZ0Uk1LT0VOSEluTzFtcXozQld1TkFEc2JDc2VqTF8zbGNBVlJsVnBQcVA?oc=5",
+      "pubDate": "2026-10-09T15:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Трябва ли ChatGPT да споделя с психолози мислите на хора, посегнали на живота си?",
+      "link": "https://boulevardbulgaria.bg/articles/tryabva-li-chatgpt-da-spodelya-s-psiholozi-mislite-na-hora-posegnali-na-zhivota-si",
+      "pubDate": "2026-10-09T14:52:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDExNTMsInB1ciI6ImJsb2JfaWQifX0=--3500a39705bc9f3eada2bd0c77b1652da57bb6be/lonely.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Независимо от партията, американците винят Тръмп за високите цени - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE9qOUVhNk1Vc0lVVlRwb3lKOEdESi15eVNrRXUzcGVQNk9kQW1qWWpUa09rSVFELVpLRTBIMHBKb2RGZlhpOE04a1hrYVR0aklBaEVYam5QT0VZNjd0VE56MVZ4MDVKLVp4TVJENFRYakRrMkpGZG92ZEl5WW90dDcxVmtkVVhyVFF6TVBzMVIyQXlCNHpaelFtdlZYeHRKcTVr?oc=5",
+      "pubDate": "2026-10-09T14:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Москва не приема и не изпраща самолети - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFd0RGRYUW5EUkctVjVULXk0N1c3RE5oTkkyWEk2LWxpdFp2azNyOVdnUWU0Z0dpSFFLYy1sam82eTZvUGxsOXExSXphVHY1QUdYU2pqdU9CWTAyTzFEVnJTeTdrc2EwQUU3d0c5Wk1wb3ZNeDdTd0NQVTFfWkJKM2xueUZtczVzMlN1ckF5bzdYMjRXejNhUHlVRko?oc=5",
+      "pubDate": "2026-10-09T13:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Голям пожар избухна край вилна зона в Бургаско",
+      "link": "https://boulevardbulgaria.bg/articles/golyam-pozhar-izbuhna-kray-vilna-zona-v-burgasko",
+      "pubDate": "2026-10-09T13:40:30.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyODQ3LCJwdXIiOiJibG9iX2lkIn19--f7488c2388b4aa1e51686b78afcc6215a0510eaa/пожар вилна зона .jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Намерени са картините, откраднати преди месец от музея \"Пиер-Огюст Реноар\" - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGpkUTZSSkJhMHJDdFlLeVFDYm5UMzlXNlNyM2VzTFp5Q0V0XzBrY3FrZFdNVzhvYTNkUjEzZVpxTW10M2dOdWQ5amJaOFBLaDZrSjhRa1g3ekJXUXNlTnQ0Nm1KclVfOE05alJQM3RfbmluTDVtYzhPWi1DdTM0Y09SWnhuZnpudWphZ01obWlMMEdBVU5xN2NHeVlMUHJBUlg0dlZUaE41RklQV01Z?oc=5",
+      "pubDate": "2026-10-09T13:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "pubDate": "2026-10-09T13:12:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "pubDate": "2026-10-09T13:03:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Аптеки ще връщат 1 млн. евро на НЗОК след засечени нарушения",
+      "link": "https://www.mediapool.bg/bulgaria/apteki-shte-vrashtat-1-mln-evro-na-nzok-sled-zasecheni-narusheniya/",
+      "pubDate": "2026-10-09T12:15:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "В Черна гора задържаха основателя на провоенния Telegram канал \"Рибар\", издирван от САЩ",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/v-cherna-gora-zadarzhaha-osnovatelya-na-provoenniya-telegram-kanal-ribar-izdirvan-ot-sasht/",
+      "pubDate": "2026-10-09T11:41:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "ВЕИ и батериите с основен принос за ръста с 62% в износа на ток от България",
+      "link": "https://www.mediapool.bg/greenpool/vei-i-bateriite-s-osnoven-prinos-za-rasta-s-62-v-iznosa-na-tok-ot-bulgaria/",
+      "pubDate": "2026-10-09T11:36:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Пентагонът ще покаже на живо екзекуцията на американски военен, осъден за смъртта на 13 свои колеги",
+      "link": "https://www.mediapool.bg/svyat/pentagonat-shte-pokazhe-na-zhivo-ekzekutsiyata-na-amerikanski-voenen-osaden-za-smartta-na-13-svoi-kolegi/",
+      "pubDate": "2026-10-09T11:19:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Външната министърка \"адвокатства\" на Йотова за декларацията в подкрепа на Украйна",
+      "link": "https://www.mediapool.bg/bulgaria/vanshnata-ministarka-advokatstva-na-yotova-za-deklaratsiyata-v-podkrepa-na-ukraina/",
+      "pubDate": "2026-10-09T11:04:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Сделката на „Лукойл“ и „Карлайл“ за продажба вече не важи. Компанията търси нов купувач",
+      "link": "https://svobodnatochka.bg/novini/sdelkata-na-lukoyl-i-karlayl-za-prodazhba-veche-ne-vazhi-kompaniyata-tarsi-nov-kupuvach/",
+      "pubDate": "2026-10-09T09:33:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "„Хибридни операции“. Фалшивите бомбени заплахи целят всяване на хаос. Демерджиев намеси и Пеевски",
+      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/",
+      "pubDate": "2026-10-09T09:00:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "„Аз съм доволна“. Йотова изрази задоволство от КСНС въпреки несъгласието на четири партии",
+      "link": "https://svobodnatochka.bg/novini/az-sam-dovolna-yotova-izrazi-zadovolstvo-ot-ksns-vapreki-nesaglasieto-na-chetiri-partii/",
+      "pubDate": "2026-10-09T06:34:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Заплатата и кариерата. Как да изберете университет в България",
+      "link": "https://svobodnatochka.bg/analizi/zaplatata-i-karierata-kak-da-izberete-universitet-v-balgariya/",
+      "pubDate": "2026-10-09T05:52:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Как Борисов нареди ГЕРБ до хората на Радев и „спаси“ становището от КСНС за атакуваните кораби",
+      "link": "https://svobodnatochka.bg/analizi/kak-borisov-naredi-gerb-do-horata-na-radev-i-spasi-stanovishteto-ot-ksns-za-atakuvanite-korabi/",
+      "pubDate": "2026-10-09T05:12:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    },
+    {
+      "title": "Четирима младежи загинаха в катастрофа край Плевен - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHE0Z1JlS3p6Zm5NZnhyVXo1ak5xMWYwalpMZjlUd3N5SUtHa1FERENHLWpYMnpwUTRjdnFYOGM0UGt4VEJ2UGozZEtNR0NmSEptbW9RSlJoTDRWSkplQnhVU1prbVN5Y3Fid2NLaUlzOVBaQVlkQjVKYkc4ZHRWTEpOWjA2X0hHSW5iWWg4WG9NUGNvWW1BQjRtM1FkTmt2WGUyaA?oc=5",
+      "pubDate": "2026-10-09T05:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-10T00:01:50.082Z"
+    }
+  ]
 }
