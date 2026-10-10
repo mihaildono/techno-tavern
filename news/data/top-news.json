@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T02:07:32Z",
-  "overview": "Водещите събития днес са сделката за руски дизел между Тръмп и Путин, финансовите санкции на САЩ срещу Международния наказателен съд, решението за неучебен, но присъствен ден след изборите, фалшивите бомбени заплахи с намесата на Демерджиев и дебатите за изкуствения интелект.",
+  "updatedAt": "2026-10-10T05:30:00Z",
+  "overview": "Днес ключовите събития включват сделката за доставки на руски дизел между Тръмп и Путин, финансирането на санкции срещу Международния наказателен съд, неучебният ден след изборите и фалшивите бомбени заплахи с намесата на Демерджиев и Пеевски, плюс арести в Италия за кражба на вино за 5 милиона евро.",
   "stories": [
     {
       "category": "Политика",
       "headline": "Тръмп и Путин сключиха сделка за доставки на руски дизел в САЩ и по света",
       "summary": "Преговарячите на САЩ, Украйна и Европа се срещнаха в Маями, докато Тръмп обяви сделката за доставки на руски дизел за САЩ и световните пазари, а Кремъл потвърди, че Путин е съгласен с договора.",
       "sources": ["Reuters", "DW", "OffNews"],
-      "ids": [3, 17, 18],
+      "ids": [4, 18, 25],
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5"
     },
     {
@@ -20,27 +20,27 @@
     },
     {
       "category": "Общество",
-      "headline": "Денят след изборите ще е неучебен, но присъствен за учениците",
+      "headline": "Денят след изборите ще бъде неучебен, но присъствен за учениците",
       "summary": "След изборите денят ще бъде неучебен, но присъствието в училище ще остава задължително, което възмути родителите.",
       "sources": ["Actualno", "Boulevard Bulgaria", "Dnevnik"],
-      "ids": [12, 32, 33],
+      "ids": [13, 32, 33],
       "link": "https://www.actualno.com/education/fabrika-za-socialni-uslugi-reshiha-denjat-sled-izborite-da-e-neucheben-no-prisystven-roditelite-vyzmuteni-news_2648646.html"
     },
     {
       "category": "Общество",
-      "headline": "Фалшивите бомбени заплахи целят всяване на хаос, намеси се и Демерджиев",
-      "summary": "Фалшивите бомбени заплахи целят всяване на хаос, като Демерджиев видя интересна зависимост между заплашите и полетите на Пеевски.",
-      "sources": ["Свободна точка"],
+      "headline": "Фалшивите бомбени заплахи целят да разпрострат хаос, замесени Демерджиев и Пеевски",
+      "summary": "Издирватата показва интересна зависимост между бомбените заплахи и полетите на Пеевски, с намеса на Демерджиев и Пеевски.",
+      "sources": ["Свободна точка", "Dnevnik"],
       "ids": [48, 49],
       "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
-      "category": "Технологии",
-      "headline": "Безос прогнозира 3-дневна работна седмица от ИИ, а OpenAI и Anthropic проиграват сценарии за катастрофа",
-      "summary": "Джеф Безос заяви, че изкуственият интелект ще доведе до 3-дневна работна седмица, докато OpenAI и Anthropic проиграват сценарии за катастрофа с изкуствения интелект.",
-      "sources": ["Actualno", "FrogNews"],
-      "ids": [10, 29],
-      "link": "https://www.actualno.com/sciencelogy/djef-bezos-izkustvenijat-intelekt-shte-dovede-do-3-dnevna-rabotna-sedmica-news_2648651.html"
+      "category": "Култура",
+      "headline": "Крадци отмъкнали 30 хил. бутилки вино за 5 млн. евро в Италия",
+      "summary": "Обявени са кражбата на над 30 хиляди бутилки вино в Италия, натрупващи се за стойност от 5 милиона евро.",
+      "sources": ["Mediapool"],
+      "ids": [37],
+      "link": "https://www.mediapool.bg/biznes/kradtsi-otmaknali-30-hil-butilki-vino-za-5-mln-evro-v-italiya/"
     }
   ]
 }

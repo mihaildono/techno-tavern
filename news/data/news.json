@@ -1,9 +1,19 @@
 {
   "items": [
     {
+      "title": "Mexico: Court finds three men guilty of murder of Australian, US surfers",
+      "link": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-10T02:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "Hurricane Isaias makes landfall in Florida",
       "link": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-10T02:05:00.000Z",
+      "pubDate": "2026-10-10T02:15:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -31,16 +41,6 @@
       }
     },
     {
-      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
-      "pubDate": "2026-10-09T23:18:45.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
       "title": "Trump names new press secretary to succeed Karoline Leavitt",
       "link": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-09T23:12:00.000Z",
@@ -61,6 +61,16 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
+      "pubDate": "2026-10-09T22:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
       }
     },
     {
@@ -173,16 +183,6 @@
       "title": "Schools crisis in France: Investment fails to inspire confidence",
       "link": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-09T19:52:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Trump, Putin agree on deal to release Russian diesel to US, world markets",
-      "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-09T19:29:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -561,5 +561,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-10T02:06:59.898Z"
+  "lastUpdated": "2026-10-10T02:25:00.495Z"
 }
