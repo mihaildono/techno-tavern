@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-10T05:30:00Z",
-  "overview": "Днес ключовите събития включват сделката за доставки на руски дизел между Тръмп и Путин, финансирането на санкции срещу Международния наказателен съд, неучебният ден след изборите и фалшивите бомбени заплахи с намесата на Демерджиев и Пеевски, плюс арести в Италия за кражба на вино за 5 милиона евро.",
+  "updatedAt": "2026-10-10T05:45:00Z",
+  "overview": "Днес водещите събития са свързани със сделката за руски дизел между Тръмп и Путин,在美国анските санcontractions срещу Международния наказателен съд, неучебния ден след изборите и фалшивите бомбени заплахи с намеса на Демерджиев и Пеевски, както и с кражбата на вино в Италия.",
   "stories": [
     {
       "category": "Политика",
       "headline": "Тръмп и Путин сключиха сделка за доставки на руски дизел в САЩ и по света",
-      "summary": "Преговарячите на САЩ, Украйна и Европа се срещнаха в Маями, докато Тръмп обяви сделката за доставки на руски дизел за САЩ и световните пазари, а Кремъл потвърди, че Путин е съгласен с договора.",
-      "sources": ["Reuters", "DW", "OffNews"],
-      "ids": [4, 18, 25],
+      "summary": "Преговарячите на САЩ, Украйна и Европа се срещнаха в Маями, докато Тръмп обяви сделката за доставки на руски дизел за САЩ и световните пазари, а Кремъл потвърди, че Путин е съгласен с договора. Зеленски оцени сделката като „инвестиция в войната“.",
+      "sources": ["Reuters", "OffNews"],
+      "ids": [4, 14, 18],
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5"
     },
     {
       "category": "Свят",
       "headline": "САЩ наложиха финансови санкции срещу Международния наказателен съд",
-      "summary": "Американските власти удариха финансово Международния наказателен съд с цел разформироването му, след като Тръмп не взе Нобеловата награда за мир.",
+      "summary": "Американските власти удариха financially Международния наказателен съд с цел разформирането му, след като Тръмп не взе Нобеловата награда за мир.",
       "sources": ["OffNews", "Mediapool"],
       "ids": [23, 24],
       "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html"
@@ -22,8 +22,8 @@
       "category": "Общество",
       "headline": "Денят след изборите ще бъде неучебен, но присъствен за учениците",
       "summary": "След изборите денят ще бъде неучебен, но присъствието в училище ще остава задължително, което възмути родителите.",
-      "sources": ["Actualno", "Boulevard Bulgaria", "Dnevnik"],
-      "ids": [13, 32, 33],
+      "sources": ["Actualno", "Boulevard Bulgaria"],
+      "ids": [13, 32],
       "link": "https://www.actualno.com/education/fabrika-za-socialni-uslugi-reshiha-denjat-sled-izborite-da-e-neucheben-no-prisystven-roditelite-vyzmuteni-news_2648646.html"
     },
     {
@@ -39,7 +39,7 @@
       "headline": "Крадци отмъкнали 30 хил. бутилки вино за 5 млн. евро в Италия",
       "summary": "Обявени са кражбата на над 30 хиляди бутилки вино в Италия, натрупващи се за стойност от 5 милиона евро.",
       "sources": ["Mediapool"],
-      "ids": [37],
+      "ids": [36],
       "link": "https://www.mediapool.bg/biznes/kradtsi-otmaknali-30-hil-butilki-vino-za-5-mln-evro-v-italiya/"
     }
   ]
