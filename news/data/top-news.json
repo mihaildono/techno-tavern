@@ -1,66 +1,46 @@
 {
-  "updatedAt": "2026-10-10T14:04:49.699Z",
-  "overview": "Денят е отбелязан от 5 ключови събития от различни източници.",
+  "updatedAt": "2026-10-10T14:22:30.000Z",
+  "overview": "Денят е доминиран от международните дипломатически събития — споразумението между Тръмп и Путин за износа на руски дизел, новите удари в Украйна и санкциите на САЩ срещу Международния наказателен съд.",
   "stories": [
     {
-      "category": "Технологии",
-      "headline": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack - Reuters",
-      "summary": "Статиите описват Reuters за \"Major Saudi conferences to proceed, organisers say, despite deadly airport attack - Reuters\".",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        1
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3lBZTEwaWVLUXNScDVCZjV1eDRkb3RoWnM2M0ZkOE9DM0ZVMDNPaXA1ZDJXQ0xYZ2JqZm85dm9HbHBOSXNaQmVzUWJQN0xnMXpNR2dENDFoMXItWEQxYlB2WmZGUVVxYU1RX0E0RHNKSWd0RDNkbmk1Ty1MZnlJZFUxR3pjanFwSWZzS3hiZlktMEtTM2psOS12Y2xaMlk1MEc1Nm81NU50WjFKN0ZkY082T0pFVGU3dmd6T3JIckNPcFR0VlM0?oc=5"
-    },
-    {
       "category": "Свят",
-      "headline": "Путин отказал на Тръмп да спре войната преди пълна победа - Dnevnik.bg",
-      "summary": "Статиите описват Dnevnik за \"Путин отказал на Тръмп да спре войната преди пълна победа - Dnevnik.bg\".",
-      "sources": [
-        "Dnevnik"
-      ],
-      "ids": [
-        2
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1dBWUU0NllJcXgzaXpheVl0RE5pYVdwaGFPNXVOMjc3RmJ4MzNqX1RQeDlyVnk1UE5jdkJXU0ZLZ1JJNTBOaGNWd1l6d3ZIb0d2QTR0enBKVzI0UEh4NmJ6ejdUWEZKazUyMDQwdjFjWjlFQWtjTUZjcXpqbnBVMEFKWXpkVG5kUEhvcjJfcmFVVXdyN1FJTl81bW9ua0M1NnlqN2hsdUVidw?oc=5"
-    },
-    {
-      "category": "Технологии",
-      "headline": "&apos;Ragebait&apos; is the 2026 German Youth Word of the Year",
-      "summary": "Статиите описват DW за \"&apos;Ragebait&apos; is the 2026 German Youth Word of the Year\".",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        3
-      ],
-      "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Политика",
-      "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
-      "summary": "Статиите описват DW за \"Germany sticks to Russia sanctions after Trump diesel deal\".",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        4
-      ],
+      "headline": "Тръмп и Путин сключиха споразумение за руски дизел; Германия запазва санкциите, а Украйна го нарича „подарък“ за Русия",
+      "summary": "Споразумението за износа на руски дизел е постигнато по време на „приятелска“ телефонна разговорка, в която и двете страни твърдят, че нито е искала да започне първа. Германия обяви, че запазва санкциите срещу Русия, а Украйна описва сделката като „подарък“ за Русия зад гърба на Киев.",
+      "sources": ["DW", "Reuters", "Actualno", "Mediapool", "OffNews", "Свободна точка"],
+      "ids": [3, 4, 12, 15, 17, 21, 25, 40],
       "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Общество",
-      "headline": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
-      "summary": "Статиите описват Reuters за \"Five shot dead at residence in Georgia's Douglas, police says - Reuters\".",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        5
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ?oc=5"
+      "category": "Свят",
+      "headline": "Русия нанасе удари върху жилищни блокове в Запорожие; жертвите се увеличават до най-малко 12",
+      "summary": "Русия е нанесла удари с пет бомби върху жилищни блокове в украинския град Запорожие, при които са убиват деца. Броят на жертвите се е увеличил до най-малко 12, а Киев отчита руски загуби от над 1,5 милиона войници.",
+      "sources": ["Actualno", "Mediapool", "OffNews"],
+      "ids": [13, 20, 26, 32],
+      "link": "https://www.actualno.com/europe/rusija-blagodari-na-trymp-za-otmenenite-sankcii-s-5-bombi-vyrhu-jilishtni-blokove-v-ukrajna-ubivajki-deca-news_2648763.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "САЩ наложиха санции на Международния наказателен съд; ЕС обяви атаките за недопустими",
+      "summary": "САЩ наложиха санции на Международния наказателен съд, като посочиха, че това засяга работата му. ЕС отговори, че атаките и санкциите на САЩ срещу съда са недопустими.",
+      "sources": ["Свободна точка", "OffNews"],
+      "ids": [28, 29],
+      "link": "https://svobodnatochka.bg/novini/sasht-nalozhiha-sanktsii-na-mezhdunarodniya-nakazatelen-sad-kakvo-oznachava-tova-za-rabotata-mu/"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Борисов обвини властта за схема с горивата при дефицита на дизел; Пулев: няма риск за доставките на петрол",
+      "summary": "Борисов заговори за дефицит на дизел и обвини властта в схема с горивата. В същото време Пулев посочи, че няма риск за доставките на петрол и държавата следи ситуацията в Черно море.",
+      "sources": ["Mediapool", "Boulevard Bulgaria"],
+      "ids": [7, 8],
+      "link": "https://www.mediapool.bg/bulgaria/pulev-nyama-risk-za-dostavkite-na-petrol-darzhavata-sledi-situatsiyata-v-cherno-more/"
+    },
+    {
+      "category": "Култура",
+      "headline": "Мариета Николаева напуска NOVA поради „некадърност, болни амбиции и дефицити“",
+      "summary": "Мариета Николаева напуска Нова телевизия, като посочва „некадърност, болни амбиции и дефицити“ в ръководството. Критици са насочили срещу нейните назначения в незрумните.",
+      "sources": ["Свободна точка", "Boulevard Bulgaria"],
+      "ids": [37, 38],
+      "link": "https://svobodnatochka.bg/novini/nekadarnost-bolni-ambitsii-i-defitsiti-marieta-nikolaeva-napuska-nova-televiziya/"
     }
   ]
 }
