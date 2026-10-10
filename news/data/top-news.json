@@ -1,46 +1,94 @@
 {
-  "updatedAt": "2026-10-10T05:48:00.000Z",
-  "overview": "Денят е отбелязан с мащабните международни развития около сделката между Тръмп и Путин за руски дизел, както и с продължаващата напрежение около Нобеловата награда за мир и санкциите срещу Международния наказателен съд. В България централно място заемат разследванията за полетите на Делян Пеевски и решението за деня след изборите.",
+  "updatedAt": "2026-10-10T07:17:03.410909Z",
+  "overview": "Денят е отбелязан с мащабните международни развития около сделката между Тръмп и Путин за руски дизел, както и с напрежението около Нобеловата награда за мир. В България централно място заемат разследванията за полетите на Делян Пеевски и решението за деня след изборите.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп сключва сделка с Путин за руски дизел зад гърба на Украйна",
-      "summary": "САЩ, Украйна и европейски преговорители се срещат в Маями, след като Тръмп обявява сделка с Путин за доставки на руски дизел в САЩ и по света. Сделката е обявена като„зад гърба на Украйна“ — т.е. без прякото участие на Киев.",
-      "sources": ["Mediapool", "Reuters", "OffNews"],
-      "ids": [4, 12, 23],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Тръмп обявява „незаличимо петно“ на Норвегия и налага зверски санкции срещу МНС",
-      "summary": "След като Норвегия не му даде Нобеловата награда за мир, Тръмп обявява „незаличимо петно“ и САЩ удариха финансово Международния наказателен съд. В същото време САЩ предлагат на Португалия изтребители F-35 за замяна на F-16.",
-      "sources": ["Mediapool", "Reuters", "OffNews"],
-      "ids": [2, 10, 27, 28],
-      "link": "https://www.mediapool.bg/svyat/tramp-norvegiya-si-slozhi-nezalichimo-petno-kato-ne-mi-dade-nobelovata-nagrada-za-mir/"
-    },
-    {
-      "category": "Общество",
-      "headline": "Разследванията за полетите на Делян Пеевски продължават — самолет, мантинели и ОАЕ",
-      "summary": "Свободна точка публикува анализ на частния самолет, мантинелите и ОАЕ във връзка с полетите на Делян Пеевски. Демерджиев отбелязва „интересна“ зависимост между бомбените заплахи и полетите на Пеевски.",
-      "sources": ["Свободна точка", "Dnevnik"],
-      "ids": [1, 49],
-      "link": "https://svobodnatochka.bg/analizi/chasten-samolet-mantineli-oae-kakvo-znaem-dosega-za-poletite-na-delyan-peevski/"
-    },
-    {
       "category": "Политика",
-      "headline": "След изборите: денят ще бъде неучебен, но присъствен за учениците",
-      "summary": "Решено е денят след изборите да бъде неучебен, но присъствен за учениците. Родителите са възмутени от решението, което е прието в „Фабрика за социални услуги“. В същото време Йотова включва детски ансамбъл в предизборна среща.",
-      "sources": ["Actualno", "Boulevard Bulgaria"],
-      "ids": [21, 35],
-      "link": "https://www.actualno.com/education/fabrika-za-socialni-uslugi-reshiha-denjat-sled-izborite-da-e-neucheben-no-prisystven-roditelite-vyzmuteni-news_2648646.html"
+      "headline": "Тръмп благодари на Путин за дизела, Зеленски отговори: \"Слаб си\"; Киев неофициално \"Ще им горим рафинериите\"",
+      "summary": "След сделката за гориво на Тръмп и Путин: Украйна подпали два петролни терминала в Русия. Кремъл с подробности за разговора Тръмп-Путин — никой не искаше да затвори телефона пръв. Тръмп вдигна санкциите срещу руския дизел точно преди изборите в САЩ — \"подарък за Путин\".",
+      "sources": [
+        "Actualno",
+        "Boulevard Bulgaria",
+        "Reuters",
+        "Свободна точка",
+        "OffNews"
+      ],
+      "ids": [
+        3,
+        6,
+        7,
+        19,
+        25,
+        28,
+        29,
+        48
+      ],
+      "link": "https://www.actualno.com/america/trymp-blagodarja-na-putin-za-dizela-zelenski-slab-si-kiev-neoficialno-shte-im-gorim-rafineriite-video-news_2648677.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Южноафриканската юристка Нави Пилай спечели Нобеловата награда за мир",
+      "summary": "Тръмп реве като ранена в сърцето пантера, че няма Нобелова награда за мир. Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize.",
+      "sources": [
+        "Actualno",
+        "Reuters",
+        "Свободна точка"
+      ],
+      "ids": [
+        10,
+        25,
+        48
+      ],
+      "link": "https://www.actualno.com/america/njama-nobelova-nagrada-za-mir-trymp-reve-kato-ranena-v-syrceto-pantera-news_2648670.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "US says Chinese actions off Taiwan are 'deeply destabilising'",
+      "summary": "US-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia. Is China seeking to restrict Taiwan's cultural presence?",
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "ids": [
+        26,
+        44
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1Z1cm9qMG82ZERURWhPaEFEbUNjNXpaNWVoUFRPd0didjIxRy1BTnBhSUdJalhQMl9DRkY3bTNjZlBfOXlOd050U1ZfaEdQN2ZHSUw4QXVBbVh0RHVPUWpLZ3ZwSWs0cjhTY25pTEFsdkYzOUFicmpUTjlHc2h4V3RJZW1SSlBLdVoxVE9DeEM0Qko1ZGp3Z0ppZi1TM3lNTENrbWhQYWJVc3c?oc=5"
+    },
+    {
+      "category": "Технологии",
+      "headline": "OpenAI и Anthropic проиграват сценарии за катастрофа с изкуствен интелект",
+      "summary": "Дийпфейк, голи снимки и дигитални хайки: Кои престъпления не вижда българският закон. Cloudflare acquires Deno. REA Reverse – Engineer Anything. Our $445M Series D.",
+      "sources": [
+        "FrogNews",
+        "Mediapool",
+        "Hacker News"
+      ],
+      "ids": [
+        4,
+        27,
+        35,
+        43,
+        45
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/diypfeik-goli-snimki-i-digitalni-haiki-koi-prestapleniya-ne-vizhda-balgarskiyat-zakon/"
     },
     {
       "category": "Икономика",
-      "headline": "Китай свива наполовина износа на хибриди за ЕС — какво губи и печели България",
-      "summary": "Китай намалява износа на хибридни превозни средства за ЕС с половината. Анализът показва как това засяга пазарите в България и кои сектори печелят или губят от промяната.",
-      "sources": ["FrogNews"],
-      "ids": [26],
-      "link": "https://frognews.bg/novini/kitai-sviva-napolovina-iznosa-hibridi-kakvo-gubi-pecheli-balgariia.html"
+      "headline": "Сделката на „Лукойл“ и „Карлайл“ за продажба вече не важи — търси се нов купувач",
+      "summary": "Китай свива наполовина износа на хибриди за ЕС: Какво губи и печели България. Имате ли право на 50 евро помощ? Ето кой може да получи парите. Черна гора арестува руски военен блогър по подозрения в хибридна акция.",
+      "sources": [
+        "FrogNews",
+        "Свободна точка",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        30,
+        31,
+        33,
+        49
+      ],
+      "link": "https://frognews.bg/novini/imate-pravo-50-evro-pomosht-eto-koi-moje-poluchi-parite.html"
     }
   ]
 }
