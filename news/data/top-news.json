@@ -1,75 +1,46 @@
 {
-  "updatedAt": "2026-10-10T10:09:30.697Z",
-  "overview": "Brief overview of key regional and international events for the day.",
+  "updatedAt": "2026-10-10T10:28:00.000Z",
+  "overview": "Денят е отбелязан от дипломатическите преговори между САЩ и Русия за износ на дизел, които са съпътствани от нови руски атаки в Запорожие с жертви. В България главна тема е напускането на Мариета Николаева от NOVA, а в света — протестите в Индия и ураганът Isaias във Флорида.",
   "stories": [
     {
-      "category": "Екология",
-      "headline": "Warm weekend and Hurricane Isaias affect Eastern Europe and US",
-      "summary": "OffNews reports a sunny and warm Saturday reaching 30°C, DW reports Hurricane Isaias made landfall in Florida, and FrogNews confirms Black Sea water quality remains clean after drone attacks.",
-      "sources": [
-        "OffNews",
-        "DW",
-        "FrogNews"
-      ],
-      "ids": [
-        31,
-        33,
-        43
-      ],
-      "link": "https://offnews.bg/obshtestvo/slancheva-i-topla-sabota-do-30-gradusa-dnes-876194.html"
+      "category": "Свят",
+      "headline": "Тръмп и Путин сключиха споразумение за износ на дизел — Украйна го окачава като „подарък“ на Русия",
+      "summary": "САЩ и Русия постигнаха споразумение за износ на дизел след разпоредба на Тръмп за вдигане на санкците срещу руския дизел точно преди изборите в САЩ. Украйна обвинява Русия, че е подпалила два петролни терминала в отговор на сделката. Кремъл описва разговора като „производствен“, а преговорите между САЩ и Украйна в Маями приключиха преждевременно.",
+      "sources": ["Actualno", "Свободна точка", "Mediapool", "FrogNews"],
+      "ids": [26, 31, 32, 33, 7, 8, 12],
+      "link": "https://www.actualno.com/america/trymp-blagodarja-na-putin-za-dizela-zelenski-slab-si-kiev-neoficialno-shte-im-gorim-rafineriite-video-news_2648677.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Руски атаки в Запорожие — седем загинали и разрушения на жилищен блок",
+      "summary": "Русия атака Запорожие с авиационна бомба, която разруши вход на жилищен блок — осем души загинали. Зеленски обвинява Русия, че „благодари“ за вдигнатите санкции с пет бомби и 12 жертви. Руската авиационна бомба е разрушила вход на жилищен блок в Запорожие, а руските сили продължават да атакуват Украйна.",
+      "sources": ["OffNews", "Mediapool", "Reuters", "Свободна точка"],
+      "ids": [1, 11, 21, 24],
+      "link": "https://offnews.bg/sviat/zelenski-sled-udarite-v-zaporozhie-rusia-blagodari-za-vdignatite-876210.html"
+    },
+    {
+      "category": "Култура",
+      "headline": "Мариета Николаева напуска NOVA телевизия с остри коментари за ръководството",
+      "summary": "Номинираната за „Еми“ Мариета Николаева напуска NOVA телевизия, след като публикува остра критика към ръководството. Тя описва състоянието на медията с думи като „некадърност, болни амбиции и дефицити“ и твърди, че „стойностните журналисти се оказват с отпаднала необходимост“.",
+      "sources": ["OffNews", "Свободна точка", "Boulevard Bulgaria"],
+      "ids": [9, 14, 16],
+      "link": "https://offnews.bg/medii/nominiranata-za-emi-marieta-nikolaeva-napuska-nova-televizia-s-ost-876209.html"
     },
     {
       "category": "Общество",
-      "headline": "Violent crimes reported in Georgia and Mexico",
-      "summary": "Reuters reports five people were shot dead at a residence in Georgia’s Douglas, and DW reports a Mexican court convicted three men for murdering Australian and US surfers.",
-      "sources": [
-        "Reuters",
-        "DW"
-      ],
-      "ids": [
-        5,
-        34
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ?oc=5"
+      "headline": "Индия: задържани стотици протестиращи по повод движението „Хлебарките“",
+      "summary": "Полицията в Индия задържа основателя на движението „Хлебарките“ Абхиджит Дипке и десетки протестиращи в Ню Делхи. Сблъсъците с властта са избухнали след протести срещу правителствената политика, при които са пострадали и журналисти.",
+      "sources": ["FrogNews", "Reuters", "DW"],
+      "ids": [13, 37, 39],
+      "link": "https://frognews.bg/novini/hlebarkite-nov-sblasak-vlastta-indiia-stotitsi-zadarjani-vkliuchitelno-jurnalisti.html"
     },
     {
       "category": "Икономика",
-      "headline": "European aid program expands and Cloudflare acquires Deno",
-      "summary": "FrogNews reports eligibility criteria for a 50-euro assistance program, and Hacker News covers Cloudflare’s acquisition of Deno for an undisclosed amount.",
-      "sources": [
-        "FrogNews",
-        "Hacker News"
-      ],
-      "ids": [
-        36,
-        50
-      ],
-      "link": "https://frognews.bg/novini/imate-pravo-50-evro-pomosht-eto-koi-moje-poluchi-parite.html"
-    },
-    {
-      "category": "Технологии",
-      "headline": "New tools for reverse engineering and gaming released",
-      "summary": "Hacker News reports on REA Reverse, a platform for reverse engineering anything, and Triple-A Minesweeper, a new browser‑based puzzle game.",
-      "sources": [
-        "Hacker News"
-      ],
-      "ids": [
-        35,
-        42
-      ],
-      "link": "https://rea.tools/"
-    },
-    {
-      "category": "Общество",
-      "headline": "Kresnenski defile road closure due to accident",
-      "summary": "Dnevnik reports a serious accident closed the Kresnenski defile highway for nearly three hours.",
-      "sources": [
-        "Dnevnik"
-      ],
-      "ids": [
-        45
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRVBwZDlBY3RqcEtxZWU2NjctMWNwUE9KT0htdFoxM2NMZmw3OFI2c2Q1d2d6VzA4M1dYZFVqbHJVUkg1X3kybzNnWE9mdkc1THFsRmpGSHFrQ2p0c1FURFJwckdqcDZpWlBLTUk5RzNCZ3J2V3AzNl9xOXBBcWZ0Uk1LT0VOSEluTzFtcXozQld1TkFEc2JDc2VqTF8zbGNBVlJsVnBQcVA?oc=5"
+      "headline": "„Лукойл“ влиза в сделка за 20 млрд. долара с Тод Боули за българската рафинерия",
+      "summary": "Рафинерията на „Лукойл“ в България влиза в сделка за 20 млрд. долара с Тод Боули, която се подкрепя от Тръмп. Сделката е част от по-широкия контекст на преговорите между САЩ, Русия и Украйна за енергийни въпроси.",
+      "sources": ["FrogNews", "Mediapool"],
+      "ids": [7, 12],
+      "link": "https://frognews.bg/novini/rafineriiata-lukoil-balgariia-vliza-sdelka-20-mlrd-dolara-tod-bouli.html"
     }
   ]
 }
