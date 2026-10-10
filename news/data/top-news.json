@@ -1,80 +1,66 @@
 {
-  "updatedAt": "2026-10-10T13:22:21.183Z",
-  "overview": "Денят е отбелязан от тежките събития в Украйна — руските удари по Запорожие оставиха десетки жертви, а споразумението Тръмп–Путин за руски дизел предизвика дипломатическа буря. Сред другите заглавия са сделката на \"Лукойл\" с Тод Боули, напускането на Мариета Николаева от Нова телевизия и събиването на стотици участници в индийското движение \"Хлебарки\".",
+  "updatedAt": "2026-10-10T14:04:49.699Z",
+  "overview": "Денят е отбелязан от 5 ключови събития от различни източници.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп сключи сделка с Путин за руски дизел — Зеленски предупреждава, че ще горят рафинериите",
-      "summary": "Тръмп се споразумя с Путин за износ на дизел зад гърба на Украйна, което Киев неофициално нарече \"подарък\" на Русия. Кремъл сподели подробности за разговора, докато Зеленски предупреди, че ще горят рафинериите. Русия \"благодари\" за отменените санкции с 5 бомби върху жилищни блокове в Украйна.",
+      "category": "Технологии",
+      "headline": "Major Saudi conferences to proceed, organisers say, despite deadly airport attack - Reuters",
+      "summary": "Статиите описват Reuters за \"Major Saudi conferences to proceed, organisers say, despite deadly airport attack - Reuters\".",
       "sources": [
-        "Actualno",
-        "Mediapool",
         "Reuters"
       ],
       "ids": [
-        8,
-        9,
-        10,
-        16,
-        17
+        1
       ],
-      "link": "https://www.actualno.com/america/za-da-pobedite-ne-trjabva-da-kupuvate-ruski-petrol-trymp-v-pylnija-mu-lyjliv-bljasyk-video-news_2648764.html"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Рафинерията на \"Лукойл\" в България влиза в сделка за продажба за 20 млрд. долара",
-      "summary": "Рафинерията на \"Лукойл\" в България влиза в сделка за продажба за 20 млрд. долара с Тод Боули, подкрепена от Тръмп. Пулев заяви, че няма риск за доставките на петрол.",
-      "sources": [
-        "Boulevard Bulgaria",
-        "Mediapool",
-        "Dnevnik"
-      ],
-      "ids": [
-        3,
-        4,
-        31
-      ],
-      "link": "https://boulevardbulgaria.bg/articles/borisov-prognozira-defitsit-na-dizel-i-obvini-vlastta-v-shema-s-gorivata"
-    },
-    {
-      "category": "Общество",
-      "headline": "Индийската полиция задържа стотици от движението \"Хлебарки\" в Делхи",
-      "summary": "Индийската полиция задържа стотици участници в протестното движение \"Хлебарки\" в Делхи, включително журналисти.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        18
-      ],
-      "link": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Култура",
-      "headline": "Мариета Николаева напуска NOVA с остри критики за ръководството",
-      "summary": "Номинираната за \"Еми\" Мариета Николаева напуска Нова телевизия с остър коментар за ръководството, наричайки колегите си \"некадърност, болни амбиции и дефицити\".",
-      "sources": [
-        "Свободна точка",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        33,
-        34
-      ],
-      "link": "https://svobodnatochka.bg/novini/nekadarnost-bolni-ambitsii-i-defitsiti-marieta-nikolaeva-napuska-nova-televiziya/"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3lBZTEwaWVLUXNScDVCZjV1eDRkb3RoWnM2M0ZkOE9DM0ZVMDNPaXA1ZDJXQ0xYZ2JqZm85dm9HbHBOSXNaQmVzUWJQN0xnMXpNR2dENDFoMXItWEQxYlB2WmZGUVVxYU1RX0E0RHNKSWd0RDNkbmk1Ty1MZnlJZFUxR3pjanFwSWZzS3hiZlktMEtTM2psOS12Y2xaMlk1MEc1Nm81NU50WjFKN0ZkY082T0pFVGU3dmd6T3JIckNPcFR0VlM0?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "\"Исаяс\" връхлетя Флорида с ветрове до 169 км/ч, стотици хиляди са без ток",
-      "summary": "Ураганът \"Исаяс\" пристигна във Флорида с ветрове до 169 км/ч, оставяйки стотици хиляди без ток.",
+      "headline": "Путин отказал на Тръмп да спре войната преди пълна победа - Dnevnik.bg",
+      "summary": "Статиите описват Dnevnik за \"Путин отказал на Тръмп да спре войната преди пълна победа - Dnevnik.bg\".",
       "sources": [
-        "FrogNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        2
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1dBWUU0NllJcXgzaXpheVl0RE5pYVdwaGFPNXVOMjc3RmJ4MzNqX1RQeDlyVnk1UE5jdkJXU0ZLZ1JJNTBOaGNWd1l6d3ZIb0d2QTR0enBKVzI0UEh4NmJ6ejdUWEZKazUyMDQwdjFjWjlFQWtjTUZjcXpqbnBVMEFKWXpkVG5kUEhvcjJfcmFVVXdyN1FJTl81bW9ua0M1NnlqN2hsdUVidw?oc=5"
+    },
+    {
+      "category": "Технологии",
+      "headline": "&apos;Ragebait&apos; is the 2026 German Youth Word of the Year",
+      "summary": "Статиите описват DW за \"&apos;Ragebait&apos; is the 2026 German Youth Word of the Year\".",
+      "sources": [
         "DW"
       ],
       "ids": [
-        26,
-        19
+        3
       ],
-      "link": "https://frognews.bg/novini/isaias-vrahletia-florida-vetrove-169-kmch-stotitsi-hiliadi-bez-tok.html"
+      "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Политика",
+      "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
+      "summary": "Статиите описват DW за \"Germany sticks to Russia sanctions after Trump diesel deal\".",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        4
+      ],
+      "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
+      "summary": "Статиите описват Reuters за \"Five shot dead at residence in Georgia's Douglas, police says - Reuters\".",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        5
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ?oc=5"
     }
   ]
 }
