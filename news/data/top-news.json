@@ -1,45 +1,72 @@
 {
-  "updatedAt": "2026-10-10T06:00:31.000Z",
-  "overview": "Днес се очертават няколко големи международни и български събития: САЩ налагат санкции срещу Международния наказателен съд, Тръмп сключва сделка с Путин за руски дизел, а в България продължават предизборните напрежения около училищния режим след изборите и хибридните заплахи с бомби.",
+  "updatedAt": "2026-10-10T03:38:27.000Z",
+  "overview": "Днес се очертават няколко големи международни и български събития: Тръмп сключи сделка с Путин за руски дизел, САЩ наложиха санкции срещу Международния наказателен съд, а в България продължават предизборните напрежения и хибридните заплахи с фалшиви бомби.",
   "stories": [
     {
+      "category": "Политика",
+      "headline": "Тръмп сключва сделка с Путин за доставки на руски дизел в САЩ и по света",
+      "summary": "Инцидентът е обхванат от 3 източника, включително Reuters, OffNews.",
+      "sources": [
+        "Reuters",
+        "OffNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        19
+      ],
+      "link": "https://offnews.bg/ikonomika/tramp-skliuchi-sdelka-s-putin-za-dostavki-na-ruski-dizel-v-sasht-i-po-876201.html"
+    },
+    {
       "category": "Свят",
-      "headline": "САЩ налагат зверски санкции срещу Международния наказателен съд, след като Тръмп не взе Нобела за мир",
-      "summary": "САЩ удариха финансово Международния наказателен съд с цел неговото разформиране, след като Тръмп не е получил Нобеловата награда за мир. Двата съдия са сред засегнатите.",
-      "sources": ["OffNews", "Mediapool"],
-      "ids": [23, 24],
+      "headline": "САЩ налагат санкции срещу Международния наказателен съд",
+      "summary": "Инцидентът е обхванат от 2 източника, включително OffNews, Mediapool.",
+      "sources": [
+        "OffNews",
+        "Mediapool"
+      ],
+      "ids": [
+        23
+      ],
       "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html"
     },
     {
       "category": "Политика",
-      "headline": "Тръмп сключва сделка с Путин за доставки на руски дизел в САЩ и по света",
-      "summary": "САЩ, Украйна и европейски преговорители се срещат в Маями, след като Тръмп обяви сделка с Русия за доставки на руски дизел. Зеленски описва продажбата на дизел като „инвестиция в войната“.",
-      "sources": ["Reuters", "OffNews"],
-      "ids": [4, 14, 18],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5"
-    },
-    {
-      "category": "Политика",
       "headline": "Йотова включва детски ансамбъл в предизборна среща, а денят след изборите ще е неучебен, но присъствен",
-      "summary": "Мария Йотова включва детски ансамбъл в предизборната си среща, а решено е денят след изборите да бъде неучебен, но присъствен за учениците. Родителите са възмутени от решението.",
-      "sources": ["Mediapool", "Boulevard Bulgaria", "Actualno"],
-      "ids": [34, 32, 13],
-      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/yotova-vklyuchi-detski-ansambal-v-predizborna-sreshta/"
+      "summary": "Инцидентът е обхванат от 3 източника, включително Mediapool, Boulevard Bulgaria.",
+      "sources": [
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Actualno"
+      ],
+      "ids": [
+        32
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/denyat-sled-izborite-shte-e-neucheben-no-prisastven-za-uchenitsite-26"
     },
     {
       "category": "Общество",
-      "headline": "Фалшивите бомбени заплахи целят всяване на хаос, Демерджиев намеси и Пеевски",
-      "summary": "„Хибридни операции“ — фалшивите бомбени заплахи се използват за създаване на хаос. Демерджиев отбелязва интересна зависимост между бомбените заплахи и полетите на Пеевски.",
-      "sources": ["FrogNews", "Dnevnik"],
-      "ids": [48, 49],
-      "link": "https://frognews.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
+      "headline": "Фалшивите бомбени заплахи целят всяване на хаос — Демерджиев намеси и Пеевски",
+      "summary": "Инцидентът е обхванат от 3 източника, включително Свободна точка, FrogNews.",
+      "sources": [
+        "Свободна точка",
+        "FrogNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        49
+      ],
+      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
       "category": "Икономика",
       "headline": "Китай свива наполовина износа на хибриди за ЕС: Какво губи и печели България",
-      "summary": "Китай намалява наполовина износа на хибридни превозни средства за Европейския съюз, което засяга и пазара в България.",
-      "sources": ["FrogNews"],
-      "ids": [21],
+      "summary": "Инцидентът е обхванат от 1 източника, включително FrogNews.",
+      "sources": [
+        "FrogNews"
+      ],
+      "ids": [
+        22
+      ],
       "link": "https://frognews.bg/novini/kitai-sviva-napolovina-iznosa-hibridi-kakvo-gubi-pecheli-balgariia.html"
     }
   ]
