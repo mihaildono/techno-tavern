@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-10-10T08:00:00.000Z",
+  "updatedAt": "2026-10-10T08:15:00.000Z",
   "overview": "На дневния ред доминират две международни събития — сделката между Тръмп и Путин за доставки на руски дизел и американските санкции срещу Международния наказателен съд, както и домакинските дебати за фалшиви бомбени заплахи и учебния ден след изборите.",
   "stories": [
     {
       "category": "Политика",
-      "headline": "Тръмп сключва сделка с Путин за доставки на руски дизел в САЩ и по света",
+      "headline": "Тръмп сключи сделка с Путин за руски дизел зад гърба на Украйна",
       "summary": "Тръмп обяви сделка с Путин за доставки на руски дизел, докато в Миями се провеждат преговорите на САЩ, Украйна и Европа.",
-      "sources": ["OffNews", "Reuters"],
-      "ids": [18, 8],
-      "link": "https://offnews.bg/ikonomika/tramp-skliuchi-sdelka-s-putin-za-dostavki-na-ruski-dizel-v-sasht-i-po-876201.html"
+      "sources": ["Mediapool", "Reuters"],
+      "ids": [3, 12],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina/"
     },
     {
       "category": "Свят",
       "headline": "САЩ налагат финансови санкции срещу Международния наказателен съд",
       "summary": "САЩ удариха финансово Международния наказателен съд; OffNews посочва, че това е заради отказа на Нобеловата награда за мир, а Mediapool — че целта е разформироването на институцията.",
       "sources": ["OffNews", "Mediapool"],
-      "ids": [22, 23],
+      "ids": [26, 27],
       "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html"
     },
     {
       "category": "Общество",
       "headline": "Демерджиев: Фалшивите бомбени заплахи са хибридна операция срещу психиката на обществото",
-      "summary": "Демерджиев намеси Пеевски в обяснението за бомбените заплахи като хибридна операция; Dnevnik съобщи за „интересна“ зависимост между заплахите и полетите на Пеевски.",
+      "summary": "Демерджиев намеси Пеевски в обяснението за бомбените заплахи като хибридна операция; Dnevnik съобщи за \"интересна\" зависимост между заплахите и полетите на Пеевски.",
       "sources": ["Свободна точка", "Dnevnik"],
       "ids": [48, 49],
       "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
       "category": "Общество",
-      "headline": "Денят след изборите ще е неучебен, но присъствен",
+      "headline": "Денят след изборите ще е неучебен, но присъствен, родителите възмутени",
       "summary": "Родителите са възмутени, че учебният ден след изборите ще бъде неучебен, но присъствен — Actualno предаде гнева на родителите, Boulevard Bulgaria потвърди решението.",
       "sources": ["Actualno", "Boulevard Bulgaria"],
-      "ids": [16, 31],
-      "link": "https://boulevardbulgaria.bg/articles/denyat-sled-izborite-shte-e-neucheben-no-prisastven-za-uchenitsite-26"
+      "ids": [20, 34],
+      "link": "https://actualno.com/education/fabrika-za-socialni-uslugi-reshiha-denyat-sled-izborite-da-e-neucheben-no-prisastven-roditelite-vyzmuteni-news_2648646.html"
     },
     {
       "category": "Икономика",
       "headline": "Китай свива наполовина износа на хибриди за ЕС",
       "summary": "Китай ограничава износа на хибридни автомобили за ЕС наполовина — FrogNews анализира какво губи и печели България.",
       "sources": ["FrogNews"],
-      "ids": [21],
+      "ids": [25],
       "link": "https://frognews.bg/novini/kitai-sviva-napolovina-iznosa-hibridi-kakvo-gubi-pecheli-balgariia.html"
     }
   ]
