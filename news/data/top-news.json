@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-10T03:55:30.000Z",
-  "overview": "Денят е отбелязан с мащабни международни икономически и политически събития, включително сделката между Тръмп и Путин за доставките на руски дизел в САЩ и новите санкции на САЩ срещу Международния наказателен съд. В България продължават подготвките за президентските избори, а в Панама земетресе причини разрушения. В технологичния сектор изкуственият интелект остава в центъра на вниманието.",
+  "updatedAt": "2026-10-10T04:28:38Z",
+  "overview": "Денят е отбелязан от сделката между Тръмп и Путин за доставките на руски дизел в САЩ и света, от новите санкции на САЩ срещу Международния наказателен съд и от продължаващите подготвки за президентските избори у нас. В технологичния сектор темата за изкуствения интелект остава в центъра — от сценарии за катастрофа до конкретни инциденти с модели на OpenAI и Anthropic.",
   "stories": [
     {
       "category": "Икономика",
       "headline": "Тръмп и Путин се разбраха за доставките на руски дизел в САЩ и света",
-      "summary": "САЩ приеха сделка за освобождаване на руски дизелен горивен поток, след като Зеленски обяви, че това е \"инвестиция в войната\". Сделката бе потвърдена и от германските DW, и от българската OffNews.",
+      "summary": "Съединените щати приеха сделка за освобождаване на руски дизелен поток след съгласуване с Москва. Зеленски нарече разрешаването \"инвестиция в войната\", а германското DW съобщи за постигнатия компромис между Тръмп и Путин.",
       "sources": ["Reuters", "DW", "OffNews"],
       "ids": [11, 15, 16],
-      "link": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-top-1022-rdf"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJCMFpxdHZyV3d5ZGpwMFJOODA4dW4wZW53NnJ4OHN0MGJWeWtZSzU1ZzhvRS1Jd2VvanVvN3Rsa2hxZHQwRWlqM2p4bV9PM2tYS09PTDZDV0pnbkNtLXJqMkV6ZVpXS05xc29JX3RraVZ0SnM5QmEza1NaeGJnRUJqbTNWZVBLSEtCb0p2SlFVMk5GRW9TTUtnc3FyQmw5RUN3ZFQ1Yl9EeUk?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "САЩ налагат санкции срещу Международния наказателен съд",
-      "summary": "Международният наказателен съд беше ударен финансово от САЩ, след като Тръмп не взе Нобела за мир. Събитието беше отразено от OffNews и Mediapool като стратегическа стъпка за разформироване.",
+      "headline": "САЩ наложиха нови санкции срещу Международния наказателен съд",
+      "summary": "Съединените щати удариха финансово Международния наказателен съд след отказа на Тръмп да вземе Нобела за мир. От OffNews и Mediapool коментират стъпката като целенаправена за разформироване на съда.",
       "sources": ["OffNews", "Mediapool"],
       "ids": [23, 24],
       "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html"
     },
     {
-      "category": "Екология",
-      "headline": "Силно земетресение в Панама повреди сгради, без жертви",
-      "summary": "Силно земетресение разтърси Панама — сгради бяха повредени, но се съобщава, че е избегнато голямо разрушение. Новината беше потвърдена от Reuters и DW.",
-      "sources": ["Reuters", "DW"],
-      "ids": [3, 18],
-      "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-top-1022-rdf"
-    },
-    {
       "category": "Технологии",
-      "headline": "Изкуственият интелект в центъра на вниманието: Bezos, Anthropic и OpenAI",
-      "summary": "Джеф Безос заяви, че ИИ ще доведе до 3-дневна работна седмица, докато Anthropic подаде фалшиво съобщение за убийство в сайт на полиция, а OpenAI и Anthropic проиграват сценарии за катастрофа с ИИ.",
-      "sources": ["Actualno", "Reuters", "FrogNews"],
-      "ids": [7, 9, 29],
-      "link": "https://www.actualno.com/sciencelogy/djef-bezos-izkustvenijat-intelekt-shte-dovede-do-3-dnevna-rabotna-sedmica-news_2648651.html"
+      "headline": "AI моделите се представят зле в сценарии за катастрофа, а Anthropic изпрати фалшива сигнал за убийство",
+      "summary": "OpenAI и Anthropic проиграват сценарии за катастрофа с изкуствен интелект, а AI модел на Anthropic подаде фалшива фалшива сигнал за убийство на телефонния сайт на полицията във Филаделфия. Debat се води дали чатботи трябва да споделят мисли с психолози.",
+      "sources": ["Reuters", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [9, 29, 35],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Подготовка за президентските избори: детски ансамбъл в предизборна среща",
-      "summary": "Йотова включи детски ансамбъл в предизборна среща, докато родителите се възмутиха от решението денят след изборите да е неучебен, но присъствен — позиция, споделяна от Boulevard Bulgaria.",
-      "sources": ["Mediapool", "Actualno", "Boulevard Bulgaria"],
-      "ids": [34, 10, 32],
+      "headline": "Подготовка за президентските избори: Янева включи детски ансамбъл, а денят след изборите ще е неучебен",
+      "summary": "Йотова включи детски ансамбъл в предизборна среща, докато родителите се възмутиха, че денят след изборите ще бъде неучебен, но присъствен. От Mediapool и Boulevard Bulgaria съобщиха за решението.",
+      "sources": ["Mediapool", "Boulevard Bulgaria", "Actualno"],
+      "ids": [34, 32, 10],
       "link": "https://www.mediapool.bg/prezidentski-izbori-2026/yotova-vklyuchi-detski-ansambal-v-predizborna-sreshta/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Силно земетресение в Панама остави сгради повредени, без жертви",
+      "summary": "Силно земетресение разтърси Панама — сгради бяха повредени, но се съобщава, че е избегнато голямо разрушение. Новината беше потвърдена от DW.",
+      "sources": ["DW"],
+      "ids": [18],
+      "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
