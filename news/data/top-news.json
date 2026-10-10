@@ -1,72 +1,45 @@
 {
-  "updatedAt": "2026-10-10T03:38:27.000Z",
+  "updatedAt": "2026-10-10T07:00:00.000Z",
   "overview": "Днес се очертават няколко големи международни и български събития: Тръмп сключи сделка с Путин за руски дизел, САЩ наложиха санкции срещу Международния наказателен съд, а в България продължават предизборните напрежения и хибридните заплахи с фалшиви бомби.",
   "stories": [
     {
       "category": "Политика",
       "headline": "Тръмп сключва сделка с Путин за доставки на руски дизел в САЩ и по света",
-      "summary": "Инцидентът е обхванат от 3 източника, включително Reuters, OffNews.",
-      "sources": [
-        "Reuters",
-        "OffNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        19
-      ],
+      "summary": "Инцидентът включва сделка между Тръмп и Путин за доставки на руски дизел в САЩ, подкрепена от съобщения от Reuters и OffNews, които описват съответната дипломатическа и икономическа координация.",
+      "sources": ["OffNews", "Reuters"],
+      "ids": [18, 6, 15],
       "link": "https://offnews.bg/ikonomika/tramp-skliuchi-sdelka-s-putin-za-dostavki-na-ruski-dizel-v-sasht-i-po-876201.html"
     },
     {
-      "category": "Свят",
-      "headline": "САЩ налагат санкции срещу Международния наказателен съд",
-      "summary": "Инцидентът е обхванат от 2 източника, включително OffNews, Mediapool.",
-      "sources": [
-        "OffNews",
-        "Mediapool"
-      ],
-      "ids": [
-        23
-      ],
+      "category": "Политика",
+      "headline": "САЩ налагат зверски санкции срещу Международния наказателен съд",
+      "summary": "САЩ налагат тежки финансови санкции срещу Международния наказателен съд след като Тръмп не беше удостоен с Нобелова награда за мир, съобщава OffNews, докато Mediapool посочва, че целта е да се постигне разформироване на институцията.",
+      "sources": ["OffNews", "Mediapool"],
+      "ids": [22, 23],
       "link": "https://offnews.bg/sviat/sasht-nalagat-zverski-sanktcii-sreshtu-mezhdunarodnia-nakazatelen-sad-876199.html"
     },
     {
-      "category": "Политика",
-      "headline": "Йотова включва детски ансамбъл в предизборна среща, а денят след изборите ще е неучебен, но присъствен",
-      "summary": "Инцидентът е обхванат от 3 източника, включително Mediapool, Boulevard Bulgaria.",
-      "sources": [
-        "Mediapool",
-        "Boulevard Bulgaria",
-        "Actualno"
-      ],
-      "ids": [
-        32
-      ],
-      "link": "https://boulevardbulgaria.bg/articles/denyat-sled-izborite-shte-e-neucheben-no-prisastven-za-uchenitsite-26"
+      "category": "Общество",
+      "headline": "Хибридни операции и фалшиви бомбени заплахи целят всяване на хаос в България",
+      "summary": "Хибридни операции с фалшиви бомбени заплахи и необичайни летателни дейности целят да предизвикат хаос и безпокойство, включващи споменаваните намеси на Демерджиев и Пеевски, както и съобщения за атаката с дронове в Черно море.",
+      "sources": ["Свободна точка", "FrogNews", "Dnevnik"],
+      "ids": [48, 30, 49],
+      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
     },
     {
-      "category": "Общество",
-      "headline": "Фалшивите бомбени заплахи целят всяване на хаос — Демерджиев намеси и Пеевски",
-      "summary": "Инцидентът е обхванат от 3 източника, включително Свободна точка, FrogNews.",
-      "sources": [
-        "Свободна точка",
-        "FrogNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        49
-      ],
-      "link": "https://svobodnatochka.bg/novini/hibridni-operatsii-falshivite-bombeni-zaplahi-tselyat-vsyavane-na-haos-kaza-demerdzhiev/"
+      "category": "Политика",
+      "headline": "Йотова включва детски ансамбъл в предизборна среща, събитие, което предизвика възмущение сред родителите",
+      "summary": "Йотова включи детски ансамбъл в предизборна среща, съпроводена с решение денят след изборите да бъде неучебен, но присъствен за учениците, което предизвика възмущение сред родителите.",
+      "sources": ["Mediapool", "Boulevard Bulgaria", "Actualno"],
+      "ids": [33, 31, 14],
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/yotova-vklyuchi-detski-ansambal-v-predizborna-sreshta/"
     },
     {
       "category": "Икономика",
       "headline": "Китай свива наполовина износа на хибриди за ЕС: Какво губи и печели България",
-      "summary": "Инцидентът е обхванат от 1 източника, включително FrogNews.",
-      "sources": [
-        "FrogNews"
-      ],
-      "ids": [
-        22
-      ],
+      "summary": "Инцидентът описва начинанието на Китай да намали значително износа на хибридни автомобили за Европейския съюз, което има непосредствени последствия за България.",
+      "sources": ["FrogNews"],
+      "ids": [21],
       "link": "https://frognews.bg/novini/kitai-sviva-napolovina-iznosa-hibridi-kakvo-gubi-pecheli-balgariia.html"
     }
   ]
