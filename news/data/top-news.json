@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-11T04:38:00.000Z",
-  "overview": "Денят е отбелязан от международните отношения около сделката между Тръмп и Путин за руски дизел, хитата по летището в Рияд и политическите скандали в САЩ. В България се очертава проблем с дизеловите горива.",
+  "updatedAt": "2026-10-11T11:56:00.000Z",
+  "overview": "Днес водещи са сделката на Тръмп с Путин за руски дизел и призивите му Зеленски да подаде оставка, както и хутиятската атака върху летището в Рияд с поне 12 загинали. Темите около българския пазар на горива, освобождаването на лидерите на индийското движение \"Cockroach\" и руския удар в Запорожие също са в центъра на вниманието.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Тръмп и Путин се споразумяват за руски дизел зад гърба на Украйна",
-      "summary": "САЩ и Русия работят по сделка за руски дизел, която може да засегне санкциите срещу Русия. Конгресмен-републиканец е задействал законопроект, който да спира сделката. ЕС предупреждава, че сега не е моментът да отслабваме натиска върху Русия.",
-      "sources": ["Actualno", "FrogNews", "Boulevard Bulgaria", "Mediapool", "OffNews", "Свободна точка"],
-      "ids": [15, 18, 32, 38, 42, 21, 46],
-      "link": "https://www.actualno.com/america/spira-sdelkata-na-trymp-s-putin-za-dizel-kongresmen-republikanec-se-zadejstva-sys-zakonoproekt-news_2648898.html"
+      "category": "Свят",
+      "headline": "Тръмп сключи сделка с Путин за руски дизел зад гърба на Украйна",
+      "summary": "Тръмп заяви, че Украйна няма право да атакува руските петролни рафинерии, и призова Зеленски да подаде оставка. Конгресмен-републиканец се задейства със законопроект за спиране на сделката, а ЕС заяви, че не е моментът да се ослабва натискът върху Русия.",
+      "sources": ["Mediapool", "Boulevard Bulgaria", "Actualno", "FrogNews", "OffNews", "DW", "Свободна точка"],
+      "ids": [11, 18, 39, 42, 44, 55, 61, 64],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina-obnovena/"
     },
     {
       "category": "Свят",
-      "headline": "Хутите атакуват с ракета летището в Рияд — 12 убити и стотици ранени",
-      "summary": "Над 12 души са убити и стотици са ранени при ракетен удар на хутите по летището в Рияд, Саудитска Арабия. Авиокомпании отменят полети след силна експлозия на летището.",
-      "sources": ["DW", "Actualno", "OffNews", "Dnevnik"],
-      "ids": [13, 14, 20, 30],
-      "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862"
+      "headline": "Хути атакуваха летището в Рияд — поне 12 загинали и над 300 ранени",
+      "summary": "Най-малко 12 души бяха убити при обстрел на летището на саудитската столица Рияд. Повече от 300 са ранени, авиокомпании отменят полети след силната експлозия, а хутите предупреждават авиолиниите и пътниците да не ползват саудитските летища.",
+      "sources": ["Mediapool", "Reuters", "Свободна точка", "Actualno", "OffNews", "Dnevnik"],
+      "ids": [5, 6, 15, 38, 43, 53],
+      "link": "https://www.mediapool.bg/blizak-iztok/nai-malko-12-dushi-byaha-ubiti-pri-obstrel-na-letishteto-na-sauditskata-stolitsa-riyad/"
     },
     {
       "category": "Икономика",
-      "headline": "Борисов предсказва дефицит на дизел и обвинява властта в схема с горивата",
-      "summary": "Борисов заговори за предстоящ дефицит на дизел и обвини властта в схема с горивата. Министърът на икономиката увери, че товарите с петрол към рафинерията в Бургас не са под заплаха, а Лукойл казва, че България няма основание за тревога.",
-      "sources": ["Boulevard Bulgaria", "Mediapool", "Dnevnik", "OffNews"],
-      "ids": [36, 35, 39, 29],
-      "link": "https://boulevardbulgaria.bg/articles/borisov-prognozira-defitsit-na-dizel-i-obvini-vlastta-v-shema-s-gorivata"
+      "headline": "Прогнози се недостиг на дизел в България — Лукойл отрича опасността",
+      "summary": "Борисов прогнозира дефицит на дизел и обвини властта в схема с горивата. Лукойл Нефтохим Бургас увери, че няма опасност от недостиг, а Пулев заяви, че няма риск за доставките на петрол и държавата следи ситуацията в Черно море.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik", "OffNews", "Mediapool"],
+      "ids": [51, 52, 58, 59],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmFtRGlZU1lpWjAtbzFvaVY4SVRXQ0FKb1dwRjE2Wk9ObnVta2xBMDE1RHhuUHp3UlpsMkJQT1p1RDBoVDg1c3FkVm5mZGlJVDN1TjBLV0RuaXB0R0gtbTV1aDRDNWNMUEJ6ZG1TXzE1YW5kRUsxY3FBeVZ0X0FGaXZhcy1GVEtoY3Fnby1GZG1XdW5CdGhuYkxfUm9hdXE0QUtVa09GUQ?oc=5"
     },
     {
-      "category": "Общество",
-      "headline": "Стрелба в Пенсилвания — 8 убити и извършителят се самоубива",
-      "summary": "В Пенсилвания, САЩ, неидентифициран стрелец убива 8 души и след това се самоубива. Полицията потвърди инцидента. AI подаде фалшив сигнал за убийство в полицията на Филаделфия, свързан със събитието.",
-      "sources": ["DW", "Reuters", "FrogNews"],
-      "ids": [5, 23, 22],
-      "link": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735"
-    },
-    {
-      "category": "Политика",
-      "headline": "Министерството на правосъдието на САЩ разследва бойкота на Тръмп срещу медиите",
-      "summary": "Министерството на правосъдието на САЩ разследва бойкота на Тръмп срещу пресния пул за антимонополно нарушение. Проучването засяга и телевизионните мрежи.",
+      "category": "Свят",
+      "headline": "В Индия освободиха лидерите на движението \"Cockroach\" пред новите протести",
+      "summary": "Индийският съд заповяда освобождаването на лидерите на движението \"Cockroach\", които призовават за нови протести. Столицата се готви за втори ден протести срещу главния изборен началник.",
       "sources": ["DW", "Reuters"],
-      "ids": [1, 9],
-      "link": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008"
+      "ids": [20, 21, 23, 24],
+      "link": "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "Руският удар в Запорожие уби най-малко 12 души",
+      "summary": "Руският удар върху украинския град Запорожие остави най-малко 12 загинали, като броят на жертвите се увеличи по-късно отначалното съобщение.",
+      "sources": ["Свободна точка", "Mediapool"],
+      "ids": [57, 63],
+      "link": "https://svobodnatochka.bg/novini/blagodari-za-otmyanata-na-sanktsiite-nay-malko-12-dushi-byaha-ubiti-v-zaporozhie-sled-ruski-udar/"
     }
   ]
 }
