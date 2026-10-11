@@ -1,45 +1,86 @@
 {
-  "updatedAt": "2026-10-11T04:37:00.000Z",
+  "updatedAt": "2026-10-11T05:25:00.000Z",
   "overview": "Денят бе отбелязан от тежък международен напрежение — спорна сделка между Тръмп и Путин за руски дизел зад гърба на Украйна и руски удар в Запорожие, при който загинаха най-малко 12 души. Домакинските теми включваха тревоги от дефицит на дизел в България и хутите атакуваха с ракета летището в Риад.",
   "stories": [
     {
       "category": "Политика",
       "headline": "Тръмп сключи сделка с Путин за руски дизел зад гърба на Украйна",
       "summary": "Доналд Тръмп сключи сделка с Владимир Путин за руски дизел, без да информира Украйна, докато ЕС настоява натискът върху Русия да не отслабва. Зеленски беше предупреден да не удря руски петролни рафинерии, а Кремъл играе по-голяма игра в Украйна.",
-      "sources": ["OffNews", "Actualno", "FrogNews", "Boulevard Bulgaria", "Mediapool"],
-      "ids": [10, 14, 21, 30, 36, 39],
+      "sources": [
+        "OffNews",
+        "Actualno",
+        "FrogNews",
+        "Boulevard Bulgaria",
+        "Mediapool"
+      ],
+      "ids": [
+        10,
+        14,
+        21,
+        30,
+        36,
+        39
+      ],
       "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina-obnovena/"
     },
     {
       "category": "Свят",
       "headline": "Хутите атакуваха с ракета летището в Риад: поне 12 убити и стотици ранени",
       "summary": "Ракетна атака на хутите в летището в Рияд остави поне 12 убити и стотици ранени, а авиокомпаниите отмениха полети след силна експлозия.",
-      "sources": ["DW", "OffNews", "Dnevnik"],
-      "ids": [3, 7, 28],
+      "sources": [
+        "DW",
+        "OffNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        3,
+        7,
+        28
+      ],
       "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
       "headline": "Руски удар в Запорожие остави най-малко 12 убити",
       "summary": "Руският удар срещу украинския град Запорожие остави най-малко 12 убити според двама различни източника, които следиха развитието на събитията.",
-      "sources": ["Свободна точка", "Mediapool"],
-      "ids": [32, 38],
+      "sources": [
+        "Свободна точка",
+        "Mediapool"
+      ],
+      "ids": [
+        32,
+        38
+      ],
       "link": "https://www.mediapool.bg/voina-v-ukraina/broyat-na-zhertvite-pri-ruskiya-udar-sreshtu-ukrainskiya-grad-zaporozhie-se-uvelichi-do-nai-malko-12/"
     },
     {
       "category": "Икономика",
       "headline": "Дефицит на дизел и доставки на петрол в България/Черно море",
       "summary": "Български политици и бизнесмени обсъждат тревоги от недостиг на дизелово гориво, докато правителството следи ситуацията в Черно море след сделката между Тръмп и Путин.",
-      "sources": ["OffNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [27, 33, 34],
+      "sources": [
+        "OffNews",
+        "Mediapool",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        27,
+        33,
+        34
+      ],
       "link": "https://www.mediapool.bg/bulgaria/pulev-nyama-risk-za-dostavkite-na-petrol-darzhavata-sledi-situatsiyata-v-cherno-more/"
     },
     {
       "category": "Култура",
       "headline": "Мариета Николаева напуска Нова телевизия",
-      "summary": "Българската телеведуща Мариета Николаева напуска Нова телевизия след скандал със "недостойни амбиции и дефицити", обявявайки благодарност на зрителите.",
-      "sources": ["Dnevnik", "Свободна точка"],
-      "ids": [42, 43],
+      "summary": "Българската телеведуща Мариета Николаева напуска Нова телевизия след скандал със „недостойни амбиции и дефицити“, обявявайки благодарност на зрителите.",
+      "sources": [
+        "Dnevnik",
+        "Свободна точка"
+      ],
+      "ids": [
+        42,
+        43
+      ],
       "link": "https://svobodnatochka.bg/novini/nekadarnost-bolni-ambitsii-i-defitsiti-marieta-nikolaeva-napuska-nova-televiziya/"
     }
   ]
