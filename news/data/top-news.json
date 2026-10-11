@@ -1,101 +1,46 @@
 {
-  "updatedAt": "2026-10-10T14:44:10.838Z",
-  "overview": "Водещите новини включват дипломатическата сделка между Тръмп и Путин за руски дизел, запазването на германските санкции срещу Русия и продължаващата война в Украйна с огамчестени загуби от двете страни.",
+  "updatedAt": "2026-10-11T03:12:36.123Z",
+  "overview": "Денят бе маркиран от геополитически напрежение с сделката Трамп-Путин за дизел и ескалация на войната в Украйна, смъртоносна атака на летището в Риад, тежък шторм в Югоизточна САЩ и масов престрелка в Пенсилвания.",
   "stories": [
     {
-      "category": "Други",
-      "headline": "Реал Мадрид вдигна капитана си съмнително бързо: Атлетико не пропусна да се заяде",
-      "summary": "Реал Мадрид вдигна капитана си съмнително бързо: Атлетико не пропусна да се заяде... \"Именно затова Меси винаги ще бъде над Роналдо\"...",
-      "sources": [
-        "Actualno",
-        "Actualno",
-        "Mediapool",
-        "Actualno",
-        "Mediapool",
-        "OffNews",
-        "OffNews",
-        "Свободна точка",
-        "Свободна точка"
-      ],
-      "ids": [
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        12,
-        13,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        23,
-        24,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        34,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        43,
-        44
-      ],
-      "link": "https://www.actualno.com/football/real-madrid-vdigna-kapitana-si-symnitelno-byrzo-atletiko-ne-propusna-da-se-zajade-news_2648773.html"
+      "category": "Икономика",
+      "headline": "Трамп и Путин сключиха сделка за руски дизел зад гърба на Украйна",
+      "summary": "Сделката, разкрита от Mediapool, включва изместване на американските санкции срещу руския дизел и разкрива ескалация на руско-украинския конфликт.",
+      "sources": ["Mediapool", "OffNews", "FrogNews", "Billboard", "DW"],
+      "ids": [57, 11, 5, 44, 37],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina-obnovena"
     },
     {
       "category": "Свят",
-      "headline": "Five shot dead at residence in Georgia's Douglas, police says - Reuters",
-      "summary": "Five shot dead at residence in Georgia's Douglas, police says - Reuters... Operations Plan Germany: How the Bundeswehr trains for NATO collective defense...",
-      "sources": [
-        "Reuters",
-        "DW",
-        "Reuters",
-        "DW",
-        "Reuters"
-      ],
-      "ids": [
-        1,
-        22,
-        35,
-        42
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckZ3Y0JVVkIzV2dhODU4bGoyV2pOSXZmU1o3aXZaN0QyY3diR1FpZWZjS09zdnJWd1ZVR0FsSWJ5RGpLNlVOQ2w5QzluME93a1EwNkl1S3YtaFBORVVONmRUTEwzU09rX2xLQUhSakVkRUwwTDNGb2RwSXR5LVpSS1EzVWhQbEtfZ1c1VFpaNmxCXzQ1Yjd1UzBZNVNpNDQ?oc=5"
+      "headline": "Руски атаки в Запорожье убиха поне 12 души",
+      "summary": "Русия отбеляза ескалация на войната с пет бомби по жилищни блокове в Запорожье, убивайки деца и увеличавайки броя на загиналите до 12, докато Киев съобщава загуби от над 1.5 милиона руски войника.",
+      "sources": ["OffNews", "Mediapool", "Actualno"],
+      "ids": [68, 56, 49],
+      "link": "https://offnews.bg/sviat/zelenski-sled-udarite-v-zaporozhie-rusia-blagodari-za-vdignatite-876210.html"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп и Путин сключват сделка за руски дизел преди Украйна, Германия запазва санкциите",
-      "summary": "Germany sticks to Russia sanctions after Trump diesel deal... Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters...",
-      "sources": [
-        "DW",
-        "Reuters",
-        "DW",
-        "Reuters",
-        "DW",
-        "Reuters",
-        "DW",
-        "Reuters",
-        "Hacker News"
-      ],
-      "ids": [
-        3,
-        4,
-        14,
-        25,
-        33
-      ],
-      "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf"
+      "headline": "Хути атакуваха летището в Риад, 12 убити и стотици ранени",
+      "summary": "Атаката с ракета на летището в Риад от Хути повлия на международната авиосъстава, убивайки 12 души и ранена стотици други.",
+      "sources": ["DW", "OffNews"],
+      "ids": [3, 8],
+      "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Екология",
+      "headline": "Шторм Исайас остави 4 мъртви в южните САЩ",
+      "summary": "Штормът, движейки се през Югоизточна САЩ, причини смърт на 4 души и стотици хиляди останаха без ток.",
+      "sources": ["DW"],
+      "ids": [1],
+      "link": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Стрелец в Ери, Пенсилвания, уби 8 души, след което се самоуби",
+      "summary": "Стрелачът в Ери, Пенсилвания, влязъл в сбоят, убил 8 души и се самоубил, докато полицията разследва мотива.",
+      "sources": ["Reuters"],
+      "ids": [4],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5"
     }
   ]
 }
