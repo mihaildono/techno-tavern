@@ -1,86 +1,46 @@
 {
-  "updatedAt": "2026-10-12T13:11:26.000Z",
-  "overview": "Денят е воден от новините за обявеното от Тръмп „енергийно примирие“ между Русия и Украйна, реакциите на Зеленски и Москва, делото на Ива Михайлова и дебатираната сделка за руския дизел.",
+  "updatedAt": "2026-10-12T13:15:00Z",
+  "overview": "Днес водещи са сблъсъците между Тръмп, Путин и Зеленски относно енергийното примирие в Украйна, както и случаят с подсудимата в Северна Македония Ива Михайлова, която неочаквано влезе в България. В икономиката вълнува дебатът около износа на дизел и позициите на Лукойл, а в Свят Франция обсъжда ядрена стратегия пред заплахи от Путин.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп обяви „енергийно примирие“ между Русия и Украйна, Зеленски обвинява Москва в нарушение",
-      "summary": "Тръмп обяви „енергийно примирие“ между Русия и Украйна, но Зеленски каза, че руските удари продължават и обвини Русия, че е нарушила обявеното примирие. Под „енергийно примирие“ Тръмп имал предвид само рафинериите, а четирима републикански сенатори критикуват Тръмп за сделката за руския дизел.",
-      "sources": [
-        "Свободна точка",
-        "Actualno",
-        "Dnevnik",
-        "FrogNews"
-      ],
-      "ids": [
-        32,
-        35,
-        45,
-        40
-      ],
-      "link": "https://svobodnatochka.bg/novini/zelenski-kaza-che-ruskite-udari-prodalzhavat-vapreki-obyavenoto-ot-tramp-primerie-moskva-malchi/"
+      "category": "Политика",
+      "headline": "Тръмп обяви енергийно примирие между Русия и Украйна",
+      "summary": "Тръмп съобщи за енергийно примирие между Русия и Украйна, същевременно Зеленски уведоми, че руските удари продължават, а Москва запазва мълчание по този въпрос.",
+      "sources": ["Свободна точка", "FrogNews", "Dnevnik", "Actualno"],
+      "ids": [32, 40, 44, 35],
+      "link": "https://svobodnatochka.bg/novini/zelenski-kaza-che-ruskite-udari-prodalzhavat-vapreki-obyavenoto-ot-tramp-primirie-moskva-malchi/"
     },
     {
       "category": "Общество",
-      "headline": "Подсъдимата Ива Михайлова влезе в България, МВнР не е знаело",
-      "summary": "Подсъдимата в Северна Македония Ива Михайлова изненадващо влезе в България след месеци спорове със Скопие за лечението ѝ. Адвокатът ѝ казва, че са минали границата без разрешение, а Македония им е съдействала, и тя е приета в Пирогов.",
-      "sources": [
-        "Mediapool",
-        "OffNews",
-        "Boulevard Bulgaria",
-        "FrogNews"
-      ],
-      "ids": [
-        24,
-        13,
-        18,
-        22
-      ],
+      "headline": "Ива Михайлова — подсудима от СМ, неочаквано в България",
+      "summary": "Подсудимата в Северна Македония Ива Михайлова неочаквано влезе в България, причинявайки смущение в медиите и правните органи по цялата страна.",
+      "sources": ["Mediapool", "OffNews", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [24, 13, 22, 18],
       "link": "https://www.mediapool.bg/bulgaria/byah-represirana-podsadimata-v-severna-makedoniya-iva-mihailova-iznenadvashto-vleze-v-bulgaria-obnovyava-se/"
     },
     {
       "category": "Икономика",
-      "headline": "„Лукойл“ защитава износа на дизел: Има достатъчно гориво в България",
-      "summary": "Особеният търговски управител на „Лукойл“ каза, че има достатъчно дизел в България. Фирмата защитава износа въпреки опасенията от недостиг на горива, а Actualno отбелязва играта на Тръмп и Путин за руския петрол.",
-      "sources": [
-        "OffNews",
-        "Boulevard Bulgaria",
-        "Actualno"
-      ],
-      "ids": [
-        19,
-        31,
-        36
-      ],
+      "headline": "Лукойл и износа на дизел: Тръмп-Путин игра, опасения за недостиг",
+      "summary": "Лукойл защитава износа на дизел въпреки опасенията от недостиг на горива, докато Спецслужбите разискват потенциалните ценови ефекти от размената на петрол с Русия.",
+      "sources": ["OffNews", "Boulevard Bulgaria", "Actualno"],
+      "ids": [19, 31, 36],
       "link": "https://offnews.bg/ikonomika/osobeniat-targovski-upravitel-na-lukojl-ima-predostatachno-dizel-v-876265.html"
     },
     {
-      "category": "Свят",
-      "headline": "Българската армия няма нови операции около атакуваните кораби в Черно море",
-      "summary": "Военните не планират нови операции в района на потъналия кораб в Черно море, съобщават Boulevard Bulgaria и FrogNews, които цитират официални източници.",
-      "sources": [
-        "Boulevard Bulgaria",
-        "FrogNews"
-      ],
-      "ids": [
-        7,
-        16
-      ],
+      "category": "Политика",
+      "headline": "Българската армия няма нови операции около потъналите кораби в Черно море",
+      "summary": "Военните не планират нови операции в района на потъвалия кораб в Черно море, продължавайки да наблюдават ситуацията.",
+      "sources": ["Boulevard Bulgaria", "FrogNews"],
+      "ids": [7, 16],
       "link": "https://boulevardbulgaria.bg/articles/balgarskata-armiya-nyama-da-provezhda-novi-operatsii-okolo-atakuvanite-korabi-v-cherno-more"
     },
     {
-      "category": "Здравеопазване",
-      "headline": "Мария Шаркова за ужаса на вътреболничните инфекции и ръст на респираторните",
-      "summary": "Мария Шаркова говори за ужаса на вътреболничните инфекции у нас. очаква се ръст на респираторните инфекции, а ваксините срещу грип се бавят, съобщават Actualno и Mediapool.",
-      "sources": [
-        "Actualno",
-        "Mediapool"
-      ],
-      "ids": [
-        34,
-        38
-      ],
-      "link": "https://actualno.com/healthy/ne-iskam-da-plasha-polojenieto-otdavna-e-strashno-marija-sharkova-za-ujasa-na-vytrebolnichnite-infekcii-u-nas-news_2649193.html"
+      "category": "Свят",
+      "headline": "Франция се готви за ядрен удар след заплахи от Путин",
+      "summary": "Според заглавието, Франция подготвя ядрен удар, докато заплашките на Путин променят военната стратегия на страната.",
+      "sources": ["FrogNews"],
+      "ids": [21],
+      "link": "https://frognews.bg/novini/frantsiya-gotvi-yadren-udar-zaplahite-putin-promenyat-voennata-strategiya.html"
     }
   ]
 }
