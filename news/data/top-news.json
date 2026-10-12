@@ -1,46 +1,41 @@
 {
-  "updatedAt": "2026-10-11T11:56:00.000Z",
-  "overview": "Днес водещи са сделката на Тръмп с Путин за руски дизел и призивите му Зеленски да подаде оставка, както и хутиятската атака върху летището в Рияд с поне 12 загинали. Темите около българския пазар на горива, освобождаването на лидерите на индийското движение \"Cockroach\" и руския удар в Запорожие също са в центъра на вниманието.",
+  "updatedAt": "2026-10-12T11:00:00.000Z",
+  "overview": "Днес водещи са обявеното от Тръмп \"енергийно примирие\" между Русия и Украйна, хутиятските атаки срещу саудитски обекти, заплаха срещу премиера на Полша Туск и болестта на папа Лъв XIV. В България новините са за победите на Левски и ЦСКА и за авария в нефохимичен завод.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп сключи сделка с Путин за руски дизел зад гърба на Украйна",
-      "summary": "Тръмп заяви, че Украйна няма право да атакува руските петролни рафинерии, и призова Зеленски да подаде оставка. Конгресмен-републиканец се задейства със законопроект за спиране на сделката, а ЕС заяви, че не е моментът да се ослабва натискът върху Русия.",
-      "sources": ["Mediapool", "Boulevard Bulgaria", "Actualno", "FrogNews", "OffNews", "DW", "Свободна точка"],
-      "ids": [11, 18, 39, 42, 44, 55, 61, 64],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina-obnovena/"
+      "category": "Политика",
+      "headline": "Тръмп обяви \"енергийно примирие\" между Русия и Украйна",
+      "summary": "Тръмп заяви, че има енергийно примирие между Киев и Москва, след което Зеленски каза, че това е новина за него. Украйна обяви, че ще спре ударите по руските рафинерии, ако Москва спре ударите по енергийната ѝ инфраструктура.",
+      "sources": ["Actualno", "FrogNews", "OffNews", "Mediapool", "Reuters"],
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-121026-trymp-objavi-energijno-primirie-mejdu-kiev-i-moskva-news_2649131.html"
     },
     {
       "category": "Свят",
-      "headline": "Хути атакуваха летището в Рияд — поне 12 загинали и над 300 ранени",
-      "summary": "Най-малко 12 души бяха убити при обстрел на летището на саудитската столица Рияд. Повече от 300 са ранени, авиокомпании отменят полети след силната експлозия, а хутите предупреждават авиолиниите и пътниците да не ползват саудитските летища.",
-      "sources": ["Mediapool", "Reuters", "Свободна точка", "Actualno", "OffNews", "Dnevnik"],
-      "ids": [5, 6, 15, 38, 43, 53],
-      "link": "https://www.mediapool.bg/blizak-iztok/nai-malko-12-dushi-byaha-ubiti-pri-obstrel-na-letishteto-na-sauditskata-stolitsa-riyad/"
+      "headline": "Атака срещу летището в Рияд — най-малко 12 загинали и над 300 ранени",
+      "summary": "Най-малко 12 души бяха убити при обстрел на летището на саудитската столица Рияд, а хутиятите предупреждават авиолиниите и пътниците да не ползват саудитските летища след втората атака през седмицата.",
+      "sources": ["DW", "Mediapool", "Reuters", "Свободна точка"],
+      "link": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Икономика",
-      "headline": "Прогнози се недостиг на дизел в България — Лукойл отрича опасността",
-      "summary": "Борисов прогнозира дефицит на дизел и обвини властта в схема с горивата. Лукойл Нефтохим Бургас увери, че няма опасност от недостиг, а Пулев заяви, че няма риск за доставките на петрол и държавата следи ситуацията в Черно море.",
-      "sources": ["Boulevard Bulgaria", "Dnevnik", "OffNews", "Mediapool"],
-      "ids": [51, 52, 58, 59],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmFtRGlZU1lpWjAtbzFvaVY4SVRXQ0FKb1dwRjE2Wk9ObnVta2xBMDE1RHhuUHp3UlpsMkJQT1p1RDBoVDg1c3FkVm5mZGlJVDN1TjBLV0RuaXB0R0gtbTV1aDRDNWNMUEJ6ZG1TXzE1YW5kRUsxY3FBeVZ0X0FGaXZhcy1GVEtoY3Fnby1GZG1XdW5CdGhuYkxfUm9hdXE0QUtVa09GUQ?oc=5"
+      "category": "Общество",
+      "headline": "Плашещата заплаха срещу Туск — полската полиция арестува заподозрян",
+      "summary": "Полските власти разследват сигнал за възможен атентат срещу премиера Туск и министъра на отбраната. Полша е в повишена готовност след ареста на заподозрения.",
+      "sources": ["FrogNews", "DW", "Reuters", "OffNews"],
+      "link": "https://frognews.bg/novini/planiranoto-napadenie-sreshtu-tusk-polskata-politsiya-arestuva-zapodozryan.html"
     },
     {
-      "category": "Свят",
-      "headline": "В Индия освободиха лидерите на движението \"Cockroach\" пред новите протести",
-      "summary": "Индийският съд заповяда освобождаването на лидерите на движението \"Cockroach\", които призовават за нови протести. Столицата се готви за втори ден протести срещу главния изборен началник.",
-      "sources": ["DW", "Reuters"],
-      "ids": [20, 21, 23, 24],
-      "link": "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-top-1022-rdf"
+      "category": "Общество",
+      "headline": "Папа Лъв XIV влиза в болница за белодробна операция",
+      "summary": "Папата обяви, че ще се подложи на операция за отстраняване на малко образувание на белия дроб. Операцията ще се извърши в следващите дни.",
+      "sources": ["Reuters", "DW", "FrogNews", "OffNews"],
+      "link": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Свят",
-      "headline": "Руският удар в Запорожие уби най-малко 12 души",
-      "summary": "Руският удар върху украинския град Запорожие остави най-малко 12 загинали, като броят на жертвите се увеличи по-късно отначалното съобщение.",
-      "sources": ["Свободна точка", "Mediapool"],
-      "ids": [57, 63],
-      "link": "https://svobodnatochka.bg/novini/blagodari-za-otmyanata-na-sanktsiite-nay-malko-12-dushi-byaha-ubiti-v-zaporozhie-sled-ruski-udar/"
+      "category": "Спорт",
+      "headline": "Левски и ЦСКА печелят след паузата в Първа лига",
+      "summary": "Новият треньор на ЦСКА дебютира с победа, а \"Левски\" спечели първия си мач след паузата. Един точка дели двете отбора в класирането, а Зварц е сам на върха във вратовете.",
+      "sources": ["Actualno", "Boulevard Bulgaria"],
+      "link": "https://www.actualno.com/bgfootball/pylno-klasirane-v-pyrva-liga-202627-edna-tochka-deli-levski-i-cska-news_2618889.html"
     }
   ]
 }
