@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-13T19:36:49.000Z",
-  "overview": "Водеща тема днес са атаките с дронове в Черно море — потъна втори кораб, 11 души от екипажа му се търсят край Крапец, поредица скандали с посланичката на САЩ в Гърция, дипломатически сблъсък между Скопие и София, рекорден скачеж на европейския луксозен пазар и ескалация на конфликта в ДР Конго.",
+  "updatedAt": "2026-10-13T18:32:00.000Z",
+  "overview": "Денят е отбелязан с мащабни събития в Черно море и глобалната политика, както и събития в България, свързани със Старлинк антени и икономическата прогноза.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Атаки с дронове в Черно море — потъна втори кораб, 11 моряка в неизвестност, подозираме Русия",
-      "summary": "Два кораба бяха атакувани от дронове в Черно море, при което потъна вторият и 11 от екипажа му се търсят край Крапец. Българският министър на отбраната предположи, че нападенията може да са от страна на Русия, докато ЕС и НАТО обсъждат реакции.",
-      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [9,33,39,44],
+      "headline": "Дронове атакуват кораби в Черно море близо до България; Русия отхвърля обвиненията",
+      "summary": "След атаки с безпилотници в Черно море, министърът на отбраната Димитър Стоянов очаква дроновете да са руски. Организации за правата на човека призовават разследването да се води като военни престъпления, а Полша изразява солидарност с България и иска по-строги санкции срещу Русия.",
+      "sources": ["OffNews", "Boulevard Bulgaria", "Mediapool", "Свободна точка"],
+      "ids": [9, 24, 27, 32, 39, 44],
       "link": "https://offnews.bg/obshtestvo/i-dvata-atakuvani-koraba-v-cherno-more-bili-prazni-876392.html"
     },
     {
       "category": "Политика",
-      "headline": "Посланичката на САЩ в Гърция Кимбърли Гилфойл принудена да подаде оставка след скандал",
-      "summary": "Белият дом потвърди, че американската посланичка Кимбърли Гилфойл е помолена да подаде оставка след серия от твърдения за злоупотреби. Събитията създават нови политически трения между Вашингтон и София.",
-      "sources": ["DW", "Reuters", "FrogNews"],
-      "ids": [4,7,17],
+      "headline": "САЩ изискват оставката на посланичката в Гърция Кимбърли Гилфойл",
+      "summary": "Белият дом призовава американската посланичка в Гърция Кимбърли Гилфойл да подаде оставка след скандал с твърдения за неподходящо поведение. Тръмп-младши е billeted на поста преди инцидента.",
+      "sources": ["DW", "FrogNews", "Mediapool", "Reuters", "Boulevard Bulgaria"],
+      "ids": [4, 7, 14, 17, 26],
       "link": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
-      "headline": "Скопие призова българския посланик заради предполагаема намеса в вътрешни работи",
-      "summary": "В отговор на неотпредвидени изказвания, Скопие призова българския посланик, обвинявайки го в намеса в вътрешните политики на Северна Македония. Случката обостри дипломатическите отношения между двете страни.",
-      "sources": ["OffNews", "Actualno"],
-      "ids": [8,16],
-      "link": "https://offnews.bg/sviat/poslanikat-v-skopie-vie-ste-zagrizheni-nie-sme-zagrizheni-znaete-876391.html"
+      "headline": "Подпалени антени на Старлинк в България и Полша; задържани трима",
+      "summary": "Двама маскирани души са подпалили 11 антени на Старлинк в секретен обект около София. В Германия е задържан трети заподозрян за палеж на станция на Старлинк в Полша.",
+      "sources": ["Dnevnik"],
+      "ids": [47, 50],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkt0UVhzTkI5MHRTX2Y2dTJrM3pSZHdXbXRwLUpwRlNEYnd5ZEVPUVRlY2h4VUhmZG05V1YxVzliUWZTOEJZNHJ2RU5CX2pvbTFoQWdLZUY3V3RaT04wbEkwVGFfTWRaTUZ5UXVrNGJiQzZyd1FNWjRHNXpmODh6QjNJd01XY1dGMjIwR3g3eGJCWkM4OFBobmprQWtXNlNJMnJwcU5wVVR5NTBp?oc=5"
     },
     {
       "category": "Икономика",
-      "headline": "Европейският луксозен пазар отбухва с $350 млрд. в резултат на нарастване на търсенето",
-      "summary": "Рекордни $350 мILIАRД. продажби в европейския луксозен сектор документират рязко увеличение на търсенето. Анализатори свързват този растеж с увеличаване на богатството и промяна в потребителските предпочитания след пандемията.",
-      "sources": ["Reuters"],
-      "ids": [1],
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2IwcU9zVFYzZ1IyMVJwUkZIeVA1X1A2Um5lVDMwY0pUSFY5UWNZUkZWWWhWNTNXczhFWHpXUmpGcmZoSFdzNnBjdU1XcnVsTlJNak9acU5OQ0psM3FWWW1jWnlKc1c4VjJaWXFJcXYxZ19NRWxrUkpnMHBVRDlEQ2ZnV0VZV2drRG0tdkVnVl9xWUN6V3FCbzAxSk9BQQ?oc=5"
+      "headline": "МВФ влоши прогнозата за България: по-нисък растеж, по-висока инфлация",
+      "summary": "Международният валутен фонд очаква по-нисък икономически растеж и по-висока инфлация за България в сравнение с предишните прогнози.",
+      "sources": ["Свободна точка"],
+      "ids": [46],
+      "link": "https://svobodnatochka.bg/novini/po-nisak-rastezh-po-visoka-inflatsiya-mezhdunarodniyat-valuten-fond-vloshi-prognozata-si-za-balgariya/"
     },
     {
       "category": "Свят",
-      "headline": "ДР Конго: Кабила се доближава до М23, поражда опасения за регионалната сигурност",
-      "summary": "Лидерът на RDP Жозеф Кабила съгласи се с действията на повстанческата групировка M23, което създава опасения за destabilizация на ЦАО и междерегионални последствия. Съседни държави и международни организации изразяват тревога.",
-      "sources": ["DW"],
-      "ids": [6],
-      "link": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-top-1022-rdf"
+      "headline": "Вашингтон пост: Новият мирен план за Украйна включва тръбопровод към Европа",
+      "summary": "Според „Вашингтон пост“, новият мирен план на САЩ за Украйна включва тръбопровод към Европа с подялба на печалбата между Москва и Киев.",
+      "sources": ["Mediapool"],
+      "ids": [21],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/vashington-post-noviyat-miren-plan-na-sasht-za-ukraina-vklyuchva-traboprovod-kam-evropa-s-podyalba-na-pechalbata-mezhdu-moskva/"
     }
   ]
 }
