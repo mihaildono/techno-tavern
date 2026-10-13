@@ -1,46 +1,114 @@
 {
-  "updatedAt": "2026-10-12T13:15:00Z",
-  "overview": "Днес водещи са сблъсъците между Тръмп, Путин и Зеленски относно енергийното примирие в Украйна, както и случаят с подсудимата в Северна Македония Ива Михайлова, която неочаквано влезе в България. В икономиката вълнува дебатът около износа на дизел и позициите на Лукойл, а в Свят Франция обсъжда ядрена стратегия пред заплахи от Путин.",
+  "updatedAt": "2026-10-13T00:50:00Z",
+  "overview": "Днес водещи са сблъсъците между Тръмп, Путин и Зеленски относно енергийното примирие в Украйна, какта и случаите с подсудимата Ива Михайлова, която неочаквано влезе в България. В икономиката вълнува дебатът около износа на дизел и позициите на Лукойл, а в Свят Франция обсъжда ядрена стратегия пред заплахи от Путин.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Тръмп обяви енергийно примирие между Русия и Украйна",
-      "summary": "Тръмп съобщи за енергийно примирие между Русия и Украйна, същевременно Зеленски уведоми, че руските удари продължават, а Москва запазва мълчание по този въпрос.",
-      "sources": ["Свободна точка", "FrogNews", "Dnevnik", "Actualno"],
-      "ids": [32, 40, 44, 35],
-      "link": "https://svobodnatochka.bg/novini/zelenski-kaza-che-ruskite-udari-prodalzhavat-vapreki-obyavenoto-ot-tramp-primirie-moskva-malchi/"
+      "category": "Общество",
+      "headline": "Мирчев: двама маскирани са подпалили в секретен обект около София 11 антени на \"Старлинк\" - Dnevnik.bg",
+      "summary": "Мирчев: Двама маскирани са подпалили 11 антени за връзка със Starlink в секретен обект край София",
+      "sources": [
+        "FrogNews",
+        "OffNews",
+        "Dnevnik",
+        "DW",
+        "Mediapool",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        10,
+        22,
+        23,
+        26,
+        28,
+        29,
+        60
+      ],
+      "link": "https://frognews.bg/novini/maskirani-zapalili-11-anteni-vrazka-sas-starlink-sekreten-obekt-sofiya.html"
     },
     {
       "category": "Общество",
-      "headline": "Ива Михайлова — подсудима от СМ, неочаквано в България",
-      "summary": "Подсудимата в Северна Македония Ива Михайлова неочаквано влезе в България, причинявайки смущение в медиите и правните органи по цялата страна.",
-      "sources": ["Mediapool", "OffNews", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [24, 13, 22, 18],
-      "link": "https://www.mediapool.bg/bulgaria/byah-represirana-podsadimata-v-severna-makedoniya-iva-mihailova-iznenadvashto-vleze-v-bulgaria-obnovyava-se/"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Лукойл и износа на дизел: Тръмп-Путин игра, опасения за недостиг",
-      "summary": "Лукойл защитава износа на дизел въпреки опасенията от недостиг на горива, докато Спецслужбите разискват потенциалните ценови ефекти от размената на петрол с Русия.",
-      "sources": ["OffNews", "Boulevard Bulgaria", "Actualno"],
-      "ids": [19, 31, 36],
-      "link": "https://offnews.bg/ikonomika/osobeniat-targovski-upravitel-na-lukojl-ima-predostatachno-dizel-v-876265.html"
-    },
-    {
-      "category": "Политика",
-      "headline": "Българската армия няма нови операции около потъналите кораби в Черно море",
-      "summary": "Военните не планират нови операции в района на потъвалия кораб в Черно море, продължавайки да наблюдават ситуацията.",
-      "sources": ["Boulevard Bulgaria", "FrogNews"],
-      "ids": [7, 16],
-      "link": "https://boulevardbulgaria.bg/articles/balgarskata-armiya-nyama-da-provezhda-novi-operatsii-okolo-atakuvanite-korabi-v-cherno-more"
+      "headline": "\"Бях репресирана\". Подсъдимата в Северна Македония Ива Михайлова изненадващо влезе в България (oбновява се)",
+      "summary": "Ива Михайлова е в България въпреки забраната да напуска Северна Македония. Скопие твърди, че е избягала",
+      "sources": [
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Свободна точка",
+        "FrogNews",
+        "Mediapool"
+      ],
+      "ids": [
+        39,
+        45,
+        51,
+        82,
+        100,
+        103,
+        107,
+        108
+      ],
+      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
     },
     {
       "category": "Свят",
-      "headline": "Франция се готви за ядрен удар след заплахи от Путин",
-      "summary": "Според заглавието, Франция подготвя ядрен удар, докато заплашките на Путин променят военната стратегия на страната.",
-      "sources": ["FrogNews"],
-      "ids": [21],
-      "link": "https://frognews.bg/novini/frantsiya-gotvi-yadren-udar-zaplahite-putin-promenyat-voennata-strategiya.html"
+      "headline": "Тръмп обяви „енергийно примирие“ между Русия и Украина. Зеленски каза, че руските удари продължават, а Москва мълчи",
+      "summary": "\"Гласът ми няма да бъде заглушен\": Полицаи нахлуха в дома на голям политически противник на Тръмп (ВИДЕО)",
+      "sources": [
+        "Actualno",
+        "Mediapool",
+        "FrogNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        3,
+        4,
+        5,
+        7,
+        9,
+        12,
+        20,
+        66,
+        106,
+        115,
+        118,
+        119,
+        120,
+        123
+      ],
+      "link": "https://www.actualno.com/europe/sys-sporazumenieto-za-dizela-trymp-opitva-da-omekoti-ruskata-pozicija-no-putin-iska-celija-donbas-news_2649537.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Мая Манолова обяви, че надценката на млечни продукти достига над 140% във веригите. Те я обвиниха, че представя подвеждащи данни",
+      "summary": "Търговските вериги обвиниха Мая Манолова в невярна информация, след като тя изнесе данни за &quot;140% надценки&quot; на храни",
+      "sources": [
+        "Свободна точка",
+        "Mediapool",
+        "OffNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        46,
+        68,
+        76,
+        77
+      ],
+      "link": "https://svobodnatochka.bg/novini/nadtsenkata-na-mlechni-produkti-vav-verigite-dostiga-do-nad-140-maya-manolova-zapochva-proverki-i-na-restorantite/"
+    },
+    {
+      "category": "Политика",
+      "headline": "Радев поиска от ЕС и НАТО помощ за разследването на атаката с дронове срещу двата кораба - Dnevnik.bg",
+      "summary": "Българската армия няма да провежда нови операции около атакуваните кораби в Черно море",
+      "sources": [
+        "FrogNews",
+        "Dnevnik",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        18,
+        44,
+        95
+      ],
+      "link": "https://frognews.bg/novini/nato-shte-pomagat-razberem-koi-stoi-zad-atakata-sreshtu-korabi-iiz.html"
     }
   ]
 }
