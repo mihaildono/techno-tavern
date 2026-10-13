@@ -1,9 +1,174 @@
 {
   "windowStart": "2026-10-13T04:59:45.637Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-13T09:01:20.708Z",
-  "totalItems": 85,
+  "lastUpdated": "2026-10-13T12:01:15.149Z",
+  "totalItems": 98,
   "items": [
+    {
+      "title": "Houthis and Saudis strike each other in latest escalation",
+      "link": "https://www.dw.com/en/houthis-and-saudis-strike-each-other-in-latest-escalation/a-79649973?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T11:56:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Germany: Nuremberg airport closed over in-flight emergency",
+      "link": "https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T11:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Spain&apos;s King Felipe and Queen Letizia visit Ceuta",
+      "link": "https://www.dw.com/en/spain-s-king-felipe-and-queen-letizia-visit-ceuta/a-79649468?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T11:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Formula 1: Rwanda to bring sport back to Africa",
+      "link": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T11:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Afghan authorities suspend BBC radio broadcasts across country, broadcaster says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkY5aExQTHc0OWpKd1lXbk1wUHFfZHVfQTNTSmUyVUpwNTZGZ21tck1MTC1Ta3pxS2FHYS1TLUdhSUN2bWVKZnY1b1FTSGktVVotZ28zeGFOaFNITU9naGROa016QkJ0YWs4Y2U2aHkxemVxd2h3YWxaSHd3VW50cENTQ1pZd1JQRHNHclFLVjlYQVpaUGgxLUVRbzRaUzhlWWhaaGE4OWlKdWRvVV9LZ2FxSEpub2Q3MFRWNnJvYmMyVElxc05ybXY2RXpQaEFOSUJaYg?oc=5",
+      "pubDate": "2026-10-13T11:17:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Germany's Nuremberg airport closes due to aviation emergency - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjNQUks5MFpvMms0djJycmdGa09TTTNkbkVoSDEtSkNBVDVENlNWZkVwdS1KbVB1c0RFZ0FNQVZLZEQ0T2Zxc3ZRVU1xSmhNcmZ3R00zTE1wcldqQWJGY3o1eS1wU2NyN2M4ODBCTlpxU3hMTEFwYThuSHp2dXdhdjdhaHo5b3ZxRjZZcTBVUjE4QVpyVlNlaHJfcGlWRjA?oc=5",
+      "pubDate": "2026-10-13T10:48:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Bulgaria condemns Black Sea drone attacks as Russia&apos;s war in Ukraine spills over into Eastern Europe",
+      "link": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T10:15:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "pubDate": "2026-10-13T10:10:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Scientists call for international body to oversee advanced AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
+      "pubDate": "2026-10-13T10:04:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Were Software Engineers blue-collar workers all along?",
+      "link": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+      "pubDate": "2026-10-13T09:25:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "The Art of Dithering and Retro Shading for the Web",
+      "link": "https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/",
+      "pubDate": "2026-10-13T09:02:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "link": "https://github.com/composo-ai/DishwasherBench",
+      "pubDate": "2026-10-13T08:24:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Полицията откри тяло на мъж в багажник на катастрофирала кола - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0RUbHBvVHg5ZUFuRW1tWjBkWXU4MUR4dXphYnc0T3BIZ29XUFk1NkE0eHBoLUlXRDRtaHM4N3haTld2Rjh3TFFlT1lESnhQdklIUTFhbURyRHNnMnhEU1k1dnU0ZXRsdTFpdFFFY3BSbmlBMFlWNno3ZEVBUV9fMkVOUUIzZDg0dS1aSFBTa2NUazFCbF9HcTdGMA?oc=5",
+      "pubDate": "2026-10-13T08:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Hundreds queue in Hong Kong to glimpse Van Gogh painting unseen in public for 60 years - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckNMaHByOHFlWU56ZVBveUhhY0x1SDNQVEd0V09YWUgwSWNKNjRCRnhvay1QaXlSSHNWWXYwNGpGdkFWVUw1SjBWOTdKUGhRSm1pd3BNUjlmb2dkcloxUHBXWFNsdU9Id2p4WEx1M0VoMDZpcHNyT1YtY2tJcy1BRlRuYVRPOEdZejU0U01kR2EwOENYdnVQaW5lTmFyaUppTXdVMkRvc2ZROTg1WFdySWZzeWhuZVF4a1Nv?oc=5",
+      "pubDate": "2026-10-13T07:49:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
+    {
+      "title": "Жена е загинала след пожар в старчески дом във Варна - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVlrUklsU0NUTl9Lb0Noc25UMFV1dG9nSURSQ1c2LUlfOEV6amlhX0pPRW5IVFBCNDJBTVdGQmhGaktjQ2otNFRTeHo3X3U0ckZ5RGxMcXdhb3hFUHFfQ1NOb0RyZHdKV1VxdjFPc1J2NEI3cVRSUTZfenhnUWdxeUJQaTk3blQ2cEQ1ZVk1RzY3ZFQzaXBXZlFfYTEtMktwTnlUTXlvSDI?oc=5",
+      "pubDate": "2026-10-13T06:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-13T12:01:15.149Z"
+    },
     {
       "title": "Мегеров остава в ареста, съдът видя много доказателства за убийството на Илиян Филипов",
       "link": "https://frognews.bg/novini/megerov-ostava-aresta-sadat-vidya-mnogo-dokazatelstva-ubiystvoto-iliyan-filipov.html",
@@ -1030,28 +1195,6 @@
       "title": "„Най-големият пакет“. ЕС наложи нови санкции срещу организации, свързани с руския военнопромишлен комплекс",
       "link": "https://svobodnatochka.bg/novini/nay-golemiyat-paket-dosega-es-nalozhi-novi-sanktsii-sreshtu-rusiya/",
       "pubDate": "2026-10-12T12:22:28.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      },
-      "firstSeen": "2026-10-13T06:00:37.639Z"
-    },
-    {
-      "title": "Населението на България е намаляло с 14 153 души през миналата година - Dnevnik.bg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW11YjBtUnFYWnh6VDVZWFlyTHZGbzF0SmZlcHpLeE9HSmE1QUxNX25VSEtyNzVuejF3czAzUzRYNnE5VVhnR0xIdWdNamlhalNoSXUxUS12bVd0cUZtRV85YlpLYzh0Qm12TEh1VlB4bnBac2h0Snp0YlBPdlBrZ2FPTk4wMHN6VlhMdjktMDU4TUpoM003VXlQMG5KYnh1TlhjQ0xITHRmdkE?oc=5",
-      "pubDate": "2026-10-12T10:41:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      },
-      "firstSeen": "2026-10-13T06:00:37.639Z"
-    },
-    {
-      "title": "„Нищо не ми работи“. Украински удар спря работата в центъра за данни на „Яндекс“ във Владимирово",
-      "link": "https://svobodnatochka.bg/novini/nishto-ne-mi-raboti-ukrainski-udar-sprya-rabotata-tsentara-za-danni-na-yandeks-vav-vladimirovo/",
-      "pubDate": "2026-10-12T09:49:35.000Z",
       "thumbnail": null,
       "source": {
         "name": "Свободна точка",
