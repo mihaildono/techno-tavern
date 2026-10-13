@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-13T04:36:00.000Z",
-  "overview": "Денят е отбелязан с мащабния инцидент с подпалените антени на Starlink в София и продължаващите дипломатически напрежения около войната в Украйна. ЕС наложи нови санкции срещу Русия, а в България се търси жена в неизвестност.",
+  "updatedAt": "2026-10-13T07:58:17.000Z",
+  "overview": "Водещите събития за деня са свързани с кризата в Украйна и търсенето на мирно споразумение между Тръмп и Путин, инцидента с антени Starlink в София, както и с движението на глобалните финансови пазари под възданието на ИИ и данните от САЩ.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "Маскирани са подпалили 11 антени на Starlink в секретен обект край София",
-      "summary": "Ивайло Мирчев потвърди, че двама маскирани са подпалили 11 антени за връзка със Starlink в секретен обект до София. Поландата съобщава за арести на двама турски citizen в Германия във връзка с подобен инцидент месец по-рано.",
-      "sources": ["FrogNews", "OffNews", "Dnevnik", "DW", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [15, 22, 23, 26, 28, 29],
-      "link": "https://frognews.bg/novini/maskirani-zapalili-11-anteni-vrazka-sas-starlink-sekreten-obekt-sofiya.html"
-    },
-    {
       "category": "Свят",
-      "headline": "Тръмп опитва да убеди Путин и Зеленски за сделка за горивата, но Русия атакува украински енергийни обекти",
-      "summary": "След обявеното от Тръмп примирие, Русия е атакувала шест украински енергийни обекти. В същото време Путин иска целия Донбас, а сенатори в САЩ зоват Тръмп да осмисли сделката. Москва отхвърли примирието за избори в Украйна и иска дългосрочно мирно споразумение.",
-      "sources": ["Actualno", "FrogNews"],
-      "ids": [9, 10, 11, 13, 21, 36],
+      "headline": "Тръмп опитва да „омекоти“ руската позиция със споразумението за дизела, но Путин иска целия Донбас",
+      "summary": "Тръмп зачеркна десетилетия политика на САЩ и застана на страната на Путин, като поиска да убеди Зеленски да сключи сделка. Сенатори призовават да преосмислят споразумението за горивата, а Русия атакува шест украински енергийни обекта след обявеното примирие. Москва отхвърли примирието за избори в Украйна и иска дългосрочно мирно споразумение. ЕС наложи нови санкции срещу руски военнопромишлен комплекс, а украински удар спря работата в центъра за данни на „Яндекс“ във Владимирово.",
+      "sources": ["Actualno", "FrogNews", "Свободна точка"],
+      "ids": [11, 12, 13, 15, 23, 38, 47, 49],
       "link": "https://www.actualno.com/europe/sys-sporazumenieto-za-dizela-trymp-opitva-da-omekoti-ruskata-pozicija-no-putin-iska-celija-donbas-news_2649537.html"
     },
     {
-      "category": "Свят",
-      "headline": "Скопие ще сезира ЕС и Съвета на Европа за бягството на Ива Михайлова в България",
-      "summary": "Ива Михайлова е в България въпреки забраната да напуска Северна Македония. Скопие твърди, че е избягала, и ще сезира ЕС и Съвета на Европа по въпроса.",
-      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [37, 43, 48],
-      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "ЕС наложи нови санкции срещу руския военнопромишлен комплекс",
-      "summary": "ЕС наложи най-големия си пакет от санкции срещу организации, свързани с руския военнопромишлен комплекс.",
-      "sources": ["Свободна точка"],
-      "ids": [45],
-      "link": "https://svobodnatochka.bg/novini/nay-golemiyat-paket-dosega-es-nalozhi-novi-sanktsii-sreshtu-rusiya/"
-    },
-    {
       "category": "Общество",
-      "headline": "Търси се 34-годишна жена от Шумен в неизвестност от 1 септември",
-      "summary": "Мариета Миткова Вълчева от Шумен е в неизвестност от 1 септември. Издирва се.",
-      "sources": ["Dnevnik", "OffNews"],
-      "ids": [17, 30],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWU1WmVJZ2hyZi10R1R4VkdMdWpZa3daQnJwa0dJNHktSVZ2bnhkeVlFNDM1UmRqbkwyYTJPVlRCdWRCaVVZUmJNcGMtM3cxdGhoUG1TY3VMbVNTNG1Pems0c3cteFJTQW1oTE9uS0tnNXNDQXFNeDNvQS1HcS1zWkxjVjlCdWkyUUU2ZmVBOTVpYzZwUHBqUk00RFl6ZmhXUDcwSm9VaEM?oc=5"
+      "headline": "Маскирани са подпалили 11 антени на Starlink в секретен обект до София",
+      "summary": "Двама маскирани са подпалили 11 антени за връзка със Starlink в секретен обект до София. Полша съобщава за арестуване на двама турски citizen в Германия във връзка с пожара на станция Starlink месец по-рано.",
+      "sources": ["FrogNews", "OffNews", "Dnevnik", "DW", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [17, 24, 25, 28, 30, 31],
+      "link": "https://frognews.bg/novini/maskirani-zapalili-11-anteni-vrazka-sas-starlink-sekreten-obekt-sofiya.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Инвестициите в ИИ стимулират глобалния растеж, но войната и дълговете заплашват перспективите, предупреждава IMF",
+      "summary": "Инвестициите в изкуствен интеллект стимулират глобалния икономически растеж, но войната и дълговете заплашват перспективите, предупреждава IMF. Азиатските акции се срутват на фона на притеснения свързани с ИИ преди отчетите на американските банки.",
+      "sources": ["Reuters"],
+      "ids": [6, 7],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Златото отслабва при силния долар, а петролът пада при перспективите за руски дизел",
+      "summary": "Златото отслабва при силния долар, като фокусът е върху данните за американската инфлация. Петролът пада, след като перспективите за руски дизел компенсират рисковете от Близкия изток.",
+      "sources": ["Reuters"],
+      "ids": [5, 10],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Скопие ще сезира ЕС и Съвета на Европа за „бягството“ на Ива Михайлова",
+      "summary": "Скопие ще сезира ЕС и Съвета на Европа заради „бягството“ на Ива Михайлова в България.",
+      "sources": ["OffNews", "Boulevard Bulgaria"],
+      "ids": [39, 45],
+      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
     }
   ]
 }
