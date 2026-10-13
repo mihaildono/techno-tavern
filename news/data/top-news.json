@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-13T18:52:00.000Z",
-  "overview": "Водеща тема днес са атаките с дронове в Черно море — потъна втори кораб, 11 души от екипажа му се търсят край Крапец, а фон дер Лайен осъди нападенията като недопустими. Допълнително водещи теми: Тръмп поиска оставката на посланичката си в Гърция, Скопие сезира ЕС заради Ива Михайлова и съдът остави Славчо Мегеров в ареста за убийството на Илиян Филипов.",
+  "updatedAt": "2026-10-13T19:36:49.000Z",
+  "overview": "Водеща тема днес са атаките с дронове в Черно море — потъна втори кораб, 11 души от екипажа му се търсят край Крапец, поредица скандали с посланичката на САЩ в Гърция, дипломатически сблъсък между Скопие и София, рекорден скачеж на европейския луксозен пазар и ескалация на конфликта в ДР Конго.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Черноморските атаки продължават — потъна втори кораб, 11 моряка са в неизвестност",
-      "summary": "Потъна втори атакуван от дронове кораб край България — 11 души от екипажа му се търсят при Крапец, а фон дер Лайен осъди нападенията като недопустими. Радев поиска помощ от ЕС и НАТО за разследването, полският премиер иска по-строги санкции срещу Русия, а министърът на отбраната Димитър Стоянов коментира, че дроновете може да са руски.",
-      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка", "Mediapool", "DW", "Reuters", "Dnevnik", "FrogNews"],
-      "ids": [4, 6, 16, 19, 21, 34, 44, 56, 69, 81, 84, 88, 98, 99, 122, 123, 131, 144],
+      "headline": "Атаки с дронове в Черно море — потъна втори кораб, 11 моряка в неизвестност, подозираме Русия",
+      "summary": "Два кораба бяха атакувани от дронове в Черно море, при което потъна вторият и 11 от екипажа му се търсят край Крапец. Българският министър на отбраната предположи, че нападенията може да са от страна на Русия, докато ЕС и НАТО обсъждат реакции.",
+      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [9,33,39,44],
       "link": "https://offnews.bg/obshtestvo/i-dvata-atakuvani-koraba-v-cherno-more-bili-prazni-876392.html"
     },
     {
       "category": "Политика",
-      "headline": "Тръмп поиска оставката на посланичката си в Гърция",
-      "summary": "Тръмп поиска оставката на посланичката си в Гърция Kimberly Guilfoyle след серия скандали. Белият дом призовава Guilfoyle да подаде оставка, а Reuters съобщава, че тя е помолената да тръгне.",
-      "sources": ["FrogNews", "Boulevard Bulgaria", "Mediapool", "DW", "Reuters"],
-      "ids": [1, 8, 9, 12, 20],
-      "link": "https://frognews.bg/novini/sasht-smeniat-poslanika-gartsiia-bivshata-godenitsa-tramp-mladshi-tragva-sled-skandal.html"
+      "headline": "Посланичката на САЩ в Гърция Кимбърли Гилфойл принудена да подаде оставка след скандал",
+      "summary": "Белият дом потвърди, че американската посланичка Кимбърли Гилфойл е помолена да подаде оставка след серия от твърдения за злоупотреби. Събитията създават нови политически трения между Вашингтон и София.",
+      "sources": ["DW", "Reuters", "FrogNews"],
+      "ids": [4,7,17],
+      "link": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
-      "headline": "Съдът остави Славчо Мегеров в ареста за убийството на Илиян Филипов",
-      "summary": "Апелативният съд в Пловдив остави Мегеров в ареста, като видя много доказателства за убийството на Илиян Филипов — съобщават Свободна точка и Boulevard Bulgaria, а FrogNews допълва, че съдът видя много доказателства.",
-      "sources": ["Свободна точка", "Boulevard Bulgaria", "FrogNews"],
-      "ids": [22, 46, 65],
-      "link": "https://svobodnatochka.bg/novini/dobre-planirano-apelativniyat-sad-v-plovdiv-ostavi-v-aresta-slavcho-megerov-obvinen-v-ubiystvoto-na-iliyan-filipov/"
+      "headline": "Скопие призова българския посланик заради предполагаема намеса в вътрешни работи",
+      "summary": "В отговор на неотпредвидени изказвания, Скопие призова българския посланик, обвинявайки го в намеса в вътрешните политики на Северна Македония. Случката обостри дипломатическите отношения между двете страни.",
+      "sources": ["OffNews", "Actualno"],
+      "ids": [8,16],
+      "link": "https://offnews.bg/sviat/poslanikat-v-skopie-vie-ste-zagrizheni-nie-sme-zagrizheni-znaete-876391.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Европейският луксозен пазар отбухва с $350 млрд. в резултат на нарастване на търсенето",
+      "summary": "Рекордни $350 мILIАRД. продажби в европейския луксозен сектор документират рязко увеличение на търсенето. Анализатори свързват този растеж с увеличаване на богатството и промяна в потребителските предпочитания след пандемията.",
+      "sources": ["Reuters"],
+      "ids": [1],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2IwcU9zVFYzZ1IyMVJwUkZIeVA1X1A2Um5lVDMwY0pUSFY5UWNZUkZWWWhWNTNXczhFWHpXUmpGcmZoSFdzNnBjdU1XcnVsTlJNak9acU5OQ0psM3FWWW1jWnlKc1c4VjJaWXFJcXYxZ19NRWxrUkpnMHBVRDlEQ2ZnV0VZV2drRG0tdkVnVl9xWUN6V3FCbzAxSk9BQQ?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Скопие сезонира ЕС и Съвета на Европа заради Ива Михайлова",
-      "summary": "Скопие привика българския посланик заради Ива Михайлова и ще сезонира ЕС и Съвета на Европа за 'бягството' й в България. Прокуратурата в Северна Македония поиска задържането й.",
-      "sources": ["Свободна точка", "Actualno", "OffNews", "Boulevard Bulgaria"],
-      "ids": [20, 28, 139, 145],
-      "link": "https://svobodnatochka.bg/novini/prokuraturata-v-severna-makedoniya-poiska-zadarzhaneto-na-iva-mihaylova/"
-    },
-    {
-      "category": "Политика",
-      "headline": "Тръмп и Путин за сделка за горивата — Зеленски трябва също да иска споразумение",
-      "summary": "Тръмп твърди, че Китай и Русия не помагат на Иран, и опитва да омекоти руската позиция. Според Actualno, Путин иска целия Донбас, а споразумението за дизела включва сделка, при която Зеленски трябва да поиска мир.",
-      "sources": ["Dnevnik", "Actualno", "FrogNews"],
-      "ids": [49, 111, 112, 113, 115],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU1FT19XTVpYRlZ4dnhWRUNsQmVRV0tLcFJ5TzJBcGZ5S09hSlNzTVNJSEJxb1g3XzdYMXhYU1RvcEFCQ0NYbGN1cXdGREphY0tPUnZVZGRVN3JPZ3FFZ2Y1ZEhxZEhpS1YtcWJPaGhFanJFSWZsMlctNWp5THN1OVFBYm5RbE9pQl9KejNCcXpHQURYTTVqendkRjFfclRhZU11U3JRQW43Zw?oc=5"
+      "headline": "ДР Конго: Кабила се доближава до М23, поражда опасения за регионалната сигурност",
+      "summary": "Лидерът на RDP Жозеф Кабила съгласи се с действията на повстанческата групировка M23, което създава опасения за destabilizация на ЦАО и междерегионални последствия. Съседни държави и международни организации изразяват тревога.",
+      "sources": ["DW"],
+      "ids": [6],
+      "link": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
