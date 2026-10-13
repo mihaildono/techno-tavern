@@ -1,85 +1,46 @@
 {
-  "updatedAt": "2026-10-13T04:57:00Z",
-  "overview": "Денят се ознаменува от атака срещу Starlink антени край София, смъртта на актьора RJ Mitte и напрежение между Тръмп и Путин по украинското гориво.",
+  "updatedAt": "2026-10-13T06:16:00Z",
+  "overview": "Денят се отличи с подпалването на 11 антени на Starlink в секретен обект край София, с преговорите между Тръмп и Путин за горивата и Украйна и с побягването на Ива Михайлова за България.",
   "stories": [
     {
       "category": "Общество",
       "headline": "В секретен обект край София подпалиха 11 антени за връзка със Starlink",
-      "summary": "Маскирани лица подпалиха 11 антени за връзка със Starlink в секретен обект край София. Полша съобщи за арестуване на двама турци в Германия по случая.",
-      "sources": [
-        "FrogNews",
-        "OffNews",
-        "Dnevnik",
-        "DW",
-        "Mediapool",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        12,
-        20,
-        21,
-        24,
-        26,
-        27
-      ],
+      "summary": "Двама маскирани подпалиха 11 антени за връзка със Starlink в секретен обект край София, съобщиха шест медийни източника. Полша съвести за арестуване на двама турци в Германия по случая.",
+      "sources": ["FrogNews", "OffNews", "Dnevnik", "DW", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [13, 22, 23, 26, 28, 29],
       "link": "https://frognews.bg/novini/maskirani-zapalili-11-anteni-vrazka-sas-starlink-sekreten-obekt-sofiya.html"
     },
     {
-      "category": "Свят",
+      "category": "Политика",
       "headline": "Тръмп опитва да омекоти руската позиция по дизела, но Путин иска целия Донбас",
-      "summary": "Сенатори зоват Тръмп да преосмисли сделката с Путин за горивата при текущата кризисна ситуация в Украйна. Москва отхвърли примирието за избори и настоява за дългосрочно мирно споразумение.",
-      "sources": [
-        "Actualno"
-      ],
-      "ids": [
-        5,
-        7,
-        8,
-        10
-      ],
+      "summary": "Сенатори зоват Тръмп да преосмисли сделката с Путин за горивата при кризата в Украйна. Москва отхвърли примирието за избори в Украйна и иска дългосрочно мирно споразумение.",
+      "sources": ["Actualno", "FrogNews", "Свободна точка"],
+      "ids": [8, 20, 37, 46],
       "link": "https://www.actualno.com/europe/sys-sporazumenieto-za-dizela-trymp-opitva-da-omekoti-ruskata-pozicija-no-putin-iska-celija-donbas-news_2649537.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Ива Михайлова е в България въпреки забраната; Скопие ще сезира ЕС и Съвета на Европа",
+      "summary": "Македонски и български медии съобщиха, че Ива Михайлова е в България въпреки забраната да напуска Северна Македония. Скопие ще сезира Европейския съюз и Съвета на Европа.",
+      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [38, 44, 50],
+      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
     },
     {
       "category": "Култура",
       "headline": "Актьорът от 'Breaking Bad' RJ Mitte почина на 34 години",
-      "summary": "Актьорът от сериала 'Breaking Bad' и защитник на хората с увреждания RJ Mitte почина. Новинарите от DW и Reuters съобщават, че беше на 34 години.",
-      "sources": [
-        "DW",
-        "Reuters"
-      ],
-      "ids": [
-        1,
-        3
-      ],
+      "summary": "Актьорът от сериала 'Breaking Bad' и защитник на хората с увреждания RJ Mitte почина на 34 години.",
+      "sources": ["DW", "Reuters"],
+      "ids": [3, 7],
       "link": "https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Технологии",
       "headline": "Кибератака спря хладилните системи на стотици супермаркети в Европа",
-      "summary": "Кибератака спря автоматичното размразяване в супермаркетни хладилници в Европа, включително в десетки френски вериги. Инцидентът засегна и цените на храните.",
-      "sources": [
-        "DW",
-        "Hacker News"
-      ],
-      "ids": [
-        22,
-        44
-      ],
+      "summary": "Кибератака спря автоматичното размразяване в супермаркетни хладилници в Европа, включително в десетки френски вериги.",
+      "sources": ["DW", "Hacker News"],
+      "ids": [24, 47],
       "link": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Общество",
-      "headline": "Ива Михайлова е в България въпреки забраната; Скопие ще сезира ЕС и Съвета на Европа",
-      "summary": "Скопие потвърди, че Иван Михайлова е в България въпреки забраната да напуска Северна Македония. Властите на Северна Македония ще сезират Европейския съюз и Съвета на Европа.",
-      "sources": [
-        "OffNews",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        36,
-        41
-      ],
-      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
     }
   ]
 }
