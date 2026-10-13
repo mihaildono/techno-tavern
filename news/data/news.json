@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "US: Man killed in Six Flags roller coaster incident",
+      "link": "https://www.dw.com/en/us-man-killed-in-six-flags-roller-coaster-incident/a-79646793?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-13T03:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "pubDate": "2026-10-13T02:46:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Asian stocks dive on AI jitters ahead of US bank earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
+      "pubDate": "2026-10-13T01:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
       "pubDate": "2026-10-13T01:07:00.000Z",
@@ -21,7 +51,7 @@
       }
     },
     {
-      "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - Reuters",
+      "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
       "pubDate": "2026-10-13T00:25:00.000Z",
       "thumbnail": null,
@@ -44,16 +74,6 @@
       "title": "'Breaking Bad' actor and disability rights activist RJ Mitte dead at 34 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUWZyRmlZOGtXeUtYTlJ6YlJYdzVfZVEtVVFiOUNSQmVrTlA1aFVSVXFSR01vQlRHX05Xc3VEdVJrZzExVF9CVGtzM2lMRFpJanozVDdDLXNnVXdlWHY0NEV3Tm9Da1lKLVE1aU1TU1J4VTVEb3hCVXJGeG50cWFiQTRJZ1E2UGJiN0ducmVlaURMcEdoRG5pSUNqNDZ4bzBQQXJzdDRWRE1xS3hLZmRidjFUVVJabjltWV9vM0F3?oc=5",
       "pubDate": "2026-10-12T23:22:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
-      "title": "Actor Selma Blair arrested and accused of abusing flight attendants - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWlBSzZzNjhtUVhWYWpPekZ6VTIzOXd0c1M0bjdaMEtXd1lXRnNSNzNLRXhlaWlidUV1RlU3cnI1cUhneXl0Y1pUQTRGOHhfaVFLNS12OEhnbUk1MEMyWDRsZ2t4OVdWSnJWR0JYbXZTUjB3c0NMX2RzSHo5YjRRR3lFRGpJZy1mcEpTSFRGdUtvVGN1emk4TzMwbEdWRGZLemJiWlpSN3RNZw?oc=5",
-      "pubDate": "2026-10-12T23:17:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -97,6 +117,16 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "pubDate": "2026-10-12T21:35:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -146,16 +176,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "pubDate": "2026-10-12T19:40:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       }
     },
     {
@@ -214,16 +234,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "link": "https://github.com/openai/codex/issues/48195",
-      "pubDate": "2026-10-12T18:29:04.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       }
     },
     {
@@ -349,16 +359,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Fact check: Viral videos falsely linked to Riyadh airport attacks",
-      "link": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-12T17:19:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
       }
     },
     {
@@ -511,16 +511,6 @@
       }
     },
     {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "pubDate": "2026-10-12T12:16:42.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Населението на България е намаляло с 14 153 души през миналата година - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW11YjBtUnFYWnh6VDVZWFlyTHZGbzF0SmZlcHpLeE9HSmE1QUxNX25VSEtyNzVuejF3czAzUzRYNnE5VVhnR0xIdWdNamlhalNoSXUxUS12bVd0cUZtRV85YlpLYzh0Qm12TEh1VlB4bnBac2h0Snp0YlBPdlBrZ2FPTk4wMHN6VlhMdjktMDU4TUpoM003VXlQMG5KYnh1TlhjQ0xITHRmdkE?oc=5",
       "pubDate": "2026-10-12T10:41:00.000Z",
@@ -561,5 +551,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-13T03:15:21.535Z"
+  "lastUpdated": "2026-10-13T04:12:00.392Z"
 }
