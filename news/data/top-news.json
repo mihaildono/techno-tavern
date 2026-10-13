@@ -1,38 +1,46 @@
 {
-  "updatedAt": "2026-10-13T07:30:00.000Z",
-  "overview": "Главни събития днес включват саботаж срещу Starlink времевец в София, смъртта на актьор RJ Mitte, и нови съобщения за международната ситуация.",
+  "updatedAt": "2026-10-13T04:36:00.000Z",
+  "overview": "Денят е отбелязан с мащабния инцидент с подпалените антени на Starlink в София и продължаващите дипломатически напрежения около войната в Украйна. ЕС наложи нови санкции срещу Русия, а в България се търси жена в неизвестност.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Маскирани са подпалили 11 антени за Starlink в секретен обект край София",
-      "summary": "Двама маскирани са подпалили 11 антени за връзка със Starlink в секретен обект край София, според Ивайло Мирчев от Actualno.",
-      "sources": ["Actualno", "Mediapool", "OffNews", "FrogNews"],
-      "ids": [9, 16, 22, 15],
+      "headline": "Маскирани са подпалили 11 антени на Starlink в секретен обект край София",
+      "summary": "Ивайло Мирчев потвърди, че двама маскирани са подпалили 11 антени за връзка със Starlink в секретен обект до София. Поландата съобщава за арести на двама турски citizen в Германия във връзка с подобен инцидент месец по-рано.",
+      "sources": ["FrogNews", "OffNews", "Dnevnik", "DW", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [15, 22, 23, 26, 28, 29],
+      "link": "https://frognews.bg/novini/maskirani-zapalili-11-anteni-vrazka-sas-starlink-sekreten-obekt-sofiya.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп опитва да убеди Путин и Зеленски за сделка за горивата, но Русия атакува украински енергийни обекти",
+      "summary": "След обявеното от Тръмп примирие, Русия е атакувала шест украински енергийни обекти. В същото време Путин иска целия Донбас, а сенатори в САЩ зоват Тръмп да осмисли сделката. Москва отхвърли примирието за избори в Украйна и иска дългосрочно мирно споразумение.",
+      "sources": ["Actualno", "FrogNews"],
+      "ids": [9, 10, 11, 13, 21, 36],
       "link": "https://www.actualno.com/europe/sys-sporazumenieto-za-dizela-trymp-opitva-da-omekoti-ruskata-pozicija-no-putin-iska-celija-donbas-news_2649537.html"
     },
     {
-      "category": "Култура",
-      "headline": "'Breaking Bad' актьор RJ Mitte починал на 34 години",
-      "summary": "Отзначен актьор и защитник на правата на хората с увреждания Р.Дж. Мит се починал на възраст 34 години, съобщиха неговият премиер.",
-      "sources": ["DW", "Reuters"],
-      "ids": [5, 8],
-      "link": "https://www.dw.com/en/us-man-killed-in-six-flags-roller-coaster-incident/a-79646793?maca=en-rss-en-top-1022-rdf"
+      "category": "Свят",
+      "headline": "Скопие ще сезира ЕС и Съвета на Европа за бягството на Ива Михайлова в България",
+      "summary": "Ива Михайлова е в България въпреки забраната да напуска Северна Македония. Скопие твърди, че е избягала, и ще сезира ЕС и Съвета на Европа по въпроса.",
+      "sources": ["OffNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [37, 43, 48],
+      "link": "https://offnews.bg/obshtestvo/skopie-shte-sezira-es-i-saveta-na-evropa-za-biagstvoto-na-iva-miha-876323.html"
     },
     {
-      "category": "Технологии",
-      "headline": "OpenAI алгоритъм за FFT представлява потенциален злоупотребен инструмент",
-      "summary": "Изследователи посочват, че алгоритъм за по-бързи Фурие трансформира за OpenAI представлява по-скоро злоупотребяващ инструмент отколкото истинско научно откритие.",
-      "sources": ["Hacker News"],
-      "ids": [2],
-      "link": "https://www.argmin.net/p/faster-fourier-transforms"
+      "category": "Свят",
+      "headline": "ЕС наложи нови санкции срещу руския военнопромишлен комплекс",
+      "summary": "ЕС наложи най-големия си пакет от санкции срещу организации, свързани с руския военнопромишлен комплекс.",
+      "sources": ["Свободна точка"],
+      "ids": [45],
+      "link": "https://svobodnatochka.bg/novini/nay-golemiyat-paket-dosega-es-nalozhi-novi-sanktsii-sreshtu-rusiya/"
     },
     {
-      "category": "Политика",
-      "headline": "Тръмп опитва да \"омекоти\" руската позиция с сделката за дизела, но Путин иска целия Донбас",
-      "summary": "Търмп твърди, че опитва да помири интереса на САЩ, но Путин настоява за пълното превземане на Донбас, съобщава Actualno.",
-      "sources": ["Actualno"],
-      "ids": [9],
-      "link": "https://www.actualno.com/europe/sys-sporazumenieto-za-dizela-trymp-opitva-da-omekoti-ruskata-pozicija-no-putin-iska-celija-donbas-news_2649537.html"
+      "category": "Общество",
+      "headline": "Търси се 34-годишна жена от Шумен в неизвестност от 1 септември",
+      "summary": "Мариета Миткова Вълчева от Шумен е в неизвестност от 1 септември. Издирва се.",
+      "sources": ["Dnevnik", "OffNews"],
+      "ids": [17, 30],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWU1WmVJZ2hyZi10R1R4VkdMdWpZa3daQnJwa0dJNHktSVZ2bnhkeVlFNDM1UmRqbkwyYTJPVlRCdWRCaVVZUmJNcGMtM3cxdGhoUG1TY3VMbVNTNG1Pems0c3cteFJTQW1oTE9uS0tnNXNDQXFNeDNvQS1HcS1zWkxjVjlCdWkyUUU2ZmVBOTVpYzZwUHBqUk00RFl6ZmhXUDcwSm9VaEM?oc=5"
     }
   ]
 }
