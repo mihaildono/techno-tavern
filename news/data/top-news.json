@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T10:06:49.942Z",
-  "overview": "Водещите събития за дена включват атаките срещу търговски кораби в Черно море и призива на България за международна помощ, здравословните проблеми на папа Лъв XIV, както и дипоматическите напрежения около отставката на посланичката на САЩ в Гърция и мирния план за Украйна.",
+  "overview": "Водещи събития за деня включват сменянето на посланика на САЩ в Гърция след скандал, атаки с дронове на търговски кораби в Черно море и диагностицирането на рак на папа Лъв XIV.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "България сезонира Съвета за сигурност на ООН за атаките срещу кораби в Черно море",
-      "summary": "Парламентът излушва Радев и спецслужбите за атаките срещу търговски кораби в Черно море. Русия твърди, че е атакувала кораби, а министърът на отбраната Димитър Стоянов „очаква“ дроновете да са руски. България ще сезонира Съвета за сигурност на ООН за инцидентите.",
-      "sources": ["OffNews", "Свободна точка", "Boulevard Bulgaria", "Dnevnik"],
-      "ids": [22, 23, 26, 39, 46],
-      "link": "https://offnews.bg/politika/parlamentat-izslushva-radev-i-spetcsluzhbite-za-atakite-sreshtu-korabi-876401.html"
+      "category": "Политика",
+      "headline": "САЩ сменят посланика в Гърция Кимбърли Гилфойл след скандал",
+      "summary": "Америка сменя посланика си в Гърция Кимбърли Гилфойл, след доклади за недеговано поведение. Белия дом призовава нея да подаде оставка, а Тръмп потвърждава съмнение.",
+      "sources": ["DW", "FrogNews", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [1, 6, 10, 15, 26],
+      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Атаки с дронове на кораби в Черно море пред България предизвикват международна тревога",
+      "summary": "Два търговски кораба бяха атакувани с дронове в Черно море. Министърът на отбраната Стоянов подсказва руски атаки. САЩ и Европа обсъждат съвместен план.",
+      "sources": ["FrogNews", "OffNews", "Свободна точка", "Boulevard Bulgaria", "Dnevnik"],
+      "ids": [4, 12, 19, 21, 39, 40],
+      "link": "https://frognews.bg/novini/troen-skok-zastrahovkite-tovari-korabi-preminavashti-prez-iiz-balgariia-rumaniia.html"
     },
     {
       "category": "Здравеопазване",
       "headline": "Папа Лъв XIV е диагностициран с рак на белия дроб",
-      "summary": "Папа Лъв XIV е диагностициран с рак на белия дроб. Лекарите са оперирали папата и са дали подробности за състоянието му.",
+      "summary": "Папа Лъв XIV е оперативно изтръгнат заради рак на белия дроб. Новината бе потвърдена от Mediapool и Actualno.",
       "sources": ["Boulevard Bulgaria", "Mediapool", "OffNews", "Actualno"],
-      "ids": [19, 20, 24, 36],
+      "ids": [15, 20, 24, 36],
       "link": "https://boulevardbulgaria.bg/articles/papa-lav-xiv-e-diagnostitsiran-s-rak-na-beliya-drob"
     },
     {
       "category": "Свят",
-      "headline": "САЩ и Европа обсъаждат мирен план за Украйна, който ще върне доставките на руски петрол и газ в ЕС",
-      "summary": "САЩ и Европа готвят съвместно предложение за край на войната в Украйна. Планът предвижда връщане на доставките на руски петрол и газ в Европейския съюз.",
-      "sources": ["Boulevard Bulgaria", "Dnevnik"],
-      "ids": [41, 45],
-      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
+      "headline": "Тръмп започва проучване на петрол, газ и минерали в Гренландия",
+      "summary": "Тръмп погледна към ресурсите на Гренландия, започва проучване за нефт, газ и минерали. Стъпка е част от стратегическата експанзия.",
+      "sources": ["FrogNews"],
+      "ids": [9],
+      "link": "https://frognews.bg/novini/tramp-poglejda-kam-resursite-grenlandiia-zapochva-prouchvane-neft-gaz-minerali.html"
     },
     {
-      "category": "Свят",
-      "headline": "Посланичката на САЩ в Гърция Кимбърли Гилфойл подаде оставка",
-      "summary": "Посланичката на САЩ в Гърция Кимбърли Гилфойл подаде оставка след обвинения в неподходящо поведение.",
-      "sources": ["Boulevard Bulgaria", "Actualno"],
-      "ids": [15, 34],
-      "link": "https://boulevardbulgaria.bg/articles/poslanichkata-na-sasht-v-gartsiya-kimbarli-gilfoyl-podade-ostavka"
-    },
-    {
-      "category": "Свят",
-      "headline": "Съдът над заподозряния за саботажа на „Северен поток“ започна в Германия",
-      "summary": "Германия откри съдебния процес срещу заподозряния за саботажа на газопровода „Северен поток“. Украинецът, който е обвинен, се изправя пред съда.",
-      "sources": ["DW", "FrogNews"],
-      "ids": [2, 3],
-      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf"
+      "category": "Технологии",
+      "headline": "Anthropic AI скоро ще може да се самовъзпроизвежда в интернет",
+      "summary": "Anthropic съобщи, че тяхното AI скоро ще може да се самовъзпроизвежда в интернет. Разработките включват усъвършенстване на самоподдръжката.",
+      "sources": ["Mediapool"],
+      "ids": [5],
+      "link": "https://www.mediapool.bg/tehnologii/anthropic-ai-skoro-shte-mozhe-da-se-samovazproizvezhda-v-internet/"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-14T07:26:25.092Z"
 }
