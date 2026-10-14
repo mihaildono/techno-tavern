@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
+      "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-14T10:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
       "title": "\"Имам право да говоря с всеки\": Радев отговори на критиките за разговора с Митрофанова",
       "link": "https://www.actualno.com/politics/imam-pravo-da-govorja-s-vseki-radev-otgovori-na-kritikite-za-razgovora-s-mitrofanova-news_2650177.html",
       "pubDate": "2026-10-14T09:35:00.000Z",
@@ -86,6 +96,16 @@
       }
     },
     {
+      "title": "What agents mean for Rust (and vice versa)",
+      "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "pubDate": "2026-10-14T08:49:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "Do non-German nationals commit more crimes than Germans?",
       "link": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-14T08:48:00.000Z",
@@ -136,6 +156,16 @@
       }
     },
     {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "link": "https://typeof.net/Iosevka/",
+      "pubDate": "2026-10-14T08:27:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
       "title": "FIFPRO report highlights growing pains in women&apos;s football",
       "link": "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-14T08:21:00.000Z",
@@ -179,16 +209,6 @@
       "title": "The hidden treasure in discarded wearable and fast tech",
       "link": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-14T06:52:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "Germany news: Nord Stream sabotage suspect&apos;s trial opens",
-      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-14T06:51:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "DW",
@@ -417,26 +437,6 @@
       }
     },
     {
-      "title": "Grace Hopper Celebration Cancelled",
-      "link": "https://anitab.org/press-release",
-      "pubDate": "2026-10-13T22:46:49.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "link": "https://guitoro.com/",
-      "pubDate": "2026-10-13T19:11:48.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "България ще сезира Съвета за сигурност на ООН за атаките срещу търговски кораби в Черно море - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnVZNHlITEh2dk96cWFmUEd1UEt1YkkwOFR6YzZOTGhXNkhBVjliaGdJRHI5UHFKUjJlZzQ3ek9obEo3c3FTZEpqVTRoSlYzRGF0TXNHS1ZVenJYeVd2VUZrOFoxSUxTZGxNR0tWNlp5dlo3Y1FJbi1RS01Wa3E0ZGhOZmkxSDh3YWZMTWRZbTNaa19tbTdyQlMxekQ0T1FJejJHUGpn?oc=5",
       "pubDate": "2026-10-13T18:17:00.000Z",
@@ -474,16 +474,6 @@
       "title": "Gemini 4 Argon",
       "link": "https://deepmind.google/models/gemini/",
       "pubDate": "2026-10-13T16:03:16.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "pubDate": "2026-10-13T15:49:56.000Z",
       "thumbnail": null,
       "source": {
         "name": "Hacker News",
@@ -531,5 +521,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-14T09:46:17.755Z"
+  "lastUpdated": "2026-10-14T10:09:32.383Z"
 }
