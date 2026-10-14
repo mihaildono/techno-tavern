@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T03:07:49.957Z",
-  "overview": "Днес водещите събития са свързани с атаките в Черно море, оттеглянето на посланика на САЩ в Гърция и новия мирен план на Тръмп за Украйна. Високо ниво на безработицата и икономическата несигурност продължават да безпокоят Европа.",
+  "updatedAt": "2026-10-14T06:37:12.000Z",
+  "overview": "Водещите събития за деня са атаките в Черно море и Българията сезира ООН за военни престъпления, ареста на служител на OpenAI за подкладяне на слушателен уред, казуса с помилването на наркотрафикант от Вицепрезидент Йотова, както и международната заповед за арест на Ива Михайлова от Скопие и мирен план на САЩ и Европа за Украйна.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Атаки в Черно море: България сезира ООН, разследването да бъде като военни престъпления",
-      "summary": "България ще сезира Съвета за сигурност на ООН за атаките с дронове в Черно море, при които са ударили два кораба до българското крайбрежие. Правозащитни организации настоят atacциите да се разследват като военни престъпления.",
-      "sources": ["OffNews", "Boulevard Bulgaria", "Mediapool", "Свободна точка", "Dnevnik"],
-      "ids": [2, 17, 40, 77, 89, 45],
+      "headline": "България сезира ООН за атаките в Черно море, разследването да бъде като военни престъпления",
+      "summary": "Два кораба са удари до българското крайбрежие в Черно море. България ще сезира Съвета за сигурност на ООН, а правозащитни организации предлагат атаките да се разследват като военни престъпления. Министърът на отбраната Димитър Стоянов очаква дроновете да са руски.",
+      "sources": ["OffNews", "Mediapool", "FrogNews", "Boulevard Bulgaria", "Свободна точка", "Dnevnik"],
+      "ids": [20, 24, 28, 31, 33, 34, 41, 43, 45, 46, 29],
       "link": "https://offnews.bg/politika/balgaria-shte-sezira-saveta-za-sigurnost-na-oon-za-atakite-v-cherno-mo-876398.html"
     },
     {
-      "category": "Свят",
-      "headline": "Тръмп отстрани посланика на САЩ в Гърция след скандал",
-      "summary": "Американският президент Доналд Тръмп отстрани Кимбърли Гилфойл от поста на посланик на САЩ в Гърция след сообщения за неправомерно поведение; Белият дом поиска оставката ѝ след серия скандали.",
-      "sources": ["Reuters", "DW", "FrogNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [47, 52, 56, 61, 71],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Нов мирен план на Тръмп за Украйна включва тръбопровод към Европа с подялба на печалбата",
-      "summary": "Новият мирен план на САЩ за Украйна включва тръбопровод към Европа с подялба на печалбата между Москва и Киев, разсейва опасенията за разкъсването на Сатернпот.",
-      "sources": ["Mediapool", "DW", "Reuters", "Dnevnik"],
-      "ids": [66, 36, 38, 94],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/vashington-post-noviyat-miren-plan-na-sasht-za-ukraina-vklyuchva-traboprovod-kam-evropa-s-podyalba-na-pechalbata-mezhdu-moskva/"
-    },
-    {
       "category": "Технологии",
-      "headline": "Открито установяване на слушателен уред в OpenAI",
-      "summary": "Служител на OpenAI е арестуван за подкладяне на слушателен уред в конферентната зала на компанията, което е бил открито по случайност чрез акустична система.",
-      "sources": ["DW", "Reuters", "Hacker News"],
-      "ids": [14, 29, 15],
-      "link": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-top-1022-rdf"
+      "headline": "OpenAI арестува служител за подкладяне на слушателен уред в конферентната зала",
+      "summary": "Служител на OpenAI е арестуван за подкладяне на слушателен уред в конферентната зала на компанията, което е открито по случайност чрез акустична система.",
+      "sources": ["Reuters", "DW", "Hacker News"],
+      "ids": [5, 8, 13],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Йотова ще сезира прокуратурата за казуса с помилването на наркотрафикант",
-      "summary": "Йотова ще сезира прокуратурата за казуса с помилването на удостоверения за експорта на наркотици Петричкия Ескобар, провокирайки критики от правоохранителните органи.",
+      "headline": "Йотова ще сезира прокуратурата за помилването на наркотрафикант Петричкия Ескобар",
+      "summary": "Вицепрезидентът Йотова ще сезира прокуратурата за казуса с помилването на удостоверения за експорта на наркотици Петричкия Ескобар. Преди това ПБ бойкотира изслушване в НС по въпроса.",
       "sources": ["OffNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [1, 44, 21],
-      "link": "https://www.mediapool.bg/bulgaria/yotova-shte-sezira-prokuraturata-za-kazusa-s-pomilvaniya-ot-neya-narkotrafikant-predi-tova-pb-boikotira-izslushvane-v-ns/"
+      "ids": [16, 35, 38],
+      "link": "https://offnews.bg/temida/prokuraturata-shte-proveriava-sluchaia-s-pomilvania-ot-jotova-narkotra-876397.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Скопие привика българския посланик и издаде международна заповед за арест на Ива Михайлова",
+      "summary": "Македонското МВР издаде международна заповед за арест на Ива Михайлова. Скопие привика българския посланик, а прокуратурата в Северна Македония поиска задържането ѝ.",
+      "sources": ["OffNews", "FrogNews", "Свободна точка"],
+      "ids": [25, 26, 44],
+      "link": "https://offnews.bg/obshtestvo/makedonskoto-mvr-izdade-mezdunarodna-zapoved-za-arest-na-iva-mihajlov-876396.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "САЩ и Европа обсъждат мирен план за Украйна с връщане на руски петрол и газ в ЕС",
+      "summary": "САЩ и Европа готвят съвместно предложение за край на войната в Украйна, който включва връщане на доставките на руски петрол и газ в Европа.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik"],
+      "ids": [32, 42],
+      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
     }
   ]
 }
