@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T18:30:00.000Z",
-  "overview": "Ключови международни и вътрешни новини за деня: разгорещена полемика около срещата на президента Радев с руската дипломатеска атташе Митрофанова предизвиква политически вълнения, атаките в Черно море и палежа на антени на Starlink предизвикват сериозни разследвания, докато в световен план хутите атакуват Saudi Aramco, а Китай продължава да разширява влиянието си в технологичния сектор.",
+  "updatedAt": "2026-10-14T19:55:00.000Z",
+  "overview": "Денят е отбелязан с връщането на influencers Стоян Колев в България, пожара в албийското министерство на образованието по време на протест на студенти, засилената инфлация в САЩ и разследването на палежа на антени на Starlink край София.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Разгорещената полемика около срещата на Радев с Митрофанова предизвиква парламентарни разисквания и обществено недоверие",
-      "summary": "Срещата на президента Румен Радев с руската дипломатеска атташе Дарья Митрофанова предизвика широки политически вълнения в България. Медиа и опозиционни сили обвиняват Радев, че се среща с представител на държавата, която води война срещу България и други съседи. Въпросът бе поставен и в парламента, където министерите отговаряха на въпроси на депутатите относно тази среща, водейки до протести от страна на гражданското общество и разни сили.",
-      "sources": ["Свободна точка", "Actualno", "Mediapool"],
-      "ids": [29, 30, 32],
-      "link": "https://www.mediapool.bg/bulgaria/premierat-razkaza-na-deputatite-za-mitrofanova-i-ne-dade-signali-za-promyana-na-politikata-si-kam-kremal-obnovena/"
+      "category": "Общество",
+      "headline": "Стоян Колев е върнат в България",
+      "summary": "Инфлуенсърът Стоян Колев е върнат в България, съобщават Mediapool и Dnevnik.bg. Случаят е свързан с неговото издирване и екстрадиране.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [16, 35],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
     },
     {
       "category": "Свят",
-      "headline": "Атаките в Черно море, палежа на антени на Starlink и украинската война предизвикват сериозни разследвания и политически въпроси",
-      "summary": "Българските власти разследват акта на вандализъм срещу 11 антени на Starlink край София, докато във вътрешнополитическите разпрелики президентът Радев потвърди срещата си с руската дипломатеска атташе Дарья Митрофанова, предизвиквайки критики. Същевременно украинската война продължава, с пространни ефекти върху световната икономика и безопасността в региона.",
-      "sources": ["Reuters", "OffNews", "Mediapool"],
-      "ids": [3, 12, 24],
-      "link": "https://www.mediapool.bg/bulgaria/premierat-razkaza-na-deputatite-za-mitrofanova-i-ne-dade-signali-za-promyana-na-politikata-si-kam-kremal-obnovena/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Хутите атакуват главната база на Saudi Aramco в Рияд, разрушавайки критична икономическа инфраструктура",
-      "summary": "Хуситите заявиха, че са атакували главната база на Saudi Aramco в Саудитска Арабия, която се намира в района на столицата Рияд. Инцидентът е със сериозни последствия, причинил някои разрушения, че респективното отступление на важна икономическа институция изведе в криза в световната пазарна икономика и икономически потребител и сделката на петрола.",
+      "headline": "Пожар в Министерството на образованието в Албания по време на протест на студенти",
+      "summary": "Пожар избухва в Министерството на образованието в Албания по време на протест на студенти, съобщават Reuters и DW. При инцидента няма докладани жертви.",
       "sources": ["Reuters", "DW"],
-      "ids": [1, 19],
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEY0UDJsbGo1MXFVX1FoY1RIdkFLeW96R3hMOEkwQTNRTFpLby1wZEFGRy10SThxSkhSaXZKQ1psYmdiQVZQd19uaDFtZFBZa1pJZzZCT0dsd0lSdmV1UWV0dExiRmU2Y2lVUS1SaWs1UzNkZ25lUnRJaklfWnlOeEFVQTg2dDVQTWF4UWp1aTcyR2JsUWN5d0JzSWRqMlp1ZDY3OXpncUZDN2FuVk9tN0VuaGtIMVpXM1F4RU5QX00xek9q?oc=5"
-    },
-    {
-      "category": "Технологии",
-      "headline": "Научният прогрес на Китай в гейминга и големите модели на Deepmind формират нова технологична драма",
-      "summary": "Китай продължава да разширява свое влиянието в гейминг индустрията, създавайки нови моделни платформи. Натуралнот онлайн пазар икономическата пазарна си тенденция продължава да се развива. Същевременно ИИ изследователския център на Google Deepmind представя нови големи модели, които показват забележителен прогрес в областта на изкуствения интелект и обработката на данни, дръжки на предния граница на технологичната еволуция.",
-      "sources": ["DW", "Reuters", "Dnevnik"],
-      "ids": [18, 25, 26],
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
+      "ids": [14, 18],
+      "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193"
     },
     {
       "category": "Икономика",
-      "headline": "Инфлационни тревоги и правителствени предупреждения за растящи себестойности в България",
-      "summary": "Данните показват, че икономическата обстановка в България се влошава, с тревожни сигнални отбивания. Средновекивните цени заработват, а инфлационният натиск продължава. Правителствените служби предупреждават за възможни трудности за гражданите, тъй като ценитата за основни стоки продължават да растат в световен мащаб, а се очаква повишаването на ДДС в България да е такова, че подове може да бъде покрито с няколко процента по годишно ниво, което би повлияло неблагоприятно на портфейлите на многобройните граждани.",
-      "sources": ["Reuters", "Mediapool"],
-      "ids": [2, 7],
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5"
+      "headline": "Инфлацията в САЩ се засилва през септември; Фед отново разглежда повишаване на лихвите",
+      "summary": "САЩ отчетат засилене на инфлацията през септември, което поставя въпроса за повишаване на лихвената ставка от Фед през този месец. Двата доклада от Reuters потвърдяват натиска върху цените.",
+      "sources": ["Reuters", "Reuters"],
+      "ids": [29, 34],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5"
+    },
+    {
+      "category": "Общество",
+      "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
+      "summary": "Българските и чуждестранните служби разследват палежа на 11 антени на Starlink до София. Президетент Радев потвърди за палежа, но призова ДАНС да не разкрива повече детайли.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [29, 41],
+      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Франция поиска мораториум на атаките в Черно море, Гърция изрази солидарност с България",
+      "summary": "Франция поиска мораториум върху атаките в Черно море, а Гърция изрази пълна солидарност с България във връзка със сигурността в региона. Съобщава OffNews.",
+      "sources": ["OffNews"],
+      "ids": [36],
+      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html"
     }
   ]
 }
