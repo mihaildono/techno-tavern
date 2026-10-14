@@ -1,46 +1,46 @@
 {
-  "overview": "Водещи събития за деня включват сменянето на посланика на САЩ в Гърция след скандал, атаки с дронове на търговски кораби в Черно море и диагностицирането на рак на папа Лъв XIV.",
+  "updatedAt": "2026-10-14T11:20:00.000Z",
+  "overview": "Важни политически и светски събития: от оттеглянето на посланика на САЩ в Гърция до диагностицирането на папа Лъв XIV с рак на белия дроб. Засилват се напреженията около Черно море и войната в Украйна, докато Тръмп обявява проучване за ресурси в Гренландия.",
   "stories": [
     {
       "category": "Политика",
-      "headline": "САЩ сменят посланика в Гърция Кимбърли Гилфойл след скандал",
-      "summary": "Америка сменя посланика си в Гърция Кимбърли Гилфойл, след доклади за недеговано поведение. Белия дом призовава нея да подаде оставка, а Тръмп потвърждава съмнение.",
-      "sources": ["DW", "FrogNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [1, 6, 10, 15, 26],
-      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Общество",
-      "headline": "Атаки с дронове на кораби в Черно море пред България предизвикват международна тревога",
-      "summary": "Два търговски кораба бяха атакувани с дронове в Черно море. Министърът на отбраната Стоянов подсказва руски атаки. САЩ и Европа обсъждат съвместен план.",
-      "sources": ["FrogNews", "OffNews", "Свободна точка", "Boulevard Bulgaria", "Dnevnik"],
-      "ids": [4, 12, 19, 21, 39, 40],
-      "link": "https://frognews.bg/novini/troen-skok-zastrahovkite-tovari-korabi-preminavashti-prez-iiz-balgariia-rumaniia.html"
+      "headline": "Посланикът на САЩ в Гърция Кимбърли Гилфойл подаде оставка",
+      "summary": "Бившата годеница на Тръмп-младши подаде оставка след обвинения за неподходящо поведение по време на службата си. Събитието предизвика политически вълннице в relations.",
+      "sources": ["Boulevard Bulgaria", "Actualno"],
+      "ids": [18, 34],
+      "link": "https://boulevardbulgaria.bg/articles/poslanichkata-na-sasht-v-gartsiya-kimbarli-gilfoyl-podade-ostavka"
     },
     {
       "category": "Здравеопазване",
       "headline": "Папа Лъв XIV е диагностициран с рак на белия дроб",
-      "summary": "Папа Лъв XIV е оперативно изтръгнат заради рак на белия дроб. Новината бе потвърдена от Mediapool и Actualno.",
+      "summary": "Папата е диагностициран с злокачествена болест и се подложи на операция. Лекари дават подробности за състоянието му, предизвиквайки загриженост в световната католическа общност.",
       "sources": ["Boulevard Bulgaria", "Mediapool", "OffNews", "Actualno"],
-      "ids": [15, 20, 24, 36],
+      "ids": [22, 23, 27, 36],
       "link": "https://boulevardbulgaria.bg/articles/papa-lav-xiv-e-diagnostitsiran-s-rak-na-beliya-drob"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп започва проучване на петрол, газ и минерали в Гренландия",
-      "summary": "Тръмп погледна към ресурсите на Гренландия, започва проучване за нефт, газ и минерали. Стъпка е част от стратегическата експанзия.",
-      "sources": ["FrogNews"],
-      "ids": [9],
-      "link": "https://frognews.bg/novini/tramp-poglejda-kam-resursite-grenlandiia-zapochva-prouchvane-neft-gaz-minerali.html"
+      "headline": "САЩ и Европа обсъаждат мирен план за Украйна",
+      "summary": "Американските и европейските правителства работят по съвместно предложение за край на войната в Украйна, което включва връщане на руски петрол и газ в ЕС.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik"],
+      "ids": [40, 44],
+      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
     },
     {
-      "category": "Технологии",
-      "headline": "Anthropic AI скоро ще може да се самовъзпроизвежда в интернет",
-      "summary": "Anthropic съобщи, че тяхното AI скоро ще може да се самовъзпроизвежда в интернет. Разработките включват усъвършенстване на самоподдръжката.",
-      "sources": ["Mediapool"],
-      "ids": [5],
-      "link": "https://www.mediapool.bg/tehnologii/anthropic-ai-skoro-shte-mozhe-da-se-samovazproizvezhda-v-internet/"
+      "category": "Свят",
+      "headline": "Парламентът изследва атаките по корабите в Черно море",
+      "summary": "Парламентът изпробва Радев и спецслужбите за атаките срещу кораби в Черно море. Министърът на отбраната Димитър Стоянов очаква дроновете, атакували корабите, да са руски.",
+      "sources": ["OffNews", "Svobodna točka", "Boulevard Bulgaria"],
+      "ids": [25, 26, 29, 45],
+      "link": "https://offnews.bg/politika/parlamentat-izslushva-radev-i-spetcsluzhbite-za-atakite-sreshtu-korabi-876401.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Тръмп обявява масивно проучване за нефт, газ и минерали в Гренландия",
+      "summary": "Тръмп обявява началото на мащабно проучване за нефт, газ и минерални ресурси в Гренландия, което предизвика международно напрежение.",
+      "sources": ["Reuters", "FrogNews"],
+      "ids": [12, 30],
+      "link": "https://frognews.bg/novini/tramp-poglejda-kam-resursite-grenlandiia-zapochva-prouchvane-neft-gaz-minerali.html"
     }
-  ],
-  "updatedAt": "2026-10-14T07:26:25.092Z"
+  ]
 }
