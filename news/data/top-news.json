@@ -1,46 +1,22 @@
 {
-  "updatedAt": "2026-10-14T14:42:46.000Z",
-  "overview": "Денят е отбелязан от събитията около атаките срещу кораби в Черно море и sabotage на Starlink, които поставят въпроси за сигурността в региона. В България политическото напрежение около Радев и Митроfanова продължава, докато САЩ и Европа работят по мирен план за Украйна.",
+  "updatedAt": "2026-10-14T12:03:19.846Z",
+  "overview": "Ключи събития от днес са политическите трънкости в Гърция и Черно море, украинско-американски диалог и активна дипломация по европейските енергийни въпроси, съпътствани от глобални външнополитически εξελίξεις в Близкия Изток и Белградско-Румънските взаимоотношения.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Атаки срещу кораби в Черно море и sabotage на Starlink в България изправят парламента и спец службите пред изпитания",
-      "summary": "Парламентът изслушва Радев и спец службите за атаките срещу кораби в Черно море, докато разследват подпалените 11 антени на Starlink край София. Министърът на отбраната Димитър Стоянов очаква дроновете да са руски, а Демерджиев пусна видео от спасяването на моряците от \"Челси-3\". САЩ ограничиха използването на Starlink от Украйна.",
-      "sources": ["Reuters", "OffNews", "Свободна точка", "Boulevard Bulgaria", "Dnevnik", "DW", "Mediapool"],
-      "ids": [20, 36, 37, 40, 41, 44, 46, 47, 2, 18],
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5"
-    },
-    {
       "category": "Политика",
-      "headline": "Радев отговори на критиките за разговора с Митрофанова, а премиерът не даде сигнали за промяна на политиката към Кремъл",
-      "summary": "Президентът Радев отговори на критиките за разговора си с Митрофанова, а премиерът разказа на депутатите за този разговор без да даде сигнали за промяна на политиката към Кремъл. Медият анализира въпроса \"Другарко Митрофанова, защо така\".",
-      "sources": ["Actualno", "Mediapool"],
-      "ids": [8, 10, 23],
-      "link": "https://www.actualno.com/politics/imam-pravo-da-govorja-s-vseki-radev-otgovori-na-kritikite-za-razgovora-s-mitrofanova-news_2650177.html"
+      "headline": "Трамп потърси оставката на американската посланица в Гърция Кимбърли Гилфойл след скандални обвинения в непримеркимо поведение",
+      "summary": "Белият дом принуди амбасадорът на САЩ в Гърция да подаде оставка, след като се получиха съобщения за неподходящо поведение, докладват Ройтерс, DW, FrogNews, Mediapool и Boulevard Bulgaria.",
+      "sources": ["Reuters", "DW", "FrogNews", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [1, 6, 10, 15, 26],
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry/a-79484755?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "САЩ и Европа готвят съвместно предложение за край на войната в Украйна с връщане на руски петрол и газ в ЕС",
-      "summary": "САЩ и Европа обсъждат мирен план за Украйна, който предвижда връщане на доставките на руски петрол и газ в ЕС, като част от уреждането на конфликта.",
-      "sources": ["Boulevard Bulgaria", "Dnevnik"],
-      "ids": [42, 45],
-      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
-    },
-    {
-      "category": "Свят",
-      "headline": "Германия поставя на съда подозираният за саботажа на \"Северен поток\" украински агент",
-      "summary": "Германия започна съдебния процес срещу украинския подозиран за саботажа на газопровода \"Северен поток\", който се разследва като акт на саботаж срещу критична инфраструктура.",
-      "sources": ["DW", "FrogNews"],
-      "ids": [1, 24],
-      "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Тръмп обявява планове за мащабно проучване на нефт, газ и минерали в Гренландия",
-      "summary": "Американският президент Тръмп обявява планове за мащабно изследване на ресурсите на Гренландия, включващо нефт, газ и минерали, което може да промени геополитическото равновесие в Арктика.",
-      "sources": ["DW", "FrogNews"],
-      "ids": [7, 28],
-      "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-top-1022-rdf"
+      "headline": "Атакуваните кораби в Черно море били празни, сила от 80 души задържала容器., елати от китайския нефтен завод в Черно море",
+      "summary": "След дупка в посудата и взривове доставчикът на съдове уведоми, че вашата логистична стока е проявена в светлина. след атака в Черно море, докладват OffNews и Boulevard Bulgaria, а събитие бе коментирано от Reuters, Actualno и Свободна точка.",
+      "sources": ["Reuters", "OffNews", "Boulevard Bulgaria"],
+      "ids": [2, 12, 24],
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5"
     }
   ]
 }
