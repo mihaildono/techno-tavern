@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T19:55:00.000Z",
-  "overview": "Денят е отбелязан с връщането на influencers Стоян Колев в България, пожара в албийското министерство на образованието по време на протест на студенти, засилената инфлация в САЩ и разследването на палежа на антени на Starlink край София.",
+  "updatedAt": "2026-10-14T20:56:04.000Z",
+  "overview": "Водещите събития за деня включват връщането на инфлуенсъра Стоян Колев в България, студентски протест с пожар в албийското министерство на образованието, повторно прилагане на санкции от САЩ срещу Венецуела и разследването на палежа на антени на Starlink край София.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Стоян Колев е върнат в България",
-      "summary": "Инфлуенсърът Стоян Колев е върнат в България, съобщават Mediapool и Dnevnik.bg. Случаят е свързан с неговото издирване и екстрадиране.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [16, 35],
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Пожар в Министерството на образованието в Албания по време на протест на студенти",
-      "summary": "Пожар избухва в Министерството на образованието в Албания по време на протест на студенти, съобщават Reuters и DW. При инцидента няма докладани жертви.",
+      "headline": "Студентски протест в Албания: Подпалено министерство на образованието",
+      "summary": "В Тирана избухнаха студентски протести, по време на които Министерството на образованието е подпалено. Събитието е отчетено от Reuters и DW. Няма докладени жертви.",
       "sources": ["Reuters", "DW"],
-      "ids": [14, 18],
+      "ids": [4, 20],
       "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Инфлацията в САЩ се засилва през септември; Фед отново разглежда повишаване на лихвите",
-      "summary": "САЩ отчетат засилене на инфлацията през септември, което поставя въпроса за повишаване на лихвената ставка от Фед през този месец. Двата доклада от Reuters потвърдяват натиска върху цените.",
-      "sources": ["Reuters", "Reuters"],
-      "ids": [29, 34],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5"
     },
     {
       "category": "Общество",
       "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
-      "summary": "Българските и чуждестранните служби разследват палежа на 11 антени на Starlink до София. Президетент Радев потвърди за палежа, но призова ДАНС да не разкрива повече детайли.",
+      "summary": "Български и чуждестранни служби разследват палежа на 11 антени на Starlink до София. Президент Радев потвърди разследването, но призова ДАНС да не разкрива повече данни.",
       "sources": ["FrogNews", "Свободна точка"],
-      "ids": [29, 41],
+      "ids": [32, 45],
       "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
     },
     {
+      "category": "Общество",
+      "headline": "Стоян Колев е върнат в България след екстрадиция",
+      "summary": "Инфлуенсърът Стоян Колев е върнат в България, съобщават Mediapool и Dnevnik.bg. Случаят е свързан с неговото издирване и екстрадиране от Испания.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [19, 26],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Зеленски: Украйна не е получила информация за руски балистични удари",
+      "summary": "Президентът Зеленски съобщи, че Украйна не е получила информация от западните си партньори за руски удари с балистични ракети. Това става във връзка със спекуления в Черно море.",
+      "sources": ["Свободна точка", "OffNews"],
+      "ids": [47, 39],
+      "link": "https://svobodnatochka.bg/novini/ukrayna-ne-e-poluchila-informatsiya-ot-zapadnite-si-partnyori-za-ruski-udari-s-balistichni-raketi-kaza-zelenski/"
+    },
+    {
       "category": "Политика",
-      "headline": "Франция поиска мораториум на атаките в Черно море, Гърция изрази солидарност с България",
-      "summary": "Франция поиска мораториум върху атаките в Черно море, а Гърция изрази пълна солидарност с България във връзка със сигурността в региона. Съобщава OffNews.",
-      "sources": ["OffNews"],
-      "ids": [36],
-      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html"
+      "headline": "Гюров: Нито едно правителство не допусна обедняване на народа за 5 години, това го направи за 6 месеца",
+      "summary": "Бившият министър Андрей Гюров направи остра критика на икономическата ситуация в България, твърдейки, че обедняването на народа се е случило за само 6 месеца, а не за 5 години.",
+      "sources": ["Boulevard Bulgaria"],
+      "ids": [25],
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
     }
   ]
 }
