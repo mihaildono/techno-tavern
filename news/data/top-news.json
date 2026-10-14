@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T21:34:17.000Z",
-  "overview": "Сериозни geopolitical и технологични събития върват в България и по света, включително дронирането на антени на Starlink в София, екстрадицията на Стоян Колев и законодателната промяна за забрана на фермите за ценни кожи, вдълбаваща разногласия в Министерството на културата, продължаваме международни конфликти, докато здравната криза с ебола се разпространява в Африка.",
+  "updatedAt": "2026-10-14T21:52:40.000Z",
+  "overview": "Денят е отбелязан със сигурността на Starlink в България и Украйна, връщането на Стоян Колев в България, новини за Черно море и НАТО, както и продължаващият политически и икономически кризис в България.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "Нападения на антени на Starlink край София разследват служби",
-      "summary": "Български authorities и службите разследват огнения пушец в 11 антени на Starlink край София. Министерският председател Радев потвърди изключително интензивно разследване, но не посочи Москва като отговорна, докато повече подробности все още липсват.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [35, 48],
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+      "category": "Свят",
+      "headline": "Палеж на антени на Starlink в София и ограничения за Украйна засилват безпокойствата за сигурността",
+      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink край София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече. Украйна също съобщава, че SpaceX на Мъск ограничава достъпа до Starlink за Киев.",
+      "sources": ["DW", "FrogNews", "Свободна точка"],
+      "ids": [1, 33, 48],
+      "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
-      "headline": "Стоян Колев е върнат в България след издирване в Испания",
-      "summary": "Издирваният инфлуенсър Стоян Колев беше екстрадиран от Испания обратно в България. Испанските власти предоставиха информация, че Колев води прищиви дейности в страната.",
+      "headline": "Испания предава издирвания Стоян Колев на България",
+      "summary": "Инфлуенсърът Стоян Колев е върнат в България след неговото предаване от Испания. Случката е потвърдена от Mediapool и Dnevnik.",
       "sources": ["Mediapool", "Dnevnik"],
-      "ids": [23, 29],
+      "ids": [20, 27],
       "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
     },
     {
-      "category": "Политика",
-      "headline": "Парламентът забранява фермите за ценни кожи за защита на дивите животни",
-      "summary": "Парламентът гласува единодушно закон, който забранява хижата за ценни кожи. Законът е предназначен да защити дивите животни, за защита на биологичното разнообразие в страната.",
-      "sources": ["Dnevnik"],
-      "ids": [32],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXJfd21vZEh3Wnktb3NRSF9CeEhVa2plVlFXNzctYnp5VVNNY2lkYTF4ME51RXZDem42Z3ItcXROdGxuNFB3OE45bXd5Qnh4dEJ1MF9JcW54REhUWmYzb1QtaEh3LVVtQ295LTg1bEZzaUNBMlN0OFY0dDlPNzd2QWs2T2htSV9kVTkxOFRjbTJIOFNxQWJ6cTNEc2o5Y0xNODFJNVl6Yk8?oc=5"
+      "category": "Свят",
+      "headline": "Договорът на Тръмп за дизел с Русия засяга САЩ и Украйна",
+      "summary": "Договорът на Тръмп за дизел с Русия ще има последици за САЩ и Украйна. Президентът на Украйна Зеленски казва, че е „болно“, когато Тръмп избира другата страна.",
+      "sources": ["DW", "Reuters"],
+      "ids": [3, 9],
+      "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "България се включва в проект на НАТО за защита от дронове в Черно море",
+      "summary": "България намери 220 000 евро, за да се влезе в проекта на НАТО за защита от дронове. Франция поиска мораториум на атаките в Черно море, а Гърция изрази пълна солидарност с България.",
+      "sources": ["Свободна точка", "OffNews"],
+      "ids": [37, 42],
+      "link": "https://svobodnatochka.bg/novini/balgariya-nameri-220-000-evro-za-da-se-vklyuchi-v-proekta-na-nato-za-antidronzashtitata/"
     },
     {
       "category": "Политика",
-      "headline": "Турските власти завземат контрол над главния телевизионен канал",
-      "summary": "Турските сили предприеха налягане върху Стамбул телевизия и свалиха общо управление на ключи от сградата на популярния медийен дом с над 10-годишен опит в Близкия изток.",
-      "sources": ["DW"],
-      "ids": [10],
-      "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Здравеопазване",
-      "headline": "Кения отчета втори случай на ебола при семейството на първия пациент",
-      "summary": "Кенияските здравни власти потвърдиха втори случай на ебола при семейството на първия идентифициран случай. Мерките по пресече източника на инфекция са засилени.",
-      "sources": ["Reuters"],
-      "ids": [13],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnB0VUNhaE9mWmNPNmJLbl80d2g3WXdKcU5hLUxHYVFaLXllSWNZeUI5Q1FJRjNtdjN4clpNTWRJR3VNUHhDUXJtcGQyWTYybGhpSUU0eHdKWFg2alVPQ0hsQ01SYkJhS1pacGZ4VVBOVWZJQTRRMXVET2J0QldMOTRYWTR4UVJ5VXRtSDVUc0xnWEQzYVJNUGZpVGxDTWJxdlFfcXZ5VFQ4LWZ3cmN3X05sOWoyY0lyQ0lCQmUxSTBydDBNUHBBdkl4RQ?oc=5"
+      "headline": "Политическата и икономическата криза в България продължава с нови предизвикателства",
+      "summary": "Андрей Гюров обвинява правителството, че е обеднявало народа за 6 месеца вместо за 5 години. Търговските вериги поискаха спешна среща с президента Радев, а според Пеевски след изборите се готвят големи харчове вместо да се инвестира в отбрана.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik", "Свободна точка"],
+      "ids": [26, 49, 47],
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
     }
   ]
 }
