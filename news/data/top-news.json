@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T06:37:12.000Z",
-  "overview": "Водещите събития за деня са атаките в Черно море и Българията сезира ООН за военни престъпления, ареста на служител на OpenAI за подкладяне на слушателен уред, казуса с помилването на наркотрафикант от Вицепрезидент Йотова, както и международната заповед за арест на Ива Михайлова от Скопие и мирен план на САЩ и Европа за Украйна.",
+  "updatedAt": "2026-10-14T07:55:00.000Z",
+  "overview": "Ключовите събития днес включват сериозни атаките в Черно море, оттеглянето на посланикът на САЩ в Гърция, учредената пролета в Унгария и ареста на служител на OpenAI за подкладяне на слушателен уред.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "България сезира ООН за атаките в Черно море, разследването да бъде като военни престъпления",
-      "summary": "Два кораба са удари до българското крайбрежие в Черно море. България ще сезира Съвета за сигурност на ООН, а правозащитни организации предлагат атаките да се разследват като военни престъпления. Министърът на отбраната Димитър Стоянов очаква дроновете да са руски.",
-      "sources": ["OffNews", "Mediapool", "FrogNews", "Boulevard Bulgaria", "Свободна точка", "Dnevnik"],
-      "ids": [20, 24, 28, 31, 33, 34, 41, 43, 45, 46, 29],
+      "headline": "България ще сезира Съвета за сигурност на ООН за атаките в Черно море",
+      "summary": "Два кораба бяха ударени до българското крайбрежие в Черно море. България ще сезира Съвета за сигурност на ООН, а правозащитни организации настояват атаките да бъдат разследвани като военни престъпления. Министърът на отбраната очаква дроновете да са руски.",
+      "sources": ["OffNews", "Mediapool", "FrogNews", "Dnevnik", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [17, 22, 24, 25, 38, 40],
       "link": "https://offnews.bg/politika/balgaria-shte-sezira-saveta-za-sigurnost-na-oon-za-atakite-v-cherno-mo-876398.html"
     },
     {
-      "category": "Технологии",
-      "headline": "OpenAI арестува служител за подкладяне на слушателен уред в конферентната зала",
-      "summary": "Служител на OpenAI е арестуван за подкладяне на слушателен уред в конферентната зала на компанията, което е открито по случайност чрез акустична система.",
-      "sources": ["Reuters", "DW", "Hacker News"],
-      "ids": [5, 8, 13],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5"
+      "category": "Свят",
+      "headline": "Папа Лъв XIV претърпя успешно операция за лекуване на рак на белия дроб",
+      "summary": "Папа Лъв XIV претърпя успешно белодробната операция във Ватикана, уведомиха лекари със подробности за състоянието му.",
+      "sources": ["Mediapool", "Actualno"],
+      "ids": [20, 11],
+      "link": "https://www.mediapool.bg/svyat/papa-lav-xiv-pretarpya-uspeshno-belodrobnata-operatsiya/"
     },
     {
       "category": "Политика",
-      "headline": "Йотова ще сезира прокуратурата за помилването на наркотрафикант Петричкия Ескобар",
-      "summary": "Вицепрезидентът Йотова ще сезира прокуратурата за казуса с помилването на удостоверения за експорта на наркотици Петричкия Ескобар. Преди това ПБ бойкотира изслушване в НС по въпроса.",
-      "sources": ["OffNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [16, 35, 38],
-      "link": "https://offnews.bg/temida/prokuraturata-shte-proveriava-sluchaia-s-pomilvania-ot-jotova-narkotra-876397.html"
+      "headline": "Посланикът на САЩ в Гърция Кимбърли Гилфойл подаде оставка след обвинения в неподходящо поведение",
+      "summary": "Посланикът на САЩ в Гърция Кимбърли Гилфойл подаде оставка след обвинения в неподходящо поведение, съобщи Actualno.",
+      "sources": ["Actualno"],
+      "ids": [9],
+      "link": "https://www.actualno.com/balkani/sled-obvinenija-v-nepodhodjashto-povedenie-poslanikyt-na-sasht-v-gyrcija-kimbyrli-gilfojl-podade-ostavka-news_2649994.html"
+    },
+    {
+      "category": "Технологии",
+      "headline": "OpenAI арестува служител за подкладяне на слушателен уред",
+      "summary": "OpenAI арестува служител за подкладяне на слушателен уред в конферентната зала на компанията, което е открито по случайност чрез акустична система.",
+      "sources": ["DW"],
+      "ids": [13],
+      "link": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
-      "headline": "Скопие привика българския посланик и издаде международна заповед за арест на Ива Михайлова",
-      "summary": "Македонското МВР издаде международна заповед за арест на Ива Михайлова. Скопие привика българския посланик, а прокуратурата в Северна Македония поиска задържането ѝ.",
-      "sources": ["OffNews", "FrogNews", "Свободна точка"],
-      "ids": [25, 26, 44],
-      "link": "https://offnews.bg/obshtestvo/makedonskoto-mvr-izdade-mezdunarodna-zapoved-za-arest-na-iva-mihajlov-876396.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "САЩ и Европа обсъждат мирен план за Украйна с връщане на руски петрол и газ в ЕС",
-      "summary": "САЩ и Европа готвят съвместно предложение за край на войната в Украйна, който включва връщане на доставките на руски петрол и газ в Европа.",
-      "sources": ["Boulevard Bulgaria", "Dnevnik"],
-      "ids": [32, 42],
-      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
+      "headline": "В Унгария започна учредена пролета срещу ограничаването на правото на обучението",
+      "summary": "Учащите в Унгария започват учредена пролета, протествайки срещу ограничаването на правото на обучението в училищните кабинети.",
+      "sources": ["OffNews"],
+      "ids": [3],
+      "link": "https://offnews.bg/obshtestvo/petkovden-e-hiliadi-posreshtat-gosti-za-imen-den-sas-sarmichki-na-mas-831909.html"
     }
   ]
 }
