@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T09:30:00.000Z",
-  "overview": "Денят е доминиран от международните промени около войната в Украйна и атаките в Черно море, които довеждат до ново международно напрежение. Ватиканът съобщава за здравословното състояние на папа Лъв XIV, докато в българската политика заслужават вниманието оставката на посланичката в Гърция и нередностите с молбите за помилвания.",
+  "updatedAt": "2026-10-14T12:46:00.000Z",
+  "overview": "Ключови събития в международната политика и българското общество, включващи САЩ, Русия и Ватикана.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Атаки срещу търговски кораби в Черно море и засилено международно напрежение около Украйна",
-      "summary": "Парламентът изonusva Радев и спецслужбите за атаките срещу кораби в Черно море, а България ще сезира Съвета за сигурност на ООН. САЩ и Европа готвят съвместно предложение за край на войната, докато подpalени са 11 антени на Starlink край София, а оператори ограничават работата на системата в Украйна.",
-      "sources": ["Reuters", "FrogNews", "OffNews", "Свободна точка", "Boulevard Bulgaria", "Dnevnik", "Actualno"],
-      "ids": [5, 9, 11, 27, 28, 31, 33, 39, 40, 41, 44, 45, 46, 47],
-      "link": "https://offnews.bg/politika/parlamentat-izslushva-radev-i-spetcsluzhbite-za-atakite-sreshtu-korabi-876401.html"
+      "category": "Политика",
+      "headline": "Другарко Митрофанова пред Конгреса",
+      "summary": "Премиерът Невен Митрофанова изяснише приците си пред депутатите преди важна реформа на политиката към Кремъл, потвърждавайки позицията на България в международната арена.",
+      "sources": ["Mediapool", "Свободна точка", "Actualno"],
+      "ids": [3, 19, 5],
+      "link": "https://www.mediapool.bg/bulgaria/premierat-razkaza-na-deputatite-za-mitrofanova-i-ne-dade-signali-za-promyana-na-politikata-si-kam-kremal-obnovena/"
     },
     {
-      "category": "Здравеопазване",
-      "headline": "Папа Лъв XIV е диагностициран с рак на белия дроб и е опериран",
-      "summary": "Папа Лъв XIV е диагностициран със злокачествена болест на белия дроб и е подложен на операция. Лекарите предоставят подробности за състоянието му, което предизвиква загриженост в световната католическа общност.",
-      "sources": ["Boulevard Bulgaria", "Mediapool", "OffNews", "Actualno"],
-      "ids": [24, 25, 29, 36],
+      "category": "Свят",
+      "headline": "Папа Лъв XIV диагностициран с рак на белия дроб",
+      "summary": "Римският Папа Лъв XIV е поставен под онкологично лечение след като му бе открита форма на рак на белия дроб, причинили сериозни последствия за църковните и светските среди.",
+      "sources": ["Boulevard Bulgaria", "OffNews"],
+      "ids": [30, 34],
       "link": "https://boulevardbulgaria.bg/articles/papa-lav-xiv-e-diagnostitsiran-s-rak-na-beliya-drob"
     },
     {
-      "category": "Политика",
-      "headline": "Стотици молби за помилвания при Йотова са решавани незаконно, а кандидатите за президент получават стотици по 500 евро дарения",
-      "summary": "Mediapool съобщава, че стотици молби за помилвания при Йотова са решавани незаконно. Свободна точка отчита най-големи суми за Гюров, а OffNews — акция срещу купуване на гласове във Варненско.",
-      "sources": ["Mediapool", "Свободна точка", "OffNews"],
-      "ids": [20, 23, 26, 30],
-      "link": "https://www.mediapool.bg/bulgaria/stotitsi-molbi-za-pomilvaniya-pri-yotova-sa-reshavani-nezakonno/"
-    },
-    {
-      "category": "Политика",
-      "headline": "Посланичката на САЩ в Гърция Кимбърли Гилфойл подаде оставка след обвинения за неподходящо поведение",
-      "summary": "Кимбърли Гилфойл подаде оставка като посланичка на САЩ в Гърция след обвинения за неподходящо поведение по време на службата ѝ.",
-      "sources": ["Boulevard Bulgaria", "Actualno"],
-      "ids": [22, 34],
-      "link": "https://boulevardbulgaria.bg/articles/poslanichkata-na-sasht-v-gartsiya-kimbarli-gilfoyl-podade-ostavka"
+      "category": "Общество",
+      "headline": "Атаката по корабите в Черно море придобива международни измерения",
+      "summary": "Великобритания и Европейският съюз разискват българското правителство за атаките по търговските кораби в Черно море, които се навършват все от налице, създавайки ескалация в Черноморието.",
+      "sources": ["Dnevnik", "Boulevard Bulgaria", "OffNews", "Свободна точка"],
+      "ids": [39, 36, 32, 33],
+      "link": "https://boulevardbulgaria.bg/articles/parlamentat-tarsi-otgovori-ot-radev-za-atakite-po-korabite-v-cherno-more-i-palezha-na-anteni-na-starlink"
     },
     {
       "category": "Технологии",
-      "headline": "Anthropic обявява, че изкуственият интелект в бъдеще ще може да се самовъзпроизвежда в интернет",
-      "summary": "Anthropic обявява, че изкуственият интелект в бъдеще ще може да се самовъзпроизвежда в интернет, което започва широк дискурс за възможностите и рисковете на саморазмножаващия се AI.",
-      "sources": ["Mediapool", "Hacker News"],
-      "ids": [12, 43],
-      "link": "https://www.mediapool.bg/tehnologii/anthropic-ai-skoro-shte-mozhe-da-se-samovazproizvezhda-v-internet/"
+      "headline": "Разследване на санитарни халфия в Кремъл",
+      "summary": "Разследване съобщава за незаконосъобразна финансова дейност в Кремъл, свързана със системни подправки и икономически измами в различни български институции.",
+      "sources": ["Mediapool", "Actualno", "Boulevard Bulgaria"],
+      "ids": [16, 5, 36],
+      "link": "https://www.mediapool.bg/bulgaria/ruski-korabi-bombardirat-varna-prez-1915-g/"
+    },
+    {
+      "category": "Политика",
+      "headline": "Украината и Запада обсъждат мирен план",
+      "summary": "Съюзните сили планират мирен договор, който трябва да отвори пътя за връщането на руския петрол и газ в Европейския съюз, създавайки нова стратегия в продължение на продължителната война.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik", "Actualno", "DW"],
+      "ids": [41, 45, 4, 9],
+      "link": "https://boulevardbulgaria.bg/articles/sasht-i-evropa-obsazhdat-miren-plan-za-ukrayna-koyto-shte-varne-dostavkite-na-ruski-petrol-i-gaz-v-es"
     }
   ]
 }
