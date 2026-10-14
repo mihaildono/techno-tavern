@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-14T20:56:04.000Z",
-  "overview": "Водещите събития за деня включват връщането на инфлуенсъра Стоян Колев в България, студентски протест с пожар в албийското министерство на образованието, повторно прилагане на санкции от САЩ срещу Венецуела и разследването на палежа на антени на Starlink край София.",
+  "updatedAt": "2026-10-14T21:15:00.000Z",
+  "overview": "Европа и Светът разглеждат правни процеси, дипломатически съюзи и регионални конфликти, като в това време Северният поток в Германия продължава съдебния процес, Турция консолидира властта си върху медиите, а украинският президент коментира позицията на Трамп, освен това Болгария видя напрежение в монахолските среди с заплахи за фермите за ценни кожи, и Кения отчете втори случай на ебола, които показват остри политически и здравни събития в световен мащаб.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Студентски протест в Албания: Подпалено министерство на образованието",
-      "summary": "В Тирана избухнаха студентски протести, по време на които Министерството на образованието е подпалено. Събитието е отчетено от Reuters и DW. Няма докладени жертви.",
-      "sources": ["Reuters", "DW"],
-      "ids": [4, 20],
-      "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193"
-    },
-    {
-      "category": "Общество",
-      "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
-      "summary": "Български и чуждестранни служби разследват палежа на 11 антени на Starlink до София. Президент Радев потвърди разследването, но призова ДАНС да не разкрива повече данни.",
+      "headline": "Обгорени антени на Starlink в София; Радев потвърждава разследване",
+      "summary": "Болгарските authorities и службите разследват огнения пушец в 11 антени на Starlink край София. Министерският председател Радев потвърди изключително интензивно разследване, но не посочи Москва като отговорна, докато повече подробности все още липсват.",
       "sources": ["FrogNews", "Свободна точка"],
-      "ids": [32, 45],
+      "ids": [35, 48, 50, 52],
       "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
     },
     {
       "category": "Общество",
-      "headline": "Стоян Колев е върнат в България след екстрадиция",
-      "summary": "Инфлуенсърът Стоян Колев е върнат в България, съобщават Mediapool и Dnevnik.bg. Случаят е свързан с неговото издирване и екстрадиране от Испания.",
+      "headline": "Стоян Колев е върнат в България след издирване в Испания",
+      "summary": "Издирваният инфлуенсър Стоян Колев беше екстрадиран от Испания обратно в България. Испанските власти предоставиха информация, че Колев води прищиви дейности в страната.",
       "sources": ["Mediapool", "Dnevnik"],
-      "ids": [19, 26],
+      "ids": [23, 29],
       "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
     },
     {
-      "category": "Свят",
-      "headline": "Зеленски: Украйна не е получила информация за руски балистични удари",
-      "summary": "Президентът Зеленски съобщи, че Украйна не е получила информация от западните си партньори за руски удари с балистични ракети. Това става във връзка със спекуления в Черно море.",
-      "sources": ["Свободна точка", "OffNews"],
-      "ids": [47, 39],
-      "link": "https://svobodnatochka.bg/novini/ukrayna-ne-e-poluchila-informatsiya-ot-zapadnite-si-partnyori-za-ruski-udari-s-balistichni-raketi-kaza-zelenski/"
+      "category": "Политика",
+      "headline": "Парламентът забранява фермите за ценни кожи за защита на дивите животни",
+      "summary": "Парламентът гласува единодушно закон, който забранява хижата за ценни кожи. Законът е предназначен да защити дивите животни, за защита на биологичното разнообразие в страната.",
+      "sources": ["Dnevnik"],
+      "ids": [32],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXJfd21vZEh3Wnktb3NRSF9CeEhVa2plVlFXNzctYnp5VVNNY2lkYTF4ME51RXZDem42Z3ItcXROdGxuNFB3OE45bXd5Qnh4dEJ1MF9JcW54REhUWmYzb1QtaEh3LVVtQ295LTg1bEZzaUNBMlN0OFY0dDlPNzd2QWs2T2htSV9kVTkxOFRjbTJIOFNxQWJ6cTNEc2o5Y0xNODFJNVl6Yk8?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Гюров: Нито едно правителство не допусна обедняване на народа за 5 години, това го направи за 6 месеца",
-      "summary": "Бившият министър Андрей Гюров направи остра критика на икономическата ситуация в България, твърдейки, че обедняването на народа се е случило за само 6 месеца, а не за 5 години.",
-      "sources": ["Boulevard Bulgaria"],
-      "ids": [25],
-      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
+      "headline": "Турските власти завземат контрол над главния телевизионен канал",
+      "summary": "Турските сили предприеха налягане върху Стамбул телевизия и свалиха общо управление на ключи от сградата на популярния медийен дом с над 10-годишен опит в Близкия изток.",
+      "sources": ["DW"],
+      "ids": [10],
+      "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Здравеопазване",
+      "headline": "Кения отчета втори случай на ебола при семейството на първия пациент",
+      "summary": "Кенияските здравни власти потвърдиха втори случай на ебола при семейството на първия идентифициран случай. Мерките по пресече източника на инфекция са засилени.",
+      "sources": ["Reuters"],
+      "ids": [13],
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnB0VUNhaE9mWmNPNmJLbl80d2g3WXdKcU5hLUxHYVFaLXllSWNZeUI5Q1FJRjNtdjN4clpNTWRJR3VNUHhDUXJtcGQyWTYybGhpSUU0eHdKWFg2alVPQ0hsQ01SYkJhS1pacGZ4VVBOVWZJQTRRMXVET2J0QldMOTRYWTR4UVJ5VXRtSDVUc0xnWEQzYVJNUGZpVGxDTWJxdlFfcXZ5VFQ4LWZ3cmN3X05sOWoyY0lyQ0lCQmUxSTBydDBNUHBBdkl4RQ?oc=5"
     }
   ]
 }
