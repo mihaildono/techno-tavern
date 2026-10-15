@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T14:36:32.062Z",
-  "overview": "През изминалите 24 часа ВСС избра Магдалена Лазарова за и.ф. главен прокурор, Парламентът одобри военни сделки за над милиард лева, а напрежението в Черно море расте след нови удари по руски рафинерии и пожари на танкери край Румъния.",
+  "updatedAt": "2026-10-15T18:11:00.000Z",
+  "overview": "В България се приемат важни политически решения относно ПВО, минималната заплата и назначаването на нов главен прокурор, докато в международен план Украйна подновява атаките по руски рафинерии и Калифорния е на прага на сериозно земетресение.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "Магдалена Лазарова е избрана за и.ф. главен прокурор за 6 месеца",
-      "summary": "ВСС избра Магдалена Лазарова за временно главен прокурор за следващите 6 месеца. Изборът беше одобрен при спорна процедура, заобиколена от ареста на Явор Златанов и критики.",
-      "sources": ["Свободна точка", "Actualno", "Mediapool", "OffNews", "Boulevard Bulgaria"],
-      "ids": [17, 19, 27, 32, 36],
-      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Украйна поднови ударите по руски рафинерии въпреки заплахите на Тръмп",
-      "summary": "Киев продължи атаките с дронове по руски петролни рафинерии. Радев поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква.",
-      "sources": ["Mediapool", "Boulevard Bulgaria", "Свободна точка", "Dnevnik"],
-      "ids": [18, 25, 38, 48],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/ot-nas-stiga-tolkova-vapreki-zaplahite-na-tramp-ukraina-podnovi-udarite-po-ruski-rafinerii/"
+      "category": "Политика",
+      "headline": "Парламентът одобри закупуване на пет зенитно-ракетни комплекса IRIS-T за над милиард",
+      "summary": "Народното събрание одобри важната военна сделка за закупуване на пет IRIS-T системи, стигайки до над милиард euro сметка за опазването на националната сигурност.",
+      "sources": ["Dnevnik"],
+      "ids": [12],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T0E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Парламентът одобри няколко военни сделки за над милиард лев",
-      "summary": "Народното събрание одобри покупката на пет зенитно-ракетни комплекса IRIS-T и още 5 германски ПВО системи. Общата стойност на сделките надхвърля милиард лева.",
-      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews"],
-      "ids": [11, 15, 30, 33],
-      "link": "https://www.mediapool.bg/bulgaria/parlamentat-odobri-poredna-voenna-sdelka-za-nad-miliard/"
+      "headline": "Кабинетът предлага минимална заплата от 660 евро за 2027 г., опозицията негодува",
+      "summary": "Правителството инициира значими изменения в трудовото законодателство, като предлага нова минимална заплата от 660 euro, предизвиквайки протести от опозицията.",
+      "sources": ["Dnevnik"],
+      "ids": [45],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkdXbmpET0RTWVNWNzNyWEMwdUpVLU1OZWNGU3lOalljU1ZydXZ0eXF0NVZzNkU2ZWVhVVRLbUt3UTFhVEdYYzc5dkpqWWs1VWZqSkFTb1R6VmxhZUUwZjdqNHNYcm1hR0ctZHRwN1U1MWNiVGJBZEhOTFM3bUNMTExQZ2hoOEVrUy0ybkhMdkM4b1hLbU5TMDFOSGlUNzd6?oc=5"
     },
     {
       "category": "Общество",
-      "headline": "Радев: рискът идва от войната на Русия в Черно море",
-      "summary": "Президентът Радев поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква. Той посочи, че атаките в Черно море са свързани с войната на Русия.",
-      "sources": ["Mediapool", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [22, 29, 41],
-      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
+      "headline": "Калифорния е на крачка от унищожително земетресение, неслучвало се от хиляда години",
+      "summary": "Научните изследвания показват, че Калифорния е на кърта дистанция от могъщ земетресение от такъв мащаб, което се е случвало напоследък само след хиляда години, сигнализирайки възможност за значителни природни опасности.",
+      "sources": ["Actualno"],
+      "ids": [15],
+      "link": "https://www.actualno.com/climate/tova-ne-se-e-sluchvalo-ot-hiljada-godini-kalifornija-e-na-krachka-ot-unishtojitelno-zemetresenie-news_2650628.html"
     },
     {
       "category": "Свят",
-      "headline": "Пожари на танкери в Черно море: България е солидарна с Румъния",
-      "summary": "Два танкера горят в румънски води на Черно море, 7 души са изчезнали. България изразява солидарност с Румъния след инцидента.",
-      "sources": ["DW", "FrogNews", "Dnevnik"],
-      "ids": [8, 28, 48],
-      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003"
+      "headline": "Украйна подновява атаките по руски рафинерии, според Зеленски “финишът ни е достъпен”",
+      "summary": "Украйна продължава военните си операции срещу Русия, атакувайки петролни съоръжения и заявявайки решителността си да довърши освободителната война срещу Путинската армия.",
+      "sources": ["OffNews", "Mediapool", "Свободна точка"],
+      "ids": [26, 19, 39],
+      "link": "https://offnews.bg/obshtestvo/koj-e-rejsko-i-zashto-mozhe-da-e-polezen-za-vsichki-876530.html"
+    },
+    {
+      "category": "Култура",
+      "headline": "Nightwish обявиха раздяла с вокалистката си Флор Янсен",
+      "summary": "Известният рок груп обяви незадоволителни новини за нейното бъдеще и наложи най-вероятното раздяла след десетки години ангажираност.",
+      "sources": ["Actualno"],
+      "ids": [17],
+      "link": "https://www.actualno.com/music/nightwish-objaviha-razdlia-s-vokalistkata-si-flor-jansen-news_2650627.html"
     }
   ]
 }
