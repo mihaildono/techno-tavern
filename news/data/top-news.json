@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T15:31:24.742Z",
-  "overview": "Денят е отбелязан с продължаващата война в Украйна и ескалацията в Черно море. В България ВСС избра нов и.ф. главен прокурор, а парламентът одобри военни сделки за над милиард. В САЩ отчетоха ръст на цените на производителите.",
+  "updatedAt": "2026-10-15T15:55:07.082Z",
+  "overview": "Денят е отбелязан със значителни военни, политическии и икономически развития — Украйна възобновява ударите по руски рафинерии, България одобрява няколко военни сделки и назначава и.ф. главен прокурор, а САЩ отменят директната трансмисия на изпълнението на убиеца от Форт Худ.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Украйна подновява ударите по руски петролни рафинерии, въпреки заплахите на Тръмп",
-      "summary": "Украйна подновява атаките по руски петролни рафинерии, след като Зеленски обяви, че страната е „готова“. САЩ са обвинени, че отслабват отбраната на Украйна.",
+      "headline": "Украйна възобновява ударите по руски петролни рафинерии",
+      "summary": "Украйна поднови атаките срещу руски рафинерии, като по този начин отговори на заплахите на Тръмп. САЩ обвиняват страната, че отслабват отбраната ѝ.",
       "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [3, 18, 25, 38],
+      "ids": [4, 18, 25, 38],
       "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Политика",
-      "headline": "ВСС избира Магдалена Лазарова за и.ф. главен прокурор за 6 месеца",
-      "summary": "След спорна процедура, ВСС избра Магдалена Лазарова за временно главна прокурорка през следващите 6 месеца. Номинацията на ДПС за ВСС също беше одобрена.",
-      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria"],
-      "ids": [17, 27, 32, 36],
+      "category": "Общество",
+      "headline": "ВСС избира Магдалена Лазарова за и.ф. главен прокурор",
+      "summary": "След спорна процедура ВСС избра Магдалена Лазарова за временно главна прокурор за следващите 6 месеца. Номинацията е на ДПС, арестът на Явор Златанов стои в центъра на вниманието.",
+      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria", "Actualno"],
+      "ids": [17, 19, 27, 32, 36],
       "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
     },
     {
       "category": "Политика",
-      "headline": "Парламентът одобри военна сделка за над милиард — IRIS-T и ПВО системи",
-      "summary": "Народното събрание одобри купуването на пет зенитно-ракетни комплекса IRIS-T, допълнителни германски ПВО системи и системи за ПВО. Сделката надхвърля милиард лева.",
-      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews"],
-      "ids": [11, 15, 30, 33],
+      "headline": "България одобри няколко военни сделки за над милиард, включително IRIS-T и германски ПВО системи",
+      "summary": "Народното събрание одобри купуването на пет зенитно-ракетни комплекса IRIS-T и още 5 германски системи за ПВО. Също така България и Румъния искат щаб на НАТО в Черно море.",
+      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews", "Свободна точка"],
+      "ids": [11, 15, 30, 33, 37],
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
     },
     {
-      "category": "Свят",
-      "headline": "Два танкера в пламна в Черно море — 7 души изчезнали край Румъния",
-      "summary": "Два кораба се пожаруваха в черноморските води близо до Румъния, като 7 членове на екипажа са изчезнали. България изрази солидарност с Румъния след пожарите на танкери в румънски води.",
-      "sources": ["DW", "FrogNews", "Dnevnik"],
-      "ids": [8, 28, 48],
-      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-top-1022-rdf"
+      "category": "Икономика",
+      "headline": "Минималната заплата ще бъде 660 евро от 2027 г.",
+      "summary": "Кабинетът предлага минимална заплата от 660 euro от 2027 г. за повишаване на покупателната способност, но опозицията негодува.",
+      "sources": ["Свободна точка", "Dnevnik"],
+      "ids": [26, 44],
+      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
     },
     {
-      "category": "Политика",
-      "headline": "Радев за пръв път назова войната на Русия срещу Украйна като източник на ескалацията в Черно море",
-      "summary": "Президентът Радев поиска намеса на ЕС за „Лукойл“ и за пръв път назова войната на Русия срещу Украйна като източник на ескалацията и риска в Черно море. Той отбеляза, че атаките идват от войната на Русия.",
-      "sources": ["Mediapool", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [22, 29, 41],
-      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
+      "category": "Свят",
+      "headline": "Тръмп отменя директната трансмисия на изпълнението на убиеца от Форт Худ",
+      "summary": "Тръмп отменя плановете за директно предаване на военното изпълнение на убиеца от Форт Худ, след като първоначално беше обявил, че ще бъде транслирано.",
+      "sources": ["Reuters", "DW"],
+      "ids": [1, 2],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXbiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5"
     }
   ]
 }
