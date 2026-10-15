@@ -1,46 +1,86 @@
 {
-  "updatedAt": "2026-10-15T18:35:00Z",
-  "overview": "Днес водещите събития са свързани с номинацията на Магдалена Лазарова за и.ф. главен прокурор, пожарите на два кораба в Черно море с 7 изчезнали души, продължаващите атаки на Украйна срещу руски петролни рафинерии, както и предложението за минимална заплата от 660 евро. България и Румъния поискат създаването на НАТО щаб в Черно море след инцидента с танкерите.",
+  "updatedAt": "2026-10-15T13:55:32.801Z",
+  "overview": "Водещите събития за деня включват украинските атаки по руски рафинерии, назначаването на Магдалена Лазарова за и.ф. главен прокурор, approving закупуване на ПВО системи и сериозни инциденти в Черно море.",
   "stories": [
     {
+      "category": "Свят",
+      "headline": "Украйна възобновява ударите по руски петролни рафинерии, а Зеленски казва 'готови сме'",
+      "summary": "Украйна продължава да търси военни таргети в Русия, атакувайки петролни рафинерии, докато президентът Зеленски обявява, че стигат до \"готови\".",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        5
+      ],
+      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Магдалена Лазарова ще бъде новият и.ф. главен прокурор",
+      "summary": "Магдалена Лазарова е назначена за и.ф. главен прокурор, замествайки Явор Златанов и въздавайки инцидентите около 'осемте джуджета'.",
+      "sources": [
+        "Свободна точка",
+        "Mediapool",
+        "OffNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        16,
+        27,
+        32,
+        36
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/magdalena-lazarova-shte-e-sledvashtiyat-if-glaven-prokuror/"
+    },
+    {
       "category": "Политика",
-      "headline": "Магдалена Лазарова е номинирана за и.ф. главен прокурор",
-      "summary": "Парламентът одобри номинацията на Магдалена Лазарова за временно изпълняваща длъжността главен прокурор за следващите 6 месеца, след спорната процедура за избор на нов ръководител на прокуратурата.",
-      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria"],
-      "ids": [16, 26, 31, 35],
-      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
+      "headline": "Парламентът одобри закупуване на пет зенитно-ракетни комплекса IRIS-T",
+      "summary": "Парламентът одобри сделки за поне пет зенитно-ракетни комплекса IRIS-T и други системи за ПВО, съгласувани с българските нужди.",
+      "sources": [
+        "Dnevnik",
+        "Mediapool",
+        "OffNews",
+        "FrogNews"
+      ],
+      "ids": [
+        10,
+        14,
+        30,
+        33
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Два кораба в пламъци в Черно море, 7 души изчезнали",
-      "summary": "Два танкери са обявени в пламъци в Черно море, като се търсят 7 членове на екипажа. България е солидарна с Румъния след инцидента и разглежда възможността за съвместна НАТО операция в региона.",
-      "sources": ["DW", "FrogNews", "Dnevnik"],
-      "ids": [4, 28, 47],
-      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003"
+      "headline": "Два кораба в огън в Черно море, седем моряци в безведение",
+      "summary": "Министърът Радев идентифицира 'войната на Русия срещу Украйна' като основен източник на ескалацията и заплахите за сигурността в Черно море.",
+      "sources": [
+        "DW",
+        "FrogNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        6,
+        28,
+        48
+      ],
+      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Свят",
-      "headline": "Украйна подновява ударите по руски петролни рафинерии",
-      "summary": "Украйна подновява военните си атаки срещу руски петролни рафинерии, въпреки заплахите на президент Тръмп. Президентът Зеленски обяви, че Украйна е „готова“ да спре, но продължава операциите.",
-      "sources": ["DW", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [3, 17, 25],
-      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Кабинетът предлага минимална заплата от 660 euro от 2027 г.",
-      "summary": "Правителството предлага минимална месечна заплата от 660 euro, влизайки в сила през 2027 г., за да повишава покупателната способност на работещите. Опозицията изразява несъласие с предложението.",
-      "sources": ["Свободна точка", "Dnevnik"],
-      "ids": [26, 43],
-      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
-    },
-    {
-      "category": "Свят",
-      "headline": "България и Румъния искат щаб на НАТО в Черно море",
-      "summary": "Двете страни提议ат създаването на НАТО щаб в Черно море и мораториум за атаките срещу цивилни кораби, за да повишат сигурността в региона след инцидента с танкерите.",
-      "sources": ["Свободна точка", "FrogNews"],
-      "ids": [36, 27],
-      "link": "https://svobodnatochka.bg/novini/balgariia-i-rumaniya-iskat-shtab-na-nato-v-cherno-more-predlagat-moratorium-za-atakite-sreshtu-tsivilni-korabi/"
+      "category": "Политика",
+      "headline": "Радев посочва като източник на ескалацията и риска в Черно море 'войната на Русия срещу Украйна'",
+      "summary": "Парламентът одобри сделки за поне пет зенитно-ракетни комплекса IRIS-T и други системи за ПВО, съгласувани с българските нужди.",
+      "sources": [
+        "Mediapool",
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        22,
+        29,
+        41
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/radev-za-prav-pat-nazova-voynata-na-rusiya-sreshtu-ukrayna-kato-iztochnik-na-eskalatsiyata-i-riska-v-cherno-more"
     }
   ]
 }
