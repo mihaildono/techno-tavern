@@ -1,46 +1,176 @@
 {
-  "updatedAt": "2026-10-15T18:11:00.000Z",
-  "overview": "В България се приемат важни политически решения относно ПВО, минималната заплата и назначаването на нов главен прокурор, докато в международен план Украйна подновява атаките по руски рафинерии и Калифорния е на прага на сериозно земетресение.",
+  "updatedAt": "2026-10-15T15:32:38.393949Z",
+  "overview": "Денят бе полон със важни политически събития, включително украински атаки върху руски рафинерии, важни назначения в българското правосъдие и икономически Developments във всички покътки на света.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Парламентът одобри закупуване на пет зенитно-ракетни комплекса IRIS-T за над милиард",
-      "summary": "Народното събрание одобри важната военна сделка за закупуване на пет IRIS-T системи, стигайки до над милиард euro сметка за опазването на националната сигурност.",
-      "sources": ["Dnevnik"],
-      "ids": [12],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T0E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
+      "category": "Свят",
+      "headline": "Russia arrests Swedish national, claims he&apos;s Ukraine fighter",
+      "summary": "Russia arrests Swedish national, claims he&apos;s Ukraine fighter (ID 1, from DW).",
+      "sources": [
+        "Свободна точка",
+        "Reuters",
+        "Mediapool",
+        "Hacker News",
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "DW",
+        "FrogNews",
+        "Actualno",
+        "OffNews"
+      ],
+      "ids": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "link": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Политика",
-      "headline": "Кабинетът предлага минимална заплата от 660 евро за 2027 г., опозицията негодува",
-      "summary": "Правителството инициира значими изменения в трудовото законодателство, като предлага нова минимална заплата от 660 euro, предизвиквайки протести от опозицията.",
-      "sources": ["Dnevnik"],
-      "ids": [45],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkdXbmpET0RTWVNWNzNyWEMwdUpVLU1OZWNGU3lOalljU1ZydXZ0eXF0NVZzNkU2ZWVhVVRLbUt3UTFhVEdYYzc5dkpqWWs1VWZqSkFTb1R6VmxhZUUwZjdqNHNYcm1hR0ctZHRwN1U1MWNiVGJBZEhOTFM3bUNMTExQZ2hoOEVrUy0ybkhMdkM4b1hLbU5TMDFOSGlUNzd6?oc=5"
+      "category": "Други",
+      "headline": "Raila Odinga&apos;s legacy: Can Kenya preserve the democratic space he helped create?",
+      "summary": "Raila Odinga&apos;s legacy: Can Kenya preserve the democratic space he helped create? (ID 4, from DW).",
+      "sources": [
+        "Свободна точка",
+        "Reuters",
+        "Mediapool",
+        "Hacker News",
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "DW",
+        "FrogNews",
+        "Actualno",
+        "OffNews"
+      ],
+      "ids": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "link": "https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Общество",
-      "headline": "Калифорния е на крачка от унищожително земетресение, неслучвало се от хиляда години",
-      "summary": "Научните изследвания показват, че Калифорния е на кърта дистанция от могъщ земетресение от такъв мащаб, което се е случвало напоследък само след хиляда години, сигнализирайки възможност за значителни природни опасности.",
-      "sources": ["Actualno"],
-      "ids": [15],
-      "link": "https://www.actualno.com/climate/tova-ne-se-e-sluchvalo-ot-hiljada-godini-kalifornija-e-na-krachka-ot-unishtojitelno-zemetresenie-news_2650628.html"
+      "category": "Икономика",
+      "headline": "US producer prices post largest gain in 4-1/2 years; retail sales beat expectations - Reuters",
+      "summary": "US producer prices post largest gain in 4-1/2 years; retail sales beat expectations - Reuters (ID 2, from Reuters).",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        2,
+        9
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmQ2aEh5YkdMWGR6cGNVdU5TZ1k0NmpFX3BNcDRCM3B2cEJmX1BhYktBbkprQk12WDVGSXpKalhFTkVyS1hmWHNnVVJLYU80Q3dLcWVLVTN3YWVTS3BjVjZpTFM0SkloWUF0clFLbE5aR3dFR1ZVSWpxNjUwWUFyVjMta2E5X2YxRVhQTmpHSk5KRXRqT2UyTTlqdG1lOXFXUkVJTmxMLU1Kdw?oc=5"
+    },
+    {
+      "category": "Икономика",
+      "headline": "US retail sales beat expectations in September on higher gasoline prices - Reuters",
+      "summary": "US retail sales beat expectations in September on higher gasoline prices - Reuters (ID 9, from Reuters).",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        2,
+        9
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Украйна подновява атаките по руски рафинерии, според Зеленски “финишът ни е достъпен”",
-      "summary": "Украйна продължава военните си операции срещу Русия, атакувайки петролни съоръжения и заявявайки решителността си да довърши освободителната война срещу Путинската армия.",
-      "sources": ["OffNews", "Mediapool", "Свободна точка"],
-      "ids": [26, 19, 39],
-      "link": "https://offnews.bg/obshtestvo/koj-e-rejsko-i-zashto-mozhe-da-e-polezen-za-vsichki-876530.html"
-    },
-    {
-      "category": "Култура",
-      "headline": "Nightwish обявиха раздяла с вокалистката си Флор Янсен",
-      "summary": "Известният рок груп обяви незадоволителни новини за нейното бъдеще и наложи най-вероятното раздяла след десетки години ангажираност.",
-      "sources": ["Actualno"],
-      "ids": [17],
-      "link": "https://www.actualno.com/music/nightwish-objaviha-razdlia-s-vokalistkata-si-flor-jansen-news_2650627.html"
+      "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos;",
+      "summary": "Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos; (ID 3, from DW).",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        3
+      ],
+      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
