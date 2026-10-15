@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T16:15:52.981Z",
-  "overview": "Денят е отбелязан със значителни военни, политически и икономически развития — Украйна възобновява ударите по руски рафинерии, България одобрява няколко военни сделки и назначава и.ф. главен прокурор, а САЩ отменят директната трансмисия на изпълнението на убиеца от Форт Худ.",
+  "updatedAt": "2026-10-15T19:33:30.000Z",
+  "overview": "Денят е доминиран от международните събития около Черно море и сделката Тръмп-Путин, докато в България започват протести срещу Радев и Йотова. В фокус са и бюджетът за 2027 г. и корупционната схема при ВиK ремонти.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Украйна възобновява ударите по руски петролни рафинерии",
-      "summary": "Украйна поднови атаките срещу руски рафинерии, като по този начин отговори на заплахите на Тръмп. САЩ обвиняват страната, че отслабват отбраната ѝ.",
-      "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [4, 18, 25, 38],
-      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Общество",
-      "headline": "ВСС избира Магдалена Лазарова за и.ф. главен прокурор",
-      "summary": "След спорна процедура ВСС избра Магдалена Лазарова за временно главна прокурор за следващите 6 месеца. Номинацията е на ДПС, арестът на Явор Златанов стои в центъра на вниманието.",
-      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria", "Actualno"],
-      "ids": [17, 19, 27, 32, 36],
-      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
-    },
-    {
-      "category": "Политика",
-      "headline": "България одобри няколко военни сделки за над милиард, включително IRIS-T и германски ПВО системи",
-      "summary": "Народното събрание одобри купуването на пет зенитно-ракетни комплекса IRIS-T и още 5 германски системи за ПВО. Също така България и Румъния искат щаб на НАТО в Черно море.",
-      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews", "Свободна точка"],
-      "ids": [11, 15, 30, 33, 37],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Минималната заплата ще бъде 660 евро от 2027 г.",
-      "summary": "Кабинетът предлага минимална заплата от 660 euro от 2027 г. за повишаване на покупателната способност, но опозицията негодува.",
-      "sources": ["Свободна точка", "Dnevnik"],
-      "ids": [26, 44],
-      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
+      "headline": "НАТО засилва отбраната на източния фланг amid растяща напрегнатост в Черно море",
+      "summary": "Страните от НАТО се срещат за атаките с дронове срещу кораби в Черно море, докато Украйна възобновява ударите по руски нефтопреработватели. Танкер е ударен от дронове край Румъния, а бурното море спира операцията за изтегляне на „Челси-3“ към Бургас.",
+      "sources": ["Actualno", "Mediapool", "Boulevard Bulgaria", "DW", "Свободна точка", "Dnevnik", "OffNews"],
+      "ids": [2, 6, 11, 18, 23, 29, 33, 38, 44, 50],
+      "link": "https://www.mediapool.bg/bulgaria/stranite-ot-nato-s-izvanredna-sreshta-za-cherno-more-aliansat-zasilva-iztochniya-flang/"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп отменя директната трансмисия на изпълнението на убиеца от Форт Худ",
-      "summary": "Тръмп отменя плановете за директно предаване на военното изпълнение на убиеца от Форт Худ, след като първоначално беше обявил, че ще бъде транслирано.",
-      "sources": ["Reuters", "DW"],
-      "ids": [1, 2],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWJvRXFadVFabmdRcndYM3plc19aTHdvbDZOdmRKTzU2UVA2am1LT3VEemFFbmMwRHZVY2ljcENuX2JUOEIxNHA4U0F1WW1FQzNuN0VjTFpyVEFZNXbiTWdOUlVlWEdtRWlENmsydDNTSlcyN1RkRDZDd0haNmpRdEN6UEh6X3N4cGZIalRDSE00Q1dRaWRpVC1KQm1FcHVOUXc?oc=5"
+      "headline": "Тръмп отменя излъчването на живо на екзекуцията на убийцата от Форт Худ",
+      "summary": "След вълна от критики, президентът на САД Доналд Тръмп отменя прякото излъчване на изпълнението на бившия военен, убил 13 души в базата Форт Худ. Екзекуцията на Нидал Хасан няма да бъде излъчвана на живо.",
+      "sources": ["OffNews", "Reuters", "DW", "Mediapool", "FrogNews"],
+      "ids": [12, 14, 17, 19, 20],
+      "link": "https://offnews.bg/sviat/ekzekutciata-na-nidal-hasan-niama-da-bade-izlachvana-na-zhivo-876566.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "България представя бюджетния си план за 2027 в Брюксел с повишени осигуровки и минимална заплата от 660 евро",
+      "summary": "Кабинетът вдига осигурителната тежест и облага свръхпечалбите, за да свие дефицита, докато минималната заплата се планира за 660 през 2027 г. България е изпратила първия си бюджетен план до Брюксел като член на еврозоната.",
+      "sources": ["FrogNews", "OffNews", "Boulevard Bulgaria", "Mediapool", "Dnevnik"],
+      "ids": [5, 25, 24, 28, 49],
+      "link": "https://frognews.bg/novini/biudjet-2027-briuksel-mejdu-defitsita-sotsialnite-obeshtaniia.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Протести срещу Радев и Йотова започват в България",
+      "summary": "Започват протести с лозунги „Долу Радев! Долу Йотова!“ в България, докато се обсъжда дали военните действия и дроновете влияят на предстоящите избори.",
+      "sources": ["OffNews", "Свободна точка"],
+      "ids": [4, 38],
+      "link": "https://offnews.bg/protesti/zapochna-protestat-dolu-radev-dolu-jotova-876568.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "ГДБОП разби корупционна схема при ВиK ремонти с участието на МРРБ и МОСВ",
+      "summary": "ГДБОП разкрива корупционна схема при ВиK ремонти, при която МРРБ са разкрити с 18%, а МОСВ – с 19%. Шеф на болница и главна сестра са обвинени за източване на здравната каса в Благоевград.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [3, 48],
+      "link": "https://www.mediapool.bg/bulgaria/mrrb-18-mosv-19-gdbop-razbi-koruptsionna-shema-pri-vik-remonti/"
     }
   ]
 }
