@@ -1,46 +1,66 @@
 {
-  "updatedAt": "2026-10-15T19:25:30.000Z",
-  "overview": "Денят е отбелязан със значителни международни и български събития, включително одобрението на Тръмп-Путин сделката, атаката на хусити в Йемен и одобрението на българския бюджетен план за Брюксел.",
+  "updatedAt": "2026-10-15T19:44:59.661Z",
+  "overview": "Кратък общ преглед на водещите събития за деня. Основните теми включват политически developments, военни конфликти и икономически обновления от разнообразни източници.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп и Путин одобряват сделката за руския дизел — България подкрепя",
-      "summary": "Евронюз съобщава, че Радев е слиса Брюксел с подкрепата си за сделката Тръмп-Путин. Свободна точка допълва, че сделката е стъпка, която гарантира намаляване на цените на горивата.",
-      "sources": ["OffNews", "Свободна точка"],
-      "ids": [19, 29],
-      "link": "https://offnews.bg/politika/euronews-radev-slisa-briuksel-s-podkrepata-si-za-sdelkata-tramp-putin-876569.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Хусити нападнаха президентския дворец в Аден — конфликтът в Йемен се засилва",
-      "summary": "DW и Reuters съобщават, че хусити са насочили удар към двореца в Аден, а Actualno анализира дали ескалацията в Черно море ще повлияе на президентските избори.",
-      "sources": ["DW", "Reuters", "Actualno"],
-      "ids": [4, 23, 21],
-      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Свят",
-      "headline": "Екзекуцията на Форт Худ няма да бъде излъчвана на живо — Тръмп отмени прякото излъчване",
-      "summary": "DW, Mediapool и FrogNews съобщават, че Тръмп е отменил прякото излъчване на екзекуцията чрез разстрел след вълна от критики. Екзекуцията на бившия военен, убил 13 души в базата Форт Худ, ще продължи по друг начин.",
-      "sources": ["DW", "Mediapool", "FrogNews"],
-      "ids": [24, 26, 27],
-      "link": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-top-1022-rdf"
+      "category": "Други",
+      "headline": "ЦСКА падна от \"Монако\" в Лигата на конференциите - Dnevnik.bg",
+      "summary": "Съобщение от Dnevnik: ЦСКА падна от \"Монако\" в Лигата на конференциите - Dnevnik.bg",
+      "sources": [
+        "Dnevnik"
+      ],
+      "ids": [
+        1
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzdQNS11MFg5R0JJczVSZXN3aEJhWHRBWF9yZjktSW95RC03V0hFN3gxV2dMMWdmZi0tb05haUE4NkJLOG1TRTNFS0RpNWVKenEtbW1yWllyU3o0UV9jVlAtbzdWR0tVVFM1aDhtSFd5OHBITTRybTVmMEVadW8tTzJBaTN5YmVTbFY5dmFBQncyb21UTzRTNEdmaldxZ3lZREhFNQ?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "НАТО свиква извънредна среща за Черно море — засилване на източния фланг",
-      "summary": "Mediapool, Boulevard Bulgaria и Свободна точка отчитат извънредната среща на НАТО, свикана след атаките с дронове срещу кораби в Черно море. Алиансът засилва мерките за сигурност в региона.",
-      "sources": ["Mediapool", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [9, 25, 39],
-      "link": "https://www.mediapool.bg/bulgaria/stranite-ot-nato-s-izvanredna-sreshta-za-cherno-more-aliansat-zasilva-iztochniya-flang/"
+      "headline": "Политически developments: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
+      "summary": "Съобщение от DW: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        2
+      ],
+      "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Икономика",
-      "headline": "България изпрати първия си бюджетен план до Брюксел — дефицита и социалните обещания в центъра",
-      "summary": "OffNews съобщава, че България е изпратила първия си бюджетен план до Брюксел като член на еврозоната. FrogNews анализира бюджета 2027 между дефицита и социалните обещания, а Mediapool отчита повишаването на осигурителната тежест.",
-      "sources": ["OffNews", "FrogNews", "Mediapool"],
-      "ids": [31, 13, 30],
-      "link": "https://offnews.bg/ikonomika/balgaria-izprati-parvia-si-biudzhet-plan-do-briuksel-kato-chlen-na-e-876565.html"
+      "category": "Свят",
+      "headline": "Технологични новости: Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "summary": "Съобщение от DW: Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        3
+      ],
+      "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "Воен конфликт в Йемен: Middle East updates: Houthis target Yemen government palace in Aden",
+      "summary": "Съобщение от DW: Middle East updates: Houthis target Yemen government palace in Aden",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        5
+      ],
+      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Други",
+      "headline": "Започна протестът: Долу Радев! Долу Йотова!",
+      "summary": "Съобщение от OffNews: Започна протестът: Долу Радев! Долу Йотова!",
+      "sources": [
+        "OffNews"
+      ],
+      "ids": [
+        10
+      ],
+      "link": "https://offnews.bg/protesti/zapochna-protestat-dolu-radev-dolu-jotova-876568.html"
     }
   ]
 }
