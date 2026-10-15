@@ -1,86 +1,46 @@
 {
-  "updatedAt": "2026-10-15T13:55:32.801Z",
-  "overview": "Водещите събития за деня включват украинските атаки по руски рафинерии, назначаването на Магдалена Лазарова за и.ф. главен прокурор, approving закупуване на ПВО системи и сериозни инциденти в Черно море.",
+  "updatedAt": "2026-10-15T14:12:20.151Z",
+  "overview": "През изминалите 24 часа Парламентът одобри няколко важни военни сделки, беше избрана нова временна главна прокурорка, а Украйна възобнови ударите по руски рафинерии в отговор на заплахите на Тръмп.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Украйна възобновява ударите по руски петролни рафинерии, а Зеленски казва 'готови сме'",
-      "summary": "Украйна продължава да търси военни таргети в Русия, атакувайки петролни рафинерии, докато президентът Зеленски обявява, че стигат до \"готови\".",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        5
-      ],
-      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
-    },
-    {
       "category": "Общество",
-      "headline": "Магдалена Лазарова ще бъде новият и.ф. главен прокурор",
-      "summary": "Магдалена Лазарова е назначена за и.ф. главен прокурор, замествайки Явор Златанов и въздавайки инцидентите около 'осемте джуджета'.",
-      "sources": [
-        "Свободна точка",
-        "Mediapool",
-        "OffNews",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        16,
-        27,
-        32,
-        36
-      ],
-      "link": "https://www.mediapool.bg/bulgaria/magdalena-lazarova-shte-e-sledvashtiyat-if-glaven-prokuror/"
-    },
-    {
-      "category": "Политика",
-      "headline": "Парламентът одобри закупуване на пет зенитно-ракетни комплекса IRIS-T",
-      "summary": "Парламентът одобри сделки за поне пет зенитно-ракетни комплекса IRIS-T и други системи за ПВО, съгласувани с българските нужди.",
-      "sources": [
-        "Dnevnik",
-        "Mediapool",
-        "OffNews",
-        "FrogNews"
-      ],
-      "ids": [
-        10,
-        14,
-        30,
-        33
-      ],
+      "headline": "Магдалена Лазарова е избрана за и.ф. главен прокурор за 6 месеца",
+      "summary": "ВСС избра Магдалена Лазарова за временно главен прокурор за следващите 6 месеца. Изборът беше одобрен при спорна процедура.",
+      "sources": ["Dnevnik", "Mediapool", "Свободна точка", "OffNews", "Boulevard Bulgaria"],
+      "ids": [11, 15, 17, 32, 36],
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Два кораба в огън в Черно море, седем моряци в безведение",
-      "summary": "Министърът Радев идентифицира 'войната на Русия срещу Украйна' като основен източник на ескалацията и заплахите за сигурността в Черно море.",
-      "sources": [
-        "DW",
-        "FrogNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        6,
-        28,
-        48
-      ],
-      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-top-1022-rdf"
+      "headline": "Украйна поднови ударите по руски рафинерии въпреки заплахите на Тръмп",
+      "summary": "Киев продължи атаките с дронове по руски петролни рафинерии. Радев поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква.",
+      "sources": ["Mediapool", "Boulevard Bulgaria", "Свободна точка", "Dnevnik"],
+      "ids": [18, 25, 38, 48],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/ot-nas-stiga-tolkova-vapreki-zaplahite-na-tramp-ukraina-podnovi-udarite-po-ruski-rafinerii/"
     },
     {
       "category": "Политика",
-      "headline": "Радев посочва като източник на ескалацията и риска в Черно море 'войната на Русия срещу Украйна'",
-      "summary": "Парламентът одобри сделки за поне пет зенитно-ракетни комплекса IRIS-T и други системи за ПВО, съгласувани с българските нужди.",
-      "sources": [
-        "Mediapool",
-        "FrogNews",
-        "Boulevard Bulgaria"
-      ],
-      "ids": [
-        22,
-        29,
-        41
-      ],
-      "link": "https://boulevardbulgaria.bg/articles/radev-za-prav-pat-nazova-voynata-na-rusiya-sreshtu-ukrayna-kato-iztochnik-na-eskalatsiyata-i-riska-v-cherno-more"
+      "headline": "Парламентът одобри няколко военни сделки за над милиард лев",
+      "summary": "Народното събрание одобри покупката на пет зенитно-ракетни комплекса IRIS-T и още 5 германски ПВО системи. Общата стойност на сделките надхвърля милиард лева.",
+      "sources": ["Dnevnik", "OffNews", "FrogNews"],
+      "ids": [11, 30, 33],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
+    },
+    {
+      "category": "Общество",
+      "headline": "Радев: рискът идва от войната на Русия в Черно море",
+      "summary": "Президентът Радев поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква. Той посочи, че атаките в Черно море са свързани с войната на Русия.",
+      "sources": ["Mediapool", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [22, 29, 41],
+      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Кабинетът предлага минимална заплата от 660 евро от 2027 г.",
+      "summary": "Правителството предлага повишаване на минималната заплата до 660 euro от 2027 г. Опозицията негодува заради липсата на консултации.",
+      "sources": ["Свободна точка", "Dnevnik"],
+      "ids": [26, 44],
+      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
     }
   ]
 }
