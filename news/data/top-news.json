@@ -1,46 +1,103 @@
 {
-  "updatedAt": "2026-10-15T07:06:09.000Z",
-  "overview": "Денят е отбелязан с глобални икономически тревожности в Азия, мащабна кибератака на Украйна срещу руска инфраструктура, както и серия от национални и дипломатически събития в България и Черноморския регион.",
+  "updatedAt": "2026-10-15T04:26:42.247796Z",
+  "overview": "Кратък преглед на най-важните новини: Танкер е ударен от дронове край бреговете на Румъния - Dnevnik.bg; Стратези вместо инспектори и нова дирекция за киното при преструктурирането на Министерството на културата; CASAVINO Taste България 2026 - Истории в бъдеще време.",
   "stories": [
     {
-      "category": "Икономика",
-      "headline": "Азияските пазари се срутват след горящите СПИ данни в САЩ",
-      "summary": "IMF предупреждава за забавяне на азийския растеж, докато азийските пазари се срутват след неочаквано високи инфляционни данни в САЩ. Търговията с AI акции засилва корекцията.",
-      "sources": ["Reuters", "Reuters"],
-      "ids": [2, 4],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5"
+      "category": "Други",
+      "headline": "Танкер е ударен от дронове край бреговете на Румъния - Dnevnik.bg",
+      "summary": "Танкер е ударен от дронове край бреговете на Румъния - Dnevnik.bg Шарл Льоклер бил на крачка от преминаване в конкурент на Ферари преди 3 години",
+      "sources": [
+        "Actualno",
+        "Boulevard Bulgaria",
+        "Dnevnik",
+        "Свободна точка",
+        "Mediapool",
+        "OffNews",
+        "FrogNews"
+      ],
+      "ids": [
+        8,
+        12,
+        13,
+        14,
+        16,
+        19,
+        25,
+        29,
+        31,
+        32,
+        35,
+        36,
+        39,
+        46
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5"
     },
     {
-      "category": "Свят",
-      "headline": "Украйна атакува центрове за данни на „Яндекс“ в Русия",
-      "summary": "След ударите на Украйна по центрове за данни на „Яндекс“, в Русия спират плащанията, такситата и имейлите. Атаката засяга милиони руснаци.",
-      "sources": ["Свободна точка"],
-      "ids": [27],
-      "link": "https://svobodnatochka.bg/istorii/kak-ukraina-udari-po-yandeks-i-zasegna-milioni-rusnatsi/"
+      "category": "Други",
+      "headline": "Стратези вместо инспектори и нова дирекция за киното при преструктурирането на Министерството на културата",
+      "summary": "Стратези вместо инспектори и нова дирекция за киното при преструктурирането на Министерството на културата Андрей Гюров: Нито едно правителство не допусна обедняване на народа за 5 години. Това го направи за 6 месеца",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Свободна точка",
+        "Mediapool",
+        "OffNews",
+        "FrogNews"
+      ],
+      "ids": [
+        26,
+        28,
+        33,
+        40,
+        41,
+        42,
+        49
+      ],
+      "link": "https://www.mediapool.bg/kultura/stratezi-vmesto-inspektori-i-nova-direktsiya-za-kinoto-pri-prestrukturiraneto-na-ministerstvoto-na-kulturata/"
     },
     {
-      "category": "Общество",
-      "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
-      "summary": "През нощта са палени 11 антени на Starlink до София. Президентът Радев потвърди разследването и призова ДАНС да не разкрива повече детайли.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [35, 49],
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+      "category": "Други",
+      "headline": "CASAVINO Taste България 2026 - Истории в бъдеще време",
+      "summary": "CASAVINO Taste България 2026 - Истории в бъдеще време Инфлуенсърът Стоян Колев бе върнат в България. ",
+      "sources": [
+        "OffNews",
+        "Mediapool",
+        "Actualno"
+      ],
+      "ids": [
+        15,
+        22,
+        44
+      ],
+      "link": "https://www.actualno.com/citytrend/casavino-taste-bylgarija-2026-istorii-v-bydeshte-vreme-news_2650368.html"
     },
     {
-      "category": "Общество",
-      "headline": "Испания предава издирвания Стоян Колев на България",
-      "summary": "Инфлуенсърът и издирваният Стоян Колев е върнат в България след предадане от Испания. Случката е следвана от медиите като важно събитие за правосъдието.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [22, 29],
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+      "category": "Политика",
+      "headline": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters",
+      "summary": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters North Korea says it tested cruise missiles to be launched from sub. ",
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "ids": [
+        6,
+        7
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5"
     },
     {
-      "category": "Свят",
-      "headline": "Франция поиска мораториум на атаките в Черно море, Гърция изрази пълна солидарност с България",
-      "summary": "Франция поиска мораториум върху атаките в Черно море, а Гърция изрази пълна солидарност с България. Това е сред важните дипломатически развития в региона.",
-      "sources": ["OffNews"],
-      "ids": [44],
-      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html"
+      "category": "Други",
+      "headline": "Наказание грози звездата на Манчестър Юнайтед след публичната му критика към ръководството",
+      "summary": "Наказание грози звездата на Манчестър Юнайтед след публичната му критика към ръководството Плащания, таксита, имейли. Какво не работи в Русия след ударите на Украйна по центрове за данни на „Яндекс“",
+      "sources": [
+        "Свободна точка",
+        "Actualno"
+      ],
+      "ids": [
+        18,
+        27
+      ],
+      "link": "https://www.actualno.com/football/nakazanie-grozi-zvezdata-na-manchestyr-unajted-sled-publichnata-mu-kritika-kym-rykovodstvoto-news_2650366.html"
     }
   ]
 }
