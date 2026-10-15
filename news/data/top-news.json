@@ -1,176 +1,46 @@
 {
-  "updatedAt": "2026-10-15T15:32:38.393949Z",
-  "overview": "Денят бе полон със важни политически събития, включително украински атаки върху руски рафинерии, важни назначения в българското правосъдие и икономически Developments във всички покътки на света.",
+  "updatedAt": "2026-10-15T15:31:24.742Z",
+  "overview": "Денят е отбелязан с продължаващата война в Украйна и ескалацията в Черно море. В България ВСС избра нов и.ф. главен прокурор, а парламентът одобри военни сделки за над милиард. В САЩ отчетоха ръст на цените на производителите.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Russia arrests Swedish national, claims he&apos;s Ukraine fighter",
-      "summary": "Russia arrests Swedish national, claims he&apos;s Ukraine fighter (ID 1, from DW).",
-      "sources": [
-        "Свободна точка",
-        "Reuters",
-        "Mediapool",
-        "Hacker News",
-        "Dnevnik",
-        "Boulevard Bulgaria",
-        "DW",
-        "FrogNews",
-        "Actualno",
-        "OffNews"
-      ],
-      "ids": [
-        1,
-        4,
-        5,
-        6,
-        7,
-        8,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49
-      ],
-      "link": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-top-1022-rdf"
+      "headline": "Украйна подновява ударите по руски петролни рафинерии, въпреки заплахите на Тръмп",
+      "summary": "Украйна подновява атаките по руски петролни рафинерии, след като Зеленски обяви, че страната е „готова“. САЩ са обвинени, че отслабват отбраната на Украйна.",
+      "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [3, 18, 25, 38],
+      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Други",
-      "headline": "Raila Odinga&apos;s legacy: Can Kenya preserve the democratic space he helped create?",
-      "summary": "Raila Odinga&apos;s legacy: Can Kenya preserve the democratic space he helped create? (ID 4, from DW).",
-      "sources": [
-        "Свободна точка",
-        "Reuters",
-        "Mediapool",
-        "Hacker News",
-        "Dnevnik",
-        "Boulevard Bulgaria",
-        "DW",
-        "FrogNews",
-        "Actualno",
-        "OffNews"
-      ],
-      "ids": [
-        1,
-        4,
-        5,
-        6,
-        7,
-        8,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49
-      ],
-      "link": "https://www.dw.com/en/raila-odinga-s-legacy-can-kenya-preserve-the-democratic-space-he-helped-create/a-79668443?maca=en-rss-en-top-1022-rdf"
+      "category": "Политика",
+      "headline": "ВСС избира Магдалена Лазарова за и.ф. главен прокурор за 6 месеца",
+      "summary": "След спорна процедура, ВСС избра Магдалена Лазарова за временно главна прокурорка през следващите 6 месеца. Номинацията на ДПС за ВСС също беше одобрена.",
+      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria"],
+      "ids": [17, 27, 32, 36],
+      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
     },
     {
-      "category": "Икономика",
-      "headline": "US producer prices post largest gain in 4-1/2 years; retail sales beat expectations - Reuters",
-      "summary": "US producer prices post largest gain in 4-1/2 years; retail sales beat expectations - Reuters (ID 2, from Reuters).",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        2,
-        9
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmQ2aEh5YkdMWGR6cGNVdU5TZ1k0NmpFX3BNcDRCM3B2cEJmX1BhYktBbkprQk12WDVGSXpKalhFTkVyS1hmWHNnVVJLYU80Q3dLcWVLVTN3YWVTS3BjVjZpTFM0SkloWUF0clFLbE5aR3dFR1ZVSWpxNjUwWUFyVjMta2E5X2YxRVhQTmpHSk5KRXRqT2UyTTlqdG1lOXFXUkVJTmxMLU1Kdw?oc=5"
-    },
-    {
-      "category": "Икономика",
-      "headline": "US retail sales beat expectations in September on higher gasoline prices - Reuters",
-      "summary": "US retail sales beat expectations in September on higher gasoline prices - Reuters (ID 9, from Reuters).",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        2,
-        9
-      ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZnMTMydHhjWGswNVBLR3F5dEhkQ09TOW02dkt2eF8yMXVfa2g5dUNwQm5MdmRIZXB6Q0QtNkJrOGg3Zm1JWUh1akw3RGZ5czh4dEk2b2pxeDNLSXg5Sk9wQzJKVFBhanF2ZWtxNDR6T3pvNzgzbVVlRWotSnR5NjVwcjQtYjd3eVBGang1Sk1BWlU1WExpQy1ySndDeUhZSGFUNVFpSkRFZ19meGNuOA?oc=5"
+      "category": "Политика",
+      "headline": "Парламентът одобри военна сделка за над милиард — IRIS-T и ПВО системи",
+      "summary": "Народното събрание одобри купуването на пет зенитно-ракетни комплекса IRIS-T, допълнителни германски ПВО системи и системи за ПВО. Сделката надхвърля милиард лева.",
+      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews"],
+      "ids": [11, 15, 30, 33],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos;",
-      "summary": "Ukraine resumes attacks on Russian refineries as Zelenskyy says &apos;we&apos;re done&apos; (ID 3, from DW).",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        3
-      ],
-      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
+      "headline": "Два танкера в пламна в Черно море — 7 души изчезнали край Румъния",
+      "summary": "Два кораба се пожаруваха в черноморските води близо до Румъния, като 7 членове на екипажа са изчезнали. България изрази солидарност с Румъния след пожарите на танкери в румънски води.",
+      "sources": ["DW", "FrogNews", "Dnevnik"],
+      "ids": [8, 28, 48],
+      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Политика",
+      "headline": "Радев за пръв път назова войната на Русия срещу Украйна като източник на ескалацията в Черно море",
+      "summary": "Президентът Радев поиска намеса на ЕС за „Лукойл“ и за пръв път назова войната на Русия срещу Украйна като източник на ескалацията и риска в Черно море. Той отбеляза, че атаките идват от войната на Русия.",
+      "sources": ["Mediapool", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [22, 29, 41],
+      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
     }
   ]
 }
