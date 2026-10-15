@@ -1,72 +1,46 @@
 {
-  "updatedAt": "2026-10-15T20:08:23.191Z",
-  "overview": "Кратък преглед на водещите събития за деня: Турските власти налягаха срещу проправославната телевизия Halk TV, Nasdaq нарушава мрежата повлиявайки на американските данни, президентът Радев подкрепя сделката между Тръмп и Путин, България изпрати еврозонния си бюджетен план, Steam клиентът превъзхожда Epic Vibe launcher.",
+  "updatedAt": "2026-10-15T20:28:03.000Z",
+  "overview": "Водещите събития за днес включват политически developments в Турция, продължаващи междусебрежни напрежения и икономическо с ънсенсиране на булетин Бюджет 2027.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Турската полиция наляга срещу проправославната телевизия Halk TV",
-      "summary": "Турските власти извършиха налет на телевизията Halk TV, водеща проправославна медия, с цел заробване на медийни представители и заплахи срещу критиците. Действителната причина за акцията не беше обявена.",
-      "sources": [
-        "DW",
-        "OffNews"
-      ],
-      "ids": [
-        1,
-        6
-      ],
+      "category": "Политика",
+      "headline": "Турция предприе полицейски рейд срещу опозиционното Halk TV",
+      "summary": "ДВ потвърди полицейската операция срещу големия протопоседнически телеканал Halk TV в Турция, залъзявайки изразите на опозицията.",
+      "sources": ["DW"],
+      "ids": [1],
       "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Nasdaq нарушава мрежата, повлиявайки на данните за американските акции",
-      "summary": "Компанията Nasdaq съобщава за нарушение в мрежата си, което се отразява на данните за американските акции и възможно повлиява на търговската дейност на световните финансови пазари.",
-      "sources": [
-        "Reuters",
-        "OffNews"
-      ],
-      "ids": [
-        5,
-        13
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODcjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXohaUxseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF?oc=5"
-    },
-    {
-      "category": "Политика",
-      "headline": "Президентът Радев подкрепя сделката между Тръмп и Путин за руски дизел",
-      "summary": "Президентът Радев изрази подкрепата си към потенциалната сделка между изгубената канцлерка и Путин за русин дизел като стъпка, която гарантира намаляване на цените на горивата. Това е при интервюто му за Евронюз.",
-      "sources": [
-        "OffNews",
-        "Свободна точка"
-      ],
-      "ids": [
-        13,
-        25
-      ],
-      "link": "https://offnews.bg/politika/euronews-radev-slisa-briuksel-s-podkrepata-si-za-sdelkata-tramp-putin-876569.html"
+      "headline": "IEA планира освобождаване на над 20 милиона барела дизел",
+      "summary": "Международната агенция за енергията ще ускори отпускането на петролни запаси, включително над 20 милиона барела дизел, за да се справи с пазарните неродности.",
+      "sources": ["Reuters"],
+      "ids": [10],
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5"
     },
     {
       "category": "Икономика",
-      "headline": "България изпрати първия си бюджетен план като член на еврозоната",
-      "summary": "България изпрати първия си бюджетен план към Брюксел като член на еврозоната, официално уведомление за новия економически етап на страната в рамките на ЕС.",
-      "sources": [
-        "OffNews"
-      ],
-      "ids": [
-        27
-      ],
-      "link": "https://offnews.bg/ikonomika/balgaria-izprati-parvia-si-biudzheten-plan-do-briuksel-kato-chlen-na-e-876565.html"
+      "headline": "Бюджет 2027 предизвиква дебати за дефицита и социалните разходи в Брюксел",
+      "summary": "Финансовите омрази и социалните обещания са в центъра на бюджетните преговори в Брюксел по време на изготвянето на Българския бюджет за 2027 г.",
+      "sources": ["FrogNews"],
+      "ids": [7],
+      "link": "https://frognews.bg/novini/biudjet-2027-briuksel-mejdu-defitsita-sotsialnite-obeshtaniia.html"
     },
     {
-      "category": "Технологии",
-      "headline": "Steam клиентът вече е по-бърз от новия Vibe Coded Launcher на Epic Games",
-      "summary": "Valve оптимизира Steam клиента, който вече е по-бърз от новия Vibe Coded Launcher на Epic Games, демонстрирайки подобрение в производителността на платформата за дистрибуция на игри.",
-      "sources": [
-        "Hacker News"
-      ],
-      "ids": [
-        17
-      ],
-      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/"
+      "category": "Общество",
+      "headline": "NATO свиква извънредна среща за атаките с дронове срещу кораби в Черно море",
+      "summary": "Алиансът се събира, за да обсъди ескалацията на междусебрежните инциденти, включително повечето надирнати удари срещу търговски кораби.",
+      "sources": ["Boulevard Bulgaria"],
+      "ids": [21],
+      "link": "https://boulevardbulgaria.bg/articles/nato-svikva-sreshta-za-atakite-s-dronove-sreshtu-korabi-v-cherno-more"
+    },
+    {
+      "category": "Здравеопазване",
+      "headline": "Правителството повиши осигурителните тежести за да свие дефицита",
+      "summary": "Народното събрание одобри увеличаването на осигурителните вноски и въвеждането на данък върху свръхпечалбата, за да намали бюджетния дефицит.",
+      "sources": ["Mediapool"],
+      "ids": [27],
+      "link": "https://www.mediapool.bg/biznes/pragovete-za-osigurovkite-pak-shte-se-vdignat-leka-otstapka-za-danak-svrahpechalba/"
     }
   ]
 }
