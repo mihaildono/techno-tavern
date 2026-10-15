@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T14:12:20.151Z",
-  "overview": "През изминалите 24 часа Парламентът одобри няколко важни военни сделки, беше избрана нова временна главна прокурорка, а Украйна възобнови ударите по руски рафинерии в отговор на заплахите на Тръмп.",
+  "updatedAt": "2026-10-15T14:36:32.062Z",
+  "overview": "През изминалите 24 часа ВСС избра Магдалена Лазарова за и.ф. главен прокурор, Парламентът одобри военни сделки за над милиард лева, а напрежението в Черно море расте след нови удари по руски рафинерии и пожари на танкери край Румъния.",
   "stories": [
     {
       "category": "Общество",
       "headline": "Магдалена Лазарова е избрана за и.ф. главен прокурор за 6 месеца",
-      "summary": "ВСС избра Магдалена Лазарова за временно главен прокурор за следващите 6 месеца. Изборът беше одобрен при спорна процедура.",
-      "sources": ["Dnevnik", "Mediapool", "Свободна точка", "OffNews", "Boulevard Bulgaria"],
-      "ids": [11, 15, 17, 32, 36],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
+      "summary": "ВСС избра Магдалена Лазарова за временно главен прокурор за следващите 6 месеца. Изборът беше одобрен при спорна процедура, заобиколена от ареста на Явор Златанов и критики.",
+      "sources": ["Свободна точка", "Actualno", "Mediapool", "OffNews", "Boulevard Bulgaria"],
+      "ids": [17, 19, 27, 32, 36],
+      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
     },
     {
       "category": "Свят",
@@ -22,9 +22,9 @@
       "category": "Политика",
       "headline": "Парламентът одобри няколко военни сделки за над милиард лев",
       "summary": "Народното събрание одобри покупката на пет зенитно-ракетни комплекса IRIS-T и още 5 германски ПВО системи. Общата стойност на сделките надхвърля милиард лева.",
-      "sources": ["Dnevnik", "OffNews", "FrogNews"],
-      "ids": [11, 30, 33],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
+      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews"],
+      "ids": [11, 15, 30, 33],
+      "link": "https://www.mediapool.bg/bulgaria/parlamentat-odobri-poredna-voenna-sdelka-za-nad-miliard/"
     },
     {
       "category": "Общество",
@@ -35,12 +35,12 @@
       "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
     },
     {
-      "category": "Икономика",
-      "headline": "Кабинетът предлага минимална заплата от 660 евро от 2027 г.",
-      "summary": "Правителството предлага повишаване на минималната заплата до 660 euro от 2027 г. Опозицията негодува заради липсата на консултации.",
-      "sources": ["Свободна точка", "Dnevnik"],
-      "ids": [26, 44],
-      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
+      "category": "Свят",
+      "headline": "Пожари на танкери в Черно море: България е солидарна с Румъния",
+      "summary": "Два танкера горят в румънски води на Черно море, 7 души са изчезнали. България изразява солидарност с Румъния след инцидента.",
+      "sources": ["DW", "FrogNews", "Dnevnik"],
+      "ids": [8, 28, 48],
+      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003"
     }
   ]
 }
