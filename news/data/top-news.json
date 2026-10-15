@@ -1,46 +1,72 @@
 {
-  "updatedAt": "2026-10-15T19:33:30.000Z",
-  "overview": "Денят е доминиран от международните събития около Черно море и сделката Тръмп-Путин, докато в България започват протести срещу Радев и Йотова. В фокус са и бюджетът за 2027 г. и корупционната схема при ВиK ремонти.",
+  "updatedAt": "2026-10-15T20:08:23.191Z",
+  "overview": "Кратък преглед на водещите събития за деня: Турските власти налягаха срещу проправославната телевизия Halk TV, Nasdaq нарушава мрежата повлиявайки на американските данни, президентът Радев подкрепя сделката между Тръмп и Путин, България изпрати еврозонния си бюджетен план, Steam клиентът превъзхожда Epic Vibe launcher.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "НАТО засилва отбраната на източния фланг amid растяща напрегнатост в Черно море",
-      "summary": "Страните от НАТО се срещат за атаките с дронове срещу кораби в Черно море, докато Украйна възобновява ударите по руски нефтопреработватели. Танкер е ударен от дронове край Румъния, а бурното море спира операцията за изтегляне на „Челси-3“ към Бургас.",
-      "sources": ["Actualno", "Mediapool", "Boulevard Bulgaria", "DW", "Свободна точка", "Dnevnik", "OffNews"],
-      "ids": [2, 6, 11, 18, 23, 29, 33, 38, 44, 50],
-      "link": "https://www.mediapool.bg/bulgaria/stranite-ot-nato-s-izvanredna-sreshta-za-cherno-more-aliansat-zasilva-iztochniya-flang/"
+      "headline": "Турската полиция наляга срещу проправославната телевизия Halk TV",
+      "summary": "Турските власти извършиха налет на телевизията Halk TV, водеща проправославна медия, с цел заробване на медийни представители и заплахи срещу критиците. Действителната причина за акцията не беше обявена.",
+      "sources": [
+        "DW",
+        "OffNews"
+      ],
+      "ids": [
+        1,
+        6
+      ],
+      "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп отменя излъчването на живо на екзекуцията на убийцата от Форт Худ",
-      "summary": "След вълна от критики, президентът на САД Доналд Тръмп отменя прякото излъчване на изпълнението на бившия военен, убил 13 души в базата Форт Худ. Екзекуцията на Нидал Хасан няма да бъде излъчвана на живо.",
-      "sources": ["OffNews", "Reuters", "DW", "Mediapool", "FrogNews"],
-      "ids": [12, 14, 17, 19, 20],
-      "link": "https://offnews.bg/sviat/ekzekutciata-na-nidal-hasan-niama-da-bade-izlachvana-na-zhivo-876566.html"
-    },
-    {
-      "category": "Икономика",
-      "headline": "България представя бюджетния си план за 2027 в Брюксел с повишени осигуровки и минимална заплата от 660 евро",
-      "summary": "Кабинетът вдига осигурителната тежест и облага свръхпечалбите, за да свие дефицита, докато минималната заплата се планира за 660 през 2027 г. България е изпратила първия си бюджетен план до Брюксел като член на еврозоната.",
-      "sources": ["FrogNews", "OffNews", "Boulevard Bulgaria", "Mediapool", "Dnevnik"],
-      "ids": [5, 25, 24, 28, 49],
-      "link": "https://frognews.bg/novini/biudjet-2027-briuksel-mejdu-defitsita-sotsialnite-obeshtaniia.html"
+      "headline": "Nasdaq нарушава мрежата, повлиявайки на данните за американските акции",
+      "summary": "Компанията Nasdaq съобщава за нарушение в мрежата си, което се отразява на данните за американските акции и възможно повлиява на търговската дейност на световните финансови пазари.",
+      "sources": [
+        "Reuters",
+        "OffNews"
+      ],
+      "ids": [
+        5,
+        13
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODcjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXohaUxseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Протести срещу Радев и Йотова започват в България",
-      "summary": "Започват протести с лозунги „Долу Радев! Долу Йотова!“ в България, докато се обсъжда дали военните действия и дроновете влияят на предстоящите избори.",
-      "sources": ["OffNews", "Свободна точка"],
-      "ids": [4, 38],
-      "link": "https://offnews.bg/protesti/zapochna-protestat-dolu-radev-dolu-jotova-876568.html"
+      "headline": "Президентът Радев подкрепя сделката между Тръмп и Путин за руски дизел",
+      "summary": "Президентът Радев изрази подкрепата си към потенциалната сделка между изгубената канцлерка и Путин за русин дизел като стъпка, която гарантира намаляване на цените на горивата. Това е при интервюто му за Евронюз.",
+      "sources": [
+        "OffNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        13,
+        25
+      ],
+      "link": "https://offnews.bg/politika/euronews-radev-slisa-briuksel-s-podkrepata-si-za-sdelkata-tramp-putin-876569.html"
     },
     {
-      "category": "Общество",
-      "headline": "ГДБОП разби корупционна схема при ВиK ремонти с участието на МРРБ и МОСВ",
-      "summary": "ГДБОП разкрива корупционна схема при ВиK ремонти, при която МРРБ са разкрити с 18%, а МОСВ – с 19%. Шеф на болница и главна сестра са обвинени за източване на здравната каса в Благоевград.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [3, 48],
-      "link": "https://www.mediapool.bg/bulgaria/mrrb-18-mosv-19-gdbop-razbi-koruptsionna-shema-pri-vik-remonti/"
+      "category": "Икономика",
+      "headline": "България изпрати първия си бюджетен план като член на еврозоната",
+      "summary": "България изпрати първия си бюджетен план към Брюксел като член на еврозоната, официално уведомление за новия економически етап на страната в рамките на ЕС.",
+      "sources": [
+        "OffNews"
+      ],
+      "ids": [
+        27
+      ],
+      "link": "https://offnews.bg/ikonomika/balgaria-izprati-parvia-si-biudzheten-plan-do-briuksel-kato-chlen-na-e-876565.html"
+    },
+    {
+      "category": "Технологии",
+      "headline": "Steam клиентът вече е по-бърз от новия Vibe Coded Launcher на Epic Games",
+      "summary": "Valve оптимизира Steam клиента, който вече е по-бърз от новия Vibe Coded Launcher на Epic Games, демонстрирайки подобрение в производителността на платформата за дистрибуция на игри.",
+      "sources": [
+        "Hacker News"
+      ],
+      "ids": [
+        17
+      ],
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/"
     }
   ]
 }
