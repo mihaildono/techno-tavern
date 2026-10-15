@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T06:29:22.000Z",
-  "overview": "Най-важните български и световни новости включват спад на петролните цени, диалози с Русия и протести срещу външната политика на Доналд Тръмп, опитите на Северна Корея за военно набиране и ескалация на общия глобален нестабилен момент.",
+  "updatedAt": "2026-10-15T06:48:00.000Z",
+  "overview": "Ключови събития включват военни ескалации от Северна Корея и Украйна, продължаващи санкции срещу Русия, разкрития в защитата на САЩ, дипломатически напрежения между поредица държави и важни промени в сферата на технологиите.",
   "stories": [
     {
-      "category": "Икономика",
-      "headline": "Петролните цени спадат с изчакване на пазарните експерти",
-      "summary": "Оil prices fell as investors weighed supply outlook and Middle East tensions, causing global markets to adjust to new uncertainty in energy markets.",
-      "sources": ["Reuters"],
-      "ids": [1],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNKWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5"
-    },
-    {
       "category": "Свят",
-      "headline": "Северна Корея заяви официален тест на кръстави ракети с подводна пускателна установка",
-      "summary": "The North Korean regime announced it tested cruise missiles designed to be launched from submarines, escalating regional military tensions in the Korean peninsula.",
+      "headline": "Северна Корея заяви официално тестване на кръстави ракети с подводна пускателна установка",
+      "summary": "North Korean regime announced it tested cruise missiles designed to be launched from submarines, escalating regional military tensions in the Korean peninsula.",
       "sources": ["DW"],
-      "ids": [6],
+      "ids": [7],
       "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Свят",
-      "headline": "Тръмп дава зяпа на Украйна с виненица да даде на Русия ценни ресурси",
-      "summary": "Trump's proposed diesel deal with Russia could impact the United States and Ukraine, with critics warning of dangerous concessions to Moscow in ongoing diplomatic tensions.",
-      "sources": ["DW"],
-      "ids": [10],
-      "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf"
+      "category": "Технологии",
+      "headline": "ASML прогнозира по-високи продажби след нови поръчки свързани с AI",
+      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam, signaling continued demand for advanced chip manufacturing equipment in the AI sector.",
+      "sources": ["Hacker News"],
+      "ids": [24],
+      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
     },
     {
-      "category": "Технологии",
-      "headline": "Hacker News съобщава за постижения в AI съответствия и нова база данни за файлове",
-      "summary": "Passkeys were introduced as a secure authentication method, while new running Windows desktop tests from Linux were developed using disposable VMs and ASML's advanced chip manufacturing technology continued to show strong market performance.",
-      "sources": ["Hacker News"],
-      "ids": [21, 23, 47, 50],
-      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+      "category": "Икономика",
+      "headline": "Петролните цени спадат с изчакване на пазарните експерти",
+      "summary": "Oil prices fell as investors weighed supply outlook and Middle East tensions, causing global markets to adjust to new uncertainty in energy markets.",
+      "sources": ["Reuters"],
+      "ids": [2],
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNKWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5"
     },
     {
       "category": "Политика",
-      "headline": "Правителството отпусна 4.8 млн. евро за Бургас в рамките на предизборната кампания за Евровизия",
+      "headline": "Правителството отпусна 4.8 млн. евро на Бургас за Евровизия - спорно предизборно разходване",
       "summary": "The cabinet allocated 4.8 million euros to Burgas for European song contest preparations, sparking political debate over budget priorities and election-year spending.",
       "sources": ["Dnevnik"],
       "ids": [19],
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzIxQkR2YV9SS19Jb0lXM2FXSHFUc2xIRVBYbmRYYU1FSzZBLUc5MFBtYUN5ZkdNeGQ3VnhRVkNsMlBXb0dQbUxEUnBJVF8tUUdUMDVYVGRHSjV6WEdTMlB2YnJtSWFLdmVZeUtMenZNWTM1R1FnZzJEMzZRN3o1ZThtRlBKb0V2LUhyNm9rWlJVcDFXR1hkUWpScF9zUWtKS0NBNWVyekw2dUE3THc?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп предлага диезелов пакт с Русия, разкрива опасностите за САЩ и Украйна",
+      "summary": "Trump's proposed diesel deal with Russia could impact the United States and Ukraine, with critics warning of dangerous concessions to Moscow in ongoing diplomatic tensions.",
+      "sources": ["DW"],
+      "ids": [11],
+      "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
