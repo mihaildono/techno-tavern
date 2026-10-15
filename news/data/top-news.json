@@ -1,46 +1,66 @@
 {
-  "updatedAt": "2026-10-15T21:44:15.000Z",
-  "overview": "Водещите събития за днес включват политически developments в Турция, продължаващи междусебрежни напрежения и икономическо с ънсенсиране на бюджетните дебати в Брюксел.",
+  "updatedAt": "2026-10-15T19:25:05.367Z",
+  "overview": "Кратък общ преглед на водещите събития за деня. Основните теми включват политически developments, военни конфликти и икономически обновления от разнообразни източници.",
   "stories": [
     {
       "category": "Политика",
-      "headline": "Турция предприе полицейски рейд срещу опозиционното Halk TV",
-      "summary": "ДВ потвърди полицейската операция срещу големия протопоседнически телеканал Halk TV в Турция, залъзявайки изразите на опозицията.",
-      "sources": ["DW"],
-      "ids": [5],
-      "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-top-1022-rdf"
+      "headline": "Политически developments: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
+      "summary": "Съобщение от DW: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        1
+      ],
+      "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Други",
+      "headline": "Страните от НАТО с извънредна среща за Черно море. Алиансът засилва източния фланг",
+      "summary": "Съобщение от Mediapool: Страните от НАТО с извънредна среща за Черно море. Алиансът засилва източния фланг",
+      "sources": [
+        "Mediapool"
+      ],
+      "ids": [
+        9
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/stranite-ot-nato-s-izvanredna-sreshta-za-cherno-more-aliansat-zasilva-iztochniya-flang/"
     },
     {
       "category": "Свят",
-      "headline": "IEA планира освобождаване на над 20 милиона барела дизел",
-      "summary": "Международната агенция за енергията ще ускори отпускането на петролни запаси, включително над 20 милиона барела дизел, за да се справи с пазарните неродности.",
-      "sources": ["Reuters"],
-      "ids": [6],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5"
+      "headline": "Технологични новости: Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "summary": "Съобщение от DW: Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        2
+      ],
+      "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Икономика",
-      "headline": "Бюджет 2027 предизвиква дебати за дефицита и социалните разходи в Брюксел",
-      "summary": "Финансовите омрази и социалните обещания са в центъра на бюджетните преговори в Брюксел по време на изготвянето на Българския бюджет за 2027 г.",
-      "sources": ["FrogNews"],
-      "ids": [7],
-      "link": "https://frognews.bg/novini/biudjet-2027-briuksel-mejdu-defitsita-sotsialnite-obeshtaniia.html"
+      "category": "Свят",
+      "headline": "Воен конфликт в Йемен: Middle East updates: Houthis target Yemen government palace in Aden",
+      "summary": "Съобщение от DW: Middle East updates: Houthis target Yemen government palace in Aden",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        4
+      ],
+      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Общество",
-      "headline": "NATO свиква извънредна среща за атаките с дронове срещу кораби в Черно море",
-      "summary": "Алиансът се събира, за да обсъди ескалацията на междусебрежните инциденти, включително повечето надирнати удари срещу търговски кораби.",
-      "sources": ["Boulevard Bulgaria"],
-      "ids": [21],
-      "link": "https://boulevardbulgaria.bg/articles/nato-svikva-sreshta-za-atakite-s-dronove-sreshtu-korabi-v-cherno-more"
-    },
-    {
-      "category": "Здравеопазване",
-      "headline": "Правителството повиши осигурителните тежести за да свие дефицита",
-      "summary": "Народното събрание одобри увеличаването на осигурителните вноски и въвеждането на данък върху свръхпечалбата, за да намали бюджетния дефицит.",
-      "sources": ["Mediapool"],
-      "ids": [27],
-      "link": "https://www.mediapool.bg/biznes/pragovete-za-osigurovkite-pak-shte-se-vdignat-leka-otstapka-za-danak-svrahpechalba/"
+      "category": "Други",
+      "headline": "Започна протестът: Долу Радев! Долу Йотова!",
+      "summary": "Съобщение от OffNews: Започна протестът: Долу Радев! Долу Йотова!",
+      "sources": [
+        "OffNews"
+      ],
+      "ids": [
+        12
+      ],
+      "link": "https://offnews.bg/protesti/zapochna-protestat-dolu-radev-dolu-jotova-876568.html"
     }
   ]
 }
