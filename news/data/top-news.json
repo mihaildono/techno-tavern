@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T05:08:46.881Z",
-  "overview": "Денят е отбелязан със засилени воени действия и дипломатическо напрежение около Черно море, нови заплахи от САЩ срещу Иран, както и значими събития в България — включително връщането на Стоян Колев и палежи на антени на Starlink в София.",
+  "updatedAt": "2026-10-15T09:15:00.000Z",
+  "overview": "Днешният дневен преглед на водещите събития показва засилена военно-политическа акция — Трамп обявява полигонно пространство за просперитетни премички в Монтана, САЩ разглежда използването на „майка на всички бомби“ срещу Иран, а Черно море е под наклонени линии от атаките на дронове, които са удар на танкер край Румъния, което дава нова насока към дипломатическо решаване. Европа реагира с призиви за мораториум на атаките в Черно море, подкрепяйки член-държавите като България, които са жертва на тази нова несигурност.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Засилени воени действия и дипломатически призви за защита на корабоплаването в Черно море",
-      "summary": "Индия при Calls for Russia and Ukraine to protect Black Sea shipping, while a tanker is hit by drones near Romanian waters. France calls for a moratorium on Black Sea attacks, and Bulgaria allocates 220,000 euros for NATO anti-drone defense.",
-      "sources": ["DW", "Dnevnik", "OffNews", "Свободна точка"],
-      "ids": [2, 9, 44, 39],
-      "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-top-1022-rdf"
+      "category": "Политика",
+      "headline": "Трамп обявява полигонно пространство за просперитетни премички в Монтана",
+      "summary": "Reuters съобщава, че САЩ ще изградят централизирано пространство за изпитване на премички в Монтана, за да ускорят разработката на нови системи за адвансд оборона, засилвайки военното състояние в Служителната земя.",
+      "sources": ["Reuters"],
+      "ids": [1],
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnJoVHVWYWF3Z0hWc0FnbjBaN1FhT3VDZGEwbXdWcUNBS05sWDJRWmtoSU9JbW1ybmlPT1FqdGFWLTRtYXdFOWExMXVTVngxZ2dwYzhVY0tkMEtRZ2tYeHl0a1lQSGVET0pBWVBiQW1qbHpFcHJSdTlpUXRXWlBaeWd2Wnp3NXpCc0FxZnNxTG9rNzZFdVVNTDRQdHRJQXZ5aUJUUWR0Zi1XRmxiUndaeTFGQTNNU2JLYXM2eg?oc=5"
     },
     {
       "category": "Свят",
       "headline": "САЩ разсъждават за употребата на „майка на всички бомби“ при потенциални удари срещу Иран",
-      "summary": "CNN цитира източници, според които americanската армия разглежда възможността за използване на голяма бомба при бъдещи удари срещу Иран.",
+      "summary": "CNN цитира източници, според които американската армия разглежда възможността за използване на голяма бомба при бъдещи удари срещу Иран, което може да изпречи определени правителства, свързани с военни докладчеци и дипломати.",
       "sources": ["Reuters"],
-      "ids": [1],
+      "ids": [4],
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkE2TjhWV0FPQU53YTl2bDFSaHNWVDBnMkFlekJxWTZ0RTFMTDRxa2czR0F4alduTnIzN2JBRkxlS1ZIb2I2Wk56WXE5OFBDQ0Z3cVNkcmpXWkNjc01JZm9hLWtqSFZHUktvUUt4S2hVTENQOXJ5Wk5mam93SjgxcW15SkttV2s0bU1TeFotalEtQXJ3M0MwSGtGd3FtdWp4eUlJSm1ubGJmT1ktai1YRk9fMGJPWmpaVDBBMA?oc=5"
     },
     {
-      "category": "Общество",
-      "headline": "Стоян Колев е върнат в България от Испания",
-      "summary": "Испания предаде на България издирвания Стоян Колев, съобщават Mediapool и Dnevnik.bg.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [22, 29],
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
-    },
-    {
-      "category": "Общество",
-      "headline": "Палеж на 11 антени на Starlink край София",
-      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink до София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [35, 49],
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+      "category": "Свят",
+      "headline": "Танкер е ударен от дронове край бреговете на Румъния",
+      "summary": "DW и Svobodna točka съобщават, че танкер е ударен от дронове край бреговете на Румъния, което по-висши официални източници потвърдиха, възможно поради нарастващата несигурност в Черно море. Европа реагира с призиви за дипломатическо решаване.",
+      "sources": ["DW", "Svobodna točka"],
+      "ids": [12, 41],
+      "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Северна Корея тестира крилати ракети за пускане от подводна лодка",
-      "summary": "Северна Корея съобщава, че е изпробвала крилати ракети, които могат да бъдат пуснати от подводна лодка.",
-      "sources": ["DW"],
-      "ids": [8],
-      "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-top-1022-rdf"
+      "headline": "Франция поиска мораториум на атаките в Черно море, подкрепяйки България",
+      "summary": "OffNews цитира, че Франция поиска мораториум на атаките в Черно море, изразявайки пълна солидарност с България след сериозните инциденти с атаките на дронове срещу танкери и инфраструктура в региона.",
+      "sources": ["OffNews"],
+      "ids": [46],
+      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Испания предаде на България издирвания Стоян Колев",
+      "summary": "Mediapool и Dnevnik.bg съобщават, че Испания предаде на България издирвания Стоян Колев, с което той ще се завърне на родината, след като напусна страната преди години.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [24, 31],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
     }
   ]
 }
