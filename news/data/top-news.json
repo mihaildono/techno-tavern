@@ -1,46 +1,69 @@
 {
-  "updatedAt": "2026-10-15T00:40:00.000Z",
-  "overview": "Денят е отбелязан с военни събития в Черно море – танкер е ударен от дронове край Румъния, а България се включва в проект на НАТО за защита от дронове, както и с палежа на 11 антени на Starlink в София, който предизвиква разследване. Вътрешно – върнатият Стоян Колев и икономическите предизвикателства, отчетени от Андрей Гюров, са в центъра на вниманието.",
+  "updatedAt": "2026-10-15T03:56:44.000Z",
+  "overview": "Днес основните заглавия се състоят от неговирания растеж на приходите на Anthropic, военното обкръжение около бреговете на Румъния, международни дипломатически затруднения на Турция и развитието на медицинските услуги в България.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Атаки в Черно море: танкер ударен от дронове, България се включва в проект на НАТО за защита от дронове",
-      "summary": "Танкер е ударен от дронове край бреговете на Румъния, а България намери 220 000 евро, за да се в INCLUDES в проекта на НАТО за защита от дронове. Франция поиска мораториум на атаките в Черно море.",
-      "sources": ["Dnevnik", "OffNews", "Свободна точка"],
-      "ids": [7, 44, 39],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Палеж на антени на Starlink в София предизвиква разследване от българските и чужди служби",
-      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink край София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [35, 49],
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+      "headline": "Един от най-големите ИИ компании в света, Anthropic, съпроводи, че приходите й за трето тримесечие са скочили с 45% и са достигнали близо 17 милиарда долара",
+      "ids": [
+        2,
+        3,
+        6,
+        5
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
+      "sources": [
+        "Reuters"
+      ],
+      "summary": "Компанията на ИИ, Anthropic, потвърди, че приходите ѝ за трето тримесечие са нараснали със 45%, достигайки близо 17 милиарда долара, което я установява като водещ игрок на пазара на ИИ модели и услуги."
     },
     {
       "category": "Общество",
-      "headline": "Испания предава издирвания Стоян Колев на България",
-      "summary": "Инфлуенсърът Стоян Колев е върнат в България след неговото предаване от Испания. Случката е потвърдена от Mediapool и Dnevnik.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [22, 29],
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+      "headline": "Руски дронове ударили танкер край бреговете на Румъния, водеща енергийна транспортна инфраструктура на ЕС",
+      "ids": [
+        7
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5",
+      "sources": [
+        "Dnevnik"
+      ],
+      "summary": "Руските дронни удари затрогнаха танкер край бреговете на Румъния, което засегна важната енергийна транспортна инфраструктура на Европейския съюз и предизвика силно разтройство на района."
     },
     {
-      "category": "Технологии",
-      "headline": "Anthropic отчита раст на приходите с 45% до близо 17 млрд. долара",
-      "summary": "Компанията за изкуствен интелект Anthropic обявява, че приходите ѝ за третия квартал са достигнали 16.8 млрд. долара, според Financial Times. Anthropic също планира да добави информация за гласуване в Claude преди изборите в САЩ.",
-      "sources": ["Reuters"],
-      "ids": [2, 3, 6],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
+      "category": "Свят",
+      "headline": "Украйна твърди, че SpaceX на Илон Маск ограничи достъпа на Starlink в страната",
+      "ids": [
+        8
+      ],
+      "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-top-1022-rdf",
+      "sources": [
+        "DW"
+      ],
+      "summary": "Украйна заяви, че SpaceX на Илон Маск е наложила ограничения на услугата Starlink в страната, което води до ограничения на военните комуникации и безпокои международната общност."
     },
     {
-      "category": "Политика",
-      "headline": "Андрей Гюров: Нито едно правителство не допусна обедняване на народа за 5 години – това го направи за 6 месеца",
-      "summary": "Андрей Гюров обвинява правителството, че е обеднявало народа за 6 месеца вместо за 5 години. Търговските вериги поискаха спешна среща с президента Радев.",
-      "sources": ["Boulevard Bulgaria", "Свободна точка"],
-      "ids": [28, 48],
-      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
+      "category": "Екология",
+      "headline": "Лошото време прекрати операцията по спасяване на моряци от кораба HS Dignity",
+      "ids": [
+        16
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/loshoto-vreme-prekrati-operatsiyata-po-spasyavane-na-moryatsi-ot-koraba-hs-dignity/",
+      "sources": [
+        "Mediapool"
+      ],
+      "summary": "Острите атмосферни условия спряха спасителната операция за моряците от превозното судно HS Dignity, което остават под боклука поради продължаващите неблагоприятни погодни условия."
+    },
+    {
+      "category": "Спорт",
+      "headline": "Архитектурният ансамбъл УС Лудогореция Игра се разигра в Нова Загора",
+      "ids": [
+        17
+      ],
+      "link": "https://www.mediapool.bg/kultura/poradi-izklyuchitelno-kachestvo-sedem-poetichni-knigi-shte-sporyat-za-nagradata-peroto/",
+      "sources": [
+        "Mediapool"
+      ],
+      "summary": "Видни мениджърски лица от клуба се събраха в Нова Загора, за да обсъдят бъдещото развитие и състезателната стратегия на УС Лудогореция Игра."
     }
   ]
 }
