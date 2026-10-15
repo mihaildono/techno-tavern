@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T01:14:23.837Z",
-  "overview": "Денят е отбелязан с големи технологични и военни развития — от рекордния растеж на Anthropic до нови атаки в Черно море и палежи на Starlink антени в София. В България продължават да доминират темите за безопасността, транспорта и върнатият инфлуенсър Стоян Колев.",
+  "updatedAt": "2026-10-15T01:32:17.000Z",
+  "overview": "Кратък преглед на водещите събития за деня: САЩ обсъждат облекчаване на санкциите срещу сянката флот, Северна Корея тества ракети от подводница, Anthropic има рекорден приход от 16,8 млрд. долара, ФДА говори за вероятно повишаване на лихвите и Черно море става ключово място за атаки с дронове, България намира 220 000 euro за НАТО защита.",
   "stories": [
     {
-      "category": "Технологии",
-      "headline": "Anthropic отчита рекорден растеж на приходите — 45% до почти 17 млрд. долара в третия тримесец",
-      "summary": "Американската AI компания Anthropic обявява приходи от 16.8 млрд. долара за третия тримесец на 2026 г., което представлява растеж от 45% спрямо предходния период. FT отчита също силните резултати на компанията.",
+      "category": "Политика",
+      "headline": "САЩ разглаждат санкциите срещу сянката флот за намаляване на цените на транспорта",
+      "summary": "По думи на официален представител на САЩ, правителството разглежда облекчаване на санкциите срещу сянката флот, за да намали световните транспортни разходи.",
+      "sources": ["Reuters"],
+      "ids": [1],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Северна Корея твърди, че изпробва крилатни ракети, пуснати от подводница",
+      "summary": "Северна Корея съобщава за успешно изпитване на крилатни ракети, които могат да бъдат пуснати от подводница, по време на широка военна парада.",
+      "sources": ["DW"],
+      "ids": [2],
+      "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Приходите на Anthropic скочиха до 16,8 млрд. долара през третия тримесеч",
+      "summary": "Според отчет на Financial Times, Anthropic има рекордни приходи от 16,8 млрд. долара през третия тримесеч, а на предишната среща за IPO обсъждаха ограничения върху разбирането на моделите.",
       "sources": ["Reuters"],
       "ids": [3, 4],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhqMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
+    },
+    {
+      "category": "Икономика",
+      "headline": "ФДА: Повишаване на лихвите е вероятно, но не е спешно",
+      "summary": "Като изключително, членът на Федералния резерв Дейли казва, че повишаването на лихвите е вероятно, но не е спешно въпреки инфлационните данни.",
+      "sources": ["Reuters"],
+      "ids": [6],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5"
     },
     {
       "category": "Общество",
-      "headline": "11 антени на Starlink са палени край София, Радев потвърди разследването",
-      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink до София. Президентът Радев потвърди, че разследването е в „изключително интензивно“ фаза, но призова ДАНС да не разкрива повече детайли.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [35, 49],
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
-    },
-    {
-      "category": "Общество",
-      "headline": "Испания предава инфлуенсъра Стоян Колев на България",
-      "summary": "Испания е предала на България издирвания инфлуенсър Стоян Колев, съобщават Mediapool и Dnevnik. Случаят е в центъра на вниманието на българските медии след неговото завръщане в страната.",
-      "sources": ["Mediapool", "Dnevnik"],
-      "ids": [22, 29],
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
-    },
-    {
-      "category": "Свят",
-      "headline": "България намира 220 000 евро за НАТО проект срещу дронове в Черно море",
-      "summary": "След атаките в Черно море, България е намерила 220 000 евро, за да се включи в проекта на НАТО за защита от дронове. В същото време Франция поиска мораториум на атаките в Черно море, а Гърция изрази пълна солидарност с България.",
-      "sources": ["Свободна точка", "OffNews"],
-      "ids": [39, 44],
-      "link": "https://svobodnatochka.bg/novini/balgariya-nameri-220-000-evro-za-da-se-vklyuchi-v-proekta-na-nato-za-antidronzashtitata/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Украйна удара по центрове за данни на „Яндекс“ в Русия — плащания, таксита и имейли спират",
-      "summary": "След ударите на Украйна по центрове за данни на „Яндекс“, в Русия спират плащанията, таксито и имейлите. Милиони руснаци са засегнати от прекъсването на услугите на водещата руска технологична платформа.",
-      "sources": ["Свободна точка"],
-      "ids": [27],
-      "link": "https://svobodnatochka.bg/istorii/kak-ukraina-udari-po-yandeks-i-zasegna-milioni-rusnatsi/"
+      "headline": "Атаки с дронове в Черно море: танкер ударен край Румъния, Франция поиска мораториум, България влага 220 000 euro за НАТО",
+      "summary": "Морето става полето на съвременни морски нападения — танкер е ударен от дронове край бреговете на Румъния, Франция поиска временно спиране на атаките, а България планира да включи 220 000 euro в проекта на НАТО за защита от дронове.",
+      "sources": ["Dnevnik", "OffNews", "Свободна точка"],
+      "ids": [7, 44, 39],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5"
     }
   ]
 }
