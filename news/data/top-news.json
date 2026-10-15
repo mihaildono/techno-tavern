@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T04:52:07.626Z",
-  "overview": "Кратък преглед на водещите събития за деня. Заспаха войни в Черно море от дроны, Индия призова Русия и Украйна за защита на корабоплаването, а Световната банка предупреди за забавяне на икономическия растеж в Азия. Бразилия ще съкрати работното време, а санкциите срещу Русия може да бъдат облекчени. Алкохолен дизел току-що е заловен в Черноморието, а София продължава да работи над система за противодроновата отбрана.",
+  "updatedAt": "2026-10-15T05:08:46.881Z",
+  "overview": "Денят е отбелязан със засилени воени действия и дипломатическо напрежение около Черно море, нови заплахи от САЩ срещу Иран, както и значими събития в България — включително връщането на Стоян Колев и палежи на антени на Starlink в София.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Танкер е ударен от дроны край бреговете на Румъния",
-      "summary": "Танкер е поразен от дроны в Черно море край бреговете на Румъния, което застраши корабоплаването в региона. Инцидентът повлиява международната безопасност и икономиката, свързана със транспортните коридори в Черно море.",
-      "sources": ["Dnevnik"],
-      "ids": [10],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Индия призова Русия и Украйна за защита на черноморското корабоплаване",
-      "summary": "Индия призова Русия и Украйна да защитят черноморското корабоплаване след нападение на танкер от дроны край Румъния. Заявата има важна роля за международната безопасност и икономическата стабилност на Черно море.",
-      "sources": ["DW"],
-      "ids": [2],
+      "headline": "Засилени воени действия и дипломатически призви за защита на корабоплаването в Черно море",
+      "summary": "Индия при Calls for Russia and Ukraine to protect Black Sea shipping, while a tanker is hit by drones near Romanian waters. France calls for a moratorium on Black Sea attacks, and Bulgaria allocates 220,000 euros for NATO anti-drone defense.",
+      "sources": ["DW", "Dnevnik", "OffNews", "Свободна точка"],
+      "ids": [2, 9, 44, 39],
       "link": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Световната банка предупреди за забавяне на икономическия растеж в Азия",
-      "summary": "Световната банка предупреди за забавяне на икономическия растеж в Азия заради поскъпването на дяловете и икономическите отпоследствия от Китай. Този прогнозен анализ обединява проблемите в глобалната икономика.",
+      "headline": "САЩ разсъждават за употребата на „майка на всички бомби“ при потенциални удари срещу Иран",
+      "summary": "CNN цитира източници, според които americanската армия разглежда възможността за използване на голяма бомба при бъдещи удари срещу Иран.",
       "sources": ["Reuters"],
-      "ids": [4],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5"
+      "ids": [1],
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkE2TjhWV0FPQU53YTl2bDFSaHNWVDBnMkFlekJxWTZ0RTFMTDRxa2czR0F4alduTnIzN2JBRkxlS1ZIb2I2Wk56WXE5OFBDQ0Z3cVNkcmpXWkNjc01JZm9hLWtqSFZHUktvUUt4S2hVTENQOXJ5Wk5mam93SjgxcW15SkttV2s0bU1TeFotalEtQXJ3M0MwSGtGd3FtdWp4eUlJSm1ubGJmT1ktai1YRk9fMGJPWmpaVDBBMA?oc=5"
     },
     {
-      "category": "Икономика",
-      "headline": "Бразилия ще съкрати работното време в победа за Лула преди втория тур",
-      "summary": "Бразилия ще съкрати работното време, което се смята за победа за президента Лула преди втория тур. Тази политика може да повлияе на трудовите отношения и икономическия растеж в страната.",
-      "sources": ["DW"],
-      "ids": [3],
-      "link": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-top-1022-rdf"
+      "category": "Общество",
+      "headline": "Стоян Колев е върнат в България от Испания",
+      "summary": "Испания предаде на България издирвания Стоян Колев, съобщават Mediapool и Dnevnik.bg.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [22, 29],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+    },
+    {
+      "category": "Общество",
+      "headline": "Палеж на 11 антени на Starlink край София",
+      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink до София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [35, 49],
+      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
     },
     {
       "category": "Свят",
-      "headline": "САЩ обмисля облекчаване на санкциите срещу руски корабни превози",
-      "summary": "САЩ обмисля облекчаване на санкциите срещу руски корабни превози, за да намали фрахтовите разходи. Правителството говори за облекчаване на транспортните ограничения, което може да окаже влияние върху глобалните доставки.",
-      "sources": ["Reuters"],
+      "headline": "Северна Корея тестира крилати ракети за пускане от подводна лодка",
+      "summary": "Северна Корея съобщава, че е изпробвала крилати ракети, които могат да бъдат пуснати от подводна лодка.",
+      "sources": ["DW"],
       "ids": [8],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5"
+      "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
