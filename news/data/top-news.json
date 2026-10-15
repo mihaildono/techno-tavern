@@ -1,66 +1,46 @@
 {
-  "updatedAt": "2026-10-15T19:44:59.661Z",
-  "overview": "Кратък общ преглед на водещите събития за деня. Основните теми включват политически developments, военни конфликти и икономически обновления от разнообразни източници.",
+  "updatedAt": "2026-10-15T20:04:00.000Z",
+  "overview": "Денят е отбелязал със значителни политически и икономически събития, включително според източници като DW, Reuters, Mediapool, Actualno и Свободна точка. Основните теми включват международни конфликти, икономически промени и технологични новини.",
   "stories": [
     {
-      "category": "Други",
-      "headline": "ЦСКА падна от \"Монако\" в Лигата на конференциите - Dnevnik.bg",
-      "summary": "Съобщение от Dnevnik: ЦСКА падна от \"Монако\" в Лигата на конференциите - Dnevnik.bg",
-      "sources": [
-        "Dnevnik"
-      ],
-      "ids": [
-        1
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzdQNS11MFg5R0JJczVSZXN3aEJhWHRBWF9yZjktSW95RC03V0hFN3gxV2dMMWdmZi0tb05haUE4NkJLOG1TRTNFS0RpNWVKenEtbW1yWllyU3o0UV9jVlAtbzdWR0tVVFM1aDhtSFd5OHBITTRybTVmMEVadW8tTzJBaTN5YmVTbFY5dmFBQncyb21UTzRTNEdmaldxZ3lZREhFNQ?oc=5"
-    },
-    {
-      "category": "Политика",
-      "headline": "Политически developments: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
-      "summary": "Съобщение от DW: Venezuela&apos;s Nicolas Maduro pleads not guilty to torture charges",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        2
-      ],
+      "category": "Свят",
+      "headline": "Венесуела: Николас Мадуро се отрича от вина за измърдване",
+      "summary": "Венесуелският президент Николас Мадуро е обвинен за измърдване и се отрича от вина. Съобщават DW и Reuters.",
+      "sources": ["DW", "Reuters"],
+      "ids": [2, 5, 25],
       "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Свят",
-      "headline": "Технологични новости: Self-replicating AI: Is your fridge a cybersecurity risk?",
-      "summary": "Съобщение от DW: Self-replicating AI: Is your fridge a cybersecurity risk?",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        3
-      ],
-      "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
+      "category": "Икономика",
+      "headline": "IEA ускорява освобожданение на нефтени запаси, включително над 20 млн барела дизел",
+      "summary": "Международното агенция за енергия (IEA) планира да ускори освобождането на нефтени запаси, включително над 20 млн барела дизел, за да стабилизира пазарите. Съобщава Reuters.",
+      "sources": ["Reuters"],
+      "ids": [10],
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Воен конфликт в Йемен: Middle East updates: Houthis target Yemen government palace in Aden",
-      "summary": "Съобщение от DW: Middle East updates: Houthis target Yemen government palace in Aden",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        5
-      ],
+      "headline": "Хуситите атакуват правителствения дворец в Аден, Йемен",
+      "summary": "Хуситите са насочили атака срещу правителствения дворец в Аден, Йемен. Съобщава DW.",
+      "sources": ["DW"],
+      "ids": [6],
       "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Други",
-      "headline": "Започна протестът: Долу Радев! Долу Йотова!",
-      "summary": "Съобщение от OffNews: Започна протестът: Долу Радев! Долу Йотова!",
-      "sources": [
-        "OffNews"
-      ],
-      "ids": [
-        10
-      ],
-      "link": "https://offnews.bg/protesti/zapochna-protestat-dolu-radev-dolu-jotova-876568.html"
+      "category": "Политика",
+      "headline": "Тръмп иска смъртно наказание за убиване на пожарникар",
+      "summary": "Президентът на САД Доналд Тръмп изразява желанието си да бъде приложено смъртно наказание за всеки, който убие пожарникар. Съобщава Reuters.",
+      "sources": ["Reuters"],
+      "ids": [5],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ1hjU0hBQkROWFZSLUNMRERsX2tSdWUyTUdBeFFoeEJJR1kyZGJCc19uZ2hJYzZtU0NidnRJWkFRSDViMkV0MEhfdDJoM3hHTXgyZWJUMmZRNkloTTJpbUtGZ2M5YzZjQlJrbnY1NXo2c0pLUm5ESzhwTlVObi0tQmNBVU9QV0dEVHZCNWFxNFVJaXpGeWR4d29FbGhKeXg4Z211TmwwY0lEeHM?oc=5"
+    },
+    {
+      "category": "Технологии",
+      "headline": "Самовъзпроизвеждащ се изкуствен интелект: Рискувате ли захранването на хладилника си?",
+      "summary": "DW публикува статия за самовъзпроизвеждащия се изкуствен интелект и как той може да бъде киберсигурностен риск за домакинските уреди. Съобщава DW.",
+      "sources": ["DW"],
+      "ids": [3],
+      "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
