@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T12:38:06.311Z",
-  "overview": "Водещите събития за деня: ВСС избра Магдалена Лазарова за и.ф. главен прокурор, парламентът одобри сделки за ПВО за над милиард лева, Украйна поднови ударите по руски рафинерии, две танкери горят в Черно море с 7 изчезнали моряци, а Радев за пръв път назова „войната на Русия срещу Украйна“ като основен източник на рисковете в Черно море.",
+  "updatedAt": "2026-10-15T18:00:00Z",
+  "overview": "Днес водещите събития са свързани с номинацията на Магдалена Лазарова за и.ф. главен прокурор, пожарите на два кораба в Черно море с 7 изчезнали души, продължащите атаки на Украйна срещу руски рафинерии, както и предложението за минимална заплата от 660 euro.",
   "stories": [
     {
-      "category": "Общество",
-      "headline": "ВСС избра Магдалена Лазарова за и.ф. главен прокурор за 6 месеца",
-      "summary": "Висшият съдебен съвет избра Магдалена Лазарова за временно изпълняваща длъжността главен прокурор за период от 6 месеца. Номинацията е на ДПС и е одобрена след спорна процедура.",
-      "sources": ["Свободна точка", "Actualno", "Mediapool", "OffNews", "Boulevard Bulgaria"],
-      "ids": [16, 18, 27, 32, 36],
+      "category": "Политика",
+      "headline": "Магдалена Лазарова е номинирана за и.ф. главен прокурор",
+      "summary": "Парламентът одобри номинацията на Магдалена Лазарова за временно изпълняваща длъжността главен прокурор за следващите 6 месеца, след спорната процедура за избор на нов ръководител на прокуратурата.",
+      "sources": ["Свободна точка", "Mediapool", "OffNews", "Boulevard Bulgaria"],
+      "ids": [16, 26, 31, 35],
       "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/"
     },
     {
       "category": "Свят",
-      "headline": "Украйна поднови ударите по руски петролни рафинерии",
-      "summary": "Украйна възобновява масови атаки с дронове по руски петролни рафинерии във Волгоград, Рязан и Москва, след като Зеленски обяви, че е „finished“. САЩ са обвинени, че отслабват отбраната на Украйна.",
-      "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [2, 17, 25, 38],
-      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Политика",
-      "headline": "Парламентът одобри закупуване на системи за ПВО за над милиард лева",
-      "summary": "Народното събрание одобри сделки за закупуване на пет зенитно-ракетни комплекса IRIS-T и допълнителни германски системи за противовъздушна отбрана с обща стойност над 1 милиард лева.",
-      "sources": ["Dnevnik", "Mediapool", "OffNews", "FrogNews"],
-      "ids": [9, 13, 30, 33],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHNTZFlWX1l3T1E4QXNJT2loMkc5VW5QTWVnMEFhcTJUamFUQU5Mek11YThkYTJfVGVMSndpaHEyd0ViNTNDRTk5YXpDZUlmVF9sY1Y0QWFpTzZJUEVMMXNwVktTbWJkd2V1VWtlVFJZRTRyMl8wWUk2bTBndUtldGpJR09MdDJWUTRCcnlSU3Z4VWZjVFBLOFdsSVE4QTcx?oc=5"
+      "headline": "Два кораба в пламъци в Черно море, 7 души изчезнали",
+      "summary": "Два танкери са обявени в пламъци в Черно море, като се търсят 7 членове на екипажа. България е солидарна с Румъния след инцидента и разглежда възможността за съвместна НАТО операция в региона.",
+      "sources": ["DW", "FrogNews", "Dnevnik"],
+      "ids": [4, 28, 47],
+      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003"
     },
     {
       "category": "Свят",
-      "headline": "Две танкери горят в Черно море, 7 моряци са изчезнали",
-      "summary": "Два танкери са погорели в черноморските води край Румъния, след като са били удари от дронове. Седем моряци са изчезнали. България изразява солидарност с Румъния, а корабът „Челси 3“ ще бъде буксиран до Бургас за оглед.",
-      "sources": ["DW", "FrogNews", "Dnevnik"],
-      "ids": [3, 28, 35, 46],
-      "link": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-top-1022-rdf"
+      "headline": "Украйна подновява ударите по руски петролни рафинерии",
+      "summary": "Украйна подновява военните си атаки срещу руски петролни рафинерии, въпреки заплахите на президент Тръмп. Президентът Зеленски обяви, че Украйна е „готова“ да спре, но продължава операциите.",
+      "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [3, 17, 25, 38],
+      "link": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757"
     },
     {
-      "category": "Политика",
-      "headline": "Радев за пръв път назова „войната на Русия срещу Украйна“ като източник на рисковете в Черно море",
-      "summary": "Президентът Радев за пръв път назова „войната на Русия срещу Украйна“ като основен източник на опасностите в Черно море. Той поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква.",
-      "sources": ["Mediapool", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [22, 29, 40],
-      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/"
+      "category": "Икономика",
+      "headline": "Кабинетът предлага минимална заплата от 660 euro от 2027 г.",
+      "summary": "Правителството предлага минимална месечна заплата от 660 euro, влизайка в сила през 2027 г., за да повишава покупателната способност на работещите. Опозицията изразява несъласие с предложението.",
+      "sources": ["Свободна точка", "Dnevnik"],
+      "ids": [25, 43],
+      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/"
+    },
+    {
+      "category": "Свят",
+      "headline": "България и Румъния искат щаб на НАТО в Черно море",
+      "summary": "Двете страни提议ат създаването на НАТО щаб в Черно море и мораториум за атаките срещу цивилни кораби, за да повишат сигурността в региона след инцидента с танкерите.",
+      "sources": ["Свободна точка", "FrogNews"],
+      "ids": [36, 27],
+      "link": "https://svobodnatochka.bg/novini/balgariya-i-rumaniya-iskat-shtab-na-nato-v-cherno-more-predlagat-moratorium-za-atakite-sreshtu-tsivilni-korabi/"
     }
   ]
 }
