@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T06:48:00.000Z",
-  "overview": "Ключови събития включват военни ескалации от Северна Корея и Украйна, продължаващи санкции срещу Русия, разкрития в защитата на САЩ, дипломатически напрежения между поредица държави и важни промени в сферата на технологиите.",
+  "updatedAt": "2026-10-15T07:06:09.000Z",
+  "overview": "Денят е отбелязан с глобални икономически тревожности в Азия, мащабна кибератака на Украйна срещу руска инфраструктура, както и серия от национални и дипломатически събития в България и Черноморския регион.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Северна Корея заяви официално тестване на кръстави ракети с подводна пускателна установка",
-      "summary": "North Korean regime announced it tested cruise missiles designed to be launched from submarines, escalating regional military tensions in the Korean peninsula.",
-      "sources": ["DW"],
-      "ids": [7],
-      "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Технологии",
-      "headline": "ASML прогнозира по-високи продажби след нови поръчки свързани с AI",
-      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam, signaling continued demand for advanced chip manufacturing equipment in the AI sector.",
-      "sources": ["Hacker News"],
-      "ids": [24],
-      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
-    },
-    {
       "category": "Икономика",
-      "headline": "Петролните цени спадат с изчакване на пазарните експерти",
-      "summary": "Oil prices fell as investors weighed supply outlook and Middle East tensions, causing global markets to adjust to new uncertainty in energy markets.",
-      "sources": ["Reuters"],
-      "ids": [2],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNKWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5"
-    },
-    {
-      "category": "Политика",
-      "headline": "Правителството отпусна 4.8 млн. евро на Бургас за Евровизия - спорно предизборно разходване",
-      "summary": "The cabinet allocated 4.8 million euros to Burgas for European song contest preparations, sparking political debate over budget priorities and election-year spending.",
-      "sources": ["Dnevnik"],
-      "ids": [19],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzIxQkR2YV9SS19Jb0lXM2FXSHFUc2xIRVBYbmRYYU1FSzZBLUc5MFBtYUN5ZkdNeGQ3VnhRVkNsMlBXb0dQbUxEUnBJVF8tUUdUMDVYVGRHSjV6WEdTMlB2YnJtSWFLdmVZeUtMenZNWTM1R1FnZzJEMzZRN3o1ZThtRlBKb0V2LUhyNm9rWlJVcDFXR1hkUWpScF9zUWtKS0NBNWVyekw2dUE3THc?oc=5"
+      "headline": "Азияските пазари се срутват след горящите СПИ данни в САЩ",
+      "summary": "IMF предупреждава за забавяне на азийския растеж, докато азийските пазари се срутват след неочаквано високи инфляционни данни в САЩ. Търговията с AI акции засилва корекцията.",
+      "sources": ["Reuters", "Reuters"],
+      "ids": [2, 4],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп предлага диезелов пакт с Русия, разкрива опасностите за САЩ и Украйна",
-      "summary": "Trump's proposed diesel deal with Russia could impact the United States and Ukraine, with critics warning of dangerous concessions to Moscow in ongoing diplomatic tensions.",
-      "sources": ["DW"],
-      "ids": [11],
-      "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-top-1022-rdf"
+      "headline": "Украйна атакува центрове за данни на „Яндекс“ в Русия",
+      "summary": "След ударите на Украйна по центрове за данни на „Яндекс“, в Русия спират плащанията, такситата и имейлите. Атаката засяга милиони руснаци.",
+      "sources": ["Свободна точка"],
+      "ids": [27],
+      "link": "https://svobodnatochka.bg/istorii/kak-ukraina-udari-po-yandeks-i-zasegna-milioni-rusnatsi/"
+    },
+    {
+      "category": "Общество",
+      "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
+      "summary": "През нощта са палени 11 антени на Starlink до София. Президентът Радев потвърди разследването и призова ДАНС да не разкрива повече детайли.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [35, 49],
+      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Испания предава издирвания Стоян Колев на България",
+      "summary": "Инфлуенсърът и издирваният Стоян Колев е върнат в България след предадане от Испания. Случката е следвана от медиите като важно събитие за правосъдието.",
+      "sources": ["Mediapool", "Dnevnik"],
+      "ids": [22, 29],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Франция поиска мораториум на атаките в Черно море, Гърция изрази пълна солидарност с България",
+      "summary": "Франция поиска мораториум върху атаките в Черно море, а Гърция изрази пълна солидарност с България. Това е сред важните дипломатически развития в региона.",
+      "sources": ["OffNews"],
+      "ids": [44],
+      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html"
     }
   ]
 }
