@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-15T00:17:35.027Z",
-  "overview": "Денят е отбелязан с палежа на антени на Starlink в София и ограниченията за Украйна, връщането на Стоян Колев в България, новините за Черно море и НАТО, както и продължаващият политически и икономически кризис в България.",
+  "updatedAt": "2026-10-15T00:40:00.000Z",
+  "overview": "Денят е отбелязан с военни събития в Черно море – танкер е ударен от дронове край Румъния, а България се включва в проект на НАТО за защита от дронове, както и с палежа на 11 антени на Starlink в София, който предизвиква разследване. Вътрешно – върнатият Стоян Колев и икономическите предизвикателства, отчетени от Андрей Гюров, са в центъра на вниманието.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Палеж на антени на Starlink в София и ограничения за Украйна засилват безпокойствата за сигурността",
-      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink край София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече. Украйна също съобщава, че SpaceX на Мъск ограничава достъпа до Starlink за Киев.",
-      "sources": ["DW", "FrogNews", "Свободна точка"],
-      "ids": [8, 35, 49],
-      "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-top-1022-rdf"
+      "headline": "Атаки в Черно море: танкер ударен от дронове, България се включва в проект на НАТО за защита от дронове",
+      "summary": "Танкер е ударен от дронове край бреговете на Румъния, а България намери 220 000 евро, за да се в INCLUDES в проекта на НАТО за защита от дронове. Франция поиска мораториум на атаките в Черно море.",
+      "sources": ["Dnevnik", "OffNews", "Свободна точка"],
+      "ids": [7, 44, 39],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjd0eE9YUWE4WTdXZm9wYURnbi1ZcVotOVFXbWRSRDBWTEx6cWZqR29yZjRrelZuMk5oNVlORWdRdzgtY1VORF93RVYycXRYYndWY1FFMEd6RHMxUGRTRDlUNWtVV293dUZ3ZkRTU1ZGOE1pSXhHUkNpOFl4UUVuS3pyU2wzU0kyS01Za0NUajBKLVdhbHhVS2Jfa2ZyYnRMX21WZQ?oc=5"
     },
     {
       "category": "Свят",
-      "headline": "България се включва в проект на НАТО за защита от дронове в Черно море",
-      "summary": "България намери 220 000 евро, за да се влезе в проекта на НАТО за защита от дронове. Танкер е ударен от дронове край бреговете на Румъния, а Франция поиска мораториум на атаките в Черно море.",
-      "sources": ["Свободна точка", "OffNews", "Dnevnik"],
-      "ids": [39, 44, 7],
-      "link": "https://svobodnatochka.bg/novini/balgariya-nameri-220-000-evro-za-da-se-vklyuchi-v-proekta-na-nato-za-antidronzashtitata/"
+      "headline": "Палеж на антени на Starlink в София предизвиква разследване от българските и чужди служби",
+      "summary": "България и чужди служби разследват палежа на 11 антени на Starlink край София. Президентът Радев потвърди инцидента, но призова ДАНС да не разкрива повече.",
+      "sources": ["FrogNews", "Свободна точка"],
+      "ids": [35, 49],
+      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
     },
     {
       "category": "Общество",
       "headline": "Испания предава издирвания Стоян Колев на България",
-      "summary": "Инфлуенсърът Стоян Колев е върнат в България following неговото предаване от Испания. Случката е потвърдена от Mediapool и Dnevnik.",
+      "summary": "Инфлуенсърът Стоян Колев е върнат в България след неговото предаване от Испания. Случката е потвърдена от Mediapool и Dnevnik.",
       "sources": ["Mediapool", "Dnevnik"],
       "ids": [22, 29],
       "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
     },
     {
+      "category": "Технологии",
+      "headline": "Anthropic отчита раст на приходите с 45% до близо 17 млрд. долара",
+      "summary": "Компанията за изкуствен интелект Anthropic обявява, че приходите ѝ за третия квартал са достигнали 16.8 млрд. долара, според Financial Times. Anthropic също планира да добави информация за гласуване в Claude преди изборите в САЩ.",
+      "sources": ["Reuters"],
+      "ids": [2, 3, 6],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
+    },
+    {
       "category": "Политика",
-      "headline": "Политическата и икономическата криза в България продължава с нови предизвикателства",
+      "headline": "Андрей Гюров: Нито едно правителство не допусна обедняване на народа за 5 години – това го направи за 6 месеца",
       "summary": "Андрей Гюров обвинява правителството, че е обеднявало народа за 6 месеца вместо за 5 години. Търговските вериги поискаха спешна среща с президента Радев.",
       "sources": ["Boulevard Bulgaria", "Свободна точка"],
       "ids": [28, 48],
       "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
-    },
-    {
-      "category": "Икономика",
-      "headline": "Anthropic отчита раст на приходите с 45% до близо 17 млрд. долара",
-      "summary": "Компанията за изкуствен интелект Anthropic обявява че приходите ѝ за третия квартал са достигнали 16.8 млрд. долара, според Financial Times. Anthropic също планира да добави информация за гласуване в Claude преди изборите в САЩ.",
-      "sources": ["Reuters"],
-      "ids": [2, 3, 6],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
     }
   ]
 }
