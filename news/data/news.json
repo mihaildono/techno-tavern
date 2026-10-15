@@ -1,6 +1,270 @@
 {
   "items": [
     {
+      "title": "Масови студентски протести в Албания прерастнаха в насилие, искат оставката на Рама",
+      "link": "https://www.mediapool.bg/svyat/masovi-studentski-protesti-v-albaniya-prerastnaha-v-nasilie-iskat-ostavkata-na-rama/",
+      "pubDate": "2026-10-15T10:20:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "School roof collapse in Pakistan&apos;s Peshawar kills dozens of students and one teacher",
+      "link": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-15T10:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Кой е Рейско и защо може да е полезен за всички",
+      "link": "https://offnews.bg/obshtestvo/koj-e-rejsko-i-zashto-mozhe-da-e-polezen-za-vsichki-876530.html",
+      "pubDate": "2026-10-15T10:18:30.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/15/876530/phpfplo8s_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 8020
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Това не се е случвало от хиляда години: Калифорния е на крачка от унищожително земетресение",
+      "link": "https://www.actualno.com/climate/tova-ne-se-e-sluchvalo-ot-hiljada-godini-kalifornija-e-na-krachka-ot-unishtojitelno-zemetresenie-news_2650628.html",
+      "pubDate": "2026-10-15T10:18:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/15/0aa669f86ba06888301d903b4a8fa75f_2650628_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Парламентът одобри поредна военна сделка за над милиард",
+      "link": "https://www.mediapool.bg/bulgaria/parlamentat-odobri-poredna-voenna-sdelka-za-nad-miliard/",
+      "pubDate": "2026-10-15T10:17:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Nightwish обявиха раздяла с вокалистката си Флор Янсен",
+      "link": "https://www.actualno.com/music/nightwish-objaviha-razdjala-s-vokalistkata-si-flor-jansen-news_2650627.html",
+      "pubDate": "2026-10-15T10:17:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/15/8ca68a7a5eb6cb34fe0e901160c86d0c_2650627_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Germany news: Train station alcohol ban comes into force",
+      "link": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-15T10:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Номинация на ДПС за ВСС. Магдалена Лазарова ще е новата временна главна прокурорка през следващите 6 месеца",
+      "link": "https://svobodnatochka.bg/novini/magdalena-lazarova-shte-e-novata-vremenna-glavna-prokurorka-prez-sledvashtite-6-mesetsa/",
+      "pubDate": "2026-10-15T10:10:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "\"От нас стига толкова\". Въпреки заплахите на Тръмп Украйна поднови ударите по руски рафинерии",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/ot-nas-stiga-tolkova-vapreki-zaplahite-na-tramp-ukraina-podnovi-udarite-po-ruski-rafinerii/",
+      "pubDate": "2026-10-15T10:08:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Под сянката от \"Осемте джуджета\" и ареста на Явор Златанов: ВСС избра нов и.ф. главен прокурор",
+      "link": "https://www.actualno.com/crime/pod-sjankata-ot-osemte-djudjeta-i-aresta-na-javor-zlatanov-vss-izbra-nov-if-glaven-prokuror-news_2650618.html",
+      "pubDate": "2026-10-15T10:08:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/15/b3ceb75bce91f6beef4496a19323d345_2650618_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "ERASERHEAD - Xiu Xiu - за пръв път в България",
+      "link": "https://www.actualno.com/music/eraserhead-xiu-xiu-za-pryv-pyt-v-bylgarija-news_2650572.html",
+      "pubDate": "2026-10-15T10:04:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/15/8aa5dde19e0eca7313d195b308198cb2_2650572_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Страшно добри Halloween оферти в Kaufland до 1 ноември",
+      "link": "https://www.actualno.com/society/strashno-dobri-halloween-oferti-v-kaufland-do-1-noemvri-news_2650624.html",
+      "pubDate": "2026-10-15T10:03:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/15/ece4f7bb1a59061b3907958ac3b96a5c_2650624_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Радев все още няма отговор откъде са атаките, но е категоричен, че \"рискът идва от войната на Русия\"",
+      "link": "https://www.mediapool.bg/bulgaria/radev-vse-oshte-nyama-otgovor-otkade-sa-atakite-no-e-kategorichen-che-riskat-idva-ot-voinata-na-rusiya/",
+      "pubDate": "2026-10-15T09:59:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Albania's Rama says he will not resign over protests - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c?oc=5",
+      "pubDate": "2026-10-15T09:55:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Собственици на земеделска земя в област София не са потърсили над 3 млн. лв. рента за 2 г.",
+      "link": "https://offnews.bg/ikonomika/sobstvenitci-na-zemedelska-zemia-v-oblast-sofia-ne-sa-potarsili-nad-3-876528.html",
+      "pubDate": "2026-10-15T09:55:12.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/15/876528/phpa3sbuc_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7912
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Brazil&apos;s elections matter for the planet. This is why",
+      "link": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-15T09:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Глътка въздух за мотори и каравани: Парламентът прие краткосрочна гражданска отговорност",
+      "link": "https://frognews.bg/novini/glatka-vazduh-motori-karavani-parlamentat-prie-kratkosrochna-grajdanska-otgovornost.html",
+      "pubDate": "2026-10-15T09:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c2d109627_1792058061_6ad0a2cd3c9d1.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Украйна възобновява ударите по руски петролни рафинерии",
+      "link": "https://boulevardbulgaria.bg/articles/ukrayna-vazobnovyava-udarite-po-ruski-petrolni-rafinerii",
+      "pubDate": "2026-10-15T09:49:30.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxMDQsInB1ciI6ImJsb2JfaWQifX0=--4327663dea1e7c376e8b029656a7f69ca73c377f/Зеленски.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "India news: Supreme Court hears Rahul Gandhi&apos;s Election Commission plea",
+      "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-15T09:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "„За повишаване на покупателната способност“. Кабинетът предлага минимална заплата от 660 евро",
+      "link": "https://svobodnatochka.bg/istorii/kabinetat-predlaga-minimalna-zaplata-ot-660-evro-ot-2027-g/",
+      "pubDate": "2026-10-15T09:40:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Магдалена Лазарова ще е следващият и.ф. главен прокурор",
+      "link": "https://www.mediapool.bg/bulgaria/magdalena-lazarova-shte-e-sledvashtiyat-if-glaven-prokuror/",
+      "pubDate": "2026-10-15T09:38:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "България е солидарна с Румъния след пожарите на танкери в румънски води",
+      "link": "https://frognews.bg/novini/balgariia-solidarna-rumaniia-sled-pojarite-tankeri-rumanski-vodi.html",
+      "pubDate": "2026-10-15T09:36:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c1c54c5dd_1792057334_6ad09ff6c2e58.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Радев поиска намеса на ЕС за „Лукойл“, но не уточни какви действия очаква",
+      "link": "https://frognews.bg/novini/radev-poiska-namesa-lukoil-utochni-kakvi-deistviia-ochakva.html",
+      "pubDate": "2026-10-15T09:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d15df4bdc_lukoil-carlyle-bgnes.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
       "title": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
       "pubDate": "2026-10-15T09:34:57.000Z",
@@ -8,6 +272,106 @@
       "source": {
         "name": "Reuters",
         "color": "#4169E1"
+      }
+    },
+    {
+      "title": "Парламентът одобри закупуване на системи за ПВО",
+      "link": "https://offnews.bg/politika/parlamentat-odobri-zakupuvane-na-sistemi-za-pvo-876526.html",
+      "pubDate": "2026-10-15T09:20:59.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/15/876526/phppqoco3_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7424
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Кметът Терзиев ще чисти езерата в Южния парк в събота",
+      "link": "https://offnews.bg/obshtestvo/kmetat-terziev-shte-chisti-ezerata-v-iuzhnia-park-v-sabota-876529.html",
+      "pubDate": "2026-10-15T09:19:43.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/15/876529/phpffsne5_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 7053
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Магдалена Лазарова ще е и.ф. главен прокурор за 6 месеца",
+      "link": "https://offnews.bg/temida/magdalena-lazarova-shte-e-i-f-glaven-prokuror-za-6-mesetca-876525.html",
+      "pubDate": "2026-10-15T09:18:14.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/15/876525/phpoyby7y_152x158.jpg",
+        "type": "image/jpeg",
+        "length": 4712
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Купуваме още 5 германски ПВО системи – парламентът одобри сделката",
+      "link": "https://frognews.bg/novini/kupuvame-oshte-5-germanski-pvo-sistemi--parlamentat-odobri-sdelkata.html",
+      "pubDate": "2026-10-15T09:15:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7a8e70443_1792055684_6ad09984de69c.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "The cost of getting a job today",
+      "link": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "pubDate": "2026-10-15T09:13:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "Корабът „Челси 3“ ще бъде буксиран до Бургас за оглед за следи от дронове",
+      "link": "https://frognews.bg/novini/korabat-chelsi-3-shte-bade-buksiran-burgas-ogled-sledi-dronove.html",
+      "pubDate": "2026-10-15T09:03:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/221680d1e_1792055010_6ad096e232f31.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "След спорна процедура ВСС избра Магдалена Лазарова за и.ф. главен прокурор",
+      "link": "https://boulevardbulgaria.bg/articles/sled-sporna-protsedura-vss-izbra-magdalena-lazarova-za-i-f-glaven-prokuror",
+      "pubDate": "2026-10-15T08:58:24.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1NjI2LCJwdXIiOiJibG9iX2lkIn19--b310a247383a309fd8eff4b9c3695f4ac5caef82/Магдалена Лазарова.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "България и Румъния искат щаб на НАТО в Черно море. Предлагат мораториум за атаките срещу цивилни кораби",
+      "link": "https://svobodnatochka.bg/novini/balgariya-i-rumaniya-iskat-shtab-na-nato-v-cherno-more-predlagat-moratorium-za-atakite-sreshtu-tsivilni-korabi/",
+      "pubDate": "2026-10-15T08:55:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
       }
     },
     {
@@ -21,6 +385,16 @@
       }
     },
     {
+      "title": "Украйна възобновява ударите по руски рафинерии и обвинява САЩ, че отслабват отбраната ѝ",
+      "link": "https://svobodnatochka.bg/novini/ukrayna-vazobnovyava-udarite-po-ruski-rafinerii-i-obvini-sasht-che-otslabvat-otbranata-%D1%9D/",
+      "pubDate": "2026-10-15T08:45:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
       "title": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
       "link": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-15T08:45:00.000Z",
@@ -28,6 +402,18 @@
       "source": {
         "name": "DW",
         "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Йотова иска да е &quot;президент на мира&quot; и ще брани честванията на 150 години от руско-турската война",
+      "link": "https://boulevardbulgaria.bg/articles/iliyana-yotova-iska-da-e-prezident-na-mira-i-shte-brani-chestvaniyata-na-150-godini-ot-rusko-turskata-voyna",
+      "pubDate": "2026-10-15T08:43:13.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1OTY1LCJwdXIiOiJibG9iX2lkIn19--8078757851cc8e2c13ccbe409c70675776b07728/IK-Yotova-Valchev-2026-10-15-1-burgas-dvamata-01.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
       }
     },
     {
@@ -41,43 +427,27 @@
       }
     },
     {
-      "title": "Manchester City, the UAE and the UK&apos;s OM in a political tangle",
-      "link": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-15T08:13:00.000Z",
-      "thumbnail": null,
+      "title": "Радев за пръв път назова „войната на Русия срещу Украйна“ като източник на ескалацията и риска в Черно море",
+      "link": "https://boulevardbulgaria.bg/articles/radev-za-prav-pat-nazova-voynata-na-rusiya-sreshtu-ukrayna-kato-iztochnik-na-eskalatsiyata-i-riska-v-cherno-more",
+      "pubDate": "2026-10-15T07:52:42.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE0NDMsInB1ciI6ImJsb2JfaWQifX0=--e1f1ec1cd31cc515c4d2da4a61c5a5ffbd91db64/радев.jpg"
+      },
       "source": {
-        "name": "DW",
-        "color": "#C8102E"
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
       }
     },
     {
-      "title": "North Korea, China open border bridge after 12-year delay",
-      "link": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-15T08:12:00.000Z",
-      "thumbnail": null,
+      "title": "Обвиниха управителя и главната сестра на белодробната болница в Благоевград за източване на НЗОК",
+      "link": "https://boulevardbulgaria.bg/articles/obviniha-upravitelya-i-glavnata-sestra-na-belodrobnata-bolnitsa-v-blagoevgrad-za-iztochvane-na-nzok",
+      "pubDate": "2026-10-15T07:17:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1OTUyLCJwdXIiOiJibG9iX2lkIn19--0558fbfe352e2ee31d4dc425098ed88154a29958/Белодробна болница - Благоевград.jpg"
+      },
       "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "School roof collapse in Pakistan&apos;s Peshawar kills at least 27 students, one teacher",
-      "link": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-27-students-one-teacher/a-79666091?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-15T07:47:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "India news: Supreme Court hears Rahul Gandhi&apos;s Election Commission plea",
-      "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-15T07:20:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
       }
     },
     {
@@ -101,13 +471,33 @@
       }
     },
     {
-      "title": "Pakistan school roof collapse kills 28; more deaths feared - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei15OEJPSlpiaEF6a1V6MzN5dWFvNmQzZnFaZUVIbEpWREFXSG5kQzlpTDVyS3lST1g3Tk9XdXFzbTd2UEV5THZMcWdBSUw3LWpWX25mcW95Ui0tYk01RWxNNl85a01TRUdVUnpxV3g5WlA1MEU1eGZ1bGQ1eUl1WnRUaGhyRDd1UC1DcWhOcjQxcGMwZHhGb2hzTGpuQ3dmcTNkcGhmZkdxQlplQndkYm5hdGVEalFEMkFYSkJNYw?oc=5",
-      "pubDate": "2026-10-15T06:10:00.000Z",
+      "title": "Коя диплома за висше образование носи най-добри пари в България",
+      "link": "https://svobodnatochka.bg/video/koia-diploma-nosi-naj-dobri-pari/",
+      "pubDate": "2026-10-15T06:42:26.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "Tiny Little Office",
+      "link": "https://tinylittleoffice.com/",
+      "pubDate": "2026-10-14T22:10:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      }
+    },
+    {
+      "title": "OpenCode 2.0",
+      "link": "https://anoma.ly/notes/opencode-2-0/",
+      "pubDate": "2026-10-14T20:48:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -121,88 +511,13 @@
       }
     },
     {
-      "title": "Шарл Льоклер бил на крачка от преминаване в конкурент на Ферари преди 3 години",
-      "link": "https://www.actualno.com/moresport/sharl-liokler-bil-na-krachka-ot-preminavane-v-konkurent-na-ferari-predi-3-godini-news_2650379.html",
-      "pubDate": "2026-10-14T16:08:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/14/d186ca17f598921969178ddb03a82d20_2650379_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Радан Кънев: Европа се нуждае от собствено производство на метали за енергийната си независимост",
-      "link": "https://www.actualno.com/economy/radan-kynev-evropa-se-nujdae-ot-sobstveno-proizvodstvo-na-metali-za-energijnata-si-nezavisimost-news_2650378.html",
-      "pubDate": "2026-10-14T16:04:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/14/a8e8b5c052751456efcd0ed220170646_2650378_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Водата на Луната се държи различно от тази на Земята: Защо това откритие е важно за НАСА?",
-      "link": "https://www.actualno.com/cosmos/vodata-na-lunata-se-dyrji-razlichno-ot-tazi-na-zemjata-zashto-tova-otkritie-e-vajno-za-nasa-news_2650323.html",
-      "pubDate": "2026-10-14T15:59:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/14/212f266dc0e768e60f0ad84b9c5ecd7f_2650323_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "CASAVINO Taste България 2026 - Истории в бъдеще време",
-      "link": "https://www.actualno.com/citytrend/casavino-taste-bylgarija-2026-istorii-v-bydeshte-vreme-news_2650368.html",
-      "pubDate": "2026-10-14T15:49:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/14/5e00e1e21f72c6ab13d28af51a39d43b_2650368_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Лошото време прекрати операцията по спасяване на моряци от кораба \"HS Dignity\"",
-      "link": "https://www.mediapool.bg/bulgaria/loshoto-vreme-prekrati-operatsiyata-po-spasyavane-na-moryatsi-ot-koraba-hs-dignity/",
-      "pubDate": "2026-10-14T15:44:49.000Z",
+      "title": "Things to know when you get cancer",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "pubDate": "2026-10-14T19:26:30.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "\"Поради изключително качество\". Седем поетични книги ще спорят за наградата \"Перото\"",
-      "link": "https://www.mediapool.bg/kultura/poradi-izklyuchitelno-kachestvo-sedem-poetichni-knigi-shte-sporyat-za-nagradata-peroto/",
-      "pubDate": "2026-10-14T15:44:33.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Наказание грози звездата на Манчестър Юнайтед след публичната му критика към ръководството",
-      "link": "https://www.actualno.com/football/nakazanie-grozi-zvezdata-na-manchestyr-unajted-sled-publichnata-mu-kritika-kym-rykovodstvoto-news_2650366.html",
-      "pubDate": "2026-10-14T15:39:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/14/fe0a011217fda436e84b4f8ae7ccf41b_2650366_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -216,56 +531,6 @@
       }
     },
     {
-      "title": "Горски уловиха и преместиха мечка от село Гьоврен",
-      "link": "https://www.mediapool.bg/bulgaria/gorski-uloviha-i-premestiha-mechka-ot-selo-gyovren/",
-      "pubDate": "2026-10-14T15:20:17.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Passkeys Are Not a Trap",
-      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "pubDate": "2026-10-14T15:15:45.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Инфлуенсърът Стоян Колев бе върнат в България",
-      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/",
-      "pubDate": "2026-10-14T15:06:46.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "pubDate": "2026-10-14T14:55:19.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "pubDate": "2026-10-14T14:38:55.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Хърватия иска от Черна гора да преименува басейн и още 7 стъпки, преди да влезе в ЕС - Dnevnik.bg",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVlSTGg1Qmd5TUJrUUlKLW5naUxJeUhZc2UwZElMLUFjMzNFcVlqUUpnU1BCb0RvMkxxUXA2Yjl4WmN6TGE1RXhEOC1LVkdDYmFJT0FfOGRHOU1yOVJiMEpfalZFd25oeWxGak9LbngtRTgxZFktTVI4eldHS3Jzb0R3TW1XVGxLaThkc2hJS2tIQ0lyRE53UWNBcGhaU2xXdlBv?oc=5",
       "pubDate": "2026-10-14T14:33:00.000Z",
@@ -273,38 +538,6 @@
       "source": {
         "name": "Dnevnik",
         "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Стратези вместо инспектори и нова дирекция за киното при преструктурирането на Министерството на културата",
-      "link": "https://www.mediapool.bg/kultura/stratezi-vmesto-inspektori-i-nova-direktsiya-za-kinoto-pri-prestrukturiraneto-na-ministerstvoto-na-kulturata/",
-      "pubDate": "2026-10-14T14:32:59.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Плащания, таксита, имейли. Какво не работи в Русия след ударите на Украйна по центрове за данни на „Яндекс“",
-      "link": "https://svobodnatochka.bg/istorii/kak-ukraina-udari-po-yandeks-i-zasegna-milioni-rusnatsi/",
-      "pubDate": "2026-10-14T14:12:21.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Андрей Гюров: Нито едно правителство не допусна обедняване на народа за 5 години. Това го направи за 6 месеца",
-      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa",
-      "pubDate": "2026-10-14T13:35:11.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1NDk0LCJwdXIiOiJibG9iX2lkIn19--2a7c9eb236100b2e0f5d122cff2759669cc7c1d8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxMDAsNzVdLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--edbbb16d3b72018e4dc398d7ef45a872cca39d82/Guyrov-Dendias%20(1).jpeg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
       }
     },
     {
@@ -316,222 +549,7 @@
         "name": "Dnevnik",
         "color": "#2196F3"
       }
-    },
-    {
-      "title": "Одит разкри нарушения в белодробната болница в Благоевград",
-      "link": "https://boulevardbulgaria.bg/articles/odit-razkri-narusheniya-v-belodrobnata-bolnitsa-v-blagoevgrad",
-      "pubDate": "2026-10-14T13:20:08.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MjgxLCJwdXIiOiJibG9iX2lkIn19--a200e8554cc2d8fa119a2582dd2a94fffa9b710c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxMDAsNzVdLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--edbbb16d3b72018e4dc398d7ef45a872cca39d82/%D0%9C%D0%B0%D1%80%D0%B8%D0%B5%D0%BB%D0%B0%20%D0%93%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0-%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Сакскобургготски получи подарък от сина на Митрофанова - скулптура на цар Борис III",
-      "link": "https://boulevardbulgaria.bg/articles/sakskoburggotski-poluchi-podarak-ot-sina-na-mitrofanova-skulptura-na-tsar-boris-iii",
-      "pubDate": "2026-10-14T13:14:06.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1MjEyLCJwdXIiOiJibG9iX2lkIn19--a1ac0bf49d74dd8ff517b967b41f1f7b1c95062b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxMDAsNzVdLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--edbbb16d3b72018e4dc398d7ef45a872cca39d82/%D0%9A%D0%BE%D0%BB%D0%B0%D0%B6%20%D0%99%D0%BE%D1%82%D0%BE%D0%B2%D0%B0.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Акция на ГДБОП в Костинброд заради съмнения за източване на ВиК поръчки",
-      "link": "https://frognews.bg/novini/aktsiia-gdbop-kostinbrod-zaradi-samneniia-iztochvane-vik-porachki.html",
-      "pubDate": "2026-10-14T13:05:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/0bfaa2e41_gdbop_bgnes.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "Колони с военна техника ще се придвижват по пътищата в страната през следващите дни",
-      "link": "https://boulevardbulgaria.bg/articles/koloni-s-voenna-tehnika-shte-se-pridvizhvat-po-patishtata-v-stranata-prez-sledvashtite-dni",
-      "pubDate": "2026-10-14T13:03:11.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk4MjAsInB1ciI6ImJsb2JfaWQifX0=--604521518a9b6d54ec9364dcff24c5902f82db7d/Военна_Техника.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
-      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html",
-      "pubDate": "2026-10-14T13:00:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/e1ae6960a_1791981422_6acf776e21d22.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "„Учи ме на свобода“. Девора Аврамова, която обича да тича и е най-бързата българка на 20 км за всички времена",
-      "link": "https://svobodnatochka.bg/chovek-na-denya/uchi-me-na-svoboda-devora-avramova-koyato-obicha-da-ticha-i-e-nay-barzata-balgarka-na-20-km-za-vsichki-vremena/",
-      "pubDate": "2026-10-14T12:59:44.000Z",
-      "thumbnail": {
-        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/10/IMG-a9c3af9438ba7cf62094c62608dda646-V-1.jpg"
-      },
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "AI срещу фалшивите ТЕЛК решения, полицаите – с дефибрилатори. Промените минаха на първо четене",
-      "link": "https://frognews.bg/novini/sreshtu-falshivite-telk-resheniia-politsaite--defibrilatori-promenite-minaha-parvo-chetene.html",
-      "pubDate": "2026-10-14T12:45:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/23e96b369_ns-glasuvane.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "Скопие поиска Ива Михайлова да бъде издирена и екстрадирана, МВР: Няма червен бюлетин",
-      "link": "https://frognews.bg/novini/skopie-poiska-iva-mihailova-bade-izdirena-ekstradirana-mvr-niama-cherven-biuletin.html",
-      "pubDate": "2026-10-14T12:45:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/cc6afbe58_1791982894_6acf7d2eb045b.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "След атаките в Черно море. България намери 220 000 евро, за да се включи в проекта на НАТО за защита от дронове",
-      "link": "https://svobodnatochka.bg/novini/balgariya-nameri-220-000-evro-za-da-se-vklyuchi-v-proekta-na-nato-za-antidronzashtitata/",
-      "pubDate": "2026-10-14T12:41:30.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Властта провали и втори опит за осветяване на скандала с Петричкия Ескобар",
-      "link": "https://boulevardbulgaria.bg/articles/vlastta-provali-i-vtori-opit-za-osvetyavane-na-skandala-s-petrichkiya-eskobar",
-      "pubDate": "2026-10-14T12:40:47.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIyOTgsInB1ciI6ImJsb2JfaWQifX0=--717ab3e3e617f6dc5b22683b116ea9bad5496f44/Парламент_липса_на_кворум.png"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Опасност за шофьорите: Над 50 сигнала за повреден мост на Околовръстното в София",
-      "link": "https://frognews.bg/novini/opasnost-shofyorite-nad-50-signala-povreden-most-okolovrastnoto-sofiya.html",
-      "pubDate": "2026-10-14T12:35:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/db87b0019_1791981140_6acf76542a580.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "ВСУ тресна и суперкомпютъра на Сбербанк, основният руски конкурент на Яндекс за AI",
-      "link": "https://offnews.bg/sviat/vsu-tresna-i-superkompiutara-na-sberbank-osnovniat-ruski-konkurent-na-876454.html",
-      "pubDate": "2026-10-14T12:17:27.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/14/876454/phppochfq_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6296
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Българска студентка спечели престижна стипендия за компютърни науки в Европа",
-      "link": "https://offnews.bg/obshtestvo/balgarska-studentka-specheli-prestizhna-stipendia-za-kompiutarni-nauki-876455.html",
-      "pubDate": "2026-10-14T12:12:32.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/14/876455/phpulo6ts_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 6734
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Франция поиска мораториум на атаките в Черно море, Гърция изрази пълна солидарност с България",
-      "link": "https://offnews.bg/sviat/frantcia-poiska-moratorium-na-atakite-v-cherno-more-gartcia-izrazi-pa-876448.html",
-      "pubDate": "2026-10-14T12:09:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/14/876448/phporeqpi_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 7352
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Затвориха училищата в Сливен заради силния вятър",
-      "link": "https://offnews.bg/obshtestvo/zatvoriha-uchilishtata-v-sliven-zaradi-silnia-viatar-876451.html",
-      "pubDate": "2026-10-14T12:03:38.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/14/876451/phpwr8m9c_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 9170
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "От смешните клипчета в социалните мрежи до пилотската кабина на F-16: Боряна Йовчева с премиера в Театър 199",
-      "link": "https://offnews.bg/kultura/ot-smeshnite-klipcheta-v-sotcialnite-mrezhi-do-pilotskata-kabina-na-f-876443.html",
-      "pubDate": "2026-10-14T12:02:08.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/14/876443/php0uiq62_559x345.jpg",
-        "type": "image/jpeg",
-        "length": 5488
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "link": "https://github.com/timescale/pg_vectorsearch",
-      "pubDate": "2026-10-14T11:47:53.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-10-15T09:45:46.328Z"
+  "lastUpdated": "2026-10-15T10:22:34.824Z"
 }
