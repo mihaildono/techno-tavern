@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-16T09:56:54.266Z",
-  "overview": "Водещата тема за деня е международната напрежение около Украйна — Тръмп обвинява Зеленски за удари по руски рафинерии, а Европа се обединява около киевския лидер. В България се отчитат смъртта на мъж в метрото в София, масови протести за по-високи заплати и одобрението на удължаване на дерогацията за „Лукойл“.",
+  "updatedAt": "2026-10-16T13:45:00.000Z",
+  "overview": "Ключови политически събития в световен мащаб, включително италианския кризис, евентуален пазарен проблем и протести в Аржентина и България, доминират дневния ряд.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп обвинява Зеленски: Украинските удари по руски рафинерии са „позор“",
-      "summary": "САЩ и Европа се разколебават около подкрепата за Украйна, след като Тръмп обвинява Зеленски за удари по руски рафинерии и ги нарича „позор“. Европейските лидери се обединяват около Зеленски, а президентът Радев подкрепя сделката между Тръмп и Путин за руския дизел като стъпка, която гарантира намаляване на цените на горивата. В Новоросийск пристига разбит танкер, ударен от Украйна.",
-      "sources": ["Reuters", "Mediapool", "Boulevard Bulgaria", "Свободна точка", "Actualno", "DW"],
-      "ids": [7, 24, 33, 43, 17, 22, 4],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaQmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
-    },
-    {
-      "category": "Общество",
-      "headline": "Три деца и учител убити при стрелба в начално училище в Орегон, САЩ",
-      "summary": "16-годишно момче е застреляло три деца и един учител в начално училище в Орегон, САЩ. Инцидентът предизвиква национална дискусия за контрола на оръжието и сигурността в училищата.",
-      "sources": ["Mediapool", "Boulevard Bulgaria"],
-      "ids": [27, 34],
-      "link": "https://www.mediapool.bg/svyat/tri-detsa-i-uchitel-byaha-ubiti-pri-strelba-v-oregon/"
-    },
-    {
-      "category": "Общество",
-      "headline": "Смърт на 83-годишен мъж в метрото в София — няма задържани",
-      "summary": "Мъртвъв е открит 83-годишен мъж на метростанция „Жолио Кюри“ в София след побой, довел до смъртта му. Няма задържани за инцидента, който предизвиква безпокойство за сигурността в обществения транспорт.",
-      "sources": ["OffNews", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [23, 26, 29],
-      "link": "https://offnews.bg/112/vse-oshte-niama-zadarzhan-za-tezhkia-poboj-v-metroto-876579.html"
-    },
-    {
-      "category": "Общество",
-      "headline": "Протести в София и цялата страна за по-високи доходи и заплати",
-      "summary": "Над 700 коли са участвали в автошествие в София, а КНСБ организира национален протест „За по-високи доходи!“. Протестите са насочени към ниските заплати и лошите условия на труд в страната.",
-      "sources": ["FrogNews", "Actualno"],
-      "ids": [20, 21],
-      "link": "https://frognews.bg/novini/protest-sofiya-visoki-zaplati-nad-700-koli-avtoshestvie.html"
+      "category": "Политика",
+      "headline": "EU лидери подкрепят Зеленски, докато Тръмп осъжда украинските удари по Русия като \"позор\"",
+      "summary": "Европейските лидери обединиха усилия в подкрепа на украинския президент Зеленски, докато бившият американски президент Тръмп нарече украинските военни удари по Русия \"позор\" в Brussels.",
+      "sources": ["Reuters"],
+      "ids": [9],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
     },
     {
       "category": "Икономика",
-      "headline": "България получи шестмесечно удължаване на дерогацията за „Лукойл“",
-      "summary": "Европейската комисия е одобрила шестмесечно удължаване на дерогацията за българските дружества на „Лукойл“, което позволява продължаването на вноса на руски нефт при специални условия.",
-      "sources": ["OffNews"],
-      "ids": [32],
-      "link": "https://offnews.bg/ikonomika/balgaria-poluchi-shestmesechno-udalzhavane-na-derogatciata-za-balgarsk-876577.html"
+      "headline": "Италианския въздушен трафик е нарушен поради техническа повреда",
+      "summary": "Въздушни транспортни услуги в Италия са нарушени след техническа повреда, въздействаваща на полетите в цялата страна.",
+      "sources": ["Reuters"],
+      "ids": [10],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2ZBSmFBTmI3c3pYWTF2Z1NvTF9zVUZodUdvNTh2MGxlUWxCUGtQN2pBYnlhLTNnNzhWTGc3S1BYQWVnX2paSTZ5Y0Vwd3FzaGVVckZfeU1PR1RqSm9hZUNQU0ZuSUhrYTAwRjZlMndCM3hNeV9Qb0FCRHhUMWNrR1lrRXRkYUJRWUc1YzFaa1NiaENwNHliY3JxSGJ0QzR2clBqSGhhODNGYmZKYUVn?oc=5"
+    },
+    {
+      "category": "Политика",
+      "headline": "Тръмп заявява, че работата с Зеленски е по-трудна от тази с Путин",
+      "summary": "Бившият американски президент Тръмп заявява, че работата с украинския президент Зеленски е по-трудна, отколкото с руския президент Путин, в нови политически изявления.",
+      "sources": ["Boulevard Bulgaria"],
+      "ids": [35],
+      "link": "https://boulevardbulgaria.bg/articles/tramp-napadna-zelenski-s-nego-se-raboti-po-trudno-otkolkoto-s-putin"
+    },
+    {
+      "category": "Общество",
+      "headline": "Сблъсъци при протестите на студентите в Аржентина срещу аустеритетната политика на Милеи",
+      "summary": "Студенти в Аржентина организираха протести срещу аустеритетните политики на президента Хавиер Милеи, които прераснаха в сблъсъци с полицията.",
+      "sources": ["DW"],
+      "ids": [2],
+      "link": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Протести в София за по-високи заплати, причинили трафикен хаос с над 700 коли в автошествие",
+      "summary": "Протести в столицата за по-високи заплати според данните на полицията се превърнаха в огромен трафикен хаос, причинили автошествие с над 700 коли. Обсъжда се заплахата от хаосна обстановка.",
+      "sources": ["FrogNews"],
+      "ids": [22],
+      "link": "https://frognews.bg/novini/protest-sofiya-visoki-zaplati-nad-700-koli-avtoshestvie.html"
     }
   ]
 }
