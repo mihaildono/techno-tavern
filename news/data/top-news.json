@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-16T11:38:05.829Z",
+  "updatedAt": "2026-10-16T11:57:20.543Z",
   "overview": "Денят е отбелязан с дипломатическо напрежение между Тръмп и Зеленски и международни инциденти — смърт в метрото в София, стрелба в училище в Орегон и ограничение на въздушното движение в Италия. В София протестират за по-високи заплати.",
   "stories": [
     {
       "category": "Свят",
       "headline": "Тръмп обвинява Зеленски за удари по руски рафинерии, Европа го подкрепя",
-      "summary": "Американският президент Тръмп нарече украинските удари по руски рафинерии „позор“ и обяви, че с него се работи по-Labour, отколкото с Путин. Европейските лидери се обединяват около Зеленски, а българският президент Радев подкрепя сделката между Тръмп и Путин за руския дизел.",
-      "sources": ["Reuters", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [2, 27, 36, 46],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
+      "summary": "Американският президент Тръмп нарече украинските удари по руски рафинерии „позор“ и обяви, че с него се работи по- Labour, отколкото с Путин. Европейските лидери се обединяват около Зеленски, а българският президент Радев подкрепя сделката между Тръмп и Путин за руския дизел.",
+      "sources": ["DW", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [5, 21, 30, 40],
+      "link": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
       "headline": "83-годишен мъж е намерен мъртв в метрото в София, няма задържани",
       "summary": "В метростанция „Жолио Кюри“ в София е открито тяло на 83-годишен мъж, починал след побой. Полицията все още няма задържани за смъртта.",
-      "sources": ["OffNews", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [26, 29, 32],
+      "sources": ["OffNews", "FrogNews", "Boulevard Bulgaria", "Dnevnik"],
+      "ids": [20, 23, 26, 41],
       "link": "https://offnews.bg/112/vse-oshte-niama-zadarzhan-za-tezhkia-poboj-v-metroto-876579.html"
     },
     {
@@ -23,24 +23,24 @@
       "headline": "16-годишно момче уби три деца и учител в начално училище в Орегон",
       "summary": "В щата Орегон САШ се е извършила стрелба в начално училище, при която 16-годишно момче е убило три деца и един учител.",
       "sources": ["Mediapool", "Boulevard Bulgaria"],
-      "ids": [30, 38],
+      "ids": [24, 32],
       "link": "https://www.mediapool.bg/svyat/tri-detsa-i-uchitel-byaha-ubiti-pri-strelba-v-oregon/"
-    },
-    {
-      "category": "Свят",
-      "headline": "Италия ограничава въздушното движение наполовина поради техническа неизправност",
-      "summary": "Италия е ограничила въздушното движение наполовина поради проблем със задаването на данни. Шенгенската зона също е засегната — Испания удължава съседната си с Италия с още една седмица.",
-      "sources": ["DW", "Reuters"],
-      "ids": [5, 13],
-      "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
       "headline": "Протест в София за по-високи заплати, над 700 коли в автошествие",
       "summary": "КНСБ организира национален протест „За по-високи доходи!“ с над 700 коли в автошествие в София, изискващо повишаване на заплатите и подобряване на жизнените условия.",
       "sources": ["FrogNews", "Actualno"],
-      "ids": [23, 24],
+      "ids": [17, 18],
       "link": "https://frognews.bg/novini/protest-sofiya-visoki-zaplati-nad-700-koli-avtoshestvie.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Италия ограничава въздушното движение наполовина поради техническа неизправност",
+      "summary": "Италия е ограничила въздушното движение наполовина поради проблем със задаването на данни. Шенгенската зона също е засегната.",
+      "sources": ["DW"],
+      "ids": [4],
+      "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
