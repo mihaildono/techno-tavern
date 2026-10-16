@@ -1,72 +1,86 @@
 {
-  "updatedAt": "2026-10-16T03:55:02.795Z",
-  "overview": "Много важно новини от САЩ: ограничения на Starshield за Украйна и трагедия в орегонско училище, плюс политически новости и спорове на западноевропейски транспортни магистрали.",
+  "updatedAt": "2026-10-16T04:14:28.030Z",
+  "overview": "Кратък общ преглед на водещите събития за деня: Тръмп и Путин обявяват пакт за мирен договор за Украйна; десетки хиляди граждани изискват оставките на Радев и Йотова в България; сблъсък между микробус и влак в тунела под Ламанша предизвиква десетки жертви; Еди Рама отказва да подаде оставка въпреки протести в Албания; нефтен танкер се запали в Оманския залив с потенциално въздействие върху пазарите на енергията.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House",
-      "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
-      "sources": [
-        "Reuters",
-        "Dnevnik"
-      ],
-      "ids": [
-        6,
-        49
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5"
-    },
-    {
       "category": "Политика",
-      "headline": "Рейтингът на Тръмп на рекордно ниско ниво, проучване дава предимство на републиканците преди междинния вот",
-      "summary": "Рейтингът на Тръмп на рекордно ниско ниво според проучване, което дава предимство на републиканците преди междинния вот",
+      "headline": "Тръмп и Путин обявяват пакт за мирен договор, според който Украйна трябва да остави три града без ток и отопление, докато China изисква от Израел да спре изграждането на селища",
+      "summary": "Сходство между Тръмп и Путин обяви пакт за мирен договор, според който Украйна трябва да остави Киев, Харков и Одеса без ток и отопление. Също така Ukraine започва рязко засилване на атаките срещу руските летища, докато China изисква от Израел да спре селищната политика на Западен бряг на Иордан.",
       "sources": [
         "Reuters",
-        "Actualno"
+        "Mediapool",
+        "FrogNews",
+        "OffNews",
+        "Свободна точка"
       ],
       "ids": [
-        2,
-        10
+        4,
+        20,
+        22,
+        28,
+        44
       ],
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaHpkRHgzRnAyakp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUW1idXlSVm1fUVQtdFk1T0pYTU8tcEx2YTBiQnQ4M0ZmeDFDeGpXUUpqMEZRbC0zT0g4dkoySTlXM05fbkNRZE5RbzFZcEktTHpBYlJxcklTaXpkRHgzRnAayp4cGVIQjRITGtWZG1XZTlNdF9LcmlVRjJIaDQweHRxR0NUQS1jeUYtc0NsWWlEMTNTcEd3dUhFZjZMYnhWbU9CZVNKWS1TTjBz?oc=5"
     },
     {
       "category": "Общество",
-      "headline": "3 children, 1 adult killed in shooting at school in Oregon, US media reports",
-      "summary": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - Reuters",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        11
-      ],
-      "link": "https://www.dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Общество",
-      "headline": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
-      "summary": "Bus, train collide, injuring 19 at Channel Tunnel terminal - DW",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        14
-      ],
-      "link": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Политика",
-      "headline": "„Защото вече малко ме е срам“. Протест поиска оставките на Румен Радев и Илияна Йотова",
-      "summary": "„Защото вече малко ме е срам“. Протест поиска оставките на Румен Радев и Илияна Йотова",
+      "headline": "Десетки хиляди граждани организират протести в България, изисквайки оставките на Румен Радев и Илияна Йотова",
+      "summary": "Протести от десетки хиляди граждани в София изискват оставките на Радев и Йотова във връзка с войната в Украйна. Протестантите споделят снимки от протестите и петиция за оставка, призовавайки за промяна в политическите реше... (продължава)",
       "sources": [
         "Свободна точка",
-        "Mediapool"
+        "Mediapool",
+        "OffNews"
       ],
       "ids": [
-        33,
-        35
+        34,
+        36,
+        40
       ],
       "link": "https://svobodnatochka.bg/novini/reportazh-ot-protest/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Сблъсък между микробус и влак в тунела под Ламанша предизвиква десетки жертви, подобен инцидент в Channel Tunnel унищожава 19 души",
+      "summary": "Desetki пострадали при сблъсък между микробус и влак в тунела под Ламанша, съобщава Actualno, докато DW репортира 19 ранени в подобен инцидент в Channel Tunnel terminal. Три погибли в сблъсък между автобус и влак в Channel Tunnel, повече жертви в Пакистан.",
+      "sources": [
+        "Actualno",
+        "DW"
+      ],
+      "ids": [
+        9,
+        17
+      ],
+      "link": "https://www.actualno.com/europe/desetki-postradali-pri-sblysyk-mejdu-mikrobus-i-vlak-v-tunela-pod-lamansha-snimki-news_2650926.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Еди Рама отказва да подаде оставка въпреки протести от десетки хиляди в Албания с барикади, палежи и сълзотворен газ",
+      "summary": "Еди Рама отказва да подаде оставка въпреки протести от десетки хиляди граждани, включващи барикади, палежи и сълзотворен газ. Протестите продължават въпреки отпадането на партията за нещастие, изискващи отстъпка на премиера.",
+      "sources": [
+        "FrogNews",
+        "OffNews"
+      ],
+      "ids": [
+        21,
+        32
+      ],
+      "link": "https://frognews.bg/novini/barikadi-salzotvoren-gaz-paleji-albaniia-edi-rama-otkazva-podade-ostavka.html"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Нефтен танкер се запали в Оманския залив, САЩ удължават разрешението за сделки с Лукойл до 24 април 2027 г., цените на енергията се повишават",
+      "summary": "Петролен танкер се запали в Оманския залив, енергийните ценове се повишават. Също така САЩ удължиха разрешението за сделки с чуждестранните дружества на Лукойл до 24 април 2027 г.",
+      "sources": [
+        "Reuters",
+        "Mediapool",
+        "OffNews"
+      ],
+      "ids": [
+        5,
+        19,
+        37
+      ],
+      "link": "https://offnews.bg/sviat/petrolen-tanker-se-zapali-v-omanskia-zaliv-876570.html"
     }
   ]
 }
