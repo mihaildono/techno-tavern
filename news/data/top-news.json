@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-10-16T13:45:00.000Z",
-  "overview": "Ключови политически събития в световен мащаб, включително италианския кризис, евентуален пазарен проблем и протести в Аржентина и България, доминират дневния ряд.",
+  "updatedAt": "2026-10-16T11:38:05.829Z",
+  "overview": "Денят е отбелязан с дипломатическо напрежение между Тръмп и Зеленски и международни инциденти — смърт в метрото в София, стрелба в училище в Орегон и ограничение на въздушното движение в Италия. В София протестират за по-високи заплати.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "EU лидери подкрепят Зеленски, докато Тръмп осъжда украинските удари по Русия като \"позор\"",
-      "summary": "Европейските лидери обединиха усилия в подкрепа на украинския президент Зеленски, докато бившият американски президент Тръмп нарече украинските военни удари по Русия \"позор\" в Brussels.",
-      "sources": ["Reuters"],
-      "ids": [9],
+      "category": "Свят",
+      "headline": "Тръмп обвинява Зеленски за удари по руски рафинерии, Европа го подкрепя",
+      "summary": "Американският президент Тръмп нарече украинските удари по руски рафинерии „позор“ и обяви, че с него се работи по-Labour, отколкото с Путин. Европейските лидери се обединяват около Зеленски, а българският президент Радев подкрепя сделката между Тръмп и Путин за руския дизел.",
+      "sources": ["Reuters", "Mediapool", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [2, 27, 36, 46],
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
     },
     {
-      "category": "Икономика",
-      "headline": "Италианския въздушен трафик е нарушен поради техническа повреда",
-      "summary": "Въздушни транспортни услуги в Италия са нарушени след техническа повреда, въздействаваща на полетите в цялата страна.",
-      "sources": ["Reuters"],
-      "ids": [10],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2ZBSmFBTmI3c3pYWTF2Z1NvTF9zVUZodUdvNTh2MGxlUWxCUGtQN2pBYnlhLTNnNzhWTGc3S1BYQWVnX2paSTZ5Y0Vwd3FzaGVVckZfeU1PR1RqSm9hZUNQU0ZuSUhrYTAwRjZlMndCM3hNeV9Qb0FCRHhUMWNrR1lrRXRkYUJRWUc1YzFaa1NiaENwNHliY3JxSGJ0QzR2clBqSGhhODNGYmZKYUVn?oc=5"
+      "category": "Общество",
+      "headline": "83-годишен мъж е намерен мъртв в метрото в София, няма задържани",
+      "summary": "В метростанция „Жолио Кюри“ в София е открито тяло на 83-годишен мъж, починал след побой. Полицията все още няма задържани за смъртта.",
+      "sources": ["OffNews", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [26, 29, 32],
+      "link": "https://offnews.bg/112/vse-oshte-niama-zadarzhan-za-tezhkia-poboj-v-metroto-876579.html"
     },
     {
-      "category": "Политика",
-      "headline": "Тръмп заявява, че работата с Зеленски е по-трудна от тази с Путин",
-      "summary": "Бившият американски президент Тръмп заявява, че работата с украинския президент Зеленски е по-трудна, отколкото с руския президент Путин, в нови политически изявления.",
-      "sources": ["Boulevard Bulgaria"],
-      "ids": [35],
-      "link": "https://boulevardbulgaria.bg/articles/tramp-napadna-zelenski-s-nego-se-raboti-po-trudno-otkolkoto-s-putin"
+      "category": "Свят",
+      "headline": "16-годишно момче уби три деца и учител в начално училище в Орегон",
+      "summary": "В щата Орегон САШ се е извършила стрелба в начално училище, при която 16-годишно момче е убило три деца и един учител.",
+      "sources": ["Mediapool", "Boulevard Bulgaria"],
+      "ids": [30, 38],
+      "link": "https://www.mediapool.bg/svyat/tri-detsa-i-uchitel-byaha-ubiti-pri-strelba-v-oregon/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Италия ограничава въздушното движение наполовина поради техническа неизправност",
+      "summary": "Италия е ограничила въздушното движение наполовина поради проблем със задаването на данни. Шенгенската зона също е засегната — Испания удължава съседната си с Италия с още една седмица.",
+      "sources": ["DW", "Reuters"],
+      "ids": [5, 13],
+      "link": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Общество",
-      "headline": "Сблъсъци при протестите на студентите в Аржентина срещу аустеритетната политика на Милеи",
-      "summary": "Студенти в Аржентина организираха протести срещу аустеритетните политики на президента Хавиер Милеи, които прераснаха в сблъсъци с полицията.",
-      "sources": ["DW"],
-      "ids": [2],
-      "link": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Общество",
-      "headline": "Протести в София за по-високи заплати, причинили трафикен хаос с над 700 коли в автошествие",
-      "summary": "Протести в столицата за по-високи заплати според данните на полицията се превърнаха в огромен трафикен хаос, причинили автошествие с над 700 коли. Обсъжда се заплахата от хаосна обстановка.",
-      "sources": ["FrogNews"],
-      "ids": [22],
+      "headline": "Протест в София за по-високи заплати, над 700 коли в автошествие",
+      "summary": "КНСБ организира национален протест „За по-високи доходи!“ с над 700 коли в автошествие в София, изискващо повишаване на заплатите и подобряване на жизнените условия.",
+      "sources": ["FrogNews", "Actualno"],
+      "ids": [23, 24],
       "link": "https://frognews.bg/novini/protest-sofiya-visoki-zaplati-nad-700-koli-avtoshestvie.html"
     }
   ]
