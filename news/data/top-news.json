@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-16T16:15:00.123Z",
-  "overview": "Критични събития в България и по света: студентски протести в Албания, продължаващи напрежени отношения в Израелско-Палестинския конфликт, и продължаващи дебати в ЕС по отношение на Украйна, Белият дом и отношенията с Русия. Във внутриполитическата обстановка в България се наблюдават продължаващи действия на протестации, а в света продължават пазарните дейности на знаменитостите и семейния живот.",
+  "updatedAt": "2026-10-16T17:46:00.123Z",
+  "overview": "Критични събития в глобалната политика: студентски протести в Албания предизвикват политически сдръжки, европейските лидери подкрепят Украйна, докато САЩ критикуват украинските удари по Русия, и Иран продължава да изпраща петролни продукти въпреки блокадата.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Европейските лидери подкрепят Зеленски, докато Тръмп нарича украинските удари по Русия позор",
-      "summary": "Лидерите на ЕС се събраха зад Зеленски, изразявайки силна подкрепа за Украйна, докато президентът на САЩ Тръмп осъди украинските нападения на руски рафинерии като позор, нагласяйки разногласия в международните отношения.",
-      "sources": ["Reuters", "Свободна точка"],
-      "ids": [4, 33],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
+      "headline": "Студентски протести в Албания предизвикват отставката на премиера Еди Рама и политически кризис",
+      "ids": [3, 10, 23],
+      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-top-1022-rdf",
+      "sources": ["DW", "Reuters", "Свободна точка"],
+      "summary": "Хиляди студенти масово протестират в албанската столица срещу икономическите условия и правителствените политики, призовавайки за отставката на премиера Еди Рама и предизвиквайки политически сдръжки в страната."
     },
     {
       "category": "Свят",
-      "headline": "Студентски протести разтърсиха Албания, разгневени от икономическите условия",
-      "summary": "Студентски протести в Албания с охранителни съседи и полицейско насилие, разгорещени от икономически трудности и политически несъгласия, привличайки международно внимание към студентските движения.",
-      "sources": ["FrogNews", "Свободна точка"],
-      "ids": [13, 24],
-      "link": "https://frognews.bg/novini/studentski-protesti-raztarsiha-albaniia--kakvo-razgnevi-mladite-hora.html"
+      "headline": "Европейските лидери подкрепят Зеленски, докато Тръмп нареча украинските удари по Русия позор",
+      "ids": [11, 39],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5",
+      "sources": ["Reuters", "Свободна точка"],
+      "summary": "Лидерите на ЕС се събраха зад Зеленски, изразявайки силна подкрепа за Украйна, докато президентът на САЩ Тръмп осъди украинските нападения на руски рафинерии като позор, нагласяйки разногласия в международните отношения."
     },
     {
-      "category": "Политика",
-      "headline": "Канадският премиер предупреди за опасност от разединение преди референдума в Албърта",
-      "summary": "Канадският премиер предвижда опасност от национално разединение в Канада преди предстоящия референдум в Албърта, наблягащ на критичен момент в канадската политика.",
-      "sources": ["OffNews"],
-      "ids": [41],
-      "link": "https://offnews.bg/sviat/kanadskiat-premier-predupredi-za-opasnost-ot-razedinenie-predi-referen-876580.html"
+      "category": "Свят",
+      "headline": "Иран изпраща LPG и реактивно гориво въпреки американската блокада, показват данни",
+      "ids": [16],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
+      "sources": ["Reuters"],
+      "summary": "По ексклузивни данни на Reuters, Иран продължава да изпраща товарове с LPG и реактивно гориво въпреки Американската блокада, показвайки упорство в политиката на противодействие."
     },
     {
       "category": "Култура",
-      "headline": "Дара е предложена за Грами в четири категории, включително Най-добър нов изпълнител",
-      "summary": "Популярният български изпълнител Дара е предложена за награда Грами в четири категории, вълнувайки българската музикална сцена с международно признание.",
+      "headline": "Популярният български изпълнител Дара е предложена за награда Грами в четири категории",
+      "ids": [26, 37],
+      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html",
       "sources": ["FrogNews", "Boulevard Bulgaria"],
-      "ids": [15, 31],
-      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html"
+      "summary": "Известната българска поп певица Дара беше предложена за награда Грами в четири различни категории, вълнувайки музикалната сцената в България с международно признание."
     },
     {
-      "category": "Общество",
-      "headline": "Вътрешнополитическите съветници призоваха Радев да защити националната сигурност на България",
-      "summary": "Важни политически фигури, дипломати и военни призоваха президента Румен Радев да предприеме решителни действия за защита на националната сигурност и стабилност на България, подчертавайки критичната ситуация в региона.",
+      "category": "Политика",
+      "headline": "Американски дипломати и военни призоваха президента Радев да защити националната сигурност на България",
+      "ids": [44],
+      "link": "https://svobodnatochka.bg/novini/kostov-borisov-petkov-i-denkov-prizovaha-radev-da-zashtiti-natsionalnata-sigurnost/",
       "sources": ["Свободна точка"],
-      "ids": [39],
-      "link": "https://svobodnatochka.bg/novini/kostov-borisov-petkov-i-denkov-prizovaha-radev-da-zashtiti-natsionalnata-sigurnost/"
+      "summary": "Важни политически фигури, дипломати и военни призоваха президента Румен Радев да предприеме решителни действия за защита на националната сигурност и стабилност на България, подчертавайки критичната ситуация в региона."
     }
   ]
 }
