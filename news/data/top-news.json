@@ -1,45 +1,73 @@
 {
-  "updatedAt": "2026-10-16T15:22:30.000Z",
+  "updatedAt": "2026-10-16T12:36:03.152511Z",
   "overview": "Дневните новини показват интензивни политически протести в България срещу ниските доходи, продължаващата война в Украйна с нови европейски гаранти на поддръжката и трагични инциденти от детска смърт в Орегон и атентат в софийско метро.",
   "stories": [
     {
       "category": "Политика",
       "headline": "КНСБ организира национален протест \"За по-високи доходи!\" в България",
       "summary": "КНСБ организира национален протест изцяло прекръстено в София, със събратища, протестиращи за по-високи доходи и подобряване на условията на работниците. Събитието показва нарастващото обществено недоволство от икономическата ситуация в страната.",
-      "sources": ["Actualno", "OffNews"],
-      "ids": [50, 61],
+      "sources": [
+        "Actualno",
+        "OffNews",
+        "FrogNews"
+      ],
+      "ids": [
+        50,
+        61,
+        28
+      ],
       "link": "https://www.actualno.com/society/knsb-organizira-nacionalen-protest-za-po-visoki-dohodi-news_2650959.html"
     },
     {
       "category": "Свят",
       "headline": "Тръмп: Украинските удари по руски рафинерии са позор",
       "summary": "Бившият президент Доналд Тръмп нарече украинските удари по руски рафинерии \"позор\", в повишаващата напрежение в Източна Европа. Коментарът идва в контекста на продължаващата война и международните реакции по темата.",
-      "sources": ["Mediapool", "Свободна точка"],
-      "ids": [53, 32],
+      "sources": [
+        "Mediapool",
+        "Свободна точка"
+      ],
+      "ids": [
+        53,
+        32
+      ],
       "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-ukrainskite-udari-po-ruski-rafinerii-sa-pozor/"
     },
     {
       "category": "Общество",
       "headline": "16-годишно момче убива три деца и учител в начално училище в Орегон",
       "summary": "Трагичен масов убийство в американски училище в Орегон, при който 16-годишно момче убива три деца и учител. Инцидентът подчертава нарастващата насилственост в учебните заведения в САЩ.",
-      "sources": ["Mediapool", "Boulevard Bulgaria"],
-      "ids": [56, 64],
+      "sources": [
+        "Mediapool",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        56,
+        64
+      ],
       "link": "https://www.mediapool.bg/svyat/tri-detsa-i-uchitel-byaha-ubiti-pri-strelba-v-oregon/"
     },
     {
       "category": "Общество",
       "headline": "Смъртоносен атентат в софийско метро доведе до смъртта на 83-годишен мъж",
       "summary": "Тежък атентат в столичната подземна железопътна система доведе до смъртта на 83-годишен мъж. Инцидентът спори още нерешени въпроси за сигурността на градската транспортна система.",
-      "sources": ["Boulevard Bulgaria"],
-      "ids": [58],
+      "sources": [
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        58
+      ],
       "link": "https://boulevardbulgaria.bg/articles/vse-oshte-nyama-zadarzhan-za-smartta-na-83-godishniya-mazh-otkrit-na-metrostantsiya-zholio-kyuri"
     },
     {
       "category": "Политика",
       "headline": "Георги Костадинов изрази смесени чувства и отправи предупреждение след грешката на Вуцов",
       "summary": "Бившият футболен функционер Георги Костадинов изрази смесени чувства и отправи важно предупреждение след последното твърдение на Вуцов за работа в Българската федерация по футбол. Заявата предизвика тревога в футболния свят.",
-      "sources": ["Actualno"],
-      "ids": [3],
+      "sources": [
+        "Actualno"
+      ],
+      "ids": [
+        3
+      ],
       "link": "https://www.actualno.com/bgfootball/georgi-kostadinov-izrazi-smeseni-chuvstva-i-otpravi-vajno-preduprejdenie-sled-greshkata-na-vucov-news_2651146.html"
     }
   ]
