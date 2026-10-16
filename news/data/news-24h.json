@@ -1,7 +1,613 @@
 {
   "windowStart": "2026-10-16T14:47:08.111Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-16T14:47:08.111Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-16T15:00:59.889Z",
+  "totalItems": 49,
+  "items": [
+    {
+      "title": "German colonialism: Why hasn&apos;t there been a reckoning?",
+      "link": "https://www.dw.com/en/german-colonialism-why-hasn-t-there-been-a-reckoning/a-79682388?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-16T14:42:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Iran: When &apos;honor&apos; becomes a death sentence for women",
+      "link": "https://www.dw.com/en/iran-when-honor-becomes-a-death-sentence-for-women/a-79681977?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-16T14:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-16T14:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Starlink disruptions are being felt on the front lines of Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5",
+      "pubDate": "2026-10-16T14:05:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Houthi attacks on strategic Saudi assets threaten Riyadh&apos;s regional leadership and economic ambitions",
+      "link": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-16T14:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Варненският кмет се сдоби и с обвинение за неизгодна сделка с адвокатска кантора",
+      "link": "https://offnews.bg/temida/varnenskiat-kmet-se-sdobi-i-s-obvinenie-za-neizgodna-sdelka-s-advokats-876629.html",
+      "pubDate": "2026-10-16T13:29:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/16/876629/phpw762uf_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4234
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Месец без топла вода и парно в част от кв. ''Изток'' в София",
+      "link": "https://offnews.bg/politika/mesetc-bez-topla-voda-i-parno-v-chast-ot-kv-iztok-v-sofia-876632.html",
+      "pubDate": "2026-10-16T13:20:59.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/16/876632/phpco8co2_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 5811
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "ExxonMobil signals $4.5 billion refining earnings boost as margins soar - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5",
+      "pubDate": "2026-10-16T13:18:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "At summit, EU leaders pledge support for Ukraine&apos;s Zelenskyy",
+      "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-16T13:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Thousands march in Albanian capital as anti-government protests spread - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd21PeVpqQ0xHTVI0dkNaWTIwYWxBNzhJUXVsRVZQa0t4NDNuczNHLTJzWkRlLUZ6ZTFKdjBoazdsSjl5Y0M1QUR6d1FlZWRRM3paZWxZZWRtZFRiMjRyc3kwQVpIQWZvSGVoaXBUQm55XzJpS2loWGNvZTBRTzdsaDJNalRKNTZMUk4xelhBZ3c3TEwwcjhhSEF2YTl6RzNLMGF0N2NCT0VLTTJ1SFVyZzg2ZVphU1E?oc=5",
+      "pubDate": "2026-10-16T13:01:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Trump says US may need to strike Iran's Pickaxe Mountain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5",
+      "pubDate": "2026-10-16T12:54:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "След 5 години блокаж решават проблема с Дупката в Студентски град",
+      "link": "https://offnews.bg/obshtestvo/sled-5-godini-blokazh-reshavat-problema-s-dupkata-v-studentski-grad-876628.html",
+      "pubDate": "2026-10-16T12:43:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/16/876628/php5wxdms_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 7687
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Свещеник путинист разстреля трима души, излезли на разходка",
+      "link": "https://offnews.bg/sviat/sveshtenik-putinist-razstrelia-trima-dushi-izlezli-na-razhodka-876627.html",
+      "pubDate": "2026-10-16T12:39:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/16/876627/phpminzxb_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4964
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Съдът пита Гърция дали ще върне прокурорския син у нас след изслушване там",
+      "link": "https://offnews.bg/temida/sadat-pita-gartcia-dali-shte-varne-prokurorskia-sin-u-nas-sled-izslush-876625.html",
+      "pubDate": "2026-10-16T12:36:06.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/16/876625/php6nxjh3_559x345.jpg",
+        "type": "image/jpeg",
+        "length": 4439
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Просръбски депутат в Черна гора призова за бунт: Бог да ви отведе до Адриатическо море и да ви взриви",
+      "link": "https://www.actualno.com/balkani/prosrybski-deputat-v-cherna-gora-prizova-za-bunt-bog-da-vi-otvede-do-adriatichesko-more-i-da-vi-vzrivi-news_2651152.html",
+      "pubDate": "2026-10-16T12:13:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/16/2e209a755099662093d2e2cd2c6c0630_2651152_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
+      "pubDate": "2026-10-16T12:03:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Георги Костадинов изрази смесени чувства и отправи важно предупреждение след грешката на Вуцов",
+      "link": "https://www.actualno.com/bgfootball/georgi-kostadinov-izrazi-smeseni-chuvstva-i-otpravi-vajno-preduprejdenie-sled-greshkata-na-vucov-news_2651146.html",
+      "pubDate": "2026-10-16T12:03:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/16/32f582b8827172fe9777906b7bb82f37_2651146_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Мила Георгиева, Атанас Кръстев и Григор Паликаров в \"Колекция Stradivarius\"",
+      "link": "https://www.actualno.com/music/mila-georgieva-atanas-krystev-i-grigor-palikarov-v-kolekcija-stradivarius-news_2651095.html",
+      "pubDate": "2026-10-16T12:01:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/16/5e4c8ae8cdaec50db98d5ab2284fee0b_2651095_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "След 2000 години е открит пътят, по който Исус е стигнал до мястото на разпятието си",
+      "link": "https://www.actualno.com/interest/sled-2000-godini-e-otkrit-pytjat-po-kojto-isus-e-stignal-do-mjastoto-na-razpjatieto-si-news_2651144.html",
+      "pubDate": "2026-10-16T11:56:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/16/f83dc1cae87ebfb73f69886146b6a104_2651144_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "BBC Verify: Резултатите от стотици разследвания на ЦАХАЛ за убийства не са публикувани",
+      "link": "https://www.actualno.com/asia/bbc-verify-rezultatite-ot-stotici-razsledvanija-na-cahal-za-ubijstva-ne-sa-publikuvani-news_2651141.html",
+      "pubDate": "2026-10-16T11:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/16/52c835fc4ae999f0c5480c9d94a0083e_2651141_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Д-р Петър Димов: констипацията е чест проблем, за който не се говори лесно",
+      "link": "https://boulevardbulgaria.bg/articles/konstipatsiyata-chest-problem-za-koyto-ne-se-govori-lesno",
+      "pubDate": "2026-10-16T11:52:32.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwNzQsInB1ciI6ImJsb2JfaWQifX0=--69b9157fe4868709fb6103b16d588a7e0028619a/d-r__Petar_Dimov.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "„Личните ни бюджети са на дефицит“: КНСБ излезе на протест за по-високи доходи",
+      "link": "https://frognews.bg/novini/lichnite-biudjeti-defitsit-knsb-izleze-protest-visoki-dohodi.html",
+      "pubDate": "2026-10-16T11:51:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/485346713_1792152365_6ad2132d080cb.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Студентски протести разтърсиха Албания – какво разгневи младите хора?",
+      "link": "https://frognews.bg/novini/studentski-protesti-raztarsiha-albaniia--kakvo-razgnevi-mladite-hora.html",
+      "pubDate": "2026-10-16T11:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/590bd7dc6_1792149142_6ad2069659a79.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Руска собственост блокира съмнителна заменка в София",
+      "link": "https://www.mediapool.bg/bulgaria/ruska-sobstvenost-blokira-samnitelna-zamenka-v-sofiya/",
+      "pubDate": "2026-10-16T11:49:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "ЕС няма възможност да замени \"Старлинк\" в кратки срокове, призна Кая Калас",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/es-nyama-vazmozhnost-da-zameni-starlink-v-kratki-srokove-prizna-kaya-kalas/",
+      "pubDate": "2026-10-16T11:25:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "DARA е предложена за „Грами“ в четири категории, сред тях и „Най-добър нов изпълнител“",
+      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html",
+      "pubDate": "2026-10-16T11:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9f6589468_dara.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "И във военното министерство валят фалшиви сигнали за бомби",
+      "link": "https://www.mediapool.bg/bulgaria/i-vav-voennoto-ministerstvo-valyat-falshivi-signali-za-bombi/",
+      "pubDate": "2026-10-16T11:17:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Нови две огнища на шарка по овцете и козите, този път в областите София и Хасково",
+      "link": "https://www.mediapool.bg/biznes/novi-dve-ognishta-na-sharka-po-ovtsete-i-kozite-tozi-pat-v-oblastite-sofiya-i-haskovo/",
+      "pubDate": "2026-10-16T11:16:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Започна новата операция по изтеглянето на ударения от дронове кораб „Челси-3“",
+      "link": "https://frognews.bg/novini/zapochna-novata-operatsiia-izteglianeto-udareniia-dronove-korab-chelsi-3.html",
+      "pubDate": "2026-10-16T11:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ef6a389c3_1792148885_6ad205956d466.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Политическата цена в Белия дом, която плащат жените",
+      "link": "https://frognews.bg/novini/politicheskata-tsena-beliia-dom-koiato-plashtat-jenite.html",
+      "pubDate": "2026-10-16T11:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/17548f224_1792148470_6ad203f6dd0e0.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "\"Европа вече е единственият съюзник на Зеленски\". В ЕС престанаха да вярват, че могат да променят позицията на Тръмп",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/evropa-veche-e-edinstveniyat-sayuznik-na-zelenski-v-es-prestanaha-da-vyarvat-che-mogat-da-promenyat-pozitsiyata-na-tramp/",
+      "pubDate": "2026-10-16T10:59:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Сблъсъци, палежи и ранени. Защо протестират студентите в Албания",
+      "link": "https://svobodnatochka.bg/novini/sblasatsi-palezhi-i-raneni-zashto-protestirat-studentite-v-albaniya/",
+      "pubDate": "2026-10-16T10:50:25.000Z",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/10/Screenshot-2026-10-16-112945.png"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Недоволни от 660 евро минимална заплата. Синдикатите протестират пред парламента",
+      "link": "https://svobodnatochka.bg/novini/nedovolni-ot-660-evro-minimalna-zaplata-sindikatite-protestirat-pred-parlamenta/",
+      "pubDate": "2026-10-16T10:45:09.000Z",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/uploads/2026/10/1000042461-1024x722.jpeg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Били Джоел продава впечатляващата си колекция от мотоциклети, след като лекарите му забраниха да шофира",
+      "link": "https://boulevardbulgaria.bg/articles/bili-dzhoel-prodava-vpechatlyavashtata-si-kolektsiya-ot-mototsikleti-sled-kato-lekarite-mu-zabraniha-da-shofira",
+      "pubDate": "2026-10-16T10:29:56.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2NjkwLCJwdXIiOiJibG9iX2lkIn19--c23d78cf59f9943924970f327704323e87a053e9/billy joel .jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Андрей Гюров: Горд съм, че имаме здраво семейство и страхотни синове",
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-gord-sam-che-imame-zdravo-semeystvo-i-strahotni-sinove",
+      "pubDate": "2026-10-16T10:11:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2Njc2LCJwdXIiOiJibG9iX2lkIn19--689782e7b79e8cdc0b0eced106e27051d010bf96/андрей гюров семейство.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Пешеходен мост ще свързва метрото с „Арена София“ и &quot;София Тех парк&quot;",
+      "link": "https://boulevardbulgaria.bg/articles/peshehoden-most-shte-svarzva-metroto-s-arena-sofiya-i-sofiya-teh-park",
+      "pubDate": "2026-10-16T09:44:45.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2NjUwLCJwdXIiOiJibG9iX2lkIn19--bf929fa7aa55c1722703251c63b25756ad39c298/Arena Sofia.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "DARA кандидатства за  Grammy с Bangaranga в три категории",
+      "link": "https://boulevardbulgaria.bg/articles/dara-kandidatstva-za-grammy-s-bangaranga-v-tri-kategorii",
+      "pubDate": "2026-10-16T09:16:18.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAyODIsInB1ciI6ImJsb2JfaWQifX0=--91ec03fe7b57c47f90c40c7c5b9bfa96dcef6378/дара_евровизия.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "„Не съм голям фен на Зеленски“. Тръмп нарече възобновяването на украинските удари по руски рафинерии „позор“",
+      "link": "https://svobodnatochka.bg/novini/ne-sam-golyam-fen-na-zelenski-tramp-nareche-vazobnovyavaneto-na-ukrainskite-udari-po-ruski-petrolni-rafinerii-pozor/",
+      "pubDate": "2026-10-16T09:10:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Полицията откри тяло на млад мъж в река Харманлийска, има задържан - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHhSajhycW9jY19JVVFFTmktOTVYM3Z2aVNjVEdIWnJKZm9DLUdIcXNWWWM3MU05MW5Kd2NFUWhOQkpKTXhtSjMyaXotLURfV2JQVFB5QU9yMDRtR2NNRGxlQXZ6aHdQYlE2VU5MdlgyaWprRVVIc1RMMWtsUGVaZG80TGxCWW1nNDJIdDZjUFowaFBkVHM0WjczbE90N3VPek1nS1NhMlkxUQ?oc=5",
+      "pubDate": "2026-10-16T08:39:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "САЩ удължиха дерогацията за „Лукойл“ в България с още шест месеца",
+      "link": "https://svobodnatochka.bg/novini/sasht-udalzhiha-derogatsiyata-za-lukoyl-v-balgariya-s-oshte-shest-mesetsa/",
+      "pubDate": "2026-10-16T08:11:53.000Z",
+      "thumbnail": {
+        "link": "https://svobodnatochka.bg/wp-content/themes/total-child-theme/assets/images/logo-st-text.jpeg"
+      },
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Община Сандански предупреди за поява на мечка в парк до града - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUJ4UmxtN1lZUjAwNDF4UzFnWlM0LU1lWGFRNGFnUVN2MGxjWDV6VFJCT3NBM1NPYWx6LVBmMGgzNG52NXNxcDF1OTU5QWZwcVFMVWxrLUItZ3pRTUFLYkppQTFTY0hXU2lXSHpBdFIybzRFZ2p0czUxc0swdEwxQ2FDa0JXTUpVX1FmREdZTjBSSjRYUkczTkprcTluaFRsMGdhWXhpazhRNDA?oc=5",
+      "pubDate": "2026-10-16T08:05:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Зърнопроизводителите: Кораби вече отказват износ на българско зърно - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU1DUWRROEJaeEhqcGs5b0JlTzdyVFpVRUtZMlJvN3pmTmNDbzR4Z29uaDVaMEFMMEMyU0txVVBMcVJyNG5KZ1RyZkFmMUh6U3BVYS1JeEp0QXA4NEUxd1l1Ti1kZTRxWmwwSWNVYW9leFFIRS0xUEhBZlZjejRmdFVPckF2c0NnUXZTZXpDYUFPaVBzbTRVRUxmaGtJTkVfVjJV?oc=5",
+      "pubDate": "2026-10-16T07:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "The insider trading you're allowed to do",
+      "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+      "pubDate": "2026-10-16T07:12:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "„Отбраната е задължение“. Костов, Борисов, Петков, Денков, дипломати и военни призоваха Радев да защити България",
+      "link": "https://svobodnatochka.bg/novini/kostov-borisov-petkov-i-denkov-prizovaha-radev-da-zashtiti-natsionalnata-sigurnost/",
+      "pubDate": "2026-10-16T06:34:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Идва трайно затопляне, прогнозира климатолог - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHZvVlA3bUExVXJFTXM0RTVidThoUkpOUUtVT0k1YVpfdDdzbDF5ejdJSGlyYm1jQlBqMTZIOEV2ZVZRend3WVlPY29iNk9wc2hwSXJ6SU9aRHdVVmNTaHBnOGtfZEtKSWxHOFhIT3dGTEMzOEZNdzNLazU5NzNqUkpQeVItM2dKenhkMU5ldkxoaHZEeXFrNEZsdDlIMkp0c2c?oc=5",
+      "pubDate": "2026-10-16T04:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "pubDate": "2026-10-16T00:52:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "pubDate": "2026-10-15T23:37:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "\"Левски\" стигна до престижно равенство срещу нидерландския НЕК (Ниймеген) - Dnevnik.bg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDZCQ2FMUV9DUHY0cmFFX1RDWDVJdUwtR0FaZWU4aXllV3FNWmN1QnFuMGNXY2M3WGU3NWZ6elg0OUJMMGZHdXhNTjJ5WU9SOTNBQXhhNFJHNV9va3UydXFPeE1hYmxwODE2UjA1SDlPeGprVGNsc3NabDlzd0RpTmphY1V1dGc4QXA1MGlBR1ozY3FKRHAzLW9kODNXY3VGSHc?oc=5",
+      "pubDate": "2026-10-15T21:05:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "pubDate": "2026-10-15T17:47:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-16T15:00:59.889Z"
+    }
+  ]
 }
