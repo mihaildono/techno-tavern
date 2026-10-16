@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:30:00.000Z",
+  "updatedAt": "2026-10-16T10:30:00.000Z",
   "overview": "Геополитическите напрежения продължават да доминират — войната в Украйна, протестите в Албания и политическата криза в Канада са водещите събития за днес. В България продължават протестите срещу Румен Радев и Илияна Йотова.",
   "stories": [
     {
@@ -7,40 +7,40 @@
       "headline": "Украйна подготвя рязко засилване на атаките срещу руските летища, а Путин иска капитулация на Киев",
       "summary": "Украинските военни обявяват нова фаза на диференцирани атакуващи действия, насочени към логистичните връзки на руските военни бази. В същото време Путин иска да остави Киев, Харков и Одеса без ток и отопление за месец като условие за прекратяване на войната.",
       "sources": ["Mediapool", "Reuters", "Actualno", "FrogNews"],
-      "ids": [11, 21, 22, 23, 32, 33, 57],
-      "link": "https://www.mediapool.bg/voina-v-ukraina/tova-e-samo-nachaloto-ukraina-podgotvya-ryazko-zasilvane-na-atakite-sreshtu-ruskite-letishta/"
+      "ids": [16, 29, 8, 7],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-ukrainskite-udari-po-ruski-rafinerii-sa-pozor/"
     },
     {
       "category": "Свят",
-      "headline": "Карни твърди, че САЩ се опитват да подкопаят Канада по време на референдума за независимост на Албърта",
-      "summary": "Американският министър на външните работи Карни заяви, че САЩ се опитват да подкопаят Канада, докато Албърта провежда референдум за независимост, което може да има сериозни последици за Канадската целост и регионалната стабилност.",
-      "sources": ["DW", "Reuters"],
-      "ids": [2, 21],
-      "link": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-top-1022-rdf"
+      "headline": "Канадският премиер предупреди за опасност от разединение преди референдума в Албърта",
+      "summary": "Канадският премиер предупреди преди референдума за независимост на Албърта, предупреждавайки за опасност от разединение на страната.",
+      "sources": ["OffNews"],
+      "ids": [9],
+      "link": "https://offnews.bg/sviat/kanadskiat-premier-predupredi-za-opasnost-ot-razedinenie-predi-referen-876580.html"
     },
     {
       "category": "Общество",
-      "headline": "Студентски протести в Албания — Еди Рама отказва да подаде оставка въпреки сблъсъците",
-      "summary": "Протестите в Албания продължават със сблъсъци, барикади и сълзотворен газ. Еди Рама отхвърля исканията за оставка, като твърди, че ще продължи да управлява. Стотици протестират извън правителствените сгради.",
-      "sources": ["OffNews", "FrogNews"],
-      "ids": [42, 51, 57],
-      "link": "https://offnews.bg/sviat/studentski-protesti-v-albania-edi-rama-otkazva-da-podade-ostavka-vapr-876571.html"
+      "headline": "Хутите атакуваха президентския дворец в Йемен – петима загинали и 16 ранени",
+      "summary": "Хоthи военни сила нападна президентския дворец в Сана, убивайки петима души и ранени 16 други. Насилството увеличава несигурността в Йемен.",
+      "sources": ["FrogNews"],
+      "ids": [7],
+      "link": "https://frognews.bg/novini/hutite-atakuvaha-prezidentskiia-dvorets-iemen--petima-zaginali-16-raneni.html"
     },
     {
       "category": "Общество",
-      "headline": "Стрелба в училище в Орегон — трима деца и учител убити",
-      "summary": "16-годишно момче уби три деца и един учител в начално училище в Орегон, САЩ. Нападателят е застрелян от член на общността. Инцидентът е потвърден от DW, Mediapool и Boulevard Bulgaria.",
-      "sources": ["DW", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [13, 19, 35],
-      "link": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-top-1022-rdf"
+      "headline": "Френската полиция обвинена в насилие над ученици – травми като на бойното поле",
+      "summary": "Френската полиция обвинена в жестоко насилие над ученици по време на протест срещу пенсионната реформа, причинили травми като на бойното поле.",
+      "sources": ["FrogNews"],
+      "ids": [10],
+      "link": "https://frognews.bg/novini/travmi-kato-boinoto-pole--frenskata-politsiia-obvinena-nasilie-nad-uchenitsi.html"
     },
     {
-      "category": "Общество",
-      "headline": "Протести в България — изискват оставките на Радев и Йотова",
-      "summary": "Сотици българи излизат на протести извън столицата, изисквайки оставката на президента Румен Радев и председателя на НС Илияна Йотова. Протестите са провокирани от въпроси за дронове и военни действия.",
-      "sources": ["Свободна точка", "Mediapool", "OffNews"],
-      "ids": [33, 35, 39, 53, 59, 65],
-      "link": "https://svobodnatochka.bg/novini/reportazh-ot-protest/"
+      "category": "Свят",
+      "headline": "Три деца и учител бяха убити при стрелба в Орегон",
+      "summary": "Протестант атакува начално училище в американския щат Орегон, убивайки три деца и учител преди да бъде застрелян от общество.",
+      "sources": ["Mediapool", "DW"],
+      "ids": [19, 36],
+      "link": "https://www.mediapool.bg/svyat/tri-detsa-i-uchitel-byaha-ubiti-pri-strelba-v-oregon/"
     }
   ]
 }
