@@ -1,45 +1,41 @@
 {
-  "updatedAt": "2026-10-15T20:04:00.000Z",
-  "overview": "Денят е отбелязал със значителни политически и икономически събития, включително според източници като DW, Reuters, Mediapool, Actualno и Свободна точка. Основните теми включват международни конфликти, икономически промени и технологични новини.",
+  "updatedAt": "2026-10-16T01:08:50.883798Z",
+  "overview": "Daily news summary covering key events across multiple categories.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Венесуела: Николас Мадуро се отрича от вина за измърдване",
-      "summary": "Венесуелският президент Николас Мадуро е обвинен за измърдване и се отрича от вина. Съобщават DW и Reuters.",
-      "sources": ["DW", "Reuters"],
-      "ids": [2, 5, 25],
-      "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Икономика",
-      "headline": "IEA ускорява освобожданение на нефтени запаси, включително над 20 млн барела дизел",
-      "summary": "Международното агенция за енергия (IEA) планира да ускори освобождането на нефтени запаси, включително над 20 млн барела дизел, за да стабилизира пазарите. Съобщава Reuters.",
-      "sources": ["Reuters"],
-      "ids": [10],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5"
-    },
-    {
-      "category": "Свят",
-      "headline": "Хуситите атакуват правителствения дворец в Аден, Йемен",
-      "summary": "Хуситите са насочили атака срещу правителствения дворец в Аден, Йемен. Съобщава DW.",
-      "sources": ["DW"],
-      "ids": [6],
-      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
-    },
-    {
       "category": "Политика",
-      "headline": "Тръмп иска смъртно наказание за убиване на пожарникар",
-      "summary": "Президентът на САД Доналд Тръмп изразява желанието си да бъде приложено смъртно наказание за всеки, който убие пожарникар. Съобщава Reuters.",
-      "sources": ["Reuters"],
-      "ids": [5],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ1hjU0hBQkROWFZSLUNMRERsX2tSdWUyTUdBeFFoeEJJR1kyZGJCc19uZ2hJYzZtU0NidnRJWkFRSDViMkV0MEhfdDJoM3hHTXgyZWJUMmZRNkloTTJpbUtGZ2M5YzZjQlJrbnY1NXo2c0pLUm5ESzhwTlVObi0tQmNBVU9QV0dEVHZCNWFxNFVJaXpGeWR4d29FbGhKeXg4Z211TmwwY0lEeHM?oc=5"
+      "headline": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, s...",
+      "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        1
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5"
+    },
+    {
+      "category": "Общество",
+      "headline": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - R...",
+      "summary": "3 children, 1 adult killed in shooting at school in Oregon, US media reports - Reuters",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        1
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzFMUW1qazF6RjFvU0pOMXVhZHo5aG96MlBKMmVSbkhDZ01XWk5ySV84TFJYQ3dKVmVtdzRKdV85b1VCMWhHWWlYV3B5V0szaFJXbDQzb3VIY0lUT1NwbVZES1R5bnZjMGttaThYYUZxRHU0ZjhuTjI4Q2JGNFZWc0llMVNoUXJWUFRzX1FUbWhsX1pFYXdfMDI0Mm5ocFAxLThOcnRuQ0RJRzQ?oc=5"
     },
     {
       "category": "Технологии",
-      "headline": "Самовъзпроизвеждащ се изкуствен интелект: Рискувате ли захранването на хладилника си?",
-      "summary": "DW публикува статия за самовъзпроизвеждащия се изкуствен интелект и как той може да бъде киберсигурностен риск за домакинските уреди. Съобщава DW.",
-      "sources": ["DW"],
-      "ids": [3],
+      "headline": "Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "summary": "Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        1
+      ],
       "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
     }
   ]
