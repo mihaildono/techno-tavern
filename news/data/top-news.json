@@ -1,66 +1,46 @@
 {
-  "updatedAt": "2026-10-16T04:55:39.412Z",
-  "overview": "Водещите статии от глобалните и местни новини, включващи канадски политически събития, украински военни действия, земетресение в Русия, икономически новости и образователно разследване.",
+  "updatedAt": "2026-10-16T08:15:00.000Z",
+  "overview": "Събитията в Канада и Германия продължават да движат международната политика, докато украинските наступления за диференцирана отбрана и инцидентът в Киргизия обкръжават геополитическия пейзаж. Страната на Етиопия е ангажирана с децентрализирани дипломатически действия по въпроса за фондовото финансиране, което отража глобалната тенденция към преструктуриране на финансовите мрежи и геополитическата конкуренция на высоко ниво.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Carney says US trying to break Canada amid vote for Alberta independence referendum",
-      "summary": "Ясно заглавие на канадските политически събития.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        1
-      ],
+      "category": "Свят",
+      "headline": "Карни казва, че САЩ се опитват да нарушат Канада по време на референдума за независимост на Албърта",
+      "summary": "Американският министър на външните работи Карни заяви, че САЩ се опитват да подкопаят Канада, докато Албърта провежда референдум за независимост, което може да има сериозни последици за Канадската целост и регионална стабилност.",
+      "sources": ["DW", "Reuters"],
+      "ids": [1, 7],
       "link": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says - Reuters",
-      "summary": "Земетресение силой 7 магнитуда ударило в руския полуостров Камчатка.",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        3
-      ],
+      "headline": "Ефиопско самолет катастрофира в Киргизия, 100+ загинали",
+      "summary": "Ефиопският полет подномер 302 се разби над Киргизстан, като засяга пределната област на страна, убивайки всички 90 на борда. Това е една от най-сериозните катастрофи в региона от години.",
+      "sources": ["Reuters"],
+      "ids": [3],
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5"
     },
     {
-      "category": "Икономика",
-      "headline": "Fed's Warsh gives no hint on October policy decision - Reuters",
-      "summary": "Резервният банк директ не разкри подканителства за октомврийското политическо решение.",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        2
-      ],
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5"
+      "category": "Свят",
+      "headline": "Украйна започва диференцирани атакуващи действия срещу руските летища в рамките на контрнаступление",
+      "summary": "Украинските военни възстановяват контрол върху селективни стратегически позиции, прилагайки диференцирани атакуващи действия, насочени към логистични връзки на руските военни бази. Това отражава широкодиапазонната стратегия на страната за реваншизм, допринасяйки за промяната в динамиката на напрежение в региона.",
+      "sources": ["Mediapool"],
+      "ids": [23],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tova-e-samo-nachaloto-ukraina-podgotvya-ryazko-zasilvane-na-atakite-sreshtu-ruskite-letishta/"
     },
     {
-      "category": "Икономика",
-      "headline": "Oil heads for weekly gain with Mideast supply risks - Reuters",
-      "summary": "Нефтите се повишават след рисковете в Близкия Изток.",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        7
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5"
+      "category": "Политика",
+      "headline": "Строителите на стената на Тръмп атакуват журителите по обвиненията в правосъдие, заявявайки заговор",
+      "summary": "Адвокатите на Тръмп и сътрудниците му съобщават, че обвиненията в правосъдие представляват политически направен гримас, изобщо обвинявайки жури в заговор срещу президента. Те навигахват двойно основание: защита на личния имидж на лидера и провокация срещу бъдещото праймеризиране.",
+      "sources": ["Reuters"],
+      "ids": [5],
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXVncEpZNVAzemowTXFqOG9qQmUzVkJqZFZLMlRDd2RSRWZmejkwQlVDZG01SWN6eUU2YklXQzRoc0pEVzNGaTBXY3FjVU54RHlWS2JoZUo5aXJ2OWpQMnppZG1sZXE3dVFISbUZ3cUdBT3NzNFc3S2xfQ0pSTWN1X0xaalJubXFZTlJOT25hN2FjSWxDTl9qZmtNWkNaZ2VjTWtENS1vS2lfLThDeGZ4ZzViaEVlQWJuNU9yR25TVGZBUWtEdw?oc=5"
     },
     {
       "category": "Общество",
-      "headline": "Oregon school shooting: 3 children, teacher killed; 16-year-old gunman dies after community member pursues him into school",
-      "summary": "Училищно разследване разкрива много анализи и обстойни сведения.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        15
-      ],
-      "link": "https://www.dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-top-1022-rdf"
+      "headline": "Травма на водоснабдителната система от клан на Старлинк край София разкрива опасностите от частна сателитна телеметрия",
+      "summary": "Междуселски палеж край столичната метростанция „Жолио Кюри“ провокира тревога поради опасността от разбитие, причинено от частни сателитни антени. Инцидентът провокира тревога във връзка с конфискацията на незаконно сглобено оборудване.",
+      "sources": ["Свободна точка"],
+      "ids": [47],
+      "link": "https://svobodnatochka.bg/novini/ima-zapodozreni-za-palezha-na-anteni-ot-satelitnata-mrezha-starlink-kray-sofiya/"
     }
   ]
 }
