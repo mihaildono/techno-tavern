@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T15:51:14.072339Z",
-  "overview": "Значителни политически и международни събития, включително украинската война в Черно море, връщането на Папа Лъв XIV във Ватикана и забележителни спортни постижения.",
+  "updatedAt": "2026-10-17T19:37:42.891Z",
+  "overview": "Significant political and international developments, including Ukrainian war in Black Sea, Pope Leo XIV returns to Vatican after cancer surgery, solar surpasses nuclear power globally for first time, NATO launches Spanish fighters after Chinese drone near Romania border, major protests erupt across France including clashes in Paris, Lyon, and Marseille.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Украинска война разгарва в Черно море и въвеждането на нови санкции против Русия",
-      "summary": "Различни източници обявяват реална война в Черно море и разглеждат съществени санкции, докато Путин и Трамп обсъждат своите позиции.",
+      "headline": "Ukrainian war escalates in Black Sea with new sanctions against Russia",
+      "summary": "Multiple sources report active warfare in the Black Sea and escalating sanctions, while Putin and Trump discuss their positions.",
       "sources": [
         "Actualno",
         "FrogNews",
@@ -15,7 +15,7 @@
         "Свободна точка"
       ],
       "ids": [
-        3,
+        1,
         9,
         18,
         21,
@@ -23,17 +23,18 @@
         24,
         26,
         27,
+        29,
         39,
         51,
         53,
         54
       ],
-      "link": "https://www.actualno.com/society/v-cherno-more-se-vodi-realna-vojna-bivsh-diplomat-ne-e-syglasen-che-stava-vypros-za-incidenti-news_2651538.html"
+      "link": "https://www.actualno.com/balkani/v-cherno-more-rumynija-svali-dronove-tam-kydeto-bjaha-udareni-2-koraba-zelenski-s-novo-preduprejdenie-news_2651584.html"
     },
     {
       "category": "Здравеопазване",
-      "headline": "Папа Лъв XIV се върна във Ватикана след операция за рак на белия дроб",
-      "summary": "Папа се върна във Ватикана след успешна операция за рак на белия дроб, покривана от различни медиен източници.",
+      "headline": "Pope Leo XIV returns to Vatican after lung cancer surgery",
+      "summary": "Pope returns to Vatican following successful cancer operation on his lung, covered by multiple media sources.",
       "sources": [
         "Actualno",
         "DW",
@@ -48,8 +49,8 @@
     },
     {
       "category": "Технологии",
-      "headline": "Солнечната енергия превиши ядрената за първи път в световен мащаб",
-      "summary": "Нови данни показват, че соларната енергия превиши ядрената в глобален мащаб, докато AI моделите като DeepSeek отбелязват забележителен напредък.",
+      "headline": "Solar power surpasses nuclear power globally for first time",
+      "summary": "New data shows solar energy has overtaken nuclear in global capacity, with AI advancements like DeepSeek noted.",
       "sources": [
         "DW",
         "Hacker News"
@@ -63,8 +64,8 @@
     },
     {
       "category": "Свят",
-      "headline": "НАТО вдигна испански изтребители след китайски дрон близо до румънска граница",
-      "summary": "Китайски дрон отново доближи румънската граница, провокиращ НАТО да вдигне два испански изтребителя, ескалирайки международни напрежения.",
+      "headline": "NATO launches Spanish fighters after Chinese drone near Romania border",
+      "summary": "Chinese drone again approached Romanian border, prompting NATO to deploy two Spanish fighters, escalating international tensions.",
       "sources": [
         "Dnevnik",
         "FrogNews"
@@ -77,8 +78,8 @@
     },
     {
       "category": "Общество",
-      "headline": "Мащабни протести разтърсиха Франция – сблъсъци в Париж, Лион и Марсилия",
-      "summary": "Протести в Франция прераснаха в сблъсъци с полицията, покриващи няколко големи града, включително Париж, Лион и Марсилия.",
+      "headline": "Massive protests erupt across France - clashes in Paris, Lyon, Marseille",
+      "summary": "Protests in France have escalated into clashes with police, affecting multiple major cities including Paris, Lyon, and Marseille.",
       "sources": [
         "FrogNews",
         "OffNews",
