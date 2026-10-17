@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-17T16:58:00.000Z",
-  "overview": "Денят е отбелязан от мащабни протести в Албания, новини от фронта в Украина и засилено напрежение между САЩ и Иран. В България синдикатите протестират срещу минималната заплата, а българската певица DARA е номинирана за \"Грами\".",
+  "updatedAt": "2026-10-17T17:57:20.000Z",
+  "overview": "Денят е обединен от военни новости от Украйна и напрежени отношения между САЩ и Иран, вътрешни протести в Албания, продължаващата война в Украйна и международни дипломатически новости, включително номинации за Грами.",
   "stories": [
     {
       "category": "Свят",
+      "headline": "Проблемите със Starlink пречат на Украйна да сваля дронове: Зеленски нарече това \"планирана операция\"",
+      "summary": "Проблемите с Starlink пречат на украинските сили да свалят дрони, председателят Зеленски определи ситуацията като \"планирана операция\", което засяга военните операции срещу Русия.",
+      "sources": ["Actualno", "Reuters", "Mediapool"],
+      "ids": [13, 17, 24],
+      "link": "https://www.actualno.com/europe/problemite-sys-starlink-prechat-na-ukrajna-da-svalja-dronove-zelenski-nareche-tova-planirana-operacija-video-news_2651497.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп заплашва военен удар по Иран, докато Техеран продава гориво въпреки санкциите",
+      "summary": "САЩ заплашват военен удар по планината Пикакс в Иран, докато Иран изнася ЛПГ и реактивно гориво въпреки американската блокада, увеличавайки напрежението в Близкия изток.",
+      "sources": ["Reuters", "OffNews"],
+      "ids": [4, 5],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5"
+    },
+    {
+      "category": "Спорт",
+      "headline": "Реал Мадрид трябваше да се отърве от Винисиус, посочват легендите",
+      "summary": "Легендарни играчи на Реал Мадрид заявяват, че клубът трябваше да се отърве от Винисиус, като коментират неговото недовършено постигане на върха на кариерата в Мадрид.",
+      "sources": ["Actualno", "OffNews"],
+      "ids": [14, 47],
+      "link": "https://www.actualno.com/football/edna-ot-naj-golemite-legendi-real-madrid-trjabvashe-da-se-otyrve-ot-vinisius-news_2651496.html"
+    },
+    {
+      "category": "Политика",
       "headline": "Студентски протести в Албания изискват отставката на премиера Еди Рама",
-      "ids": [4, 11, 24, 33],
-      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
-      "sources": ["DW", "Reuters", "FrogNews", "Свободна точка"],
-      "summary": "Хиляди протестират в Тирана изисквайки политическа промяна и отставката на премьера Еди Рама. Протестите са съпроводени със сблъсъци, палежи и ранени."
-    },
-    {
-      "category": "Свят",
-      "headline": "Starlink прекъсвания засягат операции на фронта в Украина, ЕС признава липсата на бърза алтернатива",
-      "ids": [5, 26, 32, 39],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQ2EyNkxWbk1tTXpwV2x3c2hWczFRZ2pTM2RGUkpCNzBES0c1RFFPaEFNQkJpMEZoZ2k5c05uQ2pNWlNMU09VUEJIVkJHUkJGdmw0Q1Q3RlNJQ1ZkbWNrQ05aS1ZRYTNxWW5RM0R0aWl3Q3hESHlGU0dFS0hzcjBtN2V4QUlPQlZiV2tUR2o3UVlFVlFsUkE?oc=5",
-      "sources": ["Reuters", "Mediapool", "Свободна точка"],
-      "summary": "Прекъсванията на Starlink засягат операциите на фронта в Украина. ЕС призна, че няма бърз алтернатива за замяна на системата. Тръмп нарече възобновяването на ударите по руски рафинерии \"позор\"."
-    },
-    {
-      "category": "Свят",
-      "headline": "Тръмп заплашва военен удар по Иран, докато Иран продава гориво въпреки санкциите",
-      "ids": [12, 17, 3, 6],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQ1U1zT01EQ1ZrbEowWlZzeEkwOXpRWm9sWlZkTGFXd0djblU4WHBkSmhWVkRCbUpxbFNnMnB3eENRdTNmQlM5cDJnaGgyOUlETk1BNmV5SlFaR2tGc1BveFYwZ0ZwN1hEaEV2Zk5YNlBXWHBDdlNGZHNpbzRlR0VaRlV5aGJMS1A4Z2c3dEFBZE1VUjM5bUx5Z1pKeXFlWmMzRVFocldhdk1TQzl4TmJ6TFozbU9FV2xxN3lZR1BUN1M?oc=5",
-      "sources": ["Reuters", "DW"],
-      "summary": "САЩ заплашват удар по планината Пикакс в Иран. В същото време Иран изнася ЛПГ и реактивно гориво въпреки американската блокада. Хouthi атаки заплашват стратегическите активи на Саудитска Арабия."
-    },
-    {
-      "category": "Икономика",
-      "headline": "Синдикатите в България протестират срещу минималната заплата от 660 евро",
-      "ids": [23, 34],
-      "link": "https://frognews.bg/novini/lichnite-biudjeti-defitsit-knsb-izleze-protest-visoki-dohodi.html",
-      "sources": ["FrogNews", "Свободна точка"],
-      "summary": "КНСБ излезе на протест изисквайки по-високи доходи. Синдикатите протестират пред парламента срещу минималната заплата от 660 евро."
+      "summary": "Хиляди протестират в Тирана, изисквайки политическа промяна и отставката на премиер Еди Рама, провокирани от икономическите и политически условия в страната.",
+      "sources": ["Reuters", "Mediapool"],
+      "ids": [1, 24],
+      "link": "https://www.actualno.com/football/edna-ot-naj-golemite-legendi-real-madrid-trjabvashe-da-se-otyrve-ot-vinisius-news_2651496.html"
     },
     {
       "category": "Култура",
       "headline": "DARA е предложена за \"Грами\" в четири категории, включително \"Най-добър нов изпълнител\"",
-      "ids": [27, 38],
-      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html",
+      "summary": "Българската певица DARA е номинирана за Grammy в четири категории, като кандидатства с песента \"Bangaranga\" и в три други категории за този годинен тибор.",
       "sources": ["FrogNews", "Boulevard Bulgaria"],
-      "summary": "Българската певица DARA е номинирана за Grammy в четири категории. Тя кандидатства с Bangaranga и в три категории."
+      "ids": [33, 40],
+      "link": "https://boulevardbulgaria.bg/articles/vol-139-vselenata-ni-testva-prez-oktomvri-teylar-pak-e-vinovna-mazhete-ne-struvat-spored-kendal-dzhenar"
     }
   ]
 }
