@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-16T15:31:00.000Z",
-  "overview": "Денят е отбелязан от мащабни протести в Албания, новини от фронта в Украина и засилено напрежение между САЩ и Иран. В България синдикатите протестират срещу минималната заплата, а българската певица DARA е номинирана за „Грами“.",
+  "updatedAt": "2026-10-17T16:58:00.000Z",
+  "overview": "Денят е отбелязан от мащабни протести в Албания, новини от фронта в Украина и засилено напрежение между САЩ и Иран. В България синдикатите протестират срещу минималната заплата, а българската певица DARA е номинирана за \"Грами\".",
   "stories": [
     {
       "category": "Свят",
       "headline": "Студентски протести в Албания изискват отставката на премиера Еди Рама",
-      "summary": "Хиляди протестират в Тирана изисквайки политическа промяна и отставката на премьера Еди Рама. Протестите са съпроводени със сблъсъци, палежи и ранени.",
-      "sources": ["DW", "Reuters", "FrogNews", "Свободна точка"],
       "ids": [4, 11, 24, 33],
-      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217"
+      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
+      "sources": ["DW", "Reuters", "FrogNews", "Свободна точка"],
+      "summary": "Хиляди протестират в Тирана изисквайки политическа промяна и отставката на премьера Еди Рама. Протестите са съпроводени със сблъсъци, палежи и ранени."
     },
     {
       "category": "Свят",
-      "headline": "Starlink изпитва прекъсвания по фронта в Украина, а ЕС признава невъзможността си да го замени",
-      "summary": "Прекъсванията на Starlink засягат операциите на фронта в Украина. ЕС призна, че няма бърз алтернатива за замяна на системата. Тръмп нарече възобновяването на ударите по руски рафинерии „позор“.",
-      "sources": ["Reuters", "Mediapool", "Свободна точка"],
+      "headline": "Starlink прекъсвания засягат операции на фронта в Украина, ЕС признава липсата на бърза алтернатива",
       "ids": [5, 26, 32, 39],
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQ2EyNkxWbk1tTXpwV2x3c2hWczFRZ2pTM2RGUkpCNzBES0c1RFFPaEFNQkJpMEZoZ2k5c05uQ2pNWlNMU09VUEJIVkJHUkJGdmw0Q1Q3RlNJQ1ZkbWNrQ05aS1ZRYTNxWW5RM0R0aWl3Q3hESHlGU0dFS0hzcjBtN2V4QUlPQlZiV2tUR2o3UVlFVlFsUkE?oc=5",
+      "sources": ["Reuters", "Mediapool", "Свободна точка"],
+      "summary": "Прекъсванията на Starlink засягат операциите на фронта в Украина. ЕС призна, че няма бърз алтернатива за замяна на системата. Тръмп нарече възобновяването на ударите по руски рафинерии \"позор\"."
     },
     {
       "category": "Свят",
-      "headline": "Тръмп заплашва военен удар по Иран, докато Техеран продава гориво въпреки санкциите",
-      "summary": "САЩ заплашват удар по планината Пикакс в Иран. В същото време Иран изнася ЛПГ и реактивно гориво въпреки american блокадата. Хouthi атаки заплашват стратегическите активи на Саудитска Арабия.",
-      "sources": ["Reuters", "DW"],
+      "headline": "Тръмп заплашва военен удар по Иран, докато Иран продава гориво въпреки санкциите",
       "ids": [12, 17, 3, 6],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQ1U1zT01EQ1ZrbEowWlZzeEkwOXpRWm9sWlZkTGFXd0djblU4WHBkSmhWVkRCbUpxbFNnMnB3eENRdTNmQlM5cDJnaGgyOUlETk1BNmV5SlFaR2tGc1BveFYwZ0ZwN1hEaEV2Zk5YNlBXWHBDdlNGZHNpbzRlR0VaRlV5aGJMS1A4Z2c3dEFBZE1VUjM5bUx5Z1pKeXFlWmMzRVFocldhdk1TQzl4TmJ6TFozbU9FV2xxN3lZR1BUN1M?oc=5",
+      "sources": ["Reuters", "DW"],
+      "summary": "САЩ заплашват удар по планината Пикакс в Иран. В същото време Иран изнася ЛПГ и реактивно гориво въпреки американската блокада. Хouthi атаки заплашват стратегическите активи на Саудитска Арабия."
     },
     {
       "category": "Икономика",
       "headline": "Синдикатите в България протестират срещу минималната заплата от 660 евро",
-      "summary": "КНСБ излезе на протест изисквайки по-високи доходи. Синдикатите протестират пред парламента срещу минималната заплата от 660 евро.",
-      "sources": ["FrogNews", "Свободна точка"],
       "ids": [23, 34],
-      "link": "https://frognews.bg/novini/lichnite-biudjeti-defitsit-knsb-izleze-protest-visoki-dohodi.html"
+      "link": "https://frognews.bg/novini/lichnite-biudjeti-defitsit-knsb-izleze-protest-visoki-dohodi.html",
+      "sources": ["FrogNews", "Свободна точка"],
+      "summary": "КНСБ излезе на протест изисквайки по-високи доходи. Синдикатите протестират пред парламента срещу минималната заплата от 660 евро."
     },
     {
       "category": "Култура",
-      "headline": "DARA е предложена за „Грами“ в четири категории, включително „Най-добър нов изпълнител“",
-      "summary": "Българската певица DARA е номинирана за Grammy в четири категории. Тя кандидатства с Bangaranga и в три категории.",
-      "sources": ["FrogNews", "Boulevard Bulgaria"],
+      "headline": "DARA е предложена за \"Грами\" в четири категории, включително \"Най-добър нов изпълнител\"",
       "ids": [27, 38],
-      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html"
+      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html",
+      "sources": ["FrogNews", "Boulevard Bulgaria"],
+      "summary": "Българската певица DARA е номинирана за Grammy в четири категории. Тя кандидатства с Bangaranga и в три категории."
     }
   ]
 }
