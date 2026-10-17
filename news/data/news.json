@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "В Черно море: Румъния свали дронове там, където бяха ударени 2 кораба. Зеленски с ново предупреждение",
+      "link": "https://www.actualno.com/balkani/v-cherno-more-rumynija-svali-dronove-tam-kydeto-bjaha-udareni-2-koraba-zelenski-s-novo-preduprejdenie-news_2651584.html",
+      "pubDate": "2026-10-17T18:01:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/a223295bde7c36b12cec6937bdb8efff_2651584_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "\"Дали Махмуд е сред спасените?\": Жена отчаяно търси свой роднина след ударите по кораби в Черно море",
+      "link": "https://www.actualno.com/society/dali-mahmud-e-sred-spasenite-jena-otchajano-tyrsi-svoj-rodnina-sled-udarite-po-korabi-v-cherno-more-news_2651583.html",
+      "pubDate": "2026-10-17T17:59:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/ec83a6bf747d87d11351020beb895dd7_2651583_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
       "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
       "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-17T17:51:00.000Z",
@@ -34,19 +60,6 @@
       }
     },
     {
-      "title": "Прогноза за времето - 18 октомври 2026 г. (неделя)",
-      "link": "https://www.actualno.com/society/prognoza-za-vremeto-18-oktomvri-2026-g-nedelja-news_2651549.html",
-      "pubDate": "2026-10-17T17:01:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/41067ce5be2e1dfe3742a1379e9dbc6b_2651549_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
       "title": "Право на отговор на Министерство на външните работи",
       "link": "https://www.actualno.com/society/pravo-na-otgovor-na-ministerstvo-na-vynshnite-raboti-news_2651572.html",
       "pubDate": "2026-10-17T17:01:00.000Z",
@@ -60,24 +73,11 @@
       }
     },
     {
-      "title": "Най-важните новини за деня: 17 октомври 2026 г.",
-      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-17-oktomvri-2026-g-news_2651489.html",
-      "pubDate": "2026-10-17T17:00:00.000Z",
+      "title": "Прогноза за времето - 18 октомври 2026 г. (неделя)",
+      "link": "https://www.actualno.com/society/prognoza-za-vremeto-18-oktomvri-2026-g-nedelja-news_2651549.html",
+      "pubDate": "2026-10-17T17:01:00.000Z",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/04fb35228fa5756908de0631c400ade6_2651489_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Лудогорец е на 1/8-финал в Купата на България след рядко срещано събитие във футбола",
-      "link": "https://www.actualno.com/bgfootball/ludogorec-e-na-18-final-v-kupata-na-bylgarija-sled-rjadko-sreshtano-sybitie-vyv-futbola-news_2651568.html",
-      "pubDate": "2026-10-17T16:55:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/c706705412f6ff8d6234abe5b263c53d_2651568_1920x1080.jpg",
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/17/41067ce5be2e1dfe3742a1379e9dbc6b_2651549_1920x1080.jpg",
         "type": "image/jpg"
       },
       "source": {
@@ -541,5 +541,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-17T18:01:26.007Z"
+  "lastUpdated": "2026-10-17T18:23:46.436Z"
 }
