@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
+      "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-18T16:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+      "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-18T16:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Прогноза за времето - 19 октомври 2026 г. (понеделник)",
+      "link": "https://www.actualno.com/climate/prognoza-za-vremeto-19-oktomvri-2026-g-ponedelnik-news_2651771.html",
+      "pubDate": "2026-10-18T16:01:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/18/96f5a523cc9df10990749fb54f8abf80_2651771_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Зеленски заговори за поражение, от САЩ валят разнопосочни сигнали (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/zelenski-zagovori-za-porajenie-ot-sasht-valjat-raznoposochni-signali-video-news_2651770.html",
+      "pubDate": "2026-10-18T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/18/1321b2dfe433bc99a23789d181929804_2651770_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
       "title": "Гюстав Флобер и Елиза Шлезингер: 35 години той мечтаеше за нея и накрая се уплаши да я има",
       "link": "https://www.actualno.com/faces/gustav-flober-i-eliza-shlezinger-35-godini-toj-mechtaeshe-za-neja-i-nakraja-se-uplashi-da-ja-ima-news_2643906.html",
       "pubDate": "2026-10-18T15:45:00.000Z",
@@ -52,29 +98,13 @@
       }
     },
     {
-      "title": "Църковен празник на 19 октомври: Почитаме голям светец, покровител на българския народ",
-      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-19-oktomvri-pochitame-goljam-svetec-pokrovitel-na-bylgarskija-narod-news_2651762.html",
-      "pubDate": "2026-10-18T15:17:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/18/4ea44e6f5c8b14db9fbf782ae90dfa20_2651762_1920x1080.jpg",
-        "type": "image/jpg"
-      },
+      "title": "Lithuania says attempted Starlink arson was Russia-linked sabotage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5",
+      "pubDate": "2026-10-18T15:06:11.000Z",
+      "thumbnail": null,
       "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Станка Златева нарушила едно от правилата си в последния си ден начело на БФ Борба",
-      "link": "https://www.actualno.com/moresport/stanka-zlateva-narushila-edno-ot-pravilata-si-v-poslednija-si-den-nachelo-na-bf-borba-news_2651758.html",
-      "pubDate": "2026-10-18T15:10:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/18/90be35d090cf687e5d018c367d71d85f_2651758_1920x1080.jpg",
-        "type": "image/jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "Reuters",
+        "color": "#4169E1"
       }
     },
     {
@@ -210,16 +240,6 @@
       "source": {
         "name": "Hacker News",
         "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
-      "pubDate": "2026-10-18T13:47:43.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
       }
     },
     {
@@ -473,26 +493,6 @@
       }
     },
     {
-      "title": "Is Germany&apos;s eight-hour workday under threat?",
-      "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-18T10:28:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
-      "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
-      "link": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-18T10:26:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
-      }
-    },
-    {
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
       "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
       "pubDate": "2026-10-18T10:21:51.000Z",
@@ -555,5 +555,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-18T15:54:31.706Z"
+  "lastUpdated": "2026-10-18T16:47:05.199Z"
 }
