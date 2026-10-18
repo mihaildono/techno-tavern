@@ -1,94 +1,93 @@
 {
-  "updatedAt": "2026-10-18T22:30:51.792367Z",
-  "overview": "Денят е доминиран от разширяващата се война в Украйна и нарастващата реакция на НАТО в Черно море, продължаващите протести във Франция и политическата криза в Израел. В България на преден план излизат скандалите с обществени поръчки в транспорта и предстоящият бюджет.",
+  "updatedAt": "2026-10-18T23:30:00.000Z",
+  "overview": "Ключовите събития за днес включват продължаващата война в Украйна и руските атаки в Черно море, масови протести във Франция с хиляди арестувани, здравна криза с ебола в Кения и политическо напрежение в Бразилия.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "British military: With France we don't need to wait for the US, we can protect Ukraine from Putin",
-      "summary": "Ключови събития в продължаващата война на Украйна, включващи цялоевропейски въпроси.",
+      "headline": "Русия атакува Украйна в Черно море и по енергетиката, а САЩ подновиха разузнавателния обмен",
+      "summary": "Русия е атакувала енергетиката на Украйна 76 пъти след „енергийното примирие“ на Тръмп, каза Зеленски. САЩ подновиха обмена на разузнавателна информация с Украйна. Румъния съключи, че е свалила два дрона над Черно море, а България очаква самолети от друга членка на НАТО заради атаките.",
       "sources": [
         "Actualno",
-        "Actualno",
-        "OffNews",
         "Mediapool",
         "FrogNews",
-        "Boulevard Bulgaria",
-        "Dnevnik",
-        "Dnevnik",
-        "Svobodna Tochka"
+        "Dnevik",
+        "Свободна точка"
       ],
       "ids": [
         3,
         5,
-        23,
-        30,
-        36,
-        41,
+        24,
+        31,
         42,
         43,
         44,
-        45
-      ]
-    },
-    {
-      "category": "Общество",
-      "headline": "Macron threatens those who tried to overthrow the republic",
-      "summary": "Протести в Европа с инциденти в Милано и Франция.",
-      "sources": [
-        "OffNews",
-        "OffNews",
-        "FrogNews",
-        "FrogNews",
-        "Mediapool",
-        "Boulevard Bulgaria"
+        45,
+        47
       ],
-      "ids": [
-        15,
-        17,
-        18,
-        33,
-        35,
-        39
-      ]
+      "link": "https://www.actualno.com/europe/britanski-voenen-zaedno-s-francija-ne-trjabva-da-chakame-na-sasht-mojem-da-zashtitim-ukrajna-ot-putin-news_2651828.html"
     },
     {
       "category": "Свят",
-      "headline": "Trump endorses Netanyahu ahead of elections",
-      "summary": "Ключови събития от Близкия Изток.",
+      "headline": "Макрон след безредиците във Франция: Който е нападал държавни сгради, ще плати за това",
+      "summary": "Над 1200 души бяха арестувани при нови протести във Франция, където има горящи коли, грабежи и сблъсъци. Макрон осъди „шокиращите“ сцени на насилие и обеща, че нападалите на държавни сгради ще бъдат наказани.",
       "sources": [
+        "OffNews",
+        "FrogNews",
+        "DW",
+        "Boulevard Bulgaria",
+        "Свободна точка"
+      ],
+      "ids": [
+        16,
+        19,
+        21,
+        22,
+        46
+      ],
+      "link": "https://offnews.bg/sviat/makron-se-zakani-na-onezi-koito-se-opitaha-da-saboriat-republikata-876714.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп подкрепи Нетаняху за преизбирането, а Саудитска Арабия изпраща служителите си дома при хусити",
+      "summary": "Тръмп подкрепи Нетаняху в кампанията за неговото преизбиране. В Саудитска Арабия изпращат служителите на небостъпбите дома поради заплахи от хуситите. В София кацна извънредно самолет от Тел Авив за Виена заради бомбена заплаха.",
+      "sources": [
+        "Boulevard Bulgaria",
         "DW",
         "OffNews"
       ],
       "ids": [
-        14,
-        27
-      ]
+        9,
+        15,
+        28,
+        30
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/samolet-ot-tel-aviv-za-viena-katsna-v-sofiya-zaradi-bombena-zaplaha"
     },
     {
-      "category": "Икономика",
-      "headline": "Transport Ministry stops procedures for over 350 million euros due to alleged abuses in NKGH and BDGH",
-      "summary": "Изменения в транспортната система и спиране на процедури.",
+      "category": "Здравеопазване",
+      "headline": "Кения потвърди осмия случай по ебола, заразата се разпространява в осма конголска провинция",
+      "summary": "Броят на случаите по ебола в Кения се покачи до осем и заразата се разпространява в осма конголска провинция. Кения потвърди осмия случай, докато regionalната епидемия се разширява.",
       "sources": [
-        "FrogNews",
-        "Mediapool"
+        "DW",
+        "Reuters"
       ],
       "ids": [
-        33,
-        35
-      ]
+        1,
+        8
+      ],
+      "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Икономика",
-      "headline": "Kristalina Georgieva: Bulgaria shouldn't spend money it doesn't have",
-      "summary": "Финансови източници за България.",
+      "category": "Политика",
+      "headline": "Бразилия: Бolsonaro и Лула се сблъскват в първия дебат, подкрепени от хиляди привърженици",
+      "summary": "Бразилията е домакин на първия дебат между Болсонаро и Лула, докато привържениците на двамата кандидати излизат на улиците.",
       "sources": [
-        "FrogNews",
-        "Boulevard Bulgaria"
+        "Reuters"
       ],
       "ids": [
-        26,
-        39
-      ]
+        2
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzg5OGp3WHJKSjREX2N5WnZTbTJOX2pVai1IRDl3eGVEMmFzZnczd2UxTnlWR25GYlFKa1kzbk9OSWt6cXFjUExNWXlSa1dkNFJLaG9mTnR4MnY2bkZSVThOVmg0blgwbGNUUGxNMEpNRmlNWkhnbWJzVlAtVUxOaEF1WWdLZ0E1V3o2OEVuQVRVYW85TTRoQ3BTY3lqMnhKb1JwbFJxVGI2WDRHSEhVWTVraw?oc=5"
     }
   ]
 }
