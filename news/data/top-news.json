@@ -1,46 +1,94 @@
 {
-  "updatedAt": "2026-10-18T21:03:35.929Z",
-  "overview": "Денят е доминиран от войната в Украйна и засилената реакция на НАТО в Черно море, масовите протести във Франция и одобрението на Тръмп за Нетаняху в Израел. В България на преден план излизат скандалите с обществени поръчки в транспорта и предстоящият бюджет.",
+  "updatedAt": "2026-10-18T22:30:51.792367Z",
+  "overview": "Денят е доминиран от разширяващата се война в Украйна и нарастващата реакция на НАТО в Черно море, продължаващите протести във Франция и политическата криза в Израел. В България на преден план излизат скандалите с обществени поръчки в транспорта и предстоящият бюджет.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Русия атакува Черно море с дронове — НАТО вдига изтребители, България очаква съюзна авиация",
-      "summary": "Посланикът на Великобритания твърди, че атаките на Русия в Черно море са умишлени и няма провокация от Европа. Литва обявява въздушна тревога заради предполагаем дрон и НАТО вдига изтребители. Румъния свалява два дрона с изтребители F-16, а България очаква съюзна авиация и антидрон системи. Русия атакува енергетиката на Украйна 76 пъти след „енергийното примирие“ на Тръмп, съобщава Зеленски, а САЩ възобновяват обмена на разузнавателна информация с Украйна.",
-      "sources": ["FrogNews", "Mediapool", "OffNews", "DW", "Boulevard Bulgaria", "Свободна точка", "Dnevnik"],
-      "ids": [18, 26, 30, 38, 40, 42, 44, 46, 47, 48, 50],
-      "link": "https://frognews.bg/novini/poslanikat-velikobritaniia-nas-atakite-rusiia-cherno-more-umishleni-niama-provokatsiia-evropa.html"
+      "headline": "British military: With France we don't need to wait for the US, we can protect Ukraine from Putin",
+      "summary": "Ключови събития в продължаващата война на Украйна, включващи цялоевропейски въпроси.",
+      "sources": [
+        "Actualno",
+        "Actualno",
+        "OffNews",
+        "Mediapool",
+        "FrogNews",
+        "Boulevard Bulgaria",
+        "Dnevnik",
+        "Dnevnik",
+        "Svobodna Tochka"
+      ],
+      "ids": [
+        3,
+        5,
+        23,
+        30,
+        36,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
     },
     {
       "category": "Общество",
-      "headline": "Масови протести във Франция — горящи коли, сблъсъци и над 1800 арестувани",
-      "summary": "Макрон се закани на онези, които се опитаха да съборят републиката, и изпитва гняв и срам за погромите. Протестите във Франция се ескалират с горящи коли, сблъсъци с полицията и над 1800 арестувани. Мелони в Италия подкрепя полицията при протестите срещу скока на живота. Анализатори твърдят, че без провала на социалната държава нямаше да има протести в Европа.",
-      "sources": ["OffNews", "FrogNews", "Reuters", "Actualno", "DW", "Свободна точка"],
-      "ids": [1, 3, 7, 10, 13, 28, 37, 49],
-      "link": "https://offnews.bg/sviat/makron-se-zakani-na-onezi-koito-se-opitaha-da-saboriat-republikata-876714.html"
+      "headline": "Macron threatens those who tried to overthrow the republic",
+      "summary": "Протести в Европа с инциденти в Милано и Франция.",
+      "sources": [
+        "OffNews",
+        "OffNews",
+        "FrogNews",
+        "FrogNews",
+        "Mediapool",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        15,
+        17,
+        18,
+        33,
+        35,
+        39
+      ]
     },
     {
       "category": "Свят",
-      "headline": "Тръмп подкрепи Нетаняху в предстоящата изборна кампания в Израел",
-      "summary": "Тръмп официално подкрепя Нетаняху в предстоящата изборна кампания в Израел, където се води близка борба. В същото време „Лукойл“ е част от сделките между Тръмп и Путин, и България има лостове да влияе.",
-      "sources": ["DW", "OffNews", "Boulevard Bulgaria"],
-      "ids": [8, 23, 45],
-      "link": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-top-1022-rdf"
-    },
-    {
-      "category": "Политика",
-      "headline": "Транспортното министерство спря procedures за над 350 млн. euro поради злоупотреби в НКЖИ и БДЖ",
-      "summary": "Транспортното министерство спря procedures за над 350 млн. euro поради alleged abuses в НКЖИ и БДЖ. Спрени са поръчки за над 350 млн. euro, а прокурорите вече говорят за „джуджетата“ в системата.",
-      "sources": ["FrogNews", "Mediapool", "Boulevard Bulgaria"],
-      "ids": [29, 32, 41],
-      "link": "https://frognews.bg/novini/ima-zloupotrebi-nkji-bdj-transportnoto-ministerstvo-spria-protseduri-nad-350-mln-evro.html"
+      "headline": "Trump endorses Netanyahu ahead of elections",
+      "summary": "Ключови събития от Близкия Изток.",
+      "sources": [
+        "DW",
+        "OffNews"
+      ],
+      "ids": [
+        14,
+        27
+      ]
     },
     {
       "category": "Икономика",
-      "headline": "Гюров: Бих наложил вето на бюджет 2027 — държавата да оптимизира разходите",
-      "summary": "Гюров обявява, че би наложил вето на бюджет 2027, изисквайки държавата да оптимизира разходите си, вместо да товари домакинствата и бизнеса. Кристалина Георгиева предупреждава България да не харчи пари, които няма, а кандидатите за президент са платили значителни суми за реклама в медии.",
-      "sources": ["FrogNews", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [22, 33, 35, 36],
-      "link": "https://boulevardbulgaria.bg/articles/gyurov-bih-nalozhil-veto-na-byudzhet-2027-darzhavata-da-optimizira-razhodite-si-vmesto-da-tovari-domakinstvata-i-biznesa-"
+      "headline": "Transport Ministry stops procedures for over 350 million euros due to alleged abuses in NKGH and BDGH",
+      "summary": "Изменения в транспортната система и спиране на процедури.",
+      "sources": [
+        "FrogNews",
+        "Mediapool"
+      ],
+      "ids": [
+        33,
+        35
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Kristalina Georgieva: Bulgaria shouldn't spend money it doesn't have",
+      "summary": "Финансови източници за България.",
+      "sources": [
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        26,
+        39
+      ]
     }
   ]
 }
