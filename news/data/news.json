@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Vehicle drives through Kansas soccer game, killing two, including a child, police say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5",
+      "pubDate": "2026-10-17T22:10:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Украйна не бива да избира между защитата на гражданите си и умилостивяването на Тръмп",
       "link": "https://www.actualno.com/europe/ukrajna-ne-biva-da-izbira-mejdu-zashtitata-na-grajdanite-si-i-umilostivjavaneto-na-trymp-news_2651607.html",
       "pubDate": "2026-10-17T19:48:00.000Z",
@@ -77,6 +87,19 @@
       }
     },
     {
+      "title": "Защо Саудитска Арабия не успява да спре хутите въпреки военното си превъзходство?",
+      "link": "https://frognews.bg/novini/zashto-sauditska-arabiia-uspiava-spre-hutite-vapreki-voennoto-prevazhodstvo.html",
+      "pubDate": "2026-10-17T18:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c9f001c88_huti.webp",
+        "type": "image/webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
       "title": "Путин принуди Тръмп да танцува канкан без гащи",
       "link": "https://www.actualno.com/cite/putin-prinudi-trymp-da-tancuva-kankan-bez-gashti-news_2651599.html",
       "pubDate": "2026-10-17T18:47:00.000Z",
@@ -87,6 +110,16 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "pubDate": "2026-10-17T18:45:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -278,19 +311,6 @@
       }
     },
     {
-      "title": "Два инцидента с дронове за ден в Румъния – изтребители свалиха два над Черно море",
-      "link": "https://frognews.bg/novini/dva-intsidenta-dronove-den-rumaniia--iztrebiteli-svaliha-dva-nad-cherno-more.html",
-      "pubDate": "2026-10-17T16:25:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/a8e645dc5_1792247584_6ad3872092c3e.webp",
-        "type": "image/webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
       "title": "Папата напусна пеша болницата, четири дни след операцията на белия дроб",
       "link": "https://www.mediapool.bg/svyat/papata-napusna-pesha-bolnitsata-chetiri-dni-sled-operatsiyata-na-beliya-drob/",
       "pubDate": "2026-10-17T15:56:13.000Z",
@@ -372,16 +392,6 @@
       "source": {
         "name": "Boulevard Bulgaria",
         "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Protesters clash with police in Brussels - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEJmRHZXRTB5bU1Xb1FoXzVTVG4yTkVQUmM2cS1oZzZrcGZIbjVnRU5MMFBtc0FVQjBOTUFFdU1YbldSSkpTWm40Vll2YmtMaDFVRTVvREN1ODJsQ2FRaU5lRmM1cnp3d2FnU1Fsc1MtNmVzX2JrenRfM3lnQ0k1Vk1GeEExZw?oc=5",
-      "pubDate": "2026-10-17T14:42:07.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
       }
     },
     {
@@ -499,37 +509,7 @@
         "name": "Свободна точка",
         "color": "#FF9800"
       }
-    },
-    {
-      "title": "Source code of the Estonian online voting system",
-      "link": "https://github.com/valimised/ivxv",
-      "pubDate": "2026-10-17T03:18:39.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "pubDate": "2026-10-16T23:47:31.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "link": "https://www.nature.com/articles/d41586-026-03266-x",
-      "pubDate": "2026-10-16T23:38:27.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
     }
   ],
-  "lastUpdated": "2026-10-17T21:01:37.051Z"
+  "lastUpdated": "2026-10-18T00:00:49.590Z"
 }
