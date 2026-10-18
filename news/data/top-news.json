@@ -1,81 +1,46 @@
 {
-  "updatedAt": "2026-10-18T07:40:06.000Z",
-  "overview": "Ескалиращ украински конфликт и нова заповед на Путин за обезлюдяване на градове, масови протести по цяла Франция, успешна операция на папа Лъв XIV и румънски изтребители, свалящи руски дрона над Черно море – тези са главните събития от световната новинарска агенция.",
+  "updatedAt": "2026-10-18T18:54:33.000Z",
+  "overview": "Болгарски политически страни позиционират кандидатури за президентските избори, Русия продължава атаките срещу украинска енергетика, а Манчестър Юнайтед претърпява серия от неуспехи на мачовете. Други актуални теми включват магнитни бури в САЩ и растящ инфлайт в страната.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Ескалиране на украинския конфликт с нова заповед на Путин за обезлюдяване на градове",
-      "summary": "Путин заповядва украинските градове да станат необитаеми като част от ескалираща война с Украйна, мачкайки международната общност по време на нова вълна от военни действия.",
-      "sources": [
-        "Actualno",
-        "Mediapool",
-        "DW",
-        "Свободна точка"
-      ],
-      "ids": [
-        4,
-        28,
-        29,
-        39
-      ],
-      "link": "https://www.actualno.com/europe/novata-zapoved-na-putin-ukrainskite-gradove-da-stanat-neobitaemi-news_2651605.html"
+      "category": "Политика",
+      "headline": "Андрей Гюров разкрива дали би говорил с Путин и какво би му казал, ако стане президент",
+      "summary": "Андрей Гюров говори за взаимоотношенията с Русия, заявявайки, че ако стане президент, ще установи пълна прозрачност по отношение на всички контакти с руските власти.",
+      "sources": ["Actualno", "OffNews"],
+      "ids": [19, 20],
+      "link": "https://www.actualno.com/politics/andrej-gurov-razkri-dali-bi-govoril-s-putin-i-kakvo-bi-mu-kazal-ako-stane-prezident-news_2651753.html"
     },
     {
-      "category": "Общество",
-      "headline": "Масови протести избухват по цяла Франция с напрежение в Париж, Лион и Марсилия",
-      "summary": "Многомиллионни протести с насилие се разгръщат из цяла Франция, с тежки сблъсъци между демонстрантите и полицията в големи градове включително Париж, Лион и Марсилия.",
-      "sources": [
-        "Reuters",
-        "FrogNews",
-        "Mediapool"
-      ],
-      "ids": [
-        10,
-        13,
-        22,
-        33
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEpOU0pkZXEtTWhtSDFpMEZCT01yeno3N3ViQVBwMXJRbkRvU0lldzYwSEJVbkhrVEpPV3FIdU5nYjBJa3FpeThOX2Q2QnZIS0w5Y2JscG8zLXhUTDdlc05WZzUwcldlUHJHc1oyRlZSeTlfU3J3dTg5T2l5NnpzcHlwMUNLeVNxRmJveW9OclJpUXVkSmc?oc=5"
-    },
-    {
-      "category": "Здравеопазване",
-      "headline": "Папа Лъв XIV се връща във Ватикана след успешна операция на белия дроб",
-      "summary": "Папа Лъв XIV напусна пеша болницата четири дни след успешна операция на белия дроб, заверяващ неговото пълно възстановяване.",
-      "sources": [
-        "Mediapool"
-      ],
-      "ids": [
-        25
-      ],
-      "link": "https://www.mediapool.bg/svyat/papata-napusna-pesha-bolnitsata-chetiri-dni-sled-operatsiyata-na-beliya-drob/"
+      "category": "Политика",
+      "headline": "Гюров: Бих наложил вето на бюджет 2027. Държавата да оптимизира разходите си, вместо да тежи на домакинствата и бизнеса",
+      "summary": "Президентът Гюров заяви, че ще наложи вето на бюджета за 2027 г., като,onява държавата да оптимизира разходите си вместо да натоварва домакинствата и бизнеса с допълнителни разходи.",
+      "sources": ["Boulevard Bulgaria"],
+      "ids": [5],
+      "link": "https://boulevardbulgaria.bg/articles/gyurov-bih-nalozhil-veto-na-byudzhet-2027-darzhavata-da-optimizira-razhodite-si-vmesto-da-tovari-domakinstvata-i-biznesa-"
     },
     {
       "category": "Свят",
-      "headline": "Румънски изтребители свалиха пет руски дрона над Черно море в ескалиращо напрежение",
-      "summary": "Румънски военни самолети свалиха пет руски дрона над Черно море в ескалиращата конфронтация между двете страни, създавайки сериозно военна обстановка в региона.",
-      "sources": [
-        "DW",
-        "FrogNews",
-        "Свободна точка"
-      ],
-      "ids": [
-        15,
-        24,
-        44
-      ],
-      "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-top-1022-rdf"
+      "headline": "Русия е атакувала енергетиката на Украйна 76 пъти след енергийното примирие на Тръмп, каза Зеленски",
+      "summary": "Зеленски отбеляза 76 атаки срещу украинска енергетика от момента на обявяването на енергийното примирие от Тръмп, подчертавайки продължаващата руска военна кампания срещу инфраструктурите в съседката.",
+      "sources": ["Свободна точка", "Reuters"],
+      "ids": [13, 66],
+      "link": "https://svobodnatochka.bg/novini/rusiya-e-atakuvala-energetikata-na-ukrayna-76-pati-otkakto-tramp-obyavi-energiyno-primerie-kaza-zelenski/"
     },
     {
-      "category": "Общество",
-      "headline": "За да не може да се снасят, някои болници са подконтролирани от военните – в болниците има клиники и кабинети",
-      "summary": "Според данни на Независими медиа, над 90 обекта в страната, чийто собственост си е переходна собственост на АОП и МО, се използват за снабдяване с лекарства и оборудване на апаратите.",
-      "sources": [
-        "Hacker News"
-      ],
-      "ids": [
-        12
-      ],
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      "category": "Спорт",
+      "headline": "Контузия порази един от най-важните играчи на ПСЖ преди двубоя с Барселона",
+      "summary": "Важният футболен играч на ПСЖ претърпи контузия, която поставя под въпрос неговото участие в предстоящия мач срещу Барселона.",
+      "sources": ["Actualno"],
+      "ids": [3],
+      "link": "https://www.actualno.com/football/kontuzija-porazi-edin-ot-naj-vajnite-igrachi-na-psj-predi-dvuboja-s-barselona-news_2651765.html"
+    },
+    {
+      "category": "Спорт",
+      "headline": "Илия Груев изгледа от пейката пълен срамен резултат за Манчестър Юнайтед",
+      "summary": "Илия Груев можеше да отвори редицата с рани в Манчестър Юнайтед при сегашния сезон, но сегашният му отстъп във формата налага въпроси относно неговото бъдещо място в отбора.",
+      "sources": ["Actualno"],
+      "ids": [18],
+      "link": "https://www.actualno.com/football/ilija-gruev-izgleda-ot-pejkata-porednija-sramen-rezultat-za-manchestyr-unajted-news_2651756.html"
     }
   ]
 }
