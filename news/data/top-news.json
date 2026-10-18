@@ -1,140 +1,46 @@
 {
-  "updatedAt": "2026-10-18T18:25:47.589Z",
-  "overview": "Тази седмица международната обстановка е напрегната от Украйнския конфликт и прояви на европейско социално недоволство, докато западният свят продължава да насърчава военни и дипломатически действия по цял свят.",
+  "updatedAt": "2026-10-18T18:45:00.000Z",
+  "overview": "Денят е доминиран от войната в Украйна и реакцията на НАТО в Черно море, масовите протести във Франция и продължаващата политическа напрежение в САЩ. В България на преден план излизат скандалите с обществени поръчки в транспорта и предстоящият бюджет.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Украйна и Запад усилват сътрудничеството, Тръмп подкрепя Нетаняху",
-      "summary": "САЩ възобновиха разузнавателното сътрудничество с Украйна, докато Тръмп заяви подкрепата си за Нетаняху в безпрецедентните безпартийни избори в Израел. Енергийният безпоясълк и лоялността на САЩ спряха конфликта в Средиземно море, докато Руска армия нанесе удари по нефтените бази в Рияд и Аден.",
-      "sources": [
-        "Reuters",
-        "DW",
-        "OffNews",
-        "Dnevnik"
-      ],
-      "ids": [
-        11,
-        13,
-        16,
-        19,
-        20,
-        22,
-        24,
-        28,
-        30,
-        31,
-        35,
-        36,
-        37,
-        39,
-        46,
-        47,
-        52,
-        55,
-        56
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5"
-    },
-    {
       "category": "Свят",
-      "headline": "Русия атакува украинската енергетика 76 пъти, в Черно море бяха засечени пътнически самолети",
-      "summary": "Русия продължава атаките срещу украинската енергетика, стигнали до 76 от началото на годината, след \"енергийното примирие\" на Тръмп. Критическите инфраструктури в България и Румъния не бяха атакувани. В Черно море бяха засечени пътнически самолети, търсещо база в черно море.",
-      "sources": [
-        "Actualno",
-        "Mediapool"
-      ],
-      "ids": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        10,
-        12,
-        14,
-        15,
-        25,
-        42,
-        44,
-        49,
-        50
-      ],
-      "link": "https://www.actualno.com/balkani/prenarejdane-na-silite-v-egejsko-more-germanija-i-gyrcija-s-obsht-proekt-za-moderni-podvodnici-news_2651142.html"
+      "headline": "Украйна и НАТО реагират след дронове над Литва и Черно море — Русия атакува енергетиката на Украйна 76 пъти",
+      "summary": "Украйна изказва извинения след предполагаемо крушене на дрон в Литва, докато Румъния свалява два дрона над Черно море с изтребители F-16. НАТО вдига изтребители във въздушното пространство на Литва, а България очаква съюзнически авиация. Русия атакува енергетиката на Украйна 76 пъти след „енергийното примирие“ на Тръмп, съобщава Зеленски.",
+      "sources": ["FrogNews", "Reuters", "DW", "Boulevard Bulgaria", "Свободна точка", "Dnevnik", "Mediapool", "OffNews"],
+      "ids": [9, 18, 23, 29, 33, 36, 39, 41, 43, 44, 46],
+      "link": "https://frognews.bg/novini/poslanikat-velikobritaniia-nas-atakite-rusiia-cherno-more-umishleni-niama-provokatsiia-evropa.html"
     },
     {
       "category": "Общество",
-      "headline": "Европа се изправя пред най-бурните протести от годините, Франция и Италия са най-засегнатите страни",
-      "summary": "Франция реагира с отвара на страничния газ към протести в Жюлиан, където се образовало мощно поприще, сред тях бяха пияни стопаняници и последваха вандалски действия. Италия мъчевила професорите и обучението, където Суселева беше повлечен от мръсната тяга, а Кожарина е отнела към друго място. Големи социални проблеми предизвикват голяма безработица в страната.",
-      "sources": [
-        "Mediapool",
-        "OffNews"
-      ],
-      "ids": [
-        3,
-        4,
-        5,
-        6,
-        7,
-        24,
-        25,
-        36,
-        37,
-        39,
-        42,
-        44,
-        46,
-        49,
-        50
-      ],
-      "link": "https://www.mediapool.bg/sport/po-barzoto-hodene-udalzhava-zhivota-na-vazrastnite/"
+      "headline": "Масови протести във Франция — горящи коли, сблъсъци и над 1800 арестувани",
+      "summary": "Протестите във Франция се escalират с горящи коли, сблъсъци с полицията и над 1800 арестувани. В Италия Мелони подкрепя полицията при протести срещу скока на живота. Анализатори твърдят, че без провала на социалната държава нямаше да има протести в Европа.",
+      "sources": ["Actualno", "DW", "FrogNews", "Свободна точка"],
+      "ids": [1, 21, 32, 45],
+      "link": "https://www.actualno.com/europe/sled-protestite-v-parij-tusk-objavi-che-polsha-shte-se-zashtiti-sreshtu-nelegalnite-migranti-news_2651810.html"
     },
     {
-      "category": "Спорт",
-      "headline": "Спартак Плевен се опълчи на Левски, но класът спря гърба, Ботев Пловдив обяви смени в селото",
-      "summary": "ФК Спартак (Плевен) отново посрещна ФК Левски (Софиевски), но класът им спря гърба на поля. Ботев Пловдив обяви големи промени в селото, вероятно заради смяната на треньора. Футболната сезона поражда тежки кризи в селските дискусии.",
-      "sources": [
-        "Actualno",
-        "Dnevnik"
-      ],
-      "ids": [
-        1,
-        2,
-        8,
-        10,
-        12,
-        14,
-        15,
-        47,
-        52,
-        55,
-        56
-      ],
-      "link": "https://www.actualno.com/balkani/prenarejdane-na-silite-v-egejsko-more-germanija-i-gyrcija-s-obsht-proekt-za-moderni-podvodnici-news_2651142.html"
+      "category": "Свят",
+      "headline": "Тръмп подкрепи Нетаняху в близката изборна кампания в Израел",
+      "summary": "Тръмп официално подкрепя Нетаняху в предстоящата изборна кампания в Израел, където се води близка борба. В същото време „Лукойл“ е част от сделките между Тръмп и Путин, и България има лостове да влияе.",
+      "sources": ["Reuters", "OffNews", "Boulevard Bulgaria"],
+      "ids": [7, 15, 42],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5"
     },
     {
-      "category": "Култура",
-      "headline": "Световни спортове и култура продължават да се изразяват, забелязвайки активни изяви на обществена оценка",
-      "summary": "В Словенска Шватска Пепеляшка партита се проведе успешно с тези от РАК и Младост за Боляри. Перу и Македонска постижения продължават да се наблюдават в световните купове, демонстрирайки качествен прогрес в градежните проекти и спортните постижения.",
-      "sources": [
-        "Reuters",
-        "Свободна точка"
-      ],
-      "ids": [
-        11,
-        13,
-        19,
-        22,
-        26,
-        31,
-        41,
-        51,
-        53,
-        54
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5"
+      "category": "Политика",
+      "headline": "Транспортното министерство спря procedures за над 350 млн. euro поради abuses в НКЖИ и БДЖ",
+      "summary": "Транспортното министерство спря procedures за над 350 млн. euro поради alleged abuses в НКЖИ и БДЖ. Спрени са поръчки за над 350 млн. euro, а прокурорите вече говорят за „джуджетата“ в системата.",
+      "sources": ["FrogNews", "Mediapool", "Boulevard Bulgaria"],
+      "ids": [22, 25, 38],
+      "link": "https://frognews.bg/novini/ima-zloupotrebi-nkji-bdj-transportnoto-ministerstvo-spria-protseduri-nad-350-mln-evro.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Гюров: Бих наложил вето на бюджет 2027 — държавата да оптимизира разходите",
+      "summary": "Гюров обявява, че би наложил вето на бюджет 2027, изисквайки държавата да оптимизира разходите си, вместо да товари домакинствата и бизнеса. Кристалина Георгиева предупреждава България да не харчи пари, които няма, а кандидатите за президент са платили значителни суми за реклама в медии.",
+      "sources": ["FrogNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [14, 26, 31],
+      "link": "https://frognews.bg/novini/kristalina-georgieva-balgariia-biva-harchi-pari-koito-niama.html"
     }
   ]
 }
