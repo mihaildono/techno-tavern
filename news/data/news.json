@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of &apos;prolonging war&apos;",
+      "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-19T00:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      }
+    },
+    {
+      "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+      "pubDate": "2026-10-18T23:52:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      }
+    },
+    {
       "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
       "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-18T23:43:00.000Z",
@@ -8,6 +28,16 @@
       "source": {
         "name": "DW",
         "color": "#C8102E"
+      }
+    },
+    {
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
+      "pubDate": "2026-10-18T23:37:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
       }
     },
     {
@@ -267,16 +297,6 @@
       }
     },
     {
-      "title": "Trump says Washington golf course renovation to start in November, despite judge's order - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUFpZWVRek1jNGw1WFA1bS1pUTFYQ3U5NW96R2poMzJRVkJsRXZ6RjJIaTJ2OUc1eUdwN0tLQVZEQ0JhYWw3NWRLcllNejN4M3A2N2FXRjBCNDhoWkk3NFNTTGQtOHBiTG45WWE3eUJMT2dOTHV1ZFhHVmRwazV4bkdUWWhUaVE3RVVXRFJRcUF3aDVObmFKMGZpelhQOWJQcXo0QW52djBNLTB0Mk5hczNLTjNIYUY4ZTlUcW5XbjJ6aUw3M2NSN2VfV1FHUQ?oc=5",
-      "pubDate": "2026-10-18T17:50:09.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1"
-      }
-    },
-    {
       "title": "Посланикът на Великобритания у нас: Атаките на Русия в Черно море са умишлени. Няма провокация от Европа",
       "link": "https://frognews.bg/novini/poslanikat-velikobritaniia-nas-atakite-rusiia-cherno-more-umishleni-niama-provokatsiia-evropa.html",
       "pubDate": "2026-10-18T17:30:00.000Z",
@@ -348,16 +368,6 @@
       "source": {
         "name": "OffNews",
         "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
-      "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-18T16:34:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E"
       }
     },
     {
@@ -463,16 +473,6 @@
       }
     },
     {
-      "title": "RepRapMicron",
-      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "pubDate": "2026-10-18T13:48:48.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
-      }
-    },
-    {
       "title": "Русия е атакувала енергетиката на Украйна 76 пъти след „енергийното примирие“ на Тръмп, каза Зеленски",
       "link": "https://svobodnatochka.bg/novini/rusiya-e-atakuvala-energetikata-na-ukrayna-76-pati-otkakto-tramp-obyavi-energiyno-primirie-kaza-zelenski/",
       "pubDate": "2026-10-18T12:34:19.000Z",
@@ -545,5 +545,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-19T00:01:23.284Z"
+  "lastUpdated": "2026-10-19T00:40:44.927Z"
 }
