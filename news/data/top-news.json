@@ -1,66 +1,46 @@
 {
-  "updatedAt": "2026-10-19T10:38:26.064Z",
-  "overview": "Ключовите събития от днес включват ескалация на конфликта между Украйна и Русия, американска политика към разузнавателната споделяне с Киев, прояви на протестни вълни във Франция и уязвими петролни пазари.",
+  "updatedAt": "2026-10-19T11:18:30.084Z",
+  "overview": "Денят е отбелязан от ескалацията на напрежението между САЩ, Русия и Украйна following облекчаването на санкциите, мащабни протести във Франция и serie от инциденти в България — палеж на антените на Starlink и бомбена заплаха за кацналия в София самолет.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Ukraine got no warning of Russian ballistic strikes, Zelenskyy says",
-      "summary": "Украјна заяви, че не е предупредена за ракетните удари на Русия, които ударват по цивилни цели; ова се случва в момент, когато Запад обявява нови санкции и военна поддръжка.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        2
-      ],
+      "headline": "Тръмп облекчава санкциите срещу Русия, но напрежението с Украйна нараства",
+      "summary": "САЩ обявиха облекчаване на санкциите срещу Русия, оправдани с мирните преговори и цените на горивата. Киев обаче получава нови обвинения — Зеленски твърди, че Тръмп тласка Украйна към капитулация пред Путин, докато Rubio отрече спирането на разузнавателното споделяне с Украйна. Цените на петрола се понижиха след решението.",
+      "sources": ["DW", "Mediapool", "Reuters", "Свободна точка", "FrogNews"],
+      "ids": [15, 20, 26, 27, 31, 33, 39],
       "link": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Политика",
-      "headline": "Rubio denies US paused intelligence sharing with Ukraine - Reuters",
-      "summary": "Сървайнер Рубио отрече, че САЩ са спрели размената на разузнавателна информация с Украйна, потвърждавайки, че стратегическите комуникации между двете страни продължават независимо от българските санкции.",
-      "sources": [
-        "Reuters"
-      ],
-      "ids": [
-        25
-      ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQThGcWlldmI5ZTh2U19DekhJRzZuR0Z3OEVjQ21nZmJPSjdYV2ZXZ1dVMmZGa0F6RkUzYlhCUnlQd013Tnh1UE1jVEhveDFsN2Z6VERWVjRUWXF2WmlNNmZESEU2Z3ZoZmVhV2F3NG1YVVI3OFc0TGlDWDJmdzVkVnJRZDFDT1o4dzBGUzJTeG9aS3BieGFtVHhDZEhRWmt2dUlhNU5pMzgwQWJQOWduRg?oc=5"
+      "category": "Общество",
+      "headline": "Протести във Франция: Макрон обеща съд за насилниците, но напрежението нараства",
+      "summary": "Мащабни протести с хиляди арестувани и палежи по сгради на правителството във Франция. Президентът Макрон обяви, че ще се обърне към съда против хулиганските групи и ще води диалог с младежките организации. AI-клиповете с Розовата пантера се появиха като символ на съпротивата.",
+      "sources": ["Boulevard Bulgaria", "FrogNews", "OffNews"],
+      "ids": [23, 30, 37, 44, 45],
+      "link": "https://boulevardbulgaria.bg/articles/kak-se-poyaviha-ai-klipovete-s-rozovata-pantera-ot-protestite-vav-frantsiya"
     },
     {
-      "category": "Политика",
-      "headline": "Макрон обеща съд за насилниците и диалог с младежите от протестите",
-      "summary": "Президентът Макрон обяви, че ще се обърне към съда против хулиганските групи, предвиждат се преговори с младежки организации от Франция, проявили активност по време на мащабните протести с хиляди арестувани и палежи по сгради на правителството.",
-      "sources": [
-        "FrogNews"
-      ],
-      "ids": [
-        43
-      ],
-      "link": "https://frognews.bg/novini/makron-obeshta-sad-nasilnitsite-dialog-mladejite-protestite.html"
+      "category": "Общество",
+      "headline": "Подпалването на антените на Starlink: Обвиняемите са избягали от България",
+      "summary": "Двама души, обвинени в подпалването на антените на Starlink край София, са избягали от България. Прокуратурата иска европейски заповеди за арест им, а президентът Радев е попитан за обещаните резултати по делото.",
+      "sources": ["Свободна точка", "Actualno", "Boulevard Bulgaria"],
+      "ids": [3, 5, 22],
+      "link": "https://svobodnatochka.bg/novini/prokuraturata-iska-evropeyski-zapovedi-za-arest-za-dvama-dushi-obvineni-za-podpalvaneto-na-antenite-na-starlink/"
     },
     {
       "category": "Свят",
-      "headline": "Australian MP seriously hurt in suspected car attack",
-      "summary": "Австралийският депутат Хелен Хейнс се намира в тежко състояние след катастрофа в Сидни; нападателят се казва Шон МакКарти, има предварителни индикации, че е политически мотивирано престъпление.",
-      "sources": [
-        "DW"
-      ],
-      "ids": [
-        1
-      ],
-      "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-top-1022-rdf"
+      "headline": "Самолет от Тел Авив кацна извънредно в София заради бомбена заплаха",
+      "summary": "Австриец е подал сигнала за бомба на борда на самолет, кацнал извънредно в София. Полетът от Тел Авив за Виена е излетял след претърпяното закъснение и проверката на багажа.",
+      "sources": ["Boulevard Bulgaria", "Dnevnik", "OffNews"],
+      "ids": [24, 25, 41],
+      "link": "https://boulevardbulgaria.bg/articles/bomba-samolet"
     },
     {
-      "category": "Икономика",
-      "headline": "Цените на петрола се понижиха след облекчаването на санкциите срещу Русия",
-      "summary": "Финансовите пазари регистрираха понижение на цените на петрола след облекчаването на западните санкции срещу Русия; понижаването на цените за новина продукти има загуби за Пентагона, особено с оглед това, че петролният пазар се съпротивлява седмично.",
-      "sources": [
-        "Mediapool"
-      ],
-      "ids": [
-        6
-      ],
-      "link": "https://www.mediapool.bg/biznes/tsenite-na-petrola-se-ponizhiha-sled-oblekchavaneto-na-sanktsiite-sreshtu-rusiya/"
+      "category": "Свят",
+      "headline": "Австралийският депутат Хелен Хейнс в тежко състояние след вероятно политически мотивирано нападение",
+      "summary": "Австралийският lawmaker Хелен Хейнс е в критично състояние след атака с превозно средство в Сидни. Нападателят Шон МакКарти е идентифициран, а има предварителни доказателства за политическа мотивация на престъплението.",
+      "sources": ["DW", "Reuters"],
+      "ids": [14, 18],
+      "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-top-1022-rdf"
     }
   ]
 }
