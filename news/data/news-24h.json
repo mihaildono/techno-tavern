@@ -1,9 +1,130 @@
 {
   "windowStart": "2026-10-19T15:32:35.286Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-19T17:04:04.768Z",
-  "totalItems": 49,
+  "lastUpdated": "2026-10-19T18:01:18.195Z",
+  "totalItems": 59,
   "items": [
+    {
+      "title": "\"Не може да има повече от един петел в един и същ кокошарник\": Критикуваха трансфера на Мбапе в Реал Мадрид",
+      "link": "https://www.actualno.com/football/ne-moje-da-ima-poveche-ot-edin-petel-v-edin-i-sysht-kokosharnik-kritikuvaha-transfera-na-mbape-v-real-madrid-news_2652222.html",
+      "pubDate": "2026-10-19T17:27:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/19/4ecd21b7d9d2a60f2e887b5b88c581e9_2652222_1920x1080.jpg",
+        "type": "image/jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Легендата Кристиан Аманпур напуска CNN след 43 години кариера",
+      "link": "https://boulevardbulgaria.bg/articles/legendata-kristian-amanpur-napuska-cnn-sled-43-godini",
+      "pubDate": "2026-10-19T17:15:46.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NDM4LCJwdXIiOiJibG9iX2lkIn19--4d3ac20557767f34b105e490ff36543c341ce92d/кристиан аманпур.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5",
+      "pubDate": "2026-10-19T17:12:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "pubDate": "2026-10-19T16:37:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Един човек загина, а друг е тежко ранен при верижна катастрофа между Карнобат и Айтос",
+      "link": "https://boulevardbulgaria.bg/articles/edin-chovek-zagina-a-drug-e-tezhko-ranen-pri-verizhna-katastrofa-mezhdu-karnobat-i-aytos",
+      "pubDate": "2026-10-19T16:23:59.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NDM1LCJwdXIiOiJibG9iX2lkIn19--0e0b2c2af8d58f7460c74bd67a82df305b673136/%D0%BC%D0%B2%D1%80-%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D1%81%20.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Сръбски прокурор, разследващ проекта Trump Tower в Белград, е станал мишена на шпионски софтуер",
+      "link": "https://boulevardbulgaria.bg/articles/srabski-prokuror-razsledvasht-proekta-trump-tower-v-belgrad-e-stanal-mishena-na-shpionski-softuer",
+      "pubDate": "2026-10-19T15:37:57.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NDEzLCJwdXIiOiJibG9iX2lkIn19--7573f5b6baed320ee7fb98a441801cfe8109eadb/Rektor_Univerziteta_u_Beogradu_Vladan_%C4%90okic%CC%81_na_tribini_u_Vrbasu.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "pubDate": "2026-10-19T15:28:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-19T15:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "Kremlin hawks savour Trump-Zelenskiy rift — if it lasts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BaM1RWTFNNVF96VW5feTNudDM2T0JUNHRyUEtfTkQ0T3VnekZQZFR6MGs1Y0F6a1RxdldWMEFSRnVXNjB1eDRORUI2QlVWbzN0aUY0ZnZkRklnbXVLVUtsM19scVNpTjg1UUFYQXN2V3BFMmhsSE0tZVZpU1FuNmp1X3pCckdaekRRTUcxZXN2UzRWOGdvRnU3OUYwaUhmZTV0Qg?oc=5",
+      "pubDate": "2026-10-19T14:53:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
+    {
+      "title": "САЩ предупредиха за възможни атаки срещу американски компании и институции по света",
+      "link": "https://boulevardbulgaria.bg/articles/sasht-preduprediha-za-vazmozhni-ataki-sreshtu-amerikanski-kompanii-i-institutsii-po-sveta",
+      "pubDate": "2026-10-19T14:51:26.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyNzYwLCJwdXIiOiJibG9iX2lkIn19--e7164e19d1a3b430d759bd110f65e0cb6bf7520c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxMDAsNzVdLCJzYXZlciI6eyJxdWFsaXR5Ijo4NX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--edbbb16d3b72018e4dc398d7ef45a872cca39d82/saudi%20airport%20.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-19T18:01:18.195Z"
+    },
     {
       "title": "Моуриньо за новата звезда на Реал Мадрид: \"Напомня ми за Винисиус Жуниор\"",
       "link": "https://www.actualno.com/football/mourinio-za-novata-zvezda-na-real-madrid-napomnja-mi-za-vinisius-junior-news_2652213.html",
