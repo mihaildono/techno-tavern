@@ -1,46 +1,82 @@
 {
-  "updatedAt": "2026-10-19T15:10:00.000Z",
+  "updatedAt": "2026-10-19T16:42:00.000Z",
   "overview": "Денят е отбелязан от мащабните дипломатически и военни развития около войната в Украйна, където напрежението между Тръмп и Зеленски продължава, а САЩ облекчават санкциите срещу Русия. Във Франция протестите и бунтове продължават, изискващи кризисни мерки, докато в България разследват палежа на Starlink антени край София.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Войната в Украйна: Тръмп обвини Зеленски, Путин се среща с Китай, САЩ облекчават санкциите",
-      "summary": "Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин, и потърси подкрепа от САЩ. Путин провежда среща с Тръмп и Си Цзинпин, а САЩ облекчават руските санкции с мотивиране с мирните преговори. Киев отново получава разузнавателни данни от Вашингтон, докато Песков отбеляза, че мир в Украйна само със САЩ няма да стане.",
-      "sources": ["Actualno", "OffNews", "Mediapool", "Свободна точка", "FrogNews"],
-      "ids": [6, 17, 27, 29, 38, 46],
-      "link": "https://www.actualno.com/europe/skoro-moje-da-ima-evakuacija-na-gladuvashti-v-oleshki-peskov-mir-v-ukrajna-samo-sys-sasht-njama-da-stane-video-news_2652048.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Протестни бунтове във Франция: Льокорню свиква кризисна среща, Макрон обеща съд за насилниците",
-      "summary": "Френският премиер Льокорню свиква кризисна среща на министрите и говори за извънредно положение след уикендните бунтове и протести. Макрон обеща съд за насилниците и диалог с младежите от протестите, а европейските правителства предупреждават своите citizens за сигурността във Франция.",
-      "sources": ["Reuters", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [7, 19, 32, 37, 44],
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS05IaFlBa0paMExacEp0cGpsM0JDeGF2RmZTR3JDZWxxRUZ4TGF4TVMtV09yay1PQjFhMnJRT3UteEtWQV9nUU9DMHFfaU1Kd054UlF3aFh1WGtuaUlFWTQ0RXExNVNfT3RwRFhLLW82XzhpNEFNdjd6X2RmVXNETzVsYTR5TjBFWTFrbHZ5NVhpcnNpbDF6UGVaSU9sMnR4d1hxZlVSLTY?oc=5"
+      "headline": "Путин, Тръмп и Си Цзинпин ще се срещнат в Китай — Зеленски обвини Тръмп, че тласка Украйна към капитулация",
+      "summary": "Кремъл съ получи, че тримата лидери могат да се срещнат в Китай следващия месец. Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин, и потърси подкрепа от САЩ. Тръмп оправда спирането на руските санкции с мирните преговори.",
+      "sources": [
+        "Reuters",
+        "Mediapool",
+        "OffNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        16,
+        38,
+        42,
+        30
+      ],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/zelenski-obvini-tramp-che-tlaska-ukraina-kam-kapitulatsiya-pred-putin/"
     },
     {
       "category": "Общество",
-      "headline": "Палеж на Starlink антени край София: Подозрените са избягали в чужбина",
-      "summary": "Прокуратурата иска европейски заповеди за арест за двама души, обвинени за подпалването на антените на Starlink край София. Заподозрените за палежа са избягали в чужбина.",
-      "sources": ["OffNews", "Свободна точка", "Boulevard Bulgaria"],
-      "ids": [12, 14, 31],
-      "link": "https://offnews.bg/temida/zapodozrenite-za-palezha-na-starlink-kraj-sofia-sa-izbiagali-v-chuzhbi-876749.html"
+      "headline": "Френски бунтове: Льокорню свиква кризисна среща, Макрон обеща съд за насилиците",
+      "summary": "Френският премиер Льокорню свиква кризисна среща на министрите и говори за извънредно положение след уикендните бунтове. Макрон обеща съд за насилиците и диалог с младежите от протестите.",
+      "sources": [
+        "Reuters",
+        "FrogNews"
+      ],
+      "ids": [
+        18,
+        54
+      ],
+      "link": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Политика",
+      "headline": "Албанският премиер обвини Русия и Иран за ескалацията на протестите",
+      "summary": "Албанският премиер обвини Русия и Иран за ескалацията на протестите в страната. Прокуратурата иска европейски заповеди за арест за двама души, обвинени за подпалването на антените на Starlink край София.",
+      "sources": [
+        "Mediapool",
+        "Свободна точка"
+      ],
+      "ids": [
+        49,
+        25
+      ],
+      "link": "https://www.mediapool.bg/svyat/albanskiyat-premier-obvini-rusiya-i-iran-za-eskalatsiyata-na-protestite/"
     },
     {
       "category": "Икономика",
       "headline": "Цените на петрола се понижиха след облекчаването на санкциите срещу Русия",
       "summary": "САЩ облекчиха санкциите срещу Русия, което доведе до понижаване на цените на петрола. Тръмп оправда решението с необходимостта от по-ниски цен на горивата за потребителите.",
-      "sources": ["Mediapool", "FrogNews"],
-      "ids": [34, 38, 40],
+      "sources": [
+        "Mediapool",
+        "FrogNews"
+      ],
+      "ids": [
+        44,
+        50
+      ],
       "link": "https://www.mediapool.bg/biznes/tsenite-na-petrola-se-ponizhiha-sled-oblekchavaneto-na-sanktsiite-sreshtu-rusiya/"
     },
     {
-      "category": "Свят",
-      "headline": "Поне 12 души загинаха при потъване на мигранти в Гърция",
-      "summary": "Най-малко 12 души загинаха при нощното потъване на мигранти в Гърция.",
-      "sources": ["DW"],
-      "ids": [21],
-      "link": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-top-1022-rdf"
+      "category": "Общество",
+      "headline": "Подозрените за палежа на Starlink край София са избягали в чужбина",
+      "summary": "Прокуратурата иска европейски заповеди за арест за двама души, обвинени за подпалването на антените на Starlink край София. Заподозрените за палежа са избягали в чужбина.",
+      "sources": [
+        "OffNews",
+        "Свободна точка",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        23,
+        25,
+        40
+      ],
+      "link": "https://offnews.bg/temida/zapodozrenite-za-palezha-na-starlink-kraj-sofia-sa-izbiagali-v-chuzhbi-876749.html"
     }
   ]
 }
