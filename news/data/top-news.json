@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-19T04:16:42.000Z",
+  "updatedAt": "2026-10-19T05:00:00.000Z",
   "overview": "Денят е отбелязан от продължаващата война в Украйна и новите санкционни спорове между САЩ и Европа, масови протести и сблъсъци във Франция, както и разпространението на ебола в Източна Африка.",
   "stories": [
     {
       "category": "Свят",
       "headline": "Тръмп защити руските санции и обвинява Зеленски в удължаване на войната; САЩ подновиха обмена на разузнавателна информация с Украйна",
-      "summary": "САЩ подновиха обмена на разузнавателна информация с Украйна, а Зеленски обвини Тръмп, че Русия е атакувала енергетиката на Украйна 76 пъти след „енергийното примирие“. Британски военни съветват да не се разчита на САЩ за защита на Украйна от Путин.",
-      "sources": ["DW", "Actualno", "Mediapool", "Свободна точка", "OffNews"],
-      "ids": [2, 7, 9, 36, 46, 34],
+      "summary": "САЩ подновиха обмена на разузнавателна информация с Украйна, а Зеленски обвини Тръмп, че Русия е атакувала енергетиката на Украйна 76 пъти след „енергийното примирие“. Британски военни съветват да не се разчита на САЩ за защита на Украйна от Путин. Тръмп защити руските санкционни waived'rs и обвинява Зеленски в удължаване на войната.",
+      "sources": ["DW", "Reuters", "Actualno", "Mediapool", "OffNews", "Свободна точка", "Dnevnik", "FrogNews", "Boulevard Bulgaria"],
+      "ids": [2, 3, 9, 12, 34, 43, 33, 28, 39, 46, 20, 32, 22],
       "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
       "headline": "Масови протести и сблъсъци във Франция; Макрон осъди „шокиращите“ сцени на насилие",
-      "summary": "Макрон осъди шокиращите сцени на насилие във Франция и обеща, че нападалите държавни сгради ще бъдат наказани. Над 1200 души бяха арестувани при нови протести с горящи коли и грабежи.",
-      "sources": ["Reuters", "OffNews", "FrogNews", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [25, 20, 22, 23, 26, 50],
+      "summary": "Макрон осъди шокиращите сцени на насилие във Франция и обеща, че нападалите държавни сгради ще бъдат наказани. Над 1800 души бяха арестувани при нови протести с горящи коли, грабежи и сблъсъци.",
+      "sources": ["OffNews", "FrogNews", "Reuters", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [21, 23, 24, 25, 26, 47],
       "link": "https://offnews.bg/sviat/makron-se-zakani-na-onezi-koito-se-opitaha-da-saboriat-republikata-876714.html"
-    },
-    {
-      "category": "Свят",
-      "headline": "Руските атаки в Черно море; България очаква самолети от друга членка на НАТО",
-      "summary": "Посланикът на Великобритания твърди, че атаките на Русия в Черно море са умишлени и няма провокация от Европа. Румъния съобщила два дрона над Черно море, а България очава воени самолети от друг НАТО съюзник.",
-      "sources": ["FrogNews", "Boulevard Bulgaria", "Dnevnik", "Свободна точка"],
-      "ids": [29, 41, 47, 48, 51, 49],
-      "link": "https://frognews.bg/novini/poslanikat-velikobritaniia-nas-atakite-rusiia-cherno-more-umishleni-niama-provokatsiia-evropa.html"
     },
     {
       "category": "Свят",
       "headline": "Пожар в канадска военна база в Алберта убива четирима, 19 в критично състояние",
       "summary": "Пожар във военна база в Алберта, Канада, е причинил четирима загинали и десетки пострадали, като 19 са в критично състояние.",
       "sources": ["DW", "OffNews"],
-      "ids": [5, 27],
+      "ids": [4, 27],
       "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Здравеопазване",
       "headline": "Ебола в Кения: случаите са 8 и се разпространяват към 8-та провинция на Конго",
       "summary": "Кения потвърди осмия случай на ебола, като заболяването се разпространява към осмата провинция на Конго.",
-      "sources": ["Reuters", "DW"],
-      "ids": [12, 6],
+      "sources": ["DW", "Reuters"],
+      "ids": [8, 15],
       "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "Румъния сваля руски дронове с F-16; България очаква воени самолети от НАТО заради атаките в Черно море",
+      "summary": "Румъния показа как изтребители F-16 свалят руски дронове над Черно море, а България очаква воени самолети от друга членка на НАТО заради руските атаки в Черно море.",
+      "sources": ["Dnevnik", "Свободна точка"],
+      "ids": [44, 45, 48],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzVEUGM2WWZTQl96NVdxcGl6UHk3V2xieVQySExBbU5TQ1VPXzEyNXJORWVBaXRnTFFvemc4aDcyTXFmMmhmWFhzc3BsLW1mNXpCaW9TdjR3VFJDX05Yc2I0OHBRWnNiM2lSUm1XYTZHa2hpMkdsQkJGM29EQmtNMlc2LUFiWkVHR2lCQXA1NGpldFhRUllmLTc3Q3dMMTBETlFyTHdDM1pMY1d6bE00eHRndk5XYVFK?oc=5"
     }
   ]
 }
