@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-19T02:58:00Z",
-  "overview": "Денят е доминиран от протестите във Франция, ескалацията на конфликта в Черно море и Украйна, както и новини от политическата сцена в България и САЩ.",
+  "updatedAt": "2026-10-19T04:16:42.000Z",
+  "overview": "Денят е отбелязан от продължаващата война в Украйна и новите санкционни спорове между САЩ и Европа, масови протести и сблъсъци във Франция, както и разпространението на ебола в Източна Африка.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Протести във Франция: Макрон заплашва санкции, 1800 арестувани",
-      "summary": "Нови протести със сблъсъци във Франция са довели до над 1200 арестувани. Макрон е предупредил, че нападалите на държавни сгради ще бъдат наказани, а DW съобщава за жестоки сцени на насилие.",
-      "sources": ["DW", "OffNews", "FrogNews", "Reuters", "Свободна точка", "Boulevard Bulgaria"],
-      "ids": [13, 15, 17, 18, 20, 21, 46],
-      "link": "https://offnews.bg/sviat/makron-se-zakani-na-onezi-koito-se-opitaha-da-saboriat-republikata-876714.html"
+      "headline": "Тръмп от defending руските санции и обвинява Зеленски в удължаване на войната; САЩ подновяват обмена на разузнавателна информация",
+      "summary": "САЩ подновиха обмена на разузнавателна информация с Украйна, а Зеленски обвини Тръмп, че Русия е атакувала енергетиката на Украйна 76 пъти след „енергийното примирие“. Британски военни съветват да не се разчита на САЩ за защита на Украйна от Путин.",
+      "sources": ["DW", "Actualno", "Mediapool", "Свободна точка", "OffNews"],
+      "ids": [2, 7, 9, 36, 46, 34],
+      "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-top-1022-rdf"
     },
     {
       "category": "Свят",
-      "headline": "Русия атакира Черно море: НАТО изпраща изтребители, Зеленски казва, че САЩ възобновиха обмена на разузнавателна информация",
-      "summary": "Русия продължава атаките в Черно море, а Румъния сваля два дрона с изтребители F-16. НАТО очаква самолети от друга членка, а Зеленски потвърди, че САЩ са подновили обмена на разузнавателна информация с Украйна.",
-      "sources": ["Mediapool", "Свободна точка", "Dnevnik", "FrogNews", "Actualno"],
-      "ids": [4, 24, 31, 42, 43, 44, 47],
-      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-191026-sasht-podnoviha-obmena-na-razuznavatelna-informacija-s-ukrajna-news_2651826.html"
+      "headline": "Масови протести и сблъсъци във Франция; Макрон осъди „шокиращите“ сцени на насилие",
+      "summary": "Макрон осъди шокиращите сцени на насилие във Франция и обеща, че нападалите държавни сгради ще бъдат наказани. Над 1200 души бяха арестувани при нови протести с горящи коли и грабежи.",
+      "sources": ["Reuters", "OffNews", "FrogNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [25, 20, 22, 23, 26, 50],
+      "link": "https://news.google.com/rss/articles/CBMi...Reuters-Macron-condemns-shocking-scenes-of-violence-across-France"
     },
     {
       "category": "Свят",
-      "headline": "Тръмп подкрепи Нетаняху за преизбиране, Израел изпраща самолет за Виена заради бомбена заплаха",
-      "summary": "Тръмп официално подкрепи Нетаняху в кампанията за преизбиране. Самолет от Тел Авив за Виена кацна извънредно в София заради бомбена заплаха.",
-      "sources": ["OffNews", "DW", "Boulevard Bulgaria"],
-      "ids": [8, 14, 28],
-      "link": "https://offnews.bg/sviat/ti-na-mene-az-na-tebe-tramp-podkrepi-netaniahu-v-kampaniata-za-preiz-876711.html"
+      "headline": "Руските атаки в Черно море; България очаква самолети от друга членка на НАТО",
+      "summary": "Посланикът на Великобритания твърди, че атаките на Русия в Черно море са умишлени и няма провокация от Европа. Румъния съ(vertices)ила два дрона над Черно море, а България очава воени самолети от друг НАТО съюзник.",
+      "sources": ["FrogNews", "Boulevard Bulgaria", "Dnevnik", "Свободна точка"],
+      "ids": [29, 41, 47, 48, 51, 49],
+      "link": "https://frognews.bg/novini/poslanikat-velikobritaniia-nas-atakite-rusiia-cherno-more-umishleni-niama-provokatsiia-evropa.html"
     },
     {
-      "category": "Икономика",
-      "headline": "ФrogNews: Кристалина Георгиева — България не бива да харчи пари, които няма; химическата индустрия на Европа расте",
-      "summary": "Кристалина Георгиева предупреждава, че България трябва да спре да харчи непостигнати пари. Химическата индустрия в Европа показва раст и Медiapool пита дали България може да спечели.",
-      "sources": ["FrogNews", "Mediapool"],
-      "ids": [26, 27],
-      "link": "https://frognews.bg/novini/kristalina-georgieva-balgariia-biva-harchi-pari-koito-niama.html"
+      "category": "Свят",
+      "headline": "Пожар в канадска военна база в Алберта убива четирима, 19 в критично състояние",
+      "summary": "Пожар във военна база в Алберта, Канада, е cause четирима загинали и десетки пострадали, като 19 са в критично състояние.",
+      "sources": ["DW", "OffNews"],
+      "ids": [5, 27],
+      "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-top-1022-rdf"
     },
     {
-      "category": "Общество",
-      "headline": "Спрени поръчки за над 350 млн. евро в НКЖИ; Брезник остави Пловдив и Варна по заплати",
-      "summary": "Транспортното министерство спря процедури за над 350 млн. евро в НКЖИ и БДЖ. Брезник остави задължения по заплати в Пловдив и Варна.",
-      "sources": ["FrogNews", "Mediapool"],
-      "ids": [34, 36, 39],
-      "link": "https://frognews.bg/novini/ima-zloupotrebi-nkji-bdj-transportnoto-ministerstvo-spria-protseduri-nad-350-mln-evro.html"
+      "category": "Здравеопазване",
+      "headline": "Ебола в Кения: случаите нараснахме до 8 и се разпространени към 8-та провинция на Конго",
+      "summary": "Кения потвърди осмия случай на ебола, като заболяването се разпространени към осмата провинция на Конго.",
+      "sources": ["Reuters", "DW"],
+      "ids": [12, 6],
+      "link": "https://news.google.com/rss/articles/CBMi...Reuters-Kenya-confirms-eighth-ebola-case"
     }
   ]
 }
