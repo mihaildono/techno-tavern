@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-19T07:15:00.000Z",
-  "overview": "Денят е отбелязан от продължаващата война в Украйна, масови протести във Франция, трагичен пожар в канадска военна база и ескалиране на напрежението в Черно море заради руски дронове.",
+  "updatedAt": "2026-10-19T10:37:00.000Z",
+  "overview": "Ключовите събития от днес включват широкомащабни протести във Франция, ескалиращ конфликт между Путин и Запад, икономически и политически разработки в Съединените щати и тежки атаки по Русия и САЩ.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Тръмп защити руските санкции и обвинява Зеленски в удължаване на войната; САЩ подновиха обмена на разузнавателна информация с Украйна",
-      "summary": "САЩ подновиха обмена на разузнавателна информация с Украйна, а Зеленски обвини Тръмп, че Русия е атакувала енергетиката на Украйна 76 пъти след енергийното примирие. Британски военни съветват да не се разчита на САЩ за защита на Украйна от Путин.",
-      "sources": ["DW", "Reuters", "Actualno", "Mediapool", "OffNews", "Свободна точка", "Dnevnik", "FrogNews", "Boulevard Bulgaria"],
-      "ids": [2, 3, 9, 12, 34, 43, 33, 28, 39, 46, 20, 32, 22],
-      "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-top-1022-rdf"
+      "category": "Общество",
+      "headline": "Масови протести във Франция, предизвикани от категоричното заявление на президента Макрон за липсата на безопасност; 1800+ арестувани, нападени правителствени сгради",
+      "summary": "Франция преживява безпрецедентни протести след категоричното заявлението на президента Макрон за липсата на безопасност, при което бяха арестувани над 1800 души, палени коли и бяха нападнати държавни сгради. Макрон назова нападателите на правителствените сгради \"гняв и срам\" и пореди сегрегация на радикалните пратеници.",
+      "sources": ["FrogNews", "OffNews", "Boulevard Bulgaria", "Свободна точка"],
+      "ids": [16, 60, 63, 76],
+      "link": "https://frognews.bg/novini/ljokorniu-svikva-krizisna-sreshta-frenskite-ministri-govori-izvanredno-polojenie.html"
     },
     {
-      "category": "Общество",
-      "headline": "Масови протести и сблъсъци във Франция; Макрон осъди шокиращите сцени на насилие",
-      "summary": "Макрон осъди шокиращите сцени на насилие във Франция и обеща, че нападалите държавни сгради ще бъдат наказани. Над 1800 души бяха арестувани при нови протести с горящи коли, грабежи и сблъсъци.",
-      "sources": ["OffNews", "FrogNews", "Reuters", "Boulevard Bulgaria", "Свободна точка"],
-      "ids": [21, 23, 24, 25, 26, 47],
-      "link": "https://offnews.bg/sviat/makron-se-zakani-na-onezi-koito-se-opitaha-da-saboriat-republikata-876714.html"
+      "category": "Свят",
+      "headline": "Путин обяви масови атаки по Русия от седмица; ЕС и САЩ отговарят с санкции и военна поддръжка за Украйна",
+      "summary": "Президентът Путин обяви, че Русия е атакувала енергетика и инфраструктура в САЩ и ЕС в отговор на политическата поддръжка за Украйна. Атаките засегнаха автомобилните заводи в Щатите и инфраструктурата на бранша с дрона в Черно море, предизвиквайки газови инциденти в Румъния и България.",
+      "sources": ["Reuters", "DW", "Свободна точка", "Actualno"],
+      "ids": [13, 52, 77, 24],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnlMYkJrU1pjQjZ0cTJGeDV5ckpyX3lsaXJrNjkwQmtjYVlUaGFvZUZuTWJ6THZuXzJ0elVfdGRoSkhRR2ZLelBvQXlDWVRzRWdVdW5KcUNKZU11TzRnQzdTdkpINWVZWWlsMTVYcy1BR1BzbkZRVnBEUWtDUEpER3lTV1dEZnl1OFVkZGtjemVQUjU0SUNxRzBHbktyTzNQQkE3aA?oc=5"
     },
     {
       "category": "Здравеопазване",
-      "headline": "Пожар в канадска военна база в Алберта убива четирима, 19 в критично състояние",
-      "summary": "Пожар във военна база в Алберта, Канада, е причинил четирима загинали и десетки пострадали, като 19 са в критично състояние.",
-      "sources": ["DW", "OffNews"],
-      "ids": [4, 27],
-      "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-top-1022-rdf"
+      "headline": "Напрежение около протестите в България; Младите лекари съобщават за заплахи и политически натиск преди уличните демонстрации утре",
+      "summary": "Младите лекари в България се разкриват да се чувстват политизирани и заглушени след публични заплахи, резониращи с угрози пред акции, насочени срещу правителственото здание. Това се случва в момент на нарастващо напрежение срещу правителствените решения в здравеопазването.",
+      "sources": ["Actualno"],
+      "ids": [21],
+      "link": "https://www.actualno.com/healthy/naprejenie-okolo-protestite-utre-mladite-lekari-se-chuvstvat-zaglusheni-i-politizirani-news_2651877.html"
     },
     {
-      "category": "Свят",
-      "headline": "Румъния свали руски дронове с F-16; България очаква воени самолети от НАТО заради атаките в Черно море",
-      "summary": "Румъния показа как изтребители F-16 свалят руски дронове над Черно море, а България очаква воени самолети от друга членка на НАТО заради руските атаки в Черно море.",
-      "sources": ["Dnevnik", "Свободна точка"],
-      "ids": [44, 45, 48],
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQXzVEUGM2WWZTQl96NVdxcGl6UHk3V2xieVQySExBbU5TQ1VPXzEyNXJORWVBaXRnTFFvemc4aDcyTXFmMmhmWFhzc3BsLW1mNXpCaW9TdjR3VFJDX05Yc2I0OHBRWnNiM2lSUm1XYTZHa2hpMkdsQkJGM29EQmtNMlc2LUFiWkVHR2lCQXA1NGpldFhRUllmLTc3Q3dMMTBETlFyTHdDM1pMY1d6bE00eHRndk5XYVFK?oc=5"
+      "category": "Икономика",
+      "headline": "Червения петрола от 110 долара, британски автопроизводители раждат цени в РУС; технологични предприятия отчитат масови разхищения",
+      "summary": "Мировите цени на петрола достигнаха 110 долара след масови атаки по руски и европейски институции. Технологичните компании отчитат прекъсване в доставките, докато фермите в Русия и Румъния са подложени на бюджетни ограничения.",
+      "sources": ["Actualno", "Reuters"],
+      "ids": [15, 35],
+      "link": "https://www.actualno.com/economy/stigajki-blizo-110-dolara-cenata-na-petrola-obyrna-posokata-vypreki-moshtnite-udari-v-sankt-peterburg-video-news_2651887.html"
     },
     {
-      "category": "Общество",
-      "headline": "Самолет от Тел Авив за Виена кацна извънредно в София заради бомбена заплаха",
-      "summary": "Самолет от Тел Авив за Виена кацна извънредно в София заради бомбена заплаха. Австрийските авиолинии потвърдиха за пренасочения към София самолет.",
-      "sources": ["Actualno", "DW", "Reuters", "OffNews", "Boulevard Bulgaria"],
-      "ids": [5, 8, 10, 14, 29],
-      "link": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-top-1022-rdf"
+      "category": "Политика",
+      "headline": "Тръмп обяви дипломатическа поддръжка за Украйна и провеждане на среща за ново превземане на Украйна; Макрон подсвика стратегически партньорство между ЕС и Русия",
+      "summary": "Изненадващата дипломатическа инициатива на президента Тръмп предвижда да предложи на президента Зеленски стратегическо партньорство с ЕС за ново превземане на Украйна и пореди съзива на високо равнище с Русия, призовавайки за спиране на международните конфликти на Близкия изток и Европа.",
+      "sources": ["FrogNews", "Reuters"],
+      "ids": [23, 24],
+      "link": "https://frognews.bg/novini/tramp-oblekchavaneto-sanktsiite-sreshtu-rusiia-neobhodimo-zaradi-tsenite-gorivata.html"
     }
   ]
 }
