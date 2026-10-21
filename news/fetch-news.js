@@ -16,9 +16,9 @@ const ARCHIVE_WINDOW_HOURS = 24;
 const RSS_SOURCES = [
   {
     name: "OffNews",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Foffnews.bg%2Frss%2Fall",
+    url: "https://offnews.bg/rss/all",
     color: "#E91E63",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Dnevnik",
@@ -28,39 +28,39 @@ const RSS_SOURCES = [
   },
   {
     name: "Свободна точка",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsvobodnatochka.bg%2Ffeed%2F",
+    url: "https://news.google.com/rss/search?q=site:svobodnatochka.bg&hl=bg&gl=BG&ceid=BG:bg",
     color: "#FF9800",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Mediapool",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.mediapool.bg%2Frss%2F",
+    url: "https://www.mediapool.bg/feed/",
     color: "#00BCD4",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Actualno",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.actualno.com%2Frss",
+    url: "https://www.actualno.com/rss",
     color: "#9C27B0",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Hacker News",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.ycombinator.com%2Frss",
+    url: "https://news.google.com/rss/search?q=site:news.ycombinator.com&hl=en-US&gl=US&ceid=US:en",
     color: "#FF6600",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "FrogNews",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frss.frognews.bg%2F",
+    url: "https://frognews.bg/rss.xml",
     color: "#795548",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Boulevard Bulgaria",
-    url: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fboulevardbulgaria.bg%2Ffeed.atom",
+    url: "https://boulevardbulgaria.bg/feed.atom",
     color: "#FF5722",
-    type: "rss2json",
+    type: "direct",
   },
   {
     name: "Reuters",
@@ -82,7 +82,7 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function fetchUrl(url, timeoutMs = 15000) {
+function fetchUrl(url, timeoutMs = 15000, depth = 0) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(url);
     const options = {
@@ -97,12 +97,18 @@ function fetchUrl(url, timeoutMs = 15000) {
     };
     const req = https
       .get(options, (res) => {
+        if ([301, 302, 307, 308].includes(res.statusCode) && res.headers.location && depth < 5) {
+          res.resume();
+          const next = new URL(res.headers.location, url).toString();
+          resolve(fetchUrl(next, timeoutMs, depth + 1));
+          return;
+        }
         let data = "";
         res.on("data", (chunk) => {
           data += chunk;
         });
         res.on("end", () => {
-          resolve({ status: res.statusCode, data });
+          resolve({ status: res.statusCode, data, finalUrl: url });
         });
       })
       .on("error", (error) => {
@@ -118,6 +124,8 @@ function fetchUrl(url, timeoutMs = 15000) {
 
 function parseRssXml(xml) {
   const items = [];
+
+  // --- RSS <item> parsing ---
   const itemRegex = /<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/g;
   let match;
   while ((match = itemRegex.exec(xml)) !== null) {
@@ -153,6 +161,38 @@ function parseRssXml(xml) {
     const thumbnail = mediaMatch ? { link: mediaMatch[1] } : null;
     if (title && link) items.push({ title, link, pubDate, thumbnail });
   }
+
+  // --- Atom <entry> parsing ---
+  const entryRegex = /<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/g;
+  while ((match = entryRegex.exec(xml)) !== null) {
+    const block = match[1];
+    const getText = (tag) => {
+      // Check for CDATA-wrapped content
+      const cdataStart = `<${tag}><![CDATA[`;
+      const cdataEnd = "]]></" + tag + ">";
+      let start = block.indexOf(cdataStart);
+      if (start !== -1) {
+        start += cdataStart.length;
+        const end = block.indexOf(cdataEnd, start);
+        if (end !== -1) {
+          return block.substring(start, end).trim();
+        }
+      }
+      // Fall back to plain text regex
+      const plain = new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">");
+      const m = plain.exec(block);
+      return m ? m[1].trim() : "";
+    };
+    const title = getText("title") || "";
+    const linkMatch = /<link\s+(?:[^>]*?)href=("([^"\']+)"|([^\s>]+))/i.exec(block);
+    const link = linkMatch ? (linkMatch[2] || linkMatch[3])?.trim() || "" : "";
+    const pubDate = getText("published") || getText("updated") || getText("pubDate") || "";
+    // Extract thumbnail from content if present
+    const contentMatch = /<content[^>]*>([\s\S]*?)<\/content>/i.exec(block);
+    const thumbnail = contentMatch ? { link: null } : null;
+    if (title && link) items.push({ title, link, pubDate, thumbnail });
+  }
+
   return items;
 }
 
@@ -266,9 +306,14 @@ function parseArticleDate(pubDate) {
   const raw = String(pubDate).trim();
   if (!raw) return null;
 
-  // RFC 2822 with GMT
-  if (/^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} GMT$/.test(raw)) {
-    return Date.parse(raw);
+  // RFC 2822 with GMT / UTC or a numeric offset (+0300, -0500)
+  if (
+    /^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} (GMT|UTC|[+-]\d{4})$/.test(
+      raw,
+    )
+  ) {
+    const t = Date.parse(raw);
+    return Number.isFinite(t) ? t : null;
   }
 
   // ISO 8601 with Z (optional milliseconds)
@@ -281,12 +326,14 @@ function parseArticleDate(pubDate) {
     return Date.parse(raw + "Z");
   }
 
-  // ISO 8601 with explicit offset
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
-    const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
-    const t = Date.parse(normalized);
+  // ISO 8601 with explicit offset, either "+03:00" or "+0300"
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?[+-]\d{2}:?\d{2}$/.test(raw)) {
+    const t = Date.parse(raw);
     if (Number.isFinite(t)) return t;
-    return Date.parse(raw);
+    const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
+    const t2 = Date.parse(normalized);
+    if (Number.isFinite(t2)) return t2;
+    return null;
   }
 
   // YYYY-MM-DD HH:MM:SS

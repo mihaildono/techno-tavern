@@ -217,13 +217,17 @@
               const raw = String(pubDate).trim();
               if (!raw) return null;
 
-              // RFC 2822 with GMT
-              if (/^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} GMT$/.test(raw)) {
+              // RFC 2822 with GMT / UTC or a numeric offset (+0300, -0500)
+              if (
+                /^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} (GMT|UTC|[+-]\d{4})$/.test(
+                  raw,
+                )
+              ) {
                 const t = Date.parse(raw);
                 return Number.isFinite(t) ? t : null;
               }
 
-              // ISO 8601 with Z
+              // ISO 8601 with Z (optional milliseconds)
               if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) {
                 const t = Date.parse(raw);
                 return Number.isFinite(t) ? t : null;
@@ -235,12 +239,14 @@
                 return Number.isFinite(t) ? t : null;
               }
 
-              // ISO 8601 with explicit offset
-              if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
-                const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
-                const t = Date.parse(normalized);
+              // ISO 8601 with explicit offset, either "+03:00" or "+0300"
+              if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?[+-]\d{2}:?\d{2}$/.test(raw)) {
+                const t = Date.parse(raw);
                 if (Number.isFinite(t)) return t;
-                return Number.isFinite(Date.parse(raw)) ? Date.parse(raw) : null;
+                const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
+                const t2 = Date.parse(normalized);
+                if (Number.isFinite(t2)) return t2;
+                return null;
               }
 
               // YYYY-MM-DD HH:MM:SS — UTC-first, Sofia fallback only if future
