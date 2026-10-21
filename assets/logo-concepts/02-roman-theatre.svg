@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Techno Tavern: Plovdiv theatre feed">
+  <circle cx="100" cy="100" r="98" fill="#1C120D"/>
+  <g fill="none" stroke="#F2A51A" stroke-width="13">
+    <path d="M70 140a30 30 0 0 1 60 0"/>
+    <path d="M48 140a52 52 0 0 1 104 0"/>
+    <path d="M26 140a74 74 0 0 1 148 0"/>
+  </g>
+  <rect x="30" y="146" width="140" height="10" rx="2" fill="#F4EADB"/>
+  <g fill="#F4EADB"><rect x="44" y="160" width="8" height="14"/><rect x="72" y="160" width="8" height="14"/><rect x="120" y="160" width="8" height="14"/><rect x="148" y="160" width="8" height="14"/></g>
+  <circle cx="100" cy="134" r="11" fill="#C8402B"/>
+</svg>

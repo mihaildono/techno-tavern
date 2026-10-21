@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Techno Tavern: seven hills broadcast">
+  <clipPath id="c"><circle cx="100" cy="100" r="98"/></clipPath>
+  <circle cx="100" cy="100" r="98" fill="#1C120D"/>
+  <g clip-path="url(#c)"><ellipse cx="22" cy="190" rx="26" ry="40" fill="#F2A51A"/><ellipse cx="50" cy="178" rx="22" ry="40" fill="#D98E12"/><ellipse cx="78" cy="168" rx="26" ry="40" fill="#F2A51A"/><ellipse cx="108" cy="152" rx="30" ry="40" fill="#D98E12"/><ellipse cx="138" cy="172" rx="24" ry="40" fill="#F2A51A"/><ellipse cx="164" cy="184" rx="22" ry="40" fill="#D98E12"/><ellipse cx="186" cy="196" rx="24" ry="40" fill="#F2A51A"/><rect x="0" y="170" width="200" height="30" fill="#F2A51A"/></g>
+  <line x1="108" y1="114" x2="108" y2="64" stroke="#F4EADB" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="108" cy="60" r="8" fill="#C8402B"/>
+  <g fill="none" stroke="#F4EADB" stroke-width="6" stroke-linecap="round">
+    <path d="M124 46a24 24 0 0 1 0 28"/><path d="M138 36a40 40 0 0 1 0 48"/>
+    <path d="M92 46a24 24 0 0 0 0 28"/><path d="M78 36a40 40 0 0 0 0 48"/>
+  </g>
+</svg>

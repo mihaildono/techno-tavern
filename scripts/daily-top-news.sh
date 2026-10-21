@@ -63,8 +63,11 @@ step_finish() {
   log "Cleaning up temporary news-digest.md..."
   rm -f news/data/news-digest.md
 
+  log "Pre-rendering pages..."
+  node scripts/build-pages.js
+
   log "Staging files..."
-  git add news/data/top-news.json news/data/news-24h.json news/data/news.json
+  git add news/data/top-news.json news/data/news-24h.json news/data/news.json index.html sitemap.xml robots.txt
 
   if git diff --staged --quiet; then
     log "ℹ️ No changes detected to commit."

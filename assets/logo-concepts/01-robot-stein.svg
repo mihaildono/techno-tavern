@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Techno Tavern: robot stein">
+  <rect width="200" height="200" rx="44" fill="#1C120D"/>
+  <line x1="92" y1="46" x2="92" y2="26" stroke="#F4EADB" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="92" cy="22" r="8" fill="#C8402B"/>
+  <path d="M136 90h14a16 16 0 0 1 16 16v30a16 16 0 0 1-16 16h-14" fill="none" stroke="#F2A51A" stroke-width="12"/>
+  <rect x="46" y="64" width="92" height="112" rx="12" fill="#F2A51A"/>
+  <path d="M42 70c0-12 10-22 22-20 4-10 18-14 28-6 10-8 26-4 30 6 14-2 22 10 20 22z" fill="#F4EADB"/>
+  <rect x="66" y="96" width="14" height="14" rx="3" fill="#1C120D"/>
+  <rect x="104" y="96" width="14" height="14" rx="3" fill="#1C120D"/>
+  <path d="M70 134q22 14 44 0" fill="none" stroke="#1C120D" stroke-width="7" stroke-linecap="round"/>
+  <line x1="62" y1="152" x2="62" y2="166" stroke="#1C120D" stroke-opacity=".25" stroke-width="4" stroke-linecap="round"/>
+  <line x1="122" y1="152" x2="122" y2="166" stroke="#1C120D" stroke-opacity=".25" stroke-width="4" stroke-linecap="round"/>
+</svg>

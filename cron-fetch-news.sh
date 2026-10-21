@@ -30,12 +30,16 @@ fi
 echo "📰 Fetching news from RSS feeds..."
 "$NODE_PATH" news/fetch-news.js
 
+# Pre-render headlines into index.html for search engines
+echo "🧱 Building pages..."
+"$NODE_PATH" scripts/build-pages.js
+
 # Check if there are any changes to commit
 if ! git diff --quiet || ! git diff --cached --quiet; then
     echo "📝 Committing and pushing changes..."
 
     # Stage changes
-    git add news/data/news.json news/data/news-24h.json
+    git add news/data/news.json news/data/news-24h.json index.html sitemap.xml robots.txt
 
     # Commit with skip ci
     git commit -m "$(date '+%Y-%m-%d %H:%M:%S') - Update news feeds [skip ci]"

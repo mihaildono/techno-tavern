@@ -1,119 +1,521 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="bg">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="description" content="Социално пространство в Пловдив" />
 
-    <title>Techno Tavern Пловдив</title>
+    <title>Новините за деня | Techno Tavern</title>
+    <meta name="description"
+        content="Най-важното от българските и световните новини: вечерен обзор с пет водещи теми и непрекъснат поток от независими медии, обновяван на всеки 3 часа. Без реклами." />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <link rel="canonical" href="https://www.technotavern.com/" />
+    <meta name="theme-color" content="#1c120d" />
 
-    <link rel="icon" href="./assets/logo.svg">
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="bg_BG" />
+    <meta property="og:site_name" content="Techno Tavern" />
+    <meta property="og:title" content="Новините за деня | Techno Tavern" />
+    <meta property="og:description"
+        content="Вечерен обзор с пет водещи теми и поток от независими български медии, без реклами." />
+    <meta property="og:url" content="https://www.technotavern.com/" />
+    <meta property="og:image" content="https://www.technotavern.com/assets/logo.jpeg" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Новините за деня | Techno Tavern" />
+    <meta name="twitter:description" content="Вечерен обзор с пет водещи теми и поток от независими български медии, без реклами." />
 
-    <!-- Preload critical above-the-fold image -->
-    <link rel="preload" href="./assets/logo.svg" as="image" type="image/svg+xml" />
+    <!--JSONLD:start-->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.technotavern.com/#website",
+      "url": "https://www.technotavern.com/",
+      "name": "Techno Tavern",
+      "description": "Независим новинарски поток от България",
+      "inLanguage": "bg",
+      "publisher": {
+        "@id": "https://www.technotavern.com/#org"
+      }
+    },
+    {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.technotavern.com/#org",
+      "name": "Techno Tavern",
+      "url": "https://www.technotavern.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.technotavern.com/assets/logo.jpeg"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "България",
+        "alternateName": "Bulgaria"
+      },
+      "location": {
+        "@type": "City",
+        "name": "Пловдив",
+        "alternateName": "Plovdiv"
+      },
+      "sameAs": [
+        "https://masto.bg/@Technotavern"
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.technotavern.com/#page",
+      "url": "https://www.technotavern.com/",
+      "name": "Новините за деня",
+      "isPartOf": {
+        "@id": "https://www.technotavern.com/#website"
+      },
+      "inLanguage": "bg",
+      "dateModified": "2026-10-20T18:01:24.466Z"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Вечерен обзор",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "СБРС „Посейдон“ патрулира над Черно море след удари по търговски кораби, открити са останки на дрон от кораба „Челси 3“",
+          "url": "https://svobodnatochka.bg/novini/amerikanski-samolet-poseydon-patrulira-nad-cherno-more-sled-atakite-po-targovski-korabi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Тръмп отворен към тристранна среща с Си и Путин и отново обвинява Зеленски, а не Путин, за войната",
+          "url": "https://boulevardbulgaria.bg/articles/tramp-e-saglasen-na-sreshta-s-putin-i-si-dzinpin-oshte-sledvashtiya-mesets"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Франция въвежда комендантски час в Париж и Ница след безредици и грабежи, крайно десното печели от гнева за цените на горивото",
+          "url": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Кристиан Аманпур напуска CNN след 43 години кариера",
+          "url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-top-1022-rdf"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Двама загинаха при сблъсък между автобус и камион на пътя Пазарджик – Пловдив",
+          "url": "https://boulevardbulgaria.bg/articles/dvama-dushi-zaginaha-pri-sblasak-mezhdu-avtobus-i-kamion-kray-pazardzhik"
+        }
+      ]
+    }
+  ]
+}
+    </script>
+    <!--JSONLD:end-->
 
-    <!-- Preconnect to external domains for faster resource loading -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://masto.bg">
+    <link rel="icon" href="/assets/logo.svg" />
 
-    <!-- Critical CSS inline or load asynchronously -->
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="preload" href="/news/data/top-news.json" as="fetch" crossorigin />
+    <link rel="preload" href="/news/data/news.json" as="fetch" crossorigin />
 
-    <!-- Load Google Fonts asynchronously to prevent render blocking -->
-    <link rel="preload"
-        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-        as="style" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-            rel="stylesheet" />
-    </noscript>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400;500;600;700&family=Sofia+Sans+Extra+Condensed:wght@700;800&display=swap" />
+
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/news/news.css" />
 </head>
 
 <body>
-    <main class="layout">
-        <div class="mainHeader">
-            <img src="./assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
-            <h1>Techno Tavern</h1>
-            <span>Социално пространство в Пловдив</span>
-        </div>
+    <a class="skip-link" href="#main">Към съдържанието</a>
 
-        <nav class="tabs">
-            <a href="/" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
-                </svg></a>
-            <a href="/news/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path
-                        d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12zM6 10h12v2H6zm0 4h8v2H6z" />
-                </svg></a>
-            <a href="/stocks/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path
-                        d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" />
-                </svg></a>
+    <header class="masthead">
+        <a class="brand" href="/">
+            <img src="/assets/logo.svg" alt="" width="44" height="44" fetchpriority="high" />
+            <span class="brand-name">Techno Tavern<span class="brand-place">Пловдив</span></span>
+        </a>
+        <nav class="primary-nav" aria-label="Основна навигация">
+            <a href="/" aria-current="page">Новини</a>
+            <a href="/blog/">Блог</a>
+            <a href="/about/">Как работи</a>
         </nav>
+        <a class="support-link" href="https://revolut.me/mihailyhx" target="_blank" rel="noopener noreferrer"
+            title="Подкрепи проекта в Revolut">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+            <span>Подкрепи</span>
+        </a>
+    </header>
 
-        <div class="content">
-            <!-- mastodon timeline -->
-            <div id="mastodon-feed">
-                <div class="feed-loading">Зареждане на публикации...</div>
+    <main id="main" class="news-page">
+        <h1 class="visually-hidden">Новините за деня</h1>
+
+        <!-- Evening digest: written daily at 18:30 by the Hermes agent. Pre-rendered by scripts/build-pages.js -->
+        <!--DIGEST:start--><section id="digest" class="digest" aria-labelledby="digest-title">
+            <p class="digest-dateline"><span id="digest-title">Вечерен обзор</span> <time id="digest-time" datetime="2026-10-20T15:32:11.599Z">20 октомври в 18:32</time></p>
+            <article class="lead">
+                <p class="story-category" id="lead-category">Свят</p>
+                <h2 class="lead-headline"><a id="lead-link" href="https://svobodnatochka.bg/novini/amerikanski-samolet-poseydon-patrulira-nad-cherno-more-sled-atakite-po-targovski-korabi/" target="_blank" rel="noopener noreferrer">СБРС „Посейдон“ патрулира над Черно море след удари по търговски кораби, открити са останки на дрон от кораба „Челси 3“</a></h2>
+                <p class="lead-summary" id="lead-summary">Американски самолет „Посейдон“ патрулира над Черно море след атаките по търговски кораби, а Министерството на отбраната засилва наблюдението с дронове. Властите откриха останки на поразения кораб „Челси 3“, а химически анализ ще установи кой го е ударил, като министърът на транспорта не потвърди дали са от дрон. Радев направи нови разкрития, а Кая Калас призова за силен европейски отговор.</p>
+                <p class="story-sources" id="lead-sources"><span class="story-sources-label">Източници: </span>Свободна точка, OffNews, Actualno, Dnevnik, FrogNews, Mediapool</p>
+            </article>
+            <ol class="digest-rest" id="digest-rest" start="2"><li class="digest-item"><p class="story-category">Свят</p><h3 class="digest-headline"><a href="https://boulevardbulgaria.bg/articles/tramp-e-saglasen-na-sreshta-s-putin-i-si-dzinpin-oshte-sledvashtiya-mesets" target="_blank" rel="noopener noreferrer">Тръмп отворен към тристранна среща с Си и Путин и отново обвинява Зеленски, а не Путин, за войната</a></h3><p class="digest-summary">Доналд Тръмп заяви, че е съгласен на среща с Путин и Си Дзинпин още следващия месец и е отворен към тристранен формат, като оказва остра атака срещу Зеленски и го обвинява, а не Путин, за войната. Републиканците започнаха да заплашват да блокират инициативите му заради сближаването му с Русия, а Зеленски обвини САЩ за забавяне на доставките на Patriot и за трудно обясними решения по Украйна.</p><p class="story-sources"><span class="story-sources-label">Източници: </span>Boulevard Bulgaria, Actualno, Reuters, FrogNews, DW</p></li>
+<li class="digest-item"><p class="story-category">Свят</p><h3 class="digest-headline"><a href="https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer">Франция въвежда комендантски час в Париж и Ница след безредици и грабежи, крайно десното печели от гнева за цените на горивото</a></h3><p class="digest-summary">Френските власти наложиха частични вечерни комендантски часове в Париж и Ница след масови безредици, при които бяха разграбени магазини на Louis Vuitton и Dior, а правителството обмисля извънредно положение. Гневът заради цените на горивото вдига подкрепата за крайно десното движение преди изборите, а в няколко случая е прието да се отложи срещата ПСЖ – Барселона.</p><p class="story-sources"><span class="story-sources-label">Източници: </span>Reuters, DW, Actualno</p></li>
+<li class="digest-item"><p class="story-category">Култура</p><h3 class="digest-headline"><a href="https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer">Кристиан Аманпур напуска CNN след 43 години кариера</a></h3><p class="digest-summary">Легендарната журналистка Кристиан Аманпур обяви, че напуска CNN след 43 години в медията. Новината е отразена от водещите световни издания и от българските медии, които я представят като загуба на един от най-разпознаваемите лица в международната журналистика.</p><p class="story-sources"><span class="story-sources-label">Източници: </span>DW, OffNews, Boulevard Bulgaria, Reuters</p></li>
+<li class="digest-item"><p class="story-category">Общество</p><h3 class="digest-headline"><a href="https://boulevardbulgaria.bg/articles/dvama-dushi-zaginaha-pri-sblasak-mezhdu-avtobus-i-kamion-kray-pazardzhik" target="_blank" rel="noopener noreferrer">Двама загинаха при сблъсък между автобус и камион на пътя Пазарджик – Пловдив</a></h3><p class="digest-summary">Двама души загинаха при тежка пътна катастрофа между автобус и камион на пътя Пазарджик – Пловдив, съобщиха Boulevard Bulgaria и Mediapool. Инцидентът е отделно от верижната катастрофа между Карнобат и Айтос, при която загина един човек, а друг е тежко ранен.</p><p class="story-sources"><span class="story-sources-label">Източници: </span>Boulevard Bulgaria, Mediapool, OffNews</p></li></ol>
+            <details class="digest-overview"><summary>Денят в едно изречение</summary><p id="digest-overview">Денят е отбелязан с ескалация в Черно море след удари по търговски кораби и разкрития за дронове, дипломатическо напрежение между Вашингтон, Киев и Москва, масови безредици и комендантски час във Франция, отказ на Кристиан Аманпур да напусне CNN след 43 години и трагични пътни катастрофи в България.</p></details>
+        </section><!--DIGEST:end-->
+
+        <section class="stream" aria-labelledby="stream-title">
+            <div class="stream-head">
+                <h2 id="stream-title">Последни заглавия</h2>
+                <p class="stream-meta" id="stream-meta"></p>
             </div>
-            <!-- /mastodon timeline -->
-        </div>
 
-        <footer class="site-footer">
-            <a href="/about/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path
-                        d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z" />
-                </svg>Как работи?</a>
-            <span>Архив</span>
-            <a href="/politics/" class="footer-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path
-                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
-                </svg>Политика</a>
-        </footer>
+            <div class="source-filter" id="source-filter" role="group" aria-label="Филтър по медия"></div>
+
+            <div id="news-feed"><!--FEED:start--><section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T17:15:00.000Z">20:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.actualno.com/politics/protest-sreshtu-radev-zaradi-ukrajna-sybra-hiljadi-pred-ms-i-prezidentstvoto-video-news_2652650.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Протест срещу Радев заради Украйна събра хиляди пред МС и Президентството (ВИДЕО)</span><span class="news-meta"><span class="news-source" style="--source: #9C27B0">Actualno</span><span class="news-age">20:15</span></span></div><img class="news-thumb" src="https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/20/34d553025eaa295e2e6edde381ccc578_2652650_1920x1080.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">North Korean workers treated as 'slaves' at Russian drone factory, says new report</span><span class="news-meta"><span class="news-source" style="--source: #C8102E">DW</span><span class="news-age">20:10</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T16:56:00.000Z">19:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.actualno.com/football/real-madrid-pogna-shest-anglijski-kluba-dyljat-milioni-news_2652644.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Реал Мадрид погна шест английски клуба, дължат милиони</span><span class="news-meta"><span class="news-source" style="--source: #9C27B0">Actualno</span><span class="news-age">19:56</span></span></div><img class="news-thumb" src="https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/20/94fdc4f3b236b9ee5ee9723d51c7dcf1_2652644_1920x1080.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.actualno.com/company/glavbolgarstroj-v-mejdunarodnija-dialog-za-ikonomicheski-napredyk-i-inovacii-news_2652643.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">„Главболгарстрой“ в международния диалог за икономически напредък и иновации</span><span class="news-meta"><span class="news-source" style="--source: #9C27B0">Actualno</span><span class="news-age">19:52</span></span></div><img class="news-thumb" src="https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/20/4327befda4226664ef1b071043e6abee_2652643_1920x1080.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.actualno.com/europe/putin-svikva-sreshta-kato-stalin-s-trymp-i-si-novite-ruzvelt-i-chyrchil-no-shte-si-ostane-samo-sys-snimka-news_2652642.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Путин свиква среща като Сталин с Тръмп и Си - новите Рузвелт и Чърчил. Но ще си остане само със снимка</span><span class="news-meta"><span class="news-source" style="--source: #9C27B0">Actualno</span><span class="news-age">19:49</span></span></div><img class="news-thumb" src="https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/20/dbcd108b632f5388dfbf5a18d76e6d14_2652642_1920x1080.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">New EU plan for Arctic warily eyes influence of Russia, US</span><span class="news-meta"><span class="news-source" style="--source: #C8102E">DW</span><span class="news-age">19:44</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Trump drops threats against Canadian jet maker Bombardier, citing US jobs - Reuters</span><span class="news-meta"><span class="news-source" style="--source: #4169E1">Reuters</span><span class="news-age">19:40</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://www.actualno.com/company/obb-e-naj-dobrata-institucija-na-pazara-na-instrumenti-s-fiksirana-dohodnost-v-bylgarija-spored-euromoney-markets-awards-2026-news_2652637.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">ОББ е най-добрата институция на пазара на инструменти с фиксирана доходност в България според Euromoney Markets Awards 2026</span><span class="news-meta"><span class="news-source" style="--source: #9C27B0">Actualno</span><span class="news-age">19:39</span></span></div><img class="news-thumb" src="https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/20/60215470a2b563c5f74dd185e470cca9_2652637_1920x1080.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDdlM0RlVG83TndzY3dBc0JFaGNJVE8zeWlxbndUN1J4V3JhbXJLWlVJMm5pc3Q5RWYyTk5uTEUyZlAyQ1c5THNMWF8ydGgwZ3dOdlJDaFBIOEZkVkhVUVJBM1RsXzMwUHExbFZHak1VT3NDZHJYNzMzX01wZFdHd2ZucV9zX05YS1l5NXFWbTVrX0E1MTk1Qi1WVy1LZ0JYT2dFVk45cHRFcG85SEJSSUR6dGJMaDdzZnc?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Comedian Russell Brand anally raped me, woman tells UK trial - Reuters</span><span class="news-meta"><span class="news-source" style="--source: #4169E1">Reuters</span><span class="news-age">19:17</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T15:44:00.000Z">18:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">France plans 'massive' weekend police surge amid protests</span><span class="news-meta"><span class="news-source" style="--source: #C8102E">DW</span><span class="news-age">18:44</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkFibW94Q3BMMDZuM1ZwaWFsTndxRUZ1V3VFd1NIdzdZUk15T2phOExKLVpMeHhfaTlrY3hjbWJQWmo2OHlGUDl4aXZVY3otVU5NdFI4VTU0SUJTVzRPOHNyVzlvd2tIa19kYlVsOENjMXdaNXVPdUEzZ1RTTXlkT28wMTQ4RTd2MHR2RHhnb3ktbWhvMThYRnhyMUIwTE9aNElJTmQ3VlltWWpmSlRGbkJBekZyekhtRGZKYXZCbldrNWlXWThBQU81Q3RZQQ?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Kenya confirms new Ebola case, total at nine, health ministry says - Reuters</span><span class="news-meta"><span class="news-source" style="--source: #4169E1">Reuters</span><span class="news-age">18:41</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Germany news: Hackers release AfD party emails</span><span class="news-meta"><span class="news-source" style="--source: #C8102E">DW</span><span class="news-age">18:41</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-top-1022-rdf" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote</span><span class="news-meta"><span class="news-source" style="--source: #C8102E">DW</span><span class="news-age">18:12</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://frognews.bg/novini/pogromite-vav-frantsiia-risk-vazmojnost-kandiatite-eliseiskiia-dvorets.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Погромите във Франция: Риск и възможност за кандиатите за Елисейския дворец</span><span class="news-meta"><span class="news-source" style="--source: #795548">FrogNews</span><span class="news-age">18:10</span></span></div><img class="news-thumb" src="https://frognews.bg/images2/thumbs16x9/410/25e85dec5_1792508977_6ad7843144cc7.webp" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T14:50:55.000Z">17:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.mediapool.bg/bulgaria/vasil-terziev-ne-mi-e-samotsel-da-sam-kmet-ima-znachenie-samo-kakvo-sam-obeshtal-i-izpalnil/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Васил Терзиев: Не ми е самоцел да съм кмет. Има значение само какво съм обещал и изпълнил</span><span class="news-meta"><span class="news-source" style="--source: #00BCD4">Mediapool</span><span class="news-age">17:50</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://frognews.bg/novini/sikorski-obyasni-zashto-polsha-veche-nyama-dostavya-peytriat-ukrayna.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Сикорски обясни защо Полша вече няма да доставя „Пейтриът“ на Украйна</span><span class="news-meta"><span class="news-source" style="--source: #795548">FrogNews</span><span class="news-age">17:50</span></span></div><img class="news-thumb" src="https://frognews.bg/images2/thumbs16x9/410/094160d8e_1792507946_6ad7802aaab51.webp" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTU4MXMwVUJRSFJSQWxSNlNuMmdfU2FWWDR3cDBTM2h2cXJlUjBFalpTUGVWaEJkVm9iZ2pWNTU5dWx5Q3JGdHZ3MC12RFR6Tmh3LTg3akdqWjVFdENaRE85YUhFTGpZSUVpdWhVN2F1RGFueE51U01XWHJXUlJwSUlyMnpHamRib2xBdVpuSzJIcFU4WTU3UWJkYnlONVhlaGpQa3dLX2RHVXl2T3pkd0gwZ1RCVXBOb3c?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Romanian parliament confirms new prime minister after months of deadlock - Reuters</span><span class="news-meta"><span class="news-source" style="--source: #4169E1">Reuters</span><span class="news-age">17:42</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://www.mediapool.bg/bulgaria/farmaeksperti-predlagat-da-borim-nedostiga-na-lekarstva-s-po-visoki-tseni/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Фармаексперти предлагат да борим недостига на лекарства с по-високи цени</span><span class="news-meta"><span class="news-source" style="--source: #00BCD4">Mediapool</span><span class="news-age">17:42</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://frognews.bg/novini/reshi-biudjet-2026-ostava-sila-otmeni-zalojeni-promeni-zaplatite-magistratite.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">КС реши: Бюджет 2026 остава в сила. Отмени заложени промени в заплатите на магистратите</span><span class="news-meta"><span class="news-source" style="--source: #795548">FrogNews</span><span class="news-age">17:40</span></span></div><img class="news-thumb" src="https://frognews.bg/images2/thumbs16x9/410/be8703f33_1792507175_6ad77d27dbbc4.webp" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://frognews.bg/novini/nad-46-000-mladi-balgari-shte-glasuvat-parvi-pat-prezidentskite-izbori.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Над 46 000 млади българи ще гласуват за първи път на президентските избори</span><span class="news-meta"><span class="news-source" style="--source: #795548">FrogNews</span><span class="news-age">17:33</span></span></div><img class="news-thumb" src="https://frognews.bg/images2/thumbs16x9/410/440483a49_mashini_bgnes.webp" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.mediapool.bg/bulgaria/pomilvan-ot-yotova-narkodilar-e-obvinyavan-v-tormoz-i-zaplahi/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Помилван от Йотова наркодилър е обвиняван в тормоз и заплахи</span><span class="news-meta"><span class="news-source" style="--source: #00BCD4">Mediapool</span><span class="news-age">17:24</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ21lanBkYUlfZlRmUVdoQnlHbmdzTDNXUEVwYnRkOXBNTjVZXzFudWlyUUw2anRPVmo1OWZpR3h6WGdRZWRlc3JDVy1iT3dZOGVyT1pfVktWLU96ZDhmUHhFemYzQ2psS3dycXVaQVl6UzNVdWp0V2tnTlhHcmVZeGIwVjNaSUQzclV5SGNYQ3Z5eGpfLV9mbjRtN2x4RkdW?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Конституционният съд не обяви бюджет 2026 за противоконституционен - Dnevnik.bg</span><span class="news-meta"><span class="news-source" style="--source: #2196F3">Dnevnik</span><span class="news-age">17:22</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://frognews.bg/novini/priiutat-gorni-bogrov-zatvaria-6-mesetsa-dobrovoltsite-gubiat-dostap-kuchetata.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Приютът в Горни Богров затваря за 6 месеца, доброволците губят достъп до кучетата</span><span class="news-meta"><span class="news-source" style="--source: #795548">FrogNews</span><span class="news-age">17:20</span></span></div><img class="news-thumb" src="https://frognews.bg/images2/thumbs16x9/410/969d866c4_kuche-tujno.webp" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://www.mediapool.bg/bulgaria/radev-za-protesta-iskat-da-izperat-borisov-i-peevski-i-da-ni-nabutat-vav-voinata/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Радев за протеста: Искат да изперат Борисов и Пеевски и да ни набутат във войната</span><span class="news-meta"><span class="news-source" style="--source: #00BCD4">Mediapool</span><span class="news-age">17:16</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://www.mediapool.bg/bulgaria/siriets-e-arestuvan-za-napadenie-s-nozh-sreshtu-dve-momcheta-v-sofiya/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Сириец е арестуван за нападение с нож срещу две момчета в София</span><span class="news-meta"><span class="news-source" style="--source: #00BCD4">Mediapool</span><span class="news-age">17:15</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://svobodnatochka.bg/novini/problem-sas-zahranvaneto-sriv-v-revolyut-zatrudni-plashtaniyata-i-prevodite/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">„Проблем със захранването“. Срив в Револют затрудни плащанията и преводите</span><span class="news-meta"><span class="news-source" style="--source: #FF9800">Свободна точка</span><span class="news-age">17:03</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T13:53:15.000Z">16:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVJnQzNVSG9xLUh4YjJRTXRpLU5xMnlLTkhXWjJtc2YtYVdMcE1IYVV6cmx5Snp3WGZraHlCSXhteWQzNjlKSW5XRUZCVTMza3N6NE43el9kODgxTG1fc19NM2xxVmNTRVl4ZjN4T0tHT1FvNVdUd0ZwR3JabGNCNkFxbWM4ZURfdmpFeDZwVng5ZWU1RmxmeWR5ZWVCZlVXY0hr?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">US judge dismisses Sam Altman's sister's sexual abuse lawsuit - Reuters</span><span class="news-meta"><span class="news-source" style="--source: #4169E1">Reuters</span><span class="news-age">16:53</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9RZGFLYXFIaHZSanVValRLbjBFRHRkX1NDNXJWckJKaU15WXN3TlcwWlExUzBJZEJfTTZVRlhnWTlVNUZUQUswcFhnU3ZsZy1sTTVQRXRFdTQzYkI0QnZmaDhFZThtdk1hNXBzSFR3cWlDSHM1clp6Qmd5bGY?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Какво ни даде Украйна - Dnevnik.bg</span><span class="news-meta"><span class="news-source" style="--source: #2196F3">Dnevnik</span><span class="news-age">16:03</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://svobodnatochka.bg/novini/balgarskiyat-poslanik-v-oae-e-otzovan-sled-razkritiyata-na-mvr-che-negoviyat-bashta-e-plashtal-za-poleti-na-peevski/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Българският посланик в ОАЕ е отзован след разкритията на МВР, че неговият баща е плащал за полети на Пеевски</span><span class="news-meta"><span class="news-source" style="--source: #FF9800">Свободна точка</span><span class="news-age">16:02</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T12:22:28.000Z">15:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.science.org/doi/10.1126/science.ael8752" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Demographic &quot;Doomsday&quot; Misses the Mark</span><span class="news-meta"><span class="news-source" style="--source: #FF6600">Hacker News</span><span class="news-age">15:22</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://svobodnatochka.bg/novini/amerikanski-samolet-poseydon-patrulira-nad-cherno-more-sled-atakite-po-targovski-korabi/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Американски самолет „Посейдон“ патрулира над Черно море след атаките по търговски кораби</span><span class="news-meta"><span class="news-source" style="--source: #FF9800">Свободна точка</span><span class="news-age">15:01</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T11:27:48.000Z">14:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://offnews.bg/politika/andrej-giurov-podkrepiam-spravedlivite-iskania-na-mladite-lekari-to-876834.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Андрей Гюров: Подкрепям справедливите искания на младите лекари - това е кауза за здравето на всички ни</span><span class="news-meta"><span class="news-source" style="--source: #E91E63">OffNews</span><span class="news-age">14:27</span></span></div><img class="news-thumb" src="https://i2.offnews.bg/events/2026/10/20/876834/phpv4cn9i_559x345.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://offnews.bg/politika/maka-himicheski-analiz-shte-ustanoviava-koj-udari-chelsi-3-876832.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Мъка. Химически анализ ще установява кой удари Челси 3</span><span class="news-meta"><span class="news-source" style="--source: #E91E63">OffNews</span><span class="news-age">14:27</span></span></div><img class="news-thumb" src="https://i2.offnews.bg/events/2026/10/20/876832/phpbybo6h_559x345.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://svobodnatochka.bg/novini/nadtsenki-ot-68-do-99-na-pryasno-mlyako-manolova-sezira-kzk-zaradi-diskriminatsiya-na-targovski-partnyori/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Надценки от 68% до 99% на прясно мляко в една верига. Манолова сезира КЗК заради нелоялни търговски практики</span><span class="news-meta"><span class="news-source" style="--source: #FF9800">Свободна точка</span><span class="news-age">14:20</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://offnews.bg/zdrave/ai-prognozira-prezhiviaemostta-na-patcienti-s-rak-po-snimka-876833.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">AI прогнозира преживяемостта на пациенти с рак по снимка</span><span class="news-meta"><span class="news-source" style="--source: #E91E63">OffNews</span><span class="news-age">14:17</span></span></div><img class="news-thumb" src="https://i2.offnews.bg/events/2026/10/20/876833/phpape47v_559x345.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T10:46:51.000Z">13:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://offnews.bg/zdrave/memorandum-shte-garantira-po-dobri-grizhi-za-patcienti-zasegnati-ot-i-876831.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Меморандум ще гарантира по-добри грижи за пациенти, засегнати от инсулт и афазия</span><span class="news-meta"><span class="news-source" style="--source: #E91E63">OffNews</span><span class="news-age">13:46</span></span></div><img class="news-thumb" src="https://i2.offnews.bg/events/2026/10/20/876831/phpn6am99_559x345.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://offnews.bg/politika/ns-zasedava-v-sriada-izvanredno-po-kazusa-s-petrichkia-eskobar-876830.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">НС заседава в сряда извънредно по казуса с Петричкия Ескобар</span><span class="news-meta"><span class="news-source" style="--source: #E91E63">OffNews</span><span class="news-age">13:21</span></span></div><img class="news-thumb" src="https://i2.offnews.bg/events/2026/10/20/876830/phpsbgisi_559x345.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T09:27:33.000Z">12:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://svobodnatochka.bg/novini/ostanki-ot-dron-sa-namereni-na-porazeniya-korab-chelsea-3-sluzhbite-shte-gi-analizirat-kaza-ministarat-na-transporta/" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Намерени са „останки“ на поразения кораб Chelsea 3. Министърът на транспорта не каза дали са от дрон</span><span class="news-meta"><span class="news-source" style="--source: #FF9800">Свободна точка</span><span class="news-age">12:27</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://github.com/deepseek-ai/DeepInfer" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">DeepSeek just open-sourced its inference engine</span><span class="news-meta"><span class="news-source" style="--source: #FF6600">Hacker News</span><span class="news-age">12:08</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T08:43:00.000Z">11:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2lvZUoyeGNraU5JSFNYMFFNWXJ2UGRjU2NfcFV4LThXSzJCQ2VZbVNfREt0cjA3M3B2TGtRYlo3bGw3YUN3LVhSOUMtZjQ1UGN1dE9GU1RRbUJGN2NNQ0NlR2wwM2ptTWRpQlhtbTVaT0o1a3lWeUZ5X3hHd1lmaXVDTHU5T05zWGZpUkp3VUxJel9LZU9iTmdaQ0FLX28?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Властите са открили останки на кораба &quot;Челси 3&quot; - Dnevnik.bg</span><span class="news-meta"><span class="news-source" style="--source: #2196F3">Dnevnik</span><span class="news-age">11:43</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T06:37:07.000Z">09:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://github.com/microg/GmsCore/wiki" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">MicroG: Free-libre re-implementation of Google's proprietary Android user space</span><span class="news-meta"><span class="news-source" style="--source: #FF6600">Hacker News</span><span class="news-age">09:37</span></span></div></a></li><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNXy1UQy05NEt3aUZVVThvSTBjSmlWQi1RVXpCWWw2Mjk4cGNSOFZoMGpFOEVFbmZ1ek1GRWFZT25GSEs4c0RtbVU2dGlpSFlnY2xjLWpMejFad0JVQXlrYVN6UjJPb241d01va0NFUzRGR1E4YW9ybHhMczZPX2VIU2hGQ3ppeFdYRk9kY0R1X1MwYmtwdEh4X3pwZGJKOVlHazRN?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Според Костадинов основно бивши избиратели на &quot;Прогресивна България&quot; ще гласуват за него - Dnevnik.bg</span><span class="news-meta"><span class="news-source" style="--source: #2196F3">Dnevnik</span><span class="news-age">09:10</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T05:40:25.000Z">08:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://boulevardbulgaria.bg/articles/dvama-dushi-zaginaha-pri-sblasak-mezhdu-avtobus-i-kamion-kray-pazardzhik" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Двама души загинаха при сблъсък между автобус и камион край Пазарджик</span><span class="news-meta"><span class="news-source" style="--source: #FF5722">Boulevard Bulgaria</span><span class="news-age">08:40</span></span></div><img class="news-thumb" src="https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NTU1LCJwdXIiOiJibG9iX2lkIn19--e18e433a1cdd30310e94515967ae77a347c10c97/%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20%D0%9F%D0%B0%D0%B7%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%BA.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li><li class="news-item"><a class="news-link" href="https://boulevardbulgaria.bg/articles/tramp-e-saglasen-na-sreshta-s-putin-i-si-dzinpin-oshte-sledvashtiya-mesets" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Тръмп е съгласен на среща с Путин и Си Дзинпин още следващия месец</span><span class="news-meta"><span class="news-source" style="--source: #FF5722">Boulevard Bulgaria</span><span class="news-age">08:01</span></span></div><img class="news-thumb" src="https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2OTk3LCJwdXIiOiJibG9iX2lkIn19--17bd955bc07097fad1a93ee21043c04997e63e26/%D0%A2%D1%80%D1%8A%D0%BC%D0%BF_%D0%A1%D0%90%D0%A9.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T04:30:55.000Z">07:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://boulevardbulgaria.bg/articles/italiya-izprashta-500-voenni-v-milano-sled-pogromi-i-sblasatsi-s-politsiyata" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Италия изпраща 500 военни в Милано след погроми и сблъсъци с полицията</span><span class="news-meta"><span class="news-source" style="--source: #FF5722">Boulevard Bulgaria</span><span class="news-age">07:30</span></span></div><img class="news-thumb" src="https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NTI5LCJwdXIiOiJibG9iX2lkIn19--2edc2d00b913b19ecf3578a15e96ec48a6b9beb1/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD%D0%BE_%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" /></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-20T02:06:40.000Z">05:00</time><span class="hour-day">20 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://www.openbsd.org/80.html" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">OpenBSD 8.0</span><span class="news-meta"><span class="news-source" style="--source: #FF6600">Hacker News</span><span class="news-age">05:06</span></span></div></a></li></ol></section>
+<section class="hour-group"><h3 class="hour-mark"><time datetime="2026-10-19T19:48:00.000Z">22:00</time><span class="hour-day">19 октомври</span></h3><ol class="hour-list"><li class="news-item"><a class="news-link" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQblZuUk10LUZYR1pteHJSUUkwNC00U3ZpeWY2SHZTOTZIa2E1TkwxMklHX1N6OFBIUE5CYU95M2JrYTZUVFpvRGpyaUtVb0pfQ2RLMUIwckpBT1dqQ0EzaE1ERUtxNl92SnlMZFRrQnJrblg1ZGFZVXBqVXdQeGlwVm1lVEpyNzNhR0ZyYV9JWlVPZU5Ba1FaUXdJSDZCb1BIYU85ZTE4VXhmNWlySTB3?oc=5" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">Тази седмица започва ремонтът на пътя между София и Перник в участъка край Владая - Dnevnik.bg</span><span class="news-meta"><span class="news-source" style="--source: #2196F3">Dnevnik</span><span class="news-age">22:48</span></span></div></a></li></ol></section><!--FEED:end--></div>
+            
+        </section>
     </main>
 
-    <a href="https://revolut.me/mihailyhx" target="_blank" rel="noopener noreferrer" class="floating-donate-btn" title="Подкрепи проекта в Revolut" aria-label="Подкрепи проекта в Revolut">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-        </svg>
-        <span>Подкрепи</span>
-    </a>
+    <footer class="site-footer">
+        <p class="footer-note">Независим новинарски поток от Пловдив. Без реклами, без проследяване.</p>
+        <nav class="footer-group" aria-label="Проект">
+            <h2>Проект</h2>
+            <a href="/about/">Как работи</a>
+            <a href="/blog/">Блог</a>
+            <a href="https://masto.bg/@Technotavern" rel="me noopener" target="_blank">Mastodon</a>
+        </nav>
+        <nav class="footer-group" aria-label="Архив">
+            <h2>Архив</h2>
+            <a href="/politics/">Политика</a>
+            <a href="/stocks/">Акции</a>
+        </nav>
+    </footer>
 
     <script>
-        async function loadMastodonPosts() {
-            const feedContainer = document.getElementById('mastodon-feed');
+        const SOFIA = "Europe/Sofia";
 
+        function el(tag, className, text) {
+            const node = document.createElement(tag);
+            if (className) node.className = className;
+            if (text != null) node.textContent = text;
+            return node;
+        }
+
+        function safeUrl(url) {
             try {
-                const response = await fetch('https://masto.bg/api/v1/accounts/115955044932859142/statuses?limit=5');
-                const posts = await response.json();
-
-                feedContainer.innerHTML = '';
-
-                posts.forEach(post => {
-                    const postElement = document.createElement('div');
-                    postElement.className = 'mastodon-post';
-
-                    // Remove hyperlinks from hashtags but keep them styled
-                    let content = post.content;
-                    content = content.replace(/<a[^>]*class="[^"]*mention hashtag[^"]*"[^>]*>(.*?)<\/a>/g, '<span class="hashtag">$1</span>');
-
-                    postElement.innerHTML = `
-                        <div class="post-content">${content}</div>
-                    `;
-
-                    feedContainer.appendChild(postElement);
-                });
-            } catch (error) {
-                feedContainer.innerHTML = '<div class="feed-error">Failed to load posts. Please try again later.</div>';
+                const parsed = new URL(url);
+                return parsed.protocol === "https:" || parsed.protocol === "http:" ? parsed.href : null;
+            } catch {
+                return null;
             }
         }
 
-        // Load posts when page is ready
-        document.addEventListener('DOMContentLoaded', loadMastodonPosts);
+        // Feeds ship titles with HTML entities (&apos;, &quot;); decode without executing markup
+        const entityParser = new DOMParser();
+        function decodeEntities(text) {
+            if (!text || !text.includes("&")) return text;
+            return entityParser.parseFromString(text, "text/html").documentElement.textContent;
+        }
+
+        function sourcesLine(container, sources) {
+            container.textContent = "";
+            if (!Array.isArray(sources) || sources.length === 0) return;
+            container.append(el("span", "story-sources-label", "Източници: "), sources.join(", "));
+        }
+
+        async function loadDigest() {
+            try {
+                const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
+                const response = await fetch(`/news/data/top-news.json?v=${cacheBuster}`);
+                if (!response.ok) return;
+                const data = await response.json();
+                if (!data?.stories?.length) return;
+
+                const [lead, ...rest] = data.stories;
+
+                if (data.updatedAt) {
+                    const date = new Date(data.updatedAt);
+                    const time = document.getElementById("digest-time");
+                    time.dateTime = data.updatedAt;
+                    time.textContent = date.toLocaleString("bg-BG", {
+                        timeZone: SOFIA, day: "numeric", month: "long", hour: "2-digit", minute: "2-digit"
+                    });
+                }
+
+                document.getElementById("lead-category").textContent = lead.category || "";
+                const leadLink = document.getElementById("lead-link");
+                leadLink.textContent = lead.headline;
+                const leadHref = safeUrl(lead.link);
+                if (leadHref) leadLink.href = leadHref;
+                document.getElementById("lead-summary").textContent = lead.summary || "";
+                sourcesLine(document.getElementById("lead-sources"), lead.sources);
+
+                const list = document.getElementById("digest-rest");
+                list.textContent = "";
+                rest.forEach((story) => {
+                    const item = el("li", "digest-item");
+                    item.append(el("p", "story-category", story.category || ""));
+                    const heading = el("h3", "digest-headline");
+                    const link = el("a", null, story.headline);
+                    const href = safeUrl(story.link);
+                    if (href) {
+                        link.href = href;
+                        link.target = "_blank";
+                        link.rel = "noopener noreferrer";
+                    }
+                    heading.append(link);
+                    const sources = el("p", "story-sources");
+                    sourcesLine(sources, story.sources);
+                    item.append(heading, el("p", "digest-summary", story.summary || ""), sources);
+                    list.append(item);
+                });
+
+                document.getElementById("digest-overview").textContent = data.overview || "";
+                document.querySelector(".digest-overview").hidden = !data.overview;
+
+                document.getElementById("digest").hidden = false;
+            } catch (err) {
+                console.warn("Daily digest not loaded:", err);
+            }
+        }
+
+        // Parse article pubDate to a UTC timestamp (ms).
+        // Matches the parseArticleDate logic in fetch-news.js (UTC-first, Sofia fallback)
+        function parseArticleDate(pubDate) {
+            if (!pubDate) return null;
+            const raw = String(pubDate).trim();
+            if (!raw) return null;
+
+            // RFC 2822 with GMT
+            if (/^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} GMT$/.test(raw)) {
+                const t = Date.parse(raw);
+                return Number.isFinite(t) ? t : null;
+            }
+
+            // ISO 8601 with Z
+            if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) {
+                const t = Date.parse(raw);
+                return Number.isFinite(t) ? t : null;
+            }
+
+            // ISO 8601 without timezone: treat as UTC
+            if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
+                const t = Date.parse(raw + "Z");
+                return Number.isFinite(t) ? t : null;
+            }
+
+            // ISO 8601 with explicit offset
+            if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{4}$/.test(raw)) {
+                const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
+                const t = Date.parse(normalized);
+                if (Number.isFinite(t)) return t;
+                return Number.isFinite(Date.parse(raw)) ? Date.parse(raw) : null;
+            }
+
+            // YYYY-MM-DD HH:MM:SS — UTC-first, Sofia fallback only if future
+            if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
+                const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
+                if (!match) return null;
+                const [year, month, day, hour, minute, second] = match.slice(1).map(Number);
+                const utcTimestamp = Date.UTC(year, month - 1, day, hour, minute, second);
+                if (utcTimestamp <= Date.now()) {
+                    return utcTimestamp;
+                }
+                // Fallback: Sofia local time
+                const formatter = new Intl.DateTimeFormat("en-US", {
+                    timeZone: SOFIA,
+                    year: "numeric", month: "2-digit", day: "2-digit",
+                    hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23",
+                });
+                const parts = Object.fromEntries(
+                    formatter.formatToParts(new Date(utcTimestamp))
+                        .filter((part) => part.type !== "literal")
+                        .map((part) => [part.type, part.value])
+                );
+                const shiftedTimestamp = Date.UTC(
+                    Number(parts.year), Number(parts.month) - 1,
+                    Number(parts.day), Number(parts.hour),
+                    Number(parts.minute), Number(parts.second)
+                );
+                return utcTimestamp - (shiftedTimestamp - utcTimestamp);
+            }
+
+            const t = Date.parse(raw);
+            return Number.isFinite(t) ? t : null;
+        }
+
+        function formatAge(timestamp) {
+            const diffMins = Math.max(0, Math.floor((Date.now() - timestamp) / 60000));
+            if (diffMins < 1) return "току-що";
+            if (diffMins < 60) return `преди ${diffMins} мин`;
+            const diffHours = Math.floor(diffMins / 60);
+            if (diffHours < 24) return diffHours === 1 ? "преди 1 час" : `преди ${diffHours} часа`;
+            const diffDays = Math.floor(diffHours / 24);
+            return diffDays === 1 ? "вчера" : `преди ${diffDays} дни`;
+        }
+
+        // en-GB gives a bare "20"; bg-BG appends "ч."
+        const hourFormatter = new Intl.DateTimeFormat("en-GB", { timeZone: SOFIA, hour: "2-digit", hourCycle: "h23" });
+        const dayFormatter = new Intl.DateTimeFormat("bg-BG", { timeZone: SOFIA, day: "numeric", month: "long" });
+        const clockFormatter = new Intl.DateTimeFormat("bg-BG", { timeZone: SOFIA, hour: "2-digit", minute: "2-digit" });
+
+        let articles = [];
+        let activeSource = null;
+
+        function makeNewsItem(article) {
+            const item = el("li", "news-item");
+            const link = el("a", "news-link");
+            link.href = article.link;
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+
+            const text = el("div", "news-text");
+            text.append(el("span", "news-title", article.title));
+            const meta = el("span", "news-meta");
+            const source = el("span", "news-source", article.source || "");
+            source.style.setProperty("--source", article.color || "var(--malt)");
+            meta.append(source, el("span", "news-age", formatAge(article.time)));
+            text.append(meta);
+            link.append(text);
+
+            if (article.thumbnail) {
+                const img = el("img", "news-thumb");
+                img.src = article.thumbnail;
+                img.alt = "";
+                img.loading = "lazy";
+                img.decoding = "async";
+                img.referrerPolicy = "no-referrer";
+                img.width = 112;
+                img.height = 84;
+                img.addEventListener("error", () => img.remove());
+                link.append(img);
+            }
+
+            item.append(link);
+            return item;
+        }
+
+        function renderFeed() {
+            const feed = document.getElementById("news-feed");
+            feed.textContent = "";
+
+            const visible = activeSource ? articles.filter((a) => a.source === activeSource) : articles;
+            const today = dayFormatter.format(new Date());
+            let currentKey = null;
+            let list = null;
+
+            visible.forEach((article) => {
+                const date = new Date(article.time);
+                const day = dayFormatter.format(date);
+                const key = `${day} ${hourFormatter.format(date)}`;
+
+                if (key !== currentKey) {
+                    currentKey = key;
+                    const group = el("section", "hour-group");
+                    const label = el("h3", "hour-mark");
+                    const clock = el("time", null, `${hourFormatter.format(date)}:00`);
+                    clock.dateTime = new Date(article.time).toISOString();
+                    label.append(clock);
+                    if (day !== today) label.append(el("span", "hour-day", day));
+                    list = el("ol", "hour-list");
+                    group.append(label, list);
+                    feed.append(group);
+                }
+
+                list.append(makeNewsItem(article));
+            });
+        }
+
+        function renderFilter() {
+            const container = document.getElementById("source-filter");
+            container.textContent = "";
+            const counts = new Map();
+            articles.forEach((a) => {
+                if (!a.source) return;
+                const entry = counts.get(a.source) || { count: 0, color: a.color };
+                entry.count += 1;
+                counts.set(a.source, entry);
+            });
+            if (counts.size < 2) return;
+
+            const makeChip = (label, value, count, color) => {
+                const chip = el("button", "chip");
+                chip.type = "button";
+                chip.setAttribute("aria-pressed", String(activeSource === value));
+                if (color) chip.style.setProperty("--source", color);
+                chip.append(el("span", "chip-label", label), el("span", "chip-count", String(count)));
+                chip.addEventListener("click", () => {
+                    activeSource = activeSource === value ? null : value;
+                    renderFilter();
+                    renderFeed();
+                });
+                return chip;
+            };
+
+            container.append(makeChip("Всички", null, articles.length));
+            [...counts.entries()]
+                .sort((a, b) => b[1].count - a[1].count)
+                .forEach(([name, { count, color }]) => container.append(makeChip(name, name, count, color)));
+        }
+
+        async function loadNewsFeed() {
+            const feed = document.getElementById("news-feed");
+            try {
+                const cacheBuster = Math.floor(Date.now() / (10 * 60 * 1000));
+                const response = await fetch(`/news/data/news.json?v=${cacheBuster}`);
+                const data = await response.json();
+
+                articles = data.items
+                    .map((item) => ({
+                        title: decodeEntities(item.title),
+                        link: safeUrl(item.link),
+                        time: parseArticleDate(item?.pubDate),
+                        thumbnail: safeUrl(item.thumbnail?.link),
+                        source: item.source?.name,
+                        color: item.source?.color,
+                    }))
+                    .filter((a) => a.title && a.link && a.time !== null)
+                    .sort((a, b) => b.time - a.time);
+
+                const sourceCount = new Set(articles.map((a) => a.source)).size;
+                const updated = data.lastUpdated ? ` Обновено в ${clockFormatter.format(new Date(data.lastUpdated))}.` : "";
+                document.getElementById("stream-meta").textContent =
+                    `${articles.length} заглавия от ${sourceCount} медии.${updated}`;
+
+                renderFilter();
+                renderFeed();
+            } catch (error) {
+                console.error("Error loading news:", error);
+                feed.innerHTML = '<p class="feed-error">Новините не се заредиха. Опреснете страницата след минута.</p>';
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            loadDigest();
+            loadNewsFeed();
+        });
     </script>
 </body>
 

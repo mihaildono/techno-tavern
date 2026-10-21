@@ -1,0 +1,76 @@
+/* ── Blog (Mastodon posts) ── */
+.blog-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: clamp(28px, 5vw, 56px) var(--gutter) 0;
+}
+
+.blog-head h1 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(48px, 8vw, 72px);
+  line-height: 1;
+}
+
+.blog-head p {
+  margin: 12px 0 0;
+  color: var(--malt);
+}
+
+.blog-head a,
+.post-content a {
+  color: var(--amber);
+}
+
+.blog-head a:hover,
+.post-content a:hover {
+  text-decoration: underline;
+}
+
+.blog-feed {
+  margin-top: 32px;
+}
+
+.blog-post {
+  padding: 24px 0;
+  border-top: 1px solid var(--line);
+}
+
+.post-date {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--amber);
+}
+
+.post-date:hover {
+  text-decoration: underline;
+}
+
+.post-content {
+  margin-top: 8px;
+  font-size: 18px;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.post-content p {
+  margin: 0 0 10px;
+}
+
+.post-content p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content .hashtag {
+  color: var(--malt);
+  font-weight: 600;
+}
+
+.post-content .invisible {
+  display: none;
+}
+
+.post-content .ellipsis::after {
+  content: "…";
+}

@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="description" content="ГЕРБ - Techno Tavern Пловдив" />
 
     <title>ГЕРБ - Techno Tavern Пловдив</title>
@@ -17,34 +16,34 @@
     <link rel="stylesheet" href="/style.css" />
     <link rel="stylesheet" href="/politics/style.css" />
 
-    <link rel="preload"
-        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-        as="style" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-            rel="stylesheet" />
-    </noscript>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400;500;600;700&family=Sofia+Sans+Extra+Condensed:wght@700;800&display=swap" />
 </head>
 
 <body>
-    <main class="layout">
-        <div class="mainHeader">
-            <img src="/assets/logo.svg" class="logo" alt="logo" fetchpriority="high" />
-            <h1>Techno Tavern</h1>
-            <span>Социално пространство в Пловдив</span>
-        </div>
+    <a class="skip-link" href="#main">Към съдържанието</a>
 
-        <nav class="tabs">
-            <a href="/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
-                </svg></a>
-            <a href="/news/" class="tab"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12zM6 10h12v2H6zm0 4h8v2H6z"/></svg></a>
-            <a href="/politics/" class="tab active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <path
-                        d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm2 15H10v-1h4v1zm0-2H10v-1h4v1zm-1.5-3.59V14h-1v-2.59L9.67 9.59l.71-.71L12 10.5l1.62-1.62.71.71-1.83 1.82z" />
-                </svg></a>
+    <header class="masthead">
+        <a class="brand" href="/">
+            <img src="/assets/logo.svg" alt="" width="44" height="44" fetchpriority="high" />
+            <span class="brand-name">Techno Tavern<span class="brand-place">Пловдив</span></span>
+        </a>
+        <nav class="primary-nav" aria-label="Основна навигация">
+            <a href="/">Новини</a>
+            <a href="/blog/">Блог</a>
+            <a href="/about/">Как работи</a>
         </nav>
+        <a class="support-link" href="https://revolut.me/mihailyhx" target="_blank" rel="noopener noreferrer"
+            title="Подкрепи проекта в Revolut">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                    d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+            </svg>
+            <span>Подкрепи</span>
+        </a>
+    </header>
+
+    <main id="main" class="layout">
 
         <div class="content">
             <div class="party-hero-wrapper">
@@ -480,12 +479,20 @@
         </div>
     </main>
 
-    <a href="https://revolut.me/mihailyhx" target="_blank" rel="noopener noreferrer" class="floating-donate-btn" title="Подкрепи проекта в Revolut" aria-label="Подкрепи проекта в Revolut">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-        </svg>
-        <span>Подкрепи</span>
-    </a>
+    <footer class="site-footer">
+        <p class="footer-note">Независим новинарски поток от Пловдив. Без реклами, без проследяване.</p>
+        <nav class="footer-group" aria-label="Проект">
+            <h2>Проект</h2>
+            <a href="/about/">Как работи</a>
+            <a href="/blog/">Блог</a>
+            <a href="https://masto.bg/@Technotavern" rel="me noopener" target="_blank">Mastodon</a>
+        </nav>
+        <nav class="footer-group" aria-label="Архив">
+            <h2>Архив</h2>
+            <a href="/politics/" aria-current="page">Политика</a>
+            <a href="/stocks/">Акции</a>
+        </nav>
+    </footer>
 </body>
 
 </html>

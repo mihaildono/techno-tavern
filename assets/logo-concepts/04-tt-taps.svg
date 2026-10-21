@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Techno Tavern: TT beer taps">
+  <rect width="200" height="200" rx="44" fill="#1C120D"/>
+  <rect x="24" y="152" width="152" height="10" rx="5" fill="#F4EADB"/>
+  <g fill="#F2A51A">
+    <rect x="30" y="34" width="62" height="18" rx="9"/><rect x="52" y="40" width="18" height="74"/>
+    <rect x="108" y="34" width="62" height="18" rx="9"/><rect x="130" y="40" width="18" height="74"/>
+  </g>
+  <g fill="none" stroke="#F4EADB" stroke-width="8" stroke-linecap="round"><path d="M61 112v8q0 8-8 8"/><path d="M139 112v8q0 8-8 8"/></g>
+  <path d="M53 134q-6 8 0 12q6-4 0-12z" fill="#C8402B"/>
+</svg>
