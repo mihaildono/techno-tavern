@@ -1,0 +1,36 @@
+<!doctype html>
+<!-- Source for assets/og-image.jpg (1200x630 link preview). Regenerate with:
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless --hide-scrollbars \
+    --window-size=1200,630 --virtual-time-budget=5000 --screenshot=/tmp/og.png file://$PWD/scripts/og-image.html
+  sips -s format jpeg -s formatOptions 88 /tmp/og.png --out assets/og-image.jpg -->
+<html lang="bg">
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@500;600&family=Sofia+Sans+Extra+Condensed:wght@800&display=swap" />
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    width: 1200px; height: 630px; overflow: hidden;
+    background: radial-gradient(900px 500px at 85% 0%, rgba(242,165,26,.22), transparent 70%), #1c120d;
+    color: #f4eadb; font-family: "Sofia Sans", sans-serif;
+    display: flex; flex-direction: column; justify-content: space-between; padding: 64px 72px;
+    border-bottom: 10px solid #f2a51a;
+  }
+  .brand { display: flex; align-items: center; gap: 28px; }
+  .brand img { width: 120px; height: 120px; }
+  .name { font-family: "Sofia Sans Extra Condensed", sans-serif; font-weight: 800; font-size: 120px; line-height: .9; letter-spacing: -.005em; text-transform: uppercase; }
+  .name span { display: block; font-family: "Sofia Sans", sans-serif; font-weight: 600; font-size: 30px; letter-spacing: .28em; color: #f2a51a; margin-top: 10px; }
+  .tag { font-family: "Sofia Sans Extra Condensed", sans-serif; font-weight: 800; font-size: 76px; line-height: 1; max-width: 900px; }
+  .tag em { font-style: normal; color: #f2a51a; }
+  .foot { display: flex; justify-content: space-between; font-size: 30px; font-weight: 500; color: #b5a08a; }
+</style>
+</head>
+<body>
+  <div class="brand">
+    <img src="../assets/logo.svg" alt="" />
+    <div class="name">Techno Tavern<span>ПЛОВДИВ</span></div>
+  </div>
+  <div class="tag">Новините за деня. <em>Без реклами.</em></div>
+  <div class="foot"><span>Вечерен обзор · 10 независими медии · на всеки 3 часа</span><span>technotavern.com</span></div>
+</body>
+</html>
