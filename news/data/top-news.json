@@ -1,46 +1,93 @@
 {
-  "updatedAt": "2026-10-22T19:14:09.816Z",
-  "overview": "Днес водещите събития са свързани с критиката на Европарламента към българския президент за позицията по Черно море, ескалацията на войната между Русия и Украйна с нов план на Путин за зимата, и международните напрежения около Иран.",
+  "updatedAt": "2026-10-22T16:39:24.238Z",
+  "overview": "Днес водещите събития включват критиката на Европарламента към българския президент Радев за позицията по Черно море, ескалацията на войната между Русия и Украйна, и международните напрежения около Иран, променящ климатичните отношения в Европа и тревогите в Българския университетски протестен пояс.",
   "stories": [
     {
       "category": "Политика",
       "headline": "Европарламентът критикува българския президент Радев за позицията по Черно море",
       "summary": "Европарламентът изрази критика към президента Радев за слабата реакция спрямо Русия след атаките в Черно море. Радев отхвърля обвиненията, като ги описва като намеса в суверенитета и предизборна кампания.",
-      "sources": ["Actualno", "Boulevard Bulgaria", "FrogNews", "OffNews", "Mediapool"],
-      "ids": [11, 12, 13, 16, 18, 39],
-      "link": "https://www.actualno.com/politics/radev-se-vbesi-sled-kato-ep-mu-kaza-che-se-oslushva-za-rusija-i-atakite-v-cherno-more-video-news_2653510.html"
+      "ids": [
+        1,
+        11,
+        13,
+        16,
+        18,
+        39
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/evroparlamentat-kritikuva-radev-za-neyasniya-otgovor-kam-ruskata-zaplaha",
+      "sources": [
+        "OffNews",
+        "Dnevnik",
+        "DW",
+        "Actualno",
+        "Boulevard Bulgaria",
+        "Mediapool",
+        "FrogNews",
+        "Свободна точка"
+      ]
     },
     {
       "category": "Свят",
       "headline": "Русия-Украйна: нов план на Путин за зимното нежитиелие и спорове около Тръмп и Зеленски",
       "summary": "Путин обяви план, че тази зима в големите градове на Украйна ще бъде невъзможно да се живее, а Зеленски отбеляза, че Тръмп е от грешната страна на историята. Американски конгресмени са възмутени, че Уиткоф нарече Путин хуманист.",
-      "sources": ["OffNews", "Mediapool"],
-      "ids": [4, 17, 29],
-      "link": "https://offnews.bg/sviat/zelenski-niama-nishto-lichno-mezhdu-men-i-tramp-no-toj-e-ot-greshnat-876999.html"
+      "ids": [
+        4,
+        17,
+        29
+      ],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/shto-za-gluposti-stiv-amerikanski-kongresmeni-vazmuteni-che-uitkof-nareche-putin-humanist-tramp-i-vans-go-opravdavat/",
+      "sources": [
+        "Bloomberg",
+        "OffNews",
+        "Mediapool"
+      ]
     },
     {
       "category": "Общество",
-      "headline": "Прокуратурата протестира освобождаването на осъдения за смъртта на Милен Цветков",
+      "headline": "Протестът на НАТФИЗ: Студенти поискаха оставката и на министъра на образованието",
       "summary": "Съдът освободи предсрочно Кристиан Николов, осъден за смъртта на Милен Цветков, а прокуратурата ще протестира това решение. В същото дело прокуратурата иска имунитет за Божидар Божанов.",
-      "sources": ["Dnevnik", "Свободна точка"],
-      "ids": [26, 40, 41],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTZZV2NwVWJ4VHV6SzBLR1V1djlGMUJEWWF5NFlsaUpHVkNpdFNKUjF4c2xWbU1zSTdMd3I4Z3duYXN5Q2JuUFlyZ0UzZ0RHZHdRdnROMkFFS2tRQmhRM2t1b0k0dlQxN25RdmRFR2dBdGZqdEJuamtJX0lZRU41Z0gwdERoTXRzemZTdl9lczQzeWpKMzI1YUMtM0hBTFFaa3g3RHZjOA?oc=5"
+      "ids": [
+        12,
+        23,
+        40,
+        41
+      ],
+      "link": "https://www.actualno.com/society/protestyt-na-natfiz-studenti-poiskaha-ostavkata-i-na-ministyra-na-obrazovanieto-news_2653526.html",
+      "sources": [
+        "Actualno",
+        "Dnevnik",
+        "Mediapool",
+        "Свободна точка"
+      ]
     },
     {
       "category": "Свят",
       "headline": "Силно земетресение с магнитуд 7 разлюля Тибет",
       "summary": "Земетресение с магнитуд 7 е засегнало Тибет, Китай, съобщават Actualno и Reuters. Няма информация за жертви или разрушения.",
-      "sources": ["Actualno", "Reuters"],
-      "ids": [1, 10],
-      "link": "https://www.actualno.com/asia/silno-zemetresenie-razlulja-tibet-news_2653525.html"
+      "ids": [
+        10,
+        34
+      ],
+      "link": "https://www.actualno.com/asia/silno-zemetresenie-razlulja-tibet-news_2653525.html",
+      "sources": [
+        "FrogNews",
+        "Свободна точка",
+        "Actualno"
+      ]
     },
     {
       "category": "Свят",
       "headline": "Иран: икономически колапс и нова заплаха от военна атака",
       "summary": "Actualno отчете, че Иран е почти без петрол за продажба, което поставя въпроса за бъдещ икономически колапс. DW изследва готовността на Иран за нова мащабна военна атака след изборите в САЩ.",
-      "sources": ["Actualno", "DW"],
-      "ids": [5, 22],
-      "link": "https://www.actualno.com/economy/iran-e-pochti-bez-petrol-kojto-da-prodava-shte-ima-li-skoro-ikonomicheski-kolaps-news_2653521.html"
+      "ids": [
+        18,
+        38
+      ],
+      "link": "https://www.actualno.com/economy/iran-e-pochti-bez-petrol-kojto-da-prodava-shte-ima-li-skoro-ikonomicheski-kolaps-news_2653521.html",
+      "sources": [
+        "Actualno",
+        "DW"
+      ]
     }
   ]
 }
