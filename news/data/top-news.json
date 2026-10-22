@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:17:17.773Z",
+  "updatedAt": "2026-10-22T18:49:19.411Z",
   "overview": "Днес Европейският парламент изрази критика към премъра Радев за реакцията на кризата, Франция зашири ограниченията на протестите след първия случай на вирусът Shamonda, а студентите от НАТФИЗ продължават протестите.",
   "stories": [
     {
@@ -12,9 +12,8 @@
       ],
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHdjWTNoQzA4dlI5U25YMktTeTFQRHZxemxZM3dtVEgwd1pLZ0hZamxkMXZDcVlUeXNvMUFPZ080SDBPRXowZEJZeGduYkJlbW01d2RyRVRYVWk4bE5kT09fTmVsRTdNdkxXWGFmVmt4bWRzOUplSlRHTENLeDJRVExNT3cwUFVha3FLNXNKN0plMEhHVEYwbGxnTTdUWnZpd0h6ZlBpWXJ5Z0E4S3RDNHVLWXF3aDZjeHd2YmQ2Qno5bUs1Nm4zektmSDMtbm02ZHY5VVZ5WlJpWEUtODhFd2tyWXY4OWktRVE?oc=5",
       "sources": [
-        "Свободна точка",
-        "Mediapool",
-        "Boulevard Bulgaria"
+        "Boulevard Bulgaria",
+        "Свободна точка"
       ]
     },
     {
@@ -29,9 +28,11 @@
       ],
       "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
       "sources": [
-        "Dnevnik",
+        "Actualno",
+        "Bloomberg",
+        "FrogNews",
         "Reuters",
-        "DW"
+        "Dnevnik"
       ]
     },
     {
@@ -45,9 +46,10 @@
       ],
       "link": "https://frognews.bg/novini/poreden-protest-studentite-natfiz.html",
       "sources": [
-        "FrogNews",
         "Mediapool",
-        "Dnevnik"
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "FrogNews"
       ]
     },
     {
@@ -61,8 +63,10 @@
       ],
       "link": "https://www.mediapool.bg/svyat/tramp-obvini-iran-v-opit-za-nadue-tsenata-na-petrola-predi-mezhdinnite-izbori-v-sasht/",
       "sources": [
-        "Mediapool",
-        "DW"
+        "Bloomberg",
+        "OffNews",
+        "Dnevnik",
+        "Mediapool"
       ]
     },
     {
@@ -75,9 +79,12 @@
         15,
         16
       ],
-      "link": "https://www.bloomberg.com/opinion/articles/2026-10-22/ai-agents-are-a-bigger-threat-to-bank-deposits-than-stablecoins",
+      "link": "https://www.actualno.com/football/godoj-donese-pyrva-tochka-na-cska-v-evropa-v-napregnat-mach-s-obrat-i-cherven-karton-news_2653563.html",
       "sources": [
-        "Bloomberg"
+        "Actualno",
+        "Reuters",
+        "DW",
+        "OffNews"
       ]
     }
   ]
