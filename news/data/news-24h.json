@@ -1,7 +1,656 @@
 {
   "windowStart": "2026-10-22T19:11:43.568Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-22T19:11:43.568Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-22T21:01:03.821Z",
+  "totalItems": 53,
+  "items": [
+    {
+      "title": "Jane Street, HRT Are Spending Billions to Win in AI Era",
+      "link": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era",
+      "pubDate": "2026-10-22T21:00:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/fifteen-minute-prediction-market-bets-scratch-the-bitcoin-itch",
+      "pubDate": "2026-10-22T21:00:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Macro Matters: Buckler’s Lazar on Repo, Clearing and the Fed",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-22/macro-matters-buckler-s-lazar-on-repo-clearing-and-the-fed",
+      "pubDate": "2026-10-22T20:57:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Power On: iPhone Duo Review with Andru Edwards",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/power-on-iphone-duo-review-with-andru-edwards-video",
+      "pubDate": "2026-10-22T20:55:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Canada Tells Diplomats Stay Away From US Candidates",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/canada-tells-diplomats-stay-away-from-us-candidates-video",
+      "pubDate": "2026-10-22T20:53:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Левски завоюва първа победа в Лига Европа с гол и асистенция на Рейналдо",
+      "link": "https://www.actualno.com/football/levski-zavouva-pyrva-pobeda-v-liga-evropa-s-gol-i-asistencija-na-rejnaldo-news_2653597.html",
+      "pubDate": "2026-10-22T20:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/137ba5c6716886d0a7f7d68ca9eb51ff_2653597_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Poland: Thousands protest for more abortion rights",
+      "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T20:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Доцова: Съжалявам като жена за случилото се. НСО ще провери инцидента",
+      "link": "https://www.mediapool.bg/bulgaria/dotsova-sazhalyavam-kato-zhena-za-sluchiloto-se-nso-shte-proveri-intsidenta/",
+      "pubDate": "2026-10-22T20:50:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Оставиха в ареста кметовете на Белица и Сунгурларе, напрежение пред съда в Бургас",
+      "link": "https://www.actualno.com/crime/ostaviha-v-aresta-kmetovete-na-belica-i-sungurlare-naprejenie-pred-syda-v-burgas-news_2653596.html",
+      "pubDate": "2026-10-22T20:47:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/f5247932aeefb77ef0eb84fe07d00a58_2653596_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Футболният съдия Варадинов от Перник бутнал Колтуклиева",
+      "link": "https://offnews.bg/obshtestvo/futbolniat-sadia-varadinov-ot-pernik-butnal-koltuklieva-877013.html",
+      "pubDate": "2026-10-22T20:45:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877013/phpr11m2l_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Merck/Moderna cancer vaccine cuts melanoma death or recurrence risk by 42%, shares fall",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "pubDate": "2026-10-22T20:40:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Маскирани като рибарски кораби: Руски плавателни съдове шпионирали подводни кабели на НАТО",
+      "link": "https://www.actualno.com/europe/maskirani-kato-ribarski-korabi-ruski-plavatelni-sydove-shpionirali-podvodni-kabeli-na-nato-news_2653594.html",
+      "pubDate": "2026-10-22T20:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/61e638970d66504bf2997a8349751186_2653594_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Варненски клуб от родния елит опроверга слуховете за финансова криза",
+      "link": "https://www.actualno.com/bgfootball/varnenski-klub-ot-rodnija-elit-oproverga-sluhovete-za-finansova-kriza-news_2653591.html",
+      "pubDate": "2026-10-22T20:21:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/5e7a0646a84c03a31cdddf06cdcabe51_2653591_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Цитат на деня: Не е за аматьори тази работа",
+      "link": "https://www.dnevnik.bg/citat_na_deniia/2026/10/22/4969988_citat_na_denia_ne_e_za_amatyori_tazi_rabota/?ref=rss",
+      "pubDate": "2026-10-22T20:16:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969989.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Доцова не разбрала какво е станало с Колтуклиева, след като НСО затворили вратата и колата потеглила",
+      "link": "https://offnews.bg/politika/dotcova-ne-razbrala-kakvo-e-stanalo-s-koltuklieva-sled-kato-nso-zatvo-877012.html",
+      "pubDate": "2026-10-22T20:12:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877012/php3gymzu_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "На 93 години: Отиде си известен актьор",
+      "link": "https://www.actualno.com/cinema/na-93-godini-otide-si-izvesten-aktior-news_2653593.html",
+      "pubDate": "2026-10-22T20:11:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/0a462063db3c8780340cebe68aef3322_2653593_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+      "pubDate": "2026-10-22T20:07:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "pubDate": "2026-10-22T20:01:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Путин иска европейската сигурност да бъде част от преговорите за Украйна",
+      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/10/22/4969970_putin_gotovi_sme_da_pregovariame_s_ukraina/?ref=rss",
+      "pubDate": "2026-10-22T19:57:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969971.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVl2TFdMRGk3SHRydndCTVJDMm5QSV91MEtxODd1aE5QNmxXSk4tV0FmVUlYcUpwU3JieHB1MFNCbXlNMnY0eEtvMnh4UnpsZURBaWNacmFBRjVLZHdNNk1pY0NyU1lwREdkNnNmNlY4UU9MMHZ1c2Z3cnBNM01PcExkYVlaaVRpWkNCcGpfdHc3eFRQMGxRU3pPM2tEbmp5Z1ZJSFgyZ3IyNWxIYXFCa2lsQmt4Zjgwd1F2MnZR?oc=5",
+      "pubDate": "2026-10-22T19:52:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Михаела Доцова: \"Стресирах се, колегите затвориха вратата и колата тръгна\"",
+      "link": "https://boulevardbulgaria.bg/articles/mihaela-dotsova",
+      "pubDate": "2026-10-22T19:52:01.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODgwLCJwdXIiOiJibG9iX2lkIn19--fac6435e792beb23f9282fdced309555c71c6705/%D0%B4%D0%BE%D1%86%D0%BE%D0%B2%D0%B0%20%D0%BA%D0%BE%D0%BB%D1%82%D1%83%D0%BA%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Михаела Доцова: Случилото се с Колтуклиева е недопустимо, искрено съжалявам",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/22/4969975_mihaela_docova_sluchiloto_se_s_koltuklieva_e/?ref=rss",
+      "pubDate": "2026-10-22T19:45:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969973.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjdPNUJYaFEyX0ZYclFkenVMQ1A3OV9lTEdDUFpsQ1kyV3dRM0I3X1h1M2Z3ZldVSWczQUgzYXZydEVOSGI2dzVnZWliS2JpeWxKQk1ZeU56bS1Oc2gtS2NuTUVQV0JwWDNhWFJnVlhJcDlWZF9LcXluOVMzT2Q3a3VZZy03VlB4TmozTVJKc292UEx3blE?oc=5",
+      "pubDate": "2026-10-22T19:43:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Съдът остави в ареста кметовете на Белица и Сунгурларе",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/22/4969969_sudut_ostavi_v_aresta_kmetovete_na_belica_i_sungurlare/?ref=rss",
+      "pubDate": "2026-10-22T19:32:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969968.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Охранител на Доцова повали репортерка на земята. Политици искат оставките на шефа на НСО и председателката на парламента",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRDVGWmFEMDBVeXpRRVU0V1N3bU0xZXNmZTJraV9FM0o4Q0o0TlV1Wnl6Y0lER0xZRkE5ckxwdU9nU0w5NWI3MXZJcVphUWF2X0xWeWszaVhMYnJkVmVxaFRFUDVFZWhuRnBfaV9SNHRwdWFFcHRSbFdGZmNwU3poSnF4d3dqV3VIX2dRbFl2TXFVeXQ4TWxpbGNJWXhqQVBWMWJsbnJ4ZS1iRTg3UHNJSGFqYTFuSWE2QzVKd1FDOUE5eFJYejl6S0RHenZCTzh1VV8wWi1meTJCS0hpU2RUTDlPcFpRcGo2ZDRxYTh3?oc=5",
+      "pubDate": "2026-10-22T19:21:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Albania's student protests are only getting bigger",
+      "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T19:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
+      "link": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T19:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "НСО провервява кой е виновен за изблъскването на Соня Колтуклиева",
+      "link": "https://offnews.bg/obshtestvo/nso-proverviava-koj-e-vinoven-za-izblaskvaneto-na-sonia-koltuklieva-877011.html",
+      "pubDate": "2026-10-22T19:12:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877011/php4cga0m_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Недопустимо! Помилвалата наркобос Йотова осъди посегателството срещу Соня Колтуклиева",
+      "link": "https://offnews.bg/politika/nedopustimo-pomilvalata-narkobos-jotova-osadi-posegatelstvoto-sreshtu-877010.html",
+      "pubDate": "2026-10-22T19:07:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877010/phpfzwdgi_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "ЦСКА постигна първо равенство в Европа",
+      "link": "https://www.dnevnik.bg/sport/2026/10/22/4969966_cska_postigna_purvo_ravenstvo_v_evropa/?ref=rss",
+      "pubDate": "2026-10-22T19:06:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969164.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "ЦСКА спечели първа точка в Лига на конференциите след драма в Дания",
+      "link": "https://boulevardbulgaria.bg/articles/tsska-5a5dca63-df6d-4b27-9dc1-bc3063822417",
+      "pubDate": "2026-10-22T18:53:06.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODY1LCJwdXIiOiJibG9iX2lkIn19--488019e6adfc4af96654a13df2b9eaa4393513de/%D0%9B%D0%B5%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%20%D0%93%D0%BE%D0%B4%D0%BE%D0%B9%20%D0%A6%D0%A1%D0%9A%D0%90%20.png.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Йотова осъди агресията на НСО срещу Колтуклиева, Андрей Гюров поиска оставката на началника на службата",
+      "link": "https://boulevardbulgaria.bg/articles/yotova-osadi-agresiyata-na-nso-sreshtu-koltuklieva-andrey-gyurov-poiska-ostavkata-na-nachalnika-na-sluzhbata",
+      "pubDate": "2026-10-22T18:52:11.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5Nzk0LCJwdXIiOiJibG9iX2lkIn19--9f8ec65950cceb5a08b2ab68b71f3a90c87a3972/%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B3%D1%8E%D1%80%D0%BE%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Студентите от НАТФИЗ ''ожениха'' ректора и просветния министър (снимки)",
+      "link": "https://offnews.bg/kultura/studentite-ot-natfiz-ozheniha-rektora-i-prosvetnia-ministar-snimk-877002.html",
+      "pubDate": "2026-10-22T18:51:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877002/phpxg0rgb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "ЦСКА стигна до равен в Дания с Нордселанд след обрат – 2:2",
+      "link": "https://frognews.bg/novini/tsska-stigna-raven-daniia-nordseland-sled-obrat--2-2.html",
+      "pubDate": "2026-10-22T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5630911ba_1792694684_6ada599c624c2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Размириците във Франция притесниха българските изборни комисии в Лион и Марсилия",
+      "link": "https://frognews.bg/novini/razmiritsite-vav-frantsiia-pritesniha-balgarskite-izborni-komisii-lion-marsiliia.html",
+      "pubDate": "2026-10-22T18:28:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/45823c89a_1792693944_6ada56b8b381c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "ЕП критикува кабинета на Радев за слабата реакция към Русия. Той обвини българските евродепутати в манипулация",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHdjWTNoQzA4dlI5U25YMktTeTFQRHZxemxZM3dtVEgwd1pLZ0hZamxkMXZDcVlUeXNvMUFPZ080SDBPRXowZEJZeGduYkJlbW01d2RyRVRYVWk4bE5kT09fTmVsRTdNdkxXWGFmVmt4bWRzOUplSlRHTENLeDJRVExNT3cwUFVha3FLNXNKN0plMEhHVEYwbGxnTTdUWnZpd0h6ZlBpWXJ5Z0E4S3RDNHVLWXF3aDZjeHd2YmQ2Qno5bUs1Nm4zektmSDMtbm02ZHY5VVZ5WlJpWEUtODhFd2tyWXY4OWktRVE?oc=5",
+      "pubDate": "2026-10-22T18:18:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
+      "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T18:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Политици и общественици са потресени от инцидента с Колтуклиева",
+      "link": "https://www.mediapool.bg/bulgaria/polititsi-i-obshtestvenitsi-sa-potreseni-ot-intsidenta-s-koltuklieva/",
+      "pubDate": "2026-10-22T18:11:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Брутално: Охраната на Доцова просна на тротоара журналистката Соня Колтуклиева",
+      "link": "https://www.mediapool.bg/bulgaria/brutalno-ohranata-na-dotsova-prosna-na-trotoara-zhurnalistkata-sonya-koltuklieva/",
+      "pubDate": "2026-10-22T18:01:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Тръмп ще дава показания по делото за клевета срещу BBC",
+      "link": "https://frognews.bg/novini/tramp-shte-dava-pokazaniia-deloto-kleveta-sreshtu-bbc.html",
+      "pubDate": "2026-10-22T17:49:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8f643b6ce_1792691615_6ada4d9f0cd27.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Населението на Украйна е спаднало до 29 милиона – не заради смърт на фронта, а заради чужбина",
+      "link": "https://frognews.bg/novini/naselenieto-ukraina-spadnalo-29-miliona--zaradi-smart-fronta-zaradi-chujbina.html",
+      "pubDate": "2026-10-22T17:32:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/638e5b668_1792690553_6ada497914515.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Пореден протест на студентите от НАТФИЗ",
+      "link": "https://frognews.bg/novini/poreden-protest-studentite-natfiz.html",
+      "pubDate": "2026-10-22T17:14:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/898dba74e_1792689547_6ada458b588d1.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Тръмп обвини Иран в опит за надуе цената на петрола преди междинните избори в САЩ",
+      "link": "https://www.mediapool.bg/svyat/tramp-obvini-iran-v-opit-za-nadue-tsenata-na-petrola-predi-mezhdinnite-izbori-v-sasht/",
+      "pubDate": "2026-10-22T17:11:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T17:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Служител на НСО блъсна Соня Колтуклиева на земята и я вкара в болница",
+      "link": "https://boulevardbulgaria.bg/articles/sluzhitel-na-nso-blasna-sonya-koltuklieva-na-zemyata-i-ya-vkara-v-bolnitsa",
+      "pubDate": "2026-10-22T17:03:21.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODI1LCJwdXIiOiJibG9iX2lkIn19--ab403eed1e40c4dae384d7754995ffc75a8649d1/%D0%BD%D1%81%D0%BE%20%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%20%D0%BA%D0%BE%D0%BB%D1%82%D1%83%D0%BA%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "НАТФИЗ на пореден протест срещу ректора си, вече иска оставката и на министъра",
+      "link": "https://www.mediapool.bg/bulgaria/natfiz-na-poreden-protest-sreshtu-rektora-si-veche-iska-ostavkata-i-na-ministara/",
+      "pubDate": "2026-10-22T16:59:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Германия арестува мъж, обвинен за шпионаж в полза на Русия",
+      "link": "https://boulevardbulgaria.bg/articles/germaniya-arestuva-mazh-obvinen-za-shpionazh-v-polza-na-rusiya",
+      "pubDate": "2026-10-22T16:46:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxMjYyLCJwdXIiOiJibG9iX2lkIn19--b2963a5c1ab0289b2d880d198c664b2d770f14bb/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Хазартна компания на Георги Папазки получи права над търговската марка „Бангаранга“ като графичен знак",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0ZETW9oX3h4a3FzZzEyZ3c1clVFVnJFZWZXUFVtNVRGNnBpTkxsdzBHZmRvV0xTTy1DbmJtYXprTFVEOXE3THIydTFSU05BVWdGN1BxX0N0NF95N1ZIZEFXOTExU3JJV05tVmNkVDRaWF95dTN1RlBzUlcwS0VyNkpSbHF5SEhwY1Q0b1JqM2dxWGZMLTdSZlQ2VmRCTGVIaEdFbmJNRnNGVGRYUFI0MDNwbWpvUWZ2Mnh5T0xhSjNoUEQteXFmU0dwbm5aYm9UblAw?oc=5",
+      "pubDate": "2026-10-22T13:53:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Международният наказателен съд получи наградата \"Сахаров\" на Европейския парламент",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0FJT1hLYi1KamJUZU1UT2wwakZLR1RVa2NkVWEzZ0Fjb2xBZ0xWQW1XaDBYbEUybkdUN1p3Vkxid0YtMXlKTHUtT2V6N0dHOC1nSWdvU0FZdnhNUEVvQk1PTVVrcWVfTDl5cGx3ZFpEQWJPb18xRnllSWtjbXZmTWl4dFZxQm0zQmo3R2tvRlNiN2NmUTFyaGd5TFFJLWRyTGVhRGtNZ2k5ZllPVlEyQ2J5MFkwM1dqN2c?oc=5",
+      "pubDate": "2026-10-22T13:33:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Радослав Ревански от ДПС е обвинен в търговия с влияние. Ерол Мюмюн беше разпитан от полицията",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajdwSFRzUjhhZ3RLbWxVZXdMcXdEMkJfc1RWdnpDRVI5V2Uxd2d6dWRoLUV2X25qbVhOOEp3UFdZVXc0Y0VzdnlXc0ZIZ1hDT1ZTRHFJZXVTNnNRYnJscVU5N210eXpjNFlqeUROVmlIc2tEVV9aZ0JEWkVVV0hEZGc2amRZelVSZG90cV9ZQ0VaaXc5ZEdfT2oyMEN5dzlYOUJMalRtY3o1RmMyTWsxN3pTUFpNbGhVaE1LT094V0NzZmVZVUJlY3h3?oc=5",
+      "pubDate": "2026-10-22T12:45:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sSHhwRWJhT1puUGJuZDU3ZlJ5WWRWVktvUlpvZU9jbnFHb09uZ21Nbjc4cWh2c2pPbnJxS01DRGdZOGRVSWlSVjNfcGlHYnhsUFZHT214cXk?oc=5",
+      "pubDate": "2026-10-22T07:08:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "Security advisory: Critical remote code execution vulnerabilities, update now - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZazZIdEJvUWR3ZldXbkgxY1pDanh5dmIxVzV0bnp5ZGxwRTdUYmItbDEtV1h3NV9mNHE3ZWN1Q0dRM25QMG92TjNDWVkzc3Y1U3h0ZGZBeUI?oc=5",
+      "pubDate": "2026-10-22T00:37:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    },
+    {
+      "title": "mitmproxy adds --emudhra option - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCbDJvVFBXS1NxZGxScmtLZDljTnppNjRSMFRFRE1zNUZ6cUxzelFYYkxUMWF2NWRIcTNpenFyejN4WjMteVhYTDNlR29jck44dE10Y2tJZ3M?oc=5",
+      "pubDate": "2026-10-22T00:31:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T21:01:03.821Z"
+    }
+  ]
 }
