@@ -1,582 +1,551 @@
 #!/usr/bin/env node
+// Fetches the RSS/Atom feeds listed in news/sources.json and writes:
+//   news/data/news.json       active site feed (overwritten every run)
+//   news/data/news-24h.json   rolling 24h archive used by the evening digest
+//   news/data/feed-health.json  per-source status of this run (not committed)
+//
+// Feeds are fetched in parallel (a few at a time, one at a time per host so
+// Google News is not hammered). Each source tries its direct feed first and
+// falls back to its Google News search only if the direct feed fails.
 
 const https = require("https");
+const http = require("http");
+const zlib = require("zlib");
 const fs = require("fs");
 const path = require("path");
 
-// Active feed shown on the site (overwritten on every run)
-const OUTPUT_FILE = path.join(__dirname, "data", "news.json");
-// Rolling accumulator of everything seen in the last 24h (never overwritten,
-// only appended to + pruned). Cleared by reset-news-24h.js after the daily
-// top-news summary is generated.
-const ARCHIVE_FILE = path.join(__dirname, "data", "news-24h.json");
+const DATA_DIR = path.join(__dirname, "data");
+const SOURCES_FILE = path.join(__dirname, "sources.json");
+const OUTPUT_FILE = path.join(DATA_DIR, "news.json");
+const ARCHIVE_FILE = path.join(DATA_DIR, "news-24h.json");
+const HEALTH_FILE = path.join(DATA_DIR, "feed-health.json");
+
 const ARCHIVE_WINDOW_HOURS = 24;
+const MAX_ARTICLE_AGE_HOURS = 24;
+const DEFAULT_LIMIT = 5;
+const CONCURRENCY = 4;
+const SAME_HOST_GAP_MS = 1000;
+const REQUEST_TIMEOUT_MS = 15000;
+const MAX_BODY_BYTES = 5 * 1024 * 1024;
+const RETRIES_PER_URL = 2;
+const SOURCE_TIMEZONE = "Europe/Sofia";
 
-// RSS feeds with source metadata
-const RSS_SOURCES = [
-  {
-    name: "OffNews",
-    url: "https://offnews.bg/rss/all",
-    color: "#E91E63",
-    type: "direct",
-  },
-  {
-    name: "Dnevnik",
-    url: "https://news.google.com/rss/search?q=site:dnevnik.bg&hl=bg&gl=BG&ceid=BG:bg",
-    color: "#2196F3",
-    type: "direct",
-  },
-  {
-    name: "Свободна точка",
-    url: "https://news.google.com/rss/search?q=site:svobodnatochka.bg&hl=bg&gl=BG&ceid=BG:bg",
-    color: "#FF9800",
-    type: "direct",
-  },
-  {
-    name: "Mediapool",
-    url: "https://www.mediapool.bg/feed/",
-    color: "#00BCD4",
-    type: "direct",
-  },
-  {
-    name: "Actualno",
-    url: "https://www.actualno.com/rss",
-    color: "#9C27B0",
-    type: "direct",
-  },
-  {
-    name: "Hacker News",
-    url: "https://news.google.com/rss/search?q=site:news.ycombinator.com&hl=en-US&gl=US&ceid=US:en",
-    color: "#FF6600",
-    type: "direct",
-  },
-  {
-    name: "FrogNews",
-    url: "https://frognews.bg/rss.xml",
-    color: "#795548",
-    type: "direct",
-  },
-  {
-    name: "Boulevard Bulgaria",
-    url: "https://boulevardbulgaria.bg/feed.atom",
-    color: "#FF5722",
-    type: "direct",
-  },
-  {
-    name: "Reuters",
-    url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-    color: "#4169E1",
-    type: "direct",
-  },
-  {
-    name: "DW",
-    url: "https://rss.dw.com/rdf/rss-en-top",
-    color: "#C8102E",
-    type: "direct",
-  },
-];
+const { main: RSS_SOURCES } = JSON.parse(
+  fs.readFileSync(SOURCES_FILE, "utf8"),
+);
 
-// --- Helpers ---
+// --- Small utilities ---
 
-function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// Run fn over items with at most `limit` in flight; results keep input order.
+async function mapPool(items, limit, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) {
+      const i = next++;
+      results[i] = await fn(items[i], i);
+    }
+  });
+  await Promise.all(workers);
+  return results;
 }
 
-function fetchUrl(url, timeoutMs = 15000, depth = 0) {
+// Serialize requests per hostname with a small gap between them.
+const hostQueues = new Map();
+function withHostSlot(url, task) {
+  const host = new URL(url).hostname;
+  const prev = hostQueues.get(host) || Promise.resolve();
+  const run = prev.then(task);
+  hostQueues.set(
+    host,
+    run.catch(() => {}).then(() => delay(SAME_HOST_GAP_MS)),
+  );
+  return run;
+}
+
+// --- HTTP ---
+
+// Pick the charset from the Content-Type header or the XML declaration,
+// falling back to UTF-8 (some Bulgarian feeds still ship windows-1251).
+function decodeBody(buffer, contentType = "") {
+  const fromHeader = /charset=["']?([\w-]+)/i.exec(contentType || "");
+  const head = buffer.subarray(0, 200).toString("latin1");
+  const fromXml = /<\?xml[^>]*encoding=["']([\w-]+)["']/i.exec(head);
+  const charset = (fromHeader?.[1] || fromXml?.[1] || "utf-8").toLowerCase();
+  try {
+    return new TextDecoder(charset).decode(buffer);
+  } catch (_) {
+    return new TextDecoder("utf-8").decode(buffer);
+  }
+}
+
+function decompress(buffer, encoding) {
+  switch ((encoding || "").toLowerCase()) {
+    case "gzip":
+    case "x-gzip":
+      return zlib.gunzipSync(buffer);
+    case "deflate":
+      return zlib.inflateSync(buffer);
+    case "br":
+      return zlib.brotliDecompressSync(buffer);
+    default:
+      return buffer;
+  }
+}
+
+function fetchUrl(url, depth = 0) {
   return new Promise((resolve, reject) => {
     const parsed = new URL(url);
-    const options = {
-      hostname: parsed.hostname,
-      path: parsed.pathname + parsed.search,
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        Accept:
-          "text/html,application/xhtml+xml,application/xml;q=0.9,application/rss+xml,text/xml,*/*;q=0.8",
+    const client = parsed.protocol === "http:" ? http : https;
+    const req = client.get(
+      {
+        hostname: parsed.hostname,
+        port: parsed.port || undefined,
+        path: parsed.pathname + parsed.search,
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+          Accept: "application/rss+xml,application/atom+xml,application/xml;q=0.9,text/xml;q=0.9,*/*;q=0.8",
+          "Accept-Encoding": "gzip, deflate, br",
+          "Accept-Language": "bg,en;q=0.8",
+        },
       },
-    };
-    const req = https
-      .get(options, (res) => {
-        if ([301, 302, 307, 308].includes(res.statusCode) && res.headers.location && depth < 5) {
+      (res) => {
+        if ([301, 302, 303, 307, 308].includes(res.statusCode) && res.headers.location) {
           res.resume();
-          const next = new URL(res.headers.location, url).toString();
-          resolve(fetchUrl(next, timeoutMs, depth + 1));
+          if (depth >= 5) return reject(new Error("Too many redirects"));
+          resolve(fetchUrl(new URL(res.headers.location, url).toString(), depth + 1));
           return;
         }
-        let data = "";
+        // Collect raw bytes and decode once at the end: appending chunks as
+        // strings splits multi-byte Cyrillic characters across chunk boundaries.
+        const chunks = [];
+        let size = 0;
         res.on("data", (chunk) => {
-          data += chunk;
+          size += chunk.length;
+          if (size > MAX_BODY_BYTES) {
+            req.destroy(new Error("Response larger than " + MAX_BODY_BYTES + " bytes"));
+            return;
+          }
+          chunks.push(chunk);
         });
         res.on("end", () => {
-          resolve({ status: res.statusCode, data, finalUrl: url });
+          try {
+            const raw = decompress(Buffer.concat(chunks), res.headers["content-encoding"]);
+            resolve({ status: res.statusCode, data: decodeBody(raw, res.headers["content-type"]) });
+          } catch (error) {
+            reject(error);
+          }
         });
-      })
-      .on("error", (error) => {
-        reject(error);
-      });
-
-    req.setTimeout(timeoutMs, () => {
-      req.destroy();
-      reject(new Error(`Request timed out after ${timeoutMs}ms`));
+        res.on("error", reject);
+      },
+    );
+    req.on("error", reject);
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      req.destroy(new Error("Timed out after " + REQUEST_TIMEOUT_MS + "ms"));
     });
   });
 }
 
-function parseRssXml(xml) {
+// --- Text cleanup ---
+
+const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", ndash: "–", mdash: "—", hellip: "…", laquo: "«", raquo: "»", bdquo: "„", ldquo: "“", rdquo: "”", lsquo: "‘", rsquo: "’" };
+
+function decodeEntities(text) {
+  return String(text || "")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-z]+);/gi, (m, name) => ENTITIES[name.toLowerCase()] ?? m);
+}
+
+// Titles come back with entities, sometimes double-encoded (&amp;quot;) and
+// sometimes with stray tags; store plain text so every consumer (site,
+// digest prompt, build-pages) sees the same clean headline.
+function cleanText(text) {
+  let out = String(text || "");
+  for (let i = 0; i < 2 && /&[#a-z0-9]+;/i.test(out); i++) out = decodeEntities(out);
+  return out.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+}
+
+const TRACKING_PARAMS = /^(utm_\w+|fbclid|gclid|cmpid|srnd|ocid|mc_cid|mc_eid)$/i;
+
+function cleanLink(link) {
+  const raw = decodeEntities(String(link || "").trim());
+  try {
+    const url = new URL(raw);
+    for (const key of [...url.searchParams.keys()]) {
+      if (TRACKING_PARAMS.test(key)) url.searchParams.delete(key);
+    }
+    return url.toString();
+  } catch (_) {
+    return raw;
+  }
+}
+
+// --- Feed parsing (RSS 2.0, RSS 1.0/RDF, Atom) ---
+
+function tagText(block, tag) {
+  const re = new RegExp("<" + tag + "(?:\\s[^>]*)?>([\\s\\S]*?)</" + tag + ">", "i");
+  const m = re.exec(block);
+  if (!m) return "";
+  const inner = m[1].trim();
+  const cdata = /^<!\[CDATA\[([\s\S]*?)\]\]>$/.exec(inner);
+  return (cdata ? cdata[1] : inner).trim();
+}
+
+function findImage(block) {
+  const m =
+    /<media:content[^>]+url=["']([^"']+)["'][^>]*>/i.exec(block) ||
+    /<media:thumbnail[^>]+url=["']([^"']+)["']/i.exec(block) ||
+    /<enclosure[^>]+type=["']image[^"']*["'][^>]*url=["']([^"']+)["']/i.exec(block) ||
+    /<enclosure[^>]+url=["']([^"']+\.(?:jpe?g|png|webp|gif)(?:\?[^"']*)?)["']/i.exec(block) ||
+    /<img[^>]+src=["']([^"']+)["']/i.exec(decodeEntities(block));
+  if (!m) return null;
+  const link = decodeEntities(m[1]).trim();
+  return /^https?:\/\//i.test(link) ? { link } : null;
+}
+
+function parseFeed(xml) {
   const items = [];
 
-  // --- RSS <item> parsing ---
-  const itemRegex = /<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/g;
+  const itemRe = /<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi;
   let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
+  while ((match = itemRe.exec(xml)) !== null) {
     const block = match[1];
-    const getText = (tag) => {
-      // Check for CDATA-wrapped content
-      const cdataStart = `<${tag}><![CDATA[`;
-      const cdataEnd = "]]></" + tag + ">";
-      let start = block.indexOf(cdataStart);
-      if (start !== -1) {
-        start += cdataStart.length;
-        const end = block.indexOf(cdataEnd, start);
-        if (end !== -1) {
-          return block.substring(start, end).trim();
-        }
-      }
-      // Fall back to plain text regex
-      const plain = new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">");
-      const m = plain.exec(block);
-      return m ? m[1].trim() : "";
-    };
-    const title = getText("title");
+    const guid = /<guid[^>]*isPermaLink=["']true["'][^>]*>([^<]+)<\/guid>/i.exec(block);
     const link =
-      (/<link>\s*([^<]+)\s*<\/link>/.exec(block) || [])[1]?.trim() ||
-      (/<link[^>]+href="([^"]+)"/.exec(block) || [])[1] ||
+      tagText(block, "link") ||
+      (/<link[^>]+href=["']([^"']+)["']/i.exec(block) || [])[1] ||
+      (guid ? guid[1] : "") ||
+      (/<item[^>]+rdf:about=["']([^"']+)["']/i.exec(match[0]) || [])[1] ||
       "";
-    const pubDate = getText("pubDate") || getText("dc:date");
-    const mediaMatch =
-      /media:content[^>]+url="([^"]+)"/.exec(block) ||
-      /media:thumbnail[^>]+url="([^"]+)"/.exec(block) ||
-      /enclosure[^>]+url="([^"]+)"/.exec(block) ||
-      /<img[^>]+src=["']([^"']+)["']/i.exec(block);
-    const thumbnail = mediaMatch ? { link: mediaMatch[1] } : null;
-    if (title && link) items.push({ title, link, pubDate, thumbnail });
+    items.push({
+      title: tagText(block, "title"),
+      link,
+      pubDate: tagText(block, "pubDate") || tagText(block, "dc:date"),
+      thumbnail: findImage(block),
+    });
   }
 
-  // --- Atom <entry> parsing ---
-  const entryRegex = /<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/g;
-  while ((match = entryRegex.exec(xml)) !== null) {
+  const entryRe = /<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/gi;
+  while ((match = entryRe.exec(xml)) !== null) {
     const block = match[1];
-    const getText = (tag) => {
-      // Check for CDATA-wrapped content
-      const cdataStart = `<${tag}><![CDATA[`;
-      const cdataEnd = "]]></" + tag + ">";
-      let start = block.indexOf(cdataStart);
-      if (start !== -1) {
-        start += cdataStart.length;
-        const end = block.indexOf(cdataEnd, start);
-        if (end !== -1) {
-          return block.substring(start, end).trim();
-        }
-      }
-      // Fall back to plain text regex
-      const plain = new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)</" + tag + ">");
-      const m = plain.exec(block);
-      return m ? m[1].trim() : "";
-    };
-    const title = getText("title") || "";
-    const linkMatch = /<link\s+(?:[^>]*?)href=("([^"\']+)"|([^\s>]+))/i.exec(block);
-    const link = linkMatch ? (linkMatch[2] || linkMatch[3])?.trim() || "" : "";
-    const pubDate = getText("published") || getText("updated") || getText("pubDate") || "";
-    // Extract thumbnail from content if present
-    const contentMatch = /<content[^>]*>([\s\S]*?)<\/content>/i.exec(block);
-    const thumbnail = contentMatch ? { link: null } : null;
-    if (title && link) items.push({ title, link, pubDate, thumbnail });
+    const alternate =
+      /<link[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/i.exec(block) ||
+      /<link[^>]*href=["']([^"']+)["'][^>]*rel=["']alternate["']/i.exec(block) ||
+      /<link(?![^>]*rel=["'](?:self|enclosure|replies|edit)["'])[^>]*href=["']([^"']+)["']/i.exec(block);
+    items.push({
+      title: tagText(block, "title"),
+      link: alternate ? alternate[1] : "",
+      pubDate: tagText(block, "published") || tagText(block, "updated"),
+      thumbnail: findImage(block),
+    });
   }
 
-  return items;
+  return items
+    .map((item) => ({ ...item, title: cleanText(item.title), link: cleanLink(item.link) }))
+    .filter((item) => item.title && /^https?:\/\//i.test(item.link));
 }
 
-// --- Normalize pubDate to canonical UTC with Z suffix ---
-function normalizePubDate(pubDate) {
-  if (!pubDate) return null;
-  const raw = String(pubDate).trim();
-  if (!raw) return null;
-
-  // Normalize every recognized input format to canonical UTC ISO 8601.
-  // This includes GMT, Z, explicit offsets, and timezone-less feed values.
-  const timestamp = parseArticleDate(raw);
-  return timestamp === null ? raw : new Date(timestamp).toISOString();
-}
-
-function normalizeThumbnail(item) {
-  const raw = item.thumbnail || item.enclosure || null;
-  if (!raw) return null;
-  if (typeof raw === "string") {
-    return raw.trim() ? { link: raw.trim() } : null;
-  }
-  return raw.link ? raw : null;
-}
-
-function parseFeedItems(source, feedData) {
-  if (!feedData.items || feedData.items.length === 0) {
-    return [];
-  }
-
-  return feedData.items.slice(0, 5).map((item) => ({
-    title: item.title,
-    link: item.link,
-    pubDate: normalizePubDate(item.pubDate),
-    thumbnail: normalizeThumbnail(item),
-    source: {
-      name: source.name,
-      color: source.color,
-    },
-  }));
-}
-
-// --- Fetch with retry ---
-
-async function fetchFeed(source) {
-  try {
-    const { status, data } = await fetchUrl(source.url);
-
-    if (status < 200 || status >= 300) {
-      console.error("  ❌ HTTP " + status + " from " + source.name);
-      if (source.type === "rss2json") {
-        try {
-          const json = JSON.parse(data);
-          if (json.status === "error") return null;
-        } catch (_) {}
-      }
-      return [];
-    }
-
-    if (source.type === "direct") {
-      const items = parseRssXml(data);
-      return items.slice(0, 5).map((item) => ({
-        title: item.title,
-        link: item.link,
-        pubDate: normalizePubDate(item.pubDate),
-        thumbnail: item.thumbnail,
-        source: { name: source.name, color: source.color },
-      }));
-    }
-
-    const feedData = JSON.parse(data);
-    return parseFeedItems(source, feedData);
-  } catch (error) {
-    console.error("  ❌ Error fetching " + source.name + ": " + error.message);
-    return [];
-  }
-}
-
-async function fetchFeedWithRetry(source, maxRetries = 3) {
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
-    const items = await fetchFeed(source);
-    if (items === null) {
-      console.log("⚠️  Skipping retries for " + source.name + " (upstream blocked)");
-      return [];
-    }
-    if (items.length > 0) {
-      console.log("✅ Fetched " + items.length + " articles from " + source.name);
-      return items;
-    }
-    if (attempt < maxRetries) {
-      const waitMs = 2000 * attempt;
-      console.log(
-        "  🔄 Retrying " + source.name + " (attempt " + (attempt + 1) + "/" + maxRetries + ") in " + (waitMs / 1000) + "s...",
-      );
-      await delay(waitMs);
-    }
-  }
-  console.log(
-    "⚠️  Failed to fetch " + source.name + " after " + maxRetries + " attempts",
-  );
-  return [];
-}
-
-// --- Preserve old news on failure ---
-
-const MAX_ARTICLE_AGE_HOURS = 24;
-const SOURCE_TIMEZONE = "Europe/Sofia";
+// --- Dates ---
 
 function parseArticleDate(pubDate) {
   if (!pubDate) return null;
-
   const raw = String(pubDate).trim();
   if (!raw) return null;
 
-  // RFC 2822 with GMT / UTC or a numeric offset (+0300, -0500)
-  if (
-    /^[A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} (GMT|UTC|[+-]\d{4})$/.test(
-      raw,
-    )
-  ) {
+  // RFC 2822 with GMT / UTC / numeric offset (+0300)
+  if (/^[A-Z][a-z]{2}, \d{1,2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}(:\d{2})? (GMT|UTC|[+-]\d{4})$/.test(raw)) {
     const t = Date.parse(raw);
     return Number.isFinite(t) ? t : null;
   }
 
-  // ISO 8601 with Z (optional milliseconds)
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) {
-    return Date.parse(raw);
-  }
+  // ISO 8601 with Z
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z$/.test(raw)) return Date.parse(raw);
 
   // ISO 8601 without timezone: treat as UTC
-  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) {
-    return Date.parse(raw + "Z");
-  }
+  if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(raw)) return Date.parse(raw + "Z");
 
-  // ISO 8601 with explicit offset, either "+03:00" or "+0300"
+  // ISO 8601 with explicit offset, "+03:00" or "+0300"
   if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?[+-]\d{2}:?\d{2}$/.test(raw)) {
     const t = Date.parse(raw);
     if (Number.isFinite(t)) return t;
-    const normalized = raw.slice(0, -5) + ":" + raw.slice(-5);
-    const t2 = Date.parse(normalized);
-    if (Number.isFinite(t2)) return t2;
-    return null;
+    const t2 = Date.parse(raw.slice(0, -5) + ":" + raw.slice(-5));
+    return Number.isFinite(t2) ? t2 : null;
   }
 
-  // YYYY-MM-DD HH:MM:SS
-  if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(raw)) {
-    const match = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
-    if (!match) return null;
-
-    const year = Number(match[1]);
-    const month = Number(match[2]);
-    const day = Number(match[3]);
-    const hour = Number(match[4]);
-    const minute = Number(match[5]);
-    const second = Number(match[6]);
-    const utcTimestamp = Date.UTC(year, month - 1, day, hour, minute, second);
-    if (utcTimestamp <= Date.now()) {
-      return utcTimestamp;
-    }
-    const formatter = new Intl.DateTimeFormat("en-US", {
-      timeZone: SOURCE_TIMEZONE,
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
-      hourCycle: "h23",
-    });
+  // "YYYY-MM-DD HH:MM:SS" — UTC unless that lands in the future, then Sofia time
+  const local = raw.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
+  if (local) {
+    const [, y, mo, d, h, mi, s] = local.map(Number);
+    const utc = Date.UTC(y, mo - 1, d, h, mi, s);
+    if (utc <= Date.now()) return utc;
     const parts = Object.fromEntries(
-      formatter.formatToParts(new Date(utcTimestamp))
-        .filter((part) => part.type !== "literal")
-        .map((part) => [part.type, part.value]),
+      new Intl.DateTimeFormat("en-US", {
+        timeZone: SOURCE_TIMEZONE,
+        year: "numeric", month: "2-digit", day: "2-digit",
+        hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23",
+      })
+        .formatToParts(new Date(utc))
+        .filter((p) => p.type !== "literal")
+        .map((p) => [p.type, p.value]),
     );
-    const shiftedTimestamp = Date.UTC(
-      Number(parts.year),
-      Number(parts.month) - 1,
-      Number(parts.day),
-      Number(parts.hour),
-      Number(parts.minute),
-      Number(parts.second),
-    );
-    return utcTimestamp - (shiftedTimestamp - utcTimestamp);
+    const shifted = Date.UTC(+parts.year, +parts.month - 1, +parts.day, +parts.hour, +parts.minute, +parts.second);
+    return utc - (shifted - utc);
   }
 
-  return null;
+  // Anything else Date can read (e.g. "Wed, 2 Oct 2026 10:00:00 EST")
+  const t = Date.parse(raw);
+  return Number.isFinite(t) ? t : null;
 }
 
-function isWithinAgeLimit(pubDate) {
-  const timestamp = parseArticleDate(pubDate);
-  if (timestamp === null) return true;
-  const ageHours = (Date.now() - timestamp) / (1000 * 60 * 60);
-  return ageHours <= MAX_ARTICLE_AGE_HOURS;
+function normalizePubDate(pubDate) {
+  const ts = parseArticleDate(pubDate);
+  if (ts !== null) return new Date(ts).toISOString();
+  return pubDate ? String(pubDate).trim() : null;
 }
 
-function loadExistingNews() {
-  try {
-    if (fs.existsSync(OUTPUT_FILE)) {
-      const data = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf8"));
-      const items = data.items || [];
-      const fresh = items.filter((item) => isWithinAgeLimit(item.pubDate));
-      if (fresh.length < items.length) {
-        console.log(
-          "⏰ Filtered " + (items.length - fresh.length) + " stale article(s) from existing news.json (older than " + MAX_ARTICLE_AGE_HOURS + "h)",
-        );
-      }
-      return fresh;
+function isWithinAge(pubDate, hours) {
+  const ts = parseArticleDate(pubDate);
+  if (ts === null) return true;
+  return (Date.now() - ts) / 3600000 <= hours;
+}
+
+// --- Source helpers ---
+
+// Google News appends " - Publisher" to every title; drop it from the
+// headline but keep the publisher name.
+function googlePublisher(title) {
+  const m = /\s[-–]\s([^-–]{2,60})$/.exec(String(title || ""));
+  return m ? m[1].trim() : null;
+}
+
+function stripPublisherSuffix(title) {
+  return String(title || "").replace(/\s[-–]\s[^-–]{2,60}$/, "").trim();
+}
+
+function sourceMeta(source, publisher) {
+  const meta = { name: source.name, color: source.color };
+  if (source.lang) meta.lang = source.lang;
+  if (publisher && publisher !== source.name) meta.publisher = publisher;
+  return meta;
+}
+
+function toArticles(source, items, viaGoogle, maxAgeHours) {
+  return items
+    .map((item) => ({
+      title: viaGoogle ? stripPublisherSuffix(item.title) : item.title,
+      link: item.link,
+      pubDate: normalizePubDate(item.pubDate),
+      thumbnail: item.thumbnail,
+      source: sourceMeta(source, viaGoogle ? googlePublisher(item.title) : null),
+    }))
+    .filter((item) => isWithinAge(item.pubDate, maxAgeHours))
+    .sort((a, b) => (parseArticleDate(b.pubDate) || 0) - (parseArticleDate(a.pubDate) || 0))
+    .slice(0, source.limit || DEFAULT_LIMIT);
+}
+
+async function fetchOneUrl(url) {
+  let lastError = null;
+  for (let attempt = 1; attempt <= RETRIES_PER_URL; attempt++) {
+    try {
+      const { status, data } = await withHostSlot(url, () => fetchUrl(url));
+      if (status >= 200 && status < 300) return { items: parseFeed(data) };
+      lastError = "HTTP " + status;
+      // 4xx other than 429 will not get better on retry
+      if (status >= 400 && status < 500 && status !== 429) break;
+    } catch (error) {
+      lastError = error.message;
     }
-  } catch (e) {
-    console.log("⚠️  Could not read existing news.json");
+    if (attempt < RETRIES_PER_URL) await delay(1500 * attempt);
   }
-  return [];
+  return { items: [], error: lastError };
 }
+
+// Try the direct feed, then the fallback. Returns articles plus a health row.
+async function fetchSource(source, maxAgeHours) {
+  const started = Date.now();
+  const attempts = [source.url, source.fallback].filter(Boolean);
+  const errors = [];
+
+  for (let i = 0; i < attempts.length; i++) {
+    const url = attempts[i];
+    const { items, error } = await fetchOneUrl(url);
+    const articles = toArticles(source, items, url.includes("news.google.com"), maxAgeHours);
+    if (articles.length > 0) {
+      return {
+        articles,
+        health: {
+          source: source.name,
+          status: i === 0 ? "ok" : "fallback",
+          url,
+          items: articles.length,
+          ms: Date.now() - started,
+          ...(errors.length ? { errors } : {}),
+        },
+      };
+    }
+    errors.push(new URL(url).hostname + ": " + (error || (items.length ? "no fresh items" : "empty feed")));
+  }
+
+  return {
+    articles: [],
+    health: { source: source.name, status: "failed", items: 0, ms: Date.now() - started, errors },
+  };
+}
+
+// --- Dedupe ---
 
 function dedupeKey(item) {
-  if (item.link) {
-    try {
-      const url = new URL(item.link);
-      return url.hostname.toLowerCase() + url.pathname.replace(/\/+$/, "");
-    } catch (_) {
-      return item.link.trim();
-    }
+  try {
+    const url = new URL(item.link);
+    return url.hostname.toLowerCase().replace(/^www\./, "") + url.pathname.replace(/\/+$/, "");
+  } catch (_) {
+    return (item.source?.name || "") + "::" + (item.title || "").trim().toLowerCase();
   }
-  return (item.source?.name || "") + "::" + (item.title || "").trim().toLowerCase();
 }
 
-function loadArchive() {
+const titleKey = (item) => (item.title || "").toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+
+// Drop repeats by link and by headline (e.g. the same story from a direct
+// feed and from a Google News fallback). First occurrence wins.
+function dedupe(items) {
+  const seenLinks = new Set();
+  const seenTitles = new Set();
+  return items.filter((item) => {
+    const lk = dedupeKey(item);
+    const tk = titleKey(item);
+    if (seenLinks.has(lk) || (tk && seenTitles.has(tk))) return false;
+    seenLinks.add(lk);
+    if (tk) seenTitles.add(tk);
+    return true;
+  });
+}
+
+// --- Persistence ---
+
+function readJson(file, fallback) {
   try {
-    if (fs.existsSync(ARCHIVE_FILE)) {
-      const data = JSON.parse(fs.readFileSync(ARCHIVE_FILE, "utf8"));
-      if (Array.isArray(data.items)) return data;
-    }
-  } catch (e) {
-    console.log("⚠️  Could not read existing news-24h.json, starting fresh");
+    if (fs.existsSync(file)) return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch (_) {
+    console.log("⚠️  Could not read " + path.basename(file));
   }
-  return { windowStart: null, lastUpdated: null, items: [] };
+  return fallback;
+}
+
+function writeJson(file, data) {
+  // Write to a temp file and rename, so the site never serves half a file
+  const tmp = file + ".tmp";
+  fs.writeFileSync(tmp, JSON.stringify(data, null, 2));
+  fs.renameSync(tmp, file);
 }
 
 function updateArchive(freshItems) {
   const now = new Date();
-  const archive = loadArchive();
-  const cutoff = now.getTime() - ARCHIVE_WINDOW_HOURS * 60 * 60 * 1000;
+  const archive = readJson(ARCHIVE_FILE, { items: [] });
+  const cutoff = now.getTime() - ARCHIVE_WINDOW_HOURS * 3600000;
 
   const seen = new Map();
-  for (const item of archive.items) {
-    seen.set(dedupeKey(item), item);
-  }
+  for (const item of archive.items || []) seen.set(dedupeKey(item), item);
 
   let added = 0;
   for (const item of freshItems) {
     const key = dedupeKey(item);
     if (seen.has(key)) continue;
-    seen.set(key, Object.assign({}, item, { firstSeen: now.toISOString() }));
+    seen.set(key, { ...item, firstSeen: now.toISOString() });
     added++;
   }
 
   const kept = [...seen.values()].filter((item) => {
-    const firstSeenTs = Date.parse(item.firstSeen || "");
-    if (!Number.isNaN(firstSeenTs) && firstSeenTs < cutoff) return false;
-    const pubTs = parseArticleDate(item.pubDate);
-    if (pubTs !== null) {
-      const pubAgeHours = (now.getTime() - pubTs) / (1000 * 60 * 60);
-      if (pubAgeHours > ARCHIVE_WINDOW_HOURS) return false;
-    }
-    return true;
+    const firstSeen = Date.parse(item.firstSeen || "");
+    if (!Number.isNaN(firstSeen) && firstSeen < cutoff) return false;
+    return isWithinAge(item.pubDate, ARCHIVE_WINDOW_HOURS);
   });
+  kept.sort((a, b) => (Date.parse(b.firstSeen || b.pubDate) || 0) - (Date.parse(a.firstSeen || a.pubDate) || 0));
 
-  const dropped = seen.size - kept.length;
-
-  kept.sort((a, b) => {
-    const at = Date.parse(a.firstSeen || a.pubDate || 0) || 0;
-    const bt = Date.parse(b.firstSeen || b.pubDate || 0) || 0;
-    return bt - at;
-  });
-
-  const output = {
+  writeJson(ARCHIVE_FILE, {
     windowStart: archive.windowStart || now.toISOString(),
     windowHours: ARCHIVE_WINDOW_HOURS,
     lastUpdated: now.toISOString(),
     totalItems: kept.length,
     items: kept,
-  };
-
-  fs.writeFileSync(ARCHIVE_FILE, JSON.stringify(output, null, 2));
-  console.log(
-    "🗄️  news-24h.json: +" + added + " new, -" + dropped + " expired, " + kept.length + " total",
-  );
+  });
+  console.log("🗄️  news-24h.json: +" + added + " new, -" + (seen.size - kept.length) + " expired, " + kept.length + " total");
 }
 
-// --- Main ---
+// --- Main feed ---
 
-async function fetchAllFeeds() {
-  console.log("📡 Fetching RSS feeds from multiple sources...\n");
+async function fetchMain() {
+  const existing = (readJson(OUTPUT_FILE, { items: [] }).items || [])
+    .filter((item) => isWithinAge(item.pubDate, MAX_ARTICLE_AGE_HOURS))
+    .map((item) => ({ ...item, title: cleanText(item.title) }));
 
-  const existingItems = loadExistingNews();
-  const allItems = [];
-  const failedSources = [];
+  const results = await mapPool(RSS_SOURCES, CONCURRENCY, (source) =>
+    fetchSource(source, MAX_ARTICLE_AGE_HOURS),
+  );
 
-  for (const source of RSS_SOURCES) {
-    const items = await fetchFeedWithRetry(source);
-
-    if (items.length > 0) {
-      const fresh = items.filter((item) => isWithinAgeLimit(item.pubDate));
-      if (fresh.length > 0) {
-        allItems.push(...fresh);
-        if (fresh.length < items.length) {
-          console.log(
-            "⏰ Filtered " + (items.length - fresh.length) + " stale article(s) from " + source.name + " (older than " + MAX_ARTICLE_AGE_HOURS + "h)",
-          );
-        }
+  const all = [];
+  const health = [];
+  results.forEach(({ articles, health: row }, i) => {
+    const source = RSS_SOURCES[i];
+    if (articles.length === 0) {
+      // Keep the last good items from this source so it does not vanish
+      const old = existing.filter((item) => item.source?.name === source.name);
+      if (old.length) {
+        row.status = "stale";
+        row.keptOld = old.length;
+        all.push(...old);
       }
     } else {
-      failedSources.push(source.name);
-      const oldItems = existingItems.filter(
-        (item) => item.source?.name === source.name,
-      );
-      if (oldItems.length > 0) {
-        console.log(
-          "📦 Keeping " + oldItems.length + " existing articles from " + source.name,
-        );
-        allItems.push(...oldItems);
-      }
+      all.push(...articles);
     }
-    await delay(1500);
-  }
-
-  if (allItems.length === 0) {
-    console.error("❌ No items fetched from any source");
-    process.exit(1);
-  }
-
-  const beforeCount = allItems.length;
-  const filteredItems = allItems.filter((item) => isWithinAgeLimit(item.pubDate));
-  const staleDropped = beforeCount - filteredItems.length;
-
-  if (filteredItems.length === 0) {
-    console.error("❌ No items fetched from any source");
-    process.exit(1);
-  }
-
-  filteredItems.sort((a, b) => {
-    const dateA = parseArticleDate(a.pubDate) || 0;
-    const dateB = parseArticleDate(b.pubDate) || 0;
-    return dateB - dateA;
+    health.push(row);
   });
 
-  let sortViolations = 0;
-  for (let i = 0; i < filteredItems.length - 1; i++) {
-    const a = parseArticleDate(filteredItems[i].pubDate) || 0;
-    const b = parseArticleDate(filteredItems[i + 1].pubDate) || 0;
-    if (a < b) sortViolations++;
-  }
-  if (sortViolations > 0) {
-    console.error("❌ Sort verification failed: " + sortViolations + " violations found");
-    process.exit(1);
-  }
-  console.log("✅ Sort verified: " + filteredItems.length + " articles in time order");
-
-  if (failedSources.length > 0) {
-    console.log(
-      "\n⚠️  Sources that failed (old data preserved): " + failedSources.join(", "),
-    );
-    if (staleDropped > 0) {
-      console.log(
-        "⏰ Removed " + staleDropped + " stale article(s) (older than " + MAX_ARTICLE_AGE_HOURS + "h) from active feed",
-      );
-    }
+  if (all.length === 0) {
+    writeJson(HEALTH_FILE, { lastRun: new Date().toISOString(), sources: health });
+    throw new Error("No items fetched from any source");
   }
 
-  const output = {
-    items: filteredItems,
-    lastUpdated: new Date().toISOString(),
-  };
-
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
-  updateArchive(filteredItems);
-
-  console.log("\n✅ Successfully updated news.json");
-  console.log("📰 Total articles: " + output.items.length);
-  console.log("🕐 Last updated: " + output.lastUpdated);
-
-  const withThumbnails = output.items.filter((item) => item.thumbnail).length;
-  console.log(
-    "🖼️  Articles with images: " + withThumbnails + "/" + output.items.length,
+  // Direct-feed items first so a Google News duplicate is the one dropped
+  const viaGoogle = (item) => (item.link.includes("news.google.com") ? 1 : 0);
+  const items = dedupe([...all].sort((a, b) => viaGoogle(a) - viaGoogle(b))).sort(
+    (a, b) => (parseArticleDate(b.pubDate) || 0) - (parseArticleDate(a.pubDate) || 0),
   );
+
+  const lastUpdated = new Date().toISOString();
+  writeJson(OUTPUT_FILE, { items, lastUpdated });
+  updateArchive(items);
+  writeJson(HEALTH_FILE, { lastRun: lastUpdated, sources: health });
+
+  printHealth(health);
+  const withImages = items.filter((item) => item.thumbnail).length;
+  console.log("\n✅ news.json: " + items.length + " articles (" + (all.length - items.length) + " duplicates dropped, " + withImages + " with images)");
+  return health;
 }
 
-fetchAllFeeds();
+function printHealth(rows) {
+  const icon = { ok: "✅", fallback: "↪️ ", stale: "📦", failed: "❌" };
+  console.log("\n📡 Sources:");
+  for (const r of rows) {
+    const extra = r.status === "stale" ? " (kept " + r.keptOld + " old)" : r.status === "fallback" ? " via " + new URL(r.url).hostname : "";
+    console.log("  " + icon[r.status] + " " + r.source.padEnd(20) + String(r.items).padStart(2) + " items  " + String(r.ms).padStart(6) + "ms" + extra);
+    if (r.errors && r.status !== "ok") for (const e of r.errors) console.log("       " + e);
+  }
+}
+
+// --- Entry point ---
+
+if (require.main === module) {
+  const started = Date.now();
+  fetchMain()
+    .then(() => console.log("🕐 Done in " + ((Date.now() - started) / 1000).toFixed(1) + "s"))
+    .catch((error) => {
+      console.error("❌ " + error.message);
+      process.exit(1);
+    });
+}
+
+module.exports = { parseFeed, parseArticleDate, cleanText, cleanLink, dedupe, fetchSource };

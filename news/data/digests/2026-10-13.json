@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-13T20:55:27.000Z",
+  "overview": "Денят беше доминиран от скандала с посланика на САЩ в Гърция, атаките срещу кораби в Черно море, дипломатическото напрежение със Северна Македония и събитията в Близкия изток.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Тръмп отстрани посланика на САЩ в Гърция след скандал",
+      "summary": "Президентът Доналд Тръмп отстрани Кимбърли Гилфойл от поста посланик на САЩ в Гърция след съобщения за неправомерно поведение. Белият дом поиска оставката ѝ след серия скандали.",
+      "sources": [
+        "Reuters",
+        "DW",
+        "FrogNews",
+        "Mediapool",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        2,
+        6,
+        11,
+        16,
+        26
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Двата атакувани кораба в Черно море са били празни",
+      "summary": "Два кораба в Черно море бяха атакувани с дронове, но тъй като са били празни, няма жертви. Полша изрази солидарност с България и призова за по-строги санкции срещу Русия, а прокуратурата не изключва провокация от трета страна.",
+      "sources": [
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Mediapool",
+        "Свободна точка"
+      ],
+      "ids": [
+        13,
+        24,
+        27,
+        32,
+        39,
+        44
+      ],
+      "link": "https://offnews.bg/obshtestvo/i-dvata-atakuvani-koraba-v-cherno-more-bili-prazni-876392.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Скопие привика българския посланик заради Ива Михайлова",
+      "summary": "Северна Македония привика българския посланик заради Ива Михайлова, а прокуратурата в Скопие поиска задържането ѝ.",
+      "sources": [
+        "OffNews",
+        "Actualno",
+        "Свободна точка"
+      ],
+      "ids": [
+        12,
+        18,
+        36
+      ],
+      "link": "https://offnews.bg/sviat/poslanikat-v-skopie-vie-ste-zagrizheni-nie-sme-zagrizheni-znaete-876391.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Иран търси по-трудни цели за нападения в чужбина",
+      "summary": "Иран търси по-трудни цели за атаки в чужбина, предупреждава Великобритания, а хутите в Йемен заплашват с ответни удари. САЩ твърдят, че Китай и Русия не помагат на Техеран.",
+      "sources": [
+        "DW",
+        "OffNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        1,
+        3,
+        28,
+        49
+      ],
+      "link": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Общество",
+      "headline": "Деканът на Медицинския факултет в Пловдив подаде оставка след ареста си",
+      "summary": "Деканът на Медицинския факултет в Пловдив, задържан по разследването за източване на НЗОК, подаде оставка, докато е в ареста.",
+      "sources": [
+        "Mediapool",
+        "Dnevnik"
+      ],
+      "ids": [
+        23,
+        38
+      ],
+      "link": "https://www.mediapool.bg/obrazovanie/zadarzhaniyat-za-predpolagaemo-iztochvane-na-nzok-dekan-na-meditsinskiya-fakultet-v-plovdiv-podade-ostavka/"
+    }
+  ]
+}

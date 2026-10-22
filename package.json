@@ -6,7 +6,11 @@
     "fetch-news": "node news/fetch-news.js",
     "build": "node scripts/build-pages.js",
     "news:digest": "node news/news-daily.js digest",
+    "news:links": "node news/news-daily.js links",
+    "news:archive": "node news/news-daily.js archive",
     "news:reset": "node news/news-daily.js reset",
+    "backfill-digests": "node scripts/backfill-digests.js",
+    "indexnow": "node scripts/indexnow.js",
     "start": "python3 -m http.server 8000"
   },
   "keywords": [

@@ -1,0 +1,74 @@
+{
+  "updatedAt": "2026-10-14T20:56:04.000Z",
+  "overview": "Водещите събития за деня са връщането на инфлуенсъра Стоян Колев в България, студентски протест с пожар в албанското министерство на образованието, повторното налагане на американски санкции срещу Венецуела и разследването на палежа на антени на Starlink край София.",
+  "stories": [
+    {
+      "category": "Общество",
+      "headline": "Студентски протест в Албания: подпалено е Министерството на образованието",
+      "summary": "В Тирана избухнаха студентски протести, по време на които беше подпалено Министерството на образованието. Събитието е отразено от Reuters и DW. Няма данни за жертви.",
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "ids": [
+        4,
+        20
+      ],
+      "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193"
+    },
+    {
+      "category": "Общество",
+      "headline": "България и чужди служби разследват палежа на 11 антени на Starlink край София",
+      "summary": "Български и чуждестранни служби разследват палежа на 11 антени на Starlink край София. Президентът Радев потвърди разследването, но призова ДАНС да не разкрива повече подробности.",
+      "sources": [
+        "FrogNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        32,
+        45
+      ],
+      "link": "https://frognews.bg/novini/balgariya-chuzhdi-sluzhbi-razsledvat-palezha-11-anteni-starlink-kray-sofiya.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Стоян Колев е екстрадиран в България",
+      "summary": "Инфлуенсърът Стоян Колев е върнат в България, съобщават Mediapool и Dnevnik.bg. Той е бил издирван и екстрадиран от Испания.",
+      "sources": [
+        "Mediapool",
+        "Dnevnik"
+      ],
+      "ids": [
+        19,
+        26
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/influensarat-stoyan-kolev-be-varnat-v-bulgaria/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Зеленски: Украйна не е получила информация за руски балистични удари",
+      "summary": "Президентът Зеленски съобщи, че Украйна не е получила информация от западните си партньори за руски удари с балистични ракети. Изявлението е на фона на спекулации за събитията в Черно море.",
+      "sources": [
+        "Свободна точка",
+        "OffNews"
+      ],
+      "ids": [
+        47,
+        39
+      ],
+      "link": "https://svobodnatochka.bg/novini/ukrayna-ne-e-poluchila-informatsiya-ot-zapadnite-si-partnyori-za-ruski-udari-s-balistichni-raketi-kaza-zelenski/"
+    },
+    {
+      "category": "Политика",
+      "headline": "Гюров: Нито едно правителство не е обеднило хората за 5 години така, както това за 6 месеца",
+      "summary": "Бившият министър Андрей Гюров остро критикува икономическото положение в България и заяви, че това правителство е обеднило хората само за 6 месеца.",
+      "sources": [
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        25
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-nito-edno-pravitelstvo-ne-dopusna-obednyavane-na-naroda-za-5-godini-tova-go-napravi-za-6-mesetsa"
+    }
+  ]
+}

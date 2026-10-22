@@ -46,28 +46,30 @@ step_finish() {
     exit 1
   fi
 
-  # Validate JSON format
-  if command -v node >/dev/null 2>&1; then
-    node -e '
-      const data = JSON.parse(require("fs").readFileSync("news/data/top-news.json", "utf8"));
-      if (!data.overview || !Array.isArray(data.stories) || data.stories.length === 0) {
-        console.error("❌ news/data/top-news.json is missing required overview or stories fields");
-        process.exit(1);
-      }
-    ' || exit 1
-  fi
+  log "Validating and normalising the AI output..."
+  node news/news-daily.js clean
+
+  log "Checking story links against the digest lines..."
+  node news/news-daily.js links
+
+  log "Archiving digest as a permanent page..."
+  node news/news-daily.js archive
 
   log "Resetting 24h archive window..."
   npm run news:reset
 
-  log "Cleaning up temporary news-digest.md..."
-  rm -f news/data/news-digest.md
+  log "Writing the Discord message..."
+  node news/news-daily.js discord
 
   log "Pre-rendering pages..."
   node scripts/build-pages.js
 
   log "Staging files..."
-  git add news/data/top-news.json news/data/news-24h.json news/data/news.json index.html sitemap.xml robots.txt
+  # Stage only paths that exist, so a missing optional output can't abort the commit
+  for f in news/data/top-news.json news/data/news-24h.json news/data/news.json news/data/digests \
+    index.html sitemap.xml news-sitemap.xml robots.txt feed.xml obzor blog/index.html; do
+    if [[ -e "$f" ]]; then git add "$f"; fi
+  done
 
   if git diff --staged --quiet; then
     log "ℹ️ No changes detected to commit."
@@ -77,6 +79,7 @@ step_finish() {
     log "Pushing to GitHub..."
     git push origin main
     log "✅ Successfully pushed daily news summary to GitHub."
+    node scripts/indexnow.js || log "⚠️ IndexNow ping failed (non-fatal)"
   fi
 
   log "=== Pipeline complete ==="

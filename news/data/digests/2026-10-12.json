@@ -1,0 +1,84 @@
+{
+  "updatedAt": "2026-10-12T13:15:00.000Z",
+  "overview": "Водещи днес са сблъсъците между Тръмп, Путин и Зеленски за енергийното примирие в Украйна, както и случаят с подсъдимата в Северна Македония Ива Михайлова, която неочаквано влезе в България. В икономиката вниманието е върху износа на дизел и позицията на „Лукойл“, а в света – върху ядрената стратегия на Франция след заплахите на Путин.",
+  "stories": [
+    {
+      "category": "Политика",
+      "headline": "Тръмп обяви енергийно примирие между Русия и Украйна",
+      "summary": "Тръмп съобщи за енергийно примирие между Русия и Украйна, но Зеленски заяви, че руските удари продължават, а Москва мълчи по въпроса.",
+      "sources": [
+        "Свободна точка",
+        "FrogNews",
+        "Dnevnik",
+        "Actualno"
+      ],
+      "ids": [
+        32,
+        40,
+        44,
+        35
+      ],
+      "link": "https://svobodnatochka.bg/novini/zelenski-kaza-che-ruskite-udari-prodalzhavat-vapreki-obyavenoto-ot-tramp-primirie-moskva-malchi/"
+    },
+    {
+      "category": "Общество",
+      "headline": "Ива Михайлова, подсъдима в Северна Македония, неочаквано е в България",
+      "summary": "Подсъдимата в Северна Македония Ива Михайлова неочаквано влезе в България, което предизвика смут в медиите и институциите.",
+      "sources": [
+        "Mediapool",
+        "OffNews",
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        24,
+        13,
+        22,
+        18
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/byah-represirana-podsadimata-v-severna-makedoniya-iva-mihailova-iznenadvashto-vleze-v-bulgaria-obnovyava-se/"
+    },
+    {
+      "category": "Икономика",
+      "headline": "„Лукойл“ и износът на дизел: сделката Тръмп – Путин и опасения за недостиг",
+      "summary": "„Лукойл“ защитава износа на дизел въпреки опасенията от недостиг на горива, а службите обсъждат възможния ефект върху цените от размяната на петрол с Русия.",
+      "sources": [
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Actualno"
+      ],
+      "ids": [
+        19,
+        31,
+        36
+      ],
+      "link": "https://offnews.bg/ikonomika/osobeniat-targovski-upravitel-na-lukojl-ima-predostatachno-dizel-v-876265.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Армията няма да провежда нови операции около потъналия кораб в Черно море",
+      "summary": "Военните не планират нови операции в района на потъналия кораб в Черно море и продължават да наблюдават ситуацията.",
+      "sources": [
+        "Boulevard Bulgaria",
+        "FrogNews"
+      ],
+      "ids": [
+        7,
+        16
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/balgarskata-armiya-nyama-da-provezhda-novi-operatsii-okolo-atakuvanite-korabi-v-cherno-more"
+    },
+    {
+      "category": "Свят",
+      "headline": "Франция преразглежда ядрената си стратегия след заплахите на Путин",
+      "summary": "Заплахите на Путин карат Франция да преразгледа военната и ядрената си стратегия.",
+      "sources": [
+        "FrogNews"
+      ],
+      "ids": [
+        21
+      ],
+      "link": "https://frognews.bg/novini/frantsiya-gotvi-yadren-udar-zaplahite-putin-promenyat-voennata-strategiya.html"
+    }
+  ]
+}

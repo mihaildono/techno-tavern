@@ -1,0 +1,101 @@
+{
+  "updatedAt": "2026-10-11T11:56:00.000Z",
+  "overview": "Водещи днес са сделката на Тръмп с Путин за руски дизел и призивът му Зеленски да подаде оставка, както и атаката на хутите срещу летището в Рияд с поне 12 загинали. В центъра на вниманието са също пазарът на горива в България, освобождаването на лидерите на индийското движение Cockroach и руският удар в Запорожие.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Тръмп сключи сделка с Путин за руски дизел зад гърба на Украйна",
+      "summary": "Тръмп заяви, че Украйна няма право да атакува руските петролни рафинерии, и призова Зеленски да подаде оставка. Конгресмен републиканец внесе законопроект за спиране на сделката, а ЕС заяви, че сега не е моментът да се отслабва натискът върху Русия.",
+      "sources": [
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Actualno",
+        "FrogNews",
+        "OffNews",
+        "DW",
+        "Свободна точка"
+      ],
+      "ids": [
+        11,
+        18,
+        39,
+        42,
+        44,
+        55,
+        61,
+        64
+      ],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-sklyuchi-sdelka-s-putin-za-ruski-dizel-zad-garba-na-ukraina-obnovena/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Хутите атакуваха летището в Рияд – поне 12 загинали и над 300 ранени",
+      "summary": "Най-малко 12 души загинаха при обстрел на летището в саудитската столица Рияд. Ранени са над 300 души, авиокомпании отменят полети след силната експлозия, а хутите предупреждават авиолиниите и пътниците да не използват саудитските летища.",
+      "sources": [
+        "Mediapool",
+        "Reuters",
+        "Свободна точка",
+        "Actualno",
+        "OffNews",
+        "Dnevnik"
+      ],
+      "ids": [
+        5,
+        6,
+        15,
+        38,
+        43,
+        53
+      ],
+      "link": "https://www.mediapool.bg/blizak-iztok/nai-malko-12-dushi-byaha-ubiti-pri-obstrel-na-letishteto-na-sauditskata-stolitsa-riyad/"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Прогнози за недостиг на дизел в България, „Лукойл“ отрича опасност",
+      "summary": "Борисов прогнозира недостиг на дизел и обвини властта в схема с горивата. „Лукойл Нефтохим Бургас“ увери, че няма опасност от недостиг, а Пулев заяви, че няма риск за доставките на петрол и държавата следи ситуацията в Черно море.",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Dnevnik",
+        "OffNews",
+        "Mediapool"
+      ],
+      "ids": [
+        51,
+        52,
+        58,
+        59
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmFtRGlZU1lpWjAtbzFvaVY4SVRXQ0FKb1dwRjE2Wk9ObnVta2xBMDE1RHhuUHp3UlpsMkJQT1p1RDBoVDg1c3FkVm5mZGlJVDN1TjBLV0RuaXB0R0gtbTV1aDRDNWNMUEJ6ZG1TXzE1YW5kRUsxY3FBeVZ0X0FGaXZhcy1GVEtoY3Fnby1GZG1XdW5CdGhuYkxfUm9hdXE0QUtVa09GUQ?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "В Индия освободиха лидерите на движението Cockroach преди нови протести",
+      "summary": "Индийски съд разпореди освобождаването на лидерите на движението Cockroach, които призовават за нови протести. Столицата се готви за втори ден протести срещу главния изборен служител.",
+      "sources": [
+        "DW",
+        "Reuters"
+      ],
+      "ids": [
+        20,
+        21,
+        23,
+        24
+      ],
+      "link": "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "Руски удар в Запорожие уби най-малко 12 души",
+      "summary": "При руския удар срещу украинския град Запорожие загинаха най-малко 12 души, като броят на жертвите нарасна спрямо първоначалното съобщение.",
+      "sources": [
+        "Свободна точка",
+        "Mediapool"
+      ],
+      "ids": [
+        57,
+        63
+      ],
+      "link": "https://svobodnatochka.bg/novini/blagodari-za-otmyanata-na-sanktsiite-nay-malko-12-dushi-byaha-ubiti-v-zaporozhie-sled-ruski-udar/"
+    }
+  ]
+}

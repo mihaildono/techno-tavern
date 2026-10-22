@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-10-19T18:30:00.000Z",
+  "overview": "Денят е белязан от напрегнатите международни отношения около войната в Украйна и облекчаването на санкциите срещу Русия, масовите протести и безредици във Франция, както и от важни социални и политически събития в България.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Тръмп облекчава санкциите срещу Русия, Зеленски обвинява САЩ, че тласкат Украйна към капитулация",
+      "summary": "Републиканци публично критикуват Тръмп за сближаването му с Путин преди изборите за Конгрес. Зеленски обвини Тръмп, че тласка Украйна към капитулация пред Путин. Русия е мобилизирала 46 000 чужденци от 151 държави, за да воюват срещу Украйна. Цените на петрола се понижиха след облекчаването на санкциите, а Киев отново получава разузнавателни данни от САЩ.",
+      "sources": [
+        "Mediapool",
+        "FrogNews",
+        "Actualno",
+        "OffNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        5,
+        21,
+        27,
+        30,
+        63,
+        70,
+        75,
+        79,
+        81,
+        86
+      ],
+      "link": "https://www.mediapool.bg/voina-v-ukraina/republikantsi-zapochnaha-publichno-da-kritikuvat-tramp-za-sblizhavaneto-mu-s-putin-predi-izborite-za-kongres/"
+    },
+    {
+      "category": "Свят",
+      "headline": "Франция въвежда вечерен час след масови безредици, Макрон обещава съд за насилниците",
+      "summary": "Френското правителство въвежда вечерен час в отделни райони след масовите безредици в страната. Премиерът Льокорню свиква кризисна среща, обсъжда се извънредно положение, а президентът Макрон обещава съд за насилниците и диалог с младите протестиращи.",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Reuters",
+        "FrogNews"
+      ],
+      "ids": [
+        24,
+        53,
+        73,
+        78,
+        85
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/frantsiya-vavezhda-vecheren-chas-v-otdelni-rayoni-sled-masovite-bezreditsi"
+    },
+    {
+      "category": "Общество",
+      "headline": "Заподозрените за палежа на Starlink край София са избягали в чужбина",
+      "summary": "Двама души са обвинени за палежа на антените на Starlink край София и прокуратурата иска европейски заповеди за арестуването им. Заподозрените са избягали от България.",
+      "sources": [
+        "OffNews",
+        "Свободна точка",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        57,
+        59,
+        72
+      ],
+      "link": "https://offnews.bg/temida/zapodozrenite-za-palezha-na-starlink-kraj-sofia-sa-izbiagali-v-chuzhbi-876749.html"
+    },
+    {
+      "category": "Свят",
+      "headline": "Албанският премиер обвини Русия и Иран за ескалацията на протестите",
+      "summary": "Албанският премиер Еди Рама обвини Русия и Иран за ескалацията на масовите протести в Албания.",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Mediapool"
+      ],
+      "ids": [
+        23,
+        80
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/edi-rama-obvini-rusiya-i-iran-za-eskalatsiyata-na-protestite-v-albaniya"
+    },
+    {
+      "category": "Политика",
+      "headline": "Пеевски стартира инициатива „Щит за хората“ срещу корупцията",
+      "summary": "Санкционираният за корупция Делиан Пеевски обяви инициатива „Щит за хората“, с която ще брани хората от корупцията.",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Actualno"
+      ],
+      "ids": [
+        22,
+        28
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/peevski-shte-brani-naroda-ot-koruptsiya-s-initsiativa-shtit-za-horata"
+    }
+  ]
+}

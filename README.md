@@ -23,11 +23,12 @@ Opening `index.html` directly in your browser (file:// protocol) will fail to lo
 
 ## Pages
 
-- **News** (`/`): Evening digest of the day's top stories plus a timeline of the latest headlines from 10 sources (auto-updated every 3 hours). `/news/` redirects here; feed data still lives in `news/data/`.
-- **Blog** (`/blog/`): Mastodon feed from @Technotavern@masto.bg
+- **News** (`/`): Evening digest of the day's top stories plus a timeline of the latest headlines from 11 sources (auto-updated every 3 hours). `/news/` redirects here; feed data still lives in `news/data/`.
+- **Digest archive** (`/obzor/`, `/obzor/YYYY-MM-DD/`): one permanent page per evening digest, generated from `news/data/digests/`. Also published as `/feed.xml` (RSS) and `/news-sitemap.xml` (Google News). `npm run backfill-digests` rebuilds old digests from git history.
+- **Blog** (`/blog/`): Mastodon feed from @Technotavern@masto.bg, pre-rendered at build time
 - **How it works** (`/about/`)
 - **Archive**: Politics (`/politics/`) and Stocks (`/stocks/`). The stock screener is frozen: its GitHub Actions workflows were removed and the data in `stocks/data/` is the last scan (2026-10-20). The script and its `requirements.txt` stay in `stocks/` for reference.
 
 ## Automated Jobs & Schedules
 
-Background cron jobs and Hermes agent tasks are documented in detail in [CRONS.md](./CRONS.md).
+Background cron jobs and Hermes agent tasks are documented in detail in [CRONS.md](./CRONS.md). Project map and rules for AI agents: [AGENTS.md](./AGENTS.md).

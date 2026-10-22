@@ -40,7 +40,11 @@ if ! git diff --quiet || ! git diff --cached --quiet; then
     echo "📝 Committing and pushing changes..."
 
     # Stage changes
-    git add news/data/news.json news/data/news-24h.json index.html sitemap.xml robots.txt
+    # Stage only paths that exist, so a missing optional output can't abort the commit
+    for f in news/data/news.json news/data/news-24h.json \
+        index.html sitemap.xml news-sitemap.xml robots.txt feed.xml obzor blog/index.html; do
+        if [ -e "$f" ]; then git add "$f"; fi
+    done
 
     # Commit with skip ci
     git commit -m "$(date '+%Y-%m-%d %H:%M:%S') - Update news feeds [skip ci]"
@@ -49,6 +53,9 @@ if ! git diff --quiet || ! git diff --cached --quiet; then
     git push origin main
 
     echo "✅ Successfully updated and pushed news feeds"
+
+    # Tell Bing/Yandex/Seznam the homepage changed
+    "$NODE_PATH" scripts/indexnow.js || echo "⚠️  IndexNow ping failed (non-fatal)"
 else
     echo "ℹ️  No changes detected - news feeds are up to date"
 fi

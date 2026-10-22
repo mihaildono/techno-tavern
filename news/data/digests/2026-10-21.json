@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-10-21T18:30:37.657Z",
+  "overview": "Водещи теми днес са готовността на Русия за тристранни преговори с Украйна и САЩ, масовите протести във Франция и арестът на кандидата на ДПС за кмет на Белица.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Русия е готова за тристранни преговори с Украйна и САЩ",
+      "summary": "Русия е готова да обсъди тристранни преговори с Украйна и САЩ след срещи на високо ниво. Уиткоф заяви, че процесът може да започне следващия месец, ако Киев и Москва желаят.",
+      "sources": [
+        "Mediapool",
+        "OffNews",
+        "Actualno",
+        "Reuters"
+      ],
+      "ids": [
+        1,
+        4,
+        16,
+        31,
+        93
+      ],
+      "link": "https://www.actualno.com/europe/sled-sreshta-9-putin-uitkof-rusija-e-gotova-za-tristranni-pregovori-drugija-mesec-iskala-sistema-za-sigurnost-za-sebe-si-i-ukrajna-video-news_2653033.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Масовите протести във Франция дават аргументи на противниците на Макрон",
+      "summary": "Масовите протести във Франция показват силно недоволство от правителството на Макрон на фона на напрегнатата политическа обстановка.",
+      "sources": [
+        "FrogNews",
+        "Actualno"
+      ],
+      "ids": [
+        2,
+        79
+      ],
+      "link": "https://frognews.bg/novini/protestite-vav-frantsiia-dadoha-orajie-vragovete-makron.html"
+    },
+    {
+      "category": "Политика",
+      "headline": "Кандидатът от ДПС за кмет на Белица Радослав Ревански е арестуван, а Пеевски заплашва с разкрития",
+      "summary": "Кандидатът на ДПС за кмет на Белица Радослав Ревански е арестуван по обвинения в търговия с влияние. Пеевски заплашва с разкрития.",
+      "sources": [
+        "Dnevnik",
+        "OffNews"
+      ],
+      "ids": [
+        12,
+        73
+      ],
+      "link": "https://offnews.bg/politika/izvedoha-s-beleznitci-kmeta-na-belitca-radoslav-revanski-876913.html"
+    }
+  ]
+}

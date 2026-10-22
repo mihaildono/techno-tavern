@@ -1,0 +1,97 @@
+{
+  "updatedAt": "2026-10-17T19:37:42.891Z",
+  "overview": "Водещите събития са ескалацията на войната в Черно море, завръщането на папа Лъв XIV във Ватикана след операция, слънчевата енергия, която за първи път изпреварва ядрената в света, вдигането на изтребители на НАТО след китайски дрон край румънската граница и масовите протести във Франция.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Войната в Черно море ескалира, обсъждат се нови санкции срещу Русия",
+      "summary": "Множество медии съобщават за бойни действия в Черно море и засилване на санкциите, а Путин и Тръмп излагат позициите си.",
+      "sources": [
+        "Actualno",
+        "FrogNews",
+        "Mediapool",
+        "OffNews",
+        "Reuters",
+        "Свободна точка"
+      ],
+      "ids": [
+        1,
+        9,
+        18,
+        21,
+        22,
+        24,
+        26,
+        27,
+        29,
+        39,
+        51,
+        53,
+        54
+      ],
+      "link": "https://www.actualno.com/balkani/v-cherno-more-rumynija-svali-dronove-tam-kydeto-bjaha-udareni-2-koraba-zelenski-s-novo-preduprejdenie-news_2651584.html"
+    },
+    {
+      "category": "Здравеопазване",
+      "headline": "Папа Лъв XIV се върна във Ватикана след операция заради рак на белия дроб",
+      "summary": "Папата се върна във Ватикана след успешна операция заради рак на белия дроб, съобщават множество медии.",
+      "sources": [
+        "Actualno",
+        "DW",
+        "OffNews"
+      ],
+      "ids": [
+        14,
+        20,
+        31
+      ],
+      "link": "https://www.actualno.com/europe/sled-operacija-za-rak-na-belija-drob-papata-se-zavyrna-vyv-vatikana-news_2651526.html"
+    },
+    {
+      "category": "Технологии",
+      "headline": "Слънчевата енергия изпревари ядрената в света за първи път",
+      "summary": "Нови данни показват, че слънчевата енергия е изпреварила ядрената по инсталирана мощност в света.",
+      "sources": [
+        "DW",
+        "Hacker News"
+      ],
+      "ids": [
+        15,
+        19,
+        48
+      ],
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Свят",
+      "headline": "НАТО вдигна испански изтребители след китайски дрон край румънската граница",
+      "summary": "Китайски дрон отново се приближи до румънската граница и НАТО вдигна два испански изтребителя, което засилва международното напрежение.",
+      "sources": [
+        "Dnevnik",
+        "FrogNews"
+      ],
+      "ids": [
+        7,
+        46
+      ],
+      "link": "https://frognews.bg/novini/dron-pak-dobliji-rumanskata-granitsa-nato-vdigna-dva-ispanski-iztrebitelia.html"
+    },
+    {
+      "category": "Общество",
+      "headline": "Масови протести във Франция – сблъсъци в Париж, Лион и Марсилия",
+      "summary": "Протестите във Франция прераснаха в сблъсъци с полицията в няколко големи града, сред които Париж, Лион и Марсилия.",
+      "sources": [
+        "FrogNews",
+        "OffNews",
+        "Reuters"
+      ],
+      "ids": [
+        8,
+        12,
+        28,
+        32
+      ],
+      "link": "https://frognews.bg/novini/mashtabni-protesti-raztarsiha-frantsiya-sblasatsi-parizh-lion-marsiliya.html"
+    }
+  ]
+}

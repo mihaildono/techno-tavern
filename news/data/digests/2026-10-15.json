@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-10-15T20:04:00.000Z",
+  "overview": "Водещите новини за деня са обвиненията срещу Николас Мадуро, освобождаването на петролни резерви от Международната агенция по енергетика, атаката на хутите срещу правителствения дворец в Аден и призивът на Тръмп за смъртно наказание за убийци на пожарникари.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Венесуела: Николас Мадуро отрича вина за убийство",
+      "summary": "Николас Мадуро е обвинен в убийство и отрича вината си, съобщават DW и Reuters.",
+      "sources": [
+        "DW",
+        "Reuters"
+      ],
+      "ids": [
+        2,
+        5,
+        25
+      ],
+      "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Международната агенция по енергетика ускорява освобождаването на петролни резерви, включително над 20 млн. барела дизел",
+      "summary": "Международната агенция по енергетика (МАЕ) планира да ускори освобождаването на петролни резерви, включително над 20 млн. барела дизел, за да стабилизира пазарите, съобщава Reuters.",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        10
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajItTjVjRWhSaHJfNEJFdncwUU5yVU95N2RyVDdiaS04RGJfeE9RbjRIY3JaVFlTSmY4T1ZvNlVUdFdSOEczMUhKSm12ZzNRNHpueUM3aTVEcy1na2xUMG1qcm5vb2RwSFNIVHBpMmNVOVZqYml0RXYxcUNKazQyQlhUWGJxMnlhWFAySDJKaVNJdUVrZld6SUgyUWNaR1I4YWVxRUNIMkNVMm9ualR3LWNzQmJVVWR4Sk42aGhMX3FWQQ?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Хутите атакуваха правителствения дворец в Аден, Йемен",
+      "summary": "Хутите са атакували правителствения дворец в Аден, Йемен, съобщава DW.",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        6
+      ],
+      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-top-1022-rdf"
+    },
+    {
+      "category": "Политика",
+      "headline": "Тръмп иска смъртно наказание за убийство на пожарникар",
+      "summary": "Президентът на САЩ Доналд Тръмп иска смъртно наказание за всеки, който убие пожарникар, съобщава Reuters.",
+      "sources": [
+        "Reuters"
+      ],
+      "ids": [
+        5
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ1hjU0hBQkROWFZSLUNMRERsX2tSdWUyTUdBeFFoeEJJR1kyZGJCc19uZ2hJYzZtU0NidnRJWkFRSDViMkV0MEhfdDJoM3hHTXgyZWJUMmZRNkloTTJpbUtGZ2M5YzZjQlJrbnY1NXo2c0pLUm5ESzhwTlVObi0tQmNBVU9QV0dEVHZCNWFxNFVJaXpGeWR4d29FbGhKeXg4Z211TmwwY0lEeHM?oc=5"
+    },
+    {
+      "category": "Технологии",
+      "headline": "Самовъзпроизвеждащ се изкуствен интелект: застрашен ли е вашият хладилник?",
+      "summary": "DW публикува материал за самовъзпроизвеждащия се изкуствен интелект и за риска, който той може да създаде за сигурността на домакинските уреди.",
+      "sources": [
+        "DW"
+      ],
+      "ids": [
+        3
+      ],
+      "link": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-top-1022-rdf"
+    }
+  ]
+}

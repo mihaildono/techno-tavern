@@ -1,0 +1,67 @@
+{
+  "_comment": "Feeds read by news/fetch-news.js. 'url' is tried first; 'fallback' (usually a Google News search) only when the direct feed fails or returns nothing fresh. Google News queries use when:1d so results are recent instead of relevance-sorted. Add a source by adding an object here; no code change needed.",
+  "main": [
+    {
+      "name": "OffNews",
+      "url": "https://offnews.bg/rss/all",
+      "color": "#E91E63"
+    },
+    {
+      "name": "Dnevnik",
+      "url": "https://www.dnevnik.bg/rss/",
+      "fallback": "https://news.google.com/rss/search?q=site:dnevnik.bg+when:1d&hl=bg&gl=BG&ceid=BG:bg",
+      "color": "#2196F3"
+    },
+    {
+      "name": "Свободна точка",
+      "url": "https://svobodnatochka.bg/feed/",
+      "fallback": "https://news.google.com/rss/search?q=site:svobodnatochka.bg+when:1d&hl=bg&gl=BG&ceid=BG:bg",
+      "color": "#FF9800"
+    },
+    {
+      "name": "Mediapool",
+      "url": "https://www.mediapool.bg/feed/",
+      "color": "#00BCD4"
+    },
+    {
+      "name": "Actualno",
+      "url": "https://www.actualno.com/rss",
+      "color": "#9C27B0"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss",
+      "color": "#FF6600",
+      "lang": "en"
+    },
+    {
+      "name": "FrogNews",
+      "url": "https://frognews.bg/rss.xml",
+      "color": "#795548"
+    },
+    {
+      "name": "Boulevard Bulgaria",
+      "url": "https://boulevardbulgaria.bg/feed.atom",
+      "color": "#FF5722"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "color": "#4169E1",
+      "lang": "en"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/feeds/news.rss",
+      "fallback": "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "color": "#7B3FE4",
+      "lang": "en"
+    },
+    {
+      "name": "DW",
+      "url": "https://rss.dw.com/rdf/rss-en-top",
+      "color": "#C8102E",
+      "lang": "en"
+    }
+  ]
+}

@@ -606,3 +606,20 @@
   padding-top: 8px;
   margin-top: 4px !important;
 }
+
+/* Page titles promoted from h2 to h1 for SEO; keep the previous size */
+.page-h1,
+.party-title-row h1 {
+  font-size: 1.5em;
+}
+
+.party-title-row h1 {
+  margin: 0;
+}
+
+.opinion-label {
+  max-width: 640px;
+  margin: 0 auto 24px;
+  padding: 0;
+  text-align: center;
+}

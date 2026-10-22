@@ -1,0 +1,85 @@
+{
+  "updatedAt": "2026-10-16T15:31:00.000Z",
+  "overview": "Денят е белязан от мащабни протести в Албания, новини от фронта в Украйна и засилено напрежение между САЩ и Иран. В България синдикатите протестират срещу минималната заплата, а българската певица DARA е номинирана за „Грами“.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Студентски протести в Албания изискват отставката на премиера Еди Рама",
+      "summary": "Хиляди протестират в Тирана с искане за политическа промяна и оставка на премиера Еди Рама. Протестите са съпроводени със сблъсъци, палежи и ранени.",
+      "sources": [
+        "DW",
+        "Reuters",
+        "FrogNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        4,
+        11,
+        24,
+        33
+      ],
+      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217"
+    },
+    {
+      "category": "Свят",
+      "headline": "Starlink има прекъсвания по фронта в Украйна, ЕС признава, че не може да го замени",
+      "summary": "Прекъсванията на Starlink засягат операциите по фронта в Украйна. ЕС призна, че няма бърза алтернатива на системата. Тръмп нарече възобновяването на ударите по руски рафинерии „позор“.",
+      "sources": [
+        "Reuters",
+        "Mediapool",
+        "Свободна точка"
+      ],
+      "ids": [
+        5,
+        26,
+        32,
+        39
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5"
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп заплашва с военен удар по Иран, Техеран продава гориво въпреки санкциите",
+      "summary": "САЩ заплашват с удар по планината Пикакс в Иран. Същевременно Иран изнася втечнен газ и реактивно гориво въпреки американската блокада. Атаките на хутите застрашават стратегически обекти в Саудитска Арабия.",
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "ids": [
+        12,
+        17,
+        3,
+        6
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5"
+    },
+    {
+      "category": "Икономика",
+      "headline": "Синдикатите в България протестират срещу минималната заплата от 660 евро",
+      "summary": "КНСБ излезе на протест с искане за по-високи доходи. Синдикатите протестират пред парламента срещу минималната заплата от 660 евро.",
+      "sources": [
+        "FrogNews",
+        "Свободна точка"
+      ],
+      "ids": [
+        23,
+        34
+      ],
+      "link": "https://frognews.bg/novini/lichnite-biudjeti-defitsit-knsb-izleze-protest-visoki-dohodi.html"
+    },
+    {
+      "category": "Култура",
+      "headline": "DARA е номинирана за „Грами“ в четири категории, включително „Най-добър нов изпълнител“",
+      "summary": "Българската певица DARA е номинирана за „Грами“ в четири категории, сред които три с песента „Bangaranga“.",
+      "sources": [
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ],
+      "ids": [
+        27,
+        38
+      ],
+      "link": "https://frognews.bg/novini/dara-predlojena-grami-chetiri-kategorii-sred-tiah-nai-dobar-nov-izpalnitel.html"
+    }
+  ]
+}

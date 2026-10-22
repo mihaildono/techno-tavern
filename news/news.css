@@ -415,3 +415,94 @@
     height: 84px;
   }
 }
+
+/* ── Archive pages (/obzor/, /obzor/<date>/) ── */
+.page-head {
+  padding: clamp(28px, 5vw, 56px) 0 8px;
+}
+
+.page-title {
+  margin: 0 0 16px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(26px, 3.4vw, 40px);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+.digest .page-title {
+  color: var(--malt);
+  font-size: clamp(20px, 2.4vw, 26px);
+}
+
+.digest-intro {
+  max-width: var(--measure);
+  margin: 0 0 28px;
+  font-size: 18px;
+  line-height: 1.55;
+  color: var(--foam);
+}
+
+.digest-intro a,
+.digest-permalink a,
+.archive-nav a {
+  color: var(--amber);
+}
+
+.digest-note,
+.digest-permalink {
+  max-width: var(--measure);
+  margin: 28px 0 0;
+  font-size: 15px;
+  color: var(--malt-dim);
+}
+
+.archive-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 24px 0 48px;
+  font-weight: 600;
+}
+
+.archive-month h2 {
+  margin: 32px 0 8px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 28px;
+  text-transform: capitalize;
+}
+
+.archive-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-width: 860px;
+}
+
+.archive-list li + li {
+  border-top: 1px solid var(--line);
+}
+
+.archive-list a {
+  display: grid;
+  grid-template-columns: 9.5em 1fr;
+  gap: 4px 16px;
+  padding: 12px 0;
+  color: var(--foam);
+  text-decoration: none;
+}
+
+.archive-list a:hover span {
+  color: var(--amber);
+}
+
+.archive-list time {
+  color: var(--malt);
+}
+
+@media (max-width: 560px) {
+  .archive-list a {
+    grid-template-columns: 1fr;
+  }
+}

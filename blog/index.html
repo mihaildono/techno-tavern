@@ -16,7 +16,7 @@
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Techno Tavern Пловдив – новините за деня, без реклами" />
+    <meta property="og:image:alt" content="Techno Tavern – новини от България и света, без реклами" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="https://www.technotavern.com/assets/og-image.jpg" />
     <meta name="description" content="Бележки и публикации от Techno Tavern в Пловдив, публикувани в Mastodon." />
@@ -66,9 +66,8 @@
             </p>
         </div>
 
-        <div id="mastodon-feed" class="blog-feed">
-            <p class="feed-loading">Зареждане на публикациите…</p>
-        </div>
+        <!-- Posts are pre-rendered by scripts/build-pages.js so crawlers see them; the script below refreshes them live -->
+        <div id="mastodon-feed" class="blog-feed"><!--POSTS:start--><p class="feed-loading">Зареждане на публикациите…</p><!--POSTS:end--></div>
     </main>
 
     <footer class="site-footer">
@@ -77,10 +76,12 @@
             <h2>Проект</h2>
             <a href="/about/">Как работи</a>
             <a href="/blog/" aria-current="page">Блог</a>
+            <a href="/feed.xml">RSS</a>
             <a href="https://masto.bg/@Technotavern" rel="me noopener" target="_blank">Mastodon</a>
         </nav>
         <nav class="footer-group" aria-label="Архив">
             <h2>Архив</h2>
+            <a href="/obzor/">Обзори</a>
             <a href="/politics/">Политика</a>
             <a href="/stocks/">Акции</a>
         </nav>
@@ -93,6 +94,7 @@
             try {
                 const response = await fetch('https://masto.bg/api/v1/accounts/115955044932859142/statuses?limit=10&exclude_replies=true');
                 const posts = await response.json();
+                if (!Array.isArray(posts) || posts.length === 0) throw new Error('No posts');
 
                 feedContainer.innerHTML = '';
 
@@ -115,6 +117,8 @@
                     feedContainer.appendChild(postElement);
                 });
             } catch (error) {
+                // Keep the pre-rendered posts if the live refresh fails
+                if (feedContainer.querySelector('.blog-post')) return;
                 feedContainer.innerHTML = '<p class="feed-error">Публикациите не се заредиха. Вижте ги директно в <a href="https://masto.bg/@Technotavern">Mastodon</a>.</p>';
             }
         }

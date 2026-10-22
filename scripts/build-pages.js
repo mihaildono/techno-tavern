@@ -6,6 +6,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const pages = require("./site-pages");
 
 const ROOT = path.join(__dirname, "..");
 const SITE = "https://www.technotavern.com";
@@ -64,6 +65,15 @@ function sourcesLine(sources) {
   return `<span class="story-sources-label">Източници: </span>${esc(sources.join(", "))}`;
 }
 
+// Link to the permanent /obzor/<date>/ page once the digest has been archived
+function permalink(top) {
+  const time = pages.parseTime(top?.updatedAt);
+  if (!time) return "";
+  const date = pages.isoDay(time);
+  if (!fs.existsSync(path.join(ROOT, "news", "data", "digests", `${date}.json`))) return "";
+  return `<p class="digest-permalink"><a href="/obzor/${date}/">Постоянен адрес на обзора</a> · <a href="/obzor/">Всички обзори</a></p>`;
+}
+
 function renderDigest(top) {
   const stories = top?.stories;
   if (!stories?.length) return { html: "", stories: [] };
@@ -98,6 +108,7 @@ function renderDigest(top) {
             </article>
             <ol class="digest-rest" id="digest-rest" start="2">${items}</ol>
             ${overview}
+            ${permalink(top)}
         </section>`;
   return { html, stories };
 }
@@ -111,7 +122,7 @@ function renderItem(item) {
     ? `<img class="news-thumb" src="${esc(thumb)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="112" height="84" />`
     : "";
   // Relative ages go stale between builds, so the static HTML shows the clock time
-  return `<li class="news-item"><a class="news-link" href="${esc(href)}" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title">${esc(item.title)}</span><span class="news-meta"><span class="news-source" style="--source: ${esc(item.source?.color || "var(--malt)")}">${esc(item.source?.name)}</span><span class="news-age">${clockFormat.format(time)}</span></span></div>${img}</a></li>`;
+  return `<li class="news-item"><a class="news-link" href="${esc(href)}" target="_blank" rel="noopener noreferrer"><div class="news-text"><span class="news-title"${item.source?.lang ? ` lang="${esc(item.source.lang)}"` : ""}>${esc(item.title)}</span><span class="news-meta"><span class="news-source" style="--source: ${esc(item.source?.color || "var(--malt)")}">${esc(item.source?.name)}</span><span class="news-age">${clockFormat.format(time)}</span></span></div>${img}</a></li>`;
 }
 
 function renderTimeline(items) {
@@ -143,7 +154,7 @@ function jsonLd(topStories, lastUpdated) {
       "@id": `${SITE}/#website`,
       url: `${SITE}/`,
       name: "Techno Tavern",
-      description: "Независим новинарски поток от България",
+      description: "Новини от България и света: независим новинарски обзор без реклами",
       inLanguage: "bg",
       publisher: { "@id": `${SITE}/#org` },
     },
@@ -161,7 +172,7 @@ function jsonLd(topStories, lastUpdated) {
       "@type": "CollectionPage",
       "@id": `${SITE}/#page`,
       url: `${SITE}/`,
-      name: "Новините за деня",
+      name: "Новини от България и света",
       isPartOf: { "@id": `${SITE}/#website` },
       inLanguage: "bg",
       ...(lastUpdated ? { dateModified: lastUpdated } : {}),
@@ -204,23 +215,43 @@ function buildIndex() {
   return news.lastUpdated;
 }
 
-function writeSitemap(lastUpdated) {
-  const pages = [
+function writeSitemap({ lastUpdated, digests, blogUpdated }) {
+  const pagesList = [
     { loc: "/", lastmod: lastUpdated, changefreq: "hourly", priority: "1.0" },
+    { loc: "/obzor/", lastmod: digests[0]?.time, changefreq: "daily", priority: "0.8" },
+    ...digests.map((d) => ({ loc: d.urlPath, lastmod: d.time, changefreq: "never", priority: "0.6" })),
     { loc: "/about/", changefreq: "monthly", priority: "0.4" },
-    { loc: "/blog/", changefreq: "weekly", priority: "0.5" },
+    { loc: "/blog/", lastmod: blogUpdated, changefreq: "weekly", priority: "0.5" },
     { loc: "/politics/", changefreq: "yearly", priority: "0.2" },
+    { loc: "/politics/pp/", changefreq: "yearly", priority: "0.2" },
+    { loc: "/politics/progresivna-bulgaria/", changefreq: "yearly", priority: "0.2" },
+    { loc: "/politics/gerb/", changefreq: "yearly", priority: "0.2" },
     { loc: "/stocks/", changefreq: "yearly", priority: "0.2" },
   ];
-  const urls = pages
+  const urls = pagesList
     .map((p) => `  <url>\n    <loc>${SITE}${p.loc}</loc>\n${p.lastmod ? `    <lastmod>${new Date(p.lastmod).toISOString()}</lastmod>\n` : ""}    <changefreq>${p.changefreq}</changefreq>\n    <priority>${p.priority}</priority>\n  </url>`)
     .join("\n");
   fs.writeFileSync(
     path.join(ROOT, "sitemap.xml"),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`,
   );
-  fs.writeFileSync(path.join(ROOT, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`);
-  console.log("sitemap.xml and robots.txt written");
+  fs.writeFileSync(
+    path.join(ROOT, "robots.txt"),
+    `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\nSitemap: ${SITE}/news-sitemap.xml\n`,
+  );
+  console.log(`sitemap.xml (${pagesList.length} URLs) and robots.txt written`);
 }
 
-writeSitemap(buildIndex());
+async function main() {
+  const digests = pages.buildDigestArchive();
+  pages.buildFeed(digests);
+  pages.buildNewsSitemap(digests);
+  const blogUpdated = await pages.buildBlog();
+  const lastUpdated = buildIndex();
+  writeSitemap({ lastUpdated, digests, blogUpdated });
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});
