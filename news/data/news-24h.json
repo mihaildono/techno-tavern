@@ -1,7 +1,665 @@
 {
   "windowStart": "2026-10-22T17:34:12.133Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-22T17:34:12.133Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-22T18:00:32.575Z",
+  "totalItems": 54,
+  "items": [
+    {
+      "title": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
+      "pubDate": "2026-10-22T17:53:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Франция съобщи за починал след заразяване с вирус по добитъка",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
+      "pubDate": "2026-10-22T17:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969952.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Navient CDS Widen by Most in Eight Years as Debtholders Left Out",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/navient-cds-widen-by-most-in-eight-years-as-debtholders-left-out",
+      "pubDate": "2026-10-22T17:49:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Тръмп ще дава показания по делото за клевета срещу BBC",
+      "link": "https://frognews.bg/novini/tramp-shte-dava-pokazaniia-deloto-kleveta-sreshtu-bbc.html",
+      "pubDate": "2026-10-22T17:49:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8f643b6ce_1792691615_6ada4d9f0cd27.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Brazil Hedging Costs Spike as Election Anxiety Surges",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/brazil-hedging-costs-spike-as-election-anxiety-surges",
+      "pubDate": "2026-10-22T17:44:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Бивш треньор на Байерн Мюнхен е фаворит за Манчестър Юнайтед",
+      "link": "https://www.actualno.com/football/bivsh-trenior-na-bajern-munhen-e-favorit-za-manchestyr-unajted-news_2653549.html",
+      "pubDate": "2026-10-22T17:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/c4ad47a50804cec94f2379059250b765_2653549_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video",
+      "pubDate": "2026-10-22T17:43:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Top RFK Jr. Adviser Calley Means Resigns in Blow to MAHA Agenda",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/top-rfk-jr-adviser-calley-means-resigns-in-blow-to-maha-agenda",
+      "pubDate": "2026-10-22T17:41:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Meta Makes Share Deal to Keep Zuckerberg in California",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/meta-makes-share-deal-to-keep-zuckerberg-in-california-video",
+      "pubDate": "2026-10-22T17:39:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "France reports first human case of livestock virus Shamonda after patient dies",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+      "pubDate": "2026-10-22T17:36:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Населението на Украйна е спаднало до 29 милиона – не заради смърт на фронта, а заради чужбина",
+      "link": "https://frognews.bg/novini/naselenieto-ukraina-spadnalo-29-miliona--zaradi-smart-fronta-zaradi-chujbina.html",
+      "pubDate": "2026-10-22T17:32:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/638e5b668_1792690553_6ada497914515.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "\"Позорно е, насилието срещу българи в РСМ остава ненаказано\": Християн Пендиков след оправдателната присъда",
+      "link": "https://www.actualno.com/crime/pozorno-e-nasilieto-sreshtu-bylgari-v-rsm-ostava-nenakazano-hristijan-pendikov-sled-opravdatelnata-prisyda-news_2653545.html",
+      "pubDate": "2026-10-22T17:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/3a8578aa4ab3c0d36f703c288ce9b2da_2653545_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Премиерът прати на ЕП открито обръщение, било нелепо евродепутати да му налагат решения",
+      "link": "https://offnews.bg/politika/premierat-prati-na-ep-otkrito-obrashtenie-bilo-nelepo-evrodeputati-da-877004.html",
+      "pubDate": "2026-10-22T17:22:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877004/phpzjojo3_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "US airlines struggle to offset soaring fuel costs with big fare hikes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalVWOWpxTXAwZ1M0cmFmTFRxZ2dMRzU0SEIxcVhPVVR4T1I1OUd3MGVtb0d6alVyd2pJakpUUUQxQ1FlMVc2eWVtWHVTQWlIaW84RUhBU0twdnpmTkZfUkxiQlVJWE1TeDNVMk90ZjI2NGNpU2F2Um1TSVJEck91cXZ1OHZmVnpLdWR3SnVicVJNMklNRGdLaXZybHRZYTFTTTNZak9IZEtKRGxPQTFVQUF3?oc=5",
+      "pubDate": "2026-10-22T17:19:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Капитанът на Локомотив Пловдив: \"Нямаме собственик, има върху какво да работим\"",
+      "link": "https://www.actualno.com/bgfootball/kapitanyt-na-lokomotiv-plovdiv-njamame-sobstvenik-ima-vyrhu-kakvo-da-rabotim-news_2653540.html",
+      "pubDate": "2026-10-22T17:17:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/cafa244c4f985713ad861128b1860fe5_2653540_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Образование в замяна на окоп: Руските власти с нов начин за набиране на пушечно месо",
+      "link": "https://www.actualno.com/europe/obrazovanie-v-zamjana-na-okop-ruskite-vlasti-s-nov-nachin-za-nabirane-na-pushechno-meso-news_2653537.html",
+      "pubDate": "2026-10-22T17:14:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/18cf31d0670d3b9e37c96643a8902756_2653537_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Пореден протест на студентите от НАТФИЗ",
+      "link": "https://frognews.bg/novini/poreden-protest-studentite-natfiz.html",
+      "pubDate": "2026-10-22T17:14:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/898dba74e_1792689547_6ada458b588d1.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Тръмп обвини Иран в опит за надуе цената на петрола преди междинните избори в САЩ",
+      "link": "https://www.mediapool.bg/svyat/tramp-obvini-iran-v-opit-za-nadue-tsenata-na-petrola-predi-mezhdinnite-izbori-v-sasht/",
+      "pubDate": "2026-10-22T17:11:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Повдигнаха обвинения срещу кметовете на Белица и Сунгурларе",
+      "link": "https://offnews.bg/temida/povdignaha-obvinenia-sreshtu-kmetovete-na-belitca-i-sungurlare-877000.html",
+      "pubDate": "2026-10-22T17:11:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877000/phpwqeefc_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T17:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Служител на НСО блъсна Соня Колтуклиева на земята и я вкара в болница",
+      "link": "https://boulevardbulgaria.bg/articles/sluzhitel-na-nso-blasna-sonya-koltuklieva-na-zemyata-i-ya-vkara-v-bolnitsa",
+      "pubDate": "2026-10-22T17:03:21.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODI1LCJwdXIiOiJibG9iX2lkIn19--ab403eed1e40c4dae384d7754995ffc75a8649d1/%D0%BD%D1%81%D0%BE%20%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%20%D0%BA%D0%BE%D0%BB%D1%82%D1%83%D0%BA%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "НАТФИЗ на пореден протест срещу ректора си, вече иска оставката и на министъра",
+      "link": "https://www.mediapool.bg/bulgaria/natfiz-na-poreden-protest-sreshtu-rektora-si-veche-iska-ostavkata-i-na-ministara/",
+      "pubDate": "2026-10-22T16:59:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Спират временно водата утре в село Негован",
+      "link": "https://offnews.bg/obshtestvo/spirat-vremenno-vodata-utre-v-selo-negovan-877003.html",
+      "pubDate": "2026-10-22T16:58:48.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877003/phpsfvtgt_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5",
+      "pubDate": "2026-10-22T16:55:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Общественият съвет към ЦИК се обяви против поставянето на печат върху машинните разписки",
+      "link": "https://www.actualno.com/politics/obshtestvenijat-syvet-kym-cik-se-objavi-protiv-postavjaneto-na-pechat-vyrhu-mashinnite-razpiski-news_2653539.html",
+      "pubDate": "2026-10-22T16:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/44ecc2e763c18c51fd67bad2cf0c92cc_2653539_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Германия арестува мъж, обвинен за шпионаж в полза на Русия",
+      "link": "https://boulevardbulgaria.bg/articles/germaniya-arestuva-mazh-obvinen-za-shpionazh-v-polza-na-rusiya",
+      "pubDate": "2026-10-22T16:46:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxMjYyLCJwdXIiOiJibG9iX2lkIn19--b2963a5c1ab0289b2d880d198c664b2d770f14bb/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "India's eMudhra exits website security business after flaws trigger global alarm",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZpekQxR0pOZEphU3hQT0ZFVTZqMVcwZTVzcndlQk0xMng0d3R0SFdWblpxVnpPR05TTnJGOU5JWFBBbjhCS09JaEd4VnlpTnpiRFk0ckpER0lkdU5BQWI3ZzZmVnRYcW9jNUd5Zl9pcXE1YktldnlnSFZKTG9JZUZNZVFGYmw3VDBBcUVWWUlmNlFDNDFxbkJ6bExGcW9EZjhUNi1nenZHemliLWV0YmdmMjB1M1hWTHBKT2FB?oc=5",
+      "pubDate": "2026-10-22T16:46:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "''Думата не е невежество, а изолация''. Радан Кънев отвърна на Радев за критиките му към ЕП",
+      "link": "https://offnews.bg/politika/dumata-ne-e-nevezhestvo-a-izolatcia-radan-kanev-otvarna-na-radev-877001.html",
+      "pubDate": "2026-10-22T16:33:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877001/phpcvobto_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Зеленски допусна замразяване на фронтовата линия, но не и предаване на територии за Русия",
+      "link": "https://boulevardbulgaria.bg/articles/zelenski-dopusna-zamrazyavane-na-frontovata-liniya-no-ne-i-predavane-na-teritorii-za-rusiya",
+      "pubDate": "2026-10-22T16:31:42.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM0OTksInB1ciI6ImJsb2JfaWQifX0=--2980d645850ee7bd9822638bfc8a03e1d122bfd7/zelensky.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
+      "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T16:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Бизнесът подкрепя 660 евро минимална заплата и е против допълнително данъчно облагане",
+      "link": "https://www.dnevnik.bg/biznes/2026/10/22/4969888_biznesut_podkrepia_660_evro_minimalna_zaplata_i_e/?ref=rss",
+      "pubDate": "2026-10-22T16:20:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969934.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Пентагонът повреди историческия глобус на Айзенхауер, докато беше преместен в офиса на Хегсет",
+      "link": "https://frognews.bg/novini/pentagonat-povredi-istoricheskiia-globus-aizenhauer-dokato-beshe-premesten-ofisa-hegset.html",
+      "pubDate": "2026-10-22T16:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Земетресение от 7 степен е регистрирано в Тибет",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/22/4969919_zemetresenie_ot_7_stepen_e_registrirano_v_tibet/?ref=rss",
+      "pubDate": "2026-10-22T16:16:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969920.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Мелони обеща помощ срещу скъпото гориво пред празните рафтове на магазините",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/22/4969814_meloni_obeshta_pomosht_sreshtu_skupoto_gorivo_pred/?ref=rss",
+      "pubDate": "2026-10-22T16:09:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969918.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Are the French police the most violent in the EU?",
+      "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T16:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Зеленски: Няма нищо лично между мен и Тръмп, но той е от грешната страна на историята",
+      "link": "https://offnews.bg/sviat/zelenski-niama-nishto-lichno-mezhdu-men-i-tramp-no-toj-e-ot-greshnat-876999.html",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/876999/phpulowco_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Президент за 2500 подписа – твърде ниска ли е бариерата за „Дондуков“ 2?",
+      "link": "https://frognews.bg/novini/prezident-2500-podpisa--tvarde-niska-barierata-dondukov-2.html",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/976b4d435_prezidentstvo.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Протестът на НАТФИЗ: Студенти \"венчаха\" ректора и министъра, включиха се още университети",
+      "link": "https://www.dnevnik.bg/obrazovanie/2026/10/22/4969789_protestut_na_natfiz_stotici_studenti_i_prepodavateli/?ref=rss",
+      "pubDate": "2026-10-22T15:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969921.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Кметовете на Белица и Сунгурларе: Престъпно сдружение за търговия с влияние",
+      "link": "https://www.mediapool.bg/bulgaria/kmetovete-na-belitsa-i-sungurlare-prestapno-sdruzhenie-za-targoviya-s-vliyanie/",
+      "pubDate": "2026-10-22T15:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Радан Кънев към Радев: Думата не е \"невежество\", а \"изолация\"",
+      "link": "https://boulevardbulgaria.bg/articles/radan-kanev-kam-radev-dumata-ne-e-nevezhestvo-a-izolatsiya-",
+      "pubDate": "2026-10-22T15:22:23.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkyNjYsInB1ciI6ImJsb2JfaWQifX0=--6b0e7eedbf76729e82deb67eacd1976f3899cc76/%D1%80%D0%B0%D0%B4%D0%B0%D0%BD_%D0%BA%D1%8A%D0%BD%D0%B5%D0%B2_.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "ЕП критикува правителството на Радев за слабата реакция към Русия. Той обвини българските евродепутати в манипулация",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHdjWTNoQzA4dlI5U25YMktTeTFQRHZxemxZM3dtVEgwd1pLZ0hZamxkMXZDcVlUeXNvMUFPZ080SDBPRXowZEJZeGduYkJlbW01d2RyRVRYVWk4bE5kT09fTmVsRTdNdkxXWGFmVmt4bWRzOUplSlRHTENLeDJRVExNT3cwUFVha3FLNXNKN0plMEhHVEYwbGxnTTdUWnZpd0h6ZlBpWXJ5Z0E4S3RDNHVLWXF3aDZjeHd2YmQ2Qno5bUs1Nm4zektmSDMtbm02ZHY5VVZ5WlJpWEUtODhFd2tyWXY4OWktRVE?oc=5",
+      "pubDate": "2026-10-22T14:44:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "\"Що за глупости, Стив?\" Американски конгресмени възмутени, че Уиткоф нарече Путин \"хуманист\". Тръмп и Ванс го оправдават",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/shto-za-gluposti-stiv-amerikanski-kongresmeni-vazmuteni-che-uitkof-nareche-putin-humanist-tramp-i-vans-go-opravdavat/",
+      "pubDate": "2026-10-22T14:32:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "ЕП критикува Радев за слабата реакция към Русия. Той се накара на евродепутатите",
+      "link": "https://www.mediapool.bg/evropa/ep-kritikuva-radev-za-slabata-reaktsiya-kam-rusiya-toi-se-nakara-na-evrodeputatite/",
+      "pubDate": "2026-10-22T14:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Румен Радев се скара на Европарламента - видя \"невежество\" и \"манипулация\"",
+      "link": "https://boulevardbulgaria.bg/articles/rumen-radev-se-skara-na-evroparlamenta-vidya-nevezhestvo-i-manipulatsiya",
+      "pubDate": "2026-10-22T14:17:34.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5Nzk4LCJwdXIiOiJibG9iX2lkIn19--2f14ccea2a2b2c2337563011f82b7ac65f060ef6/%D0%A0%D1%83%D0%BC%D0%B5%D0%BD%20%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2%202.JPG"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Is Iran ready for another major US attack after midterm elections?",
+      "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T14:16:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Are Europeans putting profits over human rights in Vietnam?",
+      "link": "https://www.dw.com/en/are-europeans-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T14:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Хазартна компания на Георги Папазки получи права над търговската марка „Бангаранга“ като графичен знак",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0ZETW9oX3h4a3FzZzEyZ3c1clVFVnJFZWZXUFVtNVRGNnBpTkxsdzBHZmRvV0xTTy1DbmJtYXprTFVEOXE3THIydTFSU05BVWdGN1BxX0N0NF95N1ZIZEFXOTExU3JJV05tVmNkVDRaWF95dTN1RlBzUlcwS0VyNkpSbHF5SEhwY1Q0b1JqM2dxWGZMLTdSZlQ2VmRCTGVIaEdFbmJNRnNGVGRYUFI0MDNwbWpvUWZ2Mnh5T0xhSjNoUEQteXFmU0dwbm5aYm9UblAw?oc=5",
+      "pubDate": "2026-10-22T13:53:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Международният наказателен съд получи наградата \"Сахаров\" на Европейския парламент",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0FJT1hLYi1KamJUZU1UT2wwakZLR1RVa2NkVWEzZ0Fjb2xBZ0xWQW1XaDBYbEUybkdUN1p3Vkxid0YtMXlKTHUtT2V6N0dHOC1nSWdvU0FZdnhNUEVvQk1PTVVrcWVfTDl5cGx3ZFpEQWJPb18xRnllSWtjbXZmTWl4dFZxQm0zQmo3R2tvRlNiN2NmUTFyaGd5TFFJLWRyTGVhRGtNZ2k5ZllPVlEyQ2J5MFkwM1dqN2c?oc=5",
+      "pubDate": "2026-10-22T13:32:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Радослав Ревански от ДПС е обвинен в търговия с влияние. Ерол Мюмюн беше разпитан от полицията",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajdwSFRzUjhhZ3RLbWxVZXdMcXdEMkJfc1RWdnpDRVI5V2Uxd2d6dWRoLUV2X25qbVhOOEp3UFdZVXc0Y0VzdnlXc0ZIZ1hDT1ZTRHFJZXVTNnNRYnJscVU5N210eXpjNFlqeUROVmlIc2tEVV9aZ0JEWkVVV0hEZGc2amRZelVSZG90cV9ZQ0VaaXc5ZEdfT2oyMEN5dzlYOUJMalRtY3o1RmMyTWsxN3pTUFpNbGhVaE1LT094V0NzZmVZVUJlY3h3?oc=5",
+      "pubDate": "2026-10-22T12:45:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Съдът освободи предсрочно Кристиан Николов, осъден за смъртта на Милен Цветков",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcklBMS15ZUc5TU1hdndJZkNDRW9nZlhXdWZ4OXlsVmhvbHFUTm93MXRac0kyNlU3U19VdTJyTGM4SWt2WERJaTZ3dE80U09BMVNsa1dZTWV6b2Z5dlMzbXM3YmtWeUE5STUwbUlGTDZFTFcwLVVwbEItNEdNanRxYXk0SllWMjJYYXpPTE5yQTF6UWFQME9scjVfYlp0NEtXekdKdnpxcldUSE9LdVlIeVVOZw?oc=5",
+      "pubDate": "2026-10-22T11:03:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sSHhwRWJhT1puUGJuZDU3ZlJ5WWRWVktvUlpvZU9jbnFHb09uZ21Nbjc4cWh2c2pPbnJxS01DRGdZOGRVSWlSVjNfcGlHYnhsUFZHT214cXk?oc=5",
+      "pubDate": "2026-10-22T07:08:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Security advisory: Critical remote code execution vulnerabilities, update now - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZazZIdEJvUWR3ZldXbkgxY1pDanh5dmIxVzV0bnp5ZGxwRTdUYmItbDEtV1h3NV9mNHE3ZWN1Q0dRM25QMG92TjNDWVkzc3Y1U3h0ZGZBeUI?oc=5",
+      "pubDate": "2026-10-22T00:37:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "mitmproxy adds --emudhra option - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCbDJvVFBXS1NxZGxScmtLZDljTnppNjRSMFRFRE1zNUZ6cUxzelFYYkxUMWF2NWRIcTNpenFyejN4WjMteVhYTDNlR29jck44dE10Y2tJZ3M?oc=5",
+      "pubDate": "2026-10-22T00:31:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    },
+    {
+      "title": "Potential third critical PHP CVE - Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cngyZU9reUczU2Y1NWpIZlVzTUdta2VCemRtNW1aV3dYZnZDdGhOMVRWUzRGTDY0SGdmaXdNMnBvSHRObGJ6TkZKZlA1eTZQWkZteG5wSVU?oc=5",
+      "pubDate": "2026-10-21T19:40:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Hacker News",
+        "color": "#FF6600"
+      },
+      "firstSeen": "2026-10-22T18:00:32.575Z"
+    }
+  ]
 }
