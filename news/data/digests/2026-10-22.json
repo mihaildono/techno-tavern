@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T16:39:24.238Z",
-  "overview": "Днес водещите събития включват критиката на Европарламента към българския президент Радев за позицията по Черно море, ескалацията на войната между Русия и Украйна, и международните напрежения около Иран, променящ климатичните отношения в Европа и тревогите в Българския университетски протестен пояс.",
+  "updatedAt": "2026-10-22T16:58:40.924Z",
+  "overview": "Днес водещите събития са свързани с критиката на Европарламента към българския президент за позицията по Черно море, ескалацията на войната между Русия и Украйна с нов план на Путин за зимата, и международните напрежения около Иран.",
   "stories": [
     {
       "category": "Политика",
@@ -14,16 +14,17 @@
         18,
         39
       ],
-      "link": "https://boulevardbulgaria.bg/articles/evroparlamentat-kritikuva-radev-za-neyasniya-otgovor-kam-ruskata-zaplaha",
+      "link": "https://www.mediapool.bg/evropa/ep-kritikuva-radev-za-slabata-reaktsiya-kam-rusiya-toi-se-nakara-na-evrodeputatite/",
       "sources": [
-        "OffNews",
-        "Dnevnik",
+        "Bloomberg",
         "DW",
-        "Actualno",
+        "Reuters",
+        "Dnevnik",
         "Boulevard Bulgaria",
         "Mediapool",
         "FrogNews",
-        "Свободна точка"
+        "Свободна точка",
+        "OffNews"
       ]
     },
     {
@@ -37,8 +38,9 @@
       ],
       "link": "https://www.mediapool.bg/voina-v-ukraina/shto-za-gluposti-stiv-amerikanski-kongresmeni-vazmuteni-che-uitkof-nareche-putin-humanist-tramp-i-vans-go-opravdavat/",
       "sources": [
-        "Bloomberg",
         "OffNews",
+        "Actualno",
+        "Dnevnik",
         "Mediapool"
       ]
     },
@@ -54,10 +56,12 @@
       ],
       "link": "https://www.actualno.com/society/protestyt-na-natfiz-studenti-poiskaha-ostavkata-i-na-ministyra-na-obrazovanieto-news_2653526.html",
       "sources": [
+        "Reuters",
+        "OffNews",
+        "DW",
         "Actualno",
-        "Dnevnik",
-        "Mediapool",
-        "Свободна точка"
+        "Свободна точка",
+        "Dnevnik"
       ]
     },
     {
@@ -70,8 +74,8 @@
       ],
       "link": "https://www.actualno.com/asia/silno-zemetresenie-razlulja-tibet-news_2653525.html",
       "sources": [
-        "FrogNews",
-        "Свободна точка",
+        "Bloomberg",
+        "OffNews",
         "Actualno"
       ]
     },
@@ -85,8 +89,9 @@
       ],
       "link": "https://www.actualno.com/economy/iran-e-pochti-bez-petrol-kojto-da-prodava-shte-ima-li-skoro-ikonomicheski-kolaps-news_2653521.html",
       "sources": [
-        "Actualno",
-        "DW"
+        "Reuters",
+        "Mediapool",
+        "Actualno"
       ]
     }
   ]
