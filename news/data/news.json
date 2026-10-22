@@ -1,57 +1,197 @@
 {
   "items": [
     {
-      "title": "НСО проверява случая с нападението над Колтуклиева, уведомили са Военна прокуратура за случая",
-      "link": "https://www.actualno.com/politics/nso-proverjava-sluchaja-s-napadenieto-nad-koltuklieva-uvedomili-sa-voenna-prokuratura-za-sluchaja-news_2653564.html",
+      "title": "ЦСКА постигна първо равенство в Европа",
+      "link": "https://www.dnevnik.bg/sport/2026/10/22/4969966_cska_postigna_purvo_ravenstvo_v_evropa/?ref=rss",
+      "pubDate": "2026-10-22T19:06:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969164.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Героят на ЦСКА Годой: \"Заслужавахме трите точки, изиграхме много добър мач\"",
+      "link": "https://www.actualno.com/football/gerojat-na-cska-godoj-zaslujavahme-trite-tochki-izigrahme-mnogo-dobyr-mach-news_2653568.html",
+      "pubDate": "2026-10-22T19:05:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/ac3af30cb5295502a80bf5fe78cc1cf8_2653568_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Trump to Musk: Lift Starlink Limits, Moderna, Merck Data Leak",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-22/trump-to-musk-lift-starlink-limits-moderna-merck-data-leak",
+      "pubDate": "2026-10-22T19:03:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Remain Bearish on Long-Term Treasuries: DoubleLine's Sherman",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/remain-bearish-on-long-term-treasuries-jeff-sherman-video",
+      "pubDate": "2026-10-22T19:01:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "\"Така не се прави\": Мирчев е възмутен от случая с Колтуклиева и че НСО не са оказали първа помощ",
+      "link": "https://www.actualno.com/politics/taka-ne-se-pravi-mirchev-e-vyzmuten-ot-sluchaja-s-koltuklieva-i-che-nso-ne-sa-okazali-pyrva-pomosht-news_2653572.html",
+      "pubDate": "2026-10-22T19:01:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/828375749945809db8eff0d1c58f3022_2653572_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "China Isn’t Killing Its Open AI (Yet)",
+      "link": "https://www.bloomberg.com/opinion/articles/2026-10-22/china-isn-t-killing-its-open-ai-yet",
+      "pubDate": "2026-10-22T19:00:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "ВМА с официално съобщение как е Соня Колтуклиева след като беше повалена от НСО",
+      "link": "https://www.actualno.com/crime/vma-s-oficialno-syobshtenie-kak-e-sonja-koltuklieva-sled-kato-beshe-povalena-ot-nso-news_2653571.html",
+      "pubDate": "2026-10-22T18:59:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/774c45c464d767ae1c767be3b9638617_2653571_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "France reports first human case of livestock virus Shamonda after patient dies",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+      "pubDate": "2026-10-22T18:58:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Trump Defends Ramaswamy Ad as Backlash Endangers Ohio GOP Ticket",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/trump-defends-ramaswamy-ad-as-backlash-endangers-ohio-gop-ticket",
+      "pubDate": "2026-10-22T18:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "ЦСКА спечели първа точка в Лига на конференциите след драма в Дания",
+      "link": "https://boulevardbulgaria.bg/articles/tsska-5a5dca63-df6d-4b27-9dc1-bc3063822417",
+      "pubDate": "2026-10-22T18:53:06.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5ODY1LCJwdXIiOiJibG9iX2lkIn19--488019e6adfc4af96654a13df2b9eaa4393513de/%D0%9B%D0%B5%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%20%D0%93%D0%BE%D0%B4%D0%BE%D0%B9%20%D0%A6%D0%A1%D0%9A%D0%90%20.png.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "Йотова осъди агресията на НСО срещу Колтуклиева, Андрей Гюров поиска оставката на началника на службата",
+      "link": "https://boulevardbulgaria.bg/articles/yotova-osadi-agresiyata-na-nso-sreshtu-koltuklieva-andrey-gyurov-poiska-ostavkata-na-nachalnika-na-sluzhbata",
+      "pubDate": "2026-10-22T18:52:11.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5Nzk0LCJwdXIiOiJibG9iX2lkIn19--9f8ec65950cceb5a08b2ab68b71f3a90c87a3972/%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B3%D1%8E%D1%80%D0%BE%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "Тръмп казал на Мъск да вдигне спирачката от Starlink за Украйна",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/22/4969964_trump_kazal_na_musk_da_vdigne_spirachkata_ot_starlink/?ref=rss",
+      "pubDate": "2026-10-22T18:52:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969963.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Студентите от НАТФИЗ ''ожениха'' ректора и просветния министър (снимки)",
+      "link": "https://offnews.bg/kultura/studentite-ot-natfiz-ozheniha-rektora-i-prosvetnia-ministar-snimk-877002.html",
+      "pubDate": "2026-10-22T18:51:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/877002/phpxg0rgb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "French Buyers Not Ready To Step in Right Now: Kumra",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
+      "pubDate": "2026-10-22T18:50:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Ако Украйна влезе в НАТО, ще бъде по-безопасно за Русия: Зеленски",
+      "link": "https://www.actualno.com/europe/ako-ukrajna-vleze-v-nato-shte-byde-po-bezopasno-za-rusija-zelenski-news_2653566.html",
+      "pubDate": "2026-10-22T18:48:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/03259eb796a6311ef80ac60a4526e094_2653566_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "ЦСКА стигна до равен в Дания с Нордселанд след обрат – 2:2",
+      "link": "https://frognews.bg/novini/tsska-stigna-raven-daniia-nordseland-sled-obrat--2-2.html",
+      "pubDate": "2026-10-22T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5630911ba_1792694684_6ada599c624c2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "НСО проверява как техен охранител блъсна Колтуклиева, уведомили са Военна прокуратура",
+      "link": "https://www.actualno.com/politics/nso-proverjava-kak-tehen-ohranitel-blysna-koltuklieva-uvedomili-sa-voenna-prokuratura-news_2653564.html",
       "pubDate": "2026-10-22T18:42:00.000Z",
       "thumbnail": {
         "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/458abefdf488fc59e2e0f8eba666675a_2653564_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Bessent Hasn't Done Great Job As Salesman: Sherman",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-22/bessent-hasn-t-done-great-job-as-salesman-sherman-video",
-      "pubDate": "2026-10-22T18:41:17.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Годой донесе първа точка на ЦСКА в Европа в напрегнат мач с обрат и червен картон",
-      "link": "https://www.actualno.com/football/godoj-donese-pyrva-tochka-na-cska-v-evropa-v-napregnat-mach-s-obrat-i-cherven-karton-news_2653563.html",
-      "pubDate": "2026-10-22T18:41:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/a1e9b6525f2cd32d4408133a70529629_2653563_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-22/trump-and-crypto-firm-sued-for-profiting-from-foreign-government",
-      "pubDate": "2026-10-22T18:40:13.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "След като НСО преби Соня Колтуклиева: Андрей Гюров поиска оставка на началника им",
-      "link": "https://www.actualno.com/politics/sled-kato-nso-prebi-sonja-koltuklieva-andrej-gurov-poiska-ostavka-na-nachalnika-im-news_2653562.html",
-      "pubDate": "2026-10-22T18:40:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/81916a908248cd196442629a20cf5e67_2653562_1920x1080.jpg"
       },
       "source": {
         "name": "Actualno",
@@ -71,47 +211,24 @@
       }
     },
     {
-      "title": "Bloomberg Tech: Meta Boosts AI Spending (Podcast)",
-      "link": "https://www.bloomberg.com/news/audio/2026-10-22/bloomberg-tech-meta-boosts-ai-spending-podcast",
-      "pubDate": "2026-10-22T18:37:11.000Z",
+      "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "pubDate": "2026-10-22T18:36:19.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
     {
-      "title": "Russia Looking to Escalate War, Not End it, Romanian Leader Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-22/russia-looking-to-escalate-war-romanian-leader-says-video",
-      "pubDate": "2026-10-22T18:35:01.000Z",
+      "title": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzN0dTBZMTZadGROV3h5d2NiTjRQUXoxTHdVOGJ3OE5sR2g0Z1lYYV9nWDZPUlk0d241ZDJuMlVxbXk0bDUyR0ZVQklaT18yVHFicnYwNlZrdmVsMkQ0YkNXOUhqajlPN2c4QnFmOGhXQ1VMc25rZ28wT0xmTGlVZ0FYQTh3dWt0cWFZeTRhaTJLTVhreXB2TU5aRDMwT2pFbUhZMEkwbHp4VU1WdDlTUWJWRFpxd2hDaHQ2RA?oc=5",
+      "pubDate": "2026-10-22T18:33:44.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Илияна Йотова осъди действията на НСО срещу Соня Колтуклиева - тя е в болница",
-      "link": "https://www.actualno.com/politics/ilijana-jotova-osydi-dejstvijata-na-nso-sreshtu-sonja-koltuklieva-tja-e-v-bolnica-news_2653557.html",
-      "pubDate": "2026-10-22T18:34:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/d75a53ac328b18a6306a91f32666886a_2653557_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Blackstone's Schwarzman Discovered the AI Revolution by Accident",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-22/digi-stephen-schwarzman-on-blackstone-ai-buildout",
-      "pubDate": "2026-10-22T18:30:32.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -125,6 +242,17 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
+      }
+    },
+    {
+      "title": "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FDN3RkbzZGdXBNaHpWZHZRd2h5dUVnSzlYQlNDU3dCN0RsUUhqblZXcjVzLUJzNTJtZjJGRjNRY0NwejZyc0Y4MG84cUxaUTNjc0djN3gwa3ZYaGN6d20yWkFmS09sUW94TGo3WGpTTGNLQW9YejI3Y3hMbDJjbXA4dEd5dGphRzlNdkF6T0ZMMjRycm1CWUxRLWd6QUUyYmtYcHRKY21KSzl1bmRJZmNBS0trMVgzcVJnVkQxTURqR1FuRzJjeFJ2ZEx3ak9FTDRBX2NlbzlPWVg4SW93?oc=5",
+      "pubDate": "2026-10-22T18:27:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
       }
     },
     {
@@ -143,17 +271,6 @@
       "title": "Ecuadorean opposition leader Gonzalez arrested over alleged irregularities in campaign financing",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekc5RFQwV1A4eXplNlFEc0R2YTBXdzVZd0d5T0hqRzI3Y3A0bnhHa0JuT2xRcEg3NTBXajdRNlBtNkZjOGVFUEJkanJsSDJZZlFpQWJHNUhDUnpJUXIwQTFtaXdsSzZqcVIwWktNM3d5YVljZllXMmRCQkpaR2dRV0tkVVQ3Szgxa1NIWDFjdkctRWhVY2w1dTZqUFRkZnp1UkxaNktGUnJXUQ?oc=5",
       "pubDate": "2026-10-22T18:22:03.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Top Democratic Virginia lawmaker charged by DOJ with running illegal cannabis operation",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0xFbHRnZ0VNY3ZGOXExUkVOWGM0TG8tanhZSjduQzkxc181cGllQWdRMngyeUF3SGJrWkMxd0lFOW5sTTBxVngzeTFRR1ktY0lvQmpEakxKaTZvYmJ6Q1pvVGpWUUR3bHpCS0g2bGIwRHRrbmo5MnY0bGZFWEluTnhmYzQ0NTlvMERBd0FhN0ZQeG5Qc0MxV1ExbV9BQVJ2TmN1OVN1dldDNlNwM1lyQ1d6T1o1cjlfM1V1dFJWTUFWdzd3SzhNd3Vn?oc=5",
-      "pubDate": "2026-10-22T18:20:37.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -195,7 +312,7 @@
       }
     },
     {
-      "title": "Инцидент с НСО и Соня Колтуклиева доведе до вълна от политически реакции и проверка в службата",
+      "title": "Инцидент с НСО и Соня Колтуклиева доведе до искане за оставка на Доцова и проверка в службата",
       "link": "https://www.dnevnik.bg/bulgaria/2026/10/22/4969953_sonia_koltuklieva_postrada_izbluskata_ot_slujitel_na/?ref=rss",
       "pubDate": "2026-10-22T18:12:00.000Z",
       "thumbnail": {
@@ -214,18 +331,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Грозни сцени: Служител на НСО блъсна Соня Колтуклиева, журналистката е в болница (ВИДЕО)",
-      "link": "https://www.actualno.com/politics/grozni-sceni-slujitel-na-nso-blysna-sonja-koltuklieva-jurnalistkata-e-v-bolnica-video-news_2653553.html",
-      "pubDate": "2026-10-22T18:08:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/2ec00e3e764d8a93e0ae28b1034fd929_2653553_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
       }
     },
     {
@@ -251,17 +356,6 @@
       }
     },
     {
-      "title": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
-      "pubDate": "2026-10-22T17:53:29.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Франция съобщи за починал след заразяване с вирус по добитъка",
       "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
       "pubDate": "2026-10-22T17:53:00.000Z",
@@ -274,17 +368,6 @@
       }
     },
     {
-      "title": "EXCLUSIVE: Rhode Island sues Meta over alleged tolerance for scam advertising",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNSb1JoQzhZT0lZU3FBLVo2VW1wczU2ZkdCV2kxMnNhSkVueFpYbnJkaTROaEduMkd0aEd3RkFTdHJReTFwSkpqTWdxM0taeUFOdUxaQ0RkZFppNHFjNnpwZU1JWXVSVGJLX2MxZUQ4LWZvaXVyUTlnUTRHS1N2RUh5UjNZd3dNT0hNc0tIbVV1MGtRaE1RS1lRY0xqM3diblM3ZXYtWQ?oc=5",
-      "pubDate": "2026-10-22T17:50:25.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Тръмп ще дава показания по делото за клевета срещу BBC",
       "link": "https://frognews.bg/novini/tramp-shte-dava-pokazaniia-deloto-kleveta-sreshtu-bbc.html",
       "pubDate": "2026-10-22T17:49:00.000Z",
@@ -294,17 +377,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "France reports first human case of livestock virus Shamonda after patient dies",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
-      "pubDate": "2026-10-22T17:36:31.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -332,18 +404,6 @@
       }
     },
     {
-      "title": "Деца с пушки, български корен, а Гюров за нищо не става: Йотова закри кампанията си",
-      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/22/4969939_deca_s_pushki_bulgarski_koren_a_gjurov_za_nishto_ne/?ref=rss",
-      "pubDate": "2026-10-22T17:21:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4969943.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Пореден протест на студентите от НАТФИЗ",
       "link": "https://frognews.bg/novini/poreden-protest-studentite-natfiz.html",
       "pubDate": "2026-10-22T17:14:00.000Z",
@@ -363,18 +423,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Повдигнаха обвинения срещу кметовете на Белица и Сунгурларе",
-      "link": "https://offnews.bg/temida/povdignaha-obvinenia-sreshtu-kmetovete-na-belitca-i-sungurlare-877000.html",
-      "pubDate": "2026-10-22T17:11:27.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/10/22/877000/phpwqeefc_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
       }
     },
     {
@@ -446,28 +494,6 @@
       }
     },
     {
-      "title": "Бизнесът подкрепя 660 евро минимална заплата и е против допълнително данъчно облагане",
-      "link": "https://www.dnevnik.bg/biznes/2026/10/22/4969888_biznesut_podkrepia_660_evro_minimalna_zaplata_i_e/?ref=rss",
-      "pubDate": "2026-10-22T16:20:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4969934.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Пентагонът повреди историческия глобус на Айзенхауер, докато беше преместен в офиса на Хегсет",
-      "link": "https://frognews.bg/novini/pentagonat-povredi-istoricheskiia-globus-aizenhauer-dokato-beshe-premesten-ofisa-hegset.html",
-      "pubDate": "2026-10-22T16:20:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
       "title": "Are the French police the most violent in the EU?",
       "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-22T16:01:00.000Z",
@@ -486,30 +512,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Радан Кънев към Радев: Думата не е \"невежество\", а \"изолация\"",
-      "link": "https://boulevardbulgaria.bg/articles/radan-kanev-kam-radev-dumata-ne-e-nevezhestvo-a-izolatsiya-",
-      "pubDate": "2026-10-22T15:22:23.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkyNjYsInB1ciI6ImJsb2JfaWQifX0=--6b0e7eedbf76729e82deb67eacd1976f3899cc76/%D1%80%D0%B0%D0%B4%D0%B0%D0%BD_%D0%BA%D1%8A%D0%BD%D0%B5%D0%B2_.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Румен Радев се скара на Европарламента - видя \"невежество\" и \"манипулация\"",
-      "link": "https://boulevardbulgaria.bg/articles/rumen-radev-se-skara-na-evroparlamenta-vidya-nevezhestvo-i-manipulatsiya",
-      "pubDate": "2026-10-22T14:17:34.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5Nzk4LCJwdXIiOiJibG9iX2lkIn19--2f14ccea2a2b2c2337563011f82b7ac65f060ef6/%D0%A0%D1%83%D0%BC%D0%B5%D0%BD%20%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2%202.JPG"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
       }
     },
     {
@@ -604,5 +606,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-22T18:48:17.317Z"
+  "lastUpdated": "2026-10-22T19:10:12.832Z"
 }

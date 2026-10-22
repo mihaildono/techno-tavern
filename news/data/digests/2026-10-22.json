@@ -1,90 +1,94 @@
 {
-  "updatedAt": "2026-10-22T18:49:19.411Z",
-  "overview": "Днес Европейският парламент изрази критика към премъра Радев за реакцията на кризата, Франция зашири ограниченията на протестите след първия случай на вирусът Shamonda, а студентите от НАТФИЗ продължават протестите.",
+  "updatedAt": "2026-10-22T19:11:40.511Z",
+  "overview": "Технико Таверн отчетва историческо първо равенство на ЦСКА в Европа, продължаващите протести в НАТФИЗ и ескалацията на случая с Соня Колтуклиева, докато по света има нови случаи на вируси и продължава Валейнтийският кризис.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "ЕП критикува Радев за слабата реакция към Русия",
-      "summary": "Европейският парламент изрази критика към правителството на Радев за слабата реакция на кризата и обвинства българските европарламенти в манипулация.",
+      "category": "Спорт",
+      "headline": "ЦСКА постигна първо равенство в Европа",
+      "summary": "ЦСКА стана първата българска отборна колежка, която постигна равенство в Европейската лига, като спечели пред Нордселанд в Дания и стигна до равенство 2:2 след драматичен мач.",
       "ids": [
-        48,
-        50
+        1,
+        2,
+        10,
+        16
       ],
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHdjWTNoQzA4dlI5U25YMktTeTFQRHZxemxZM3dtVEgwd1pLZ0hZamxkMXZDcVlUeXNvMUFPZ080SDBPRXowZEJZeGduYkJlbW01d2RyRVRYVWk4bE5kT09fTmVsRTdNdkxXWGFmVmt4bWRzOUplSlRHTENLeDJRVExNT3cwUFVha3FLNXNKN0plMEhHVEYwbGxnTTdUWnZpd0h6ZlBpWXJ5Z0E4S3RDNHVLWXF3aDZjeHd2YmQ2Qno5bUs1Nm4zektmSDMtbm02ZHY5VVZ5WlJpWEUtODhFd2tyWXY4OWktRVE?oc=5",
+      "link": "https://www.dnevnik.bg/sport/2026/10/22/4969966_cska_postigna_purvo_ravenstvo_v_evropa/?ref=rss",
       "sources": [
-        "Boulevard Bulgaria",
-        "Свободна точка"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Франция зашири ограниченията на протестите",
-      "summary": "Франция зашири ограниченията на протестите след като изследва възможния първи случай на вирусът Shamonda, свързан със смъртта на пациент.",
-      "ids": [
-        9,
-        17,
-        31,
-        37
-      ],
-      "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
-      "sources": [
-        "Actualno",
-        "Bloomberg",
-        "FrogNews",
-        "Reuters",
-        "Dnevnik"
-      ]
-    },
-    {
-      "category": "Общество",
-      "headline": "НАТФИЗ: Пореден протест на студентите",
-      "summary": "Студентите от НАТФИЗ продължават протестите и изискват оставката на ректора и министър на образованието.",
-      "ids": [
-        24,
-        29,
-        45
-      ],
-      "link": "https://frognews.bg/novini/poreden-protest-studentite-natfiz.html",
-      "sources": [
-        "Mediapool",
         "Dnevnik",
+        "Actualno",
         "Boulevard Bulgaria",
         "FrogNews"
       ]
     },
     {
       "category": "Политика",
-      "headline": "Тръмп обвини Иран в опит за надуване на цената на петрола",
-      "summary": "Тръмп обвинява Иран в опит за надуване на цената на петрола преди междинните избори в САШ, след което Иран е почти без петрол за продажба.",
+      "headline": "Trump поиска от Musk да повиши ограниченията на Starlink за Украйна",
+      "summary": "Президентът Тръмп лично поискал от Илън Мъск да повиши ограниченията на Starlink за Вооружените сили на Украйна, което води до възстановяване на достъпа на ВСУ до глобалната мрежа.",
       "ids": [
-        25,
-        49,
-        52
+        3,
+        12,
+        18
       ],
-      "link": "https://www.mediapool.bg/svyat/tramp-obvini-iran-v-opit-za-nadue-tsenata-na-petrola-predi-mezhdinnite-izbori-v-sasht/",
+      "link": "https://offnews.bg/sviat/dostapat-na-vsu-do-starlink-e-vazstanoven-tramp-lichno-go-poiskal-ot-877008.html",
       "sources": [
         "Bloomberg",
+        "Dnevnik",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Общество",
+      "headline": "НСО отчете инцидент с журналиста Соня Колтуклиева",
+      "summary": "Националната служба за разузнаване отчете инцидент, при който екс-журналистът Соня Колтуклиева била повалена и интивирана от някой от служителите на НСО, събуждайки публични протести и разпити.",
+      "ids": [
+        5,
+        7,
+        11,
+        13,
+        17,
+        27,
+        28,
+        29,
+        31
+      ],
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/22/4969953_sonia_koltuklieva_postrada_izbluskata_ot_slujitel_na/?ref=rss",
+      "sources": [
+        "Actualno",
+        "Boulevard Bulgaria",
         "OffNews",
         "Dnevnik",
         "Mediapool"
       ]
     },
     {
-      "category": "Икономика",
-      "headline": "AI агентите създават заплахи за банковските депозити",
-      "summary": "Bloomberg отбелязва, че съвременните AI агенти създават по-голяма заплаха за банковските депозити от стабилните криптовалюти.",
+      "category": "Свят",
+      "headline": "Франция зашири ограниченията на протестите след първи случай на вирус Шамонда",
+      "summary": "Франция зашири ограниченията на протестите след смъртта на първи човек от Европа, инфициран с животинския вирус Шамонда, докато изследователски екипи подчертават сериозността на започналата глобална тревога.",
       "ids": [
-        3,
-        14,
-        15,
-        16
+        8,
+        22,
+        32,
+        33
       ],
-      "link": "https://www.actualno.com/football/godoj-donese-pyrva-tochka-na-cska-v-evropa-v-napregnat-mach-s-obrat-i-cherven-karton-news_2653563.html",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
       "sources": [
-        "Actualno",
         "Reuters",
-        "DW",
-        "OffNews"
+        "Dnevnik",
+        "FrogNews"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Wall Street падна с 2% заради притеснения за разходите за изкуствен интелект",
+      "summary": "Волните от NASDAQ паднаха с над 2% заради инвестваторски притеснения, че разходите на компаниите за изкуствения интелект могат да намалят печалбите, което поражда общ негативен настрой на пазара.",
+      "ids": [
+        19,
+        4
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "sources": [
+        "Bloomberg",
+        "Reuters"
       ]
     }
   ]
