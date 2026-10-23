@@ -1,101 +1,53 @@
 {
-  "updatedAt": "2026-10-23T18:20:50.020Z",
-  "overview": "Денят е доминиран от скандала около НСО и Соня Колтуклиева, който води до оставката на ген. Емил Тонев и иск за по-лека присъда. В същото време Русия и Украйна продължават ескалацията си – дронове атакуват московски аеродроми, а Тръмп обещава подкрепа за Kiev. Световното внимание е насочено и към разширяването на саудитската ракетна програма и рухването на сграда в Нairobi.",
+  "updatedAt": "2026-10-23T19:18:19.930Z",
+  "overview": "Продължава ескалацията между Русия и Украйна с новости от Черно море, политически скандал с НSO предизвиква оставки, спорт и мениджмънт на икономически сделки.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Прокурор от НСО, обвинен в казуса със Соня Колтуклиева, иска по-лека присъда",
-      "summary": "Прокурор, обвинен в казуса със Соня Колтуклиева от НСО, иска по-лека присъда, смятайки, че е изпълнил задълженията си. Шефът на НСО ген. Емил Тонев подаде оставката си след скандала, а Йотова поиска и получи оставката. Военната прокуратура иска постоянен арест за гарда от НСО, който изблъска Колтуклиева.",
-      "ids": [
-        1,
-        8,
-        15,
-        21,
-        23,
-        27,
-        30,
-        31,
-        37,
-        39,
-        40,
-        48
-      ],
-      "link": "https://offnews.bg/temida/voennata-prokuratura-iska-postoianen-arest-za-garda-ot-nso-kojto-izbl-877086.html",
-      "sources": [
-        "Actualno",
-        "Reuters",
-        "OffNews",
-        "Dnevnik",
-        "FrogNews",
-        "Mediapool",
-        "Boulevard Bulgaria",
-        "Свободна точка"
-      ]
-    },
-    {
       "category": "Свят",
-      "headline": "Украйна атакува московски аеродроми с дронове, Тръмп обещава подкрепа за Kiev",
-      "summary": "Дронове парализираха летищата в Москва, включително Шереметиево, докато Украйна извършва пет удара по ключови центрове за данни в Русия. Тръмп обеща да помогне на Киев за проблемите със Starlink. Абу Даби е избран за преговорите между Русия и Украйна, а първият танкер по дизеловата сделка на Путин и Тръмп е на път.",
+      "headline": "Ескалация в Черноморието със закриването на Русия и Украйна",
+      "summary": "Тръмп обеща помощ за проблемите със Starlink; Мелания Тръмп посредничи за прекратяване на огъня. Сторонита се споразумяха за прекратяване на огъня в дена на продължаващата продоволска криза.",
       "ids": [
-        11,
-        20,
-        24,
         25,
-        28,
         29,
-        43,
-        44,
-        49
+        31,
+        57,
+        71,
+        72
       ],
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/23/4970713_abu_dabi_e_izbran_za_pregovorite_mejdu_rusiia_i_ukraina/?ref=rss",
+      "link": "https://frognews.bg/novini/tramp-obeshta-pomogne-kiev-problemite-sas-starlink.html",
       "sources": [
-        "FrogNews",
         "Reuters",
-        "Dnevnik",
-        "Boulevard Bulgaria",
-        "OffNews",
-        "Mediapool",
-        "Свободна точка"
+        "DW",
+        "FrogNews"
       ]
     },
     {
-      "category": "Общество",
-      "headline": "Сграда рухва в Nairobi, има заседнали под отломките",
-      "summary": "Сграда рухва в китописната столица на Кения, на мястото са изпратени спасители. Много хора се feared trapped under the collapsed building. Случката предизвиква притеснение за безопасността на сградите в града.",
+      "category": "Икономика",
+      "headline": "Изпълнение на сделки в многостранните отношения",
+      "summary": "Тръмп заяви, че Канада работи усилено за сключване на сделка със САЩ. Говори се и за преговори с участието на Абу Даби. Обстановката се наглася с инцидентите в Черно море.",
       "ids": [
-        7,
-        46
+        22,
+        33,
+        43
       ],
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/-zombie-loan-investors-settle-ny-charges-of-alleged-unlawful-collections",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/florida-retiree-mega-complex-s-muni-bond-deal-sees-strong-demand",
       "sources": [
         "Bloomberg",
-        "DW"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Саудитска ракетна фабрика може да произведе по-мощни ракети, посочва проучване",
-      "summary": "EXCLUSIVE: Разширяването на саудитска ракетна фабрика може да произведе по-мощни ракети, посочва проучване. Развитието повишава военния потенциал на Саудитска Арабия и поражда безпокойство за регионалната сигурност.",
-      "ids": [
-        17
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
-      "sources": [
         "Reuters"
       ]
     },
     {
       "category": "Технологии",
-      "headline": "Apple представя първия си гъвкав телефон, но приложенията остават несигурни",
-      "summary": "Apple представя най-вълнуващия си телефон от годините със зашемурен гъвкав екран, но потребителите се сблъскват с несигурност в приложенията. Прегледът на iPhone Duo показва вълнуващ дизайнерски потенциал, но uneven apps компрометират изживяването.",
+      "headline": "Технологични новости и ИИ повлиява политически процеси",
+      "summary": "Google предостави дарение от 1 милион долара за INSAIT в София. AI попадна в центъра на предизборната кампания в Испания. Технологиите продължават да изявяват все по-сериозно влияние върху политиката и бизнеса.",
       "ids": [
-        9,
-        10
+        51,
+        76
       ],
-      "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-top-1022-rdf",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTBFdXFJcVU5cUdlcTAtaWQ4V19WM1ZybTdhQXJ3RGc2bmVtYnBCY1lNYjZla0VORGJfeDRUbXJEcmd0dVIxaE5vcFNoNVI3OFhrTTUxaEFuNFZsYTU4QUhLdExXNWU5VmJfMjJZNDJ5Q1hIbTVJNll1Z3huakc3TnlVQ0E4clFYUlFJTXBSaHpubVUtWTV6cVlMSEYzT1gwRzdDejBR?oc=5",
       "sources": [
-        "DW",
-        "Reuters"
+        "FrogNews",
+        "Свободна точка"
       ]
     }
   ]
