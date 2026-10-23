@@ -1,9 +1,555 @@
 {
   "windowStart": "2026-10-22T19:11:43.568Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-23T09:00:39.169Z",
-  "totalItems": 181,
+  "lastUpdated": "2026-10-23T12:00:56.194Z",
+  "totalItems": 225,
   "items": [
+    {
+      "title": "Votes and Verdicts: US Elections, Uber Assault Cases, SALT Cap",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-23/votes-and-verdicts-us-elections-uber-assault-cases-salt-cap",
+      "pubDate": "2026-10-23T12:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Цитат на деня: България не е казарма",
+      "link": "https://www.dnevnik.bg/citat_na_deniia/2026/10/23/4970294_citat_na_denia_bulgariia_ne_e_kazarma/?ref=rss",
+      "pubDate": "2026-10-23T11:59:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970295.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Военните ще могат да реагират срещу дронове без разрешение от министъра",
+      "link": "https://frognews.bg/novini/voennite-shte-mogat-reagirat-sreshtu-dronove-bez-razreshenie-ministara.html",
+      "pubDate": "2026-10-23T11:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4295d4ad0_armiq_bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Изясняват се идеите за мир в новия план на Тръмп, готви се и \"нова Ялта\" - решения за Украйна без Украйна (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/izjasnjavat-se-ideite-za-mir-v-novija-plan-na-trymp-gotvi-se-i-nova-jalta-reshenija-za-ukrajna-bez-ukrajna-video-news_2653817.html",
+      "pubDate": "2026-10-23T11:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/7cdc8c7a3ac9b8d17a228d12b5dfeece_2653817_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Retail Traders Find a Back Door to 24/7 Oil Trading",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/retail-traders-find-a-back-door-to-24-7-oil-trading",
+      "pubDate": "2026-10-23T11:52:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Dudley Sees Fed Likely to Hold With a Hike Coming in December",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/dudley-sees-fed-likely-to-hold-with-a-hike-in-december-video",
+      "pubDate": "2026-10-23T11:52:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Laura Cooper on AI Jitters, Oil and the Fed",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/laura-cooper-on-ai-jitters-oil-and-the-fed-video",
+      "pubDate": "2026-10-23T11:50:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "САЩ подновяват натиска ЕС да смекчи правилата за технологичните гиганти",
+      "link": "https://frognews.bg/novini/sasht-podnoviavat-natiska-smekchi-pravilata-tehnologichnite-giganti.html",
+      "pubDate": "2026-10-23T11:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f9375a47b_1792756065_6adb496197292.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "За първи път от 2022 г. танкер с руски дизел пътува към САЩ",
+      "link": "https://frognews.bg/novini/parvi-pat-2022-tanker-ruski-dizel-patuva-kam-sasht.html",
+      "pubDate": "2026-10-23T11:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9eed2a954_trump-putin0bgnes2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Искали да покажат бурното море: ТВ екип в Испания беше отнесен от огромна вълна на живо в ефир (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/iskali-da-pokajat-burnoto-more-tv-ekip-v-ispanija-beshe-otnesen-ot-ogromna-vylna-na-jivo-v-efir-video-news_2653815.html",
+      "pubDate": "2026-10-23T11:49:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/e29bb7712ab4a75569add15039798aff_2653815_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "ДПС: Държавата е на автопилот, моделът ''Радев-Копринков'' преяжда с власт.",
+      "link": "https://offnews.bg/politika/dps-darzhavata-e-na-avtopilot-modelat-radev-koprinkov-preiazhda-877070.html",
+      "pubDate": "2026-10-23T11:46:41.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877070/phpsj3mvf_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Български експерт е удостоен с отличието \"Джером Ледерер\" за авиационна безопасност",
+      "link": "https://frognews.bg/novini/balgarski-ekspert-udostoen-otlichieto-djerom-lederer-aviatsionna-bezopasnost.html",
+      "pubDate": "2026-10-23T11:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/13721a6e9_1792755910_6adb48c644912.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Independent Senate Candidates Gain Ground in Republican Strongholds",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/independent-senate-candidates-gain-ground-in-republican-strongholds",
+      "pubDate": "2026-10-23T11:45:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T11:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Съдът в Кюстендил потвърди глоби за почти 300 хил. евро на ТЕЦ \"Бобов дол\"",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/23/4970290_sudut_v_kjustendil_potvurdi_globi_za_pochti_300_hil/?ref=rss",
+      "pubDate": "2026-10-23T11:41:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970288.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Започна строителството на Терминал 3, Терзиев иска да е \"място на връщане\"",
+      "link": "https://www.actualno.com/sofia/zapochna-stroitelstvoto-na-terminal-3-terziev-iska-da-e-mjasto-na-vryshtane-news_2653814.html",
+      "pubDate": "2026-10-23T11:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/4a1bbd2a89ace711c82f4c6ad0fe1db5_2653814_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Тука има, тука нема: \"Лицето с имунитет\" изчезна от делото срещу Благомир Коцев",
+      "link": "https://www.mediapool.bg/bulgaria/tuka-ima-tuka-nema-litseto-s-imunitet-izchezna-ot-deloto-sreshtu-blagomir-kotsev/",
+      "pubDate": "2026-10-23T11:38:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "\"Православният олигарх\" Малофеев призова Путин да хвърли ядрена бомба върху Украйна",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/pravoslavniyat-oligarh-malofeev-prizova-putin-da-hvarli-yadrena-bomba-varhu-ukraina/",
+      "pubDate": "2026-10-23T11:37:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "ТЕЦ „Бобов дол“ със санкции за 286 хил. евро заради вредни емисии",
+      "link": "https://frognews.bg/novini/tets-bobov-dol-sas-sanktsii-286-hil-evro-zaradi-vredni-emisii.html",
+      "pubDate": "2026-10-23T11:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5acfe6c6f_tecbobovdol_bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Схема с поръчки и \"комисиони\" и строителна фирма: какво свързва задържаните кметове от ДПС",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/23/4969819_shema_s_poruchki_i_komisioni_i_stroitelna_firma_kakvo/?ref=rss",
+      "pubDate": "2026-10-23T11:33:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970214.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Пак без Европа: Кремъл се съгласи за тристранна среща в ОАЕ за Украйна",
+      "link": "https://www.actualno.com/europe/pak-bez-evropa-kremyl-se-syglasi-za-tristranna-sreshta-v-oae-za-ukrajna-news_2653811.html",
+      "pubDate": "2026-10-23T11:33:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/1e43430da7caa92dd2894a0c9fbb100b_2653811_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "D2 превърнаха София в рок експлозия: Препълнена зала, пееща публика и еуфория до последния акорд",
+      "link": "https://www.actualno.com/music/d2-prevyrnaha-sofija-v-rok-eksplozija-prepylnena-zala-peeshta-publika-i-euforija-do-poslednija-akord-news_2653807.html",
+      "pubDate": "2026-10-23T11:31:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/30e04f843534faa3154da529756a8daf_2653807_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Строежът на Терминал 3 на софийското летище започна с местене на подземна инфраструктура",
+      "link": "https://www.mediapool.bg/biznes/stroezhat-na-terminal-3-na-sofiyskoto-letishte-zapochna-s-mestene-na-podzemna-infrastruktura/",
+      "pubDate": "2026-10-23T11:28:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Прокуратурата призна, че няма депутат по делото срещу Благомир Коцев",
+      "link": "https://offnews.bg/temida/prokuraturata-prizna-che-niama-deputat-po-deloto-sreshtu-blagomir-kot-877061.html",
+      "pubDate": "2026-10-23T11:27:09.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877061/phpnleoi1_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Heineken предупреди баровете да се готвят за ефекта \"Ozempic\": По-малки бири и по-нисък градус",
+      "link": "https://boulevardbulgaria.bg/articles/heineken-predupredi-barovete-da-se-gotvyat-za-efekta-ozempic-po-malki-kolichestva-i-nisak-gradus",
+      "pubDate": "2026-10-23T11:26:15.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwMjk0LCJwdXIiOiJibG9iX2lkIn19--8e1440af27f53011a6411d8062bb37668071a855/british%20pub%203942.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
+      "pubDate": "2026-10-23T11:23:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "ДСБ обяви подкрепа за свалянето на Доцова",
+      "link": "https://www.dnevnik.bg/politika/2026/10/23/4970272_dsb_obiavi_podkrepa_za_svalianeto_na_docova/?ref=rss",
+      "pubDate": "2026-10-23T11:22:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970270.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "French police are investigating a possible terror-related shooting near Paris that left one dead",
+      "link": "https://www.dw.com/en/french-police-are-investigating-a-possible-terror-related-shooting-near-paris-that-left-one-dead/a-79742256?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T11:22:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "ПБ: Исканията за оставка на Доцова са неадекватни, показват възкръсване на \"сглобката\"",
+      "link": "https://www.mediapool.bg/bulgaria/pb-iskaniyata-za-ostavka-na-dotsova-sa-neadekvatni-pokazvat-vazkrasvane-na-sglobkata/",
+      "pubDate": "2026-10-23T11:19:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Какво е ценно за българите днес: нещата, които не можем да измерим с пари",
+      "link": "https://boulevardbulgaria.bg/articles/kakvo-e-tsenno-za-balgarite-dnes-neshtata-koito-ne-mozhem-da-izmerim-s-pari",
+      "pubDate": "2026-10-23T11:14:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwMTQ2LCJwdXIiOiJibG9iX2lkIn19--2ac475ae7153f4e5f56389cef18920a64c0cbbda/UBB_MIlenium_Center.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Тръмп заяви, че Мъск е възстановил достъпа на Украйна до военната версия на Starlink",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/tramp-zayavi-che-mask-e-vazstanovil-dostapa-na-ukraina-do-voennata-versiya-na-starlink/",
+      "pubDate": "2026-10-23T11:13:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Прогресивна депутатка за Колтуклиева: Режисиран сценарий, как смее да говори на Доцова на ''ти''",
+      "link": "https://offnews.bg/politika/progresivna-deputatka-za-koltuklieva-rezhisiran-stcenarij-kak-smee-d-877058.html",
+      "pubDate": "2026-10-23T11:12:24.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877058/phpisyhte_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Общественото напрежение в страната остава високо преди президентските избори",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/23/4970267_obshtestvenoto_naprejenie_v_stranata_ostava_visoko/?ref=rss",
+      "pubDate": "2026-10-23T11:06:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970266.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "AI trade meets the Fed",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+      "pubDate": "2026-10-23T11:05:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Austria expels four Russian diplomats on security grounds",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRF9zZXA5Y1FLTjVSUEJXNmhGWXJJSHpWbnJoeWl0RS1JWEhBelJCVF9hamtaenZQTDVfTThqNzRyanhrUUNiZGMwUld2ZnBMeU5BTWxLa3BiWWNXTlBXY05uYUpsWWptbVdiajdKbTN1NGFoZFE2QTEtaU5FOU1IaFhrQjgwQTI2YmIxN05NM0VJb0xFc2wyME5fN0hTU1psNEhiWUFnQkVqWjg0N2c?oc=5",
+      "pubDate": "2026-10-23T11:00:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Доц. Венцислав Каравълчев: Църквата не се води по уличния натиск",
+      "link": "https://offnews.bg/interviu/dotc-ventcislav-karavalchev-tcarkvata-ne-se-vodi-po-ulichnia-natisk-876996.html",
+      "pubDate": "2026-10-23T11:00:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/22/876996/phpn11mvc_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Един убит и поне четирима ранени при стрелба в парижко предградие",
+      "link": "https://offnews.bg/sviat/edin-ubit-i-pone-chetirima-raneni-pri-strelba-v-parizhko-predgradie-877052.html",
+      "pubDate": "2026-10-23T10:56:06.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877052/php3ie1on_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Airbnb въвежда нови правила - край на миенето на чинии от гостите. Какво още се променя?",
+      "link": "https://boulevardbulgaria.bg/articles/airbnb-vavezhda-novi-pravila-kray-na-mieneto-na-chinii-ot-gostite-kakvo-oshte-se-promenya",
+      "pubDate": "2026-10-23T10:43:37.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwMjg4LCJwdXIiOiJibG9iX2lkIn19--9f606ad64747f88d614aefd7b48a5d37c5e5320b/airbnb.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Разследват бащата на Меган Маркъл за притежание на детска порнография",
+      "link": "https://boulevardbulgaria.bg/articles/razsledvat-bashtata-na-megan-markal-za-pritezhanie-na-detska-pornografiya",
+      "pubDate": "2026-10-23T10:15:57.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwMjcwLCJwdXIiOiJibG9iX2lkIn19--dbbe76e676669b296214b15ef20c3294c294f337/Thomas%20Markle%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Партията на Радев видя \"сглобката\" и зад възмущенето от сблъсъка на НСО с Колтуклиева",
+      "link": "https://boulevardbulgaria.bg/articles/partiyata-na-radev-vidya-sglobkata-i-zad-vazmushteneto-ot-sblasaka-na-nso-s-koltuklieva",
+      "pubDate": "2026-10-23T10:10:27.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk3ODMsInB1ciI6ImJsb2JfaWQifX0=--817b8fe77500c5a8103ef63fb6a48579f17c1933/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D0%B2%D0%BD%D0%B0_%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BF%D0%B5%D1%82%D1%8A%D1%80_%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2_%D0%B0%D0%BD%D1%82%D0%BE%D0%BD_%D0%BA%D1%83%D1%82%D0%B5%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Нова атака в Черно море. Търговски кораб е ударен край румънския град Констанца",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW1xdWtPQnkzRDA0SEpuZmhkT0FJSTdWN25kV0UwZjVxWlhtTnBzcGwxY1E4dzlkUDNDUjM2cURWRS13R2RLcFFOQjFtRWV6TzdpY2hheVE0ckZhTzF3SGU0NVVGS3lfNXpfR1U1Z0pGS0RrWkE2RU1KZ19oSE5MeVlfd212NEFCMm5qMmZQXy1PVXdQSnRnY1J1eG1FdWJIUDZobEtjS2xZX1cwRVc2bUx4RTNaZw?oc=5",
+      "pubDate": "2026-10-23T10:00:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Началникът на НСО е готов да подаде оставка, след като Йотова каза, че ще му я поиска заради случая с Колтуклиева",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaS1Fd2MwaVNoSVNtZkI1VDdkVXRBVmhTWDEwNElMU1lrdU1DbGE5ZEFXTTZMZlhfcmdrU3hMdVluYjhzUDI4NFFwMHZhbUw0X01IdFB2OW1jaFhNM1JzckdNeGZxUE83aGhqRXFLVHdnSzBKMFdBQUdrQVVkeVl0bFNwdWMxZzItY1E0Uzd6eFA4NHQ3b3VpUjZBUjBvTjJqVXVNb0VaeG9uUWhMcmdWU09mNEZWc05lX0tzNmpub0NYR1hkRUlFc2xOLS1kV0lpZUJiWVBGZnlOX095bjkzemJkSVd5ams?oc=5",
+      "pubDate": "2026-10-23T09:35:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T09:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
+    {
+      "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+      "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T09:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T12:00:56.194Z"
+    },
     {
       "title": "Фотогалерия: Огромен митинг в Белград под лозунга \"Сърбия или мафията\"",
       "link": "https://www.dnevnik.bg/photos/2026/10/23/4970043_fotogaleriia_ogromen_miting_v_belgrad_pod_lozunga/?ref=rss",
