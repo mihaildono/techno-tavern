@@ -1,81 +1,11 @@
 {
-  "updatedAt": "2026-10-23T16:32:23.566Z",
-  "overview": "Днес се води ключовата реч за примирие между Россия и Украина, а в България се реагира на случая с Колтуклиева и води се още нещо по върху президентските избори, докато света следва нови събития по Запад и пафос на френските протести.",
+  "updatedAt": "2026-10-23T17:16:15.807Z",
+  "overview": "В Болгария продължава политическата криза около НСО, с оставка на шефа Емил Тонев. Едновременно продължават международните миротворни усилия между Русия и Украина с посредничеството на Тръмп, докато в страната продължи президентската изборна кампания и съзнателното намиране на нов избирателен лидер.",
   "stories": [
     {
       "category": "Политика",
-      "headline": "Шефът на НСО Емил Тонев е депозирал оставката си",
-      "summary": "Националната служба за раззунаване на Емил Тонев е депозирал оставката си, след инцидента с изблъскване на журналистката Соня Колтуклиева, което привлика обществено безпокойство.",
-      "ids": [
-        40,
-        46,
-        49,
-        58,
-        59,
-        63,
-        69,
-        81,
-        86,
-        96,
-        111,
-        138,
-        169,
-        181,
-        186,
-        193,
-        204,
-        215,
-        225,
-        236,
-        268,
-        270,
-        313,
-        316,
-        318,
-        320,
-        323,
-        332,
-        333,
-        335,
-        340,
-        347
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaS1Fd2MwaVNoSVNtZkI1VDdkVXRBVmhTWDEwNElMU1lrdU1DbGE5ZEFXTTZMZlhfcmdrU3hMdVluYjhzUDI4NFFwMHZhbUw0X01IdFB2OW1jaFhNM1JzckdNeGZxUE83aGhqRXFLVHdnSzBKMFdBQUdrQVVkeVl0bFNwdWMxZzItY1E0Uzd6eFA4NHQ3b3VpUjZBUjBvTjJqVXVNb0VaeG9uUWhMcmdWU09mNEZWc05lX0tzNmpub0NYR1hkRUlFc2xOLS1kV0lpZUJiWVBGZnlOX095bjkzemJkSVd5ams?oc=5",
-      "sources": [
-        "DW",
-        "Boulevard Bulgaria",
-        "Свободна точка",
-        "OffNews"
-      ]
-    },
-    {
-      "category": "Политика",
-      "headline": "Россия и Украина се сдружиха за преговори за примирие",
-      "summary": "Върховните държави се сдружиха за преговори за примирие през Олешки, споразумение което посредва Белия държавен служител Тръмп, превърнало се в ключова тема за международната политика.",
-      "ids": [
-        38,
-        52,
-        168,
-        173,
-        178,
-        189,
-        199,
-        227,
-        240,
-        280,
-        294,
-        338
-      ],
-      "link": "https://frognews.bg/novini/primirie-oleshki-evakuatsiya-melaniya-tramp-posrednik-saobshti-beliyat-dom.html",
-      "sources": [
-        "FrogNews",
-        "Dnevnik"
-      ]
-    },
-    {
-      "category": "Политика",
-      "headline": "Президентските избори: балотажът между Йотова и Гюров е сигурен",
-      "summary": "Преднината на Йотова пред Гюров се свива до под 13 пункта, измери Алфа Рисърч, а безопасен балотаж между Илияна Йотова и Андрей Гюров се очаква след вчерашната промяна в подкрепата.",
+      "headline": "Шефът на НСО ген. Емил Тонев подаде оставка",
+      "summary": "Националната служба за разузнаване на Емил Тонев депозира оставката си след инцидента с изблъскване на журналистката Соня Колтуклиева, което предизвика обществено безпокойство и паралели разследвания.",
       "ids": [
         14,
         34,
@@ -99,53 +29,71 @@
         240,
         248
       ],
-      "link": "https://www.actualno.com/moresport/stanka-zlateva-skochi-na-mecenata-grisha-ganchev-i-poiska-objasnenie-news_2653937.html",
+      "link": "https://boulevardbulgaria.bg/articles/nachalnikat-na-nso-gen-emil-tonev-podade-ostavka",
       "sources": [
         "Actualno",
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Свободна точка",
         "Dnevnik"
       ]
     },
     {
+      "category": "Политика",
+      "headline": "Русия и Украина се сдружиха за преговори за примирие в Олешки",
+      "summary": "Върховните държави се сдружиха за преговори за примирие, посредничество, което Тръмп превърна в ключова тема за международната политика, с твърдите преговори в Олешки край Херсон.",
+      "ids": [
+        12,
+        20
+      ],
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/23/4970606_melaniia_trump_e_dogovorila_primirie_za_oleshki/?ref=rss",
+      "sources": [
+        "Reuters",
+        "FrogNews",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Президентските избори: сигурен балотаж между Йотова и Гюров",
+      "summary": "Преднината на Йотова пред Гюров се свива до под 13 пункта, измери Алфа Ричърч, а безопасен балотаж между Илияна Йотова и Андрей Гюров се очаква след вчерашната промяна в подкрепата.",
+      "ids": [
+        17,
+        23,
+        26,
+        43
+      ],
+      "link": "https://offnews.bg/temida/voennata-prokuratura-iska-postoianen-arest-za-garda-ot-nso-kojto-izbl-877086.html",
+      "sources": [
+        "OffNews",
+        "Boulevard Bulgaria"
+      ]
+    },
+    {
       "category": "Икономика",
-      "headline": "Волните на Уолътс паднаха след притеснения за изкуствения интелект",
-      "summary": "Волните на Уолътс на Ню Йорк паднаха с над 2 процента поради притеснения от инвеститори, че разходите на компаниите за изкуствения интелект могат да намалят печалбите.",
+      "headline": "Технологичната компания Волътс спада след тревоги за изкуствен интелект",
+      "summary": "Теглите на Уолътс се понижават с над 2 процента поради притеснения от инвеститори, че разходите на компаниите за изкуствен интелект могат да намалят печалбите.",
       "ids": [
         6,
         67,
         81,
-        161,
-        286,
-        320,
-        319
+        161
       ],
-      "link": "https://www.actualno.com/bgfootball/sypernikyt-na-levski-se-izvini-na-fenovete-si-za-sinjata-invazija-v-chehija-news_2653945.html",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
       "sources": [
-        "Actualno"
+        "Reuters"
       ]
     },
     {
-      "category": "Свят",
-      "headline": "Франция зашири ограниченията на протестите след първи случай на вирус",
-      "summary": "Франция зашири ограниченията на протестите след първия случай на смърт от животен вирус Шамонда в Европа, докато международните екипи потърсват нови случаи.",
+      "category": "Спорт",
+      "headline": "КРК основатели купуват 42% от футболния клуб Валенсия",
+      "summary": "Клубът Валенсия обяви, че група, подкрепена от основателите на КРК, купи 42 процента от акционерния капитал на клуба срещу цената на четири милиарда евро.",
       "ids": [
-        35,
-        66,
-        80,
-        95,
-        117,
-        127,
-        133,
-        155,
-        164,
-        181,
-        184,
-        224,
-        295,
-        314
+        9
       ],
-      "link": "https://offnews.bg/obshtestvo/nachalnikat-na-nso-emil-tonev-e-depoziral-ostavkata-si-obiavi-jotova-877083.html",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1JlM3g0bW96UDhvZ0txcnB2VE5JLW5xV0c2Q0ZVTkdtbFVFY1otdi1Uc0psTW9mRnFneFlRU2VSb0l5Rjl4ckd4alA4RWZMd3QzcDZaZTE2SEFweTJSRm45X3Q3anlfaE9vWDBXc25NXzlhOXVpamg0Z1c5YVphMnFSWVF5SHVPUEpLUFVUbjFhd2VtMW5QemE2ZDk2UXBYeGpuU3pkUTF1OWdSZW4yVFFPV1FzX28?oc=5",
       "sources": [
-        "OffNews"
+        "Reuters"
       ]
     }
   ]
