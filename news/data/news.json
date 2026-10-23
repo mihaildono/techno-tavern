@@ -1,9 +1,33 @@
 {
   "items": [
     {
-      "title": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand",
-      "pubDate": "2026-10-23T00:42:43.000Z",
+      "title": "Важните събития в България и по света днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/23/4969904_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
+      "pubDate": "2026-10-23T03:01:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4794643.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Кой има имен ден днес, 23 октомври 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-23-oktomvri-2026-g-chestito-news_2653595.html",
+      "pubDate": "2026-10-23T02:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/22/b29f53e4374f5bce291475c25d281f13_2653595_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Nippon Steel Raises US Mill Upgrade to $3 Billion as Costs Climb",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/nippon-steel-raises-us-mill-upgrade-to-3-billion-as-costs-climb",
+      "pubDate": "2026-10-23T02:47:26.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -12,9 +36,9 @@
       }
     },
     {
-      "title": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
-      "pubDate": "2026-10-23T00:40:00.000Z",
+      "title": "Bloomberg Law: Justice Dept Versus Federal Judges (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-law-justice-dept-versus-federal-judges-podcast",
+      "pubDate": "2026-10-23T02:37:22.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -23,9 +47,9 @@
       }
     },
     {
-      "title": "Apple’s iPhone Duo Hits Stores in Face of Short Supply and High Demand",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/apple-s-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand",
-      "pubDate": "2026-10-23T00:35:43.000Z",
+      "title": "India Retail Traders Cut Back on Leveraged Bets as Stocks Slide",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/india-retail-traders-cut-back-on-leveraged-bets-as-stocks-slide",
+      "pubDate": "2026-10-23T02:34:49.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -34,9 +58,9 @@
       }
     },
     {
-      "title": "Tech Rout, SpaceX Eyes 80,000 Cell Sites for Network, More",
-      "link": "https://www.bloomberg.com/news/audio/2026-10-23/tech-rout-spacex-eyes-80-000-cell-sites-for-network-more",
-      "pubDate": "2026-10-23T00:34:22.000Z",
+      "title": "Global Tech Rout, SpaceX Eyes 80,000 Cell Sites, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-23/global-tech-rout-spacex-eyes-80-000-cell-sites-more",
+      "pubDate": "2026-10-23T02:32:26.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -45,13 +69,46 @@
       }
     },
     {
-      "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
-      "pubDate": "2026-10-23T00:30:00.000Z",
+      "title": "HSBC, Standard Chartered Face Cost Test as Rates, Wealth Support Earnings",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/hsbc-standard-chartered-face-cost-test-as-rates-wealth-support-earnings",
+      "pubDate": "2026-10-23T02:19:05.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
         "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Airbnb scraps guest checkout chores such as cleaning",
+      "link": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T02:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
+      "pubDate": "2026-10-23T00:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUFlQnZ3MnRaVmVhX2Y1M1Fxc0JTaXE5cHZqdmhUX2gyWTh0OFBJVW1kTzkxMGJkMlNqa0lkcDhMMUZNNnI1NWltc1NYenhWTG5DRHE2ekRjRUlIM0xFNGJTSjRLQlE1TUZtd1U3bWhCVUxWRENmV1VFWTZHS3FXeUhZczFrcXJIMDdLMkxiQngxWnVSVFVlemRXeGhneXRUWktvLU5INVJuMDdQSmUyQUV0WnJFaHk2SlgtbkRVUkpkZlh4NFNFaGVrLVE?oc=5",
+      "pubDate": "2026-10-23T00:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -65,6 +122,28 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "pubDate": "2026-10-22T23:54:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG5Pak5NSEdtSQ?oc=5",
+      "pubDate": "2026-10-22T23:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
       }
     },
     {
@@ -92,20 +171,20 @@
       }
     },
     {
-      "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
-      "pubDate": "2026-10-22T23:17:23.000Z",
+      "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+      "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-22T23:24:00.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
+        "name": "DW",
+        "color": "#C8102E",
         "lang": "en"
       }
     },
     {
-      "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
-      "pubDate": "2026-10-22T23:17:04.000Z",
+      "title": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkppSzFJMWI2bE5OT3FVMnR3LTAwQklDLXJnV2lVX2EwbWtneGd1ay03REY5Y3ZSLV9leEN4Z0x0S1NZaTIwVkFmZHU5bGZsYW1MZjlzbjN0UHNZcXAwRkdmYmpTbWkyRThKenJSdGswSk9RZEpiMWpKczczQU40WjZqSjNQSHR6YU4tbXIwTks1OGxmZXctN2l0VzQ1blp5WTlpdUNPS2RaZzE0eU9CYzVqMVFZc3MyTXdmc2EybEJRRUdFQVNjT0pENWE?oc=5",
+      "pubDate": "2026-10-22T23:23:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -136,18 +215,6 @@
       }
     },
     {
-      "title": "Сръбските студенти закриха кампанията си с огромен митинг преди изборите в неделя (ВИДЕО)",
-      "link": "https://www.actualno.com/balkani/srybskite-studenti-zakriha-kampanijata-si-s-ogromen-miting-predi-izborite-v-nedelja-video-news_2653619.html",
-      "pubDate": "2026-10-22T22:42:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/b38af106309167bda03f2b8f7298280b_2653619_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
       "title": "Хавиер Бардем, Сюзан Сарандън и Джулиан Мур говориха смело в Рим, а MIA раздаде награди за киното на бъдещето",
       "link": "https://offnews.bg/kultura/havier-bardem-siuzan-sarandan-i-dzhulian-mur-govoriha-smelo-v-rim-a-877015.html",
       "pubDate": "2026-10-22T22:38:54.000Z",
@@ -160,17 +227,6 @@
       }
     },
     {
-      "title": "FCC grants Intel waiver for foreign-made robotic devices",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-      "pubDate": "2026-10-22T22:36:47.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Задържаха служителя на НСО, избутал Соня Колтуклиева",
       "link": "https://offnews.bg/obshtestvo/zadarzhaha-sluzhitelia-na-nso-izbutal-sonia-koltuklieva-877014.html",
       "pubDate": "2026-10-22T22:22:00.000Z",
@@ -180,28 +236,6 @@
       "source": {
         "name": "OffNews",
         "color": "#E91E63"
-      }
-    },
-    {
-      "title": "QatarEnergy in talks with Venture Global to buy LNG in long term supply deal, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWURhT3VUeGtQdDZGb0d4dnpPTUhGWW5NM0g2R3QwZFRWTUtaSm5ONEI0aFk1aUxRa0U0cUFFMHV6aDgxUjZCREo3TVNTNTBJNjE4QnJ0RUlyelh1RHI4eXdjWUdQdHVXOFBtN3k1VXhXUTh2LVY0UTdpSWVfQWFxd2FoeW1mV0IzR1RleTZLUDYxOFpTLUhydEJaT29QUXJTZE5KVkhkRGs5dWR5V1NwQXVXUUhjV2Vsd044WFZaaEdqWUR1SmdFaHdJaw?oc=5",
-      "pubDate": "2026-10-22T22:09:46.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Trump says wind turbine imports threaten national security",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXBnbGtXTC1kdE85WW5oRjI1dW9WU1d6RGdZLXoyRS12V0l0NXZyT21Rcnk5eERXeDhacVlpSWRDNVc2VlhoOUJyWWFvOVV3ck5oeU45eXZHQVpCaklMLTh4QXJkcXVWX192VUQ3QmNEa2VyMVdWNUtTaGlYdm1qb3pNRGtDazdsdjFQb3lISUNBNDNEWkJjUkFhLXJXcGpjWndUaVJLaDJFaHRIQk9KZQ?oc=5",
-      "pubDate": "2026-10-22T22:03:25.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -346,18 +380,6 @@
       }
     },
     {
-      "title": "Михаела Доцова: Случилото се с Колтуклиева е недопустимо, искрено съжалявам",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/22/4969975_mihaela_docova_sluchiloto_se_s_koltuklieva_e/?ref=rss",
-      "pubDate": "2026-10-22T19:45:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4969973.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Albania's student protests are only getting bigger",
       "link": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-10-22T19:18:00.000Z",
@@ -438,17 +460,6 @@
       }
     },
     {
-      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
-      "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-22T18:18:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Политици и общественици са потресени от инцидента с Колтуклиева",
       "link": "https://www.mediapool.bg/bulgaria/polititsi-i-obshtestvenitsi-sa-potreseni-ot-intsidenta-s-koltuklieva/",
       "pubDate": "2026-10-22T18:11:46.000Z",
@@ -500,17 +511,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
-      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-22T17:07:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
       }
     },
     {
@@ -576,5 +576,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-10-23T00:57:04.957Z"
+  "lastUpdated": "2026-10-23T03:01:07.707Z"
 }
