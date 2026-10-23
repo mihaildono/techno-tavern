@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:01:58.918Z",
+  "updatedAt": "2026-10-23T18:20:50.020Z",
   "overview": "Денят е доминиран от скандала около НСО и Соня Колтуклиева, който води до оставката на ген. Емил Тонев и иск за по-лека присъда. В същото време Русия и Украйна продължават ескалацията си – дронове атакуват московски аеродроми, а Тръмп обещава подкрепа за Kiev. Световното внимание е насочено и към разширяването на саудитската ракетна програма и рухването на сграда в Нairobi.",
   "stories": [
     {
@@ -22,14 +22,13 @@
       ],
       "link": "https://offnews.bg/temida/voennata-prokuratura-iska-postoianen-arest-za-garda-ot-nso-kojto-izbl-877086.html",
       "sources": [
-        "Mediapool",
-        "Bloomberg",
         "Actualno",
         "Reuters",
-        "Dnevnik",
-        "Boulevard Bulgaria",
-        "FrogNews",
         "OffNews",
+        "Dnevnik",
+        "FrogNews",
+        "Mediapool",
+        "Boulevard Bulgaria",
         "Свободна точка"
       ]
     },
@@ -50,11 +49,13 @@
       ],
       "link": "https://www.dnevnik.bg/burzi-novini/2026/10/23/4970713_abu_dabi_e_izbran_za_pregovorite_mejdu_rusiia_i_ukraina/?ref=rss",
       "sources": [
-        "Actualno",
-        "Dnevnik",
         "FrogNews",
+        "Reuters",
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "OffNews",
         "Mediapool",
-        "Boulevard Bulgaria"
+        "Свободна точка"
       ]
     },
     {
@@ -65,10 +66,9 @@
         7,
         46
       ],
-      "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-top-1022-rdf",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/-zombie-loan-investors-settle-ny-charges-of-alleged-unlawful-collections",
       "sources": [
         "Bloomberg",
-        "Mediapool",
         "DW"
       ]
     },
@@ -79,9 +79,9 @@
       "ids": [
         17
       ],
-      "link": "https://offnews.bg/politika/giurov-i-kandev-sa-s-ubeditelna-prednina-v-anketata-na-offnews-877088.html",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
       "sources": [
-        "OffNews"
+        "Reuters"
       ]
     },
     {
@@ -92,11 +92,10 @@
         9,
         10
       ],
-      "link": "https://www.bloomberg.com/news/features/2026-10-23/apple-iphone-duo-review-stunning-foldable-screen-uneven-apps",
+      "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-top-1022-rdf",
       "sources": [
-        "Boulevard Bulgaria",
-        "Actualno",
-        "Bloomberg"
+        "DW",
+        "Reuters"
       ]
     }
   ]
