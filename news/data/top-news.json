@@ -1,53 +1,81 @@
 {
-  "updatedAt": "2026-10-23T19:50:20.773Z",
-  "overview": "Продължава ескалацията между Русия и Украйна с новости от Черно море, политически скандал с НSO предизвиква оставки, спорт и мениджмънт на икономически сделки.",
+  "updatedAt": "2026-10-23T20:37:47.606Z",
+  "overview": "Кратък преглед на важните новини от различни източници.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Ескалация в Черноморието със закриването на Русия и Украйна",
-      "summary": "Тръмп обеща помощ за проблемите със Starlink; Мелания Тръмп посредничи за прекратяване на огъня. Сторонита се споразумяха за прекратяване на огъня в дена на продължаващата продоволска криза.",
+      "category": "Общество",
+      "headline": "Бой и наизустяване на руския химн: \"Хуманното\" отношение на Путинова Русия към вече освободен американски военнопленник",
+      "summary": "News Charli were reported.",
       "ids": [
-        25,
-        29,
-        31,
-        57,
-        71,
-        72
+        19,
+        35,
+        39,
+        43,
+        46,
+        53,
+        58
       ],
-      "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-top-1022-rdf",
+      "link": "https://www.actualno.com/america/boj-i-naizustjavane-na-ruskija-himn-humannoto-otnoshenie-na-putinova-rusija-kym-veche-osvoboden-amerikanski-voennoplennik-news_2654002.html",
       "sources": [
-        "DW",
+        "Actualno",
+        "FrogNews",
+        "Mediapool",
+        "OffNews",
         "Boulevard Bulgaria",
-        "OffNews"
+        "Свободна точка"
       ]
     },
     {
-      "category": "Икономика",
-      "headline": "Изпълнение на сделки в многостранните отношения",
-      "summary": "Тръмп заяви, че Канада работи усилено за сключване на сделка със САЩ. Говори се и за преговори с участието на Абу Даби. Обстановката се наглася с инцидентите в Черно море.",
+      "category": "Свят",
+      "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+      "summary": "Russia, Ukraine, Kyiv, killed incidents reported.",
       "ids": [
-        22,
-        33,
-        43
+        26
       ],
-      "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-top-1022-rdf",
+      "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-top-1022-rdf",
       "sources": [
-        "DW",
-        "FrogNews"
+        "DW"
       ]
     },
     {
-      "category": "Технологии",
-      "headline": "Технологични новости и ИИ повлиява политически процеси",
-      "summary": "Google предостави дарение от 1 милион долара за INSAIT в София. AI попадна в центъра на предизборната кампания в Испания. Технологиите продължават да изявяват все по-сериозно влияние върху политиката и бизнеса.",
+      "category": "Свят",
+      "headline": "Romania blames Russia for ship attack in the Black Sea",
+      "summary": "Romania, Russia, Black, Sea incidents reported.",
       "ids": [
-        51,
-        76
+        57
       ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTBFdXFJcVU5cUdlcTAtaWQ4V19WM1ZybTdhQXJ3RGc2bmVtYnBCY1lNYjZla0VORGJfeDRUbXJEcmd0dVIxaE5vcFNoNVI3OFhrTTUxaEFuNFZsYTU4QUhLdExXNWU5VmJfMjJZNDJ5Q1hIbTVJNll1Z3huakc3TnlVQ0E4clFYUlFJTXBSaHpubVUtWTV6cVlMSEYzT1gwRzdDejBR?oc=5",
+      "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-top-1022-rdf",
       "sources": [
-        "Свободна точка",
-        "FrogNews"
+        "DW"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+      "summary": "Iran, Gulf, Ex, Congress incidents reported.",
+      "ids": [
+        9,
+        23
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "category": "Общество",
+      "headline": "Шефът на НСО Емил Тонев е подал оставка след случая с Колтуклиева. Призиви за оставка и на Доцова",
+      "summary": "Multiple developments reported.",
+      "ids": [
+        5,
+        44,
+        50
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaS1Fd2MwaVNoSVNtZkI1VDdkVXRBVmhTWDEwNElMU1lrdU1DbGE5ZEFXTTZMZlhfcmdrU3hMdVluYjhzUDI4NFFwMHZhbUw0X01IdFB2OW1jaFhNM1JzckdNeGZxUE83aGhqRXFLVHdnSzBKMFdBQUdrQVVkeVl0bFNwdWMxZzItY1E0Uzd6eFA4NHQ3b3VpUjZBUjBvTjJqVXVNb0VaeG9uUWhMcmdWU09mNEZWc05lX0tzNmpub0NYR1hkRUlFc2xOLS1kV0lpZUJiWVBGZnlOX095bjkzemJkSVd5ams?oc=5",
+      "sources": [
+        "Actualno",
+        "Dnevnik",
+        "Свободна точка"
       ]
     }
   ]
