@@ -1,9 +1,591 @@
 {
   "windowStart": "2026-10-22T19:11:43.568Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-23T06:00:32.446Z",
-  "totalItems": 135,
+  "lastUpdated": "2026-10-23T09:00:39.169Z",
+  "totalItems": 181,
   "items": [
+    {
+      "title": "Фотогалерия: Огромен митинг в Белград под лозунга \"Сърбия или мафията\"",
+      "link": "https://www.dnevnik.bg/photos/2026/10/23/4970043_fotogaleriia_ogromen_miting_v_belgrad_pod_lozunga/?ref=rss",
+      "pubDate": "2026-10-23T09:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970033.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Няма нищо ново в новите мирни предложения на САЩ за Украйна. Обсъждат се от 1,5 г.",
+      "link": "https://offnews.bg/sviat/niama-nishto-novo-v-novite-mirni-predlozhenia-na-sasht-za-ukrajna-obs-877032.html",
+      "pubDate": "2026-10-23T08:57:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877032/phpdoxmto_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Google предоставя ново дарение от 1 милион долара на INSAIT в София",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTBFdXFJcVU5cUdlcTAtaWQ4V19WM1ZybTdhQXJ3RGc2bmVtYnBCY1lNYjZla0VORGJfeDRUbXJEcmd0dVIxaE5vcFNoNVI3OFhrTTUxaEFuNFZsYTU4QUhLdExXNWU5VmJfMjJZNDJ5Q1hIbTVJNll1Z3huakc3TnlVQ0E4clFYUlFJTXBSaHpubVUtWTV6cVlMSEYzT1gwRzdDejBR?oc=5",
+      "pubDate": "2026-10-23T08:56:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Какво заплаща НЗОК при остеопороза (видео)",
+      "link": "https://offnews.bg/zdrave/kakvo-zaplashta-nzok-pri-osteoporoza-video-877039.html",
+      "pubDate": "2026-10-23T08:55:48.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877039/phpzht4ts_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "ДПС заговори за \"тенденция за насилие\" и свърза акциите срещу кметове със случилото се с Колтуклиева",
+      "link": "https://www.dnevnik.bg/politika/2026/10/23/4970162_dps_zagovori_za_tendenciia_za_nasilie_i_svurza_akciite/?ref=rss",
+      "pubDate": "2026-10-23T08:54:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970165.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Началникът на НСО е готов да си подаде оставката, очаква резултатите от проверката за Колтуклиева",
+      "link": "https://offnews.bg/obshtestvo/nachalnikat-na-nso-e-gotov-da-si-podade-ostavkata-ochakva-rezultatite-877042.html",
+      "pubDate": "2026-10-23T08:52:49.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877042/phpbku3ty_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Какво се случи от инцидента с НСО досега",
+      "link": "https://www.dnevnik.bg/politika/2026/10/23/4970161_kakvo_se_sluchi_ot_incidetna_s_nso_dosega/?ref=rss",
+      "pubDate": "2026-10-23T08:52:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970160.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Нови огнища на шарка по овцете и козите – под надзор са седем общини",
+      "link": "https://frognews.bg/novini/novi-ognishta-sharka-ovtsete-kozite-pod-nadzor-sedem-obshtini.html",
+      "pubDate": "2026-10-23T08:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/6cbcc037b_ovce.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Илияна Йотова иска началникът на НСО сам да подаде оставка, вместо да го уволни",
+      "link": "https://boulevardbulgaria.bg/articles/iliyana-yotova-iska-nachalnikat-na-nso-sam-da-podade-ostavka-vmesto-da-go-uvolni",
+      "pubDate": "2026-10-23T08:48:39.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYxODcsInB1ciI6ImJsb2JfaWQifX0=--01d2db36dcf6defc1d40b0a1cf4d52aeb2b3df8b/%D1%80%D1%83%D0%BC%D0%B5%D0%BD_%D1%80%D0%B0%D0%B4%D0%B5%D0%B2_%D0%B8_%D0%B8%D0%BB%D0%B8%D1%8F%D0%BD%D0%B0_%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_230126.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Началникът на НСО Емил Тонев е готов да подаде оставка",
+      "link": "https://www.dnevnik.bg/politika/2026/10/23/4970156_nachalnikut_na_nso_emil_tonev_e_gotov_da_podade_ostavka/?ref=rss",
+      "pubDate": "2026-10-23T08:48:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970154.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Андрей Гюров пред работодателите: България има нужда от стабилна икономика, а не от политически хаос*",
+      "link": "https://www.actualno.com/politics/andrej-gurov-pred-rabotodatelite-bylgarija-ima-nujda-ot-stabilna-ikonomika-a-ne-ot-politicheski-haos-news_2653741.html",
+      "pubDate": "2026-10-23T08:48:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/7590680a921b65ca0edf41f3f44adfd7_2653741_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T08:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "French Authorities Brace for Weekend Protests",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/french-authorities-brace-for-weekend-protests-video",
+      "pubDate": "2026-10-23T08:46:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Юрген Клоп посочи кой ще спечели Ел Класико",
+      "link": "https://www.actualno.com/football/urgen-klop-posochi-koj-shte-specheli-el-klasiko-news_2653740.html",
+      "pubDate": "2026-10-23T08:46:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/0947b1818bcf159949cac7efd8a2caf2_2653740_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Президентът ще поиска оставката на началника на НСО Емил Тонев",
+      "link": "https://frognews.bg/novini/prezidentat-shte-poiska-ostavkata-nachalnika-nso-emil-tonev.html",
+      "pubDate": "2026-10-23T08:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3058e6a62_yotova_bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Украинската армия още не усеща САЩ да са вдигнали ограниченията за Starlink (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ukrainskata-armija-oshte-ne-useshta-sasht-da-sa-vdignali-ogranichenijata-za-starlink-video-news_2653737.html",
+      "pubDate": "2026-10-23T08:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/9ddfb2d835e608db83e13c5b548a1309_2653737_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Volvo Car Shares In Freefall, Tech Rout Pauses, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-23/volvo-car-shares-in-freefall-tech-rout-pauses-more",
+      "pubDate": "2026-10-23T08:41:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Тръмп предлага на Путин възобновяване на доставките на руски газ за Европа през \"Северен поток\"",
+      "link": "https://www.actualno.com/europe/trymp-predlaga-na-putin-vyzobnovjavane-na-dostavkite-na-ruski-gaz-za-evropa-prez-severen-potok-news_2653736.html",
+      "pubDate": "2026-10-23T08:41:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/4c9f408b8c23b7b98b52edad4b5b7f6d_2653736_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Израел нареди на армията да отцепи Хеврон, подготвя пълно затваряне на Западния бряг",
+      "link": "https://frognews.bg/novini/izrael-naredi-armiiata-ottsepi-hevron-podgotvia-palno-zatvariane-zapadniia-briag.html",
+      "pubDate": "2026-10-23T08:41:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0d60abf5f_1792744910_6adb1dce7ac87.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Австрия изгони четирима руски дипломати заради шпионаж",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/23/4970133_avstriia_izgoni_chetirima_ruski_diplomati_zaradi/?ref=rss",
+      "pubDate": "2026-10-23T08:40:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970151.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "И при Байдън, и при Тръмп: Един и същ конкретен подход не спира Путин и войната в Украйна (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/i-pri-bajdyn-i-pri-trymp-edin-i-sysht-konkreten-podhod-ne-spira-putin-i-vojnata-v-ukrajna-obzor-video-news_2653734.html",
+      "pubDate": "2026-10-23T08:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/23/9d2137e883251e28c912501e4ea71e40_2653734_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Йотова ще поиска оставката на шефа на НСО",
+      "link": "https://www.mediapool.bg/bulgaria/yotova-shte-poiska-ostavkata-na-shefa-na-nso/",
+      "pubDate": "2026-10-23T08:39:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Най-силният тайфун за годината удари Азия – жертва, 171 ранени и хаос с полетите",
+      "link": "https://frognews.bg/novini/nai-silniiat-taifun-godinata-udari-aziia--jertva-171-raneni-haos-poletite.html",
+      "pubDate": "2026-10-23T08:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9eb641954_1792744465_6adb1c11df319.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Защо Франция гори: истинските причини за кризата отвъд протестите",
+      "link": "https://offnews.bg/analizi-i-komentari/zashto-frantcia-gori-istinskite-prichini-za-krizata-otvad-protestite-877037.html",
+      "pubDate": "2026-10-23T08:32:39.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877037/phpbakkqj_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "UK Growth Hits Eight-Month High and Jobs Slump Ends, PMI Shows",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-growth-hits-eight-month-high-and-jobs-slump-ends-pmi-shows",
+      "pubDate": "2026-10-23T08:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Big Business on the Israeli Election",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/big-business-on-the-israeli-election-video",
+      "pubDate": "2026-10-23T08:29:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "АЕЖ настоява за понасяне на отговорност за бруталната употреба на сила от НСО срещу репортерка",
+      "link": "https://offnews.bg/medii/aezh-nastoiava-za-ponasiane-na-otgovornost-za-brutalnata-upotreba-na-s-877038.html",
+      "pubDate": "2026-10-23T08:29:25.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877038/phplsmkh0_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028",
+      "pubDate": "2026-10-23T08:29:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Бурята „Остин“ блокира транспорта в Югозападна Англия, хиляди домакинства са без ток",
+      "link": "https://frognews.bg/novini/buriata-ostin-blokira-transporta-iugozapadna-angliia-hiliadi-domakinstva-bez-tok.html",
+      "pubDate": "2026-10-23T08:29:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3d18bb1da_1792744319_6adb1b7f970d9.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+      "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T08:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Жители, студенти и артисти преобразиха междублоково пространство в Студентски град",
+      "link": "https://boulevardbulgaria.bg/articles/zhiteli-studenti-i-artisti-preobraziha-mezhdublokovo-prostranstvo-v-studentski-grad",
+      "pubDate": "2026-10-23T07:59:30.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5OTg3LCJwdXIiOiJibG9iX2lkIn19--1957b6841b1663f2d4636e45e46a37decce6e74c/3.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "South Korea proposes military talks with North again",
+      "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T07:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Служителят на НСО, изблъскал Соня Колтуклиева, беше изведен с белезници",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWd6WFVUNzV5QmFMY1RCN0EtQWxCVzBwQmJhSHh6ZmZXZHJ1NXhsS3lvbHFKeG5iWklyRWpOVGEtUEdsMEdhZl9YTDRLRVcteVhIZVgyY0JTNy1iWi1pTUV1RVcyUUhYTGxydVVqNjFPQ01lUFpGMG1vNVAtTWp6b3dHSFE4VTJVUXZ0Y3NBSDFlZERHb2lsVmlUZUJBc3pxdzJZN2JvR184ODR4?oc=5",
+      "pubDate": "2026-10-23T07:35:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Eisenkot offers hawkish alternative to Netanyahu for Israeli PM",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnVtbXdVNGp0NmpKbTE1MzdLbnRRTEZOLXJmWXRqdTRBSTZ5OVM2SF85V1FwbzA2VlJWYWpGUjRqeURkRVM3X2lPbDJxWFkyUHRGeFFTNmRDMk11SVNTSVVzVjBhUTBCeFgzMGZMeEUwNVdYWW5nYWZnelQxMGtqQk5DY1lPdmR1ajVjVGp0NGloaWFOTC1wdklGVGFEOWs?oc=5",
+      "pubDate": "2026-10-23T07:18:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
+      "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T07:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Saudi Arabia postpones UN data forum, Saudi statistical event to 2027",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV1JfaFBoQWFtRjRJcWNCenJUVmExWEpVSHhFUjlpYm1YR3FWX1V4clhRX1F1dWxjRHc2M3dtbmtreWtVc1lDenk0VUhIX2xja0pvZk8tN29lbWRkbDU1S2l0OTlFSzYzZl80RHlqSGJWZVMtOVp5YllQRHl4SC1qcERtclFRTGhPMjg3d3pHRjZWUS1vNS01cGVQUkk3dkN3LTRKc2ZQcFJjNjVXTEJrNHVKd2N3bHIwcGRz?oc=5",
+      "pubDate": "2026-10-23T07:03:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
+      "pubDate": "2026-10-23T06:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Йотова води с 12,8% на изборите, но \"Алфа рисърч\" вижда отлив в подкрепата за кандидатурата ѝ",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHREd3d3a2hKOHZNMGtBTDJ1VGpQeTJ2SUMwRk05elYyRHJpZWgtREd4SG5tLU85YXQ2cXh6ZFl3Wmo3aHVyMWdaSUdrOEJJUThGT1J5TE1id2tGWkZzT2ZpbHpUUjRXQzdZVzNvdG9lbmFZNk5UbHRObjc2N0R1d2dEUWEtQ21wckNVbjdDV0x4OWRNQkZJclFRc0VPN0IxRENVTF9kdnlndjFyZUN3bHZHX1BPY1hpWkJMbkdUYUs1a0g4bnBFQg?oc=5",
+      "pubDate": "2026-10-23T06:45:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "ГЕРБ събра подписи за извънредно заседание за оставка на Доцова",
+      "link": "https://www.mediapool.bg/bulgaria/gerb-sabra-podpisi-za-izvanredno-zasedanie-za-ostavka-na-dotsova/",
+      "pubDate": "2026-10-23T06:44:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+      "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-23T06:40:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXNRcVk0YUdENnhwWFpVVWlWSmEwSi0zVEhxVDNQdE5yTGFzRngya0k1eFZIaGNpaDgyMHcwOHk5TnVkbVZZWWMwVnJ6NFVBYjJpWDJ0c1pZZWQxZmVKcUFJU0FZdjNpaGZ2N2ZZeWVVV1RPMk9EN2NKZzBJcVNXZ2dWcGtUX0JkS3JvY0ZqQWtFWGtpRTFqRER1b2NmRU1EVUZpS1h6emlhTjVjU2hZcEtIVHltemdCTHk2SHBwVldqZw?oc=5",
+      "pubDate": "2026-10-23T06:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "EXCLUSIVE: Russian diesel heads to US after Putin-Trump deal, data shows",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5",
+      "pubDate": "2026-10-23T06:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Часовник със собствено мнение, или какво действително се промени в Apple Watch Ultra 4",
+      "link": "https://boulevardbulgaria.bg/articles/chasovnik-sas-sobstveno-mnenie-ili-kakvo-deystvitelno-se-promeni-v-apple-watch-ultra-4",
+      "pubDate": "2026-10-23T06:26:41.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NjAxLCJwdXIiOiJibG9iX2lkIn19--5ddc1828cc125bfa8c5c432b2801916ba1574f27/Ultra%204%20cover%20(1).jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "ГЕРБ събира подписи за отстраняването на Михаела Доцова като председател на НС",
+      "link": "https://boulevardbulgaria.bg/articles/gerb-sabira-podpisi-za-otstranyavaneto-na-mihaela-dotsova-kato-predsedatel-na-ns",
+      "pubDate": "2026-10-23T06:23:56.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5OTc3LCJwdXIiOiJibG9iX2lkIn19--f54574c6ed09f65e004bbe74604b51878e92dd69/%D0%BC%D0%B8%D1%85%D0%B0%D0%B5%D0%BB%D0%B0%20%D0%B4%D0%BE%D1%86%D0%BE%D0%B2%D0%B0%20934549.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "\"Алфа Рисърч\": Йотова води, но губи подкрепа",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/alfa-risarch-yotova-vodi-no-gubi-podkrepa/",
+      "pubDate": "2026-10-23T06:21:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "Фирма на фаворитка за член на ВСС е имала бизнес с… ВСС",
+      "link": "https://www.mediapool.bg/bulgaria/firma-na-favoritka-za-chlen-na-vss-e-imala-biznes-s-vss/",
+      "pubDate": "2026-10-23T05:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
+    {
+      "title": "\"Алфа рисърч\": Под 13% разлика между Илияна Йотова и Андрей Гюров преди първия тур",
+      "link": "https://boulevardbulgaria.bg/articles/alfa-risarch-pod-13-razlika-mezhdu-iliyana-yotova-i-andrey-gyurov-predi-parviya-tur-",
+      "pubDate": "2026-10-23T05:12:37.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5OTY0LCJwdXIiOiJibG9iX2lkIn19--5985fb2180ae857e6a16b46084f9f6c53e90a226/Screenshot-2026-10-23-081945%20(1).jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-23T09:00:39.169Z"
+    },
     {
       "title": "Стотици хиляди заляха центъра на Белград в последен митинг преди вота",
       "link": "https://www.dnevnik.bg/sviat/2026/10/23/4970046_stotici_hiliadi_zaliaha_centura_na_belgrad_v_posleden/?ref=rss",
@@ -1653,17 +2235,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      },
-      "firstSeen": "2026-10-22T21:01:03.821Z"
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP - Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sSHhwRWJhT1puUGJuZDU3ZlJ5WWRWVktvUlpvZU9jbnFHb09uZ21Nbjc4cWh2c2pPbnJxS01DRGdZOGRVSWlSVjNfcGlHYnhsUFZHT214cXk?oc=5",
-      "pubDate": "2026-10-22T07:08:43.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Hacker News",
-        "color": "#FF6600"
       },
       "firstSeen": "2026-10-22T21:01:03.821Z"
     }
