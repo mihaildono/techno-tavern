@@ -1,87 +1,80 @@
 {
-  "updatedAt": "2026-10-24T14:40:41.236Z",
-  "overview": "Протестите във Франция причиниха затваряне на луксозни магазини и метростанции, като бе мобилизирана армията в Париж. Украйна възстанови Starlink след седмица на прекъсване. Ким Чен Ун посети Китай. В Плевен един 22-годишен пилот загина при авиационен инцидент.",
+  "updatedAt": "2026-10-24T15:02:51.512Z",
+  "overview": "Протестите във Франция продължават с мобилизация на армията и затваряне на магазини. Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите. Малък самолет се разби край Плевен, пилотът загина. Starlink в Украйна се върна към нормално функциониране след седмица на прекъсване.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Ким Чен Ун посети Китай за официална среща",
-      "summary": "Севернокорейският лидер Ким Чен Ун посети китайския граничен град Дъндун и получи поздрави от председателя Си Дзинпин, както потвърдиха ДУН.",
+      "headline": "Протестите във Франция продължават с мобилизация на 70 000 полицаи и военни",
+      "summary": "Луксозните магазини във Франция затварят прозорците си с дъски, а метростанции в Париж се затварят в очакване на нови улични протести. Армията е мобилизирана на улиците.",
       "ids": [
-        1
-      ],
-      "link": "https://www.actualno.com/asia/kim-chen-un-e-bil-v-kitaj-poluchil-e-pozdravi-ot-si-dzinpin-news_2654168.html",
-      "sources": [
-        "FrogNews",
-        "Actualno"
-      ]
-    },
-    {
-      "category": "Общество",
-      "headline": "Париж заключи магазини и метростанции, 70,000 полицаи и военни са на место",
-      "summary": "Протестите във Франция накараха закриването на луксозни магазини и метростанции, като армията бе мобилизирана на улиците в Париж, а един стрелец бе сторил смъртоносно нападение.",
-      "ids": [
-        13
+        24,
+        27,
+        43
       ],
       "link": "https://boulevardbulgaria.bg/articles/parizh-zatvarya-metrostantsii-i-magazini-70-000-politsai-i-voenni-sa-mobilizirani-vav-frantsiya",
       "sources": [
-        "Bloomberg",
-        "Boulevard Bulgaria",
-        "OffNews"
-      ]
-    },
-    {
-      "category": "Спорт",
-      "headline": "Авиациент за смърт на 22-годишен пилот при полет без разрешение в Плевен",
-      "summary": "22-годишен пилот загина и малък самолет се разби в двора на къща край Плевен, като много източници потвърдиха сривът на авиационната безопасност.",
-      "ids": [
-        7,
-        9,
-        11
-      ],
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/24/4970904_maluk_samolet_se_e_razbil_v_dvora_na_kushta_v_plevensko/?ref=rss",
-      "sources": [
-        "Actualno",
-        "DW",
-        "Bloomberg",
-        "Dnevnik",
-        "Mediapool",
-        "FrogNews",
+        "OffNews",
         "Boulevard Bulgaria"
       ]
     },
     {
       "category": "Политика",
       "headline": "Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите",
-      "summary": "Цялата три нови сатирични страници - Копейкин, Пуйло и BG Elves - бяха съобщени за сваляне от Facebook, както потвърждава и Dnevnik и FrogNews.",
+      "summary": "Цялата три нови сатирични страници - Копейкин, Пуйло и BG Elves - бяха съобщени за сваляне от Facebook, както потвърждават Mediapool, Dnevnik и FrogNews.",
       "ids": [
-        6,
-        14,
-        17,
-        18,
-        22,
-        26
+        23,
+        26,
+        30,
+        34
       ],
       "link": "https://www.mediapool.bg/bulgaria/feisbuk-svali-stranitsite-na-kopeikin-puilo-i-elfite/",
       "sources": [
-        "OffNews",
-        "Actualno",
         "Mediapool",
         "Dnevnik",
+        "OffNews",
         "FrogNews"
       ]
     },
     {
-      "category": "Свят",
-      "headline": "Украйна възстанови Starlink след седмица на прекъсване",
-      "summary": "Старлинк в Украйна се върна към нормално функциониране след седмица на прекъсване, както съобщиха Reuters, Actualno и FrogNews, няколко седмици след ограниченията.",
+      "category": "Здравеопазване",
+      "headline": "Малък самолет се разби край Плевен, пилотът загина",
+      "summary": "22-годишен пилот загина при полет без разрешение, а малък самолет се разби в двора на къща край Плевен. Случката е потвърдена от multiple медии.",
       "ids": [
-        23,
-        49
+        20,
+        21,
+        22,
+        28
       ],
-      "link": "https://www.dnevnik.bg/izkustven-intelekt/2026/10/24/4970905_gugul_moje_da_polzva_danni_ot_gmail_i_photos_za_ai_i/?ref=rss",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/24/4970904_maluk_samolet_se_e_razbil_v_dvora_na_kushta_v_plevensko/?ref=rss",
       "sources": [
-        "Dnevnik",
-        "Свободна точка"
+        "FrogNews",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Starlink в Украйна се върна към нормално функциониране",
+      "summary": "Starlink в Украйна е възстановен след седмица на прекъсване на сигнала. Съобщават Reuters, Actualno и FrogNews.",
+      "ids": [
+        31
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Тръмп отмени 50-процентните мита върху част от канадските стоки",
+      "summary": "Тръмп отмени 50-процентните мита върху част от канадските стоки преди междинните избори в САЩ, съобщава OffNews.",
+      "ids": [
+        12
+      ],
+      "link": "https://offnews.bg/sviat/tramp-otmeni-50-protcentnite-mita-varhu-chast-ot-kanadskite-stoki-pred-877119.html",
+      "sources": [
+        "OffNews"
       ]
     }
   ]
