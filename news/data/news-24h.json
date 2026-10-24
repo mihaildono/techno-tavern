@@ -1,9 +1,386 @@
 {
   "windowStart": "2026-10-24T01:00:37.730Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-24T03:00:55.127Z",
-  "totalItems": 50,
+  "lastUpdated": "2026-10-24T06:01:05.446Z",
+  "totalItems": 81,
   "items": [
+    {
+      "title": "Мелания Тръмп договори примирие за окупирания от Русия украински град Олешки",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmFnZURyUnJBb0hnX3paT21PSlh5QmRIbjN2S2RlNUFhbVdmQnRYWk5RZWJZTWhHV1ZBendscWdibHBqb1I3dXYtNENCUGdseGJvWXNsTDR5TlpGZFQ5cEhzbmdfby0xdGM4QWhLMEx4TUVsQWRwMFdVM1BaaWd4VnlZaHBETG1Xb1dZeEJBcmY5azNUZDVXRVN1aGM5N3ZFb3ZUOHprVEJkLUVod0xZQVk0S0s?oc=5",
+      "pubDate": "2026-10-24T05:56:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Прокурорите избират своите хора във ВСС",
+      "link": "https://www.mediapool.bg/bulgaria/prokurorite-izbirat-svoite-hora-vav-vss/",
+      "pubDate": "2026-10-24T05:55:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Първите танкери с руски дизел плават към САЩ",
+      "link": "https://offnews.bg/sviat/parvite-tankeri-s-ruski-dizel-plavat-kam-sasht-877098.html",
+      "pubDate": "2026-10-24T05:50:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877098/phpze72r3_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Рубио: Руско-украинската война е за Донбас",
+      "link": "https://offnews.bg/sviat/rubio-rusko-ukrainskata-vojna-e-za-donbas-877097.html",
+      "pubDate": "2026-10-24T05:45:42.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877097/phprzotbr_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Кандидат за член на ВСС: Нямам никаква връзка с Цацаров",
+      "link": "https://www.mediapool.bg/bulgaria/kandidat-za-chlen-na-vss-nyamam-nikakva-vrazka-s-tsatsarov/",
+      "pubDate": "2026-10-24T05:40:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "AI заменя служители в британския вестник \"The Telegraph\"",
+      "link": "https://www.actualno.com/europe/ai-zamenja-slujiteli-v-britanskija-vestnik-the-telegraph-news_2654036.html",
+      "pubDate": "2026-10-24T05:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/22d11f7e4da80e0a10e97f2eefb6e3d8_2654036_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Справедливи ли са масовите протести във Франция? Анкетата на Actualno",
+      "link": "https://www.actualno.com/actualno/spravedlivi-li-sa-masovite-protesti-vyv-francija-anketata-na-actualno-news_2652817.html",
+      "pubDate": "2026-10-24T05:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/21/60580491519ee5a40209f1f87e1f096c_2652817_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Кой иска мир и кой - капитулация: \"Хуманистът\" Путин говори за военна победа, Мъск в ролята на негов агент, а Тръмп с нова нелепа идея (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/koj-iska-mir-i-koj-kapitulacija-humanistyt-putin-govori-za-voenna-pobeda-mysk-v-roljata-na-negov-agent-a-trymp-s-nova-nelepa-ideja-obzor-video-news_2653996.html",
+      "pubDate": "2026-10-24T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/a074bca43b6fe40fc5ba3015d3ae20cb_2653996_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Френските бизнеси ще затворят врати за уикенда въпреки забраните на протестите",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd251djJjUG9KSGpfTHJjUENGb0czWS1SZlJENDR0cDJXOThfOUVkelBPT1VCRmZHeG1UZjk5QjA0VENCdEJsR000bTlJRE5SMUUwWlVsN3dHLUJOMEc1QlB4SElIbVVNU09aRDl4YjRyVDJNSVlEenVyVUk5SFFZMjNMeXdyeG5Cd3hVYVlPQUQ4OF9tbUZSVWkxcDN0RXdQ?oc=5",
+      "pubDate": "2026-10-24T05:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Дийпфейк порно и интимни снимки онайн: кога законът ще застигне кибертормоза в България",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1hmYU9taWlLeTV2N2F2aEZuNFQ0a04zLVdsQTlWVmlPeUI4V1hjOUZpbmxiMk5xUVduQlpPTVMyTEw2bzc0bXFWYk83VS12amZyZkZfTWdFMUdLVU1pck9zMnlxQnpvaU1TR2ZBa1JGdFUzdm1CdnRWVlNLNTRUdWxHZ0x0SFZzNzNLc0Q2RFpOM3hPY08xMHJKOVctWThnSWZDMg?oc=5",
+      "pubDate": "2026-10-24T05:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Британският в. ''Телеграф'' обяви съкращения, ще използва AI",
+      "link": "https://offnews.bg/medii/britanskiat-v-telegraf-obiavi-sakrashtenia-shte-izpolzva-ai-877096.html",
+      "pubDate": "2026-10-24T05:27:34.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877096/phpsnlpqn_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
+      "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-24T05:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Прокурорите в страната избират четирима членове на новия ВСС",
+      "link": "https://www.actualno.com/crime/prokurorite-v-stranata-izbirat-chetirima-chlenove-na-novija-vss-news_2654032.html",
+      "pubDate": "2026-10-24T05:25:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/dede4038786fa0b918cdefc472ae45f7_2654032_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Музиканти ще изпълнят 555 сонати на Скарлати в тридневен маратон",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGoxZUh0a3ZQa21vbUdGc2xnMGFBdUZValFTUzFBdGR1QlZ2Q25rdHlDbEdlVGpYNFZGZHJlY3BpQU94X3NMY3pxdXRrcWo0YktTSGM3UFdXcTVyRVMzTDNEZTJiX1BaOFZYNjNrV0x4ZTdQbE1ZVDZ1dVNUMlZkZ0pFR1JLRW5KU1JQVS1ZMVBQajN2WkNzWjdUcmR2N2tHS3c?oc=5",
+      "pubDate": "2026-10-24T05:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Гори руски химически завод в Толяти, удар по подстанция спря тока в окупирания Крим (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/gori-ruski-himicheski-zavod-v-toljati-udar-po-podstancija-sprja-toka-v-okupiranija-krim-video-news_2654033.html",
+      "pubDate": "2026-10-24T05:18:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/d7a8b897c1572da49dd4f46aa40eac3d_2654033_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Франция мобилизира 70 000 полицаи за протестите през уикенда",
+      "link": "https://offnews.bg/sviat/frantcia-mobilizira-70-000-politcai-za-protestite-prez-uikenda-877095.html",
+      "pubDate": "2026-10-24T05:17:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877095/phpvcqx2m_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Пътуващият цирк на илюзиите и копнежа",
+      "link": "https://www.mediapool.bg/procheti-tova/patuvashtiyat-tsirk-na-ilyuziite-i-kopnezha/",
+      "pubDate": "2026-10-24T05:08:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Тръмп обеща като приключи с Иран да се заеме с Куба",
+      "link": "https://offnews.bg/sviat/tramp-obeshta-kato-prikliuchi-s-iran-da-se-zaeme-s-kuba-877094.html",
+      "pubDate": "2026-10-24T05:05:23.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877094/php3ysafx_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Дълго или добре платено майчинство? Моделите в Европа са за гъвкаво връщане на работа",
+      "link": "https://www.mediapool.bg/pulse/dalgo-ili-dobre-plateno-maichinstvo-modelite-v-evropa-sa-za-gavkavo-vrashtane-na-rabota/",
+      "pubDate": "2026-10-24T05:04:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Andy Burnham Tests Labour Loyalty With Budget Built for Bond Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/andy-burnham-tests-labour-loyalty-with-budget-built-for-bond-market",
+      "pubDate": "2026-10-24T05:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "OXBO Restaurant & Terrace: Вкусът започва от произхода",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVU5OeXUtTjRKX1A5S3FTZXN5QzNCbTBEX25hVHJyVUs0N19HWGlsck52OHhfMWhJMXd6VUhhSEp6Vzdvc1VCekZUbUdOaldvekYwcmktZHhXNFNCZVR3aEUtWnZqUlZfUDJxN3BJZDZoSlU2aWFqTktHUUJ3QzlOd1lCVnI2Zjl4N21ZdTdxZGNoYkJNX0Y3cjlqeGEzSDlZNHNrakZB?oc=5",
+      "pubDate": "2026-10-24T05:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "India news: India-China border tensions back in focus despite ongoing talks",
+      "link": "https://www.dw.com/en/india-news-india-china-border-tensions-back-in-focus-despite-ongoing-talks/live-79748098?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-24T04:56:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+      "pubDate": "2026-10-24T04:41:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+      "pubDate": "2026-10-24T04:24:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "В неделя се преминава към зимното часово време",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFNFcU5ZVkVEcUdnZG52SHBUUFFKV211dThRaFRvYWlHVWZwY3M4UDRMVVBZLTVyUUIxZnNnblFPX19xaUVURXowd2RNM0pfdWlYbmRGejhYWEhBYU9zU0ZkejNBSGRsRHpOQWZHSVg3UHh4MTBtQzBrZUtQc0ExZGh0eTNBMl9qODgxNklubmlqZ0JzZ1k0TU9aWV9SUkh3ZEE?oc=5",
+      "pubDate": "2026-10-24T04:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Serbian Vote Pits Putin-Backed Strongman Against Student Dissent",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/serbian-vote-pits-putin-backed-strongman-against-student-dissent",
+      "pubDate": "2026-10-24T04:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
+      "pubDate": "2026-10-24T03:54:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZ0LWhGcGF5OWJmMVlpUndFTFgtVGhySFg3aUpZSDk1MGVGOWpvNmozNzR5SVg0eU1lbExKaGJtTmk0VGtDWEFZSnNpMFZTd0xFUU85cmk0RFFuWDVJTDVseVJsRm5ZeWtzNmFMZENRWDJSOGJrT1lUTDV3Y2NKMS1QRzBEWGhMWDZfaTVsVlRqb2pEWWZvMndSaV9HU3gwbHh5b1JBVFhMRHZ4RTE0cy1zNGptUEVtTThaY003bFctUQ?oc=5",
+      "pubDate": "2026-10-24T03:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
+      "pubDate": "2026-10-24T02:53:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0x3U0pTZEhoZWZsQjJTQTVoTl9VdTdkeHdtMnNmMVVzU003NVc0YjhJX3g4MTU5dkRoWHVCSm00MUI2bWRhczZyNE1QVE4wSGFfanVwckZkVV9kRFFQeUpkQ1Z2TkhURWUwZ2ZZb1FsQndnZnhPMlNPZlZJVDZZZTRXQnVnODQ2UHFBd2NLOXVJOXFMdU1MamVHRkhBOVdGdXRydjVqWVRUczV3MmxVdUI2VmQ1eG0y?oc=5",
+      "pubDate": "2026-10-24T02:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
+    {
+      "title": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJmMkFiSmcySEVyVEh1aEdiMkZPUm5aVDB2OTRhWndaVFJqZ085MmdHVFFxeXltbE56VUlJZk9OVEt0QWtKUTh3RHp3MWdmWnJGYURBOWdCVWd0MU54VVFNVFZQbGc5Z01sTE80aU1OTTFWNElfVXJRRlZFWldORzJzdC1PckQyZXZ0MHJMVXl0ZnVYN2JhaXU4TkJVMmRrR3lWRWRYX3FZQnRObFpWZw?oc=5",
+      "pubDate": "2026-10-24T01:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T06:01:05.446Z"
+    },
     {
       "title": "Some Canadian Tariffs Exempted, Trump Ordered Alaska Lawsuit",
       "link": "https://www.bloomberg.com/news/audio/2026-10-24/some-canadian-tariffs-exempted-trump-ordered-alaska-lawsuit",
