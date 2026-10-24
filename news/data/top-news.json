@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T14:37:57.042Z",
-  "overview": "France protests trigger store closures and military deployment amid Paris shooting, while Ukraine regains Starlink access and Kim Jong Un visits China. Aviation incidents kill 22-year-old pilot in Pleven. Digital content crackdown removes satirical pages from Facebook.",
+  "updatedAt": "2026-10-24T14:40:41.236Z",
+  "overview": "Протестите във Франция причиниха затваряне на луксозни магазини и метростанции, като бе мобилизирана армията в Париж. Украйна възстанови Starlink след седмица на прекъсване. Ким Чен Ун посети Китай. В Плевен един 22-годишен пилот загина при авиационен инцидент.",
   "stories": [
     {
       "category": "Общество",
@@ -11,6 +11,7 @@
       ],
       "link": "https://www.actualno.com/asia/kim-chen-un-e-bil-v-kitaj-poluchil-e-pozdravi-ot-si-dzinpin-news_2654168.html",
       "sources": [
+        "FrogNews",
         "Actualno"
       ]
     },
@@ -23,7 +24,7 @@
       ],
       "link": "https://boulevardbulgaria.bg/articles/parizh-zatvarya-metrostantsii-i-magazini-70-000-politsai-i-voenni-sa-mobilizirani-vav-frantsiya",
       "sources": [
-        "Actualno",
+        "Bloomberg",
         "Boulevard Bulgaria",
         "OffNews"
       ]
@@ -39,10 +40,13 @@
       ],
       "link": "https://www.dnevnik.bg/burzi-novini/2026/10/24/4970904_maluk_samolet_se_e_razbil_v_dvora_na_kushta_v_plevensko/?ref=rss",
       "sources": [
-        "FrogNews",
+        "Actualno",
+        "DW",
+        "Bloomberg",
+        "Dnevnik",
         "Mediapool",
-        "Boulevard Bulgaria",
-        "Dnevnik"
+        "FrogNews",
+        "Boulevard Bulgaria"
       ]
     },
     {
@@ -59,10 +63,10 @@
       ],
       "link": "https://www.mediapool.bg/bulgaria/feisbuk-svali-stranitsite-na-kopeikin-puilo-i-elfite/",
       "sources": [
+        "OffNews",
         "Actualno",
         "Mediapool",
         "Dnevnik",
-        "OffNews",
         "FrogNews"
       ]
     },
@@ -74,9 +78,9 @@
         23,
         49
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+      "link": "https://www.dnevnik.bg/izkustven-intelekt/2026/10/24/4970905_gugul_moje_da_polzva_danni_ot_gmail_i_photos_za_ai_i/?ref=rss",
       "sources": [
-        "Reuters",
+        "Dnevnik",
         "Свободна точка"
       ]
     }
