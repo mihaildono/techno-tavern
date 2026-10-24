@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:35:35.847Z",
+  "updatedAt": "2026-10-24T00:33:16.001Z",
   "overview": "Денят е отбелязан с политическата криза в България около скандала с НСО и обвинението за телесна повреда на Соня Колтуклиева, както и с нова ескалация на руско-украйнската война. В САЩ доминират очакванията за предизборните избори при Тръмп, а в Йордания църквеният атак в Карак се числя 7 убити.",
   "stories": [
     {
@@ -18,11 +18,14 @@
       ],
       "link": "https://www.mediapool.bg/bulgaria/sadat-osvobodi-ot-aresta-sluzhitelya-na-nso-obvinen-za-nanesena-telesna-povreda-na-sonya-koltuklieva/",
       "sources": [
-        "Actualno",
+        "Reuters",
         "OffNews",
-        "Mediapool",
+        "Dnevnik",
+        "DW",
         "Boulevard Bulgaria",
-        "Свободна точка"
+        "Mediapool",
+        "Свободна точка",
+        "Actualno"
       ]
     },
     {
@@ -43,10 +46,11 @@
       "link": "https://www.dnevnik.bg/burzi-novini/2026/10/23/4970731_rumuniia_obvini_rusiia_za_potopeniia_korab_v_cherno/?ref=rss",
       "sources": [
         "Actualno",
-        "Reuters",
-        "DW",
-        "FrogNews",
+        "OffNews",
+        "Mediapool",
         "Dnevnik",
+        "FrogNews",
+        "Boulevard Bulgaria",
         "Свободна точка"
       ]
     },
@@ -69,10 +73,11 @@
       "link": "https://www.mediapool.bg/tramp-20/mislya-che-imam-pravo-tramp-zayavi-che-mozhe-da-se-kandidatira-za-treti-prezidentski-mandat/",
       "sources": [
         "Reuters",
-        "DW",
         "Bloomberg",
+        "Actualno",
+        "OffNews",
         "Mediapool",
-        "Boulevard Bulgaria"
+        "Свободна точка"
       ]
     },
     {
@@ -83,10 +88,10 @@
         1,
         36
       ],
-      "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-top-1022-rdf",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/gen-hodges-ret-says-trump-actions-help-russia-s-war-video",
       "sources": [
-        "Reuters",
-        "DW"
+        "Bloomberg",
+        "FrogNews"
       ]
     },
     {
@@ -102,10 +107,12 @@
         57,
         58
       ],
-      "link": "https://www.dnevnik.bg/analizi/2026/10/23/4970725_zashto_gjurov_skusiava_distanciiata_s_iotova/?ref=rss",
+      "link": "https://offnews.bg/politika/giurov-kam-radev-zashto-voiuvate-s-evrodeputatite-vmesto-da-zashtita-877090.html",
       "sources": [
+        "Actualno",
         "OffNews",
         "Dnevnik",
+        "Boulevard Bulgaria",
         "Свободна точка",
         "FrogNews",
         "Mediapool"
