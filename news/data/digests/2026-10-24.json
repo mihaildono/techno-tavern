@@ -1,153 +1,83 @@
 {
-  "updatedAt": "2026-10-24T14:20:11.191Z",
-  "overview": "Денят е белязан от мащабните протести във Франция, убийството на българския бизнесмен Слави Бинев и новите развития около войната в Украйна. В България продължава скандалът с НСО след арести на служители.",
+  "updatedAt": "2026-10-24T14:37:57.042Z",
+  "overview": "France protests trigger store closures and military deployment amid Paris shooting, while Ukraine regains Starlink access and Kim Jong Un visits China. Aviation incidents kill 22-year-old pilot in Pleven. Digital content crackdown removes satirical pages from Facebook.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Франция мобилизира 70 000 полицаи и военни за нови протести",
-      "summary": "Във Франция се очакват мащабни улични протести и нови сблъсъци седмица след безредиците. Париж затваря метростанции и магазини, а луксозните магазини заковават с дъски прозорците. Стрелба край Париж е смятана за терористичен акт.",
+      "category": "Общество",
+      "headline": "Ким Чен Ун посети Китай за официална среща",
+      "summary": "Севернокорейският лидер Ким Чен Ун посети китайския граничен град Дъндун и получи поздрави от председателя Си Дзинпин, както потвърдиха ДУН.",
       "ids": [
-        13,
-        15,
-        18,
-        41,
-        42,
-        57,
-        127,
-        131,
-        141,
-        152,
-        154,
-        161,
-        191,
-        204
+        1
       ],
-      "link": "https://offnews.bg/sviat/luksoznite-magazini-vav-frantcia-zakovavat-s-daski-prozortcite-v-ochak-877117.html",
+      "link": "https://www.actualno.com/asia/kim-chen-un-e-bil-v-kitaj-poluchil-e-pozdravi-ot-si-dzinpin-news_2654168.html",
       "sources": [
-        "Actualno",
-        "OffNews",
-        "Bloomberg",
-        "Boulevard Bulgaria",
-        "DW",
-        "Dnevnik"
+        "Actualno"
       ]
     },
     {
       "category": "Общество",
-      "headline": "Убит е бизнесменът и бивш политик Слави Бинев",
-      "summary": "Бизнесменът и бивш депутат Слави Бинев е застрелян в София. Трима са арестувани за покушението, като един от тях е задържан с оръжие. МВР посочва неуредени финансови отношения като най-вероятния мотив.",
+      "headline": "Париж заключи магазини и метростанции, 70,000 полицаи и военни са на место",
+      "summary": "Протестите във Франция накараха закриването на луксозни магазини и метростанции, като армията бе мобилизирана на улиците в Париж, а един стрелец бе сторил смъртоносно нападение.",
       "ids": [
-        69,
-        71,
-        73,
-        75,
-        76,
-        77,
-        80,
-        81,
-        86,
-        87,
-        88,
-        90,
-        91,
-        93
+        13
       ],
-      "link": "https://www.mediapool.bg/bulgaria/ubit-e-slavi-binev-trima-sa-arestuvani-za-pokushenieto/",
+      "link": "https://boulevardbulgaria.bg/articles/parizh-zatvarya-metrostantsii-i-magazini-70-000-politsai-i-voenni-sa-mobilizirani-vav-frantsiya",
       "sources": [
-        "Boulevard Bulgaria",
-        "Mediapool",
-        "Dnevnik",
         "Actualno",
-        "FrogNews",
-        "Свободна точка",
+        "Boulevard Bulgaria",
         "OffNews"
       ]
     },
     {
-      "category": "Свят",
-      "headline": "Тръмп представи нова идея за прекратяване на войната в Украйна",
-      "summary": "САЩ търсят от Мъск да коригира Starlink в Украйна и Близкия изток. Системата Starlink отново работи безпроблемно в Украйна след седмица на ограничения. Зеленски призова Рубио да преразгледа ограниченията, а Мелания Тръмп помогнала за временно примирие в окупирания град Олешки.",
+      "category": "Спорт",
+      "headline": "Авиациент за смърт на 22-годишен пилот при полет без разрешение в Плевен",
+      "summary": "22-годишен пилот загина и малък самолет се разби в двора на къща край Плевен, като много източници потвърдиха сривът на авиационната безопасност.",
       "ids": [
-        34,
-        36,
-        40,
-        42,
-        49,
-        54,
-        63,
-        82,
-        96,
-        128,
-        146,
-        149,
-        160,
-        182,
-        188,
-        190,
-        192,
-        193,
-        201,
-        207
+        7,
+        9,
+        11
       ],
-      "link": "https://www.actualno.com/europe/sistemata-starlink-otnovo-raboti-bezproblemno-v-ukrajna-news_2654117.html",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/24/4970904_maluk_samolet_se_e_razbil_v_dvora_na_kushta_v_plevensko/?ref=rss",
       "sources": [
-        "Свободна точка",
-        "Dnevnik",
-        "Mediapool",
-        "Bloomberg",
-        "Actualno",
-        "Reuters",
-        "OffNews",
         "FrogNews",
+        "Mediapool",
         "Boulevard Bulgaria",
-        "DW"
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите",
+      "summary": "Цялата три нови сатирични страници - Копейкин, Пуйло и BG Elves - бяха съобщени за сваляне от Facebook, както потвърждава и Dnevnik и FrogNews.",
+      "ids": [
+        6,
+        14,
+        17,
+        18,
+        22,
+        26
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/feisbuk-svali-stranitsite-na-kopeikin-puilo-i-elfite/",
+      "sources": [
+        "Actualno",
+        "Mediapool",
+        "Dnevnik",
+        "OffNews",
+        "FrogNews"
       ]
     },
     {
       "category": "Свят",
-      "headline": "Ким Чен Ун пристигна в Китай през новия мост при Дандонг",
-      "summary": "Севернокорейският лидер Ким Чен Ун пътува до китайската гранична град Дандонг през новооткрит мост. Той е получил поздрави от Си Дзинпин. Събитието е отчетено от DW, Bloomberg, Reuters и Actualno.",
+      "headline": "Украйна възстанови Starlink след седмица на прекъсване",
+      "summary": "Старлинк в Украйна се върна към нормално функциониране след седмица на прекъсване, както съобщиха Reuters, Actualno и FrogNews, няколко седмици след ограниченията.",
       "ids": [
-        1,
-        74,
-        106,
-        134,
-        135
+        23,
+        49
       ],
-      "link": "https://www.actualno.com/asia/kim-chen-un-e-bil-v-kitaj-poluchil-e-pozdravi-ot-si-dzinpin-news_2654168.html",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
       "sources": [
-        "Actualno",
-        "DW",
-        "Bloomberg",
-        "Reuters"
-      ]
-    },
-    {
-      "category": "Общество",
-      "headline": "Шефът на НСО Емил Тонев подава оставка след скандала с Колтуклиева",
-      "summary": "След инцидента в който служител на НСО е изблъскал Соня Колтуклиева, шефът на НСО Емил Тонев е подал оставка. Съдът освободи от ареста служителя Мартин Варадинов, а прокурорите избират четирима членове на ВСС.",
-      "ids": [
-        68,
-        111,
-        121,
-        122,
-        124,
-        196,
-        198,
-        199,
-        216,
-        217,
-        221
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkFOel9PWW1JbzBQbGRkNG9Sa3RQMzNmbjlkc1lTVk5UR2RtTU9GT0F2cThvM0Z6eS1iY2JlWkRacnp2THNic1NqdmtNdHd2VmJRRjl0Z2dCb2E1Tk52TllJam1nYkF1SUxyTU5qZ2M2LVBfZlV0WVZ4a1JDa1lzS3NwSWVlb1BNRjRQMlp3dG80Y2EwRXNseXpCS0ZaSUZXTHZFU3NUT2hxMk9CNGpoOE5ocWc3SlhkRzB3b1NMOA?oc=5",
-      "sources": [
-        "FrogNews",
-        "Actualno",
-        "Свободна точка",
-        "Dnevnik",
-        "OffNews",
-        "Mediapool",
-        "Boulevard Bulgaria"
+        "Reuters",
+        "Свободна точка"
       ]
     }
   ]
