@@ -1,27 +1,29 @@
 {
-  "updatedAt": "2026-10-24T15:24:23.690Z",
-  "overview": "Протестите във Франция продължават с мобилизация на 70 000 полицаи и военни. Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите. Малък самолет се разби край Плевен, пилотът загина. Starlink в Украйна се върна към нормално функциониране след седмица на прекъсване.",
+  "updatedAt": "2026-10-24T15:27:30.296Z",
+  "overview": "Протестите във Франция се засилват с мобилизация на 70 000 полицаи и военни, докато малък самолет се разби край Плевен с жертва. В София е убит бизнесменът и бивш политик Слави Бинев, а Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите. Starlink в Украйна се върна към нормално функциониране след седмица на прекъсване.",
   "stories": [
     {
       "category": "Общество",
       "headline": "Протестите във Франция продължават с мобилизация на 70 000 полицаи и военни",
       "summary": "Луксозните магазини във Франция затварят прозорците си с дъски, а метростанции в Париж се затварят в очакване на нови улични протести. Армията е мобилизирана на улиците.",
       "ids": [
-        14,
+        3,
+        15,
         32,
         44
       ],
       "link": "https://boulevardbulgaria.bg/articles/parizh-zatvarya-metrostantsii-i-magazini-70-000-politsai-i-voenni-sa-mobilizirani-vav-frantsiya",
       "sources": [
+        "Bloomberg",
         "FrogNews",
         "OffNews",
         "Boulevard Bulgaria"
       ]
     },
     {
-      "category": "Здравеопазване",
+      "category": "Общество",
       "headline": "Малък самолет се разби край Плевен, пилотът загина",
-      "summary": "22-годишен пилот загина при полет без разрешение, а малък самолет се разби в двора на къща край Плевен. Случката е потвърдена от FrogNews, Mediapool и Boulevard Bulgaria.",
+      "summary": "22-годишен пилот загина при полет без разрешение, а малък самолет се разби в двора на къща край Плевен.",
       "ids": [
         28,
         29,
@@ -37,7 +39,7 @@
     {
       "category": "Общество",
       "headline": "Убит е Слави Бинев, трима са задържани за покушението",
-      "summary": "Бизнесменът и бивш политик Слави Бинев е застрелян в София. Трима мъже са задържани за убийството, като МВР посочва неуредени финансови отношения като най-вероятния мотив.",
+      "summary": "Бизнесменът и бивш политик Слави Бинев е застрелян в София. Трима мъже са задържани за убийството.",
       "ids": [
         20,
         23
@@ -49,9 +51,9 @@
       ]
     },
     {
-      "category": "Политика",
+      "category": "Общество",
       "headline": "Facebook премахна сатиричните страници Копейкин, Пуйло и Елфите",
-      "summary": "Цялата три нови сатирични страници — Копейкин, Пуйло и BG Elves — бяха съобщени за сваляне от Facebook, както потвърждават Mediapool и FrogNews.",
+      "summary": "Три сатирични страници — Копейкин, Пуйло и BG Elves — бяха съобщени за сваляне от Facebook.",
       "ids": [
         31,
         36
@@ -64,14 +66,16 @@
     },
     {
       "category": "Свят",
-      "headline": "Starlink в Украйна се върна към нормално функциониране",
-      "summary": "Starlink в Украйна е възстановен след седмица на прекъсване на сигнала. Съобщава Reuters.",
+      "headline": "Starlink в Украйна се върна към нормално функциониране след седмица на прекъсване",
+      "summary": "Starlink в Украйна е възстановен след седмица на прекъсване на сигнала.",
       "ids": [
-        4
+        5,
+        13
       ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+      "link": "https://www.actualno.com/europe/evropa-ne-iska-da-zavisi-ot-blagovolenieto-na-sasht-cenata-za-nejnija-starlink-e-solena-no-si-struva-news_2653789.html",
       "sources": [
-        "Reuters"
+        "Reuters",
+        "Actualno"
       ]
     }
   ]
