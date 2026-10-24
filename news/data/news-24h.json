@@ -1,9 +1,454 @@
 {
   "windowStart": "2026-10-24T01:00:37.730Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-24T07:24:05.685Z",
-  "totalItems": 116,
+  "lastUpdated": "2026-10-24T09:00:24.525Z",
+  "totalItems": 152,
   "items": [
+    {
+      "title": "Бизнесменът и бивш политик Слави Бинев е бил убит",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlIyblBIOU9FaTFCaUd6SC1MRUswSllsY0plVW1lWjR5SzVCbDlEcEZqSHZYZ0t2dVNLNHFzQmVCVnlPZTNyVldPVDl1TlhhSF9rM25aR0xobEdkX1d6eWY1eDJ1X1lkYzVfQ2pSYWZvX3h0aXVaMnhjbHpWanpkVzlERnN1U3ZZWk5yWEE0VDg4QjktQjhOR0hvWUdKcnBBS1l6RQ?oc=5",
+      "pubDate": "2026-10-24T08:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Арести на \"Хемус\" след убийството на Слави Бинев: Задържаха трима с оръжие",
+      "link": "https://www.actualno.com/crime/aresti-na-hemus-sled-ubijstvoto-na-slavi-binev-zadyrjaha-trima-s-oryjie-news_2654077.html",
+      "pubDate": "2026-10-24T08:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/3b2b917d09660fc721ef5dc2323c6365_2654077_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Задържаха трима заподозрени за убийството на Слави Бинев",
+      "link": "https://frognews.bg/novini/zadarjaha-trima-zapodozreni-ubiistvoto-slavi-binev.html",
+      "pubDate": "2026-10-24T08:49:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8fe7bc34b_1792831974_6adc71e6776c8.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Ще се разследват твърденията за чуждестанна намеса в изборите в Словения",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkVUWXZzNzhuYVFuNFZwSUw5X2tCWGpUMW5LT2hPOU1aWWRIaDNKMlJYLVY5OEdsWEw1aUlkS2U5RXM5SWEzMjJMZHlKWXFDSjktb1NiSmlIQ0owdW53eXQ1alEtNGpsWFJueFpTTDlsM05rWXM5TjItT3AxanVJUzNYOUI5Q2ZsclUyd1gyV0kxcUIycWxSczM3TkVfR2RqcEE4bWtR?oc=5",
+      "pubDate": "2026-10-24T08:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Близко до Реал Мадрид издание: \"Доволни са от Моуриньо, знае как да се справя с егото на звездите\"",
+      "link": "https://www.actualno.com/football/blizko-do-real-madrid-izdanie-dovolni-sa-ot-mourinio-znae-kak-da-se-spravja-s-egoto-na-zvezdite-news_2654075.html",
+      "pubDate": "2026-10-24T08:45:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/f5e1050ed38de239411d6756e937c996_2654075_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Полицейска акция на АМ „Тракия“, трима души са задържани за убийството на Слави Бинев",
+      "link": "https://boulevardbulgaria.bg/articles/politseyska-aktsiya-na-am-trakiya-trima-dushi-sa-zadarzhani-za-ubiystvoto-na-slavi-binev",
+      "pubDate": "2026-10-24T08:43:27.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwODg0LCJwdXIiOiJibG9iX2lkIn19--337f070a6428839fbdc911d28cf015ad23ebb377/%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%20%D0%B1%D0%B8%D0%BD%D0%B5%D0%B24566.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Бизнесменът и политик Слави Бинев е застрелян в София, съобщи БНР",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTh5X1MzTk53Zi1PTlhzQWdDeHJKd3hEalMzR002WUNZaXc3ZXZ3bTRDX1g4UWxfM1gxbHhWSEdEa3BIb0NDOVRHbzdOaUtxVERDN0VKN1NKRk9CcHhRZFVsaHN0UHNxYl85MWk1dGRfdTZFcHRWMkRSRnZmX2EtLUM3ZWJXOUE?oc=5",
+      "pubDate": "2026-10-24T08:30:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Зеленски: Отправна точка към мира е примирие, не безрезултатни преговори",
+      "link": "https://frognews.bg/novini/zelenski-otpravna-tochka-kam-mira-primirie-bezrezultatni-pregovori.html",
+      "pubDate": "2026-10-24T08:27:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/880aff178_1792830503_6adc6c27e6ec6.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Още веднъж за единството на българската нация",
+      "link": "https://offnews.bg/nashite-avtori/oshte-vednazh-za-edinstvoto-na-balgarskata-natcia-877077.html",
+      "pubDate": "2026-10-24T08:24:12.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877077/php2jablx_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "KenGen Names Ronoh Kibet Charles as Next Chief Executive Officer",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/kengen-names-ronoh-kibet-charles-as-next-chief-executive-officer",
+      "pubDate": "2026-10-24T08:16:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Алуминиеви радиатори за парно - избор и изчисляване на нужния брой гърла",
+      "link": "https://offnews.bg/dom/aluminievi-radiatori-za-parno-izbor-i-izchisliavane-na-nuzhnia-broj-877063.html",
+      "pubDate": "2026-10-24T08:15:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/23/877063/phpirxuod_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Убит е Слави Бинев. Версията е скандал с познати",
+      "link": "https://www.mediapool.bg/bulgaria/ubit-e-slavi-binev-versiyata-e-skandal-s-poznati/",
+      "pubDate": "2026-10-24T08:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Убит е бизнесменът и бивш депутат Слави Бинев",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcllJLTlBWHMwME9rY1J4Sjd5Q3FIOWhtUUVfTHc4SUFsbnRXN24tMERSQmUyemhNRVAzNV80Y2pMWlU1QzVyc1dOUmx6SERDUjllY1dId3U0QXZxMnBIbnRZMTg2S0VxSkhvYlQxZ3prWVZiMFpjcmNsc0ZjU1JFOENneVdrdE9xdC1yRzktLVlJUW8tV1p2QnFXZGw3MlU?oc=5",
+      "pubDate": "2026-10-24T08:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Застреляха бизнесмена Слави Бинев",
+      "link": "https://boulevardbulgaria.bg/articles/zastrelyaha-biznesmena-slavi-binev",
+      "pubDate": "2026-10-24T08:09:22.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcwODc2LCJwdXIiOiJibG9iX2lkIn19--a2af913f2eb08b1e0dcc1cc431bc892127e4aef5/slavi%20binev%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Емблема на ЦСКА: \"Елементарните грешки са фатални, има проблем в защитата\"",
+      "link": "https://www.actualno.com/bgfootball/emblema-na-cska-elementarnite-greshki-sa-fatalni-ima-problem-v-zashtitata-news_2654068.html",
+      "pubDate": "2026-10-24T08:05:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/aaaad2214689d38a9cff567cb04076bb_2654068_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Застреляха бизнесмена Слави Бинев, зам.-председател на БОК, в София",
+      "link": "https://frognews.bg/novini/zastreliaha-biznesmena-slavi-binev-zam-predsedatel-bok-sofiia.html",
+      "pubDate": "2026-10-24T08:04:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0e85cb1b7_1792829321_6adc6789df146.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Убиха бизнесмена Слави Бинев (обновява се)",
+      "link": "https://offnews.bg/112/ubiha-biznesmena-slavi-binev-obnoviava-se-877103.html",
+      "pubDate": "2026-10-24T08:01:16.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877103/phpi0pyex_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Forget the Toaster. Nigerian Newlyweds Want Solar Panels.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-24/forget-the-toaster-nigerian-newlyweds-want-solar-panels",
+      "pubDate": "2026-10-24T08:00:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Убиха бизнесмена Слави Бинев",
+      "link": "https://www.actualno.com/crime/ubiha-biznesmena-slavi-binev-news_2654067.html",
+      "pubDate": "2026-10-24T08:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/432e9d01501d73f33bbe9235788917b0_2654067_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Тази нощ връщаме часовника с един час назад към зимното астрономическо време",
+      "link": "https://frognews.bg/novini/tazi-nosht-vrashtame-chasovnika-edin-chas-nazad-kam-zimnoto-astronomichesko-vreme.html",
+      "pubDate": "2026-10-24T08:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/fd22dc0c2_1792828891_6adc65db8ba35.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Odd Lots: How to Run a Restaurant For Three Decades (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-24/odd-lots-how-to-run-a-restaurant-for-three-decades-podcast",
+      "pubDate": "2026-10-24T08:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Ukraine Says Restrictions on Starlink Speed Have Been Lifted",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/ukraine-says-restrictions-on-starlink-speed-have-been-lifted",
+      "pubDate": "2026-10-24T07:59:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Огън обхвана бившата нацистка резиденция \"Орловото гнездо\" в Германия",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXBvMUJCUFBBZmFWUUFCX1g5SE9iQTJuRnRSM0wwekljQmNWSEV2ZDliQUlXSjV1c3o4dlE5RUN2ZHJFcXBxZ21zN0NDd0dKMDN2aGpfWlN0aG9mUmpNQTgwVlVla0hOc25EZTBTRFN5OWIxWTViYTBDLWNqWkNKTG96Q0VaVDBYajktYzR5MjFhcVBmUDZQZTR2TWJrbFV6bTlkeVZLSDMtdWc?oc=5",
+      "pubDate": "2026-10-24T07:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Бой в Петрич завърши с двама пострадали",
+      "link": "https://offnews.bg/112/boj-v-petrich-zavarshi-s-dvama-postradali-877102.html",
+      "pubDate": "2026-10-24T07:53:20.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877102/phpftkisk_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Две огромни липси за ЦСКА срещу Лудогорец, звезда \"дебютира\" при Гиздол",
+      "link": "https://www.actualno.com/bgfootball/dve-ogromni-lipsi-za-cska-sreshtu-ludogorec-zvezda-debutira-pri-gizdol-news_2654065.html",
+      "pubDate": "2026-10-24T07:49:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/24/fe92def9eb80d7d48a78e25ea81c2f12_2654065_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
+      "pubDate": "2026-10-24T07:48:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Атанаска Дишева: Правят впечатление емблематични арести в седмицата на изборите",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekdpUkdoWDFGLVhqaDNOdm1PYWRnVkxmTzRpREphdVIxM1FFZmxfLVhjNzdfYndQRXRaUnR1bFhvaThQZ1l4RXhHR0E5ajVWWkE1cXBGY0xIdUpJY0RRckk2QkRKWnV2YzE3NXdHSk9tcllKOXlBcHZWNUFodVZJc0lOaWpkbklyanM4XzlxcGZXRGZTUXlvOWJrSGdFMzFBUmdVWXJB?oc=5",
+      "pubDate": "2026-10-24T07:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3",
+        "publisher": "Dnevnik.bg"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Грипът вече е у нас. Лекари предупреждават за сериозни усложнения",
+      "link": "https://offnews.bg/zdrave/gripat-veche-e-u-nas-lekari-preduprezhdavat-za-seriozni-uslozhnenia-877101.html",
+      "pubDate": "2026-10-24T07:34:52.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/24/877101/phpzb16zy_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Прокурорите гласуват за свои представители във ВСС",
+      "link": "https://boulevardbulgaria.bg/articles/prokurorite-glasuvat-za-svoi-predstaviteli-vav-vss",
+      "pubDate": "2026-10-24T07:31:29.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1OTIsInB1ciI6ImJsb2JfaWQifX0=--4d4dab26fe95a3259869665ef6e24a9e4cd75db2/vote.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Голямата картина: Протестите и арестите изпревариха изборите",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0g4Q1VkVjBGTk1wRWtqMUNESDBydnZUWTBQTEhXY3hCZm9WdGpyWUVaVU5zV1Bud25xZE03NGhuQlV3YUduQ3NKZEhRNTlvaVpZM0dPVmQxd0NqREdZYm1FcEFQdV9OaUFQQnFxRWZyWURhdzZSM2FQcEZsYVN0NUNwcGFmME04bl9XQ1FPeDY?oc=5",
+      "pubDate": "2026-10-24T07:31:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Прокурорите избират своите четирима членове във ВСС",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQOXItc2F5UUFWcHBMRy12bzNUZEhPQU9XVGtDQjR0eE4yMkxnSU41X1NmMm42TlJjaWIwZzNRcDAxYklLT3BPVTFvZnMwUUVj?oc=5",
+      "pubDate": "2026-10-24T07:31:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "North Korean leader Kim Jong Un arrives in Chinese border city",
+      "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-24T07:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Four Philippine Air Force pilots killed in training accident",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
+      "pubDate": "2026-10-24T06:55:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "France's luxury stores board up windows ahead of fresh protests",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
+      "pubDate": "2026-10-24T06:53:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Jordan tightens security after deadly church attack kills seven",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSldwN2ViWHdOeFFhai1heXdsT0ExOW9GNW1FYlpPQnhad0NzTE53N3p3ckRqSlJUTnE0eGNnOHZOb1dIZGdKbng5d2lxMHp0cHpGb1QyOXVsUjlQamVzOGlHVkJCRlBXSk0zaURFekgtSDA5X1praWRjek14NGlOMmdHZnAxd29LRFRJamRSdTZtV1lCbm1UUEh3V1EwOFFFaFUycTZDZHJucFJHS3BicDdMNWY2N1VHa19feDJoZTRkU1l3T0E?oc=5",
+      "pubDate": "2026-10-24T06:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
+    {
+      "title": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzhiV2tiVEJJcEs1Skc2QS0yQWN0cEw5c1JUbHdiSERtd2FHZW5RclA5UEhjby1UMk5FZDZwUWVKQ0dfSUFNVlJuNldHdVYwVXdRNUx0U08yaWNrWWp2bnpGcThLczVtVWl3QVFfLXdDRlZLRkdnY2dWTkZYM2V2WEtuVWVKV2FCcGZEWjRuUlVvMGNfVmtVMFlVMldKT3Z5bklvZGlHbUpOR1MzU0EzNmhHSkUwUGdkMVM4NDUxd0xtUQ?oc=5",
+      "pubDate": "2026-10-24T05:23:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-24T09:00:24.525Z"
+    },
     {
       "title": "\"НСО прекали със силата, Колтуклиева наруши реда\": Двойната грешка според ген. Миланов",
       "link": "https://www.actualno.com/crime/nso-prekali-sys-silata-koltuklieva-narushi-reda-dvojnata-greshka-spored-gen-milanov-news_2654056.html",
