@@ -1,7 +1,623 @@
 {
   "windowStart": "2026-10-25T16:36:40.613Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-25T16:36:40.613Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-25T18:24:35.359Z",
+  "totalItems": 50,
+  "items": [
+    {
+      "title": "Льо Пен обявява кандидатурата си за президент на Франция",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/25/4971404_lyo_pen_obiaviava_kandidaturata_si_za_prezident_na/?ref=rss",
+      "pubDate": "2026-10-25T18:19:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971399.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Кой за кого гласува: Дамите солидарно подкрепиха Йотова, мъжете се раздвоиха",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/25/4971320_koi_za_kogo_glasuva_damite_solidarno_podkrepiha_iotova/?ref=rss",
+      "pubDate": "2026-10-25T18:18:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971344.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Зеленски: Само за седмица Русия е изстреляла срещу Украйна около 1600 бомби, 48 ракети и 2300 дрона",
+      "link": "https://offnews.bg/sviat/zelenski-samo-za-sedmitca-rusia-e-izstreliala-sreshtu-ukrajna-okolo-1-877177.html",
+      "pubDate": "2026-10-25T18:17:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/25/877177/phpge8tbv_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "\"Силен звучен шамар за Радев\": Политолог препоръчва на кандидатите да звънят на Борисов преди балотажа",
+      "link": "https://www.actualno.com/politics/silen-zvuchen-shamar-za-radev-politolog-preporychva-na-kandidatite-da-zvynjat-na-borisov-predi-balotaja-news_2654557.html",
+      "pubDate": "2026-10-25T18:16:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/25/8648d5f9a38ed74aa821a13561221c84_2654557_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Първа реакция от ГЕРБ: Гръмотевичен срив на Радев и ПБ",
+      "link": "https://www.actualno.com/politics/pyrva-reakcija-ot-gerb-grymotevichen-sriv-na-radev-i-pb-news_2654554.html",
+      "pubDate": "2026-10-25T18:14:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/25/d4bc2e5c35dac27ae74b4dca0a662226_2654554_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Magnitude 5.2 earthquake strikes Hindu Kush region in Afghanistan, EMSC says",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1Z5NGh4Q3VMcEJLM3pGUkU5TnZkUExtX0R4dDRzQzllLXVpejdOb1FiUTFMZy1xMnBuYi1HSXhKcWozWFRzWW1ZMzZaZVI1eUw0a2xuX3BqR29OT2tUb0loSTQxRjdmTGRHM0x0d3c4anF5dmpiM1NCZVhyYTFiT2I4M3pLTThLWk1YTXp5M2FGLUlhc0x4NWp0LXI2M2pVRkN6NTFGTnhfZDR3R2FkYVJBTTRNRFFJOVR1czRzSzhsanFETVI4?oc=5",
+      "pubDate": "2026-10-25T18:13:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Първи резултати от изборите: Илияна Йотова и Андрей Гюров са с почти изравнена подкрепа",
+      "link": "https://boulevardbulgaria.bg/articles/parvi-rezultati-ot-izborite-edva-3-e-razlikata-mezhdu-iliyana-yotova-i-andrey-gyurov",
+      "pubDate": "2026-10-25T18:13:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMjY2LCJwdXIiOiJibG9iX2lkIn19--b2e9844db5b43c2ab2880030497969da651e4bbf/%D0%B8%D0%BB%D0%B8%D1%8F%D0%BD%D0%B0%20%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%B3%D1%8E%D1%80%D0%BE%D0%B2%202510.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Портрет на избирателите: Възрастните гласуващи предпочетоха Йотова, а младите Гюров",
+      "link": "https://www.dnevnik.bg/politika/2026/10/25/4971364_portret_na_izbiratelite_vuzrastnite_glasuvashti/?ref=rss",
+      "pubDate": "2026-10-25T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971363.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Антирекорд: Най-ниската избирателна активност в историята на президентските избори",
+      "link": "https://www.actualno.com/society/antirekord-naj-niskata-izbiratelna-aktivnost-v-istorijata-na-prezidentskite-izbori-news_2654543.html",
+      "pubDate": "2026-10-25T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/25/a22834a213faae7b2da888fd6d4300a8_2654543_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Пълна ТВ програма на Световното първенство по вдигане на тежести 2026",
+      "link": "https://www.actualno.com/moresport/pylna-tv-programa-na-svetovnoto-pyrvenstvo-po-vdigane-na-tejesti-2026-news_2654553.html",
+      "pubDate": "2026-10-25T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/25/58c928ad9401da57b4d68088edb26014_2654553_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "ГЕРБ, ДПС, ПБ: Кого подкрепиха избирателите на трите формации",
+      "link": "https://frognews.bg/novini/gerb-dps-kogo-podkrepiha-izbiratelite-trite-formatsii.html",
+      "pubDate": "2026-10-25T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9de4b8b9e_1792951851_6ade462bf291c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Отиде си един от авторите на действащата Конституция – проф. Александър Джеров",
+      "link": "https://frognews.bg/novini/otide-edin-avtorite-deistvashtata-konstitutsiia--prof-aleksandar-djerov.html",
+      "pubDate": "2026-10-25T18:09:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/98d6ec8e3_1792951897_6ade465956e5d.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Прогресивна България загуби 900 000 гласа",
+      "link": "https://offnews.bg/izbori/progresivna-balgaria-zagubi-900-000-glasa-877174.html",
+      "pubDate": "2026-10-25T18:08:06.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/25/877174/phpk3cy2n_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "\"Под 10 000 гласа разлика\": Според социолози Йотова обра критиката срещу властта",
+      "link": "https://www.actualno.com/society/pod-10-000-glasa-razlika-spored-sociolozi-jotova-obra-kritikata-sreshtu-vlastta-news_2654552.html",
+      "pubDate": "2026-10-25T18:08:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/25/5d555fd13c86e899dd0e318e47bc694d_2654552_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Тези избори се превърнаха във вот на доверие към кабинета, смята Добромир Живков",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/25/4971393_tezi_izbori_se_prevurnaha_vuv_vot_na_doverie_kum/?ref=rss",
+      "pubDate": "2026-10-25T18:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971392.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "A 50% Yield? The AI Trade Is Getting Wild After CoreWeave",
+      "link": "https://www.bloomberg.com/opinion/articles/2026-10-25/a-50-yield-the-ai-trade-is-getting-wild-after-coreweave",
+      "pubDate": "2026-10-25T18:00:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Първи резултати: И при бойкот на ГЕРБ и ДПС Гюров почти изравни Йотова",
+      "link": "https://offnews.bg/politika/parvi-rezultati-i-pri-bojkot-na-gerb-i-dps-giurov-pochti-izravni-joto-877166.html",
+      "pubDate": "2026-10-25T18:00:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/25/877166/php8ibodl_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Bulgarian President Set to Win First Round of Election: Poll",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/bulgarian-president-set-to-win-first-round-of-election-poll",
+      "pubDate": "2026-10-25T18:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Витанов: Подценихме тези избори, ще коригираме пропуските на балотажа",
+      "link": "https://offnews.bg/politika/vitanov-podtcenihme-tezi-izbori-shte-korigirame-propuskite-na-balota-877175.html",
+      "pubDate": "2026-10-25T17:57:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/25/877175/phphi7p3t_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Кой за кого гласува според партийните предпочитания",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/25/4971122_koi_za_kogo_glasuva_spored_partiinite_predpochitaniia/?ref=rss",
+      "pubDate": "2026-10-25T17:57:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971123.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Trump Weighs Iran Escalation, Ukraine Talks, Brazil Elections",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-25/trump-weighs-iran-escalation-ukraine-talks-brazil-elections",
+      "pubDate": "2026-10-25T17:48:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Петър Витанов: Подценихме тези избори",
+      "link": "https://boulevardbulgaria.bg/articles/petar-vitanov-podtsenihme-tezi-izbori",
+      "pubDate": "2026-10-25T17:47:28.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMzEzLCJwdXIiOiJibG9iX2lkIn19--fbd91760acbe1a3001137f4768fb4fa2a3902c8c/%D0%BF%D0%B5%D1%82%D1%8A%D1%80%20%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "De olho nas eleições",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz",
+      "pubDate": "2026-10-25T17:47:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Първи резултати от вота: Йотова–Вълчев с крехка преднина пред Гюров–Кандев, отиваме на балотаж",
+      "link": "https://frognews.bg/novini/parvi-rezultati-vota-iotovavalchev-krehka-prednina-pred-giurovkandev-otivame-balotaj.html",
+      "pubDate": "2026-10-25T17:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0ee9da87c_1792950554_6ade411a5a6b7.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Car Crash With Alaska Democrat Peltola Delays Campaign Rallies",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/car-crash-with-alaska-democrat-peltola-delays-campaign-rallies",
+      "pubDate": "2026-10-25T17:15:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+      "pubDate": "2026-10-25T17:13:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "\"Сериозна изненада\": Само 20,8% са гласували на президентските избори към 18 ч., според \"Алфа рисърч\"",
+      "link": "https://boulevardbulgaria.bg/articles/seriozna-iznenada-samo-20-8-sa-glasuvali-na-prezidentskite-izbori-kam-18-ch",
+      "pubDate": "2026-10-25T17:06:30.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMjk4LCJwdXIiOiJibG9iX2lkIn19--b8b63490bff20e6472a1f3ff76e46233a9ac5ffe/39402.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Liverpool grab home win, Man United slump to another defeat as pressure mounts on Carrick",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3N4VFpLcUN0SlFQMzRxdVBiR0hkWjBmVW9iQXVuLTBNZnZFSUFaTDZaQ052R1NlOU1xYU5ybW5DQzV6RlQ3eFB6NFNCMGU2ZU1WR2JGNHlTUjRQU2Q3SkxnT0lRR1VnSGNzX0oyUWdNVUZLem94R2pMLTRwY1d4YTJ0Ym5Fdmp5WnNzSGVYM3lZTGRFWGk5ZW54aEJicFpaSEZWMHlGZkpHS2IyU29BZHdsclFBMHJQMHNGMFAtTVByclZWcTFLUg?oc=5",
+      "pubDate": "2026-10-25T17:02:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3JPM2RsSG1DcVg1NFh3Y3ljUXp3MmJSTU9QTWEycDVTN1lRelFGSEk5MWlxdjlBazcwRERzME9ieWFxRE5lbGZQZXA3WU5aMXdqTDctQ08yUkw3b243YnE1Vnp4bUxVLTZLQTJ0U21UemtpWURfSGNsa05mazRFVXIyLXQta0R4dGdqdDRXd3laMXFBLUNrSGNlVUNDUm5kM1Ytb3ZCQjhQVlJJdWpXWm9hWWYxalVQ?oc=5",
+      "pubDate": "2026-10-25T16:58:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Почина проф. Александър Джеров",
+      "link": "https://offnews.bg/obshtestvo/pochina-prof-aleksandar-dzherov-877169.html",
+      "pubDate": "2026-10-25T16:56:04.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/25/877169/phphqqjx5_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Интрига на президентския вот: „Тренд“ отчита изненада при първите трима кандидати",
+      "link": "https://frognews.bg/novini/intriga-prezidentskiia-vot-trend-otchita-iznenada-pri-parvite-trima-kandidati.html",
+      "pubDate": "2026-10-25T16:51:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/bbea50ba0_1792947456_6ade3500188d0.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
+      "pubDate": "2026-10-25T16:48:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Рекордна активност на изборите в Сърбия: Над 56% от гражданите са гласували към 16 ч.",
+      "link": "https://boulevardbulgaria.bg/articles/rekordna-aktivnost-v-sarbiya-nad-56-ot-grazhdanite-sa-glasuvali-kam-16-ch",
+      "pubDate": "2026-10-25T16:41:55.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMjgyLCJwdXIiOiJibG9iX2lkIn19--262327d91c155703bc709fd83ee7d372c18dca12/%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B8%D1%82%D0%B5%20%D0%B2%20%D1%81%D1%8A%D1%80%D0%B1%D0%B8%D1%8F.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Антон Герашченко: Москва иска ново преразпределение на силите в Европа в преговорите със САЩ",
+      "link": "https://frognews.bg/novini/anton-gerashchenko-moskva-iska-novo-prerazpredelenie-silite-evropa-pregovorite-sas-sasht.html",
+      "pubDate": "2026-10-25T16:37:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/571ca6277_1792946969_6ade331959c0a.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Белица бойкотира изборите след ареста на кмета Радослав Ревански",
+      "link": "https://boulevardbulgaria.bg/articles/belitsa-boykotira-izborite-sled-aresta-na-kmeta-radoslav-revanski",
+      "pubDate": "2026-10-25T16:24:06.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMTkxLCJwdXIiOiJibG9iX2lkIn19--d7df5dbe3ad76bb3b613e6f5dfa91eca801472d0/%D1%83%D1%80%D0%BD%D0%B0_%D0%B1%D1%8E%D0%BB%D0%B5%D1%82%D0%B8%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%B5.JPG"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Protein shakes for teenagers: Good or bad idea?",
+      "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-25T16:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Студентите срещу Вучич. Сърбия гласува на предсрочни избори след месеци на протести",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUxiZWFaU1E5SUxIdTlJa0pVbmppclNQUUdKdEtya2xnYWMzUDhHNExSbnQxMUVKLVJUZUVFNWM2VTlTNnR0RnA2QlBlS0tkakU1TmFXSkRTYW9KSW94akNULThfMy10R3oteUZFV3lfX2pVTDJyaThGSGRtdlV1Wi1zVDZQOFdqaGd1VDRBdzFOVERHdV93YnZRdjZTSTNrbXZBcm9Halh0NEVadmdoY2JJNTNqR2wxaWNGLUQzZmc?oc=5",
+      "pubDate": "2026-10-25T16:11:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "С двулитрова бира в багажа: Отстраниха председател на СИК в Бургаско",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/s-dvulitrova-bira-v-bagazha-otstraniha-predsedatel-na-sik-v-burgasko/",
+      "pubDate": "2026-10-25T15:52:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Радев прогнозира убийствата да продължат. Ще решава за оставката на шефа на НСО, след като види резултатите от разследването",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlFQb3R1V1YxamdTVlIwb0doMHNYbGNJZ1g4TnZJOFVCNUhHUWpvWE9FczZOZGJGcFZhZDhFR3pnMWptODkzdUZEdFlCbVNBeHZYTmNxdnlwQjdveUZleW5ZYjFXcGFpRmF6MjRJSGFZZndpalkyc0NTZ3pfX2RnZjNGbVRBOHZyMW8tdFhCdzU2eU5SNUNGTkdkbEM3ZnNjajFfd2FfYVBSNHBteWdpQkhLS0VaUWpFU2JVQXdvaGlzaHgwMGMyb19MSGQ3bU9nOWVvNlJYZzdTNHBrRXFxZFdvS2pSZ28xbU9QWnFLRFpvOWM?oc=5",
+      "pubDate": "2026-10-25T15:32:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Сатирични страници във Фейсбук са свалени. Опозицията обвини правителството. Радев каза, че то „няма нищо общо“",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFdLZXp4R2F2NExEWkctUElUUURLX3FYd2trX1h2WnpzcklLVE1Xb3hDb0N2QXRYajFuMGtLZ1ExMm1tdWdRTmozRkxqU0FJSGEtblJVeTJWMGZlNV9GN1FIYkd0ZkVPalE5TG5BMFJxcmE2WjJNUEJ4OXlZTERYb2lORkhlbS03cl9NRkFmNU5nTGV2Si16bEV2YUdwZTBSbGNwcFdJQzJxZ3dMbWwza3FR?oc=5",
+      "pubDate": "2026-10-25T15:32:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Борисов: \"Непоискана подкрепа на никого не даваме\". По-късно лидерът на ГЕРБ все пак гласува (Обновена)",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/borisov-nepoiskana-podkrepa-na-nikogo-ne-davame-po-kasno-liderat-na-gerb-vse-pak-glasuva-obnovena/",
+      "pubDate": "2026-10-25T15:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Чужденец е обвинен за убийството на Слави Бинев. Прокуратурата твърди, че е действал сам",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNWJnUjNZVHpwOG1qYXBVNHVXTlBFQzIyazJBVFZBa1M3Q0pZVlhJSnVYa1RjR3pNeFdDQkh2NmlFWnFEb1p2b1dCQnNvQkpYcWp0X0oxQjAwUXBkNjJFYlFPZzY2ZV8yNklUR2M4MXV0d2dzUVhnR09aM2lxNk1iTWc4TnNxcnAyb2hFWkg3LWJBcUNaUTFma19NVUtBblY5aENtdXJIcTFlMUcwRjNLVUV4MVg3cjQ3bFRETzhrNFVzQQ?oc=5",
+      "pubDate": "2026-10-25T14:40:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Единият от тримата задържани за убийството на Слави Бинев е бил обвинен",
+      "link": "https://www.mediapool.bg/bulgaria/ediniyat-ot-trimata-zadarzhani-za-ubiystvoto-na-slavi-binev-e-bil-obvinen/",
+      "pubDate": "2026-10-25T14:17:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+      "link": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-25T14:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Исторически ниска активност – 16.04% към 16 часа. Задават ли се изненади?",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/istoricheski-niska-aktivnost-1604-kam-16-chasa-zadavat-li-se-iznenadi/",
+      "pubDate": "2026-10-25T14:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-25T13:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Двама журналисти нападнати с ритници и камъни край избирателна секция в Сърбия (Обновена)",
+      "link": "https://www.mediapool.bg/svyat/dvama-zhurnalisti-napadnati-s-ritnitsi-i-kamani-krai-izbiratelna-sektsiya-v-sarbiya-obnovena/",
+      "pubDate": "2026-10-25T13:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Прокурорите не избраха своите членове за ВСС на първи тур. Гласуват отново",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnB0QkdoT3o4MGRGd1M1dFFHTXE5MDlsdUJYZkJkQ3R0OXIxX3RLZFdpRHpKWkRvSl9RUEN0UjFHZ21weWJRT3FxTHhzXzBJVmVxR2F0ZGJpSmdScm5DMEtFSDVpeWhzanplSXhLcUgzN296MnppVXJlUUw1WS10WkdONUFiakpsTlVyNlpUQ0VpdXFEQmpFbTB2bGxNZWNPRUtrSzFpajRxS0h0?oc=5",
+      "pubDate": "2026-10-25T13:31:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-25T13:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    },
+    {
+      "title": "Israel to close all West Bank land crossings on election day",
+      "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-25T13:09:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-25T18:24:35.359Z"
+    }
+  ]
 }
