@@ -1,82 +1,121 @@
 {
   "updatedAt": "2026-10-24T15:33:19.277Z",
-  "overview": "Днес се наблюдават водещи събития в България и света: протези във Франция, нови действия на Тръмп в САЩ, убийството на политика и бизнесмен Слави Бинев в София и инцидент с паднал малък самолет край Плевен.",
+  "overview": "Бизнесменът и бивш политик Слави Бинев беше застрелян в София, съдът освободи охранителя от НСО, блъснал Соня Колтуклиева, а Франция мобилизира 70 000 полицаи и военни преди нови протести.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Бардела е преизбран президент на френския праворадик, Франция под обсада",
-      "summary": "Лидерът на френската крайдвижбистка партия е преизбран президент на Национален събор. Франция се оказва под обсада със сълзотворен газ, заковани витрини и мобилизиране на 70 000 полицаи и военни в Париж.",
-      "ids": [
-        7,
-        15,
-        44
-      ],
-      "link": "https://frognews.bg/novini/frantsiia-pod-obsada-salzotvoren-gaz-zakovani-vitrini-70-000-politsai-ulitsata.html",
-      "sources": [
-        "Bloomberg",
-        "FrogNews",
-        "Boulevard Bulgaria"
-      ]
-    },
-    {
-      "category": "Политика",
-      "headline": "Тръмп отмени митата върху канадските стоки, иранската криза и републиканците",
-      "summary": "Американският президент Тръмп отмени 50-процентните мита върху част от канадските стоки преди междинните избори в САЩ. Външната политика му удря джоба на гражданите и застрахва републиканците, а корабите на САЩ ще минат през Куба на връщане от Иран.",
-      "ids": [
-        10,
-        19,
-        41
-      ],
-      "link": "https://www.dnevnik.bg/sviat/2026/10/24/4970934_vunshnata_politika_na_trump_udria_djoba_na_grajdanite/?ref=rss",
-      "sources": [
-        "Dnevnik",
-        "OffNews",
-        "Mediapool"
-      ]
-    },
-    {
       "category": "Общество",
-      "headline": "Слави Бинев е застрелян в София, трима мъже са задържани",
-      "summary": "Бизнесменът и политик Слави Бинев е застрелян в София. Трима мъже са задържани за убийството му, а Политици коментират случая като завръщане на България в 90-те години.",
+      "headline": "Слави Бинев е застрелян в София, трима са задържани",
+      "summary": "Бизнесменът и бивш депутат Слави Бинев беше застрелян в София. Трима души са задържани при полицейска акция на магистрала „Тракия“, а според МВР най-вероятният мотив са неуредени финансови отношения.",
       "ids": [
         16,
         20,
-        23
+        23,
+        108,
+        109,
+        110,
+        113,
+        118,
+        119,
+        122,
+        126,
+        127,
+        128,
+        130,
+        131,
+        133
       ],
-      "link": "https://www.dnevnik.bg/bulgaria/2026/10/24/4970920_politici_komentirat_ubiistvoto_kato_zavrushtane_na/?ref=rss",
+      "link": "https://boulevardbulgaria.bg/articles/zastrelyaha-biznesmena-slavi-binev",
       "sources": [
         "Dnevnik",
-        "Свободна точка"
+        "Свободна точка",
+        "Boulevard Bulgaria",
+        "FrogNews",
+        "Mediapool",
+        "Actualno",
+        "OffNews"
       ]
     },
     {
       "category": "Общество",
-      "headline": "Самолет падна край Плевен, 22-годишният пилот е загинал",
-      "summary": "Малък самолет падна в двора на къща край Плевен при полет без разрешение. Пилотът на 22 години е загинал в резултат от инцидента.",
+      "headline": "Съдът освободи охранителя от НСО, блъснал Соня Колтуклиева",
+      "summary": "Софийският военен съд освободи от ареста служителя на НСО Мартин Варадинов, без да му наложи мярка. Съдия Атанаска Дишева коментира, че задържането не е било необходимо.",
       "ids": [
-        28,
-        29,
-        30
+        46,
+        107,
+        165,
+        167,
+        247
       ],
-      "link": "https://frognews.bg/novini/malak-samolet-padna-krai-pleven-pilotat-zagina.html",
+      "link": "https://www.actualno.com/crime/bez-da-mu-naloji-mjarka-sofijskijat-voenen-syd-osvobodi-ot-aresta-garda-ot-nso-martin-varadinov-news_2654007.html",
+      "sources": [
+        "Свободна точка",
+        "FrogNews",
+        "Actualno",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Франция мобилизира 70 000 полицаи и военни преди нови протести",
+      "summary": "Франция мобилизира 70 000 полицаи и военни за протестите през уикенда. В Париж затварят метростанции и магазини, а луксозните бутици заковаха витрините си с дъски.",
+      "ids": [
+        15,
+        44,
+        59,
+        115,
+        149,
+        180,
+        186,
+        192,
+        201
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/parizh-zatvarya-metrostantsii-i-magazini-70-000-politsai-i-voenni-sa-mobilizirani-vav-frantsiya",
       "sources": [
         "FrogNews",
-        "Mediapool",
-        "Boulevard Bulgaria"
+        "Boulevard Bulgaria",
+        "OffNews",
+        "DW",
+        "Reuters",
+        "Actualno",
+        "Dnevnik"
       ]
     },
     {
       "category": "Технологии",
-      "headline": "Фейсбук свали страниците на Копейкин, Пуйло и Елфите",
-      "summary": "Фейсбук е извършил дигитална метла и свали страниците на Копейкин, Пуйло и Елфите. Действието отразява по-широкото почистване на платформата.",
+      "headline": "Facebook свали сатиричните страници „Копейкин“, „Пуйло“ и BG Elves",
+      "summary": "В деня за размисъл преди изборите Facebook свали едновременно сатиричните страници „Копейкин“, „Пуйло“ и BG Elves. Депутатът Ивайло Мирчев съобщи за свалянето.",
       "ids": [
         31,
-        36
+        36,
+        58,
+        61,
+        71
       ],
-      "link": "https://www.mediapool.bg/bulgaria/feisbuk-svali-stranitsite-na-kopeikin-puilo-i-elfite/",
+      "link": "https://offnews.bg/medii/svaliha-ednovremenno-satirichnite-fejsbuk-stranitci-kopejkin-pu-877121.html",
       "sources": [
         "Mediapool",
-        "FrogNews"
+        "FrogNews",
+        "Dnevnik",
+        "OffNews",
+        "Actualno"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Русия и Украйна се договориха за примирие в Олешки",
+      "summary": "Русия и Украйна се договориха за временно примирие в окупирания град Олешки, за да бъдат евакуирани хора. Посредник е Мелания Тръмп, а двете страни ще водят мирни преговори следващия месец.",
+      "ids": [
+        169,
+        182,
+        225,
+        237
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmFnZURyUnJBb0hnX3paT21PSlh5QmRIbjN2S2RlNUFhbVdmQnRYWk5RZWJZTWhHV1ZBendscWdibHBqb1I3dXYtNENCUGdseGJvWXNsTDR5TlpGZFQ5cEhzbmdfby0xdGM4QWhLMEx4TUVsQWRwMFdVM1BaaWd4VnlZaHBETG1Xb1dZeEJBcmY5azNUZDVXRVN1aGM5N3ZFb3ZUOHprVEJkLUVod0xZQVk0S0s?oc=5",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Свободна точка",
+        "Actualno",
+        "Reuters"
       ]
     }
   ]

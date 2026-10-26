@@ -1,94 +1,126 @@
 {
   "updatedAt": "2026-10-22T19:11:40.511Z",
-  "overview": "Технико Таверн отчетва историческо първо равенство на ЦСКА в Европа, продължаващите протести в НАТФИЗ и ескалацията на случая с Соня Колтуклиева, докато по света има нови случаи на вируси и продължава Валейнтийският кризис.",
+  "overview": "Денят е белязан от инцидента, при който служител на НСО блъсна журналистката Соня Колтуклиева, критиките на Европейския парламент към правителството на Радев и обвиненията срещу кметовете на Белица и Сунгурларе.",
   "stories": [
     {
-      "category": "Спорт",
-      "headline": "ЦСКА постигна първо равенство в Европа",
-      "summary": "ЦСКА стана първата българска отборна колежка, която постигна равенство в Европейската лига, като спечели пред Нордселанд в Дания и стигна до равенство 2:2 след драматичен мач.",
+      "category": "Общество",
+      "headline": "Служител на НСО блъсна журналистката Соня Колтуклиева, тя е в болница",
+      "summary": "Охранител от НСО на председателя на парламента Михаела Доцова блъсна на земята журналистката от ПИК Соня Колтуклиева и тя е в болница. НСО проверява случая и е уведомила Военната прокуратура, а Андрей Гюров поиска оставката на началника на службата.",
       "ids": [
         1,
-        2,
-        10,
-        16
+        5,
+        9,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        35,
+        52
       ],
-      "link": "https://www.dnevnik.bg/sport/2026/10/22/4969966_cska_postigna_purvo_ravenstvo_v_evropa/?ref=rss",
+      "link": "https://www.actualno.com/politics/nso-proverjava-sluchaja-s-napadenieto-nad-koltuklieva-uvedomili-sa-voenna-prokuratura-za-sluchaja-news_2653564.html",
       "sources": [
-        "Dnevnik",
         "Actualno",
-        "Boulevard Bulgaria",
-        "FrogNews"
+        "OffNews",
+        "Dnevnik",
+        "Mediapool",
+        "Boulevard Bulgaria"
       ]
     },
     {
       "category": "Политика",
-      "headline": "Trump поиска от Musk да повиши ограниченията на Starlink за Украйна",
-      "summary": "Президентът Тръмп лично поискал от Илън Мъск да повиши ограниченията на Starlink за Вооружените сили на Украйна, което води до възстановяване на достъпа на ВСУ до глобалната мрежа.",
+      "headline": "Европейският парламент критикува Радев за слабата реакция срещу Русия",
+      "summary": "Европейският парламент разкритикува кабинета на Румен Радев за слабата реакция към Русия след атаките срещу кораби в Черно море. Радев отхвърли критиките като „невежество“ и „манипулация“ и видя зад тях „обречена предизборна кампания“.",
       "ids": [
-        3,
-        12,
-        18
+        15,
+        29,
+        44,
+        45,
+        65,
+        77,
+        101,
+        103,
+        116,
+        117,
+        143,
+        152,
+        158
       ],
-      "link": "https://offnews.bg/sviat/dostapat-na-vsu-do-starlink-e-vazstanoven-tramp-lichno-go-poiskal-ot-877008.html",
+      "link": "https://offnews.bg/politika/radev-vidia-obrechena-predizborna-kampania-zad-kritikite-na-ep-876994.html",
       "sources": [
-        "Bloomberg",
+        "Свободна точка",
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Mediapool",
+        "FrogNews",
+        "Actualno",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Обвинения срещу кметовете на Белица и Сунгурларе, разпитан е и кметът на Кърджали",
+      "summary": "Прокуратурата обвини кметовете на Белица Радослав Ревански и на Сунгурларе в престъпен сговор за търговия с влияние. Кметът на Кърджали Ерол Мюмюн беше отведен за разпит и по-късно освободен.",
+      "ids": [
+        33,
+        43,
+        49,
+        150,
+        153,
+        155,
+        197,
+        198,
+        200,
+        204,
+        205,
+        206,
+        207
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/kmetovete-na-belitsa-i-sungurlare-prestapno-sdruzhenie-za-targoviya-s-vliyanie/",
+      "sources": [
+        "OffNews",
+        "Mediapool",
+        "Свободна точка",
+        "Actualno",
+        "FrogNews",
         "Dnevnik",
-        "OffNews"
+        "Boulevard Bulgaria"
       ]
     },
     {
       "category": "Общество",
-      "headline": "НСО отчете инцидент с журналиста Соня Колтуклиева",
-      "summary": "Националната служба за разузнаване отчете инцидент, при който екс-журналистът Соня Колтуклиева била повалена и интивирана от някой от служителите на НСО, събуждайки публични протести и разпити.",
+      "headline": "Съдът в Охрид оправда обвиняемите за побоя над Християн Пендиков",
+      "summary": "Съдът в Охрид оправда двамата мъже, обвинени за побоя над Християн Пендиков. Външното министерство видя в присъдата безнаказаност, а Пендиков я нарече позорна.",
       "ids": [
-        5,
-        7,
-        11,
-        13,
-        17,
-        27,
-        28,
-        29,
-        31
+        59,
+        87,
+        88,
+        133
       ],
-      "link": "https://www.dnevnik.bg/bulgaria/2026/10/22/4969953_sonia_koltuklieva_postrada_izbluskata_ot_slujitel_na/?ref=rss",
+      "link": "https://frognews.bg/novini/opravdaha-dvamata-maje-poboia-nad-hristiian-pendikov-ohrid.html",
       "sources": [
         "Actualno",
-        "Boulevard Bulgaria",
-        "OffNews",
-        "Dnevnik",
-        "Mediapool"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Франция зашири ограниченията на протестите след първи случай на вирус Шамонда",
-      "summary": "Франция зашири ограниченията на протестите след смъртта на първи човек от Европа, инфициран с животинския вирус Шамонда, докато изследователски екипи подчертават сериозността на започналата глобална тревога.",
-      "ids": [
-        8,
-        22,
-        32,
-        33
-      ],
-      "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
-      "sources": [
-        "Reuters",
         "Dnevnik",
         "FrogNews"
       ]
     },
     {
-      "category": "Икономика",
-      "headline": "Wall Street падна с 2% заради притеснения за разходите за изкуствен интелект",
-      "summary": "Волните от NASDAQ паднаха с над 2% заради инвестваторски притеснения, че разходите на компаниите за изкуствения интелект могат да намалят печалбите, което поражда общ негативен настрой на пазара.",
+      "category": "Здравеопазване",
+      "headline": "Франция съобщи за първи случай на вируса Шамонда при човек",
+      "summary": "Франция потвърди първия случай на заразяване на човек с вируса Шамонда, който засяга добитъка. Пациентът, с тежко отслабен имунитет, е починал.",
       "ids": [
-        19,
-        4
+        24,
+        27,
+        136,
+        157
       ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/22/4969950_franciia_suobshti_za_pochinal_sled_zaraziavane_s_virus/?ref=rss",
       "sources": [
-        "Bloomberg",
-        "Reuters"
+        "Dnevnik",
+        "Reuters",
+        "DW",
+        "Actualno"
       ]
     }
   ]

@@ -1,53 +1,91 @@
 {
   "updatedAt": "2026-10-21T18:30:37.657Z",
-  "overview": "Водещи теми днес са готовността на Русия за тристранни преговори с Украйна и САЩ, масовите протести във Франция и арестът на кандидата на ДПС за кмет на Белица.",
+  "overview": "Водещи теми са срещата на Путин с Уиткоф, след която Кремъл е готов за тристранни преговори с Украйна и САЩ, делото на Европрокуратурата срещу кмета на Петрич и арестът на кмета на Белица Радослав Ревански.",
   "stories": [
     {
       "category": "Свят",
-      "headline": "Русия е готова за тристранни преговори с Украйна и САЩ",
-      "summary": "Русия е готова да обсъди тристранни преговори с Украйна и САЩ след срещи на високо ниво. Уиткоф заяви, че процесът може да започне следващия месец, ако Киев и Москва желаят.",
-      "sources": [
-        "Mediapool",
-        "OffNews",
-        "Actualno",
-        "Reuters"
-      ],
+      "headline": "Русия е готова за тристранни преговори с Украйна и САЩ след среща Путин–Уиткоф",
+      "summary": "След деветата среща между Владимир Путин и пратеника на САЩ Стив Уиткоф Кремъл заяви, че по принцип е готов за нови тристранни преговори през ноември. По време на разговорите Русия освободи американския гражданин Стивън Хъбард.",
       "ids": [
-        1,
         4,
-        16,
-        31,
-        93
+        13,
+        22,
+        50,
+        76,
+        80,
+        93,
+        115
       ],
-      "link": "https://www.actualno.com/europe/sled-sreshta-9-putin-uitkof-rusija-e-gotova-za-tristranni-pregovori-drugija-mesec-iskala-sistema-za-sigurnost-za-sebe-si-i-ukrajna-video-news_2653033.html"
-    },
-    {
-      "category": "Общество",
-      "headline": "Масовите протести във Франция дават аргументи на противниците на Макрон",
-      "summary": "Масовите протести във Франция показват силно недоволство от правителството на Макрон на фона на напрегнатата политическа обстановка.",
+      "link": "https://www.actualno.com/europe/sled-sreshta-9-putin-uitkof-rusija-e-gotova-za-tristranni-pregovori-drugija-mesec-iskala-sistema-za-sigurnost-za-sebe-si-i-ukrajna-video-news_2653033.html",
       "sources": [
-        "FrogNews",
-        "Actualno"
-      ],
-      "ids": [
-        2,
-        79
-      ],
-      "link": "https://frognews.bg/novini/protestite-vav-frantsiia-dadoha-orajie-vragovete-makron.html"
+        "Actualno",
+        "Mediapool",
+        "DW",
+        "Dnevnik",
+        "Reuters"
+      ]
     },
     {
       "category": "Политика",
-      "headline": "Кандидатът от ДПС за кмет на Белица Радослав Ревански е арестуван, а Пеевски заплашва с разкрития",
-      "summary": "Кандидатът на ДПС за кмет на Белица Радослав Ревански е арестуван по обвинения в търговия с влияние. Пеевски заплашва с разкрития.",
+      "headline": "Европрокуратурата внесе в съда обвинителен акт срещу кмета на Петрич",
+      "summary": "Европейската прокуратура даде на съд кмета на Петрич за предполагаема измама с европейски средства.",
+      "ids": [
+        36,
+        42,
+        74
+      ],
+      "link": "https://www.actualno.com/blagoevgrad/evroprokuraturata-dade-na-syd-kmeta-na-petrich-za-predpolagaema-izmama-s-evrosredstva-news_2653015.html",
       "sources": [
         "Dnevnik",
-        "OffNews"
-      ],
+        "Actualno",
+        "Boulevard Bulgaria"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Кметът на Белица Радослав Ревански е изведен с белезници",
+      "summary": "Полицията изведе с белезници кмета на Белица Радослав Ревански от общината. Пеевски го е чакал пред сградата.",
       "ids": [
-        12,
-        73
+        65,
+        72
       ],
-      "link": "https://offnews.bg/politika/izvedoha-s-beleznitci-kmeta-na-belitca-radoslav-revanski-876913.html"
+      "link": "https://offnews.bg/politika/izvedoha-s-beleznitci-kmeta-na-belitca-radoslav-revanski-876913.html",
+      "sources": [
+        "Actualno",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Технологии",
+      "headline": "Критични уязвимости в PHP: сайтове може да трябва да спрат работа",
+      "summary": "Разработчиците на PHP подготвят спешни корекции на критични уязвимости. Агенция на ЕС и експерти по киберсигурност призоваха сайтовете да инсталират актуализацията или временно да спрат работа.",
+      "ids": [
+        6,
+        55,
+        88
+      ],
+      "link": "https://offnews.bg/tehnologii/eksperti-po-kibersigurnost-prizovaha-sajtovete-da-instalirat-kritichna-876914.html",
+      "sources": [
+        "Reuters",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Мъск е наредил забавяне на Starlink за украинската армия",
+      "summary": "Според Wall Street Journal Илон Мъск е наредил забавяне на услугата Starlink, използвана от армията на Украйна. Държавният секретар на САЩ Марко Рубио заяви, че решението за достъпа е на Мъск, а не на Белия дом.",
+      "ids": [
+        40,
+        95,
+        101,
+        110
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVZZMGZ2ajliOHRNQVdZYkRuMHJhM2c4bEZrUVllWkQ4ek9PMUl6NGhKaGhqQUY5Zkp1RjFjZ1g3UmlSV1htekFPUC01eldVeGZsQ05DYXgyeFR3QmVjaU1TcUxXejd1elRKdkxUQ3lfT3lMYTlZMTltSkI5S2cxT2d4elA2N0lfYXFIdE5zOVdJOGNramJQbnVCSjBwTmJaRHNWb1N3ZHJyU2lCTzhHeFk1RG9oRkU?oc=5",
+      "sources": [
+        "Dnevnik",
+        "Reuters",
+        "DW"
+      ]
     }
   ]
 }

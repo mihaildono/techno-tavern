@@ -1,80 +1,134 @@
 {
   "updatedAt": "2026-10-23T20:37:47.606Z",
-  "overview": "Кратък преглед на важните новини от различни източници.",
+  "overview": "Началникът на НСО ген. Емил Тонев подаде оставка след случая с Колтуклиева, опозицията поиска оставката на Михаела Доцова, а нови проучвания показват, че разликата между Йотова и Гюров намалява.",
   "stories": [
     {
       "category": "Общество",
-      "headline": "Бой и наизустяване на руския химн: \"Хуманното\" отношение на Путинова Русия към вече освободен американски военнопленник",
-      "summary": "News Charli were reported.",
+      "headline": "Шефът на НСО Емил Тонев подаде оставка, охранителят е обвинен и задържан",
+      "summary": "Началникът на НСО ген. Емил Тонев подаде оставка след случая със Соня Колтуклиева, след като Илияна Йотова я поиска. Служителят, блъснал журналистката, е обвинен и задържан, а Военната прокуратура иска постоянен арест.",
       "ids": [
-        19,
         35,
-        39,
-        43,
-        46,
-        53,
-        58
+        36,
+        38,
+        42,
+        44,
+        86,
+        94,
+        111,
+        146,
+        155,
+        156,
+        171,
+        229,
+        235,
+        238,
+        239,
+        243,
+        250,
+        298,
+        308,
+        336
       ],
-      "link": "https://www.actualno.com/america/boj-i-naizustjavane-na-ruskija-himn-humannoto-otnoshenie-na-putinova-rusija-kym-veche-osvoboden-amerikanski-voennoplennik-news_2654002.html",
+      "link": "https://boulevardbulgaria.bg/articles/nachalnikat-na-nso-gen-emil-tonev-podade-ostavka",
       "sources": [
-        "Actualno",
-        "FrogNews",
-        "Mediapool",
         "OffNews",
         "Boulevard Bulgaria",
+        "Свободна точка",
+        "Mediapool",
+        "Actualno",
+        "Dnevnik",
+        "FrogNews"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Опозицията иска оставката на председателя на парламента Михаела Доцова",
+      "summary": "„Продължаваме промяната“ и ДСБ поискаха оставката на Михаела Доцова след инцидента с нейния охранител. ГЕРБ първо събра подписи за извънредно заседание, а после се отказа да внася искане.",
+      "ids": [
+        110,
+        160,
+        166,
+        167,
+        168,
+        170,
+        174,
+        211,
+        213,
+        264,
+        268
+      ],
+      "link": "https://www.mediapool.bg/bulgaria/gerb-sabra-podpisi-za-izvanredno-zasedanie-za-ostavka-na-dotsova/",
+      "sources": [
+        "Mediapool",
+        "Dnevnik",
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Actualno",
+        "FrogNews",
         "Свободна точка"
       ]
     },
     {
-      "category": "Свят",
-      "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-      "summary": "Russia, Ukraine, Kyiv, killed incidents reported.",
+      "category": "Политика",
+      "headline": "Проучвания: Йотова води, но разликата с Гюров се свива",
+      "summary": "Според „Алфа Рисърч“ Илияна Йотова води пред Андрей Гюров с под 13 пункта, но губи подкрепа. „Тренд“ също отчита намаляваща разлика и сигурен балотаж между двамата.",
       "ids": [
-        26
+        15,
+        230,
+        269,
+        274,
+        292,
+        300,
+        304,
+        307
       ],
-      "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-top-1022-rdf",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/alfa-risarch-yotova-vodi-no-gubi-podkrepa/",
       "sources": [
-        "DW"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Romania blames Russia for ship attack in the Black Sea",
-      "summary": "Romania, Russia, Black, Sea incidents reported.",
-      "ids": [
-        57
-      ],
-      "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-top-1022-rdf",
-      "sources": [
-        "DW"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "summary": "Iran, Gulf, Ex, Congress incidents reported.",
-      "ids": [
-        9,
-        23
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "category": "Общество",
-      "headline": "Шефът на НСО Емил Тонев е подал оставка след случая с Колтуклиева. Призиви за оставка и на Доцова",
-      "summary": "Multiple developments reported.",
-      "ids": [
-        5,
-        44,
-        50
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaS1Fd2MwaVNoSVNtZkI1VDdkVXRBVmhTWDEwNElMU1lrdU1DbGE5ZEFXTTZMZlhfcmdrU3hMdVluYjhzUDI4NFFwMHZhbUw0X01IdFB2OW1jaFhNM1JzckdNeGZxUE83aGhqRXFLVHdnSzBKMFdBQUdrQVVkeVl0bFNwdWMxZzItY1E0Uzd6eFA4NHQ3b3VpUjZBUjBvTjJqVXVNb0VaeG9uUWhMcmdWU09mNEZWc05lX0tzNmpub0NYR1hkRUlFc2xOLS1kV0lpZUJiWVBGZnlOX095bjkzemJkSVd5ams?oc=5",
-      "sources": [
-        "Actualno",
         "Dnevnik",
+        "Свободна точка",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "FrogNews",
+        "OffNews",
+        "Actualno"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Кораб е ударен край Констанца, български моряци спасиха деветима",
+      "summary": "Търговският кораб KHORYV беше поразен край румънския град Констанца, а Румъния обвини Русия. Български моряци спасиха деветима души от екипажа.",
+      "ids": [
+        24,
+        49,
+        113,
+        163,
+        182
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/balgarski-moryatsi-sa-spasili-devetima-dushi-ot-porazeniya-korab-khoryv-kray-konstantsa",
+      "sources": [
+        "Dnevnik",
+        "Свободна точка",
+        "Boulevard Bulgaria",
+        "FrogNews",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Стотици хиляди на последен митинг в Белград преди изборите в Сърбия",
+      "summary": "Стотици хиляди души се събраха в центъра на Белград под лозунга „Сърбия или мафията“. Студентите закриха кампанията си преди предсрочните парламентарни избори в неделя.",
+      "ids": [
+        231,
+        275,
+        313,
+        356
+      ],
+      "link": "https://www.dnevnik.bg/sviat/2026/10/23/4970046_stotici_hiliadi_zaliaha_centura_na_belgrad_v_posleden/?ref=rss",
+      "sources": [
+        "Dnevnik",
+        "DW",
+        "Actualno",
+        "FrogNews",
         "Свободна точка"
       ]
     }
