@@ -12,6 +12,8 @@
 // Each platform is marked in news/data/social/<date>.posted.json after success,
 // so re-running never posts twice (delete the file to force a repost).
 // --auto (used by daily-top-news.sh): does nothing unless AUTO_POST=1.
+// After a posting attempt, news/data/social/discord-message.txt holds a report
+// (post links or errors) for the cron job to send to Discord; no attempt, no file.
 //
 // Config: environment, or KEY=VALUE lines in .env at the repo root (gitignored; SOCIAL_ENV overrides the path):
 //   META_PAGE_ID, META_PAGE_TOKEN (Page token: pages_manage_posts, pages_read_engagement,
@@ -24,14 +26,21 @@ const path = require("path");
 const ROOT = path.join(__dirname, "..");
 const SOCIAL_DIR = path.join(ROOT, "news", "data", "social");
 const ENV_FILE = process.env.SOCIAL_ENV || path.join(ROOT, ".env");
+const MESSAGE_FILE = path.join(SOCIAL_DIR, "discord-message.txt");
+const LABELS = { facebook: "Facebook", instagram: "Instagram" };
 
 const args = process.argv.slice(2);
 const flag = (name) => args.find((a) => a === `--${name}` || a.startsWith(`--${name}=`));
 const DRY_RUN = Boolean(flag("dry-run"));
 const ONLY = flag("only")?.split("=")[1];
 
+// Under --auto, also leave a report (unless a more detailed one exists) so the error reaches Discord.
 function fail(message) {
   console.error(`❌ ${message}`);
+  if (flag("auto") && !fs.existsSync(MESSAGE_FILE)) {
+    fs.mkdirSync(SOCIAL_DIR, { recursive: true });
+    fs.writeFileSync(MESSAGE_FILE, `📣 Social posts\n❌ ${message}\n`);
+  }
   process.exit(1);
 }
 
@@ -104,7 +113,18 @@ async function postInstagram(photos, caption) {
   return id;
 }
 
+// Public link of a finished post, or null (the report then shows the id only).
+async function permalink(target, id) {
+  try {
+    const field = target === "facebook" ? "permalink_url" : "permalink";
+    return (await graph("GET", id, { fields: field }))[field] || null;
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
+  fs.rmSync(MESSAGE_FILE, { force: true }); // never resend an old report
   if (flag("auto") && config.AUTO_POST !== "1") {
     console.log("ℹ️ Social posting skipped (AUTO_POST is not 1)");
     return;
@@ -138,9 +158,18 @@ async function main() {
   const missing = ["META_PAGE_ID", "META_PAGE_TOKEN", ...(targets.includes("instagram") ? ["META_IG_USER_ID"] : [])].filter((k) => !config[k]);
   if (missing.length) fail(`Missing config: ${missing.join(", ")} (env or ${ENV_FILE})`);
 
-  console.log(`Uploading ${images.length} images to the Page...`);
+  const report = [`📣 Social posts · ${date}`];
+  const writeReport = () => fs.writeFileSync(MESSAGE_FILE, report.join("\n") + "\n");
+
   const photos = [];
-  for (const file of images) photos.push(await uploadPhoto(file));
+  try {
+    console.log(`Uploading ${images.length} images to the Page...`);
+    for (const file of images) photos.push(await uploadPhoto(file));
+  } catch (error) {
+    report.push(`❌ Image upload failed, nothing posted: ${error.message}`);
+    writeReport();
+    fail(error.message);
+  }
 
   let failed = false;
   for (const target of targets) {
@@ -148,12 +177,15 @@ async function main() {
       const id = target === "facebook" ? await postFacebook(photos, text("facebook.txt")) : await postInstagram(photos, text("instagram.txt"));
       posted[target] = { id, at: new Date().toISOString() };
       fs.writeFileSync(markerFile, JSON.stringify(posted, null, 2) + "\n");
+      report.push(`✅ ${LABELS[target]}: ${(await permalink(target, id)) || id}`);
       console.log(`✅ ${target}: ${id}`);
     } catch (error) {
       failed = true;
+      report.push(`❌ ${LABELS[target]}: ${error.message}`);
       console.error(`❌ ${target}: ${error.message}`);
     }
   }
+  writeReport();
   if (failed) process.exit(1);
 }
 
