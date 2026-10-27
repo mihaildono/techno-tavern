@@ -1,0 +1,146 @@
+{
+  "updatedAt": "2026-10-27T16:30:41.075Z",
+  "overview": "Денят е белязан от окончателните резултати от президентските избори в България, изборите в Израел и разкритата от Румъния руска мрежа за саботажи. Сред международните теми са разговорите на европейски лидери с Путин и IPO-то на Anthropic.",
+  "stories": [
+    {
+      "category": "Политика",
+      "headline": "Йотова и Гюров отиват на балотаж с разлика 2,8 пункта",
+      "summary": "ЦИК обяви окончателните резултати: Йотова води пред Гюров с 2,8 пункта при избирателна активност 23%. Предстои дебат в четвъртък, а Радев и пресцентърът на Министерския съвет са обвинени в агитация.",
+      "ids": [
+        6,
+        10,
+        13,
+        36,
+        38,
+        42,
+        53,
+        108,
+        126,
+        141,
+        165,
+        167,
+        169,
+        173,
+        174,
+        184,
+        185,
+        186,
+        189,
+        190,
+        197,
+        289,
+        298,
+        299,
+        300,
+        301,
+        306
+      ],
+      "link": "https://frognews.bg/novini/tsik-obiavi-okonchatelnite-rezultati-iotova-vodi-pred-giurov-2-8-punkta.html",
+      "sources": [
+        "Mediapool",
+        "FrogNews",
+        "Actualno",
+        "OffNews",
+        "Boulevard Bulgaria",
+        "Свободна точка",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Румъния разкри руска мрежа за саботажи",
+      "summary": "Румъния обяви, че е разкрила руска диверсионна мрежа, организирала палежи на обекти от военно-промишления комплекс, и привика посланика на Москва за обяснения.",
+      "ids": [
+        23,
+        31,
+        111,
+        296
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/vanshnoto-ministerstvo-na-rumaniya-izvika-ruskiya-poslanik-sled-razkrivaneto-na-mrezha-za-sabotazhi",
+      "sources": [
+        "Boulevard Bulgaria",
+        "Mediapool",
+        "Свободна точка",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Израел гласува на първите избори след 7 октомври",
+      "summary": "Израелците гласуват на първите избори след атаката на 7 октомври, като активността е рекордна. Нетаняху призова ортодоксалните евреи да гласуват.",
+      "ids": [
+        26,
+        35,
+        46,
+        60,
+        67,
+        74,
+        89,
+        125,
+        157,
+        193,
+        203,
+        224
+      ],
+      "link": "https://www.dnevnik.bg/sviat/2026/10/27/4972490_rekorden_broi_izraelci_glasuvat_netaniahu_prizova/?ref=rss",
+      "sources": [
+        "Dnevnik",
+        "DW",
+        "Bloomberg",
+        "FrogNews",
+        "Boulevard Bulgaria",
+        "Reuters"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Лидерите на Финландия и Норвегия разговаряха с Путин за Украйна",
+      "summary": "Президентът на Финландия и премиерът на Норвегия проведоха първи от година разговори с Путин за Украйна, което предизвика критики от Дания. Словакия предложи да е място за преговори.",
+      "ids": [
+        72,
+        74,
+        85,
+        102,
+        104,
+        121,
+        129
+      ],
+      "link": "https://frognews.bg/novini/putin-razgovaria-prezidenta-finlandiia-premiera-norvegiia-voinata-ukraina.html",
+      "sources": [
+        "DW",
+        "Bloomberg",
+        "FrogNews",
+        "Reuters",
+        "Mediapool",
+        "Dnevnik",
+        "Actualno"
+      ]
+    },
+    {
+      "category": "Технологии",
+      "headline": "Anthropic подаде документи за IPO",
+      "summary": "Anthropic официално подаде документи за първично публично предлагане с цел набиране на до 100 млрд. долара. Новината повиши AI акциите и настроенията на пазарите.",
+      "ids": [
+        58,
+        162,
+        163,
+        180,
+        220,
+        225,
+        231,
+        233,
+        238,
+        244,
+        279,
+        281
+      ],
+      "link": "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-ipo-details-israelis-go-to-polls-more",
+      "sources": [
+        "Reuters",
+        "Bloomberg",
+        "Actualno",
+        "DW"
+      ]
+    }
+  ]
+}
