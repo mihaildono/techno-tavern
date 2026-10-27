@@ -11,6 +11,9 @@
     "news:reset": "node news/news-daily.js reset",
     "backfill-digests": "node scripts/backfill-digests.js",
     "indexnow": "node scripts/indexnow.js",
+    "social:cards": "node scripts/social-cards.js",
+    "social:post": "node scripts/social-post.js",
+    "postinstall": "PLAYWRIGHT_BROWSERS_PATH=0 playwright install --only-shell chromium",
     "start": "python3 -m http.server 8000"
   },
   "keywords": [
@@ -18,5 +21,8 @@
     "rss"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.64.1"
+  }
 }

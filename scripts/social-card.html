@@ -1,0 +1,83 @@
+<!doctype html>
+<!-- Template for social media cards (1080x1350, Instagram/Facebook 4:5).
+  Filled and screenshotted by scripts/social-cards.js. BASE placeholder = repo root, CARD marker in body = card markup. -->
+<html lang="bg">
+<head>
+<meta charset="utf-8" />
+<base href="{{BASE}}" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@500;600;700&family=Sofia+Sans+Extra+Condensed:wght@700;800&display=swap" />
+<style>
+  :root {
+    --roast: #1c120d; --stout: #2a1c15; --stout-2: #34241b;
+    --foam: #f4eadb; --malt: #b5a08a; --malt-dim: #8a7563;
+    --amber: #f2a51a; --brick: #c8402b; --line: rgba(244, 234, 219, 0.14);
+    --display: "Sofia Sans Extra Condensed", "Arial Narrow", sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: radial-gradient(900px 600px at 90% 0%, rgba(242,165,26,.16), transparent 70%), var(--roast);
+    color: var(--foam); font-family: "Sofia Sans", sans-serif;
+    display: flex; flex-direction: column; padding: 64px 72px 0;
+    border-bottom: 12px solid var(--amber);
+  }
+
+  /* ── Header: brand left, date right ── */
+  .head { display: flex; align-items: center; gap: 20px; padding-bottom: 32px; border-bottom: 1px solid var(--line); }
+  .head img { width: 76px; height: 76px; }
+  .brand { font-family: var(--display); font-weight: 800; font-size: 50px; line-height: .9; text-transform: uppercase; margin-right: auto; }
+  .brand span { display: block; font-family: "Sofia Sans", sans-serif; font-weight: 600; font-size: 18px; letter-spacing: .28em; color: var(--amber); margin-top: 8px; }
+  .date { text-align: right; font-size: 24px; font-weight: 600; color: var(--malt); line-height: 1.3; }
+  .date b { display: block; color: var(--foam); font-size: 28px; }
+
+  /* ── Main area: flexible, text inside shrinks to fit (see script) ── */
+  main { flex: 1; min-height: 0; display: flex; flex-direction: column; padding: 48px 0 36px; }
+  [data-fit] { overflow: hidden; }
+
+  .chip { align-self: flex-start; padding: 8px 18px; border-radius: 999px; background: var(--amber); color: var(--roast); font-weight: 700; font-size: 24px; text-transform: uppercase; letter-spacing: .08em; }
+
+  /* Cover */
+  .kicker { font-family: var(--display); font-weight: 800; font-size: 96px; line-height: .95; text-transform: uppercase; }
+  .kicker em { font-style: normal; color: var(--amber); }
+  .overview { margin-top: 24px; font-size: 30px; line-height: 1.4; color: var(--malt); }
+  /* em-based so the fit script can shrink the whole list at once */
+  .list { list-style: none; padding: 0; margin-top: 36px; flex: 1; min-height: 0; display: flex; flex-direction: column; gap: .7em; font-size: 32px; }
+  .list li { display: flex; gap: .7em; align-items: baseline; padding-top: .7em; border-top: 1px solid var(--line); }
+  .list .n { font-family: var(--display); font-weight: 800; font-size: 1.5em; color: var(--amber); min-width: 1.1em; line-height: 1; }
+  .list .t { font-weight: 600; line-height: 1.25; }
+  .list .c { display: block; font-size: .62em; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--malt-dim); margin-bottom: .2em; }
+
+  /* Story */
+  .story-top { display: flex; align-items: center; justify-content: space-between; }
+  .num { font-family: var(--display); font-weight: 800; font-size: 120px; line-height: .8; color: #4a3426; }
+  .headline { flex: none; margin-top: 36px; font-family: var(--display); font-weight: 800; font-size: 92px; line-height: 1.02; max-height: 384px; }
+  .rule { width: 120px; height: 6px; background: var(--brick); margin: 40px 0 36px; flex: none; }
+  .summary { font-size: 38px; line-height: 1.45; flex: 1; min-height: 0; }
+  .sources { margin-top: 28px; padding: 22px 26px; background: var(--stout); border-radius: 14px; font-size: 24px; color: var(--malt); line-height: 1.4; }
+  .sources b { color: var(--foam); }
+
+  /* ── Footer ── */
+  .foot { display: flex; justify-content: space-between; align-items: center; padding: 26px 0 30px; border-top: 1px solid var(--line); font-size: 26px; font-weight: 600; color: var(--malt); }
+  .foot .url { color: var(--foam); }
+  .foot .swipe { color: var(--amber); }
+</style>
+</head>
+<body>
+<!--CARD-->
+<script>
+  // Shrink any [data-fit] box's font until its text fits, so long headlines never overflow.
+  // Load the fonts explicitly first: fonts.ready alone can resolve before layout requests them.
+  Promise.all([
+    '800 92px "Sofia Sans Extra Condensed"', '500 38px "Sofia Sans"', '600 32px "Sofia Sans"', '700 24px "Sofia Sans"',
+  ].map((f) => document.fonts.load(f, "Бя"))).then(() => {
+    for (const el of document.querySelectorAll("[data-fit]")) {
+      let size = parseFloat(getComputedStyle(el).fontSize);
+      const min = size * 0.6;
+      // Tolerance: glyph ink slightly overflows tight line-heights even when the text fits.
+      while (el.scrollHeight > el.clientHeight + size * 0.2 && size > min) el.style.fontSize = `${(size -= 2)}px`;
+    }
+    document.body.dataset.ready = "1"; // social-cards.js waits for this before the screenshot
+  });
+</script>
+</body>
+</html>

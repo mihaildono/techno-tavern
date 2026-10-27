@@ -24,6 +24,11 @@ step_prepare() {
     log "⚠️ Git pull failed or had conflicts, continuing..."
   }
 
+  if [[ ! -d node_modules/playwright ]]; then
+    log "Installing npm dependencies (Playwright for social cards)..."
+    npm install || log "⚠️ npm install failed, social cards will be skipped"
+  fi
+
   log "Fetching fresh RSS feeds..."
   npm run fetch-news
 
@@ -64,6 +69,9 @@ step_finish() {
   log "Pre-rendering pages..."
   node scripts/build-pages.js
 
+  log "Rendering social media cards..."
+  node scripts/social-cards.js || log "⚠️ Social cards failed (non-fatal)"
+
   log "Staging files..."
   # Stage only paths that exist, so a missing optional output can't abort the commit
   for f in news/data/top-news.json news/data/news-24h.json news/data/news.json news/data/digests \
@@ -81,6 +89,10 @@ step_finish() {
     log "✅ Successfully pushed daily news summary to GitHub."
     node scripts/indexnow.js || log "⚠️ IndexNow ping failed (non-fatal)"
   fi
+
+  # After the push, so the obzor link in the posts is live. Skipped unless AUTO_POST=1.
+  log "Posting to Facebook and Instagram..."
+  node scripts/social-post.js --auto || log "⚠️ Social posting failed (non-fatal)"
 
   log "=== Pipeline complete ==="
 }

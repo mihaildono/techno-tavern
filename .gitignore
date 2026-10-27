@@ -5,3 +5,5 @@ news/data/feed-health.json
 news/data/*.tmp
 news/data/news-digest-map.json
 news/data/discord-message.txt
+news/data/social/
+node_modules/

@@ -19,6 +19,8 @@ Techno Tavern (technotavern.com): a Bulgarian news aggregator. Static site on Gi
 | `scripts/build-pages.js` + `site-pages.js` | Render all generated HTML, `feed.xml`, `sitemap.xml`, `news-sitemap.xml`, `robots.txt`. |
 | `scripts/cron-fetch-news.sh` | Every 3h: fetch → build → commit → push → IndexNow. |
 | `scripts/daily-top-news.sh` | Evening digest: `prepare` / `finish`. |
+| `scripts/social-cards.js` + `social-card.html` | Digest → 1080×1350 JPEG cards + captions in `news/data/social/<date>/` (headless Chrome, not committed). |
+| `scripts/social-post.js` | Posts the cards to the Facebook Page + Instagram carousel (Meta Graph API). |
 | `CRONS.md` | Schedules and the Hermes task prompt. |
 
 ## Jobs (Raspberry Pi, Europe/Sofia)
@@ -44,7 +46,7 @@ Techno Tavern (technotavern.com): a Bulgarian news aggregator. Static site on Gi
 - After changing data or templates, run `node scripts/build-pages.js`.
 - Automated commits end with `[skip ci]`.
 - Do not hand-edit generated files (see Layout). Change the generator instead.
-- Plain Node (≥18) and Bash only; no new dependencies.
+- Plain Node (≥18) and Bash. The only npm dependency is `playwright` (social cards); its Chromium is installed into `node_modules` by `npm install`. Add others only if unavoidable.
 - The file `8cce13b196e3062594dcdb8a59b40430.txt` is the IndexNow key. It must stay at the site root.
 - Not committed: `news/data/news-digest.md`, `news-digest-map.json`, `discord-message.txt`, `feed-health.json`.
 

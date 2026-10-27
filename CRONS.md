@@ -70,4 +70,21 @@ The agent only writes category, headline, summary and ids. The scripts do everyt
   3. `archive`: saves `news/data/digests/<date>.json` (becomes `/obzor/<date>/`).
   4. `reset`: clears the 24h window.
   5. `discord`: writes `news/data/discord-message.txt`.
-  6. Builds the pages, commits `[skip ci]`, pushes, and pings IndexNow.
+  6. Builds the pages and renders the social cards (`scripts/social-cards.js`, non-fatal).
+  7. Commits `[skip ci]`, pushes, and pings IndexNow.
+  8. Posts to Facebook + Instagram (`scripts/social-post.js --auto`, non-fatal, only with `AUTO_POST=1`).
+
+---
+
+## 3. Social Media Posts (part of `finish`)
+
+- **Requires** `npm install` (Playwright + its own Chromium inside `node_modules`, nothing system-wide). `prepare` runs it automatically when `node_modules/playwright` is missing. If the browser fails to launch on a minimal Pi OS, install its system libraries once: `sudo npx playwright install-deps chromium`.
+- **Cards:** `node scripts/social-cards.js [date]` → `news/data/social/<date>/`: `01-cover.jpg` (all headlines), one `NN-story.jpg` per story, `facebook.txt`, `instagram.txt`. Design: `scripts/social-card.html`.
+- **Posting:** `node scripts/social-post.js [date] [--dry-run] [--only=facebook|instagram]`. Facebook gets the cover + full text (`FACEBOOK_IMAGES=all` for every card); Instagram gets a carousel of all cards. Already-posted platforms are recorded in `news/data/social/<date>.posted.json` and never posted twice.
+- **Credentials** in `~/.config/techno-tavern/social.env` (`chmod 600`):
+  ```sh
+  META_PAGE_ID=...
+  META_PAGE_TOKEN=...   # long-lived Page token: pages_manage_posts, pages_read_engagement, instagram_basic, instagram_content_publish
+  META_IG_USER_ID=...   # Instagram business account linked to the Page
+  AUTO_POST=1           # let `finish` post; leave out while testing by hand
+  ```
