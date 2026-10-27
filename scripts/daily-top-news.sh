@@ -26,7 +26,8 @@ step_prepare() {
 
   if [[ ! -d node_modules/playwright ]]; then
     log "Installing npm dependencies (Playwright for social cards)..."
-    npm install || log "⚠️ npm install failed, social cards will be skipped"
+    # ci, not install: never rewrites package-lock.json, so git pull stays clean
+    npm ci || log "⚠️ npm ci failed, social cards will be skipped"
   fi
 
   log "Fetching fresh RSS feeds..."
