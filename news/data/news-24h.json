@@ -1,9 +1,541 @@
 {
   "windowStart": "2026-10-26T17:45:43.361Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-27T04:00:06.076Z",
-  "totalItems": 120,
+  "lastUpdated": "2026-10-27T07:00:06.285Z",
+  "totalItems": 163,
   "items": [
+    {
+      "title": "Bloomberg Daybreak Europe: Wall Street Meets Claude (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-27/bloomberg-daybreak-europe-wall-street-meets-claude-podcast",
+      "pubDate": "2026-10-27T06:55:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Хари Кейн спечели \"Златната топка\"",
+      "link": "https://www.mediapool.bg/sport/hari-kein-specheli-zlatnata-topka/",
+      "pubDate": "2026-10-27T06:54:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Anthropic IPO Details, Israelis Go to Polls, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-ipo-details-israelis-go-to-polls-more",
+      "pubDate": "2026-10-27T06:48:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Anthropic’s IPO Filing Extends Tech Rally",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-s-ipo-filing-extends-tech-rally",
+      "pubDate": "2026-10-27T06:46:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "FTSE 100 Live: UK Stocks Set to Fall as HSBC Profit Falls Short",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-10-27/ftse-100-live-updates-hsbc-anthropic-ai-stocks-pound-gilts-bond-healey-budget-what-s-moving-uk-markets-right-now-markets-today",
+      "pubDate": "2026-10-27T06:44:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Виновни са си политици\": Политолози прогнозират ниска активност и тежък балотаж",
+      "link": "https://www.actualno.com/politics/vinovni-sa-si-politici-politolozi-prognozirat-niska-aktivnost-i-tejyk-balotaj-news_2655138.html",
+      "pubDate": "2026-10-27T06:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/27/56a3acc121050539433d3c49ea8ddc41_2655138_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Глоба до 185 000 евро за продажба на алкохол на непълнолетни в Турция",
+      "link": "https://www.mediapool.bg/svyat/globa-do-185-000-evro-za-prodazhba-na-alkohol-na-nepalnoletni-v-turtsiya/",
+      "pubDate": "2026-10-27T06:42:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "От 4.50 до 17.90 на глас. Колко струваха на данъкоплатците маргиналните кандидати?",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/ot-450-do-1790-na-glas-kolko-struvaha-na-danakoplattsite-marginalnite-kandidati/",
+      "pubDate": "2026-10-27T06:42:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Влизат в сила нови правила за регистрация на автомобили",
+      "link": "https://offnews.bg/obshtestvo/vlizat-v-sila-novi-pravila-za-registratcia-na-avtomobili-877279.html",
+      "pubDate": "2026-10-27T06:40:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/27/877279/phpigxtfn_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Вече платихме с 45 години за това, че една партия се беше объркала с държавата\": Гняв с \"институциите не са партийна собственост\"",
+      "link": "https://www.actualno.com/society/veche-platihme-s-45-godini-za-tova-che-edna-partija-se-beshe-obyrkala-s-dyrjavata-gnjav-s-instituciite-ne-sa-partijna-sobstvenost-news_2655134.html",
+      "pubDate": "2026-10-27T06:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/27/e8bf06e6d1178040e74bc2248f1939c0_2655134_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Русия удари Киев с балистични ракети – поразени болници, университет и ключов мост",
+      "link": "https://frognews.bg/novini/rusiya-udari-kiev-balistichni-raketi-porazeni-bolnitsi-universitet-klyuchov-most.html",
+      "pubDate": "2026-10-27T06:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/07fa49c78_1793082872_6ae045f8c0673.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Porsche Profit Holds Firm as 911 Cushions Sales Slump",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/porsche-profit-holds-firm-as-911-cushions-sales-slump",
+      "pubDate": "2026-10-27T06:39:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "България преговаря за дял в гръцкия порт в Кавала",
+      "link": "https://www.mediapool.bg/biznes/bulgaria-pregovarya-za-dyal-v-gratskiya-port-v-kavala/",
+      "pubDate": "2026-10-27T06:38:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Следизборното нанадолнище: Виртуални заплахи, реална истерия",
+      "link": "https://www.actualno.com/actualno/sledizbornoto-nanadolnishte-virtualni-zaplahi-realna-isterija-news_2655012.html",
+      "pubDate": "2026-10-27T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/26/bc81514ce4d2432836418ccf9614135f_2655012_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Каракачанов: 900 000 гласа за г-жа Йотова - те не са изгубени, те не излязоха да гласуват",
+      "link": "https://www.actualno.com/politics/karakachanov-900-000-glasa-za-g-ja-jotova-te-ne-sa-izgubeni-te-ne-izljazoha-da-glasuvat-news_2655137.html",
+      "pubDate": "2026-10-27T06:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/27/1afb9255b16e2be050292a8c1f1b1df5_2655137_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Хари Кейн взе \"Златната топка\" за 2026",
+      "link": "https://frognews.bg/novini/hari-kein-vze-zlatnata-topka-2026.html",
+      "pubDate": "2026-10-27T06:34:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7f2c640af_1793083201_6ae0474151fad.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Съдът решава дали да остави в ареста обвиняемия за убийството на Слави Бинев",
+      "link": "https://frognews.bg/novini/sadat-reshava-dali-ostavi-aresta-obviniaemiia-ubiistvoto-slavi-binev.html",
+      "pubDate": "2026-10-27T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/106616bbf_1793082619_6ae044fba957f.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Мъж загина при нелепа катастрофа, главен път Е79 е затворен",
+      "link": "https://offnews.bg/112/mazh-zagina-pri-nelepa-katastrofa-glaven-pat-e79-e-zatvoren-877278.html",
+      "pubDate": "2026-10-27T06:29:06.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/27/877278/phpyxzdvh_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Седмицата ще е хладна, мрачна и дъждовна заради средиземноморски циклон",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/27/4972153_sredizemnomorski_ciklon_pravi_sedmicata_hladna_mrachna/?ref=rss",
+      "pubDate": "2026-10-27T06:28:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4972154.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Микробус блъсна и уби шофьор, спрял заради повреда – затвориха път Е79",
+      "link": "https://frognews.bg/novini/mikrobus-blasna-ubi-shofyor-spryal-zaradi-povreda-zatvoriha-pat-e79.html",
+      "pubDate": "2026-10-27T06:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ddb2bb1fd_police_bgnes.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Нашият AI може да унищожи света\", признава Anthropic, докато моли за пари, за да продължи да го разработва",
+      "link": "https://www.actualno.com/sciencelogy/nashijat-ai-moje-da-unishtoji-sveta-priznava-anthropic-dokato-moli-za-pari-za-da-prodylji-da-go-razrabotva-news_2655123.html",
+      "pubDate": "2026-10-27T06:24:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/27/cc25d9f7da7d287c31189deafe212855_2655123_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Шефът на Audi се замеси в скандал след появата си на митинг на Доналд Тръмп преди изборите",
+      "link": "https://boulevardbulgaria.bg/articles/shefat-na-audi-za-zamesi-v-skandal-zaradi-predizbornata-agitatsiya-na-donald-tramp",
+      "pubDate": "2026-10-27T06:20:13.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxOTM0LCJwdXIiOiJibG9iX2lkIn19--8bc96eee68850a263ddaad7662e39226c818e373/audi%20boss.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Без лидер, но с мнозинство – студентите в Сърбия започват преговори за кабинет",
+      "link": "https://frognews.bg/novini/bez-lider-mnozinstvo--studentite-sarbiia-zapochvat-pregovori-kabinet.html",
+      "pubDate": "2026-10-27T06:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f0ff4c114_1793081788_6ae041bcd39d4.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Олигархия или битови убийства? Уточнете се, другарю премиер!",
+      "link": "https://www.mediapool.bg/analizi-i-komentari/oligarhiya-ili-bitovi-ubiystva-utochnete-se-drugaryu-premier/",
+      "pubDate": "2026-10-27T06:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Хората усещат политически натиск\". Защо секциите в Белица останаха празни",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pYlBIZHVjaHpfZVRTcFZ3Qi1na1VYUS1TbEozZGhoMkxtcXdmS2I4MnBkX3M5NElDNTFzMTE5aDV0OHpqemFBbFRWclE1SUxnYmNiOWVZZ0xZM0NvaHpzbVRYSmdDVDBqVHY0a2E1RGFMYU5QVmlQOERfYkw?oc=5",
+      "pubDate": "2026-10-27T06:12:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Защо 900 хиляди от избирателите на Радев не гласуваха за Йотова",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3NwRlRmbGRpc0Z0YUpDb21TM2dfNmNOaDQxaFJ6RElYM2dMNzl1U2piYUVIRm5UUGdZSUFsLXdHcUZVbV9Pc2dSeENUeVdBcE41U1B4MDZVT1AxRVpnNjlmZGZGNDBBc2Z0VHlvVGpwa29ZeHk2dXZEWVBQeTlsS0xlX3hPTVdzRDRYRWJ4ZGQ4U2RSZ3YzaEZtOGo4TnZSQjI4?oc=5",
+      "pubDate": "2026-10-27T06:11:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Три минути: Радев използва държавни канали за агитация. Гюров спечели в София, Пловдив, чужбина и сред младите, а Йотова – всичко друго",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQkZFdDVyWFFPSTdqY2tTV2dTVkRHTmRBOUM3ZjY1OHRTOGtSWEJFQVdpYnM1N3g0NGllREFUNklWNmcyekM0Z0E2RThoa1VBWmVKdFo2R1daMEJtcnVldGFJWktWWi0zbW82QzZPUHRwUzhvRm1QanFBekpZS2NmSkpROWh5VC1uQ3pLcmJhUmRvZlJpcjVFbmpKU1ZONkE3emxaYmtDR0FZYjBncGZsclcxSGd2UTBjY0RHZS0walFPT0hfMURfUE02V2xpd1JwQVhoc0dBcmZZRzBsWnNnVFRNVlBSVlV1dWpoajVPZHFMUDh3QkxEZFROV2JzY05MRWhyVmJR?oc=5",
+      "pubDate": "2026-10-27T06:11:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Влезе в сила примирието за Олешки",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/27/4972146_vleze_v_sila_primirieto_za_oleshki/?ref=rss",
+      "pubDate": "2026-10-27T06:09:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4972147.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Проф. Рачев: Студена седмица с валежи, в деня на балотажа времето ще е мрачно",
+      "link": "https://offnews.bg/obshtestvo/prof-rachev-studena-sedmitca-s-valezhi-v-denia-na-balotazha-vremeto-877277.html",
+      "pubDate": "2026-10-27T06:06:19.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/27/877277/phpdi6yhs_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "В деня на изборите са се повредили 29 машини за гласуване",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/27/4972149_29_mashini_za_glasuvane_sa_se_povredili_v_denia_na/?ref=rss",
+      "pubDate": "2026-10-27T06:05:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4972148.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "ЦИК решава дали агитацията на Румен Радев наруши Изборния кодекс",
+      "link": "https://boulevardbulgaria.bg/articles/tsik-reshava-dali-agitatsiyata-na-rumen-radev-narushi-izborniya-kodeks",
+      "pubDate": "2026-10-27T06:05:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxOTI1LCJwdXIiOiJibG9iX2lkIn19--cf0f9263683d0f68909449f865524bf70a8488c1/%D1%80%D1%83%D0%BC%D0%B5%D0%BD%20%D1%80%D0%B0%D0%B4%D0%B5%D0%B2%2032940%20%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B8.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Как се получават парите от универсален пенсионен фонд?",
+      "link": "https://www.dnevnik.bg/biznes/finansi/2026/10/27/4971802_kak_se_poluchavat_parite_ot_universalen_pensionen_fond/?ref=rss",
+      "pubDate": "2026-10-27T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4971883.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Младост 1А\" ще се уплътнява с още строежи, общината иска компенсации от инвеститори",
+      "link": "https://www.dnevnik.bg/gradska_sreda/2026/10/27/4970347_mladost_1a_shte_se_uplutniava_s_oshte_stroeji/?ref=rss",
+      "pubDate": "2026-10-27T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4970439.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+      "link": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-27T05:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Gold eases on firmer dollar ahead of Fed decision",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+      "pubDate": "2026-10-27T05:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Тръмп обеща 1 милион долара на всеки, който докладва изборна измама",
+      "link": "https://offnews.bg/sviat/tramp-obeshta-1-milion-dolara-na-vseki-kojto-dokladva-izborna-izmama-877276.html",
+      "pubDate": "2026-10-27T05:40:55.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/27/877276/php4bhcbq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Хари Кейн е носител на ''Златната топка'' за 2026 г.",
+      "link": "https://offnews.bg/futbol/hari-kejn-e-nositel-na-zlatnata-topka-za-2026-g-877275.html",
+      "pubDate": "2026-10-27T05:36:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/27/877275/phpreqpcu_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Ще има ли дебат Йотова - Гюров? Щабовете се срещат с БНТ",
+      "link": "https://boulevardbulgaria.bg/articles/shte-ima-li-debat-yotova-gyurov-shtabovete-se-sreshtat-s-bnt",
+      "pubDate": "2026-10-27T05:34:56.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzExNTAsInB1ciI6ImJsb2JfaWQifX0=--37b82b8579bbc6b27844294055953da4a910a23c/%D0%B8%D0%BB%D0%B8%D1%8F%D0%BD%D0%B0_%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_93402.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Morning Bid: All eyes on AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FTNEdiYXRpWS1wOU9OM1d6S0ZSZHNXc2p1RDYxRHJHR3dvTTR6QUhPb0ROYUNyeWpTaW1Hb1BUYUlpSnR3NHJ4OGh2eXRYSDFIN0VRVzhoRlRGSC1pUTZWdUdTbDJiNEtaVzBQZmF0R3ZfcThBWnU3OGppcWdGV1QwX2NwMm9JenZKQm1R?oc=5",
+      "pubDate": "2026-10-27T04:40:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "\"Кристъл Лейк\" по HBO Max: Духът на \"Петък 13-ти\" се завръща. И е смразяващ",
+      "link": "https://boulevardbulgaria.bg/articles/%22%D0%92%20%D1%82%D0%B0%D0%B7%D0%B8%20%D0%B3%D0%BE%D1%80%D0%B0%20%D0%B8%D0%BC%D0%B0%20%D0%BD%D0%B5%D1%89%D0%BE,%20%D0%BA%D0%BE%D0%B5%D1%82%D0%BE%20%D0%B7%D0%BD%D0%B0%D0%B5%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%B0%20%D1%83%D0%B1%D0%B8%D0%B2%D0%B0%22",
+      "pubDate": "2026-10-27T04:23:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxODAyLCJwdXIiOiJibG9iX2lkIn19--d79801c0bcc26c44d9884be37ad7b1e0eb321476/Linda%20Cardellini_Crystal%20Lake_HBO_1.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5",
+      "pubDate": "2026-10-27T04:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "HSBC quarterly profit jumps but shares slide after flat revenue for wealth business",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVZVOUw4UjhITVVsZ1psYmQ4Tkwta1lJSGl1OVRkemlLQzJZZWNRXzBEV1NDU0FNR3VyWGh5eE1SR1QyOUlKcWJpSHdRdDltYmxzc0NUX3dEZktFWVY2eUhWcDl4Y2JLUDhtdTJwbUFIckNnUjhiTDR3ZGVBS2VmZXFrenQ5SW1QOTFNUUVhaEdOck9fNml1R05HRkJiOVppV2cxWWxjX21wM2hr?oc=5",
+      "pubDate": "2026-10-27T04:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
+    {
+      "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
+      "pubDate": "2026-10-27T03:42:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-27T07:00:06.285Z"
+    },
     {
       "title": "Израел може да сложи днес край на \"епохата Нетаняху\" в първите избори след 7 октомври",
       "link": "https://www.dnevnik.bg/sviat/2026/10/27/4972042_izrael_moje_dnes_da_sloji_krai_na_epohata_netaniahu_v/?ref=rss",
