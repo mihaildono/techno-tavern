@@ -91,9 +91,7 @@ step_finish() {
     node scripts/indexnow.js || log "⚠️ IndexNow ping failed (non-fatal)"
   fi
 
-  # After the push, so the obzor link in the posts is live. Skipped unless AUTO_POST=1.
-  log "Posting to Facebook and Instagram..."
-  node scripts/social-post.js --auto || log "⚠️ Social posting failed (non-fatal)"
+  # Posting the cards is a separate cron job (social-post.js --auto, own retries), see CRONS.md §3.
 
   log "=== Pipeline complete ==="
 }

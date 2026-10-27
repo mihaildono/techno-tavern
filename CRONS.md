@@ -72,13 +72,13 @@ The agent only writes category, headline, summary and ids. The scripts do everyt
   5. `discord`: writes `news/data/discord-message.txt`.
   6. Builds the pages and renders the social cards (`scripts/social-cards.js`, non-fatal).
   7. Commits `[skip ci]`, pushes, and pings IndexNow.
-  8. Posts to Facebook + Instagram (`scripts/social-post.js --auto`, non-fatal, only with `AUTO_POST=1`).
 
 ---
 
-## 3. Social Media Posts (part of `finish`)
+## 3. Social Media Posts (cards in `finish`, posting as its own job)
 
 - **Requires** `npm install` (Playwright + its own Chromium inside `node_modules`, nothing system-wide). `prepare` runs it automatically when `node_modules/playwright` is missing. If the browser fails to launch on a minimal Pi OS, install its system libraries once: `sudo npx playwright install-deps chromium`.
 - **Cards:** `node scripts/social-cards.js [date]` → `news/data/social/<date>/`: `01-cover.jpg` (all headlines), one `NN-story.jpg` per story, `facebook.txt`, `instagram.txt`. Design: `scripts/social-card.html`.
 - **Posting:** `node scripts/social-post.js [date] [--dry-run] [--only=facebook|instagram]`. Facebook gets the cover + full text (`FACEBOOK_IMAGES=all` for every card); Instagram gets a carousel of all cards. Already-posted platforms are recorded in `news/data/social/<date>.posted.json` and never posted twice.
-- **Credentials** in `.env` at the repo root (gitignored, `chmod 600`): `cp .env.example .env` and fill in `META_PAGE_ID`, `META_PAGE_TOKEN`, `META_IG_USER_ID`. Add `AUTO_POST=1` to let `finish` post; leave it out while testing by hand.
+- **Credentials** in `.env` at the repo root (gitignored, `chmod 600`): `cp .env.example .env` and fill in `META_PAGE_ID`, `META_PAGE_TOKEN`, `META_IG_USER_ID`. Add `AUTO_POST=1` to enable the automatic job; leave it out while testing by hand.
+- **Automatic posting** is the Pi job `social-post` (`hermes-scripts/cron/social-post.sh` → `node scripts/social-post.js --auto`), started by `daily-news.sh` after the #news post through `run-job.sh`. So it gets the same retries as the digest: retry after 2 min → one Hermes diagnosis → watchdog every 30 min until it succeeds. On success the post links go to Discord #reports; failure alerts come from `run-job.sh` (max 3 per streak). Retries never post twice (`<date>.posted.json`).

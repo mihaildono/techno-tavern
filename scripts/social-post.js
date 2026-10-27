@@ -11,7 +11,7 @@
 //   3. Instagram: carousel of all cards with instagram.txt.
 // Each platform is marked in news/data/social/<date>.posted.json after success,
 // so re-running never posts twice (delete the file to force a repost).
-// --auto (used by daily-top-news.sh): does nothing unless AUTO_POST=1.
+// --auto (used by the Pi cron job social-post): does nothing unless AUTO_POST=1.
 // After a posting attempt, news/data/social/discord-message.txt holds a report
 // (post links or errors) for the cron job to send to Discord; no attempt, no file.
 //
