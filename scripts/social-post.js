@@ -13,18 +13,17 @@
 // so re-running never posts twice (delete the file to force a repost).
 // --auto (used by daily-top-news.sh): does nothing unless AUTO_POST=1.
 //
-// Config: environment, or KEY=VALUE lines in ~/.config/techno-tavern/social.env (SOCIAL_ENV overrides the path):
+// Config: environment, or KEY=VALUE lines in .env at the repo root (gitignored; SOCIAL_ENV overrides the path):
 //   META_PAGE_ID, META_PAGE_TOKEN (Page token: pages_manage_posts, pages_read_engagement,
 //   instagram_basic, instagram_content_publish), META_IG_USER_ID,
 //   optional META_GRAPH_VERSION (default v23.0), FACEBOOK_IMAGES (cover|all), AUTO_POST (1).
 
 const fs = require("fs");
-const os = require("os");
 const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
 const SOCIAL_DIR = path.join(ROOT, "news", "data", "social");
-const ENV_FILE = process.env.SOCIAL_ENV || path.join(os.homedir(), ".config", "techno-tavern", "social.env");
+const ENV_FILE = process.env.SOCIAL_ENV || path.join(ROOT, ".env");
 
 const args = process.argv.slice(2);
 const flag = (name) => args.find((a) => a === `--${name}` || a.startsWith(`--${name}=`));
