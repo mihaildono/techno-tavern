@@ -49,7 +49,10 @@ function loadConfig() {
   if (fs.existsSync(ENV_FILE)) {
     for (const line of fs.readFileSync(ENV_FILE, "utf8").split("\n")) {
       const match = line.match(/^\s*([A-Z_]+)\s*=\s*(.*?)\s*$/);
-      if (match) config[match[1]] = match[2].replace(/^["']|["']$/g, "");
+      if (!match) continue;
+      // KEY="quoted value" keeps everything inside the quotes; otherwise " # comment" is dropped.
+      const quoted = match[2].match(/^(["'])(.*)\1/);
+      config[match[1]] = quoted ? quoted[2] : match[2].replace(/\s+#.*$/, "");
     }
   }
   for (const key of Object.keys(process.env)) if (/^(META_|FACEBOOK_|AUTO_POST)/.test(key)) config[key] = process.env[key];
