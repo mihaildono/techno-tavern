@@ -1,7 +1,623 @@
 {
   "windowStart": "2026-10-28T16:31:26.995Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-28T16:31:26.995Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-28T19:00:07.377Z",
+  "totalItems": 50,
+  "items": [
+    {
+      "title": "Генералният директор на сръбската обществена телевизия подаде оставка",
+      "link": "https://www.mediapool.bg/biznes/generalniyat-direktor-na-srabskata-obshtestvena-televiziya-podade-ostavka/",
+      "pubDate": "2026-10-28T18:58:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Balance of Power: Trump Says Gas Price Pain Short-Term (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-28/balance-of-power-trump-says-gas-price-pain-short-term-podcast",
+      "pubDate": "2026-10-28T18:57:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Софийският затвор обжалва предсрочното освобождаване на Кристиан Николов",
+      "link": "https://offnews.bg/temida/sofijskiat-zatvor-obzhalva-predsrochnoto-osvobozhdavane-na-kristian-ni-877428.html",
+      "pubDate": "2026-10-28T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877428/phprv2jdh_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "България настоява Унгария да осигури коридори за блокирани по Дунав български кораби",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/28/4973212_bulgariia_nastoiava_ungariia_da_osiguri_koridori_za/?ref=rss",
+      "pubDate": "2026-10-28T18:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973211.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "\"Шпигел\": Германската полиция арестува двама заподозрени за планиране на саботажи по поръчка на Русия",
+      "link": "https://www.actualno.com/europe/shpigel-germanskata-policija-arestuva-dvama-zapodozreni-za-planirane-na-sabotaji-po-porychka-na-rusija-news_2655977.html",
+      "pubDate": "2026-10-28T18:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/f5a8ce912f146d8a3b5c3008a07997a0_2655977_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Warsh Makes Change to Fed Meeting Schedule for 2027",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/warsh-makes-change-to-fed-meeting-schedule-for-2027-video",
+      "pubDate": "2026-10-28T18:51:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Израел се отправя към седмици на нестабилност и борсите не харесват това",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/28/4972721_izrael_se_otpravia_kum_sedmici_na_nestabilnost_i/?ref=rss",
+      "pubDate": "2026-10-28T18:51:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973209.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Никола Цолов ще дебютира във Формула 1",
+      "link": "https://www.mediapool.bg/sport/nikola-tsolov-shte-debyutira-vav-formula-1/",
+      "pubDate": "2026-10-28T18:45:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Никола Цолов ще дебютира на тренировка във Формула 1",
+      "link": "https://www.dnevnik.bg/sport/2026/10/28/4973208_nikola_colov_shte_debjutira_na_trenirovka_vuv_formula_1/?ref=rss",
+      "pubDate": "2026-10-28T18:45:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4949028.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Исторически момент за България! Никола Цолов дебютира във Формула 1 още този петък",
+      "link": "https://www.actualno.com/moresport/istoricheski-moment-za-bylgarija-nikola-colov-debutira-vyv-formula-1-oshte-tozi-petyk-news_2655973.html",
+      "pubDate": "2026-10-28T18:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/35c51a401923a53c42c28ed5b106bd75_2655973_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "След изборния крах на Вучич: Генералният директор на РТС се оттегли под студентски натиск",
+      "link": "https://offnews.bg/sviat/sled-izbornia-krah-na-vuchich-generalniat-direktor-na-rts-se-ottegli-877427.html",
+      "pubDate": "2026-10-28T18:43:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877427/php5vu2ks_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Fed Will Raise Rates in December, Clarida Predicts",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/fed-will-raise-rates-in-december-clarida-predicts-video",
+      "pubDate": "2026-10-28T18:41:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/diesel-from-arabian-gulf-likely-to-increase-wright-video",
+      "pubDate": "2026-10-28T18:38:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Fed to Phase In New FOMC Meeting Schedule Starting Next Year, Warsh Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/warsh-says-fomc-schedule-will-change-as-of-next-fall",
+      "pubDate": "2026-10-28T18:38:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZyZkFCWm1xNUhablhhMUdOY3B2R2xBUmhGYWNMd09SUUxuXzVLaFVhLVBvOEl3aXJIUWxEdVlfaE9xMk9MX2lsS1VocjB1TnlRazdzRG50MWhMX1dzbUtoS2dBTjk1NWhEd003MVg3bkk5N1RRT2QtaVFWMk1NYXU1QldsRDVtUGZZSF9jYmo3ek5WYWJFdllmUzZoeDUxUHJqekVJd2UxR1FWNi15U0JfcjBEYjhRYzJxNA?oc=5",
+      "pubDate": "2026-10-28T18:29:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Екипажът на атакувания контейнеровоз пристигна във Варна",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/28/4973206_ekipajut_na_atakuvaniia_konteinerovoz_pristigna_vuv/?ref=rss",
+      "pubDate": "2026-10-28T18:29:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973205.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3J0MEVjUDYzWV9pcnBYVTBRcFd3SHZZVVF5d29naldtQjRmRGhlOGZkemtiUEdCWU0zUXFNR3FvLS05Mjc2SFRHSXU5SlZpSnRTenZOcFYxV3lyVFBXRmlKZHNxX0lOMXZkRUJHYXNHZGFxMVgzN3kySVRJU2ctb19hYUZYRElpQ1JYY2hmTkhyeFFJVy1GWVZZc08tUERFb3RhR0wwdGM3YnNxWTMzalJISUdJRTRiN3YtczZrRQ?oc=5",
+      "pubDate": "2026-10-28T18:28:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Wall Street wavers as Federal Reserve holds key rate steady, pending more data",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+      "pubDate": "2026-10-28T18:27:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "US health department to allow temporary sale of some unapproved peptides",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFVsRUVKR19XanFDd1RoMTJyVVVFVWFNRlZtdExJNjhxVDB6cUxLUmpST2xNVnhwdzlXNWtOZFVXTDVtMTZrcF8xcVBBam5tWk1na3RSbEhrQ012NGNhTDlZOTJqSUlhVkFUUmhlendXZ0VLUGRqVWM4YXktNTJxYm9PUGRYb3FBLWViT2xwY2kwbV9DNlVGQUdMVXRvN2NrdTNaRzBSLWl1Q3lia3ozR1N0NXdzb0dhT0pz?oc=5",
+      "pubDate": "2026-10-28T18:26:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "At least 68 people dead in Spain's second major train crash this year",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+      "pubDate": "2026-10-28T18:23:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "След атаката край Шабла – три министерства проверяват Черно море за опасни вещества",
+      "link": "https://frognews.bg/novini/sled-atakata-kray-shabla-tri-ministerstva-proveryavat-cherno-more-opasni-veshtestva.html",
+      "pubDate": "2026-10-28T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9e68f0645_1793211579_6ae23cbbc5d12.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "От глад до пропаганда – Русия се готви да използва оцелелите в окупирания Олешки",
+      "link": "https://frognews.bg/novini/glad-propaganda--rusiia-gotvi-izpolzva-otselelite-okupiraniia-oleshki.html",
+      "pubDate": "2026-10-28T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c5149d273_1793198649_6ae20a390b87c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Директорът на обществените медии на Сърбия все пак подаде оставка",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/28/4973204_direktorut_na_obshtestvenite_medii_na_surbiia_vse_pak/?ref=rss",
+      "pubDate": "2026-10-28T18:19:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973203.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "След удара по CONTSHIP JET: Изследват Черно море за нефт и опасни химикали",
+      "link": "https://offnews.bg/obshtestvo/sled-udara-po-contship-jet-izsledvat-cherno-more-za-neft-i-opasni-him-877426.html",
+      "pubDate": "2026-10-28T18:12:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877426/phpvswoxj_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Расте броят на жертвите при влаковата катастрофа в Испания (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/raste-brojat-na-jertvite-pri-vlakovata-katastrofa-v-ispanija-video-news_2655968.html",
+      "pubDate": "2026-10-28T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/39e831e8963f877c506a5eefe355792e_2655968_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Френски самолет е предупредил за атаката в Черно море. Дроновете са идвали от изток",
+      "link": "https://boulevardbulgaria.bg/articles/frenski-samolet-e-nablyudaval-atakata-v-cherno-more-dronovete-sa-idvali-ot-iztok",
+      "pubDate": "2026-10-28T17:57:45.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyNDAzLCJwdXIiOiJibG9iX2lkIn19--4621a9453ac681f8b45420dd56cefbb78ffe1f54/screen.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Напрежение на границата с Турция – протести и проверки затрудняват трафика",
+      "link": "https://frognews.bg/novini/naprejenie-granitsata-turtsiia--protesti-proverki-zatrudniavat-trafika.html",
+      "pubDate": "2026-10-28T17:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8588455eb_1793208547_6ae230e384adf.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Какво се случи с радиацията в Чернобил за 40 години: Учените откриха нещо различно от очакваното",
+      "link": "https://www.actualno.com/interest/kakvo-se-sluchi-s-radiacijata-v-chernobil-za-40-godini-uchenite-otkriha-neshto-razlichno-ot-ochakvanoto-news_2655750.html",
+      "pubDate": "2026-10-28T17:34:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/1050cef2c7ec3fea434ca0312dc05346_2655750_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Зеленски от Хага: Срещата за мир зависи от Москва",
+      "link": "https://offnews.bg/sviat/zelenski-ot-haga-sreshtata-za-mir-zavisi-ot-moskva-877425.html",
+      "pubDate": "2026-10-28T17:32:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877425/phpfy9ltg_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Шофьор загина при челен удар с камион на пътя Хасково - Пловдив",
+      "link": "https://www.actualno.com/crime/shofior-zagina-pri-chelen-udar-s-kamion-na-pytja-haskovo-plovdiv-news_2655958.html",
+      "pubDate": "2026-10-28T17:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/76298096a88142acfdd739d670cb5e29_2655958_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Прокуратурата и затворът обжалват освобождаването на осъдения за смъртта на Милен Цветков",
+      "link": "https://www.mediapool.bg/bulgaria/prokuraturata-i-zatvorat-obzhalvat-osvobozhdavaneto-na-osadeniya-za-smartta-na-milen-tsvetkov/",
+      "pubDate": "2026-10-28T17:29:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Никола Цолов официално дебютира в състезателен уикенд на Формула 1",
+      "link": "https://boulevardbulgaria.bg/articles/nikola-tsolovvv-ofitsialnoo-debyutira-v-sastezatelen-uikend-na-formula-1",
+      "pubDate": "2026-10-28T17:25:54.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNjcxLCJwdXIiOiJibG9iX2lkIn19--a06123a1ffadf5e2292798245201706b0fd25019/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A6%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%A42.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Поредна атака: Контейнеровоз е ударен с дронове край нос Калиакра (обновена)",
+      "link": "https://www.mediapool.bg/bulgaria/poredna-ataka-konteinerovoz-e-udaren-s-dronove-krai-nos-kaliakra-obnovena/",
+      "pubDate": "2026-10-28T17:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Исторически момент: Никола Цолов влиза във Формула 1 в петък",
+      "link": "https://frognews.bg/novini/istoricheski-moment-nikola-tsolov-vliza-vav-formula-1-petak.html",
+      "pubDate": "2026-10-28T17:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ec365579d_nikola-colov.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "link": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T17:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "В Германия арестуваха двама беларуси за саботажи в полза на Русия",
+      "link": "https://offnews.bg/sviat/v-germania-arestuvaha-dvama-belarusi-za-sabotazhi-v-polza-na-rusia-877424.html",
+      "pubDate": "2026-10-28T17:03:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877424/phpxn36nk_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Политическо заметресение в ЕС: Четири държави се противопоставиха на Урсула фон дер Лайен за асоцииране на Канада",
+      "link": "https://frognews.bg/novini/politichesko-zametresenie-chetiri-darjavi-protivopostaviha-ursula-fon-der-laien-asotsiirane-kanada.html",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a0e611cb5_1793205705_6ae225c994b3f.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Въпреки дълга, газ за столичната топлофикация ще има, проблемът са авариите",
+      "link": "https://www.mediapool.bg/bulgaria/vapreki-dalga-gaz-za-stolichnata-toplofikatsiya-shte-ima-problemat-sa-avariite/",
+      "pubDate": "2026-10-28T16:57:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "One year on, families seek justice after election violence",
+      "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T16:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Бивш служебен премиер на Румъния към Радев: Очаквахме повече съпричастност",
+      "link": "https://boulevardbulgaria.bg/articles/bivsh-sluzheben-premier-na-rumaniya-kam-radev-ochakvahme-poveche-saprichastnost",
+      "pubDate": "2026-10-28T16:25:30.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyNTM3LCJwdXIiOiJibG9iX2lkIn19--446c4e7a9a198dc1ac581877b02096b455783621/katalin%20predoui.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
+      "link": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T16:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T15:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Андрей Гюров: Колко отчаяна трябва да е кампанията на Йотова, за да прибягва до такива лъжи",
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-kolko-otchayana-tryabva-da-e-kampaniyata-na-yotova-za-da-pribyagva-do-takiva-lazhi",
+      "pubDate": "2026-10-28T15:37:19.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyNTMyLCJwdXIiOiJibG9iX2lkIn19--75b2891e04fcca54737223fbe78849954f674670/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%B3%D1%8E%D1%80%D0%BE%D0%B2%20382532.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T15:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Дронове атакуваха кораб до Калиакра. Разпръснати контейнери застрашават трафика в Черно море",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1ZmRHEzSVV2bXRiN0VfZHpLQmVxejJHc3h1cU92bk40U2E3SVY0eVhHa1QxR1hDVjB0NlBvYjNLaDR1UEdmT203NVBSaTZGMlkxX3BBS1Q1S2Y4eWdtQTF2YVFVRlVsTjJzN2FmVG1aY09tN0E2ZkhaUWxBUm5jWXQtWmlqVTcxUzI4ZkpDQ0s0MFlMbEthTS1DamhBMXdaVEVuVmtJWQ?oc=5",
+      "pubDate": "2026-10-28T14:42:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Йотова и партията на Радев заплашват с нови избори при загуба от Гюров",
+      "link": "https://boulevardbulgaria.bg/articles/andrey-gyurov-oproverga-sluha-na-progresivna-balgariya-za-sreshta-s-peevski",
+      "pubDate": "2026-10-28T14:15:14.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyNTA0LCJwdXIiOiJibG9iX2lkIn19--b646baf5ce29ed7b771208cedf23cc70b7d81c26/%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D0%B0-%D0%B8-%D1%80%D0%B0%D0%B4%D0%B5%D0%B2-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE-%D1%82%D1%8A%D1%80%D0%BD%D0%B2%D0%BE.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Русия или Европа, война или мир? Йотова или Гюров печели изборите",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObi1YUEdxRTIwSXRGa1VHeUZTZjRuYml3cjdvTzBNeWM1aU1zbS11dmVwRG1DdEd5VFFJZFdnOVBGUHVyVFNmMjdpV1dKT2V3TEV3R0l3aGlNcHVmN2Q5QzFQUEVtMkFCMlVuOTNOdDY5YUwwS3lnTVJqMHczU1BzdXFlUV81MTUxcndBQlEzakZfYU96a1dVbksxQm9ENGJGWS1rMWs4MlNDOFBQTmlz?oc=5",
+      "pubDate": "2026-10-28T13:26:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "министър на отрбараната Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xbUVrMGljR3pUWFRLdEliRFBYeENnc3FtWk9FaDV4QW1BZGNaQWhBV1FaalJXRDBOV3Fzdy03M05CaWVSTzdjOVoxbmxMN1V2Tm9UTjI3eENsMU9jbWxlbTROQkM?oc=5",
+      "pubDate": "2026-10-28T13:12:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Радев влезе по-активно в кампанията на Йотова. Тя му благодари „от сърце“",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3N0bEo5RXAxVTdHa2FLZlJ5d1lySmRBVGNtUXE0cHVDY3lfOGRIQkpDV2FDWks0QTdhYjlRRlI2ZHdPZjVNSVJndlVMdndnUi1pekVWTmV0X3BzbXItY1pUVGRKRVpmWmlPdGM5MmlGZ0kwaDJDN2Z5RXpEUHdCQ2tIZ1drVnNBTTZELVcyRFYtdEx3dDhhSDZsbldPQWN3dEhSRUFhaVA2SU0?oc=5",
+      "pubDate": "2026-10-28T12:01:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    },
+    {
+      "title": "Службите са установили подпалвачите на антени на Starlink ден след атаката. Радев и Демерджиев разкриха подробности от разследването",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLUpYZ1FBN0pSUXRIZG9pQzhFZlgxMEFDWHltMEVxd1U5WjdnU2VOM0VyNU9oZWdudDJDV0NmS2pSSjR3M0J4bVhEOGhNNVh2T0RqZ0xhbXkyQXcyVG5GU3pKMzlOUWlJYjE2VnI4bzczMEJCMC1UZGxEakI0eXlHTWNWU2FCVHpFM1Yyd2ZWVDAtYTk3Qy1zd2N6V2Z4RDBWcDMwM1dnLXBpdm1wZmlNcTRsYk9haGpIeGxaTnpPWkFRS1BiNkVCeXktWlRtOExUbGs3QkR4dF9uY3VKYlpnVEo2RlU2UDVBZ2Y1ZTFBODh1WWFoNDFiVDQtMlE1czVMZXc?oc=5",
+      "pubDate": "2026-10-28T10:54:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T19:00:07.377Z"
+    }
+  ]
 }
