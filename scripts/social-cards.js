@@ -25,6 +25,7 @@ const DIGESTS_DIR = path.join(ROOT, "news", "data", "digests");
 const SOCIAL_DIR = path.join(ROOT, "news", "data", "social");
 const TEMPLATE = fs.readFileSync(path.join(__dirname, "social-card.html"), "utf8");
 const SITE = "technotavern.com";
+const KEEP_DAYS = 7; // older card folders and .posted.json files are deleted after each run
 
 const KEYCAPS = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣"];
 const HASHTAGS = "#новини #България #Пловдив #TechnoTavern #вечеренобзор";
@@ -118,6 +119,20 @@ async function screenshot(page, html, outFile) {
   }
 }
 
+// Keep the KEEP_DAYS editions up to `date` (e.g. 21–27 Oct for 27 Oct); delete older ones.
+function prune(date) {
+  const cutoff = new Date(`${date}T12:00:00Z`);
+  cutoff.setUTCDate(cutoff.getUTCDate() - (KEEP_DAYS - 1));
+  const oldest = cutoff.toISOString().slice(0, 10);
+  for (const entry of fs.readdirSync(SOCIAL_DIR)) {
+    const day = entry.match(/^(\d{4}-\d{2}-\d{2})(\.posted\.json)?$/)?.[1];
+    if (day && day < oldest) {
+      fs.rmSync(path.join(SOCIAL_DIR, entry), { recursive: true, force: true });
+      console.log(`🗑  removed ${entry}`);
+    }
+  }
+}
+
 async function main() {
   const date = process.argv[2] || fs.readdirSync(DIGESTS_DIR).filter((f) => f.endsWith(".json")).sort().pop()?.slice(0, -5);
   const file = path.join(DIGESTS_DIR, `${date}.json`);
@@ -151,6 +166,7 @@ async function main() {
   fs.writeFileSync(path.join(outDir, "facebook.txt"), text.facebook);
   fs.writeFileSync(path.join(outDir, "instagram.txt"), text.instagram);
   console.log(`✅ ${cards.length} cards + captions for ${date}`);
+  prune(date);
 }
 
 main().catch((error) => fail(error.message));
