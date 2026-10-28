@@ -1,9 +1,373 @@
 {
   "windowStart": "2026-10-28T16:31:26.995Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-28T19:00:07.377Z",
-  "totalItems": 50,
+  "lastUpdated": "2026-10-28T22:00:05.829Z",
+  "totalItems": 79,
   "items": [
+    {
+      "title": "Радев може да помага на Русия да атакува кораби, в делириум е: Подозрения в румънска телевизия",
+      "link": "https://www.actualno.com/balkani/radev-moje-da-pomaga-na-rusija-da-atakuva-korabi-v-delirium-e-podozrenija-v-rumynska-televizija-news_2656021.html",
+      "pubDate": "2026-10-28T21:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/9f7e65194c9a1027f527284d1117e068_2656021_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",
+      "pubDate": "2026-10-28T21:50:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Tech Giants Show Their AI Cards: Evening Briefing Americas",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/tech-giants-show-their-ai-cards-evening-briefing-americas",
+      "pubDate": "2026-10-28T21:47:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Charles Schwab Integrating AI Tools and Financial Planning",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-28/charles-schwab-integrating-ai-with-financial-planning-video",
+      "pubDate": "2026-10-28T21:47:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Alphabet Disappoints as Microsoft’s Cloud Brightens",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/alphabet-disappoints-as-microsoft-s-cloud-brightens",
+      "pubDate": "2026-10-28T21:42:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "RBA Rate Hikes, NZ Dollar, Fortescue: Australia Briefing",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/rba-rate-hikes-nz-dollar-fortescue-australia-briefing",
+      "pubDate": "2026-10-28T21:41:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Пети кораб беше ударен от дронове до българския бряг: какво се случи до момента",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/28/4973236_peti_korab_beshe_udaren_ot_dronove_do_bulgarskiia/?ref=rss",
+      "pubDate": "2026-10-28T21:34:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973113.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Американски сенатор поиска от компанията-майка да спре един от танкерите, натоварен с руски дизел",
+      "link": "https://www.actualno.com/economy/amerikanski-senator-poiska-ot-kompanijata-majka-da-spre-edin-ot-tankerite-natovaren-s-ruski-dizel-news_2656019.html",
+      "pubDate": "2026-10-28T21:31:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/6bdbde2d8e3fb8235829c8616a2ca008_2656019_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Путин нахвали Мъск за Starlink - 25 години след като Русия се подигра на милиардера (ВИДЕО)",
+      "link": "https://www.actualno.com/cosmos/putin-nahvali-mysk-za-starlink-25-godini-sled-kato-rusija-se-podigra-na-miliardera-video-news_2656017.html",
+      "pubDate": "2026-10-28T21:25:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/69d87006b7dac6faa360ef95cab944ec_2656017_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "За пръв път: Русия позволи на кораби, превозващи зърно, да напуснат Азовско море",
+      "link": "https://www.actualno.com/europe/za-pryv-pyt-rusija-pozvoli-na-korabi-prevozvashti-zyrno-da-napusnat-azovsko-more-news_2656016.html",
+      "pubDate": "2026-10-28T21:20:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/1c88593da78a9e55b379ac271dd55f31_2656016_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Прогноза за времето - 29 октомври 2026 г. (четвъртък)",
+      "link": "https://www.actualno.com/society/prognoza-za-vremeto-29-oktomvri-2026-g-chetvyrtyk-news_2656015.html",
+      "pubDate": "2026-10-28T21:16:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/e62141d9abd7fce10a86147e9c5ebc10_2656015_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Flavio Bolsonaro, from US, declares himself rightful president-elect of Brazil",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+      "pubDate": "2026-10-28T21:14:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "US sways more countries to oppose UN resolution condemning its Cuba embargo",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRGVWZFcktIT3J0X1JWZTI5eTMyM3RXYzkzNGdLclhLcUthY08zNk04SFhuRU4yR0g1OTNyRVI2aVlFYVkxdmZaRTBFZ3BNcTFrT2ZxWWduQTV2ajhvWWpReV9mSWFnSnA5akttbFdNQ0VvUV9mNjVKZXBJc2hwUFJBaEhIRnFsMndEd1RfSXJoTGNyaHBLUDFxWEtuZHBoVHpfVjI4VTd4X3duV2NMZ1ZRQ0NReGhubXBaXzhLTQ?oc=5",
+      "pubDate": "2026-10-28T21:12:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Alphabet shares fall after revenue miss, cash burn worsens",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+      "pubDate": "2026-10-28T21:08:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Microsoft cloud revenue beats estimates in sign that AI bet is paying off",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+      "pubDate": "2026-10-28T21:06:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "A timeline of Brazilian Senator Flavio Bolsonaro's wild journey to the United States",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1NELWo0YlVqWmdjbkZpYU5zTHB3NlNMQ19zek1rZ1FyLU9ta0hoZ2NNc1kzSlJBSWFDejRPVThqck5BWlUxU1JGMkFZOGRmQjlkMFNJQnBPTjIzTUc3SDVJeThmT3lMdU8ycVpWc2huanE4alJXa3ZSal9vNUtVWnZURkJlNHhCbUE4d18xZ0NwN19kbEZpYUEyaWk1V09oU2NsWkZuTXV0OVRxNEg2MzB6SFIxblFtZTQzWHN5QQ?oc=5",
+      "pubDate": "2026-10-28T21:01:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "ЦИК не видя агитация в изказванията на премиера Румен Радев, ДБ ще обжалва решението в съда",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/10/28/4973228_cik_ne_vidia_agitaciia_v_izkazvaniiata_na_premiera/?ref=rss",
+      "pubDate": "2026-10-28T20:48:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973227.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Цитат на деня: Засегнатите от скъпия газ винаги могат да минат на ток",
+      "link": "https://www.dnevnik.bg/citat_na_deniia/2026/10/28/4973223_citat_na_denia_zasegnatite_ot_skupiia_gaz_vinagi_mogat/?ref=rss",
+      "pubDate": "2026-10-28T20:13:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973221.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Екипажът на ударения с три дрона контейнеровоз е спасен и вече е във Варна",
+      "link": "https://frognews.bg/novini/ekipazhat-udareniya-tri-drona-konteynerovoz-spasen-veche-vav-varna.html",
+      "pubDate": "2026-10-28T20:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b13dca67c_1793217638_6ae254668e6f3.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Франция е предупредила българските ВМС за атаката с дронове срещу CONTSHIP JET",
+      "link": "https://offnews.bg/obshtestvo/frantcia-e-predupredila-balgarskite-vms-za-atakata-s-dronove-sreshtu-c-877429.html",
+      "pubDate": "2026-10-28T19:50:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877429/php4j1cye_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Войната срещу Иран струва на САЩ над 47 млрд. долара, Тръмп не изключва нови удари",
+      "link": "https://frognews.bg/novini/voinata-sreshtu-iran-struva-sasht-nad-47-mlrd-dolara-tramp-izkliuchva-novi-udari.html",
+      "pubDate": "2026-10-28T19:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/95853e092_belia_dom.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Екоминистерството не отчита видими следи от замърсяване край Калиакра",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/28/4973219_ekoministerstvoto_ne_otchita_vidimi_sledi_ot/?ref=rss",
+      "pubDate": "2026-10-28T19:38:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4963188.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Може ли Куба да устои на Тръмп? Островът е пред икономически срив, но не отстъпва",
+      "link": "https://frognews.bg/novini/moje-kuba-ustoi-tramp-ostrovat-pred-ikonomicheski-sriv-otstapva.html",
+      "pubDate": "2026-10-28T19:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/81bbcb27b_1793213268_6ae24354421fb.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Китайският вариант на совалка за дълги военни секретни полети бе показан от САЩ",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/28/4973216_kitaiskiiat_variant_na_sovalka_za_dulgi_voenni/?ref=rss",
+      "pubDate": "2026-10-28T19:18:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973217.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
+      "link": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T19:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "След изборите в Сърбия – директорката на обществената телевизия подаде оставка",
+      "link": "https://frognews.bg/novini/sled-izborite-sarbiya-direktorkata-obshtestvenata-televiziya-podade-ostavka.html",
+      "pubDate": "2026-10-28T19:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c2f049e38_1793213856_6ae245a0036f0.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Шефката на държавната сръбска телевизия подаде оставка след краха на Вучич",
+      "link": "https://offnews.bg/sviat/shefkata-na-darzhavnata-srabska-televizia-podade-ostavka-sled-kraha-na-877427.html",
+      "pubDate": "2026-10-28T18:43:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877427/php5vu2ks_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Никола Цолов официално дебютира в състезателен уикенд на Формула 1",
+      "link": "https://boulevardbulgaria.bg/articles/nikola-tsolovvv-ofitsialnooo-debyutira-v-sastezatelen-uikend-na-formula-1",
+      "pubDate": "2026-10-28T17:25:54.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNjcxLCJwdXIiOiJibG9iX2lkIn19--a06123a1ffadf5e2292798245201706b0fd25019/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A6%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%A42.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
+    {
+      "title": "Израел остава без ясен победител. Нетаняху и опозицията са с почти изравнени резултати",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVVQMjNOQjY4cXc4YVJxREE4eEZ2T2VzM24tRGc4eTBXR2ZsMllvckRqN2p2eWpXVTlyV3BDWmU2cGMzUUhrMXFtWWdkeUh2VWdvTnA2UFJiWEpGaWdNeHlxZFhpdHYyUUF4M3M2Vk5rMGlwbEZFRFgzNllLWk5ZbU9NaENvdmRBTnVCSWtZNGZ6RWJCeDUxWnBPbzlyS3A3Sm9Mc1lidjh2NmxJNUNhM1RsclBfb21rMkx0SFRuZ0VYQQ?oc=5",
+      "pubDate": "2026-10-28T16:41:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-28T22:00:05.829Z"
+    },
     {
       "title": "Генералният директор на сръбската обществена телевизия подаде оставка",
       "link": "https://www.mediapool.bg/biznes/generalniyat-direktor-na-srabskata-obshtestvena-televiziya-podade-ostavka/",
