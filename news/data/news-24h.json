@@ -1,9 +1,206 @@
 {
   "windowStart": "2026-10-28T16:31:26.995Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-28T22:00:05.829Z",
-  "totalItems": 79,
+  "lastUpdated": "2026-10-29T01:00:06.150Z",
+  "totalItems": 95,
   "items": [
+    {
+      "title": "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/bitcoin-traders-brace-for-swings-on-11-billion-options-expiry",
+      "pubDate": "2026-10-29T00:50:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "EU countries block Canada's 'associate membership' plan",
+      "link": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-29T00:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Judge Says US Bid to Block 20,000 Votes Would ‘Wreak Havoc’",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/trump-s-doj-again-loses-bid-to-block-20-000-california-ballots",
+      "pubDate": "2026-10-29T00:41:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Alphabet Misses Mark, Microsoft Beats, Fed Holds Rates, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-29/alphabet-misses-mark-microsoft-beats-fed-holds-rates-more",
+      "pubDate": "2026-10-29T00:39:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Utah Files Criminal Charges Against Prediction Market Kalshi",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/utah-files-criminal-charges-against-prediction-market-kalshi",
+      "pubDate": "2026-10-29T00:31:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Зеленски: Русия иска да преговаря за сигурността на Европа, без Европа. С кого ще преговаря, с Китай ли? (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/zelenski-rusija-iska-da-pregovarja-za-sigurnostta-na-evropa-bez-evropa-s-kogo-shte-pregovarja-s-kitaj-li-video-news_2656033.html",
+      "pubDate": "2026-10-29T00:12:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/29/75b068e39bee8ad57bc88f929f4cd77a_2656033_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Kalemli-Ozcan: Today's Inflation Lacks 2021's Force",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-29/kalemli-ozcan-today-s-inflation-lacks-2021-s-force-video",
+      "pubDate": "2026-10-29T00:04:40.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Украйна атакува със стотици дронове Русия, много области са под прицел (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ukrajna-atakuva-sys-stotici-dronove-rusija-mnogo-oblasti-sa-pod-pricel-video-news_2656031.html",
+      "pubDate": "2026-10-28T23:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/29/525507caee15a5794f1d539a09d1975f_2656031_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "CNN, MS NOW, Politico expand lawsuit over White House access limits",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjh0VFR2ZmRGMGE0Q1JxeGpJZWhrRGJaV0VrSHl3TmpFVXFpZUwzcTljRzYxUldDUGp3VXdVUEU0UFVwbUpSSjFLWHFCYjNOZkd2STdXWW92SDlrclZLOUF4UGE3LWQxcHlqdnE0dTh4bUlZZVhNRHYtZHZqMjJkOEdoVWh3d21MNGpLdklidjdOVlZ3cHJTcUxfd3FzeHdtcFNFQTcwbzB4Q2w4RUVNeDRtWGFBTXRfM2c?oc=5",
+      "pubDate": "2026-10-28T23:38:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
+      "pubDate": "2026-10-28T23:32:40.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "На фона на влошаващите се отношения с Украйна: Южна Корея се сближава с Русия",
+      "link": "https://www.actualno.com/asia/na-fona-na-vloshavashtite-se-otnoshenija-s-ukrajna-ujna-koreja-se-sblijava-s-rusija-news_2656030.html",
+      "pubDate": "2026-10-28T23:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/29/0688dc2a0d2851dc2b346e1322fc423e_2656030_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "От САЩ: Флавио Болсонаро се обяви за \"законно избрания лидер\" на Бразилия",
+      "link": "https://www.actualno.com/america/ot-sasht-flavio-bolsonaro-se-objavi-za-zakonno-izbranija-lider-na-brazilija-news_2656029.html",
+      "pubDate": "2026-10-28T23:11:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/29/89104290278f7a026e512a790f2bd05e_2656029_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw?oc=5",
+      "pubDate": "2026-10-28T23:07:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Близо 20 контейнера от ударения край Калиакра кораб плават в морето: Какъв товар е имало на борда му?",
+      "link": "https://www.actualno.com/society/blizo-20-kontejnera-ot-udarenija-kraj-kaliakra-korab-plavat-v-moreto-kakyv-tovar-e-imalo-na-borda-mu-news_2656028.html",
+      "pubDate": "2026-10-28T22:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/29/04559f9db45bc43677a86e2ecf7213fa_2656028_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+      "pubDate": "2026-10-28T22:44:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-28T22:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-29T01:00:06.150Z"
+    },
     {
       "title": "Радев може да помага на Русия да атакува кораби, в делириум е: Подозрения в румънска телевизия",
       "link": "https://www.actualno.com/balkani/radev-moje-da-pomaga-na-rusija-da-atakuva-korabi-v-delirium-e-podozrenija-v-rumynska-televizija-news_2656021.html",
