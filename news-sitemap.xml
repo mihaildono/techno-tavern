@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.technotavern.com/obzor/2026-10-29/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Techno Tavern</news:name>
+        <news:language>bg</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:31:04.632Z</news:publication_date>
+      <news:title>Новините за 29 октомври 2026: Руска атака с дрон по жп гара в Днипро уби 13 души</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.technotavern.com/obzor/2026-10-28/</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-10-28T16:31:25.532Z</news:publication_date>
       <news:title>Новините за 28 октомври 2026: Два високоскоростни влака се сблъскаха в Испания, загиналите са десетки</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.technotavern.com/obzor/2026-10-27/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Techno Tavern</news:name>
-        <news:language>bg</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:30:41.075Z</news:publication_date>
-      <news:title>Новините за 27 октомври 2026: Йотова и Гюров отиват на балотаж с разлика 2,8 пункта</news:title>
     </news:news>
   </url>
 </urlset>
