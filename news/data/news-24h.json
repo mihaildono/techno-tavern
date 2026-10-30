@@ -1,7 +1,623 @@
 {
   "windowStart": "2026-10-30T16:32:14.731Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-30T16:32:14.731Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-10-30T19:00:06.746Z",
+  "totalItems": 50,
+  "items": [
+    {
+      "title": "Bloomberg Business of Sports: Rick Welts (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-30/bloomberg-business-of-sports-rick-welts-podcast",
+      "pubDate": "2026-10-30T18:58:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "\"Явно имаха нужда от мамник в свитата\": Хитов писател разкри, че е бил канен в ИК на Йотова, но е върнал \"най-бързото НЕ\"",
+      "link": "https://www.actualno.com/politics/javno-imaha-nujda-ot-mamnik-v-svitata-hitov-pisatel-razkri-che-e-bil-kanen-v-ik-na-jotova-no-e-vyrnal-naj-byrzoto-ne-news_2656967.html",
+      "pubDate": "2026-10-30T18:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/30/52bec5fcef30c5787ef353732bd9c766_2656967_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Русия извежда от експлоатация своя най-мощен крайцер",
+      "link": "https://www.actualno.com/europe/rusija-izvejda-ot-eksploatacija-svoja-naj-moshten-krajcer-news_2656968.html",
+      "pubDate": "2026-10-30T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/30/1fe17d17d1c7c1a5c36ae94b29bdbdef_2656968_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "САЩ предлагат избори във Венецуела догодина според опозицията, властта не казва това",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/30/4974155_sasht_predlagat_izbori_vuv_venecuela_dogodina_spored/?ref=rss",
+      "pubDate": "2026-10-30T18:51:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974154.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Барселона е най-големият победител от скандала с Килиан Мбапе в Китай",
+      "link": "https://www.actualno.com/football/barselona-e-naj-golemijat-pobeditel-ot-skandala-s-kilian-mbape-v-kitaj-news_2656965.html",
+      "pubDate": "2026-10-30T18:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/30/f8da9c5417ca8d44b0393401ddba52a6_2656965_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Appeals Court Denies DOJ Bid to Block 20,000 California Ballots",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/appeals-court-denies-doj-bid-to-block-20-000-california-ballots",
+      "pubDate": "2026-10-30T18:49:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Own, Don't Earn: 'Everywhere Millionaire' Author",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/own-don-t-earn-everywhere-millionaire-author-video",
+      "pubDate": "2026-10-30T18:48:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Democrat Peter Crosby Looks to Flip Utah's 2nd District",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/democrat-peter-crosby-looks-to-flip-utah-s-2nd-district-video",
+      "pubDate": "2026-10-30T18:47:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "People Don't Know Their Retirement Number: Conrath",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-30/people-don-t-know-their-retirement-number-conrath-video",
+      "pubDate": "2026-10-30T18:41:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Неочакван обрат за Григор Димитров! Българинът получи шанс за голям турнир в последния момент",
+      "link": "https://www.actualno.com/tennis/neochakvan-obrat-za-grigor-dimitrov-bylgarinyt-poluchi-shans-za-goljam-turnir-v-poslednija-moment-news_2656961.html",
+      "pubDate": "2026-10-30T18:33:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/30/ccd3346f0c169850543aeccc1e76a118_2656961_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Частично бедствено положение в Козлодуй заради хром във водата",
+      "link": "https://www.mediapool.bg/bulgaria/chastichno-bedstveno-polozhenie-v-kozlodui-zaradi-hrom-vav-vodata/",
+      "pubDate": "2026-10-30T18:32:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "\"Добър старт\": Никола Цолов забрави пропуска си за влизане в падока на Формула 1 (ВИДЕО)",
+      "link": "https://www.actualno.com/moresport/dobyr-start-nikola-colov-zabravi-propuska-si-za-vlizane-v-padoka-na-formula-1-video-news_2656960.html",
+      "pubDate": "2026-10-30T18:25:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/30/79b25e08e3804cf80fa6664946c902f0_2656960_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Шишков: Цената от 90 млн. евро за лот от \"Струма\" е определена от кабинета \"Желязков\"",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/30/4974149_shishkov_cenata_ot_90_mln_evro_za_lot_ot_struma_e/?ref=rss",
+      "pubDate": "2026-10-30T18:24:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974148.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Цитат на деня: Ако трябва всеки ден в 20 часа президентът ще прави обръщения към нацията",
+      "link": "https://www.dnevnik.bg/citat_na_deniia/2026/10/30/4974146_citat_na_denia_ako_triabva_vseki_den_v_20_chasa/?ref=rss",
+      "pubDate": "2026-10-30T18:22:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974145.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Polish president turns back from Senegal trip as top court chief suspended",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
+      "pubDate": "2026-10-30T18:19:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+      "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-30T18:06:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Възможностите за внос на канадски втечнен газ започва да разглежда ЕС",
+      "link": "https://www.mediapool.bg/biznes/vazmozhnostite-za-vnos-na-kanadski-vtechnen-gaz-zapochva-da-razglezhda-es/",
+      "pubDate": "2026-10-30T17:59:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Агент Иван громи сглобката, в която беше министър",
+      "link": "https://offnews.bg/politika/agent-ivan-gromi-sglobkata-v-koiato-beshe-ministar-877557.html",
+      "pubDate": "2026-10-30T17:59:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877557/php3x0dub_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Кристи Пайк след неуспешната екзекуция: Няма минута, в която да не изпитвам болка",
+      "link": "https://offnews.bg/sviat/kristi-pajk-sled-neuspeshnata-ekzekutcia-niama-minuta-v-koiato-da-ne-877556.html",
+      "pubDate": "2026-10-30T17:40:25.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877556/phpvhlv4v_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "ЕС и Канада градят „Съюз за бъдещето“, чертаят рамка за все по-тясно асоцииране до 2027 г.",
+      "link": "https://frognews.bg/novini/kanada-gradiat-saiuz-badeshteto-chertaiat-ramka-vse-tiasno-asotsiirane-2027.html",
+      "pubDate": "2026-10-30T17:36:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/636505173_1793383539_6ae4dc7312188.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "За пръв път папа гласува на избори в САЩ",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/30/4974134_za_pruv_put_papa_glasuva_na_izbori_v_sasht/?ref=rss",
+      "pubDate": "2026-10-30T17:32:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974133.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "И Иван Христанов подкрепи Гюров: Трябва ни нов президент",
+      "link": "https://offnews.bg/politika/i-ivan-hristanov-podkrepi-giurov-triabva-ni-nov-prezident-877555.html",
+      "pubDate": "2026-10-30T17:27:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877555/phpj5bwyq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA?oc=5",
+      "pubDate": "2026-10-30T17:21:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "От европейския пазар се изтеглят 7 млн. дефектни презерватива",
+      "link": "https://www.mediapool.bg/svyat/ot-evropeiskiya-pazar-se-izteglyat-7-mln-defektni-prezervativa/",
+      "pubDate": "2026-10-30T17:21:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw?oc=5",
+      "pubDate": "2026-10-30T17:19:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Pope Leo becomes first pontiff to cast ballot in US election",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNBbkd1Q2VaanlIakk1Q29CbDEybTR1YWxnZE5BU1ZrdmJVMmRONGFBeGxvSHYtUWZTU1NWTHREWVNEaUlJTkdrZ2FJOEdkTzByN3NDRmhSSFNBTUk3WGV2aHRQMzdjamJMMzYwQWRqSU1ZenI2UEdoUV8xM25KRU80NXB2S05QY0Fmb1E1YURrSFNwWFlDZjVYaVBtMWdl?oc=5",
+      "pubDate": "2026-10-30T17:19:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Мечка нахлу в къща за гости в Кресна, влезе в кухнята и се разходи из двора",
+      "link": "https://offnews.bg/obshtestvo/mechka-nahlu-v-kashta-za-gosti-v-kresna-vleze-v-kuhniata-i-se-razhodi-877552.html",
+      "pubDate": "2026-10-30T17:16:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877552/phpsezpep_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Наближава крайният срок за гласуване за \"Будител на годината\"",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/10/30/4974121_nablijava_krainiiat_srok_za_glasuvane_za_buditel_na/?ref=rss",
+      "pubDate": "2026-10-30T17:15:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974115.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Зеленски ще се срещне с Ердоган в Турция утре заради сигурността в Черно море",
+      "link": "https://frognews.bg/novini/zelenski-shte-sreshtne-erdogan-turtsiia-utre-zaradi-sigurnostta-cherno-more.html",
+      "pubDate": "2026-10-30T17:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/599d3086d_1793380348_6ae4cffc296c0.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Ukrainian arms maker Fire Point says its systems can complete missions without SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5",
+      "pubDate": "2026-10-30T17:09:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "\"Повече инвестиции, повече работни места\". България вече не е в \"сивия списък\" за пране на пари",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTRBY2FDcV9kb3hodk15bUx4VGtMeTNtalVKc3JoQi0yd0dkeFVLVnptYnBJZElhMWkxRVJkOU1LdmxNVDdaNi1WREV5ZFVGalRIS1RWQWtYZGxhSmZCeWNnMTFhNTdFV1VfTnFUZUZZQ25hOE9pRDJpTWM2S0tTa3BGRkxBVEQ3Mk04dUpJOVBPVDRRYks3QW41VVFzVFc5Rk90ZGVtNGF0dEdYVVhoOXprZEFmODQwZ3hKYjNHbXhSV2UyV2dSaw?oc=5",
+      "pubDate": "2026-10-30T16:54:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Tennessee woman Christa Pike describes pain after failed execution",
+      "link": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-30T16:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Протестната вълна обхваща и Германия, Франция мобилизира 70 000 полицаи",
+      "link": "https://frognews.bg/novini/protestnata-valna-obhvashta-germaniia-frantsiia-mobilizira-70-000-politsai.html",
+      "pubDate": "2026-10-30T16:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1b465441a_1793378888_6ae4ca488aa62.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Бедствено положение в Козлодуй заради негодна за пиене вода",
+      "link": "https://frognews.bg/novini/bedstveno-polojenie-kozlodui-zaradi-negodna-piene-voda.html",
+      "pubDate": "2026-10-30T16:47:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4ee2b7a66_1793379026_6ae4cad25b69e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "What the rift within the Tsikhanouski family means for the Belarusian opposition in exile",
+      "link": "https://www.dw.com/en/what-the-rift-within-the-tsikhanouski-family-means-for-the-belarusian-opposition-in-exile/a-79802776?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-30T16:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Зърнопроизводителите търсят релси, по които да изнасят 2.3 млн. тона жито",
+      "link": "https://www.mediapool.bg/biznes/zarnoproizvoditelite-tarsyat-relsi-po-koito-da-iznasyat-23-mln-tona-zhito/",
+      "pubDate": "2026-10-30T16:42:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "10% за нас, 25% за вас: Как една група млекопреработватели реши да си осигури пазар във веригите",
+      "link": "https://boulevardbulgaria.bg/articles/10-za-nas-25-za-vas-kak-edna-grupa-mlekoprerabotvateli-reshi-da-si-osiguri-pazar-vav-verigite",
+      "pubDate": "2026-10-30T16:37:55.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA1NjcsInB1ciI6ImJsb2JfaWQifX0=--8a6c75941705856ddc404a33e813f9fae3c75279/%D0%9F%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD_%D0%90%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8_NOVA.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Радев не успя да попречи: ЕК внася за одобрение заема от 90 млрд. евро за Украйна",
+      "link": "https://offnews.bg/evropa/radev-ne-uspia-da-poprechi-ek-vnasia-za-odobrenie-zaema-ot-90-mlrd-e-877554.html",
+      "pubDate": "2026-10-30T16:31:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877554/php7twt7j_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "US midterms: Pope Leo XIV casts vote by mail",
+      "link": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-30T16:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Проекти вместо строежи: 1300 км магистрали и 40 ВиК обекти на хартия",
+      "link": "https://www.mediapool.bg/biznes/proekti-vmesto-stroezhi-1300-km-magistrali-i-40-vik-obekti-na-hartiya/",
+      "pubDate": "2026-10-30T16:13:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Любо Пенев и „Локо“ (София) се разделят по взаимно съгласие",
+      "link": "https://frognews.bg/novini/liubo-penev-loko-sofiia-razdeliat-vzaimno-saglasie.html",
+      "pubDate": "2026-10-30T16:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/5d8884939_1793376681_6ae4c1a9e9332.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Полуистини, опорни точки и манипулации - из дебата Йотова - Гюров",
+      "link": "https://boulevardbulgaria.bg/articles/oporni-tochki-sreshtu-fakti-i-kak-predizboren-debat",
+      "pubDate": "2026-10-30T15:44:12.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyOTQwLCJwdXIiOiJibG9iX2lkIn19--c56c6ee7bcd9569af46f33d4932c348254c2f8f7/debat.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+      "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-30T15:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "България е част от антидрон инициативата на НАТО. Проектът цели защита от заплахи под 150 метра височина",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWtJekQ1VHFrdGNPYVlZSDl6ckFrSnZfTV9ZSzFJeXRubVBLQnN1QXlEV1pLVExYb3ZxaU8yd3ZOSVlUUGU5YTF3SFFITVQ3aGZyeTJNRnVjQkcyWXdUUzZUSnRBbmp0UExxU2tzSVFodFI0RzhGeVFrNTBrTkpzVkU3VjAtUF9JUW4wS2ZtYTRZQmczcmVsOGYtYmZxZTdET29YUWJLWXcyMzZyUEpmU0h6TVZmUWZ5MEdkbHNuSTEtOW5KZ0hheHFqX2hYdmNEYnBXR2xVdkNWMXNXUUhxZjE0MGY?oc=5",
+      "pubDate": "2026-10-30T15:34:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Затварят за ремонт пътя София – Перник при Владая за три седмици",
+      "link": "https://boulevardbulgaria.bg/articles/zatvaryat-za-remont-patya-sofiya-pernik-pri-vladaya-za-tri-sedmitsi",
+      "pubDate": "2026-10-30T15:32:38.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA0OTAsInB1ciI6ImJsb2JfaWQifX0=--21bb3574aa5558ac3927c160cb4d2b5ae27c0abb/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D0%BA.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "България излезе от сивия списък за пране на пари след три години наблюдение",
+      "link": "https://boulevardbulgaria.bg/articles/rumen-radev-prane-na-pari",
+      "pubDate": "2026-10-30T15:08:19.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczMjcyLCJwdXIiOiJibG9iX2lkIn19--5f37f261b3dfa164b0bff54d5a8e6fc999715296/Screenshot%202026-10-30%20172639.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Слави Трифонов закрива телевизия 7/8",
+      "link": "https://boulevardbulgaria.bg/articles/slavi-trifonov-zakriva-televiziya-7-8",
+      "pubDate": "2026-10-30T14:54:19.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1MzcsInB1ciI6ImJsb2JfaWQifX0=--b2be28bf733e8dafdb6ed0f7d15f7d1a44db7adc/%D1%81%D0%BB%D0%B0%D0%B2%D0%B8_%D1%82%D1%80%D0%B8%D1%84%D0%BE%D0%BD%D0%BE%D0%B2_%D0%BF%D0%BA%D1%84.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Борисов подкрепи Гюров. Политици и общественици призоваха за мобилизация на европейския курс на България",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwVnhuN0hwVEl5Ri1NeThVbVh5bG1lR3FQMGtUUkhjTlRTLWxhUUVZYzNNYkMyWThHZkJYenZqamVYeEEzOTFwSUF0cVZWYTYxZTZHMjYwQWRGSTQ?oc=5",
+      "pubDate": "2026-10-30T13:38:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Най-интересното от дебата между Йотова и Гюров",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0NQRk94V0dvd29CWjhIMWhDVHY3Q0RlT0dHajlkWlkwd3YyMWRoU2lZd3BOZTQwS3ZRR0xjNm0yRTlpYzMwMnlqcVlZOVQxWk5kY3RRZkwxYW5CUlRoRm93YXZMMnoxcTNhbFVfTFhod1ZXLVBiMnNmOFRvU2MtNExJTHp6YnJwMkxVZFpMWXd2N2NxOC1n?oc=5",
+      "pubDate": "2026-10-30T13:24:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    },
+    {
+      "title": "Рекордна кражба на криптовалута. Хакери източиха 6,3 млрд. долара от най-голямата криптоборса в света",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWxnT3Z3dGx4UHZ6Ump2bHIwMTdmMkhPcnpreXBKODc5ZUhWd1JIVDI5U2M0MXhBX0VkVDRYeFlNcERvTjUyMGJMTEZhRHVkTkozNlNlWGVqa2VfU3E5SFdiUC1pQ3EtR3Q0cDQxak5XX3Jtb3oxSTh6djlreTRuQVZncUsxQ21EUWpsNUdFRVJ3b0tQT2VTNjF6TmJWdFdpcFdzazFUZ3VlM0xSUlhzZ1NrNlZZeHpGY3FpUHRWcXJhOGpoR2ROaldxLVc5cWp0?oc=5",
+      "pubDate": "2026-10-30T11:29:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-30T19:00:06.746Z"
+    }
+  ]
 }
