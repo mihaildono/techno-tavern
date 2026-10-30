@@ -1,134 +1,156 @@
 {
-  "updatedAt": "2026-10-29T16:31:04.632Z",
-  "overview": "Денят е белязан от руски удари по Украйна и атака с дронове срещу контейнеровоз в Черно море, както и от тежката влакова катастрофа в Испания. В България продължава скандалът около решението на ЦИК за агитацията на премиера Радев, а председателят на ЕЦБ Кристин Лагард обяви предсрочно оттегляне.",
+  "updatedAt": "2026-10-30T16:32:13.284Z",
+  "overview": "Денят беше белязан от дебата и взаимните обвинения между Илияна Йотова и Андрей Гюров преди балотажа, както и от рекордната кражба на криптовалута от Binance. Във фокуса бяха още атаката с дрон край Калиакра и антидронната инициатива на НАТО, изборите в Израел и излизането на България от сивия списък за пране на пари.",
   "stories": [
     {
-      "category": "Свят",
-      "headline": "Руска атака с дрон по жп гара в Днипро уби 13 души",
-      "summary": "Руски дрон удари претъпкана жп гара в Днипро и уби 13 души. При руски удари в различни украински градове жертвите надхвърлиха 20.",
+      "category": "Политика",
+      "headline": "Йотова и Гюров се сблъскаха в дебат преди балотажа",
+      "summary": "Илияна Йотова и Андрей Гюров спориха за войната, цените, „Боташ“ и помилванията, а лагерите им се обвиниха взаимно в лъжи. Бойко Борисов, Иван Костов и Петър Стоянов подкрепиха Гюров, докато пресслужбата на кабинета свали агитация в полза на Йотова.",
       "ids": [
-        52,
-        57,
-        73,
-        81,
-        86,
-        88,
-        107
-      ],
-      "link": "https://www.actualno.com/europe/ruska-ataka-sreshtu-jp-gara-v-dnipro-13-ubiti-news_2656197.html",
-      "sources": [
-        "Свободна точка",
-        "Boulevard Bulgaria",
-        "Dnevnik",
-        "Reuters",
-        "DW",
-        "Actualno"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Жертвите при влаковата катастрофа в Испания достигнаха 69, обявен е тридневен траур",
-      "summary": "Сблъсък между два влака в Испания уби 69 души и предизвика тридневен национален траур. Премиерът Санчес призова за разследване, а в Мадрид има протести.",
-      "ids": [
+        4,
         18,
-        56,
-        104,
-        105,
-        118,
-        135,
-        158,
-        159,
-        260,
-        265
-      ],
-      "link": "https://offnews.bg/sviat/tridneven-natcionalen-traur-v-ispania-sled-68-zhertvi-na-vlakovata-kat-877435.html",
-      "sources": [
-        "Свободна точка",
-        "Boulevard Bulgaria",
-        "FrogNews",
-        "Actualno",
-        "Reuters",
-        "DW",
-        "OffNews",
-        "Mediapool"
-      ]
-    },
-    {
-      "category": "Свят",
-      "headline": "Контейнеровозът Contship Jet потъна след руска атака с дронове край Шабла",
-      "summary": "Корабът Contship Jet беше ударен с дронове край нос Калиакра и потъна; екипажът е спасен и пристигна във Варна. Дроновете са дошли от изток, а три министерства проверяват Черно море за опасни вещества.",
-      "ids": [
-        110,
-        138,
-        142,
-        152,
-        161,
-        167,
-        170,
-        209,
-        218,
+        20,
+        38,
+        70,
+        71,
+        80,
+        90,
+        91,
+        93,
+        94,
+        98,
+        99,
+        109,
+        147,
+        156,
+        163,
+        171,
+        172,
+        175,
+        176,
+        181,
+        182,
+        183,
+        188,
+        189,
         230,
-        231,
-        233,
-        256,
-        261,
-        264,
-        266,
-        273
+        235,
+        239,
+        243,
+        247,
+        249,
+        268,
+        273,
+        274,
+        276,
+        280,
+        281,
+        282,
+        295,
+        315
       ],
-      "link": "https://www.mediapool.bg/bulgaria/udareniyat-konteinerovoz-krai-shabla-potana-dronovete-sa-doshli-ot-iztok/",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/borisov-podkrepi-gyurov-za-balotazha/",
       "sources": [
+        "Dnevnik",
+        "OffNews",
+        "Actualno",
         "Свободна точка",
         "Boulevard Bulgaria",
         "Mediapool",
-        "Dnevnik",
-        "OffNews",
-        "FrogNews",
-        "Actualno"
+        "FrogNews"
+      ]
+    },
+    {
+      "category": "Технологии",
+      "headline": "Хакери откраднаха 6,3 млрд. долара от Binance",
+      "summary": "Binance съобщи за най-голямата кражба на криптовалута в историята и спря търговията, а според TRM Северна Корея стои зад атаката. Bitcoin и криптопазарът реагираха с спадове.",
+      "ids": [
+        2,
+        3,
+        39,
+        58,
+        75,
+        102,
+        107,
+        155,
+        168,
+        201,
+        203,
+        208,
+        219,
+        220,
+        238
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/hakeri-otkradnaha-kriptovaluti-za-6-3-mlrd-dolara-ot-binance",
+      "sources": [
+        "Bloomberg",
+        "Reuters",
+        "DW",
+        "Свободна точка",
+        "Boulevard Bulgaria",
+        "Dnevnik"
       ]
     },
     {
       "category": "Политика",
-      "headline": "ЦИК не откри нарушение в призива на Радев за Йотова, ДБ обжалва и иска оставки",
-      "summary": "ЦИК реши, че призивът на премиера Румен Радев за подкрепа на Илияна Йотова не нарушава Изборния кодекс. Демократична България обжалва решението и поиска оставките на осем членове на ЦИК; на балотажа се срещат Йотова и Гюров.",
+      "headline": "Дрон удари кораб край Калиакра, България се включва в антидронна инициатива на НАТО",
+      "summary": "Руски модифициран дрон с над 200 кг взрив е нанесъл удара по кораба CONTSHIP JET край Калиакра, а България потвърди участие в антидронната инициатива на НАТО. Радев каза, че сме били готови да вдигнем самолети срещу дроновете, а делегация на Европейския парламент пристигна заради ескалацията в Черно море.",
       "ids": [
-        45,
+        41,
+        42,
         53,
-        70,
-        82,
-        90,
-        132,
-        169,
-        171,
-        228
+        69,
+        118,
+        126,
+        139,
+        157,
+        191,
+        244,
+        294,
+        312
       ],
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPekdPaDhvQ0NUM2xNVzdBc2NFczZkNzFiZ1lNbjk1VTFKTmZqUjVEY1FWRnczejVvMkktLVdsOUl0MUw4b2tFbzBNdm1hNFkxMEhuTEtVVVZZcG41RkhMV2swRng2WjZKTmRWUUlwc09NNkZWZlk4WF8ycEVndEd5V2NmTVF3d2FhY2hxd2lIZUE3UktDd3B3MUZ0d2MwNXJsTC1IcUhSUkp3eXYxX05GTVFyaUp0SEZYSzUxN0dVWXNxSTgxY3R3REFSdVBJT3RZdGJwOWRxWkxnZnNZSmhoa25kdGhIV2hXeU1aZ2p5Ty1CMVFyTXEzb2dORXM3dU1HS01ROFRB?oc=5",
+      "link": "https://boulevardbulgaria.bg/articles/balgariya-vse-pak-se-vklyuchva-v-antidron-initsiativata-na-nato",
       "sources": [
-        "Mediapool",
-        "Boulevard Bulgaria",
-        "Dnevnik",
+        "OffNews",
         "Свободна точка",
-        "OffNews"
+        "FrogNews",
+        "Boulevard Bulgaria",
+        "Actualno",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Изборите в Израел не дадоха мнозинство на никого",
+      "summary": "При 100% преброени гласове Нетаняху и основният му съперник не достигат мнозинство и предстоят тежки преговори. Властите оспорват твърденията на Нетаняху за измама, а Германия заема предпазлив подход към резултатите.",
+      "ids": [
+        108,
+        194,
+        237,
+        256,
+        309
+      ],
+      "link": "https://www.actualno.com/asia/pri-100-prebroeni-glasove-nikoj-v-izrael-ne-poluchava-mnozinstvo-zadavat-se-tejki-pregovori-video-news_2656555.html",
+      "sources": [
+        "DW",
+        "FrogNews",
+        "Actualno"
       ]
     },
     {
       "category": "Икономика",
-      "headline": "Кристин Лагард се оттегля предсрочно от поста председател на ЕЦБ",
-      "summary": "Председателят на Европейската централна банка Кристин Лагард подава оставка и ще напусне поста през февруари, преди края на мандата си.",
+      "headline": "България излезе от сивия списък за пране на пари",
+      "summary": "България беше извадена от сивия списък за пране на пари след три години наблюдение.",
       "ids": [
-        76,
-        80,
-        89,
-        94,
-        97
+        1,
+        47,
+        51
       ],
-      "link": "https://boulevardbulgaria.bg/articles/kristin-lagard-se-otteglya-predsrochno-ot-posta-predsedatel-na-etsb",
+      "link": "https://www.mediapool.bg/bulgaria/bulgaria-izleze-ot-siviya-spisak-za-prane-na-pari/",
       "sources": [
-        "Dnevnik",
+        "OffNews",
         "Mediapool",
-        "Свободна точка",
-        "Boulevard Bulgaria",
-        "DW"
+        "Boulevard Bulgaria"
       ]
     }
   ]
