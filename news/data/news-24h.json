@@ -1,9 +1,552 @@
 {
   "windowStart": "2026-10-30T16:32:14.731Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-31T07:00:06.020Z",
-  "totalItems": 145,
+  "lastUpdated": "2026-10-31T10:00:11.223Z",
+  "totalItems": 189,
   "items": [
+    {
+      "title": "Председателят на касационния съд: Системата е в дълбока криза, изходът е в гласуването",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/31/4974267_predsedateliat_na_kasacionniia_sud_sistemata_e_v/?ref=rss",
+      "pubDate": "2026-10-31T09:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974270.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
+      "pubDate": "2026-10-31T09:47:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Massive Gen Z protests set to sweep cities across Germany",
+      "link": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T09:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
+      "pubDate": "2026-10-31T09:39:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Съдиите изслушват 21 кандидати за Висшия съдебен съвет",
+      "link": "https://boulevardbulgaria.bg/articles/sadiite-izslushvat-21-kandidati-za-visshiya-sadeben-savet",
+      "pubDate": "2026-10-31T09:33:53.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczNTI4LCJwdXIiOiJibG9iX2lkIn19--9b40464eef330b7eb72b90e0b1492169b2c6719c/%D0%92%D0%A1%D0%A1.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Миризмата на \"Оземпик\": как лекарствата за отслабване променят обонянието",
+      "link": "https://www.dnevnik.bg/sviat/2026/10/31/4969096_mirizmata_na_ozempik_kak_lekarstvata_za_otslabvane/?ref=rss",
+      "pubDate": "2026-10-31T09:28:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4969101.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Надежда Нейнски: Правителството иска да умилостиви Путин",
+      "link": "https://offnews.bg/politika/nadezhda-nejnski-pravitelstvoto-iska-da-umilostivi-putin-877570.html",
+      "pubDate": "2026-10-31T09:27:57.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877570/phpkvb2rl_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Побой пред заключени врати: Охраната на гара „София-север“ остави пребит до смърт мъж на улицата",
+      "link": "https://www.actualno.com/crime/poboj-pred-zaklucheni-vrati-ohranata-na-gara-sofija-sever-ostavi-prebit-do-smyrt-myj-na-ulicata-news_2657081.html",
+      "pubDate": "2026-10-31T09:27:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/81de024e6bd4935ecfcdd2052abef76a_2657081_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Шефът на Redbull Racing за Никола Цолов: Той се справи като по учебник",
+      "link": "https://frognews.bg/novini/shefat-redbull-racing-nikola-tsolov-toi-spravi-kato-uchebnik.html",
+      "pubDate": "2026-10-31T09:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/659c4ee40_1793438600_6ae5b3886c644.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Кейн е изпреварил Мбапе с под 30 точки за \"Златната топка\": Ясно е къде е отишъл гласът на България",
+      "link": "https://www.actualno.com/football/kejn-e-izprevaril-mbape-s-pod-30-tochki-za-zlatnata-topka-jasno-e-kyde-e-otishyl-glasyt-na-bylgarija-news_2657080.html",
+      "pubDate": "2026-10-31T09:24:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/b48ac21f41b65f7994a97e449022a0ec_2657080_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Bank of England May Raise High-Risk Mortgage Threshold, FT Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says",
+      "pubDate": "2026-10-31T09:21:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "ЦИК: До сряда ще има резултати от балотажа",
+      "link": "https://offnews.bg/izbori/tcik-do-sriada-shte-ima-rezultati-ot-balotazha-877569.html",
+      "pubDate": "2026-10-31T09:09:56.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877569/phpq45vwp_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Доц. Кунчев: В България има 500 000 противогрипни ваксини, в Гърция – над 3 милиона",
+      "link": "https://offnews.bg/zdrave/dotc-kunchev-v-balgaria-ima-500-000-protivogripni-vaksini-v-gartcia-877568.html",
+      "pubDate": "2026-10-31T09:04:38.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877568/phppfemme_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Без „семейна снимка“ на Г-20: Множество държави отказаха да застанат до Русия",
+      "link": "https://frognews.bg/novini/bez-semeina-snimka-20-mnojestvo-darjavi-otkazaha-zastanat-rusiia.html",
+      "pubDate": "2026-10-31T09:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8b8e9a5e9_1793436797_6ae5ac7d2679c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/houthi-attacks-on-riyadh-airport-ramp-up-flight-cancellations",
+      "pubDate": "2026-10-31T09:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Charting the Global Economy: Central Banks Hold Rates Steady",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/charting-the-global-economy-central-banks-hold-rates-steady",
+      "pubDate": "2026-10-31T09:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Laughing Cow Maker Targets US Households With Bitesize Snacks",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/laughing-cow-maker-targets-us-households-with-bitesize-snacks",
+      "pubDate": "2026-10-31T09:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Режисьорът на „Obsession“ ни подари късометражен хорър за Хелоуин в YouTube",
+      "link": "https://boulevardbulgaria.bg/articles/rezhisyorat-na-obsession-ni-podari-kasometrazhen-horar-za-helouin-v-youtube",
+      "pubDate": "2026-10-31T08:56:39.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczNTE2LCJwdXIiOiJibG9iX2lkIn19--a202af17f1118f0a6dc09620ecf29691ecc6b1aa/mama%20bear%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Маса за един: Георги Гавазов от \"Черноморски улов\"",
+      "link": "https://www.dnevnik.bg/bacchus/2026/10/31/4973316_masa_za_edin_georgi_gavazov_ot_chernomorski_ulov/?ref=rss",
+      "pubDate": "2026-10-31T08:56:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973313.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Румен Радев оцени българските научни изследвания на 800 метра асфалт",
+      "link": "https://frognews.bg/novini/rumen-radev-otseni-balgarskite-nauchni-izsledvaniia-800-metra-asfalt.html",
+      "pubDate": "2026-10-31T08:54:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/65c7b131b_1793437131_6ae5adcb2a79a.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Сензационно: ЦСКА си връща Кирил Десподов в деня, в който се връща на \"Армията\"",
+      "link": "https://www.actualno.com/bgfootball/senzacionno-cska-si-vryshta-kiril-despodov-v-denja-v-kojto-se-vryshta-na-armijata-news_2657072.html",
+      "pubDate": "2026-10-31T08:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/8a47997122c23445172cc1989e577d33_2657072_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "САЩ продават 500 ракети \"Пейтриът\" на Украйна. Зеленски призова да им бъдат доставени още тази зима",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFBsU0kwbFgyZERuQTAwN3BCR3JRdFVyN0YxS3NHdFN5cGY0UmNZcGFfQTNZdldLN3l5U2dkVmI5YVlxVmlsZkZ1NzFULVR5RXc5djcxQUtPakVUd2hmTFpCTm9mTWlSSVNyOGRZdVVpSW1nWnhJcTNCRHBXYmZWLXlZRDY0dEIwSnZIMUdta3phdHRoaUNkb2drN1dQQmRwZjlKVHZiMlhWd3E1eTAyWnBZbkYwTFY5NzZTalFKaDNRY3dfdkpDSXpPNWU1RjQ?oc=5",
+      "pubDate": "2026-10-31T08:50:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Политическа буря в Полша: Сблъсъци пред Конституционния съд заради отстраняване на съдии",
+      "link": "https://frognews.bg/novini/politicheska-buria-polsha-sblasatsi-pred-konstitutsionniia-sad-zaradi-otstraniavane-sadii.html",
+      "pubDate": "2026-10-31T08:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/224df9472_1793436329_6ae5aaa999f9e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Остра политическа криза в Полша заради Конституционния съд",
+      "link": "https://www.mediapool.bg/evropa/ostra-politicheska-kriza-v-polsha-zaradi-konstitutsionniya-sad/",
+      "pubDate": "2026-10-31T08:42:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "\"Не е зле за едно хлапе от България\"",
+      "link": "https://boulevardbulgaria.bg/articles/ne-e-zle-zaz-edno-hlape-ot-balgariya",
+      "pubDate": "2026-10-31T08:40:46.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczMzI4LCJwdXIiOiJibG9iX2lkIn19--f649fbbc29e255107b9ca92a59a35db8ca524b9f/%D0%A6%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%20%D0%A41.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Никола Цолов след дебюта във Формула 1: \"Не е зле за българче с големи мечти\"",
+      "link": "https://www.actualno.com/moresport/nikola-colov-sled-debuta-vyv-formula-1-ne-e-zle-za-bylgarche-s-golemi-mechti-news_2657069.html",
+      "pubDate": "2026-10-31T08:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/b9134138a47773fe8914835fbf64d43b_2657069_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Голямата картина: Изборите променят, а дроновете атакуват",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUxJZmIyY1d6cUh1STdBM2FhS0NlNEZzOE5ma2M2aDZRNndrUzFNNjhONGYzRGZGSXFMWmlFVzlrZVRuNWVCVmZDRU1GRExFQ0FxR05XWW5naWRlV0JSTllLV2w4clVIc1JYblBMcU1LMlN6alZkZDlTdjRoMFFBN1QwZHJmUWtJUDhnT25Ldm9xSEhGUXZhajZuaXgwbXREQ2NtVg?oc=5",
+      "pubDate": "2026-10-31T08:35:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "\"Баба и Дядо\" на Кантен Гребан и Елен Делфорж (откъс)",
+      "link": "https://www.dnevnik.bg/knigi/2026/10/31/4974230_baba_i_diado_na_kanten_greban_i_elen_delforj_otkus/?ref=rss",
+      "pubDate": "2026-10-31T08:34:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974231.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Близки и приятели се сбогуваха със Слави Бинев",
+      "link": "https://offnews.bg/obshtestvo/blizki-i-priateli-se-sboguvaha-sas-slavi-binev-877566.html",
+      "pubDate": "2026-10-31T08:33:35.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877566/phpwy0dhi_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Министър Пулев предупреди търговските вериги да очакват глоби за милиони",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/31/4974260_ministur_pulev_predupredi_turgovskite_verigi_da/?ref=rss",
+      "pubDate": "2026-10-31T08:32:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974261.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Как да изберем акумулатор по марка и модел автомобил",
+      "link": "https://offnews.bg/avto/kak-da-izberem-akumulator-po-marka-i-model-avtomobil-877391.html",
+      "pubDate": "2026-10-31T08:30:57.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/28/877391/phptzojyf_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Експерт: „Топлофикация София“ е на командно дишане, нуждае се от спешно преструктуриране",
+      "link": "https://frognews.bg/novini/ekspert-toplofikatsiia-sofiia-komandno-dishane-nujdae-speshno-prestrukturirane.html",
+      "pubDate": "2026-10-31T08:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b40c86a34_1793435536_6ae5a790a6cf1.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Тръмп и режимът в Кремъл все повече \"трептят\" в една честота. Зеленски: Като не искате мир, удряме мощно в Сибир (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/trymp-i-rejimyt-v-kremyl-vse-poveche-treptjat-v-edna-chestota-zelenski-kato-ne-iskate-mir-udrjame-moshtno-v-sibir-obzor-video-news_2657045.html",
+      "pubDate": "2026-10-31T08:24:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/5de20d3a9e196434cac50a938b622a79_2657045_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "САЩ одобриха продажбата на 500 ракети „Пейтриът“ на Украйна",
+      "link": "https://boulevardbulgaria.bg/articles/sasht-odobriha-prodazhbata-na-500-raketi-peytriat-na-ukrayna",
+      "pubDate": "2026-10-31T08:14:29.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczNDk1LCJwdXIiOiJibG9iX2lkIn19--45a02a3803e4d0809d1382566d64821a3800c979/petriot%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "„Корупцията е стена, която ни пречи да вървим напред“. Защо албанци протестират и срещу правителството, и срещу опозицията",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRkJ0ZXhkWUh6ZTdMVFgza19uTXRGMXB0ZlNCQjFmVnh0ODROSWpDTjUwSkpzdlpFRHZWQ20yV25aTThBYWZFRGlLbkM5eElGVEpzSlYyVlM2SDVjelVqMzRXYnM3YzE1Z3piMllNZGVKWk81NnBHdk1Ib0ZSTWt4bGVFeThlNUhZdk9YUUk0TjdYdTNLYkZIMGRrTDNGRXVzSFJpVG5nLWkxMFd4V2d6Wm9SZXhGNG1oQ3lHZkxSTzdmTE03TE5qc0ZZV1JFVEVKd3NKQnR1WXFobncwVVJKRVUtcV84YVAtTTMwbHYycmlKdWJNdlRGMg?oc=5",
+      "pubDate": "2026-10-31T07:45:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Автобус с български туристи е катастрофирал край Одрин",
+      "link": "https://boulevardbulgaria.bg/articles/avtobus-s-balgarski-turisti-e-katastrofiral-kray-odrin",
+      "pubDate": "2026-10-31T07:42:09.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczNDc2LCJwdXIiOiJibG9iX2lkIn19--dffb98a3ac61ce08bdde1c1e74b21343f1eda4da/bus%20vrash%20.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Как България да направи своя инфраструктурен бум?",
+      "link": "https://www.mediapool.bg/analizi-i-komentari/kak-bulgaria-da-napravi-svoya-infrastrukturen-bum/",
+      "pubDate": "2026-10-31T07:38:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "аляска Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96NmgyMWQwYXVVVFdkRGlNWHBUa2VrUVNhSkhzNl9PNV8yaVdLd1dQZjFhcHZlcEtOU0ZMbWVpRG1zUmhMZ0JDVmJJamxDZ0U?oc=5",
+      "pubDate": "2026-10-31T07:31:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Безпилотен надводен апарат Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VTkhnOGNsTWV5UW16a2FBcWFtT0otbUdjczN5SW1ncHpMMkJFYllRZy1LMzNhc3lGdDVwanhkc3ZFVW9kY2pYTEFWYXhGR3ZFN2g1djFPSXllM0hEUGI4bnFVazZheS1N?oc=5",
+      "pubDate": "2026-10-31T07:31:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Bollywood and the underworld — together in the spotlight?",
+      "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T07:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "179 евро на тон. Ще плаща ли София космическа цена за боклука",
+      "link": "https://www.mediapool.bg/bulgaria/179-evro-na-ton-shte-plashta-li-sofiya-kosmicheska-tsena-za-bokluka/",
+      "pubDate": "2026-10-31T07:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Монахът изобретател и митрополитът, въоръжавал опълченците: Духовниците превърнали се в будители",
+      "link": "https://www.mediapool.bg/kultura/monahat-izobretatel-i-mitropolitat-vaorazhaval-opalchentsite-duhovnitsite-prevarnali-se-v-buditeli/",
+      "pubDate": "2026-10-31T07:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Хартата за културнa политикa ще се опита да промени сектора",
+      "link": "https://www.mediapool.bg/kultura/hartata-za-kulturna-politika-shte-se-opita-da-promeni-sektora/",
+      "pubDate": "2026-10-31T07:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
+    {
+      "title": "Japanese bodybuilder, 90, flexes ageless ambition on Spanish stage",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2ZtZmQ0bllJZjVSMnJyLW45ZHBSc2RyeVVUX1BCTnM1cFhxMm9qLV9qbjEtOGJMU2NsNVNQVnNfZUo2NGphQThnRWVkNTR5ajNLTVlrU2dwRm13OXhtUFNHTXJVRWlGTG1CRHVoQ3k0aEZBZy1ocF9CUDlQWm14RV9KV3N6Rjktb1ZWVk12aWJyZW9WTXJOWXprR3E2VGc3am1BSHZLMA?oc=5",
+      "pubDate": "2026-10-31T02:09:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T10:00:11.223Z"
+    },
     {
       "title": "Старт на процедурата: 21 съдии влизат в битка за шест места във ВСС",
       "link": "https://www.actualno.com/crime/start-na-procedurata-21-sydii-vlizat-v-bitka-za-shest-mesta-vyv-vss-news_2657050.html",
