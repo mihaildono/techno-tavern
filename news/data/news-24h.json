@@ -1,9 +1,154 @@
 {
   "windowStart": "2026-10-30T16:32:14.731Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-31T01:00:06.665Z",
-  "totalItems": 100,
+  "lastUpdated": "2026-10-31T04:00:05.908Z",
+  "totalItems": 112,
   "items": [
+    {
+      "title": "Важните събития в България и по света днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/10/31/4974107_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4828058.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Steep Stock Losses on Tech Rout, Binance Hack, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-31/steep-stock-losses-on-tech-rout-binance-hack-more",
+      "pubDate": "2026-10-31T03:33:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Judge Orders DOJ to Not Threaten California Election Officials",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-district-judge-trina-thompson-california-election-san-francisco-labor-civil-rights-groups-doj-dhs",
+      "pubDate": "2026-10-31T02:55:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Stocks Worse Day Since June, US to Sell Missiles to Ukraine,More",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-worse-day-since-june-us-to-sell-missiles-to-ukraine-more",
+      "pubDate": "2026-10-31T02:48:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
+      "pubDate": "2026-10-31T02:32:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
+      "pubDate": "2026-10-31T02:13:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "European diplomats shun Russia at G20 gathering in the US",
+      "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T01:56:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3JLSjZvamdLbG1LSWxKR0czYXlpN281cDZLZ0J6ZE1OdmYxNFdIUzVKQnMzQVdWMVlQRTVzdVh2OHFybGkwVy15STRoOGV3N3E3RXppU0pJS2poMTRlRWFaZVEtVUhjTkFMTjAyOFpLc19RWjEwS1BkTEdXWGtOel9qd1VuNXlzWDBUS1IzSHAtUUVHREFBWDVDNGQ4Vm9zMGRKRHB1VE5LbmN5QmZJZ2NZZ2Q1Y2h1c19ONV9HLXU?oc=5",
+      "pubDate": "2026-10-31T00:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+      "pubDate": "2026-10-31T00:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjZfQ1RGNVhiRHQ3SzZQVTV6WjVPdTNJRzF4R2cxYkVPMHFWTk1MS3pnX3FZRy00WFJXR3Y4THdob2ZGR3Z3LTRxWWNnLTVSQWE4eHIxR09wMWZnU1FDdFdpNW1PbzU2NjRUY3VaMndmNUI5cGRsZW9kS1A4Yndab2p3UU02NVNiWXdRcFNXNWgybV9MbTJ5Sm5VbmIzQW1xSlI4cGN0YzlQaEItLTBRVmVwN0NxOWJLbFE?oc=5",
+      "pubDate": "2026-10-31T00:08:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5",
+      "pubDate": "2026-10-31T00:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
+    {
+      "title": "Trump administration accelerates criminal probe into Alaska Senate race",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFVncVU1VXFVcXp3WmlCZ19iQnpKSUJ0SHByNF9hVkUtZHlOOHBQdGU0ajlrbk5NXzA1QlZLTENGMzJxYkRPZGl6RmhQUmdIc0dlMVhBSHM3SWFvY1k3cTlVZ2hfc2xzRk5CdlpoV3luSHZITW93RzYzYzllUnNpaXJnUFZvTk5nQ0NzRDVEVkFFRHRuTEdEQVVwNTlsN01qd1FsLWZHLVZ1c0RVUmNpVmJIYjJDX0E2dHRZ?oc=5",
+      "pubDate": "2026-10-30T23:38:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T04:00:05.908Z"
+    },
     {
       "title": "Stocks Drop on Tech Rout, US to Sell Missiles to Ukraine, More",
       "link": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-drop-on-tech-rout-us-to-sell-missiles-to-ukraine-more",
