@@ -1,9 +1,414 @@
 {
   "windowStart": "2026-10-30T16:32:14.731Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-31T04:00:05.908Z",
-  "totalItems": 112,
+  "lastUpdated": "2026-10-31T07:00:06.020Z",
+  "totalItems": 145,
   "items": [
+    {
+      "title": "Старт на процедурата: 21 съдии влизат в битка за шест места във ВСС",
+      "link": "https://www.actualno.com/crime/start-na-procedurata-21-sydii-vlizat-v-bitka-za-shest-mesta-vyv-vss-news_2657050.html",
+      "pubDate": "2026-10-31T06:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/572226e789e7191b23e892965a0a6c6a_2657050_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "2275 съдии изслушват днес 21 кандидати за ВСС, гласуването е след седмица",
+      "link": "https://www.mediapool.bg/bulgaria/2275-sadii-izslushvat-dnes-21-kandidati-za-vss-glasuvaneto-e-sled-sedmitsa/",
+      "pubDate": "2026-10-31T06:55:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Apple иска да доминира при личния AI с новите си компютри и таблети",
+      "link": "https://www.mediapool.bg/tehnologii/apple-iska-da-dominira-pri-lichniya-ai-s-novite-si-kompyutri-i-tableti/",
+      "pubDate": "2026-10-31T06:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Любопитни факти за Хелоуин",
+      "link": "https://www.actualno.com/society/lubopitni-fakti-za-helouin-news_2657048.html",
+      "pubDate": "2026-10-31T06:51:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/d1f140c502f4c20f0638a9067fe557c8_2657048_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Ден за размисъл е, забранена е политическата агитация",
+      "link": "https://www.mediapool.bg/bulgaria/den-za-razmisal-e-zabranena-e-politicheskata-agitatsiya/",
+      "pubDate": "2026-10-31T06:44:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Ден за размисъл преди балотажа: В неделя избираме президент",
+      "link": "https://www.actualno.com/politics/den-za-razmisyl-predi-balotaja-v-nedelja-izbirame-prezident-news_2657047.html",
+      "pubDate": "2026-10-31T06:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/a0e535f58de94572c0c1dcfad5293627_2657047_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+      "pubDate": "2026-10-31T06:40:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Автобус с български туристи катастрофира край Одрин",
+      "link": "https://www.actualno.com/crime/avtobus-s-bylgarski-turisti-katastrofira-kraj-odrin-news_2657046.html",
+      "pubDate": "2026-10-31T06:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/c00c814770bca118437290e49ae80069_2657046_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Олешки: Между спасението на хора от гладна смърт и как Путин претопява Украйна (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/oleshki-mejdu-spasenieto-na-hora-ot-gladna-smyrt-i-kak-putin-pretopjava-ukrajna-video-news_2657043.html",
+      "pubDate": "2026-10-31T06:36:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/1d68fc8b47494b97e83e75d02ee3eaad_2657043_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Струва скъпо - разказ от Здравка Евтимова",
+      "link": "https://offnews.bg/nashite-avtori/struva-skapo-razkaz-ot-zdravka-evtimova-877511.html",
+      "pubDate": "2026-10-31T06:35:06.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877511/phpjlkeka_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "От Мохамед Али до \"Блейд Рънър\": сериалите, които да гледате през ноември",
+      "link": "https://www.dnevnik.bg/kultura/2026/10/31/4973962_ot_mohamed_ali_do_bleid_runur_serialite_koito_da/?ref=rss",
+      "pubDate": "2026-10-31T06:33:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973964.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "\"Булгаргаз\" – финансовият карък от спорни управленски решения",
+      "link": "https://www.mediapool.bg/analizi-i-komentari/bulgargaz-finansoviyat-karak-ot-sporni-upravlenski-resheniya/",
+      "pubDate": "2026-10-31T06:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Паметник на инж.Иван Иванов, кмет на София до 1944 г., ще бъде поставен в центъра",
+      "link": "https://www.dnevnik.bg/gradska_sreda/2026/10/31/4974113_pametnik_na_injivan_ivanov_kmet_na_sofiia_do_1944_g/?ref=rss",
+      "pubDate": "2026-10-31T06:25:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974114.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Автобус с български туристи се блъсна в Турция, 10 души са ранени",
+      "link": "https://offnews.bg/112/avtobus-s-balgarski-turisti-se-blasna-v-turtcia-10-dushi-sa-raneni-877561.html",
+      "pubDate": "2026-10-31T06:11:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877561/phpwuwb1a_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "София и истинската сила на вътрешната свобода",
+      "link": "https://www.mediapool.bg/procheti-tova/sofiya-i-istinskata-sila-na-vatreshnata-svoboda/",
+      "pubDate": "2026-10-31T06:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "\"Радилон\": В сърцето на добрия вкус",
+      "link": "https://www.dnevnik.bg/bacchus/2026/10/27/4961518_radilon_v_surceto_na_dobriia_vkus/?ref=rss",
+      "pubDate": "2026-10-31T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4960856.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Andy Burnham Had His Bounce. Now Things Are Set to Get Bumpy for New UK Premier",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/andy-burnham-uk-premier-budget-labour-britain",
+      "pubDate": "2026-10-31T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Политическа буря във Варшава върна президента от визита",
+      "link": "https://offnews.bg/sviat/politicheska-buria-vav-varshava-varna-prezidenta-ot-vizita-877560.html",
+      "pubDate": "2026-10-31T05:45:57.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877560/phpyzwsqf_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "чрно море Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwQ1E5YXI3ZmJsMnNVc0VGSzdseGxMTDEwTDFCaHZ1eWlPdkpLdzVYV0lrMlc0XzBVSE94QmhPNUVoRXhtWUgwYjNEVURvWDc4a0tz?oc=5",
+      "pubDate": "2026-10-31T05:42:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Овни и Скорпиони искат промени, Везни и Лъвове да избягват разправиите",
+      "link": "https://offnews.bg/horoskop/ovni-i-skorpioni-iskat-promeni-vezni-i-lavove-da-izbiagvat-razpraviit-877076.html",
+      "pubDate": "2026-10-31T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/31/877076/phpl4rtjj_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Embarrassing name? How we live with names we don't like",
+      "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T05:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Кои са кандидатите за професионалната квота в новия съдебен съвет",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/31/4974003_koi_sa_kandidatite_za_profesionalnata_kvota_v_noviia/?ref=rss",
+      "pubDate": "2026-10-31T05:23:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974033.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Как ще протече изслушването на съдиите",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/10/31/4973989_kak_shte_proteche_izslushvaneto_na_sudiite/?ref=rss",
+      "pubDate": "2026-10-31T05:17:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973988.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+      "link": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T05:06:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "As Trump Unravels the Old World Order, Canada and EU Join Forces",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/trump-world-order-european-union-eu-canada-carney-ursula-von-der-leyen",
+      "pubDate": "2026-10-31T05:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
+      "pubDate": "2026-10-31T04:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Студ и дъжд и през следващото денонощие",
+      "link": "https://offnews.bg/obshtestvo/stud-i-dazhd-i-prez-sledvashtoto-denonoshtie-877540.html",
+      "pubDate": "2026-10-31T04:38:57.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/10/30/877540/phparyem4_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "China Finds More Gold, Nickel and Rhenium Reserves, Xinhua Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/china-metals-gold-nickel-rhenium-reserves-xinhua-strategic-resources",
+      "pubDate": "2026-10-31T04:32:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes",
+      "link": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-10-31T04:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Judge orders Trump administration to cease threats to prosecute election officials",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTNRRm1aNHlxQUJIU2doMEdoZnBOVVNyc0U2QXk1NjA1am9nZmZYQ3F5TW5BcDJQcEZqVV82TG1vQVFmVFAySkpfRDZlODVVYXpSTVFialFSTXhpSmYtbXBwSFQzdDhpdGY3SFlsaXE2MG1zUGhvQVB1T2ZRd0llbDdwTS1YN0FaNVQtMkc2Tld5RTQyWjZ0UlBxdlhmX3JzYlhQUzNBZE45TXNBVzY0ZVJ1SzM5Sy1Nd3Jtam9nZ2dhUnRzZjhGYg?oc=5",
+      "pubDate": "2026-10-31T02:52:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "China willing to import more German goods, Premier Li says",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5",
+      "pubDate": "2026-10-31T02:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "China's factory activity shrinks in October, third contraction in four months",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekp5UHR1VTVUUkhHc28wR0hhYlFhbUNaR0VUZW5QZWxOczNGakNYeTZwYlZ3d0pjRDBLa0dTWkZUd3BQQy1ndnk2aFVGSlBCSDNob1ktd3U5ZXgyMVplNEJQRFlzMDRkVWFONldzSEJvSUE3dHlhQUVBN0VTNFFYY3RhUGpHLWdxRzJPOFEwMnJOYXUwWE51TXFpRlFCM2pWc2JPRTdKS3RjdnZPX09NZW5aS0VHUGV2V2E2SjF6dElWZllrc3F2andkY2Z3QUUz?oc=5",
+      "pubDate": "2026-10-31T01:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
+    {
+      "title": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5XNDNmUnhFZ3BCNDI2alJHcjVUUEZqX0JwZC1uaE1sQV9wTS01NS1FVlpQaXVXY3VrYmUyT2JzOXhuMENRVXB0Y1dPMDNwQ2R4VnU2SkZOSUFQNFVYeFFqQVFDUXRKamFBWjFjWE0wOVd5TkkwR1ZqM3BvcTRuU3pBMkM3OTRNQUNKTzZwV3dHSThtcm5teUlxWFRtVEJQdkYzOWNfZG5TMHlOWFZ0WVhIa0ZPVm9Rc0g2ZVpn?oc=5",
+      "pubDate": "2026-10-31T01:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-10-31T07:00:06.020Z"
+    },
     {
       "title": "Важните събития в България и по света днес",
       "link": "https://www.dnevnik.bg/burzi-novini/2026/10/31/4974107_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
