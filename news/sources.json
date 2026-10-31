@@ -45,6 +45,23 @@
       "color": "#FF5722"
     },
     {
+      "name": "Club Z",
+      "url": "https://clubz.bg/rss",
+      "fallback": "https://news.google.com/rss/search?q=site:clubz.bg+when:1d&hl=bg&gl=BG&ceid=BG:bg",
+      "color": "#607D8B"
+    },
+    {
+      "name": "Капитал",
+      "url": "https://www.capital.bg/rss/",
+      "fallback": "https://news.google.com/rss/search?q=site:capital.bg+when:1d&hl=bg&gl=BG&ceid=BG:bg",
+      "color": "#009688"
+    },
+    {
+      "name": "DW България",
+      "url": "https://news.google.com/rss/search?q=site:dw.com/bg+when:2d&hl=bg&gl=BG&ceid=BG:bg",
+      "color": "#05B2FF"
+    },
+    {
       "name": "Reuters",
       "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en",
       "color": "#4169E1",
