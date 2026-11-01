@@ -1,9 +1,621 @@
 {
   "windowStart": "2026-10-31T16:31:17.276Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-01T10:00:07.736Z",
-  "totalItems": 210,
+  "lastUpdated": "2026-11-01T13:00:07.447Z",
+  "totalItems": 252,
   "items": [
+    {
+      "title": "Ново място | Галерия (и не само) Monument",
+      "link": "https://www.capital.bg/light/mesta/2026/11/01/4969816_novo_miasto_galeriia_i_ne_samo_monument/?ref=rss",
+      "pubDate": "2026-11-01T13:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4969805.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "ОПЕК+ реши да не променя добива на петрол през декември",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/01/4974586_opek_reshi_da_ne_promenia_dobiva_na_petrol_prez/?ref=rss",
+      "pubDate": "2026-11-01T12:59:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974587.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Trump Says US in 'No Hurry' for Iran Deal, German Protests, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-01/trump-says-us-in-no-hurry-for-iran-deal-german-protests-more",
+      "pubDate": "2026-11-01T12:52:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Само един треньор във Висшата лига може да се справи с кризата в Манчестър Юнайтед",
+      "link": "https://www.actualno.com/football/samo-edin-trenior-vyv-visshata-liga-moje-da-se-spravi-s-krizata-v-manchestyr-unajted-news_2657438.html",
+      "pubDate": "2026-11-01T12:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/02eea75ed282a95941be07d91258f04b_2657438_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Близо 800 арестувани и опит за убийство на полицай на протестите във Франция (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/blizo-800-arestuvani-i-opit-za-ubijstvo-na-policaj-na-protestite-vyv-francija-video-news_2657440.html",
+      "pubDate": "2026-11-01T12:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/5467183313dedb5add1ab3c231181814_2657440_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Според Кирил Вълчев всички са сбъркали някъде, за да не гласуват хората",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974585_spored_kiril_vulchev_vsichki_sa_sburkali_niakude_za_da/?ref=rss",
+      "pubDate": "2026-11-01T12:50:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974583.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Само на 34 години: Почина европейска шампионка от Рим 2024",
+      "link": "https://www.actualno.com/moresport/samo-na-34-godini-pochina-evropejska-shampionka-ot-rim-2024-news_2657433.html",
+      "pubDate": "2026-11-01T12:36:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/710104fd96b2a6c11a9f2bb63e7a9747_2657433_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Към 14 ч. 14,9% избирателна активност на балотажа на президентските избори",
+      "link": "https://www.actualno.com/society/kym-14-ch-149-izbiratelna-aktivnost-na-balotaja-na-prezidentskite-izbori-news_2657430.html",
+      "pubDate": "2026-11-01T12:31:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/2217e13290d6cadefbb5836c1b13d17f_2657430_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Бензинът поевтинява, а дизелът и газта поскъпват през последния месец",
+      "link": "https://frognews.bg/novini/benzinat-poevtiniava-dizelat-gazta-poskapvat-prez-posledniia-mesets.html",
+      "pubDate": "2026-11-01T12:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/a35de27fd_1793535583_6ae72e5f605fb.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Banks Start Reviewing Loan Terms for Clients in El Niño’s Path",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/banks-start-reviewing-loan-terms-for-clients-in-el-nino-s-path",
+      "pubDate": "2026-11-01T12:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Germany news: Gen Z group calls for new protests",
+      "link": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T12:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Biological weapons: The weaponization of disease",
+      "link": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T12:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "За бъдещето и за мира: За какво гласуваха Андрей Гюров и Илияна Йотова в деня на балотажа",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/01/4974577_za_budeshteto_i_za_mira_za_kakvo_glasuvaha_andrei/?ref=rss",
+      "pubDate": "2026-11-01T12:21:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974576.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Почина един от ключовите членове на руската рок група \"Любе\"",
+      "link": "https://www.actualno.com/music/pochina-edin-ot-kluchovite-chlenove-na-ruskata-rok-grupa-lube-news_2657428.html",
+      "pubDate": "2026-11-01T12:19:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/cd51ab6587bb52242653cb6730f75c6f_2657428_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Хиляди на протест в Израел, искат включването на арабските партии в съставянето на правителство",
+      "link": "https://clubz.bg/181282",
+      "pubDate": "2026-11-01T12:10:48.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/9c38e519a6c74f9d96baf16ec0fd087d~5.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "В Буковлък: Не дават пари - нема кой да гласува, дадат ли - отиваме",
+      "link": "https://offnews.bg/politika/v-bukovlak-ne-davat-pari-nema-koj-da-glasuva-dadat-li-otivame-877611.html",
+      "pubDate": "2026-11-01T12:07:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877611/phpwnmutq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Борисов обяви, че ще гласува, но не може да задължи ГЕРБ",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/borisov-obyavi-che-shte-glasuva-no-ne-mozhe-da-zadalzhi-gerb/",
+      "pubDate": "2026-11-01T12:03:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Николай Денков: Нека изберем този с когото ще се гордеем",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974570_nikolai_denkov_neka_izberem_tozi_s_kogoto_shte_se/?ref=rss",
+      "pubDate": "2026-11-01T12:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974569.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Traders on Kalshi and Polymarket Went to Maine Hunting a Midterm Election Edge.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/traders-on-kalshi-and-polymarket-went-to-maine-hunting-a-midterm-election-edge",
+      "pubDate": "2026-11-01T12:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Бойко Борисов няма да задължи ГЕРБ да подкрепи неговия избор за президент",
+      "link": "https://boulevardbulgaria.bg/articles/boyko-borisov-nyama-da-zadalzhi-gerb-da-podkrepi-negoviya-izbor-za-prezident",
+      "pubDate": "2026-11-01T11:58:21.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMjUzLCJwdXIiOiJibG9iX2lkIn19--48e41fbaea4fd4236265adb8f7789c74e12ca01a/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%20%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "424 сигнала за изборни нарушения и 8 наказателни производства, отчита МВР",
+      "link": "https://frognews.bg/novini/424-signala-izborni-narusheniia-8-nakazatelni-proizvodstva-otchita-mvr.html",
+      "pubDate": "2026-11-01T11:57:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d17ebd023_1793534418_6ae729d2aa662.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Стотици хиляди домакинства в Украйна са без ток след поредните руски удари",
+      "link": "https://offnews.bg/sviat/stotitci-hiliadi-domakinstva-v-ukrajna-sa-bez-tok-sled-porednite-ruski-877610.html",
+      "pubDate": "2026-11-01T11:55:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877610/php74ronl_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Britain's Dart claims first WTA singles title in Guangzhou",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRfV0o1N3RZbHJaNmZ3RGJtV3hEUVgwSU14M3lBQU0wRXVGOG5YQ3BkX3F1MmZ1ajhJTDY4ZzlwRjF0WHJWcmsyWjZRa09hcW41MEpLeFlFQVFnYXBiSFAydk0zY25oUTJwcENCbWpNNnRZM2VLSWJRTTZvU0l4b1lxNlNMOVVvdERJUXA3VkxMbjdfeFR0YlluT2EyaFJ3c0lIZnhVVQ?oc=5",
+      "pubDate": "2026-11-01T11:53:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Trump: 'No Hurry' to End Iran War, Violent German Protests, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-01/trump-no-hurry-to-end-iran-war-violent-german-protests-more",
+      "pubDate": "2026-11-01T11:51:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Тръмп може да загуби Тексас",
+      "link": "https://clubz.bg/181280",
+      "pubDate": "2026-11-01T11:43:56.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/tramp-dart-ap-bta~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Trump White House maps path to govern without Congress if Democrats win",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5",
+      "pubDate": "2026-11-01T11:42:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Едно наум: Мъж от Пловдив разбра, че е мъртъв, след като отишъл да гласува",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974567_edno_naum_muj_ot_plovdiv_razbra_che_e_murtuv_sled_kato/?ref=rss",
+      "pubDate": "2026-11-01T11:37:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974573.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+      "pubDate": "2026-11-01T11:35:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Вокалистът на Deep Purple Иън Гилън е приет по спешност в болница",
+      "link": "https://offnews.bg/kultura/vokalistat-na-deep-purple-ian-gilan-e-priet-po-speshnost-v-bolnitca-877608.html",
+      "pubDate": "2026-11-01T11:35:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877608/phphesck6_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Colombians march in eighth day of protests",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vNlR4OE9VTm9MMUZDMGdMQll3YVlHYTIxbkYzNERhc3NGMGgxNlM2dEFKRy1mWG5QXzVZMWJPaTlvb0F5SHdqT3c0RlF5WDZuWHNrVjNhejd5ZWJN?oc=5",
+      "pubDate": "2026-11-01T11:33:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Украйна удари руска рафинерия, Русия атакува енергийна инфраструктура",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/ukraina-udari-ruska-rafineriya-rusiya-atakuva-energiyna-infrastruktura/",
+      "pubDate": "2026-11-01T11:33:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "4 земетресения в Румъния тази нощ, още едно сутринта в Черно море",
+      "link": "https://offnews.bg/sviat/4-zemetresenia-v-rumania-tazi-nosht-oshte-edno-sutrinta-v-cherno-more-877609.html",
+      "pubDate": "2026-11-01T11:28:28.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877609/php35q1xc_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "САЩ предупредили Русия за възможен терористичен акт в ;Царицино;",
+      "link": "https://clubz.bg/181279",
+      "pubDate": "2026-11-01T11:23:19.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/637b1e1d46ff4407a82cd903961506e3~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Portugal police storm housing protest camps in Lisbon, Porto",
+      "link": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T11:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "За какво гласуваха политиците на балотажа",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/za-kakvo-glasuvaha-polititsite-na-balotazha/",
+      "pubDate": "2026-11-01T11:15:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": ";Мъртъв; избирател отиде да гласува в Пловдив, двама членове на СИК в Поморие... избягаха",
+      "link": "https://clubz.bg/181278",
+      "pubDate": "2026-11-01T11:14:29.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/img_2371~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Туск нарече президента Навроцки ;агресивен побойник;",
+      "link": "https://clubz.bg/181277",
+      "pubDate": "2026-11-01T11:13:00.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/karol-navrocki-ap-bta~5.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "AI and Legal Ethics",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGplSnpobUpvREgzUWZwRlBXR0RES0FBbWhFbWxDcmpKbDEtc1ZOTVVzQTNRZkt4ek9GOFlsUGxlbDBKQnJuYl9wT2ZtSXN4empaaEhNQzl4QlFMYS1XaGZTZlEyOWh3VUZROXkxR2pGdEdkTGpUZVBTVU5rUEpDSU1GeHBQaHFnZ1d5Vkp1SkZMYURobFE?oc=5",
+      "pubDate": "2026-11-01T11:12:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Омаломощен или яростен - Тръмп след междинните избори",
+      "link": "https://boulevardbulgaria.bg/articles/omalomoshten-ili-yarosten-tramp-sled-mezhdinnite-izbori",
+      "pubDate": "2026-11-01T11:08:46.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczOTY5LCJwdXIiOiJibG9iX2lkIn19--badc0ee5479ce5e92d94309ee4d6f56bb8078db8/trump%20congress.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "ЦИК: Избирателната активност към 11 ч. е 6.11% – малко над тази на първия тур",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/tsik-izbiratelnata-aktivnost-kam-11-ch-e-611-malko-nad-tazi-na-parviya-tur/",
+      "pubDate": "2026-11-01T11:05:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "London Bridge Gets Early Review to Test Structural Condition",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/london-bridge-gets-early-review-to-test-structural-condition",
+      "pubDate": "2026-11-01T11:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "6,11% избирателна активност в 11 часа, малко по-висока от първия тур, обяви ЦИК",
+      "link": "https://offnews.bg/politika/6-11-izbiratelna-aktivnost-v-11-chasa-malko-po-visoka-ot-parvia-tur-877607.html",
+      "pubDate": "2026-11-01T10:54:43.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877607/phpilj3ky_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "И Швейцария експлодира: Цюрих и Базел горяха, барикади по улиците",
+      "link": "https://frognews.bg/novini/shveitsariia-eksplodira-tsiurih-bazel-goriaha-barikadi-ulitsite.html",
+      "pubDate": "2026-11-01T10:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/dd9e13af7_1793529194_6ae7156a3036b.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Румен Радев гласува президентът да бъде стожер на държавността и националната идентичност",
+      "link": "https://boulevardbulgaria.bg/articles/rumen-radev-glasuva-prezidentat-da-bade-stozher-na-darzhavnostta-i-natsionalnata-identichnost",
+      "pubDate": "2026-11-01T10:32:56.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczOTczLCJwdXIiOiJibG9iX2lkIn19--8c050036b4f0838c1c1fc0073e074a6abf4b552d/%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2_%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%B5.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "В Деня на народните будители нека си кажем: Честит празник и буди себе си!",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3dmWnNBampTSVUwM19uamQ5U3pqVndWS2VIWVNKR2xfV1prVzVhZURyNE1NaHNqYzFDelNFb296Y0ZIYVViWDI2RG1wd0RjcDdlang2Q1Z4TGhfZUhNMEwwTjNEWUhMWmFGX05KaEZGaFl1YnRwUFRPd1VfUy1xZFRIZXFGNGNfeV9zU0UtRzNUTVBXR1JlbjdB0gGaAUFVX3lxTE4zd2Zac0FqalNJVTAzX25qZDlTempWd1ZLZUhZU0pHbF9XWmtXNWFlRHI0TU1oc2pjMUN6U0Vvb3pjRkhhVWJYMjZEbXB3RGNwN2VqeDZDVnhMaF9lSE0wTDBOM0RZSExaYUZfTkpoRkZoWXVidHBQVE93VV9TLXFkVEhlcUY0Y195X3NTRS1HM1RNUFdHUmVuN0E?oc=5",
+      "pubDate": "2026-11-01T10:25:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Асен Василев: Крайно време е да проветрим президентството",
+      "link": "https://boulevardbulgaria.bg/articles/asen-vasilev-9cc60e50-b953-469b-afd8-1beb5836e5b2",
+      "pubDate": "2026-11-01T10:21:58.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczOTM4LCJwdXIiOiJibG9iX2lkIn19--6d682018d70a3125070bb5c947f1792c0352dc56/%D0%90%D1%81%D0%B5%D0%BD%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D0%B2%20-%20%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%B5.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Куриоз: Пловдивчанин откри на балотажа, че е обявен за мъртъв",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/kurioz-plovdivchanin-otkri-na-balotazha-che-e-obyaven-za-martav/",
+      "pubDate": "2026-11-01T10:07:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Йотова гласува за силен президент и България със собствен глас",
+      "link": "https://boulevardbulgaria.bg/articles/yotova-glasuva-za-silen-prezident-i-balgariya-sas-sobstven-glas",
+      "pubDate": "2026-11-01T09:45:41.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczOTUxLCJwdXIiOiJibG9iX2lkIn19--e662d5363e59fd6eba2125c5df2fc7ef35deff95/%D0%99%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
+    {
+      "title": "Германия: безредици и насилие във Франкфурт и Кьолн на фона на мирните протести",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUpxdm5tX3RSQjB1TzVQT2hRM2hVSDNFNzE4OWo5eE1oSjVyemZzX2VBZDk0VUdCekZRT0I2RG5za2ViVGtFVUhGR3RsMW1lckctaGQtbkFDZEowZlRpTWZ4aExpRkFfREZmWWgtNHdRbXMxTEsyWGMzM28yWWUwYUJlT0ZEd21DR1JJdtIBjAFBVV95cUxPbUpxdm5tX3RSQjB1TzVQT2hRM2hVSDNFNzE4OWo5eE1oSjVyemZzX2VBZDk0VUdCekZRT0I2RG5za2ViVGtFVUhGR3RsMW1lckctaGQtbkFDZEowZlRpTWZ4aExpRkFfREZmWWgtNHdRbXMxTEsyWGMzM28yWWUwYUJlT0ZEd21DR1JJdg?oc=5",
+      "pubDate": "2026-11-01T09:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-01T13:00:07.447Z"
+    },
     {
       "title": "Обявен за мъртъв мъж отиде да гласува в Пловдив",
       "link": "https://frognews.bg/novini/obiaven-martav-maj-otide-glasuva-plovdiv.html",
@@ -1464,18 +2076,6 @@
       "firstSeen": "2026-11-01T04:00:06.759Z"
     },
     {
-      "title": "Израел: за какво се борят арабските партии и ще влязат ли във властта?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDNfZXR5U3lpSTZrN0RaNk4zamJncVdCVFlkNG5yN0Vvb2lCd1dNWXN6T2JYVVdsQ0hMZm1fNXQ3bzliMjJHY2hOMnhGSWxydFRKc3kzMnl4SlJlTnJfQml0Z1VmNDdyUTJvVEZGS2ZfNkdFNHJOa1hidkJ1enV1dUpYUGhWWkFZWDR0V3R1M18tQ0xudUVPenlQVHN2MG1WQUHSAaIBQVVfeXFMUExaQzRqZ1NYWUhPVnBCYUNreWhDbEZHOHF0REtHQ0dyRGI1Y091bmpKRG1mTzVZMjc0czBDZm1iU3ZZblk1V1RWTmFiSFA3emN5S1BfNHI5MTJtR2xUTnBvUzdON2hseHA3bnhWWXVpb0E3cUtISHlya3pCVHNSejVuY1JwOFZWdTlRTmlaNE9vdDdteWh0UTNCN0JXSXk0VEZR?oc=5",
-      "pubDate": "2026-10-31T11:13:23.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
-      },
-      "firstSeen": "2026-11-01T04:00:06.759Z"
-    },
-    {
       "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5",
       "pubDate": "2026-11-01T00:45:00.000Z",
@@ -2536,81 +3136,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Седмични новини за енергетика: Ще се добива ли газ в Добруджа; Батериите в България са вече над 6.2 GW",
-      "link": "https://www.capital.bg/biznes/energetika/2026/10/31/4974021_sedmichni_novini_za_energetika_shte_se_dobiva_li_gaz_v/?ref=rss",
-      "pubDate": "2026-10-31T12:51:00.000Z",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4974143.jpg"
-      },
-      "source": {
-        "name": "Капитал",
-        "color": "#009688"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Как гласуваме на балотажа за президент",
-      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/10/31/4974062_kak_glasuvame_na_balotaja_za_prezident/?ref=rss",
-      "pubDate": "2026-10-31T12:34:00.000Z",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4974060.jpg"
-      },
-      "source": {
-        "name": "Капитал",
-        "color": "#009688"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Престара ли се БНТ за деня за размисъл, като премахна предизборен разговор от „Панорама“?",
-      "link": "https://boulevardbulgaria.bg/articles/prestara-li-se-bnt-za-denya-za-razmisal-kato-premahna-predizboren-razgovor-ot-panorama",
-      "pubDate": "2026-10-31T12:21:53.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczNTgxLCJwdXIiOiJibG9iX2lkIn19--f0af45b76e0bca487a5c1090499656260eef5912/%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Germany news: Merkel calls for first female president",
-      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-10-31T11:18:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Израел: за какво се борят арабските партии и ще влязат ли във властта?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFpDNGpnU1hZSE9WcEJhQ2t5aENsRkc4cXRES0dDR3JEYjVjT3VuakpEbWZPNVkyNzRzMENmbWJTdlluWTVXVFZOYWJIUDd6Y3lLUF80cjkxMm1HbFROcG9TN043aGx4cDdueFZZdWlvQTdxS0hIeXJrekJUc1J6NW5jUnA4VlZ1OVFOaVo0T290N215aHRRM0I3QldJeTRURlHSAaIBQVVfeXFMUExaQzRqZ1NYWUhPVnBCYUNreWhDbEZHOHF0REtHQ0dyRGI1Y091bmpKRG1mTzVZMjc0czBDZm1iU3ZZblk1V1RWTmFiSFA3emN5S1BfNHI5MTJtR2xUTnBvUzdON2hseHA3bnhWWXVpb0E3cUtISHlya3pCVHNSejVuY1JwOFZWdTlRTmlaNE9vdDdteWh0UTNCN0JXSXk0VEZR?oc=5",
-      "pubDate": "2026-10-31T11:17:36.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
-      },
-      "firstSeen": "2026-10-31T19:00:07.597Z"
-    },
-    {
-      "title": "Протести в Германия: ще се повторят ли сцените от Франция?",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObE0ybGprNV90OEZOTS1GVTV3d28yUmFoTkFIaXJiam1ONV9Fc0lscGlvYXNLTWpCRmZ6aUFZRFlRNG1YRUF6QVhLRDFwb3k1TEVNT0FZQTlCS1F2OG1MR3JGTmZ5OFMzTFpBSzFnTWduYzhoTGI5dllGWF9SbHlLeVBNZGg2bEdYXzZBcHFUY0xleU3SAZMBQVVfeXFMTmxNMmxqazVfdDhGTk0tRlU1d3dvMlJhaE5BSGlyYmptTjVfRXNJbHBpb2FzS01qQkZmemlBWURZUTRtWEVBekFYS0QxcG95NUxFTU9BWUE5QktRdjhtTEdyRk5meThTM0xaQUsxZ01nbmM4aExiOXZZRlhfUmx5S3lQTWRoNmxHWF82QXBxVGNMZXlN?oc=5",
-      "pubDate": "2026-10-31T10:26:54.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
       },
       "firstSeen": "2026-10-31T19:00:07.597Z"
     }
