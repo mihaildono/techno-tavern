@@ -1,7 +1,788 @@
 {
   "windowStart": "2026-11-01T16:48:55.249Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-01T16:48:55.249Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-11-01T19:00:11.716Z",
+  "totalItems": 63,
+  "items": [
+    {
+      "title": "“Въпрос на вкус, както казало кучето\": Георг Георгиев след първите екзитполове",
+      "link": "https://www.actualno.com/politics/vypros-na-vkus-kakto-kazalo-kucheto-georg-georgiev-sled-pyrvite-ekzitpolove-news_2657580.html",
+      "pubDate": "2026-11-01T18:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/3a91023888ac292386500f7f8386a8e3_2657580_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Близо 5,9 млн. евро от тотото отиват в Добрич – втората най-голяма печалба",
+      "link": "https://frognews.bg/novini/blizo-5-9-mln-evro-tototo-otivat-dobrich-vtorata-nay-golyama-pechalba.html",
+      "pubDate": "2026-11-01T18:58:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8448f24f6_1793559564_6ae78c0c35c88.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Демерджиев обяви балотажа за честен и обвини кметове на ДПС в схеми",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974741_demerdjiev_obiavi_prezidentskiia_vot_za_chesten_i/?ref=rss",
+      "pubDate": "2026-11-01T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974732.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Как гласуваха гражданите според партийните предпочитания",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974686_kak_glasuvaha_grajdanite_spored_partiinite/?ref=rss",
+      "pubDate": "2026-11-01T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974695.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "\"Сънят на обществата ражда диктатури\": Първи реакции на изборните резултати, млади експерти обмислят емиграция",
+      "link": "https://www.actualno.com/society/synjat-na-obshtestvata-rajda-diktaturi-pyrvi-reakcii-na-izbornite-rezultati-mladi-eksperti-obmisljat-emigracija-news_2657579.html",
+      "pubDate": "2026-11-01T18:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/499c9bb8ca5fd29e2c7a8945e7648fe3_2657579_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Костадинов се похвали с победата на Йотова",
+      "link": "https://boulevardbulgaria.bg/articles/kostadinov-se-pohvali-s-pobedata-na-yotova",
+      "pubDate": "2026-11-01T18:54:24.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MTQzLCJwdXIiOiJibG9iX2lkIn19--88428ef1ededcbad976a193b881765d3eaacc2ac/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Зеленски предложи на Путин среща в Турция",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/zelenski-predlozhi-na-putin-sreshta-v-turtsiya/",
+      "pubDate": "2026-11-01T18:54:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Trump: I'll Be ‘Mr. Veto’ if Dems Win, Haley Backs Rogers, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-01/trump-i-ll-be-mr-veto-if-dems-win-haley-backs-rogers-more",
+      "pubDate": "2026-11-01T18:51:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Нетаняху е притиснал Тръмп да почне да бомбардира Иран след 2-3 дни",
+      "link": "https://www.actualno.com/asia/netanjahu-e-pritisnal-trymp-da-pochne-da-bombardira-iran-sled-2-3-dni-news_2657572.html",
+      "pubDate": "2026-11-01T18:48:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/f82ff8431931942267fc414a1611c993_2657572_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Паралелно броене: Йотова печели балотажа, разликата с Гюров се увеличава (обновява се)",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/paralelno-broene-yotova-pecheli-balotazha-razlikata-s-gyurov-se-uvelichava-obnovyava-se/",
+      "pubDate": "2026-11-01T18:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "\"Тренд\": Дистанцията на Йотова е непреодолима",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974747_trend_distanciiata_na_iotova_e_nepreodolima/?ref=rss",
+      "pubDate": "2026-11-01T18:46:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974746.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "При 80% паралелно преброяване \"Алфа Рисърч\" измерва 57.1% за Илияна Йотова",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974743_pri_80_paralelno_prebroiavane_alfa_risurch_dava_571_za/?ref=rss",
+      "pubDate": "2026-11-01T18:44:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974742.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Тагарев предупреди за последици за България в ЕС и НАТО след победата на Йотова",
+      "link": "https://www.actualno.com/politics/tagarev-predupredi-za-posledici-za-bylgarija-v-es-i-nato-sled-pobedata-na-jotova-news_2657569.html",
+      "pubDate": "2026-11-01T18:44:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/ef1aa292c25f43cd15bfdc12491fb2dc_2657569_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Повториха ли избирателите вота си от първия тур",
+      "link": "https://www.dnevnik.bg/izbori-2026/2026/11/01/4974657_povtoriha_li_izbiratelite_vota_si_ot_purviia_tur/?ref=rss",
+      "pubDate": "2026-11-01T18:43:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974659.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Костадинов си приписа успеха на Йотова на втория тур",
+      "link": "https://www.mediapool.bg/izbori-2026/kostadinov-si-pripisa-uspeha-na-yotova-na-vtoriya-tur/",
+      "pubDate": "2026-11-01T18:36:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Паралелното преброяване: Йотова води Гюров с над 17 %",
+      "link": "https://offnews.bg/politika/paralelnoto-prebroiavane-jotova-vodi-giurov-s-nad-17-877638.html",
+      "pubDate": "2026-11-01T18:35:31.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877638/phptkjnmg_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Мелания Тръмп и папа Лъв XIV определиха примирието в Олешки като първа стъпка към мир в Украйна",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/melaniya-tramp-i-papa-lav-xiv-opredeliha-primirieto-v-oleshki-kato-parva-stapka-kam-mir-v-ukraina/",
+      "pubDate": "2026-11-01T18:34:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Асен Василев: Предизборната кампания не постигна мобилизация, подкрепата на ГЕРБ беше проформа",
+      "link": "https://offnews.bg/politika/asen-vasilev-predizbornata-kampania-ne-postigna-mobilizatcia-podkrep-877635.html",
+      "pubDate": "2026-11-01T18:33:02.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877635/php55mkg8_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "US judge dismisses Trump election lawsuit in Alaska",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+      "pubDate": "2026-11-01T18:29:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Вътрешният министър обяви президентския вот за честен",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/vatreshniyat-ministar-obyavi-prezidentskiya-vot-za-chesten/",
+      "pubDate": "2026-11-01T18:29:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Разликата между Йотова и Гюров се увеличава. Какво показват паралелните преброявания?",
+      "link": "https://clubz.bg/181296",
+      "pubDate": "2026-11-01T18:28:25.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/whatsapp-image-2026-11-01-at-20.37.18.jpeg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "\"Справихме се\": Демерджиев за вота и за странна активност на някои кметове на ДПС",
+      "link": "https://www.actualno.com/crime/spravihme-se-demerdjiev-za-vota-i-za-stranna-aktivnost-na-njakoi-kmetove-na-dps-news_2657559.html",
+      "pubDate": "2026-11-01T18:27:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/25553b76d0a237844f7f703fe0face32_2657559_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Скоро децата ще питат къде бяхте на 1 ноември 2026",
+      "link": "https://offnews.bg/politika/skoro-detcata-shte-pitat-kade-biahte-na-1-noemvri-2026-877634.html",
+      "pubDate": "2026-11-01T18:26:46.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877634/php5nsr93_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Първа реакция от ПБ: Увеличихме с близо една трета активността, което е безпрецедентно",
+      "link": "https://offnews.bg/politika/parva-reaktcia-ot-pb-uvelichihme-s-blizo-edna-treta-aktivnostta-koet-877636.html",
+      "pubDate": "2026-11-01T18:24:03.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877636/phpc9xinn_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Асен Василев не очаква обрат на балотажа, но прогнозира по-малка разлика",
+      "link": "https://frognews.bg/novini/asen-vasilev-ochakva-obrat-balotaja-prognozira-malka-razlika.html",
+      "pubDate": "2026-11-01T18:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4edd123a7_991-ratio-asen-vasilev.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Senate Democrat Chris Murphy Hospitalized Due to a Stroke",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/senate-democrat-chris-murphy-hospitalized-due-to-a-stroke",
+      "pubDate": "2026-11-01T18:18:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/canada-and-us-to-outline-trade-plan-in-coming-weeks-carney-says",
+      "pubDate": "2026-11-01T18:16:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Асен Василев: Партиите зад Йотова са загубили 800 000 гласа от април",
+      "link": "https://boulevardbulgaria.bg/articles/asen-vasilev-partiite-zad-yotova-sa-zagubili-800-000-glasa-ot-april",
+      "pubDate": "2026-11-01T18:13:57.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MTI2LCJwdXIiOiJibG9iX2lkIn19--362ff346845e55d08f4002db74cca86b4063bf12/Screenshot-2026-11-01-202034.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Асен Василев: Андрей Гюров удвоява резултата, Илияна Йотова е 800 000 гласа надолу",
+      "link": "https://clubz.bg/181294",
+      "pubDate": "2026-11-01T18:06:54.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/asen-vasilev-prodalzavame-promanata-obsto-sabranie-bta-~3.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Trump White House maps path to govern without Congress if Democrats win",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5",
+      "pubDate": "2026-11-01T18:01:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Why the Villa Vie Odyssey Cruise Ran Out of Money for Fuel",
+      "link": "https://www.bloomberg.com/opinion/articles/2026-11-01/why-the-villa-vie-odyssey-cruise-ran-out-of-money-for-fuel",
+      "pubDate": "2026-11-01T18:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Ukraine-Skeptic President Wins Bulgaria’s Vote, Exit Poll Shows",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/incumbent-yotova-wins-bulgarian-president-vote-exit-poll-shows",
+      "pubDate": "2026-11-01T18:00:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Първи резултати от екзит пол: Йотова става президент с 6-9% разлика",
+      "link": "https://offnews.bg/politika/parvi-rezultati-ot-ekzit-pol-jotova-stava-prezident-s-6-9-razlika-877629.html",
+      "pubDate": "2026-11-01T18:00:05.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877629/phpa5erml_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Щабът на Йотова очаква победа, екипът на Гюров не бърза с изводите",
+      "link": "https://frognews.bg/novini/shtabat-yotova-ochakva-pobeda-ekipat-gyurov-barza-izvodite.html",
+      "pubDate": "2026-11-01T18:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0c0561d83_1793556015_6ae77e2fc36c6.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Първи резултати от балотажа: Илияна Йотова печели изборите, разликата се увеличи до 20 пункта (обновена)",
+      "link": "https://boulevardbulgaria.bg/articles/parvi-rezultati-ot-balotazha-iliyana-yotova-pecheli-izborite-razlikata-se-uvelichi-obnovena",
+      "pubDate": "2026-11-01T18:00:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MDcwLCJwdXIiOiJibG9iX2lkIn19--50594d2fc88920a87ab2b4c7ac5240056bc73bd7/%D0%B1%D0%B0%D0%BB%D0%BE%D1%82%D0%B0%D0%B6%20header.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Около 160 000-170 000 гласа е разликата между Йотова и Гюров",
+      "link": "https://boulevardbulgaria.bg/articles/okolo-160-000-170-000-glasa-e-razlikata-mezhdu-yotova-i-gyurov-",
+      "pubDate": "2026-11-01T17:56:17.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MTM0LCJwdXIiOiJibG9iX2lkIn19--cb54e60e0441cec16fea1b7406422df099b9dc99/%D0%B5%D0%B2%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%BF%D1%8A%D1%80%D0%B2%D0%B0%D0%BD%20%D1%81%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "България трябва да е по-близо до Русия, казват 41 на сто от избралите Йотова",
+      "link": "https://clubz.bg/181293",
+      "pubDate": "2026-11-01T17:56:15.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/gurov-iotova-vanshna-politika.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
+      "pubDate": "2026-11-01T17:47:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Trump heads to Iowa, Kansas with Senate control in balance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
+      "pubDate": "2026-11-01T17:46:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Тагарев: Всяването на страх изглежда работи. При този резултат България ще стои по-зле в ЕС и НАТО",
+      "link": "https://boulevardbulgaria.bg/articles/tagarev-vsyavaneto-na-strah-izglezhda-raboti-pri-tozi-rezultat-balgariya-shte-stoi-po-zle-v-es-i-nato",
+      "pubDate": "2026-11-01T17:36:07.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk3ODY1LCJwdXIiOiJibG9iX2lkIn19--92216587e7afaafcd579c3731722d863cdac2aa5/%D0%A2%D0%BE%D0%B4%D0%BE%D1%80%20%D0%A2%D0%B0%D0%B3%D0%B0%D1%80%D0%B5%D0%B2.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Паралелно преброяване на \"Алфа Рисърч\", 80%: Йотова – 57,1%, Гюров – 39,3%",
+      "link": "https://frognews.bg/novini/paralelno-prebroiavane-alfa-risarch-80procenta-iotova--57-1procenta-giurov--39-3procenta.html",
+      "pubDate": "2026-11-01T17:35:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0df757d60_prezident_bgnes2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Българите гласуваха в 60 държави, последни затварят секциите в САЩ",
+      "link": "https://frognews.bg/novini/balgarite-glasuvaha-60-darjavi-posledni-zatvariat-sektsiite-sasht.html",
+      "pubDate": "2026-11-01T17:34:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/57597eb9b_991_ratio_izbori.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Балотажът за президент (live блог): Йотова печели с 57-59% според паралелните преброявания",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/01/4974413_iliiana_iotova_ili_andrei_gjurov_vtoriiat_tur_na/?ref=rss",
+      "pubDate": "2026-11-01T17:32:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4974415.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Serbians mark railway disaster that led to rise of victorious student movement",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5",
+      "pubDate": "2026-11-01T17:30:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Голяма част от избирателите на ГЕРБ и ДПС бойкотираха и балотажа",
+      "link": "https://clubz.bg/181292",
+      "pubDate": "2026-11-01T17:29:53.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/bib_6324~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Първи резултати: Илияна Йотова ще е президент още пет години",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2lxbjlaNGFoZWdrZzlaSmZzc3lhN1gtc1VwdUQ3cmFDcjNhZUI3WmpZV2xfOVh3SGFqZjQ0bUV6bnZKS3dobHdISVBhc3pIRnJpQmV6QkU4eXd2YWY4NmtpX3c5dlVzQnNkMndFMlFTTGhaYjdkT19mTHFjUjJ3ZlhBdnRORnpsRU1GeE8tSE9OTnFUVTJhX05R?oc=5",
+      "pubDate": "2026-11-01T17:29:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Serbia: Police chief arrested after election for abuse of office",
+      "link": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T17:16:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "The Economist - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPR3N1bkdmUDVtNzdjWTFVS1RGZXJLT2x1Qi1QRmRTVmpCSVdPRXFsbE16elU1MG5xc0c1bUhsdjMyMEhNUmlPTGJFbHl5UFVDTlM3THEwSUhKR0hnN3U0UEFvbFJCaW5HdDQ1MUVNOFRibkxPRjBrSXZVSXQ0MWJUTm85VFMyVUdScUllUHo2NWJfTkVGaUg0aTJzaUplQ2VYTFdsbHg2S2NIQzk0Tk4ydHgzSXFKUmtKYUpVTks4cEktZHZueUVwaVUtdlF6VWt5ZmRDdHlxdXFHamRzUlhmSGdzVFFMTlpHRG5KNy1CVEZmUHk1UnJBSFhVdzVKLVNiZ2JyV3dwRUNUcHdmdTlzWDdqR3cwUk1FTGVxQjlpdG5QN1lNb1hDSGsxSnBIUlhnSjlUeVh5RDdnRzNsTU9nYXcyc0Z6LWRSd29kUnRaVkE5Zk1EOTBUS3k2SDhsT0Z5U3BtUXJiNkNQWW9Za0NNTEVYd1lnQ3ZYOWpxblE2UDRGTXF4cGs0aXlVUkt1X1RVbXhGYzBPY2pkYnpQZjF0bVhfcUFhZE9JWWFiRDNpMGQ5Z2pIZDR0eFFGMlNmbnNkWVdPeUkxVWpqUmxnSDg0Wm9WenV3MzBk?oc=5",
+      "pubDate": "2026-11-01T16:05:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "- DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNbmZKSVJFVVFzRDZRZjcxYWc4a3Q2Q2NCeDd3ZTlDRVVkS0QyVGk1MVdZMkxpeHhGb1U0bXh4Rk52Qm5UMDNXX1hsa2NaVU5MaHM1Y19CX1RkZzZFUy1fMkttTTFOc1hSeVZWYW1ZaGdDS2lTS1FBUzlKZ0JsNlRydDhXRUtDQmRzcEVuYzRibkx1Y1dxMWpHMXYtNnZBZnEwRFM3QkhsMU1NLTlLaGpFbnZVa2k5NE9YT3kyRnpWS1YwYVpBeUhvVi1nOE5FTFJ5NlgzQW54WGYzbWRrWEMwZEgtdEVneVBQZnJVSWRxNWtIeGgteGJRVjVrNVQ3VHdyM2lBWnhBNlhMTTNkUklYVFpobi1NQTlBaUhrSW1rX2FLV2ROcUVBS1o0SzBvbmNBRGtUWENOaGRhNk55V1A5YTh2TkNmem1TSU12MjFCUTBDeTR6U0hWY3YyZnFXN05wTnQxQnN6YVU4bUlyNS1SYk5iMHBHclNpbVI4aWhnR3FvdWRnQ2I5YmhabkZVYUJuOU9JWmZlVTZETDVDRWhicEt2QVNFYzBUMkdRQkFDRVNjbldScGw5N3BaQ0RtbEpOSklaRDJ2Y2VRTjd3ejZwNjVhRXFUdTNxTGRkdlFrN1ZlNG9HN21fNDZTTVNObkt0S21PaFctOUg1SW15M0k2cEpCSDBUSnZfc0t2Tnl3UDhyeDF6a194dVpRYUZyR0pjWTRzNDNB?oc=5",
+      "pubDate": "2026-11-01T16:05:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "При ниска активност: Йотова печели президентските избори",
+      "link": "https://clubz.bg/181290",
+      "pubDate": "2026-11-01T15:42:38.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/87423kshntzak938.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Опасност за корабоплаването. Контейнери са забелязани да се носят в морето източно от Бургас",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY21KN21ZTzFPTmh0VEJCSmJBRm00UXViVEw4ZlpVd1BBbHYydFlPWGZocmIzcVExVDZIbVIycWpCamFRV3d4TExVZC1mWmEyZmtHcmpmV2o3SFlzREFQZF96dWNqVlJtYXZ4T2Y5YkY3NmN5cHJsOG9OVURLNnhaOWp1c09GTUw2RnU4cTdJakFEQ0NhaV9yVFo4MDl5MEFZMUtVcVh3QVNmbjVfU3NiYzUtbkk0YVpGaFpBWEFuMVZCTjBmYnZV?oc=5",
+      "pubDate": "2026-11-01T14:51:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "France opens attempted murder probe after protest attack",
+      "link": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T14:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Ukraine: Russian attacks leave tens of thousands without power",
+      "link": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T14:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "„Да мога да се прибера“. За какво гласуват българите в Северна Англия",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGtMMkdFaEl1RjU1U0R3SGlZVFdJS2dNQnlvWThzV3NyU0NfbkYway1tZVJxYkI2OUJXbk1yVS1WdFRxSEE1dGVYRUZEWjduTGlHNU1ELWxKemV6eVNnR0E2Wnk4cGc0M1ZwaHgwajR0Q1pqQXdYTVZzTS0xcjRHUzZGY08tUjYwS21MQ0JKSDIydC1Xa3ZiYTRzd0puOG9FTktXVA?oc=5",
+      "pubDate": "2026-11-01T14:05:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Ново място | Галерия (и не само) Monument",
+      "link": "https://www.capital.bg/light/mesta/2026/11/01/4969816_novo_miasto_galeriia_i_ne_samo_monument/?ref=rss",
+      "pubDate": "2026-11-01T13:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4969805.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
+      "link": "https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T13:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Germany news: Gen Z group calls for new protests",
+      "link": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T12:26:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Regional Defence Summit 2026 | Европейската отбрана се нуждае и от креативност, и от работа в мащаб",
+      "link": "https://www.capital.bg/politika_i_ikonomika/otbrana/2026/11/01/4972960_regional_defence_summit_2026_evropeiskata_otbrana_se/?ref=rss",
+      "pubDate": "2026-11-01T09:45:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4972940.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "\"Заплашва продоволствената сигурност\". Има нужда от примирие в Черно море, каза Рубио",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXQxN0RIU1RGVU9tY253czJsYktPeHNNMVdfemhDNmp4NGo2OGZoVUxBeTBsZE5Ya2E2YmZFai0zdFR0TUVvcVV6Z0w0b1dPSVBuQTBmTmJZV1dtTkhHQ3hCWWh2cEJ5SmtGdjBZbC11ekh6MGJ4WmVGVkthZUxDNGxJdFZpS05UVDNkWHJIY0RrQk5OTVgwUHk4WjlaUG1RdjQybElnX0pQaVZvbkpaNExMajlXMWhVUUE?oc=5",
+      "pubDate": "2026-11-01T08:50:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Общинският детски комплекс в Казанлък разширява дейността си",
+      "link": "https://www.capital.bg/politika_i_ikonomika/gradove/2026/11/01/4957711_obshtinskiiat_detski_kompleks_v_kazanluk_razshiriava/?ref=rss",
+      "pubDate": "2026-11-01T08:08:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4961085.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Не, прокуратурата не иска да знае дали и кой краде от \"Автомагистрали\"",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/01/4973832_ne_prokuraturata_ne_iska_da_znae_dali_i_koi_krade_ot/?ref=rss",
+      "pubDate": "2026-11-01T07:44:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4973965.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "протести германия Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hdUphZjJnc2JId3dBcTQyVTNWTVFRNlNPa1k0ZWZqV0UzS1ZISGpjTDBPcDlGSzdHQnZsZDBUWTJFdGN5UXlTRG1SRk41Qjg0dFFWaXExdzM4b3ZEaGc?oc=5",
+      "pubDate": "2026-11-01T07:26:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    },
+    {
+      "title": "Камъни, бутилки, коктейли \"Молотов\". Мирните протести в Германия и Франция прераснаха в насилие в късните часове",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXpOanpRMkZlZldiV0xOZnlmdGFmeGViNGhaNEtJck94S0plU2VLUFN1M1NDMHY2aklZdTkzcTFhQXdlWXhWS29sR2NKX2xfclZ5ZW1MUkhXaWMwZVZUeXJFMXVBRllmM2kxQjZ1RmZJc0ViU0o5LWFkQ1JYTTdvQnpMS01JTERDUHh6UjF6T2dfVWgtWG1CVGJkQktNUkluOGdUd3M3cVVEMXRydFpxWHhvVlk1ckhyY0FNc1VXR21XdkQtX0g1c09qeDNvU0FMMW1ONHlyUE9WSnc4OFE?oc=5",
+      "pubDate": "2026-11-01T07:25:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T19:00:11.716Z"
+    }
+  ]
 }
