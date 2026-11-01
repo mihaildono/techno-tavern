@@ -1,9 +1,143 @@
 {
   "windowStart": "2026-10-31T16:31:17.276Z",
   "windowHours": 24,
-  "lastUpdated": "2026-10-31T22:00:07.179Z",
-  "totalItems": 89,
+  "lastUpdated": "2026-11-01T01:00:07.866Z",
+  "totalItems": 100,
   "items": [
+    {
+      "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5",
+      "pubDate": "2026-11-01T00:45:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "South Korea exports nearly double in October, strongest growth since 1974",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEw3WmpfUE9XNlpDeFd4LUpBenRHZVpiTVpFRDZfakN2T29CaHE4emNXQ0s0VzFDZTJTeDlXVkJtV0FSVEpwblJEVWZoWEZ4eEFzNDA5eHh0TGo4X2ZFX3hlYzljRl9TTDhPNkE1a05aNjNPU19Kb1lGbmV1UWw0dUtNZk9HS2JENWx5dDJyNWgxSGRWMzBLaGxMazJRbWxGbVBFbWNJbVlzbHkzTk05RDFGMnBzcUh4V2VqSmhTZmhkUQ?oc=5",
+      "pubDate": "2026-11-01T00:39:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Alaska Says Ballot Demand Meritless, WSJ Wins Dismissal of Suit",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-01/alaska-says-ballot-demand-meritless-wsj-wins-dismissal-of-suit",
+      "pubDate": "2026-11-01T00:35:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "South Korea Exports Extend Robust Growth as Chip Boom Continues",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+      "pubDate": "2026-11-01T00:25:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "California governor asks US judges to resist Trump attempts to seize ballots",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5",
+      "pubDate": "2026-11-01T00:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Antonelli says title pressure made him more tense",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFdxN1RqQUpzZWF3WTFxblRBRkJnUjRyWDhJRjVmLWRpM1EwWGk5Q2V2QjRfZXpOM0dqamdhYjMzVFNQYWdrT0d4UGdCc2FlYlJXb21xZkRPRE4zYkROOENPWEhPUEdON0paMndlRVREXzNhV0VoZ2VLRkNOeVY2bVc3SUtlazJGRWcwVzhVYy1lMi1tVG8zS3hpT1BUa2Y1R2JV?oc=5",
+      "pubDate": "2026-10-31T23:38:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Alaska Says Trump Demand Meritless, Trump’s WSJ Suit Dismissed",
+      "link": "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-trump-demand-meritless-trump-s-wsj-suit-dismissed",
+      "pubDate": "2026-10-31T23:16:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Mamdani Says Trump Agrees to Visa for Mother of Slain Bronx Teen",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/mamdani-says-trump-agrees-to-visa-for-mother-of-slain-bronx-teen",
+      "pubDate": "2026-10-31T22:44:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Ферари изненада фаворитите във Формула 1 и грабна полпозишън за Гран При на Мексико",
+      "link": "https://www.actualno.com/moresport/ferari-iznenada-favoritite-vyv-formula-1-i-grabna-polpozishyn-za-gran-pri-na-meksiko-news_2657270.html",
+      "pubDate": "2026-10-31T22:24:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/0f181ffa30acac5563d7081bcbd3b5ca_2657270_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
+    {
+      "title": "Средняк в Испания отнесе гнева на Барселона след двете поредни загуби",
+      "link": "https://www.actualno.com/football/srednjak-v-ispanija-otnese-gneva-na-barselona-sled-dvete-poredni-zagubi-news_2657269.html",
+      "pubDate": "2026-10-31T21:58:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/31/595e973ac123d6efba4ffd2ad3362311_2657269_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T01:00:07.866Z"
+    },
     {
       "title": "Милан изнесе лекция на Интер за едно полувреме на \"Сан Сиро\"",
       "link": "https://www.actualno.com/football/milan-iznese-lekcija-na-inter-za-edno-poluvreme-na-san-siro-news_2657267.html",
