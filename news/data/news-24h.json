@@ -1,9 +1,610 @@
 {
   "windowStart": "2026-10-31T16:31:17.276Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-01T04:00:06.759Z",
-  "totalItems": 115,
+  "lastUpdated": "2026-11-01T07:00:07.010Z",
+  "totalItems": 163,
   "items": [
+    {
+      "title": "Първи данни за избирателната активност час след началото на вота",
+      "link": "https://www.actualno.com/society/pyrvi-danni-za-izbiratelnata-aktivnost-chas-sled-nachaloto-na-vota-news_2657312.html",
+      "pubDate": "2026-11-01T06:50:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/8445a9a00f906bd2d219c9f2f8f322db_2657312_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+      "pubDate": "2026-11-01T06:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "От ДБ подават сигнали за купване на гласове в Ловеч, Добрич, Бургас, Стара Загора",
+      "link": "https://clubz.bg/181261",
+      "pubDate": "2026-11-01T06:47:25.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/akcia2~3.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Грабежи и погром след младежки протести в Германия",
+      "link": "https://www.mediapool.bg/svyat/grabezhi-i-pogrom-sled-mladezhki-protesti-v-germaniya/",
+      "pubDate": "2026-11-01T06:46:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Ивайло Мирчев: Увеличават се сигналите за купуване на гласове",
+      "link": "https://www.dnevnik.bg/politika/2026/11/01/4974462_ivailo_mirchev_uvelichavat_se_signalite_za_kupuvane_na/?ref=rss",
+      "pubDate": "2026-11-01T06:41:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974461.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Акция Зима започва в цялата страна, гумите с протектор поне 4 мм от 15 ноември",
+      "link": "https://offnews.bg/obshtestvo/aktcia-zima-zapochva-v-tcialata-strana-gumite-s-protektor-pone-4-mm-o-877598.html",
+      "pubDate": "2026-11-01T06:38:50.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877598/phpmiwsob_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Вяло и дъждовно: Изборният ден започна",
+      "link": "https://www.actualno.com/society/vjalo-i-dyjdovno-izbornijat-den-zapochna-news_2657307.html",
+      "pubDate": "2026-11-01T06:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/21669b2d6ea342e253ffe26df568dec7_2657307_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Изборите започнаха – спрели машини, проблеми в комисиите, слаба активност, спокойна обстановка",
+      "link": "https://frognews.bg/novini/izborite-zapochnaha--spreli-mashini-problemi-komisiite-slaba-aktivnost-spokoina-obstanovka.html",
+      "pubDate": "2026-11-01T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/e86d07b87_1793514878_6ae6dd7ebba37.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "\"Има значителни щети\": Рафинерия на \"Лукойл\" гори, руски губернатор го признава и казва за 100 свалени дрона (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ima-znachitelni-shteti-rafinerija-na-lukojl-gori-ruski-gubernator-go-priznava-i-kazva-za-100-svaleni-drona-video-news_2657306.html",
+      "pubDate": "2026-11-01T06:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/01/d0769ee8e7de168745f24be7534b3f80_2657306_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "\"Децата са важна част от нашата публика\": нов арт център беше открит в Панагюрище",
+      "link": "https://www.dnevnik.bg/kultura/2026/11/01/4972334_decata_sa_vajna_chast_ot_nashata_publika_nov_art/?ref=rss",
+      "pubDate": "2026-11-01T06:27:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973106.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Тръмп: САЩ имат \"да се погрижат за още един-два обекта\" в Иран",
+      "link": "https://www.mediapool.bg/blizak-iztok/tramp-sasht-imat-da-se-pogrizhat-za-oshte-edin-dva-obekta-v-iran/",
+      "pubDate": "2026-11-01T06:22:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
+      "link": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T06:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Изборният ден започна нормално, но с няколко дефектирали машини",
+      "link": "https://www.dnevnik.bg/politika/2026/11/01/4974459_izborniiat_den_zapochna_normalno_no_s_niakolko/?ref=rss",
+      "pubDate": "2026-11-01T06:17:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974458.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Обявен е жълт код за обилни валежи в 18 области в изборния ден",
+      "link": "https://boulevardbulgaria.bg/articles/obyaven-e-zhalt-kod-za-obilni-valezhi-v-18-oblasti-v-izborniya-den",
+      "pubDate": "2026-11-01T06:14:43.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkwNzMsInB1ciI6ImJsb2JfaWQifX0=--3930e3e1417876e3244b9a7f4db004cd866fb58c/%D0%94%D1%8A%D0%B6%D0%B4.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Как започна денят на избора в Кърджали и в Турция",
+      "link": "https://clubz.bg/181260",
+      "pubDate": "2026-11-01T06:12:47.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/1000104647~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Калоян Стайков: Колкото и да поскъпне газът в България, ще е по-евтин от борсовия",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/01/4973905_kaloian_staikov_kolkoto_i_da_poskupne_gazut_v/?ref=rss",
+      "pubDate": "2026-11-01T06:10:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973996.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "ФБР обвини Северна Корея за кражбата на милиарди долари от Binance",
+      "link": "https://www.mediapool.bg/svyat/fbr-obvini-severna-koreya-za-krazhbata-na-miliardi-dolari-otbinance/",
+      "pubDate": "2026-11-01T06:08:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Българин спечели злато на световното първенство по канадска борба",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/01/4974454_bulgarin_specheli_zlato_na_svetovnoto_purvenstvo_po/?ref=rss",
+      "pubDate": "2026-11-01T06:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974453.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Shnaider downs Fernandez in Pan Pacific Open final in Tokyo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJPd2d4dDRqSXBqT0E2RVIxTmx1SktyUW56eDZMa1VJb2RTbWlsclNuU2tpUFBBWWlWc3c2ZFhoNFZfWUVkN0Q1cE5YMzFPSkVfeDh1YVlnZUhUUDhxN0ZMc3lJclR0MEMway16ekQxaU1jUnZfVDFGREg5d0wzUXhMSHZfZjN0MEpUOGp1bnVwend5QXQ3empzb3p0aDFUcExmd2N3?oc=5",
+      "pubDate": "2026-11-01T06:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "20 въпроса | Биляна Казакова, актрисата, която може да превърне всяко място в дом",
+      "link": "https://www.capital.bg/moiat_capital/lica/2026/11/01/4971790_20_vuprosa_biliana_kazakova_aktrisata_koiato_moje_da/?ref=rss",
+      "pubDate": "2026-11-01T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4973943.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Power Profit разширява енергийната си карта – от батериите до дейта центровете",
+      "link": "https://www.capital.bg/biznes/energetika/2026/10/01/4963672_power_profit_razshiriava_energiinata_si_karta_ot/?ref=rss",
+      "pubDate": "2026-11-01T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4963671.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "25 години Sensata в България: от първата прототипна линия до глобален технологичен център",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/01/4962963_25_godini_sensata_v_bulgariia_ot_purvata_prototipna/?ref=rss",
+      "pubDate": "2026-11-01T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4962957.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Защо LNG е ключов за енергийната сигурност и конкурентоспособността на Европа",
+      "link": "https://www.capital.bg/biznes/energetika/2026/10/01/4962620_zashto_lng_e_kljuchov_za_energiinata_sigurnost_i/?ref=rss",
+      "pubDate": "2026-11-01T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4962622.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Илияна Йотова или Андрей Гюров: вторият тур на президентските избори започна (блог)",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/01/4974413_iliiana_iotova_ili_andrei_gjurov_vtoriiat_tur_na/?ref=rss",
+      "pubDate": "2026-11-01T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4974415.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Кражбата на крипто за милиарди от Binance е дело на севернокорейски хакери, обяви ФБР",
+      "link": "https://offnews.bg/sviat/krazhbata-na-kripto-za-miliardi-ot-binance-e-delo-na-severnokorejski-h-877597.html",
+      "pubDate": "2026-11-01T05:57:07.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877597/php7rfaau_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+      "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T05:56:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Избираме на балотаж президент и вицепрезидент. Гласуването започна",
+      "link": "https://www.mediapool.bg/prezidentski-izbori-2026/izbirame-na-balotazh-prezident-i-vitseprezident-glasuvaneto-zapochna/",
+      "pubDate": "2026-11-01T05:55:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "1 ноември: Ден на народните будители",
+      "link": "https://www.actualno.com/society/1-noemvri-den-na-narodnite-buditeli-news_2655917.html",
+      "pubDate": "2026-11-01T05:45:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/10/28/31332edcaa728f4879e3e1e5c666e187_2655917_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Марко Рубио: Ударите в Черно море застрашават продоволствената и енергийната сигурност в света",
+      "link": "https://boulevardbulgaria.bg/articles/marko-rubio-udarite-v-cherno-more-zastrashavat-prodovolstvenata-i-energiynata-sigurnost-v-sveta",
+      "pubDate": "2026-11-01T05:42:32.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjczODU1LCJwdXIiOiJibG9iX2lkIn19--a52c97efef6b9890ee88bdc7b67cee8047621969/Marco%20Rubio.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Стотици хиляди на протести във Франция и Германия, има задържани и ранени",
+      "link": "https://offnews.bg/sviat/stotitci-hiliadi-na-protesti-vav-frantcia-i-germania-ima-zadarzhani-i-877596.html",
+      "pubDate": "2026-11-01T05:23:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877596/phpjag6wm_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Дъжд и гръмотевици в неделния ден",
+      "link": "https://frognews.bg/novini/dajd-gramotevitsi-nedelniia-den.html",
+      "pubDate": "2026-11-01T05:23:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/ddc0ecedd_1793510814_6ae6cd9e5de94.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+      "pubDate": "2026-11-01T05:14:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Честваме Деня на народните будители",
+      "link": "https://offnews.bg/obshtestvo/chestvame-denia-na-narodnite-buditeli-877595.html",
+      "pubDate": "2026-11-01T05:14:38.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877595/phpakmeml_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Удряме още 1-2 обекта и приключваме с Иран, каза Тръмп",
+      "link": "https://offnews.bg/sviat/udriame-oshte-1-2-obekta-i-prikliuchvame-s-iran-kaza-tramp-877594.html",
+      "pubDate": "2026-11-01T05:11:27.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/01/877594/phptkcoox_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Germany must do more to boost gas reserves as storage levels hit record low, lobby group says",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzBFS0hhWUtOcVhOMDVsX25TV3R4eENLbjdCMUpDRDByYTBHWjU3MmtycmM2blh4Y1Y3V2t6SUhIODJidldfcjNOdG0zVHRNdVFWdXZKWVhJeWdFWE9LaDA1MnJlbk1vaC1qLUpuZWU0WERCckY3Nk4tLUhHcnNFZ1pJdzJYRTFxWFl4cjRTNG53QmxkSDAxUUd2NjdnRUhOTDBhbUx5eUppU3Q4Vmh0aFExRlVRTUJzUGl1aWgySFZtRjlnb1E?oc=5",
+      "pubDate": "2026-11-01T05:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Избираме седмия президент на балотаж",
+      "link": "https://clubz.bg/181259",
+      "pubDate": "2026-11-01T05:02:06.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/prezidentstvo-dondukov-2-prezident-bta~4.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Сълза за Деня на народните будители",
+      "link": "https://frognews.bg/novini/salza-denia-narodnite-buditeli.html",
+      "pubDate": "2026-11-01T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1d1c1214f_1793480094_6ae6559ed00e4.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Балотаж за президент – как гласуваме",
+      "link": "https://frognews.bg/novini/balotaj-prezident--kak-glasuvame.html",
+      "pubDate": "2026-11-01T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/bf0341d67_1793479753_6ae6544969c3e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Гласуването за балотажа започна още снощи по българско време в Окланд",
+      "link": "https://frognews.bg/novini/glasuvaneto-balotaja-zapochna-oshte-snoshti-balgarsko-vreme-okland.html",
+      "pubDate": "2026-11-01T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/530ede526_1793479938_6ae65502488df.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Ukraine-Skeptic Faces Challenge in Bulgarian Vote: What to Watch",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/ukraine-skeptic-faces-challenge-in-bulgarian-vote-what-to-watch",
+      "pubDate": "2026-11-01T05:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/binance-to-resume-customer-withdrawals-in-phases-after-hack",
+      "pubDate": "2026-11-01T04:59:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdSaWg1UnpYNmhtY1BWZzdiV2EyLUVQb3dKWC1vRGtHNzdFUTVsMjh1dUthY3lKWHd1d1JXTnNtRFNDUzVHY1BkS2J6emlQV0oyVmxFeHJEY21lVkIyeS03OEFjT2hWUEIwc0NOMm1QODBNS2ZFcGdaZmgyLTBwZmN4S0tPdnVpbmZpR2hraTkxVXFLQVY2eUdjdWxWTlRRa29vTEh4N3NpZDgwSEVxRUNUNURrNmd2MVNIbVBnNWNfdw?oc=5",
+      "pubDate": "2026-11-01T04:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "дроове Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TUlMzZWVYWWpCOTV2VU5ncmVLZWpmVHB3clVfeHFVekVwN29ERUN5RjBUeDJpbF8zdnRONnpOWThETmFZOFlKYjdNOEhiZw?oc=5",
+      "pubDate": "2026-11-01T04:21:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Indian authorities tighten security ahead of big opposition march in Delhi",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
+      "pubDate": "2026-11-01T04:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Australia Home Auction Clearance Rate Falls to Six-Year Low",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low",
+      "pubDate": "2026-11-01T04:01:17.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Как, къде и до колко часа гласуваме на балотажа за президент на 1 ноември?",
+      "link": "https://boulevardbulgaria.bg/articles/kak-kade-i-do-kolko-chasa-glasuvame-na-balotazha-za-prezident-na-1-noemvri",
+      "pubDate": "2026-11-01T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMTkxLCJwdXIiOiJibG9iX2lkIn19--d7df5dbe3ad76bb3b613e6f5dfa91eca801472d0/%D1%83%D1%80%D0%BD%D0%B0_%D0%B1%D1%8E%D0%BB%D0%B5%D1%82%D0%B8%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%B5.JPG"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "pubDate": "2026-11-01T03:48:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
+    {
+      "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+      "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-01T03:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-01T07:00:07.010Z"
+    },
     {
       "title": "Кой има имен ден днес, 1 ноември 2026 г. Честито!",
       "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-1-noemvri-2026-g-chestito-news_2657266.html",
