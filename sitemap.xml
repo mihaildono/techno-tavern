@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.technotavern.com/</loc>
-    <lastmod>2026-11-04T16:00:08.741Z</lastmod>
+    <lastmod>2026-11-04T16:30:08.540Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.technotavern.com/obzor/</loc>
-    <lastmod>2026-11-03T16:31:54.798Z</lastmod>
+    <lastmod>2026-11-04T16:30:47.913Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.technotavern.com/obzor/2026-11-04/</loc>
+    <lastmod>2026-11-04T16:30:47.913Z</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.technotavern.com/obzor/2026-11-03/</loc>
