@@ -1,9 +1,716 @@
 {
   "windowStart": "2026-11-03T16:31:56.526Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-04T04:00:10.772Z",
-  "totalItems": 130,
+  "lastUpdated": "2026-11-04T07:00:10.717Z",
+  "totalItems": 187,
   "items": [
+    {
+      "title": "Мини взривиха четири петролни танкера в Ормузкия проток",
+      "link": "https://frognews.bg/novini/mini-vzriviha-chetiri-petrolni-tankera-ormuzkiia-protok.html",
+      "pubDate": "2026-11-04T06:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f057895ba_1793775180_6aead64c8e79e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Democrats Vanquish Republicans to Reassert Dominance in New York",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-vanquish-republicans-to-reassert-dominance-in-new-york",
+      "pubDate": "2026-11-04T06:54:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Изборите в САЩ си поиграха с цената на петрола",
+      "link": "https://www.actualno.com/economy/izborite-v-sasht-si-poigraha-s-cenata-na-petrola-news_2658644.html",
+      "pubDate": "2026-11-04T06:54:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/85e75ff38adbc78f9e4a37e895630b1b_2658644_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Украинските власти обвиниха бившата прессекретарка на Зеленски в измяна",
+      "link": "https://offnews.bg/sviat/ukrainskite-vlasti-obviniha-bivshata-pressekretarka-na-zelenski-v-izmi-877818.html",
+      "pubDate": "2026-11-04T06:53:10.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877818/phpyh63nk_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Нов арест в Сърбия. Задържаха директора на метеорологичния институт",
+      "link": "https://offnews.bg/sviat/nov-arest-v-sarbia-zadarzhaha-direktora-na-meteorologichnia-institut-877817.html",
+      "pubDate": "2026-11-04T06:50:35.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877817/phpdyec1v_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "\"Американците гласуват според джоба си\": Анализатори разчитат знаците от междинните избори в САЩ",
+      "link": "https://www.actualno.com/america/amerikancite-glasuvat-spored-djoba-si-analizatori-razchitat-znacite-ot-mejdinnite-izbori-v-sasht-news_2658640.html",
+      "pubDate": "2026-11-04T06:43:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/e9b77a476f704b59207d8387f6a83b74_2658640_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Млекопреработвателите настояват за компенсации за тока при цена над 100 евро за мегаватчас",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/04/4976066_mlekoprerabotvatelite_nastoiavat_za_kompensacii_za/?ref=rss",
+      "pubDate": "2026-11-04T06:42:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_2727235.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Дано да е фалшива новина: КНСБ и АИКБ за вноските за пенсии. Натиск за компенсации за бизнеса заради газа",
+      "link": "https://www.actualno.com/finance/dano-da-e-falshiva-novina-knsb-i-aikb-za-vnoskite-za-pensii-natisk-za-kompensacii-za-biznesa-zaradi-gaza-news_2658639.html",
+      "pubDate": "2026-11-04T06:42:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/65e9f5843c3aad733e3ab1698df3476a_2658639_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Novo Boosts Forecast as Wegovy Pill Beats Estimates",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-04/novo-boosts-forecast-as-wegovy-pill-beats-estimates",
+      "pubDate": "2026-11-04T06:40:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Democrats Sweep to Control of Congress in Rebuke of Trump",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-04/democrats-sweep-to-control-of-congress-video",
+      "pubDate": "2026-11-04T06:39:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Гумените мемета",
+      "link": "https://www.actualno.com/actualno/gumenite-memeta-news_2657933.html",
+      "pubDate": "2026-11-04T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/02/c35dab006f77244d780aab0e46566529_2657933_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "\"Как стигнахме дотук?\": Тръмп се тюхкал пред съветници още преди разгрома, те му посочиха единствения виновник",
+      "link": "https://www.actualno.com/america/kak-stignahme-dotuk-trymp-se-tuhkal-pred-syvetnici-oshte-predi-razgroma-te-mu-posochiha-edinstvenija-vinovnik-news_2658637.html",
+      "pubDate": "2026-11-04T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/d4b24d52358216e9583ec7cb7998c87d_2658637_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Republican Ricketts Wins Nebraska Senate Race, DDHQ Projects",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-04/republican-ricketts-wins-nebraska-senate-race-ddhq-projects",
+      "pubDate": "2026-11-04T06:35:45.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "El-Sayed Wins Michigan, Democrats Take Control of Congress, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-04/el-sayed-wins-michigan-democrats-take-control-of-congress-more",
+      "pubDate": "2026-11-04T06:35:40.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us",
+      "link": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T06:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "US midterms: Democrats gain control of House and Senate from Republicans",
+      "link": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T06:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Арести в Сърбия: Прибраха и шефа на хидрометеорологичния институт",
+      "link": "https://frognews.bg/novini/aresti-sarbiia-pribraha-shefa-hidrometeorologichniia-institut-2026-11-04.html",
+      "pubDate": "2026-11-04T06:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3b3230ce9_1793773463_6aeacf97e6960.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Бедственото положение в Шабла остава в сила",
+      "link": "https://offnews.bg/112/bedstvenoto-polozhenie-v-shabla-ostava-v-sila-877816.html",
+      "pubDate": "2026-11-04T06:24:49.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877816/phpcvfmn7_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Испанският министър на транспорта подаде оставка след жп катастрофата с десетки жертви",
+      "link": "https://www.dnevnik.bg/sviat/2026/11/04/4976058_ispanskiiat_ministur_na_transporta_podade_ostavka_sled/?ref=rss",
+      "pubDate": "2026-11-04T06:19:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976055.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Ремонт затваря пътя София-Перник в района на Владая",
+      "link": "https://offnews.bg/obshtestvo/remont-zatvaria-patia-sofia-pernik-v-rajona-na-vladaia-877814.html",
+      "pubDate": "2026-11-04T06:17:08.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877814/phpyj2ipn_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Пазарът на хранителни добавки и отговорната грижа за здравето",
+      "link": "https://www.mediapool.bg/biznes-na-fokus/pazarat-na-hranitelni-dobavki-i-otgovornata-grizha-za-zdraveto/",
+      "pubDate": "2026-11-04T06:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "19-годишен ;Фитипалди; помля три паркирани коли в София",
+      "link": "https://clubz.bg/181405",
+      "pubDate": "2026-11-04T06:16:23.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/image001~4.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "От монашески пипер до пуешка опашка: как БАБХ контролира 86 000 добавки на пазара",
+      "link": "https://www.mediapool.bg/biznes-na-fokus/ot-monasheski-piper-do-pueshka-opashka-kak-babh-kontrolira-86-000-dobavki-na-pazara/",
+      "pubDate": "2026-11-04T06:16:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "САЩ търсят производители за над 1000 иновативни крилати ракети за Украйна",
+      "link": "https://frognews.bg/novini/sasht-tarsiat-proizvoditeli-nad-1000-inovativni-krilati-raketi-ukraina.html",
+      "pubDate": "2026-11-04T06:15:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/84244f495_1793772466_6aeacbb208fbb.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "„Файненшъл таймс“: Междинните избори може да са началото на политическия край на Тръмп",
+      "link": "https://clubz.bg/181404",
+      "pubDate": "2026-11-04T06:13:43.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/prezidentat-donald-tramp-govori-pred-memoriala-na-linkaln-na-2-noemvri-2026-g.-vav-vashington.-ap-bta~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "България въвежда право да бъдеш забравен 10 г. след лечение от рак. Как е на други места в Европа?",
+      "link": "https://www.mediapool.bg/pulse/bulgaria-vavezhda-pravo-da-badesh-zabraven-10-g-sled-lechenie-ot-rak-kak-e-na-drugi-mesta-v-evropa/",
+      "pubDate": "2026-11-04T06:12:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Инвеститорите очакват политически блокаж и засилен надзор над любими в момента сектори",
+      "link": "https://www.dnevnik.bg/sviat/2026/11/04/4976047_investitorite_ochakvat_politicheski_blokaj_i_zasilen/?ref=rss",
+      "pubDate": "2026-11-04T06:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976057.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "АПИ затваря пътя през Владая за 20 дни",
+      "link": "https://www.mediapool.bg/bulgaria/api-zatvarya-patya-prez-vladaya-za-20-dni/",
+      "pubDate": "2026-11-04T06:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Намерено е числото \"π\" на драмата с бюджета. И какво от това?",
+      "link": "https://www.mediapool.bg/civitates/namereno-e-chisloto-na-dramata-s-byudzheta-i-kakvo-ot-tova/",
+      "pubDate": "2026-11-04T06:02:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Самолет на Air Serbia до Москва със сръбски политици на борда се върна извънредно в Белград",
+      "link": "https://boulevardbulgaria.bg/articles/samolet-na-airserbia-do-moskva-sas-srabski-polititsi-na-borda-se-varna-izvanredno-v-belgrad",
+      "pubDate": "2026-11-04T06:01:48.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1MDgwLCJwdXIiOiJibG9iX2lkIn19--8455f2b9d9489150dcf236252d18d0d73226b1f5/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%8A%D1%80%20%D0%B2%D1%83%D0%BB%D0%B8%D0%BD.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Ottobock, или невромодулация в костюма Exopulse Mollii Suit",
+      "link": "https://www.dnevnik.bg/biznes/companii/2026/11/04/4975330_ottobock_ili_nevromodulaciia_v_kostjuma_exopulse/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4975323.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Светът на хокея бойкотира Русия",
+      "link": "https://frognews.bg/novini/svetat-hokeia-boikotira-rusiia.html",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1aaa850ab_1793771766_6aeac8f66bf73.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Viber за напреднали: 4 настройки, които си струва да знаете",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/04/4973332_viber_za_naprednali_4_nastroiki_koito_si_struva_da/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4973331.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "От \"Телелинк\" към Enlayer: защо компанията променя името си след 25 години",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/04/4963604_ot_telelink_kum_enlayer_zashto_kompaniiata_promenia/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4963600.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Битката за внимание в ерата на неограничения избор",
+      "link": "https://www.capital.bg/biznes/media_i_reklama/2026/11/04/4964112_bitkata_za_vnimanie_v_erata_na_neogranicheniia_izbor/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4964108.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "От умния дом към интелигентните пространства",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/04/4958342_ot_umniia_dom_kum_inteligentnite_prostranstva/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4958348.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Югоизточна Европа може да ускори прехода към бъдеще без дим",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/04/4964028_jugoiztochna_evropa_moje_da_uskori_prehoda_kum/?ref=rss",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4969207.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "India news: Election body opens door for voter reinclusion",
+      "link": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T05:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Млад дипломат за 890 евро? Защо служителите във Външно министерство са в готовност за протест",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclNlamkxUDVuRHpFYUV6UXVvUVpwb1o3QjVGR1VDbFlVNzFoSEp2Zmx1ZkVmWk82M0M4MlF4YlFma0cwb3dXcVNKMlJkd1BocldyVVBiZW43N0RDNHNDNVNmT2h0QmNnVHRMX284VVc1Y3d4WmRxb3F6Vy10TWJQWW9tbzliMGhHeUNRQnp1Mlowdm16VElRY0NlMllBYWUtaDlkRmtpYXpwMHNyN3dVdFY4cHhsMlVCWlMyd3JCcXBmczdHMnlRc3ZHOA?oc=5",
+      "pubDate": "2026-11-04T05:57:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Три минути: Кабинетът “Радев” отблъсква атаки за все още тайния бюджет. Тръмп загуби Конгреса",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGFadF96Q2NCdjZGN0REMVg0dEtSc0V4UmU0TmRyR0tVQnF5OFdWeVhTM09ZTExxMUp5cGF3UHdrNWtOWGx0TjhqMEIyNld1VnF3bnBqUVg4MzhER3Fwai15a1JXR25QWHcwR3RxaDhjWW55UC1PeVZOcy12bjJvTGUyLTlrZDhHcFhTT1ZVOC1sRlJZeXY2dGFKdUxnWnh2X2dNSTJBTXB6RnhwWDJfWWFReUFKbDVFdUNpdHBhNzlIa2JJUHF0cHlNY3A?oc=5",
+      "pubDate": "2026-11-04T05:57:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "За пръв път открито хомосексуален мъж ще е сенатор",
+      "link": "https://www.dnevnik.bg/sviat/2026/11/04/4976046_za_pruv_put_otkrito_homoseksualen_muj_shte_e_senator/?ref=rss",
+      "pubDate": "2026-11-04T05:54:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976045.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Млекопреработватели искат компенсации за тока с цена над 100 евро за мегаватчас през 2027–2029 г.",
+      "link": "https://offnews.bg/sviat/mlekoprerabotvateli-iskat-kompensatcii-za-toka-s-tcena-nad-100-evro-za-877813.html",
+      "pubDate": "2026-11-04T05:51:51.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877813/php5t22b3_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Оранжев и жълт код за порои в 12 области днес",
+      "link": "https://clubz.bg/181403",
+      "pubDate": "2026-11-04T05:51:18.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/dji_0061-1-01~6.jpeg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Частичното бедствено положение в Шабла остава, учениците във Варна се връщат в клас",
+      "link": "https://frognews.bg/novini/chastichnoto-bedstveno-polojenie-shabla-ostava-uchenitsite-vav-varna-vrashtat-klas.html",
+      "pubDate": "2026-11-04T05:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8d96d6bf7_1793771035_6aeac61b3c543.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Гответе се за ;тапи;: от днес започва ремонт на 5 км участък от пътя София – Перник при Владая",
+      "link": "https://clubz.bg/181402",
+      "pubDate": "2026-11-04T05:47:48.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/sop1~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "37 години след края на режима. Ще има ли България първия си музей на комунизма",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1g5WFV2X3JQeDRUYXhwdnl5YVIxTnlYZnp6Mjc4bTJ2T3Q1c1pYbGFqZWt5N0phdWlraFdGVDVKbUkzTjNOWmV4b2ZENlgtaURJOUxGMl9UZzNidzBTNHpNdU1IclpaSEZRREx4SVhKaHdsZjNodVlXSnMwaVNUZTFFRUFTWmxmUDEteXJVMW5LQ1cwaFVTU2NLWjZKZE0xRk1yR09DanpDMDRvY1pHY0dCblhzR3UwbWc?oc=5",
+      "pubDate": "2026-11-04T05:46:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Morning Bid: Markets fret blue wave will drown data centres",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5",
+      "pubDate": "2026-11-04T05:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "- DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQeEtmSDJoTUU1Wk9CcWdLajR6Um9VN095OHlfWF9wUFdySzNWeXlXWkQyUkpMelRSYjBLTnNVRjA5bEFWV0NLQUE3WHQ4MWk0d3NFSTQ3Tzk4d3l6QjYyQk9uSENtN2VfVVZzSFFrTzRxa0hBZzRoWHVjRXFzekNDYkYybzJIa3JyMnRBZXYtQnQ1TzdIc29hbUo1MnNGaG9wMXlPYkpfUmdaVTZKZEt6cGZOS0JOMGFMeWQ3cEF1TWd6RzVuSFd3XzEtcjc0UlV1Y3FoUDlmS0xBaEZLTXF4dXotU29sOWtGS2lZdThEMXlyMXNEYlRnRnNsRlZEeDlKZzluU2NkX0JQVVNWZXJiMHVCN2hQN3JjWWVZS0I5Z0pTcWhlVUhTNFJVSmhPSG9JNDhocVNPM1V4ejlDTnNTUVpZbFA3WVNDM1NHdWwyc0pPRXVYNk9MY3dRWmNFQ2tZdGJucEQyNDNmOE1lVVp0YjRhbUpVclgzWVdCMzVCNjkzMXdWSEZkNV92UUI5djlHbTFhWEtLak5QYjd4aDl2Zm1IbmhqUVdl?oc=5",
+      "pubDate": "2026-11-04T05:34:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Демократите превзеха Сената и нанесоха тежък удар на Тръмп",
+      "link": "https://clubz.bg/181401",
+      "pubDate": "2026-11-04T05:32:03.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/kapitolii-ap-bta.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdG0ybGo0Uk5jbjBxSEtwVGVBcVBCZWJEc0xRb09Nby1KRFl3N0ozLVB2VVMtNXF2RXpmdVFWS2luZGtBcm9ibHN1NW52MXZ2ell3NWp0MDVNeUlUWmlIMGdGQ1lfWTdaYkhfUzVnZFRlQ01UUWRnU0ZOTVVIeExvZzFQTHJOY2d5YU9oS0M0bUlmNHBpaXRwcnk4cE9WR3hPcVd4QWZqVThxS1VLNExXcw?oc=5",
+      "pubDate": "2026-11-04T05:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Демократите си връщат контрол върху Конгреса на изборите в САЩ",
+      "link": "https://boulevardbulgaria.bg/articles/demokratite-si-varnaha-kontrol-varhu-kongresa-na-izborite-v-sasht",
+      "pubDate": "2026-11-04T05:25:19.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1MDY5LCJwdXIiOiJibG9iX2lkIn19--1f1b5f0d226e84028528b2c1ab25fe515f9b38ec/james%20talarico.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Chinese court hears COVID defamation case against US state of Missouri",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3hObTZxWjV1UTFDbWx3ZWR4b01VZTVDVEN4Z3JDVmstSnhGcVlCcm05WGpJNTROdUxzUmFrUU5sb0JubktqOEhhQmY5OUpUUWhKdzV3N25wcUFTcGg0aU8tcksteGRtSzBZSWFsdm5wWTMzYVZaOEIxV3REMmptSnpWMm5VZHFsLV9kR09NaWNPamwwMUhQVzdwM2dGWGtlVmNmYTU4S2EwTkl0SUxGSmhxbm1JeXQ5emVITw?oc=5",
+      "pubDate": "2026-11-04T05:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
+      "link": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T05:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Cruise ship leaves Cambodia after forcing hundreds of passengers off",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FLZ1d4Y3ZRdzdYaWZFNTBGVk8tckc2ZlJHOTI3NVpkdjZiTjQ1RHRySGJlS3VsMmg1bmw0Wnd2ZkNFTVpGS1RBWElTYjh5MHBsaUFLckQtWkQxdE56YlJIeUN2QkRqejFJazlKVHB5NVFLSjdGN3NQdkNmc3BuTlZSVm9MNnU3WFZsLWVDSGw5NjdXNTNwNkh3bnhWdWZ0OVB4bC1ROXk1U09uTFZlMm1wQnZxWGFDSUVPdw?oc=5",
+      "pubDate": "2026-11-04T05:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Trump acknowledges Iran role in Democratic sweep",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekxLRjk1cjhWRGpWMThYYTlLVXFRZDRBLWZqTVFtZHVIejNuRnZ0TE9CVzUwcFN0VmdaMjRIYlQ0Vmt0RjV1aUp3YUx5RzBCbDVKcUprZGE0S3JxOWhNbEVTTGhWOVFkc0NQN0RqZE56UXBqai1Bc3NaOWJmaHhSQzhVSzJYaXZSQ21ZUHZqaTlXczlETEhoelhpRno4Vmp0eGdJLWNBSEZFUQ?oc=5",
+      "pubDate": "2026-11-04T05:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Цензурира ли БНТ филм за \"Българския Чернобил\"?",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXd0OElGRzVPMTlyTkV6U0F3Tk1nQ0lrUkN0SW9vc1J2NkpHQnFhSFdlOEh4ZXNUbUZTcUNkNGFiZGZqbUhYeEtLdlBFVDdiQ0FtRGdaaWdoMlZKYmhucDcwTkdLREVwUmlYU2x3eG5oelp1ZEtUNFNDZ0stZFdnODVn0gGCAUFVX3lxTE5pd3Q4SUZHNU8xOXJORXpTQXdOTWdDSWtSQ3RJb29zUnY2SkdCcWFIV2U4SHhlc1RtRlNxQ2Q0YWJkZmptSFh4S0t2UEVUN2JDQW1EZ1ppZ2gyVkpiaG5wNzBOR0tERXBSaVhTbHd4bmh6WnVkS1Q0U0NnSy1kV2c4NWc?oc=5",
+      "pubDate": "2026-11-04T05:11:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
+    {
+      "title": "Удар за Тръмп: демократите печелят мнозинство и в двете камари в САЩ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObE90anExVHF2bW9jV25VOUduWjRBb3llT21oLXNfT29JUjI2WnFEQS12RmswaUo1eU5XemZfc3hFVmFuaENKTUMyT2pNbmdOZVJCa0p5VGNUQU13MTdsaWdYemVnMUtXNmF6bVBDSlFXY1ZhNmgxdTVXRzZuTGt4LVlTTkVkQk5yY1V6SGNkZXkwY3M3NVVGZlJudVVTYzdWNVpMbA?oc=5",
+      "pubDate": "2026-11-04T04:40:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-04T07:00:10.717Z"
+    },
     {
       "title": "Знаят ли какво подкрепят американците, които харесват \"социализма\"",
       "link": "https://www.dnevnik.bg/sviat/2026/11/04/4975828_znaiat_li_kakvo_podkrepiat_amerikancite_koito_haresvat/?ref=rss",
