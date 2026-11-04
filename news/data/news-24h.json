@@ -1,9 +1,421 @@
 {
   "windowStart": "2026-11-04T16:30:49.387Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-04T19:00:08.222Z",
-  "totalItems": 64,
+  "lastUpdated": "2026-11-04T22:00:08.091Z",
+  "totalItems": 97,
   "items": [
+    {
+      "title": "What the US Midterm Results Mean for the AI Data Center Boom",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/what-the-us-midterm-results-mean-for-the-ai-data-center-boom",
+      "pubDate": "2026-11-04T21:55:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "10 гола в един мач, героични изяви на Холанд и скучен Арсенал в Шампионска лига (РЕЗУЛТАТИ)",
+      "link": "https://www.actualno.com/football/10-gola-v-edin-mach-geroichni-izjavi-na-holand-i-skuchen-arsenal-v-shampionska-liga-rezultati-news_2659055.html",
+      "pubDate": "2026-11-04T21:55:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/f6c426e0ae295a064db6f52bd7295a28_2659055_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video",
+      "pubDate": "2026-11-04T21:54:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "What the Democratic Wave Means For Wall Street and Your Money: Live Q&A",
+      "link": "https://www.bloomberg.com/sessions/2026-11-05/live-q-amp-a-what-the-democratic-win-means-for-the-economy-and-your-money",
+      "pubDate": "2026-11-04T21:52:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Balance of Power: Dems Clinch Big Midterm Wins (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-04/balance-of-power-dems-clinch-big-midterm-wins-podcast",
+      "pubDate": "2026-11-04T21:52:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
+      "pubDate": "2026-11-04T21:47:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Откриха мъртъв министърът на икономиката на Бавария",
+      "link": "https://www.actualno.com/europe/otkriha-myrtyv-ministyryt-na-ikonomikata-na-bavarija-news_2659052.html",
+      "pubDate": "2026-11-04T21:46:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/622ceb97cd7c3996ba74ff6b2ea567d0_2659052_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Democrats' Midterm Wins Bolster AI Shares, French Debt",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-midterm-wins-bolster-ai-shares-french-debt",
+      "pubDate": "2026-11-04T21:37:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Панатинайкос - ЦСКА: Кога и къде да гледаме срещата на \"армейците\" в Лигата на конференциите",
+      "link": "https://www.actualno.com/bgfootball/panatinajkos-cska-koga-i-kyde-da-gledame-sreshtata-na-armejcite-v-ligata-na-konferenciite-news_2659048.html",
+      "pubDate": "2026-11-04T21:29:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/9b9db98bdc69ccac4cc86e5c9e3f95cb_2659048_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "\"Преговорите трябва да напредват с пълна сила\": Зеленски се чу по телефона със Стив Уиткоф и Джаред Къшнър",
+      "link": "https://www.actualno.com/europe/pregovorite-trjabva-da-napredvat-s-pylna-sila-zelenski-se-chu-po-telefona-sys-stiv-uitkof-i-djared-kyshnyr-news_2659051.html",
+      "pubDate": "2026-11-04T21:25:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/dbd2bbfa21b3d21a35a2ce056550794a_2659051_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+      "pubDate": "2026-11-04T21:22:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Trump hand-picked Senate candidates. Republicans paid the price",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUpJMjI3NGRpTVpYMXg5SnVfRGNlMXljMmRFeEtRSWxPTG9iNUFZX3RxY1hfZFN4SFZ6aDVlM0JJQWNpV2pKaVQ4b25VSlVWUTFobEliN2hTMmtEbUVKOGE0RTl5TjBfSU5BNjRZTkN6LWVqWDRPOUxzSWl2NHhpdm9FY2VPS25KV2F0eXp4WWtoVmQ3WWhZXzFHWTI0WV9iNTlLeXdR?oc=5",
+      "pubDate": "2026-11-04T21:21:03.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Левски - Ягелония: Кога и къде да гледаме домакинството на \"сините\" в Лига Европа",
+      "link": "https://www.actualno.com/bgfootball/levski-jagelonija-koga-i-kyde-da-gledame-domakinstvoto-na-sinite-v-liga-evropa-news_2659045.html",
+      "pubDate": "2026-11-04T21:18:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/04/ae4372583957610e4b27fdac9baaf99f_2659045_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+      "pubDate": "2026-11-04T21:01:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Democrats' Senate wins cripple Trump's push to reshape the courts",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VRR2doNWx0Zk9YemxzOEZJbmo0aDdpNTY1OUkxT3NPU0tJcW5RT1d0NmhYUnE1TkJXdTRFX1duQWF5ZXRRbVlCZ3BtZVZyQ2JXM0Roc0NaNWJZY1BGRmllWDEtc0hOSEhWSEluY3lRZWw5MVdnMVRaRmt0czBycmhXRmhELWJSZmRobUdyaUdIS3VjSDEtc3k0UEJVQXpmRUh3bGhxY2pHOFpIeEE?oc=5",
+      "pubDate": "2026-11-04T21:00:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+      "link": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T21:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Мъж беше убит в Сливен, полицията е задържала заподозрян",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/04/4976444_muj_beshe_ubit_v_sliven_policiiata_e_zadurjala/?ref=rss",
+      "pubDate": "2026-11-04T20:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4964856.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "link": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T20:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Давид срещу Голиат: Победната реч на Таларико",
+      "link": "https://offnews.bg/analizi-i-komentari/david-sreshtu-goliat-pobednata-rech-na-talariko-877906.html",
+      "pubDate": "2026-11-04T20:26:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877906/phpf4zmi1_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Ванс хвърли вината за загубата върху войната в Иран, Тръмп не би променил нищо",
+      "link": "https://www.dnevnik.bg/sviat/2026/11/04/4976442_vans_hvurli_vinata_zagubata_vurhu_voinata_v_iran_trump/?ref=rss",
+      "pubDate": "2026-11-04T20:14:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976443.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Бедственото положение в община Шабла е отменено",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/04/4976441_bedstvenoto_polojenie_v_obshtina_shabla_e_otmeneno/?ref=rss",
+      "pubDate": "2026-11-04T20:08:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976440.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "„Те не могат да говорят, ти защо мълчиш“. Протестиращи поискаха по-строги наказания за насилието над животни след смъртта на кучето Кнопа",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV25NdG1PYXFBbUREcjhROHM5bnpvUTl1aEFWQVA1bkRfQkdMUnl3bnB5SU9ac0FyMHl6Ry1wRkFfalMxRHA3WXVhSmlqdERncnVoTjllNXYtdEhGcG5LR0JPOEhzeDh2ZklQTXVndUVuMmFjV3JrV0x1VzNBc1RuMUt4Q1NRa29vMjNWbkZuZm5SYy1oUVd0aHF1NEJQYk1odGZOQllPb0ZaNnhROVNheDh5akZ2YjBpRzNFN2pROTR0WkhwZ0Z3Y2REWUdnWFJfM1dEN1QwaTZVa3BzcUVqeEhNd19VRkRl?oc=5",
+      "pubDate": "2026-11-04T19:47:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "\"Синьо цунами\". Демократите отнеха от Тръмп мнозинството в двете камари на Конгреса на САЩ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1duTlVPcFpjc0JJaE84eDlqQ2pzbEF0dmtZczVkaHQtbW1DVWtTUnowVmhxVmpsUlF3YmNEcnVGLWYzWEU4Y0tUYzh5c0N4Um5DdVptVElOcFozWXo4NjdlRVhFU3owZWF4ZzN6dDk1MVZ0cUFoUGtsT3dhU1VmSlRjckdUNXRwNVFsZU5FRFFnYnBXMjdldm1oNm9GVkwzT1BLc0J5Wk51a3M?oc=5",
+      "pubDate": "2026-11-04T19:42:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Унгария отвори досиетата на 60 хил. агенти",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/04/4976438_ungariia_otvori_dosietata_na_60_hil_agenti/?ref=rss",
+      "pubDate": "2026-11-04T19:41:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976437.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Многолюден протест срещу насилието над животни пред парламента. Адис призова за сурови наказания",
+      "link": "https://frognews.bg/novini/mnogoliuden-protest-sreshtu-nasilieto-nad-jivotni-pred-parlamenta-adis-prizova-surovi-nakazaniia.html",
+      "pubDate": "2026-11-04T19:38:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/1fa136687_1793821144_6aeb89d896dc8.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "36 years later: Hungary opens Communist-era secret service files",
+      "link": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-04T19:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Протест срещу насилието над животни: Защити тези, които не могат да се защитят",
+      "link": "https://offnews.bg/protesti/protest-sreshtu-nasilieto-nad-zhivotni-zashtiti-tezi-koito-ne-mogat-877905.html",
+      "pubDate": "2026-11-04T19:21:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877905/phprudpww_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Емил Дечев: Мястото на прокуратурата е в съдебната система, но с повече контрол",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/04/4976428_emil_dechev_miastoto_na_prokuraturata_e_v_sudebnata/?ref=rss",
+      "pubDate": "2026-11-04T19:21:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976423.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Тръмп след загубата: Войната в Иран си струваше",
+      "link": "https://offnews.bg/sviat/tramp-sled-zagubata-vojnata-v-iran-si-struvashe-877904.html",
+      "pubDate": "2026-11-04T19:07:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/04/877904/phpzjtd8g_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Еврокомисията отказа коментар за пенсионните вноски, оставя решението на България",
+      "link": "https://frognews.bg/novini/evrokomisiiata-otkaza-komentar-pensionnite-vnoski-ostavia-reshenieto-balgariia.html",
+      "pubDate": "2026-11-04T18:56:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/936e2cc8d_1793818710_6aeb80566f2c9.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Бизнесът все пак ще получи компенсация за скъпия ток през октомври",
+      "link": "https://boulevardbulgaria.bg/articles/biznesat-vse-pak-shte-poluchi-kompensatsiya-za-skapiya-tok-prez-oktomvri",
+      "pubDate": "2026-11-04T18:46:20.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1MzM3LCJwdXIiOiJibG9iX2lkIn19--0cfce189d66ce5829847cd4e68405cc98c01e718/%D0%98%D0%B2%D0%B0_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Млад мъж е убит в Сливен, заловен е заподозрян наркодилър",
+      "link": "https://frognews.bg/novini/mlad-maj-ubit-sliven-zaloven-zapodozrian-narkodilar.html",
+      "pubDate": "2026-11-04T18:46:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/d2529d284_1793818014_6aeb7d9eeea2d.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
+    {
+      "title": "Снимка на деня: Унгария отвори досиетата от комунизма",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/11/04/4974821_snimka_na_denia_ungariia_otvori_dosietata_ot_komunizma/?ref=rss",
+      "pubDate": "2026-11-04T15:38:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4976347.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-04T22:00:08.091Z"
+    },
     {
       "title": "Midterm Elections 2026: Voters Reset the Debate on Data Centers and Billionaires",
       "link": "https://www.bloomberg.com/opinion/articles/2026-11-04/midterm-elections-2026-voters-reset-the-debate-on-data-centers-and-billionaires",
