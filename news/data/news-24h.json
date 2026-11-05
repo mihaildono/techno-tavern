@@ -1,9 +1,488 @@
 {
   "windowStart": "2026-11-05T16:30:48.156Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-05T19:00:11.128Z",
-  "totalItems": 63,
+  "lastUpdated": "2026-11-05T22:00:11.065Z",
+  "totalItems": 102,
   "items": [
+    {
+      "title": "ЦСКА изигра пореден добър мач в Европа, но загуби от \"Панатинайкос\"",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/05/4976896_cska_izigra_poreden_dobur_mach_v_evropa_no_zagubi_ot/?ref=rss",
+      "pubDate": "2026-11-05T21:53:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976897.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "ЦСКА се бори до последно в Лигата на конференциите, но си тръгна с празни ръце от Атина",
+      "link": "https://www.actualno.com/bgfootball/cska-se-bori-do-posledno-v-ligata-na-konferenciite-no-si-trygna-s-prazni-ryce-ot-atina-news_2659500.html",
+      "pubDate": "2026-11-05T21:53:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/a348a637e1e3461224265a3831b9475a_2659500_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Markets Reassessing Pace of AI Boom, T. Rowe Price's Wang Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/market-reassessing-pace-of-ai-boom-t-rowe-price-s-wang-video",
+      "pubDate": "2026-11-05T21:51:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Bloomberg Talks: Debbie Wasserman Schultz (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-05/bloomberg-talks-debbie-wasserman-schultz-podcast",
+      "pubDate": "2026-11-05T21:49:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "DraftKings Plunges on 2027 Forecast That Misses Estimates",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
+      "pubDate": "2026-11-05T21:47:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Trump’s Ballroom Takes Precedence Over Inflation, War, Data Centers",
+      "link": "https://www.bloomberg.com/opinion/newsletters/2026-11-05/trump-s-ballroom-takes-precedence-over-inflation-war-data-centers",
+      "pubDate": "2026-11-05T21:47:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Tech Stocks Sink on Investors’ AI Anxiety",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/tech-stocks-sink-on-investors-ai-anxiety",
+      "pubDate": "2026-11-05T21:46:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Trump says Oval Office to become national monument",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmpHaGcydVUtZWxPRVpuc21LWjdwd3VYcUdnRndlOVlTUlNfeHBYWU5yZEJpekt5RzVVZ29EOVo5UDNuM0lQck1BX3RnMTdhOEt4UGY2bXhpajlTZl9lZmR0U1hxeDEwTVhKQTh0c0liNE9zelpYN2xPZzFyUHd6RmM5bFVrQXhVMDZNMWVrcy1LTnM?oc=5",
+      "pubDate": "2026-11-05T21:29:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+      "pubDate": "2026-11-05T21:23:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "\"Сините\" герои се обединиха около едно мнение преди дербито с ЦСКА",
+      "link": "https://www.actualno.com/bgfootball/sinite-geroi-se-obediniha-okolo-edno-mnenie-predi-derbito-s-cska-news_2659496.html",
+      "pubDate": "2026-11-05T21:17:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/4ad469d5bf3aebd1898537ddfa6cc46b_2659496_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Директор в Левски посочи тъжната страна на победата на \"сините\" в Лига Европа",
+      "link": "https://www.actualno.com/bgfootball/direktor-v-levski-posochi-tyjnata-strana-na-pobedata-na-sinite-v-liga-evropa-news_2659494.html",
+      "pubDate": "2026-11-05T21:02:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/f6ff6ac8e4eb9e68829e872e475303b2_2659494_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Радар за икономика: Най-важните новини на 5 ноември 2026 г.",
+      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-5-noemvri-2026-g-news_2659400.html",
+      "pubDate": "2026-11-05T21:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/063d91cf7b3ba4a5529339a00362e827_2659400_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "AI storm dooms tech stocks to $2 trillion decline on darkest day since 2025",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
+      "pubDate": "2026-11-05T20:59:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
+      "pubDate": "2026-11-05T20:58:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Президентът на Парагвай подаде оставка заради банкова криза",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/05/4976892_prezidentut_na_paragvai_podade_ostavka_zaradi_bankova/?ref=rss",
+      "pubDate": "2026-11-05T20:57:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976891.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Без инжекции, но и без алкохол - тайната зад трансформацията на Уейн Рууни",
+      "link": "https://boulevardbulgaria.bg/articles/bez-inzhektsii-no-i-bez-alkohol-taynata-zad-transformatsiyata-na-ueyn-ruuni",
+      "pubDate": "2026-11-05T20:52:43.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1NDg2LCJwdXIiOiJibG9iX2lkIn19--c920a78dd91a662d8b60a6234cbbd49cdb3e5867/%D1%80%D1%83%D1%83%D0%BD%D0%B8%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Фалшиви сигнали за бомби на 27 самолета създадоха хаос за европейски авиокомпании и летища",
+      "link": "https://www.mediapool.bg/evropa/falshivi-signali-za-bombi-na-27-samoleta-sazdadoha-haos-za-evropeiski-aviokompanii-i-letishta/",
+      "pubDate": "2026-11-05T20:49:38.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Украйна настоява за нов договор със САЩ за \"Старшийлд\"",
+      "link": "https://www.actualno.com/europe/ukrajna-nastojava-za-nov-dogovor-sys-sasht-za-starshijld-news_2659488.html",
+      "pubDate": "2026-11-05T20:47:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/d3fe4984383124dced16dce92bcb7dd9_2659488_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Карлос Насар Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WaHZERVZEdEJFeUFYamN5czBJVkZjTUFsdGV3TkpqYTFpbzVPMERDOURPRGp0V3V6WnNKdjZqTTNHQWg0YnVzQU9yNkh5YXJTdmFoeU53?oc=5",
+      "pubDate": "2026-11-05T20:42:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "награда мелания тръмп Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wRVNCa0VnS0M4YlFKOVZreUc4N2NEMGM1cGpRdmJXUmV4TjNoNnFzMkxkZU1ZVVhjMFRLTm5LdnNxM2VhbFdhbF80M085RHJTX0dWTzNBZXU3ZWJzMC1seGZqWQ?oc=5",
+      "pubDate": "2026-11-05T20:42:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "компенсации Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QXzk2NTNOV0V0bEdOUjg4dVpNR1VTV2tGVVRKcFZ0NnhONTVTMURUbGI2V0pwZnJvUm9xUUxVS0lHX3FFZmRtNG1oeVVsVXBOMVY3aDl3?oc=5",
+      "pubDate": "2026-11-05T20:42:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "медицински университет Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xMFZWeVhITDU4RXZnZHZPVDdBSkRMM21TYXBFektpajVxYVJRcVlxdDlkX0VhS2NkbEM5M2xteVo0aXJJelNrZFNGVEJzaWN5elo1UGFPeXdyd2o4MWJLWloxQzc?oc=5",
+      "pubDate": "2026-11-05T20:42:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "музей на комунизма Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lOVVlN1VNVndlMjRWd21naWNORnB6cENtMGl2SHUtN0VOOWpFQnlMV0tKNDdTNTZINXhpVXlfVWVGNlJ2LTd2NERRNTRaTFdySk9oMC15cDNSYkZDeFE?oc=5",
+      "pubDate": "2026-11-05T20:42:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
+      "link": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-05T20:38:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Цитат на деня: \"Топлофикация-София\" е детенце на троянския кон в българската енергетика",
+      "link": "https://www.dnevnik.bg/citat_na_deniia/2026/11/05/4976890_citat_na_denia_toplofikaciia-sofiia_e_detence_na/?ref=rss",
+      "pubDate": "2026-11-05T20:36:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976888.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "САЩ: Всички компании, които използват фризери, могат да станат мишена на хакери",
+      "link": "https://frognews.bg/novini/sasht-vsichki-kompanii-koito-izpolzvat-frizeri-mogat-stanat-mishena-hakeri.html",
+      "pubDate": "2026-11-05T20:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/66ed6b0ce_1793908087_6aecdd7797856.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "\"Не на репресията\": МВР пусна шефа на \"Булметал\" без обвинения",
+      "link": "https://www.mediapool.bg/bulgaria/ne-na-represiyata-mvr-pusna-shefa-na-bulmetal-bez-obvineniya/",
+      "pubDate": "2026-11-05T20:07:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Ловчанският митрополит Гавриил е в болница в тежко състояние",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/05/4976883_lovchanskiiat_mitropolit_gavriil_e_v_bolnica_v_tejko/?ref=rss",
+      "pubDate": "2026-11-05T20:04:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976882.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
+      "link": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-05T20:04:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "С гол на син юноша ;Левски; записа втора победа в Лига Европа",
+      "link": "https://clubz.bg/181500",
+      "pubDate": "2026-11-05T20:02:00.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/stivan-stoanchov-bta.jpeg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Българин е настоявал за депортирането на иранци от САЩ по нареждане на администрацията на Тръмп",
+      "link": "https://offnews.bg/sviat/balgarin-e-nastoiaval-za-deportiraneto-na-irantci-ot-sasht-po-narezhda-877979.html",
+      "pubDate": "2026-11-05T19:54:56.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/05/877979/phpkfim6j_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Ловчанският митрополит Гавриил е в тежко състояние във ВМА",
+      "link": "https://frognews.bg/novini/lovchanskiiat-mitropolit-gavriil-tejko-sastoianie-vav-vma.html",
+      "pubDate": "2026-11-05T19:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/65a75645a_1793907523_6aecdb432f7fd.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "\"Левски\" победи \"Ягелония\" в \"Лига Европа\" с гол на 19-годишен нападател",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/05/4976870_napadatel_na_19_godini_donese_pobeda_na_levski_nad/?ref=rss",
+      "pubDate": "2026-11-05T19:41:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976869.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Откази и липса на поръчки: Войната в Черно море удари и българските корабостроителници",
+      "link": "https://frognews.bg/novini/otkazi-lipsa-porachki-voinata-cherno-more-udari-balgarskite-korabostroitelnitsi.html",
+      "pubDate": "2026-11-05T19:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/2433c92ab_1793906041_6aecd579f380e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "По-високи заплати, мерки срещу поскъпването: 600 000 протестиращи заляха френските улици",
+      "link": "https://frognews.bg/novini/visoki-zaplati-merki-sreshtu-poskapvaneto-600-000-protestirashti-zaliaha-frenskite-ulitsi.html",
+      "pubDate": "2026-11-05T19:15:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/99b923d74_1793905074_6aecd1b231612.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+      "link": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-05T19:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
+      "link": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-05T19:08:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Не се заблуждавайте. Тръмп все още е способен да направи куп поразии",
+      "link": "https://offnews.bg/analizi-i-komentari/ne-se-zabluzhdavajte-tramp-vse-oshte-e-sposoben-da-napravi-kup-porazi-877978.html",
+      "pubDate": "2026-11-05T19:03:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/05/877978/phpnwzn8l_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
+    {
+      "title": "Монголия",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4eURmYkUwd3o3eTk3blREVWxMM2JmbEVVUU5EU2NPVVZ4M1VLZTViZm1mUUlwWDFxNFdzMzlDV2hwOE5MNkZEV2diV2c1S3hRNmdV?oc=5",
+      "pubDate": "2026-11-05T18:29:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-05T22:00:11.065Z"
+    },
     {
       "title": "Iran's security chief discusses regional, bilateral affairs with Putin",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
