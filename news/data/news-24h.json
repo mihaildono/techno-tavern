@@ -1,9 +1,421 @@
 {
   "windowStart": "2026-11-06T16:31:32.997Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-06T19:00:10.045Z",
-  "totalItems": 65,
+  "lastUpdated": "2026-11-06T22:00:15.684Z",
+  "totalItems": 98,
   "items": [
+    {
+      "title": "SpaceX Director Resigns From Board One Day After US Election",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-director-resigns-from-board-one-day-after-us-election",
+      "pubDate": "2026-11-06T21:50:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Cohere Billionaires Aidan Gomez, Nick Frosst Dismiss AI Doomsday Scenarios",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/cohere-billionaires-aidan-gomez-nick-frosst-dismiss-ai-doomsday-scenarios",
+      "pubDate": "2026-11-06T21:45:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5",
+      "pubDate": "2026-11-06T21:42:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Big Take: The New AI Trade Is FOGO",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
+      "pubDate": "2026-11-06T21:42:03.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Reuters: И Нова телевизия е получила заплахи за бомби в полети в Европа",
+      "link": "https://www.actualno.com/europe/reuters-i-nova-televizija-e-poluchila-zaplahi-za-bombi-v-poleti-v-evropa-news_2659973.html",
+      "pubDate": "2026-11-06T21:37:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/8050f63525665c5529c7ea7e3c9c610e_2659973_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Airbnb Surges 12% as Growth Accelerates and Outlook Rises | Closing Bell",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-surges-on-growth-outlook-closing-bell-video",
+      "pubDate": "2026-11-06T21:32:56.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
+      "pubDate": "2026-11-06T21:29:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Притиснат, Гълъб Донев призна за плана да изземат от вноските за втора пенсия",
+      "link": "https://www.mediapool.bg/bulgaria/pritisnat-galab-donev-prizna-za-plana-da-izzemat-ot-vnoskite-za-vtora-pensiya/",
+      "pubDate": "2026-11-06T21:20:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Подсъдимият за нападението над Дебора Михайлова загуби делото за бавно правосъдие",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/06/4977296_podsudimiiat_za_napadenieto_nad_debora_mihailova/?ref=rss",
+      "pubDate": "2026-11-06T21:17:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4771299.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Божидар Божанов: Управляващите лъжат системно и арогантно, опитаха да сложат ръка върху пенсиите на 5 милиона души",
+      "link": "https://www.actualno.com/politics/bojidar-bojanov-upravljavashtite-lyjat-sistemno-i-arogantno-opitaha-da-slojat-ryka-vyrhu-pensiite-na-5-miliona-dushi-news_2659972.html",
+      "pubDate": "2026-11-06T21:17:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/28667b832582a41b31720809cf6e93ff_2659972_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Can the US Democrats' 'Blue Wave' election sweep buoy Ukraine?",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUlCRnhXUUxLU0EwelVOdThCN1pOUlJwQ1hZdk0yNldENVU2dlZsb2JPTVZ3WWgyRURjUWtZWmUyYjNNY2E3WXhtNzEtRHJhdVE4MTJRdmE1dXoxOXo3MkZMX1FEQTl3eEt3RmpzaVdJaXdJaFBTRl9sWUhPeU82YnhtSnM4eER1MlNLbDh5NklvYWZWWFFaSVBfdG4zMEE1b0FnOWxIcXdoZDQ?oc=5",
+      "pubDate": "2026-11-06T21:14:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Правителството отново вдига всички осигурителни прагове",
+      "link": "https://www.capital.bg/politika_i_ikonomika/danaci-osiguriavane/2026/11/06/4977294_pravitelstvoto_otnovo_vdiga_vsichki_osiguritelni/?ref=rss",
+      "pubDate": "2026-11-06T21:14:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4977295.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "\"Тесла\" ще намали производството на Cybertruck",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/06/4977293_tesla_shte_namali_proizvodstvoto_na_cybertruck/?ref=rss",
+      "pubDate": "2026-11-06T21:05:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977292.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+      "pubDate": "2026-11-06T21:02:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "In Republican collapse, Colorado military town elects Democrat for the first time",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZC1MUWlWSWJIdmtzQTBRMmpzQjVKVUxQLU9qY2tkeGNDSXA5NjFxQnIyek44N3FuV1EzWTVnR2MtblZJTm5UM3VqdHhXbTlUdTRqdWNvUTRjZnJDRjV6alVBNHNkWkkyUUg1bW0wYWdmUGMyalFPMU50OGpnZ3ZVNFdxbHVNM25RWUFqaGFtVGlteW5nVjRRMDBYRUFuWEtYZ3BVZG80a3F1NERjSUdSVm9XRzI?oc=5",
+      "pubDate": "2026-11-06T21:01:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Радар за икономика: Най-важните новини на 6 ноември 2026 г.",
+      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-6-noemvri-2026-g-news_2659893.html",
+      "pubDate": "2026-11-06T21:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/3e789c2cb296d4d7fe8909af2546ec63_2659893_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Tankers carrying Russian diesel to the US change course",
+      "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T20:55:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Серия оставки в американското правосъдно министерство, нов шеф на кабинета на Тръмп",
+      "link": "https://www.mediapool.bg/svyat/seriya-ostavki-v-amerikanskoto-pravosadno-ministerstvo-nov-shef-na-kabineta-na-tramp/",
+      "pubDate": "2026-11-06T20:53:23.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Парното и топлата вода в студентските общежития в София са възстановени",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/06/4977290_parnoto_i_toplata_voda_v_studentskite_obshtejitiia_v/?ref=rss",
+      "pubDate": "2026-11-06T20:50:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976802.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Stephen Miller named by Trump as new White House chief of staff",
+      "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T20:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Гълъб Донев призна с половин уста за вземането на спестявания за пенсии, ЕК явно е била против",
+      "link": "https://www.actualno.com/finance/gylyb-donev-prizna-s-polovin-usta-za-vzemaneto-na-spestjavanija-za-pensii-ek-javno-e-bila-protiv-news_2659966.html",
+      "pubDate": "2026-11-06T20:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/35de9609ace8e16844385aa83c5e9d14_2659966_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Божидар Божанов смути Гълъб Донев, извади в ефир писмо до ЕК за втория пенсионен стълб",
+      "link": "https://offnews.bg/politika/bozhidar-bozhanov-smuti-galab-donev-izvadi-v-efir-pismo-do-ek-za-vtor-878062.html",
+      "pubDate": "2026-11-06T20:32:19.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878062/phpkiiqgc_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Божидар Божанов цитира в ефир писмо на Гълъб Донев за втората пенсия",
+      "link": "https://www.dnevnik.bg/politika/2026/11/06/4977287_bojidar_bojanov_citira_v_efir_pismo_na_gulub_donev_za/?ref=rss",
+      "pubDate": "2026-11-06T20:32:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977286.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Моля, не ме използвай за възглавница! Допамин за петък",
+      "link": "https://www.actualno.com/society/molja-ne-me-izpolzvaj-za-vyzglavnica-dopamin-za-petyk-news_2659478.html",
+      "pubDate": "2026-11-06T20:30:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/05/f8f0809e750ebca029785b6b1a80f11a_2659478_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Полша облага вносителите на газ, за да помогне на домакинствата",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/06/4977274_polsha_oblaga_vnositelite_na_gaz_za_da_pomogne_na/?ref=rss",
+      "pubDate": "2026-11-06T20:26:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977276.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Божанов извади писмо от Гълъб Донев до ЕК за втория стълб, финансовият министър не отрече",
+      "link": "https://clubz.bg/181551",
+      "pubDate": "2026-11-06T20:24:09.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/donev-bozanov.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+      "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T20:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Нидерландец и испанец влизат в битката за наследник на Кристин Лагард начело на ЕЦБ",
+      "link": "https://frognews.bg/novini/niderlandets-ispanets-vlizat-bitkata-naslednik-kristin-lagard-nachelo-etsb.html",
+      "pubDate": "2026-11-06T19:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/dbf3fcd1b_1793993473_6aee2b01352e9.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Tesla спира футуристичния пикап. Мъск освобождава място за новия си автомобил",
+      "link": "https://frognews.bg/novini/tesla-spira-futuristichniia-pikap-mask-osvobojdava-miasto-noviia-avtomobil.html",
+      "pubDate": "2026-11-06T19:18:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/9723ee46c_1793992820_6aee28741f13d.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
+      "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T19:16:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Гълъб Донев призна, че е обсъждал схемата за втората пенсия с ЕК до 2 ноември",
+      "link": "https://boulevardbulgaria.bg/articles/galab-donev-prizna-che-e-obsazhdal-shemata-za-vtorata-pensiya-s-ek-do-2-noemvri",
+      "pubDate": "2026-11-06T19:12:25.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1OTY4LCJwdXIiOiJibG9iX2lkIn19--0f6ed18884561bc89a9d128b9fb5df60a2a11cc2/Screenshot%202026-11-06%20211000.png"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Русия използва собствена версия на Starlink за военна комуникация над Украйна",
+      "link": "https://frognews.bg/novini/rusiia-izpolzva-sobstvena-versiia-starlink-voenna-komunikatsiia-nad-ukraina.html",
+      "pubDate": "2026-11-06T19:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b81a3e6c4_1793991590_6aee23a6671e7.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
+    {
+      "title": "Мъж загина, след като навлезе в насрещното платно между Руен и Айтос",
+      "link": "https://offnews.bg/112/mazh-zagina-sled-kato-navleze-v-nasreshtnoto-platno-mezhdu-ruen-i-ajt-878061.html",
+      "pubDate": "2026-11-06T19:00:49.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878061/phpkxumsr_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T22:00:15.684Z"
+    },
     {
       "title": "Trump Names Stephen Miller White House Chief of Staff",
       "link": "https://www.bloomberg.com/news/audio/2026-11-06/trump-names-stephen-miller-white-house-chief-of-staff",
