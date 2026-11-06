@@ -1,7 +1,812 @@
 {
   "windowStart": "2026-11-06T16:31:32.997Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-06T16:31:32.997Z",
-  "totalItems": 0,
-  "items": []
+  "lastUpdated": "2026-11-06T19:00:10.045Z",
+  "totalItems": 65,
+  "items": [
+    {
+      "title": "Trump Names Stephen Miller White House Chief of Staff",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-06/trump-names-stephen-miller-white-house-chief-of-staff",
+      "pubDate": "2026-11-06T18:59:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Trump Taps Stephen Miller to Replace Wiles as Chief of Staff",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff",
+      "pubDate": "2026-11-06T18:54:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Близък на Никола Цолов подхрани слуховете за титулярно място във Формула 1 догодина",
+      "link": "https://www.actualno.com/moresport/blizyk-na-nikola-colov-podhrani-sluhovete-za-tituljarno-mjasto-vyv-formula-1-dogodina-news_2659951.html",
+      "pubDate": "2026-11-06T18:54:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/44ae3d4b0159617321a1cf338fad8915_2659951_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "AI Policy Moves From Washington to the States",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-policy-moves-from-washington-to-the-states-video",
+      "pubDate": "2026-11-06T18:53:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/how-fast-money-systematic-funds-stoked-2-3t-tech-rout-video",
+      "pubDate": "2026-11-06T18:49:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "France to Maintain Large Police Presence for Saturday Protests",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/france-to-maintain-large-police-presence-for-saturday-protests",
+      "pubDate": "2026-11-06T18:48:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Ilse Aigner tipped by party allies as next German president",
+      "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T18:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Meghan Markle's father arrested in US over child sex abuse material",
+      "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T18:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Самолет се разби на магистрала в Германия, има загинали",
+      "link": "https://www.actualno.com/europe/samolet-se-razbi-na-magistrala-v-germanija-ima-zaginali-news_2659949.html",
+      "pubDate": "2026-11-06T18:32:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/66cf2710fbae02ae02fd4d6b6d6e8c1f_2659949_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Пеканов: Няма перфектен бюджет, търсихме баланс",
+      "link": "https://offnews.bg/politika/pekanov-niama-perfekten-biudzhet-tarsihme-balans-878060.html",
+      "pubDate": "2026-11-06T18:30:54.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878060/phpot7aeh_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Николай Денков видя риск от рецесия в новия бюджет",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/06/4977267_nikolai_denkov_vidia_risk_ot_recesiia_v_noviia_bjudjet/?ref=rss",
+      "pubDate": "2026-11-06T18:30:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977264.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUR2UGkwV2c4dmhzNURLVE9HOFU0Vks4d3FkRzFBa1hWZXloRGtwaVVoUnl4WFVBU0ktdXl3eU1lclhVTC1xUjBPX2NWMG82V2IzdVZXZVd5dFEwSkhSUzdMV2I1VlB5a1R4czhndXdGQURaY3pzTVZoUC1UNm5OUXBRZXNFSXpBV3VOODc1UUZGV21oTkxtWW9fMGdsanBDV2NUUVNST3R3Zm5mUW5JQWtvdXRSem1ZSlJSaE93d0FtckdmX2c0MGlLT2I3Tjh5eXVlZlFpNW0?oc=5",
+      "pubDate": "2026-11-06T18:28:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Democrats planning flood of AI bills when they take control of Congress",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+      "pubDate": "2026-11-06T18:27:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Путин вече настоява за още украински територии извън Донбас в замяна на прекратяване на войната",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/putin-veche-nastoyava-za-oshte-ukrainski-teritorii-izvan-donbas-v-zamyana-na-prekratyavane-na-voinata/",
+      "pubDate": "2026-11-06T18:18:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Джорджа Мелони осъди кибератаките срещу гражданска инфраструктура",
+      "link": "https://www.actualno.com/europe/djordja-meloni-osydi-kiberatakite-sreshtu-grajdanska-infrastruktura-news_2659945.html",
+      "pubDate": "2026-11-06T18:12:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/701ff9cd02ec0dac467fde74cd0d3be1_2659945_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "При бомбени заплахи авиокомпаниите не дължат обезщетения, но трябва да осигурят храна и хотел",
+      "link": "https://frognews.bg/novini/pri-bombeni-zaplahi-aviokompaniite-daljat-obezshteteniia-triabva-osiguriat-hrana-hotel.html",
+      "pubDate": "2026-11-06T18:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/0fba19fb3_1793988281_6aee16b96b865.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Mississippi US Senate candidates battle over ballots as winner remains unclear",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmlsU2hJcDdTX3k3M3pDbnVTb2MyY2ZxNnFnR0pxOTJGZ3lJQ05IN3VVUzRrS2RMalRfMTVJWEUweHplSllFLVkxZjN2akhUUnp4REZjanNMTVl1SFJGQTBJOXlpblNOb1RiT1NzVHFwLW5ESG5ieU1icU1qemI5NERsdWd1b3BpbWxRRWZLWXEzTzZrT2EwNExKb3R3NlU1RVBsNGtFWFZrNHlSbFN3ZTdJdFUzT1ZKVXVtV1BtSmc5aEg1Mi1r?oc=5",
+      "pubDate": "2026-11-06T18:09:49.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "София посреща световния съвременен танц от Европа и Азия: 14 спектакъла на Derida Dance Fest 2026",
+      "link": "https://offnews.bg/kultura/sofia-posreshta-svetovnia-savremenen-tantc-ot-evropa-i-azia-14-spekta-878056.html",
+      "pubDate": "2026-11-06T18:05:42.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878056/phpltxr0h_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Thomas Markle, father of Meghan, arrested for possession of child sex abuse photos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
+      "pubDate": "2026-11-06T18:05:24.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "За вицепремиера Пеканов бюджетът балансира между социалната защита и нуждите на бизнеса",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/06/4977253_za_vicepremiera_pekanov_bjudjetut_balansira_mejdu/?ref=rss",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977252.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Мицкоски е нервен след падането на Вучич: Насер Селмани в Студио Actualno Балкани (ВИДЕО)",
+      "link": "https://www.actualno.com/interview/mickoski-e-nerven-sled-padaneto-na-vuchich-naser-selmani-v-studio-actualno-balkani-video-news_2659883.html",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/491eca66264ab7ec6f701ac077e7a341_2659883_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4Q3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5",
+      "pubDate": "2026-11-06T17:53:48.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Задържаха предполагаемия извършител на мистериозното убийство с 8 жертви в Турция",
+      "link": "https://www.actualno.com/asia/zadyrjaha-predpolagaemija-izvyrshitel-na-misterioznoto-ubijstvo-s-8-jertvi-v-turcija-news_2659931.html",
+      "pubDate": "2026-11-06T17:52:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/06/02d9a091a02c3b9481e19076382b2728_2659931_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Коя е Илзе Айгнер - бъдещата първа жена президент на Германия",
+      "link": "https://boulevardbulgaria.bg/articles/koya-e-ilze-aygner-badeshtata-parva-zhena-prezident-na-germaniya",
+      "pubDate": "2026-11-06T17:51:44.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1OTU4LCJwdXIiOiJibG9iX2lkIn19--31bb5cc0cc3f4d278badb6248b94dd922f2b1f9d/%D0%B8%D0%BB%D0%B7%D0%B5%20%D0%B0%D0%B9%D0%B3%D0%BD%D0%B5%D1%80.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "След шльокавицата: НС обсъжда и проекта на \"Възраждане\" за чуждестранните агенти",
+      "link": "https://www.mediapool.bg/bulgaria/sled-shlyokavitsata-ns-obsazhda-i-proekta-na-vazrazhdane-za-chuzhdestrannite-agenti/",
+      "pubDate": "2026-11-06T17:49:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T17:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Кирил Буданов ще ръководи украинската делегация на преговори в Абу Даби",
+      "link": "https://frognews.bg/novini/kiril-budanov-shte-rakovodi-ukrainskata-delegatsiia-pregovori-abu-dabi.html",
+      "pubDate": "2026-11-06T17:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7c7a086c9_1793986944_6aee118011212.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Булгаргаз настоя Топлофикация София да изплати дълговете си от над 900 млн. евро",
+      "link": "https://offnews.bg/obshtestvo/bulgargaz-nastoia-toplofikatcia-sofia-da-izplati-dalgovete-si-ot-nad-9-878058.html",
+      "pubDate": "2026-11-06T17:34:30.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878058/phpy1d0sm_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Двама ветерани се борят за поста на Кристин Лагард",
+      "link": "https://www.dnevnik.bg/evropa/2026/11/06/4977250_dvama_veterani_se_boriat_za_posta_na_kristin_lagard/?ref=rss",
+      "pubDate": "2026-11-06T17:32:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977251.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Patrizia Pepe и Dixie са под съдебен надзор за експлоатация на работници",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/06/4977246_patrizia_pepe_i_dixie_sa_pod_sudeben_kontrol_za/?ref=rss",
+      "pubDate": "2026-11-06T17:15:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977247.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "КЗП ще разговоря с телекомите за прекратяване на нелоялните търговски практики",
+      "link": "https://frognews.bg/novini/kzp-shte-razgovoria-telekomite-prekratiavane-neloialnite-targovski-praktiki.html",
+      "pubDate": "2026-11-06T17:15:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4ffe75ad5_1793985377_6aee0b61626a2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "- DW.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNSEZMLVlZa2syZ0pidlU5UGk0V2tPXzZsRWZFeWQ3Q0dNV3NaeUlCRkZZMjVWQXVvLU1Id29Uci1SMFdieFNCUVRVMTJRZ3pwX0ZXa2RPOE91YmpZTnNucUVyWHo2WmEwZHlGYnJ3NXFwa3F4dGFEUmo0Q2U0TjVFN3BQOVZBVFNxUmE2Mlg0UnUtZDN6ajRKNUR6X1d3VEVlcEdfR2d3QmNDSjZDQ2h2emlDSlliUlROd3RaUkpkTWFYX09HQUVISFQwbkFfUHFHLTl6OHA0cEoydGtRRl9pc3cySnQ4ZkhXemZEeUNaelhJRFIzeDd2RGZOTll3bzRNVlY2R05Na3JtTXVFYTZsenJHWXZoNG9Ucm9aeFRwbmplT0tMNEZnMDh2SkFvdkM3Z25laTloNTBobWQzem9tU2NuaGdVR1l2cmg0VDlCcHlRY3MtQjZDcVd6a3pqODhsTFZreXVOSzdHSGdHSkt3VDhkSjc1YkRlbG1WeU5pWUVsOTVDVmVsZTJFSGdUZDU3RW4ycmJZcXQ0MlEwcmhkc29LbTF1emc0M0JDSDhtTHRqTkhjUW4xY3VRRUdRRXpjMnU2SVJ6R1d6Smo1Z3pjcEtobW5BTXp3QmNLZTdn?oc=5",
+      "pubDate": "2026-11-06T17:13:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Арестуваха бащата на Меган Маркъл заради детска порнография",
+      "link": "https://offnews.bg/sviat/arestuvaha-bashtata-na-megan-markal-zaradi-detska-pornografia-878057.html",
+      "pubDate": "2026-11-06T17:11:30.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878057/php6razgo_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Tesla to 'wind down' production of flop Cybertruck",
+      "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T17:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "ДБ сезира Конституционния съд за \"своеволия\" с парите за \"бели петна\"",
+      "link": "https://www.mediapool.bg/biznes/db-sezira-konstitutsionniya-sad-za-svoevoliya-s-parite-za-beli-petna/",
+      "pubDate": "2026-11-06T17:04:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Бюджет 2027: 3.5% дефицит, 5000 щата по-малко и ръчна спирачка за заплатите (обновена)",
+      "link": "https://www.mediapool.bg/bulgaria/byudzhet-2027-35-defitsit-5000-shtata-po-malko-i-rachna-spirachka-za-zaplatite-obnovena/",
+      "pubDate": "2026-11-06T17:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "В Киев няма ток, Зеленски и Кличко се карат",
+      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/11/06/4977236_v_kiev_niama_tok_zelenski_i_klichko_se_karat/?ref=rss",
+      "pubDate": "2026-11-06T16:54:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977243.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Основателят на „Мъжката държава“ отрича всякаква връзка със сигналите за бомби в Европа",
+      "link": "https://clubz.bg/181548",
+      "pubDate": "2026-11-06T16:52:58.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/img_20230623_220155_440~5.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Отиде си Константин Тренчев – основателят на КТ \"Подкрепа\"",
+      "link": "https://www.mediapool.bg/bulgaria/otide-si-konstantin-trenchev-osnovatelyat-na-kt-podkrepa/",
+      "pubDate": "2026-11-06T16:51:34.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "МОН твърди, че парното и топлата вода са пуснати във всички столични общежития",
+      "link": "https://frognews.bg/novini/mon-tvardi-che-parnoto-toplata-voda-pusnati-vav-vsichki-stolichni-obshtezhitiya.html",
+      "pubDate": "2026-11-06T16:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/98d1e685a_toplof_2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Номинираха първата жена за президент на Германия",
+      "link": "https://clubz.bg/181547",
+      "pubDate": "2026-11-06T16:41:44.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/aigner.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "\"Прогресивно обедняване\". Опозицията разкритикува липсата на мерки против инфлацията в бюджета за 2027",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9iS2pTRjdnZUlIaXVjUHltZlFnajFiYm1Ba3dIWEdfYlRmdnBQclZfQ0VBczg2YzZtZ3hHc292TXQwUV9SZUZjQURZU2ltblpUMVY1UmdHdngxUzNZWDViMnZKNEVjT2kxZWx6QUpabU1weGw3TVhQT2Ffa04xQmFpVFg5VFViRGl3d3lfQTdJSXpuMjVfNWhsT2xhRHN3cy12WF96RmF0UDFCMEhMYTJGcjhrcm44Z2NpSXdrMG4yR21IVEFOTVZfaHpYUzhPSEFObDd1Zw?oc=5",
+      "pubDate": "2026-11-06T16:41:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Екипът на филма за Чернобил няма да гостува в БНТ, докато телевизията не се извини",
+      "link": "https://offnews.bg/kultura/ekipat-na-filma-za-chernobil-niama-da-gostuva-v-bnt-dokato-televiziat-878055.html",
+      "pubDate": "2026-11-06T16:41:01.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/06/878055/phpwhyohb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-06T16:38:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Еврогрупата избира между испанец и нидерландец за шеф на ЕЦБ",
+      "link": "https://clubz.bg/181546",
+      "pubDate": "2026-11-06T16:27:19.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/153512664d9a49dda01e051b8068f1e4-0-b6156091507d48c4abc10202d391ed69~9.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Фискалният съвет не хареса \"камиона без спирачки\" на Румен Радев в Бюджет 2027",
+      "link": "https://boulevardbulgaria.bg/articles/fiskalniyat-savet-ne-haresa-kamiona-na-rumen-radev-v-byudzhet-2027",
+      "pubDate": "2026-11-06T16:25:23.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1OTM5LCJwdXIiOiJibG9iX2lkIn19--cd18b7ca28e3636ab6e76c45f5e8e96c40874cec/%D1%80%D1%83%D0%BC%D0%B5%D0%BD%20%D1%80%D0%B0%D0%B4%D0%B5%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D1%8F%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0%20392053.jpeg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Кралят на Белгия отказа да приеме оставката на премиера заради бюджетната криза",
+      "link": "https://frognews.bg/novini/kralyat-belgiya-otkaza-prieme-ostavkata-premiera-zaradi-byudzhetnata-kriza.html",
+      "pubDate": "2026-11-06T16:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/edb80e83c_1793982245_6aedff25a7fba.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Бюджет 2027: повече тежест от данъци и осигуровки и до 8,6 млрд. евро нов дълг",
+      "link": "https://boulevardbulgaria.bg/articles/byudzhet-2027-poveche-tezhest-ot-danatsi-i-osigurovki-i-do-8-6-mlrd-evro-nov-dalg",
+      "pubDate": "2026-11-06T16:06:32.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1OTQ0LCJwdXIiOiJibG9iX2lkIn19--2fa79b13a90ef866978301417f59b51d547abc67/%D1%80%D0%B0%D0%B4%D0%B5%D0%B2%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D1%8F%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82.JPG"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "ЕС: Предстои още много работа, преди да бъде постигнат мир в Украйна",
+      "link": "https://clubz.bg/181545",
+      "pubDate": "2026-11-06T15:42:46.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/90ad719b1a484c3eba7dcd301c3b0674.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Скандал с близката до Вучич \"Алта банка\": къде са парите",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORE1FOUc4NEVhY1ZVRDYwb1V6Y1R2M1NhVHA3U2tNLUpITmZXQUE2aDVDOFdzcHYyclVoMzR6YVNLeGdqVFZjanpYNkNxVTJxeHk4a1Q3ZzVNdlhPQU1CckV1bkJEeDF1RXBOR3h5cTJBMTFfUE12dGY3LUYxMWE5QVlUNHR3SGtQUGsxRU930gGOAUFVX3lxTE9Gb3FIcjlGWkZrcVRnRXNrTWZYR0F4VDhSNFREU3hmTjV2enFWbEdDSnN1UnJTaUt0U0RieHlmVXMwVkNGWjU1cVFPNXdBZkdvT2RoRTlyWk1IM0ZkR3NQWGJkVWFONXMxVVFBT3U4N0NMTFYwbExvdS1pTzhyWEhNdlhRVWZISFRZS1hkS0E?oc=5",
+      "pubDate": "2026-11-06T15:41:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "ДЕНЯТ В НЯКОЛКО РЕДА: какъв е бюджетът - ;на вразумяването; или ;на страшното свличане;",
+      "link": "https://clubz.bg/181544",
+      "pubDate": "2026-11-06T15:31:34.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/budzet-predstavane-6-noemvri-2026-galab-donev-bta~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "\"Лети към пропастта\". Бюджетът за 2027 г. е с 3,5% дефицит и предвижда над 5 хиляди съкращения",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEIyWFVlM2thUGFLMjZLOHBYdEozM1VIeVhDcFFPbDVBQ3Y4QnQ1djJCSGNCdkdWTXR0UkZUWlRjaGtyYjlVSkZibjlCcDIwUExFSWprSHhOVVQwMGpMN1A2VDAzTVU4Sk1XSjRiSTRLWGtVNl8wMkNKaGxuVWFlZVR0SVJCVXR1YzVpekF1NTdweVNJRU9HbkVfNzRKZVllR3dPUGcyMHljME1rU09rb2FYWVBHOFEyZVFWUGFCV0JuU3NBcTRiTUxQQmxWc21lWFE?oc=5",
+      "pubDate": "2026-11-06T15:29:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Бомбени заплахи срещу полети и медии: какво става в Европа?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWM0emh0LVd6Y3RlZ1V1QU5GNm1XdVU4MG04V1F0eF9LWFVRTVZJbkJhQWZHNmpNMEFsMVV1aVZOVXZWYUJWX3lQbkZuOGRVVEhDdXI5MmxocVBQNmk5ZWktMnFHaWZDdHNYa2R6cGtBTmNvYW5WMk5WVVhSOHExN3M4a0M4WnpxcHNURUliRzNfRVdW0gGUAUFVX3lxTE9tYzR6aHQtV3pjdGVnVXVBTkY2bVd1VTgwbThXUXR4X0tYVVFNVkluQmFBZkc2ak0wQWwxVXVpVk5VdlZhQlZfeVBuRm44ZFVUSEN1cjkybGhxUFA2aTllaS0ycUdpZkN0c1hrZHpwa0FOY29hblYyTlZVWFI4cTE3czhrQzhaenFwc1RFSWJHM19FV1Y?oc=5",
+      "pubDate": "2026-11-06T15:15:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "\"Шоуто на Труман\" в датски вариант: историята на един скандал",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHRGRGR1ZEhLaTVsQ3ViTUFCbXNodWVEdEd4Y25ndWNlN2RyOWdpUmc0LVVEY0g2WEVTaWxGVVctSXlaUjFMa0dZQzF2MzVJTWo3eHpvNHcwa2hMY1Ztd0FxT3pnSmZ1NUZZRzFOV3ZtOFplWDRLbnRjZFhVN2dNdXZRNFo3aXl1QTJRaXZXdk5vWVlHX1HSAZYBQVVfeXFMUGsyVG9WTkV0U3BSNnY2a0RkY0gyMXNTdzM1ZUVDR3lNZkFWRVE3eTAtNnBpaWlmMzZaYkhmSTFqV0VucWROZWQ1VXhLT2MtenVTREFDX0t6cHVvUlB6R0pWNURuOXBpOTlsM251eUFLenloZzJsQlhmVERNeWRjWVFjcHMtSnY2T1p3bE8wZkMxa3pMOW5B?oc=5",
+      "pubDate": "2026-11-06T15:13:57.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "\"Краят на една ера\". Мъск обяви поетапно спиране на производството на Cybertruck",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFJNdl9tMHV4Wkp6Q0UySURrQ0RhbzUzd3ctUzNIZXpZc2FiUUxlZkU4Yzc0YlBMWUszWEJUMVQxOWI1M0dFbE1obG9zQXAxb0JwUGhqVXB0SEpyWWhIcVhDOXdlM2tVRV83bkFKV1RjbDNaOTY3U3JOYWpqM1ZTenhNVjExOVhKaFlSM0NneEZna1k3cmUzV2g1SHRXVkNMQjBwdkkwMk9Cbi1rYm4yV0hn?oc=5",
+      "pubDate": "2026-11-06T15:07:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Николай Денков: Камионът на Радев ще падне в дерето с тази политика",
+      "link": "https://boulevardbulgaria.bg/articles/nikolay-denkov-kamionat-na-radev-shte-padne-v-dereto-s-tazi-politika",
+      "pubDate": "2026-11-06T15:06:56.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc0NDYsInB1ciI6ImJsb2JfaWQifX0=--bed29d81f13b8b6cba83a5d4b5211def007d2631/original_%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE_%D1%81%D1%8A%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_910234.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Кой е Александър фон Бисмарк, когото Путин лично награди с медал \"Пушкин\"",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFRTa1QzM0Nlc2tMamRnb0RXcWVOaVA3RWtDbjEwbUI0RFZMODh0TFU2QVN2WVZUcmFWdFNRckNfamVnUUlFU3ZKN2taRmVJNVJobXJyLW1oNkdhMWk3WTZpMGpGYUJwMjJnUDhwVUxhR0I2M0h1R29jNUdqTkptVDdQZ200aHBydzFkdENyNlpYckHSAZMBQVVfeXFMTnBUU2tUMzNDZXNrTGpkZ29EV3FlTmlQN0VrQ24xMG1CNERWTDg4dExVNkFTdllWVHJhVnRTUXJDX2plZ1FJRVN2SjdrWkZlSTVSaG1yci1taDZHYTFpN1k2aTBqRmFCcDIyZ1A4cFVMYUdCNjNIdUdvYzVHak5KbVQ3UGdtNGhwcncxZHRDcjZaWHJB?oc=5",
+      "pubDate": "2026-11-06T15:05:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "От типа \"Гербер-2\". Руски дрон изплува край Шабла, военните го унищожиха",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3BRR2E0Z0pkMEh1TnE2VmYtVzFQZHdNYzdfVzBkUWE1M0dqSnNoUUlvQTlZS3poMU1KeVI0LUk2akNIeVNMZ0xfRkdrblJWWUdLbXdJWUxHNjNzNElNRlp6OUN2VVhfZjlYMy1PaDhxWVJNTW5CSVc5QWVodkRnNmRJQ1VKQThYSmVIaG12X3gzY1B3N0x6Sg?oc=5",
+      "pubDate": "2026-11-06T14:53:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Бюджет 2027: Леко свиване на разходите и нови социални придобивки",
+      "link": "https://www.capital.bg/politika_i_ikonomika/danaci-osiguriavane/2026/11/06/4977183_bjudjet_2027_leko_svivane_na_razhodite_i_novi_socialni/?ref=rss",
+      "pubDate": "2026-11-06T14:47:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4977189.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "бойци на мъжката държава Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zUDk0aUhqaFlOdzBldTRmS3R3NGgtTndHeTVGaDdqUWlacjVNNzMxaTJnTnRHYTFyN2dPay1jX1psLXBoUkVGLVdfM0M0VGtVY3hoMmkwUWVkRm40aTBLaUI2NVZIdG15WUE?oc=5",
+      "pubDate": "2026-11-06T14:37:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Tesla слага край на Cybertruck само 3 години след появата му",
+      "link": "https://boulevardbulgaria.bg/articles/tesla-slaga-kray-na-cybertruck-samo-3-godini-sled-poyavata-mu",
+      "pubDate": "2026-11-06T14:28:55.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NzYsInB1ciI6ImJsb2JfaWQifX0=--6fd388d773d5dd83cea2c819000c0963a2cb5df3/Cybertruck_(2).jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "🤔 Хммм... | Изборната лавина в САЩ: твърде голяма, за да бъде манипулирана",
+      "link": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/11/06/4977113__hmmm_izbornata_lavina_v_sasht_tvurde_goliama_za_da/?ref=rss",
+      "pubDate": "2026-11-06T13:48:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4977116.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Фотогалерия: Есен в Шотландия",
+      "link": "https://www.capital.bg/multimedia/fotogalerii/2026/11/06/4976277_fotogaleriia_esen_v_shotlandiia/?ref=rss",
+      "pubDate": "2026-11-06T13:10:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4976660.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "\"Тихата сила\" на първата вълна български професионални фотографки",
+      "link": "https://www.capital.bg/light/neshta/2026/11/06/4972939_tihata_sila_na_purvata_vulna_bulgarski_profesionalni/?ref=rss",
+      "pubDate": "2026-11-06T12:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4972918.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    },
+    {
+      "title": "Бизнес глобус: Германия е напът да купи 50% от производителя на танкове KNDS; Полската компания за дронове WB Electronics готви IPO",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/biznes-globus/2026/11/06/4977006_biznes_globus_germaniia_e_naput_da_kupi_50_v/?ref=rss",
+      "pubDate": "2026-11-06T11:17:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4977031.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-06T19:00:10.045Z"
+    }
+  ]
 }
