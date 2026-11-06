@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.technotavern.com/obzor/2026-11-06/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Techno Tavern</news:name>
+        <news:language>bg</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:31:31.263Z</news:publication_date>
+      <news:title>Новините за 6 ноември 2026: Кабинетът представи Бюджет 2027 с 3,5% дефицит</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.technotavern.com/obzor/2026-11-05/</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T16:30:46.639Z</news:publication_date>
       <news:title>Новините за 5 ноември 2026: Демократите спечелиха двете камари на Конгреса на междинните избори в САЩ</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.technotavern.com/obzor/2026-11-04/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Techno Tavern</news:name>
-        <news:language>bg</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T16:30:47.913Z</news:publication_date>
-      <news:title>Новините за 4 ноември 2026: Демократите спечелиха Конгреса на САЩ, Тръмп претърпя тежко поражение</news:title>
     </news:news>
   </url>
 </urlset>
