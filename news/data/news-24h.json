@@ -1,9 +1,416 @@
 {
   "windowStart": "2026-11-06T16:31:32.997Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-07T04:00:12.474Z",
-  "totalItems": 129,
+  "lastUpdated": "2026-11-07T07:00:10.926Z",
+  "totalItems": 162,
   "items": [
+    {
+      "title": "Актрисата Боряна Йовчева гостува в новия епизод на подкаста \"Културна работа\"",
+      "link": "https://www.dnevnik.bg/kulturna_rabota/2026/11/07/4977064_aktrisata_boriana_iovcheva_gostuva_v_noviia_epizod_na/?ref=rss",
+      "pubDate": "2026-11-07T06:59:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977071.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "\"Дроновете в Черно море не плашат туристите, все по-търсени сме\": Говори Илин Димитров",
+      "link": "https://www.actualno.com/economy/dronovete-v-cherno-more-ne-plashat-turistite-vse-po-tyrseni-sme-govori-ilin-dimitrov-news_2660004.html",
+      "pubDate": "2026-11-07T06:54:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/07/de215f5d97137a60a9a51c05af662a85_2660004_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "\"Време е за Милър\": с назначението на новия шеф на канцеларията си Тръмп дава сигнал, че няма да се даде без бой",
+      "link": "https://www.mediapool.bg/tramp-20/vreme-e-za-milar-s-naznachenieto-na-noviya-shef-na-kantselariyata-si-tramp-dava-signal-che-nyama-da-se-dade-bez-boi/",
+      "pubDate": "2026-11-07T06:48:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Русия продължава интензивния обстрел на Киев, цели се в мостовете, топло- и електроцентралите",
+      "link": "https://clubz.bg/181552",
+      "pubDate": "2026-11-07T06:44:53.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/ruski-udar-krai-kiev-ap-bta.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Шефът на РВД разкри как се реагира при бомбена заплаха срещу самолет",
+      "link": "https://www.actualno.com/society/shefyt-na-rvd-razkri-kak-se-reagira-pri-bombena-zaplaha-sreshtu-samolet-news_2660003.html",
+      "pubDate": "2026-11-07T06:40:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/07/f1c9e5c34aa4d43cac58510dfe8a28fc_2660003_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "New Zealanders end vote on final day of tight elections",
+      "link": "https://www.dw.com/en/new-zealanders-end-vote-on-final-day-of-tight-elections/a-79883056?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-07T06:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "САЩ обявиха щедра награда за разкрития около ядрените тайни на Техеран",
+      "link": "https://www.actualno.com/america/sasht-objaviha-shtedra-nagrada-za-razkritija-okolo-jadrenite-tajni-na-teheran-news_2660000.html",
+      "pubDate": "2026-11-07T06:15:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/07/9d0b1295a6cd3fd729f6e9f8811d8503_2660000_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Counting Begins in New Zealand Election That’s Too Close to Call",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-07/counting-begins-in-new-zealand-election-that-s-too-close-to-call",
+      "pubDate": "2026-11-07T06:08:21.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Рокада в Белия дом: Стивън Милър е новият шеф на канцеларията на Тръмп",
+      "link": "https://www.actualno.com/america/rokada-v-belija-dom-stivyn-milyr-e-novijat-shef-na-kancelarijata-na-trymp-news_2659997.html",
+      "pubDate": "2026-11-07T06:05:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/07/4367a9d980f72e3009bbf63ddddf0c2d_2659997_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "САЩ нанесе ограничени удари по Иран",
+      "link": "https://www.mediapool.bg/svyat/sasht-nanese-ogranicheni-udari-po-iran/",
+      "pubDate": "2026-11-07T06:03:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "LA Port Strike Threat Deferred Again as Labor Talks Drag On",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-07/la-port-strike-threat-deferred-again-as-labor-talks-drag-on",
+      "pubDate": "2026-11-07T06:00:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Cocktail Journey Vol. 2: Пет месеца коктейли, нови вкусове и кауза с мисия",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/07/4961584_cocktail_journey_vol_2_pet_meseca_kokteili_novi/?ref=rss",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4961237.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Как се гради устойчив строителен бизнес: 15 години \"Калистратов Груп\"",
+      "link": "https://www.capital.bg/biznes/imoti/2026/11/07/4961586_kak_se_gradi_ustoichiv_stroitelen_biznes_15_godini/?ref=rss",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4964155.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Защо половината AI проекти не работят и как да бъде избегнат този капан",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/07/4965377_zashto_polovinata_ai_proekti_ne_rabotiat_i_kak_da_bude/?ref=rss",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4965375.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "AI еуфорията: между очакванията и реалността",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/07/4962782_ai_euforiiata_mejdu_ochakvaniiata_i_realnostta/?ref=rss",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4962783.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Нюзлетър | В България \"червените\" печелят, \"сините\" губят, в САЩ - обратното. Две събития отпреди 70 години - и защо те са важни днес",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/07/4977005_njuzletur_v_bulgariia_chervenite_pecheliat_sinite/?ref=rss",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4977222.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Burnham Bets That Britain Can Move Past the Old Brexit Divisions",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-07/burnham-bets-that-britain-can-move-past-the-old-brexit-divisions",
+      "pubDate": "2026-11-07T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Нова руска атака с балистични ракети срещу Киев",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/nova-ruska-ataka-s-balistichni-raketi-sreshtu-kiev/",
+      "pubDate": "2026-11-07T05:59:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Украйна попиля Русия с ракети и дронове: Гърмят и горят военни заводи и петролна рафинерия. В Киев няма ток, парно и вода след руски удар (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ukrajna-popilja-rusija-s-raketi-i-dronove-gyrmjat-i-gorjat-voenni-zavodi-i-petrolna-rafinerija-v-kiev-njama-tok-parno-i-voda-sled-ruski-udar-video-news_2659994.html",
+      "pubDate": "2026-11-07T05:57:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/07/cde2d2b436de20f482d782c1f90664a9_2659994_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Над 2200 съдии гласуват за шестима нови членове на Висшия съдебен съвет",
+      "link": "https://www.mediapool.bg/evropa/nad-2200-sadii-glasuvat-za-shestima-novi-chlenove-na-visshiya-sadeben-savet/",
+      "pubDate": "2026-11-07T05:53:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Новият ВСС: кой с кого ще се договори и на каква цена?",
+      "link": "https://www.mediapool.bg/bulgaria/noviyat-vss-koi-s-kogo-shte-se-dogovori-i-na-kakva-tsena/",
+      "pubDate": "2026-11-07T05:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Овни и Везни се връщат към стари идеи, Стрелци и Близнаци да бягат от спорове",
+      "link": "https://offnews.bg/horoskop/ovni-i-vezni-se-vrashtat-kam-stari-idei-streltci-i-bliznatci-da-biaga-877990.html",
+      "pubDate": "2026-11-07T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/07/877990/php5bhzdq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "20 въпроса | Владимир Ампов-Графа",
+      "link": "https://www.capital.bg/moiat_capital/lica/2026/11/07/4975634_20_vuprosa_vladimir_ampov-grafa/?ref=rss",
+      "pubDate": "2026-11-07T05:30:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4975630.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "\"Пропусната възможност\": Скейтборд федерацията съжалява за отказаното състезание",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/07/4976998_propusnata_vuzmojnost_skeitbord_federaciiata_sujaliava/?ref=rss",
+      "pubDate": "2026-11-07T05:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+      "pubDate": "2026-11-07T05:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Australian Diesel Inventory Dips as Government Flags Uncertainty",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-07/australian-diesel-inventory-dips-as-government-flags-uncertainty",
+      "pubDate": "2026-11-07T05:26:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Историкът Александър Стоянов: България е полезна за Русия там, където е в момента, в ЕС и в НАТО",
+      "link": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/11/07/4977194_istorikut_aleksandur_stoianov_bulgariia_e_polezna_za/?ref=rss",
+      "pubDate": "2026-11-07T05:01:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977098.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "На път: Поглед към Мейнхатън",
+      "link": "https://www.dnevnik.bg/na_put/2026/11/07/4973082_na_put_pogled_kum_meinhatun/?ref=rss",
+      "pubDate": "2026-11-07T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4973417.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-07T04:44:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "NYT:US Believes Woman Close to Huang Was a Spy,Trump Taps Miller",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-07/nyt-us-believes-woman-close-to-huang-was-a-spy-trump-taps-miller",
+      "pubDate": "2026-11-07T04:39:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Архангелова задушница е, изсипете глътка вино на земята за Бог да прости починалите",
+      "link": "https://offnews.bg/obshtestvo/arhangelova-zadushnitca-e-izsipete-glatka-vino-na-zemiata-za-bog-da-p-878000.html",
+      "pubDate": "2026-11-07T04:14:55.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/07/878000/php5qynbp_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "Peltola campaign sues Alaska to get records on rejected absentee ballots",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2Y0QkZDU3lpQXJjc2ZuYWlvT3lMM0wyTDFqZkI5Q3VWS1dycnhHaElwLU9NeVJ2Y1MzaVVCb1EzZlU4U2RadjVYZHo1cGV1eFZYYWsySW9vZ3ZnbWxYc2JXODhsVHlrYko1VmZEV29WY1hoYXJyUVNZbnhXOTdIZGU1U0xqb3gxS2VwWDh4Rnk2NVFUMHlmU0Fqa3RpZk5lclhld1JRdmRZcWJlbmVIR29IX0w4YjRqaV9V?oc=5",
+      "pubDate": "2026-11-07T03:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
+    {
+      "title": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVpUdVhKa3ZpUXBuSDdMV0tXM3JyVDFhWmpjOU95Mld1cWlMeGhPSmJ3Ym5WeHVQSkpLLW5iQngzVUVyeHg5Y19ucWF0SUpVNkxUOU5DNTFYN0dBN2hGWi1DVDNUQU9xMEtIVFlQSG1FSlU1NEUxeV9FeUNyV05CMXRVU3V3MmdSVFBEc2pjbE9WMFN3ZU1PS252VXVHemM5YkpmeFd4OVpFZ3pIZnN4TlpILWZfckU3R3VqTGs4RE84dw?oc=5",
+      "pubDate": "2026-11-06T23:53:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-07T07:00:10.926Z"
+    },
     {
       "title": "Днес е Архангелова задушница",
       "link": "https://www.dnevnik.bg/bulgaria/2026/11/07/4977175_dnes_e_arhangelova_zadushnica/?ref=rss",
