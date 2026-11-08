@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-11-08T16:30:46.456Z",
+  "overview": "Денят е белязан от масовата стрелба в Краков, мандата на Гади Айзенкот за съставяне на правителство в Израел и руските удари по енергийни обекти в Украйна. В България вниманието е към критиките срещу Бюджет 2027 и скандала с писмото на Гълъб Донев до Европейската комисия.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Стрелба в Краков с шестима убити",
+      "summary": "Шестима души са убити, а 15 са ранени при стрелба в центъра на Краков. Нападателят е поляк и е в болница, разследва се тероризъм, а в дома му са открити три тела.",
+      "ids": [
+        13,
+        63,
+        69,
+        70,
+        75,
+        102,
+        110,
+        114,
+        121,
+        129,
+        151,
+        152,
+        157,
+        162,
+        170,
+        212,
+        214,
+        220,
+        233,
+        238,
+        258,
+        259,
+        260,
+        266,
+        271,
+        274
+      ],
+      "link": "https://boulevardbulgaria.bg/articles/shestima-dushi-sa-ubiti-pri-strelba-v-tsentara-na-krakov",
+      "sources": [
+        "Reuters",
+        "Bloomberg",
+        "FrogNews",
+        "Actualno",
+        "Mediapool",
+        "OffNews",
+        "DW България",
+        "DW",
+        "Свободна точка",
+        "Boulevard Bulgaria",
+        "Club Z"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Айзенкот получи мандат за правителство в Израел",
+      "summary": "Израелският президент възложи на лидера на опозицията Гади Айзенкот да състави правителство. Той има до 42 дни, а целта е да измести Бенямин Нетаняху от властта.",
+      "ids": [
+        15,
+        30,
+        89,
+        106,
+        142,
+        143,
+        171,
+        200,
+        203,
+        211,
+        213,
+        215,
+        225,
+        226,
+        227,
+        229
+      ],
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/07/4977428_supernikut_na_netaniahu_shte_poluchi_mandat_za/?ref=rss",
+      "sources": [
+        "Bloomberg",
+        "DW",
+        "Boulevard Bulgaria",
+        "DW България",
+        "FrogNews",
+        "Mediapool",
+        "Actualno",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Руски удари по енергийни обекти в Украйна",
+      "summary": "Русия съобщи, че е ударила енергийни подстанции в Украйна и три кораба в Черно море. След ударите по енергийни обекти 600 000 души са останали без ток.",
+      "ids": [
+        7,
+        50
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazhFMzMyaE1XUkdkS3pUSTkxcmI4Nk84TTZBbkpwSEg5UzE1bXh1RkFRSDN5d2owWnE4bWtoVDE5T1FFR3JrNGZNZFBTRlQ4b3JuSnQtczRGMTJzOUlDV0J3UGVVSVQyd0lJYlhxZVJEOWtuc3lKalZGVm94Q1BxOXlRRkMtT0xOMHNEZ0EzcnNSSWVHWGlnYXJ3ZG9SRTdRTGh5SS11UzJDQQ?oc=5",
+      "sources": [
+        "Reuters",
+        "Свободна точка"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Бюджет 2027 под критики за реформи и дефицит",
+      "summary": "Бюджетът за 2027 г. е подложен на критики от икономисти и политици заради недостатъчна амбиция за реформи и риск от дефицит. От ДСБ и Владислав Панев го нарекоха страхлив, а от МВР синдиката получиха отговор, че няма пари за увеличение на заплатите.",
+      "ids": [
+        4,
+        14,
+        18,
+        20,
+        32,
+        104,
+        116,
+        119,
+        128,
+        165,
+        241,
+        251
+      ],
+      "link": "https://www.dnevnik.bg/biznes/2026/11/08/4977509_niama_pari_za_uvelichenie_na_zaplatite_otgovori/?ref=rss",
+      "sources": [
+        "Mediapool",
+        "Dnevnik",
+        "Club Z",
+        "Boulevard Bulgaria",
+        "Actualno",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Скандал с писмото на Донев до ЕК за пенсиите",
+      "summary": "„Да, България“ обвини Гълъб Донев, че е изпратил до Европейската комисия две различни версии на писмото за втория пенсионен стълб. ГЕРБ и Георг Георгиев поискаха оставката му заради подмяна на документа.",
+      "ids": [
+        39,
+        54,
+        56,
+        90,
+        164,
+        169,
+        244,
+        263,
+        270,
+        276
+      ],
+      "link": "https://offnews.bg/ikonomika/da-balgaria-galab-donev-e-izpratil-do-ek-dve-razlichni-versii-na-pis-878084.html",
+      "sources": [
+        "OffNews",
+        "Dnevnik",
+        "Club Z",
+        "Mediapool",
+        "Actualno"
+      ]
+    }
+  ]
+}
