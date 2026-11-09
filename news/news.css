@@ -43,7 +43,24 @@
 }
 
 .lead {
+  position: relative;
   max-width: 980px;
+}
+
+/* Whole story card is clickable: the headline link stretches over its card */
+.lead-headline a::after,
+.digest-headline a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.lead:hover .lead-headline a {
+  background-size: 100% 0.08em;
+}
+
+.digest-item:hover .digest-headline a {
+  color: var(--amber);
 }
 
 /* The one loud element on the site */
@@ -55,7 +72,7 @@
   line-height: 1.05;
   letter-spacing: -0.005em;
   text-wrap: balance;
-  animation: lead-in 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation: lead-in 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) backwards;
 }
 
 .lead-headline a {

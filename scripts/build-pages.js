@@ -71,7 +71,7 @@ function permalink(top) {
   if (!time) return "";
   const date = pages.isoDay(time);
   if (!fs.existsSync(path.join(ROOT, "news", "data", "digests", `${date}.json`))) return "";
-  return `<p class="digest-permalink"><a href="/obzor/${date}/">Постоянен адрес на обзора</a> · <a href="/obzor/">Всички обзори</a></p>`;
+  return `<p class="digest-permalink"><a href="/obzor/">Всички обзори</a></p>`;
 }
 
 function renderDigest(top) {
