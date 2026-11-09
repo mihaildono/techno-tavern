@@ -1,9 +1,214 @@
 {
   "windowStart": "2026-11-08T16:30:47.916Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-09T01:00:13.205Z",
-  "totalItems": 114,
+  "lastUpdated": "2026-11-09T04:00:06.822Z",
+  "totalItems": 131,
   "items": [
+    {
+      "title": "Важните събития в България и по света днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/09/4977554_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
+      "pubDate": "2026-11-09T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4854465.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Trump says Nvidia's Huang is 'fine person' amid foreign spy probe",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51THRzZ0kxUzRfNHRhVGFNcmt1RXBVZ2VOek1PZ3dTSW5jWEp2bURxMDlpNnd0V2FhdWNSYWZrRVVfekc2eGMxaTV1eHNuLWlSRUNkVGxyZmFSdWwwcHg3dmFZXzJiQmlSMTg4WG5RV0g3YkJvdUpDY2Rn?oc=5",
+      "pubDate": "2026-11-09T03:57:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Марко Рубио мисли за \"архитектурата на сигурността\" след края на войната в Украйна",
+      "link": "https://www.actualno.com/america/marko-rubio-misli-za-arhitekturata-na-sigurnostta-sled-kraja-na-vojnata-v-ukrajna-news_2660535.html",
+      "pubDate": "2026-11-09T03:57:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/09/1a9c2e041b04e942f97fe62049c29835_2660535_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Expert: Nvidia Probe Could Weaken China Leverage",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-09/expert-nvidia-probe-could-weaken-china-leverage-video",
+      "pubDate": "2026-11-09T03:53:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Nvidia Investigates Huang, Iran's Demands \"Unrealistic\", More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-09/nvidia-investigates-huang-iran-s-demands-unrealistic-more",
+      "pubDate": "2026-11-09T03:51:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Две върховни съдийки и военен магистрат - сред новите членове на ВСС",
+      "link": "https://clubz.bg/181610",
+      "pubDate": "2026-11-09T03:48:47.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/vss-777~2.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "A’lahn Sumler leads Pitt past Penn State in Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXl2VXhlUEF0Q0pmcVIycWgzaVJjX2JZdXNvYkYtUlVOYnpEODRUaUR4cV9OZ1UxSFBLN1hJamxtU3NhQUhGemtJelpYQk9wR1lNTkJ5QjZQS1dBT25McVNHTUlrTXFtbzJDb3FKQzJKY281SGctT2dNc1o5dUZ3Z0NrS3UyMUtYVE91X0w1TFJRdzNfODhFYzBudngxQ3F5b2QzMmQ2U2RGRnBvZC1NcA?oc=5",
+      "pubDate": "2026-11-09T03:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "държавно осигуряване Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zRzZtc2ZtRjRPUThwUjBfOFpGMUJzblpleUQtQWFuN2RHZW4tR2JtV2xMcXMzanVWOHI0VHlWZmVTRDJYYVNzSXNBUWhZbWVnMXp0eVRQakZSakg2SFBXd2x5RQ?oc=5",
+      "pubDate": "2026-11-09T03:39:39.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "днипропетровск Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uV1ZWLVlUSXhkSjlGTGZiVmVZSGpEUjJidnFsZWRQYS05cjR0SWpySGhFaEJLZXJCcFVmZ1ZFakN5SjBwQmRrWDZCSjZMVWZ6STVkTE8xTjU?oc=5",
+      "pubDate": "2026-11-09T03:37:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Australia axe Labuschagne for New Zealand test series",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODBHZHFrZlN4U2tNbnFlb1Q1R2JCWllqclV1VGQ3cXlXZGc1Rk03T1IzRENpLU9PY2k2MjVCUFJ6SGtNOFZQRDE0NHlCM1hFbElCN1dfUHlYUGE4b3ludXdEcUtUTnZBbTRWYVRvdFI2cmFLcjBFamh0MkN6MmZPUXlSYVBmalN6bkhiSHJWSFBEQm9ISnRpRW0zbDRJelNQUnc?oc=5",
+      "pubDate": "2026-11-09T03:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "What’s Next for Nvidia, AI Market After Jensen Huang Admits to Affair?: Live Q&A",
+      "link": "https://www.bloomberg.com/sessions/2026-11-08/live-q-amp-a-what-s-next-for-nvidia-ai-market-after-jensen-huang-admits-to-affair",
+      "pubDate": "2026-11-09T03:32:58.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "EXCLUSIVE: Hasina seeks new passport in clearest sign of Bangladesh return",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZEakJaQXZuNHpfc0Rkejc0THdnaDdyTGhBU25LeVQxeFdDazgtc1BaQUJrTmRZOVZhYVUzV3ZwYi11aHFUcm5JNmNrTW53bG45ckxBMDZBS2hXVVZGYXFkci16Q2o5MG04VnZqaWtENU9ueFJmcWwxRlI4djUtdmtUWFNmSmxzZ2tYejZxUjlkS2lYR0lrU0pWV3V4ci16?oc=5",
+      "pubDate": "2026-11-09T03:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video",
+      "pubDate": "2026-11-09T03:23:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Devils' Connor Hellebuyck shuts out Maple Leafs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTBsNTQzTnFwYTl4LXdyNXRmRDQ5a2hJTE1LNzFlRGxoVUhWUGZmUWdjMWVNYU1NUmQ1R2JuMVhiSDJidTU0MGVTWWZxaGVBSUFjaWRBOFlzTjJ3aXY2SkFyQVhpdnVsdVVCVmYzRFloSGZCRHFYYXY3UlU5NmlxNVdGaXJjR1oxQ0NnMVpjd0ZFdjE1b1dFQmtmcjZhMjA?oc=5",
+      "pubDate": "2026-11-09T03:20:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Bloomberg Daybreak Asia: Markets React to Huang News (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-daybreak-asia-markets-react-to-huang-news-podcast",
+      "pubDate": "2026-11-09T03:19:51.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-09T01:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
+    {
+      "title": "Germany: Chancellor Merz to nominate Aigner for president",
+      "link": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-08T19:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-09T04:00:06.822Z"
+    },
     {
       "title": "Pope in Argentina: Leo Urges Unity as Milei Ignores Lula Win in Brazil",
       "link": "https://www.bloomberg.com/news/articles/2026-11-09/pope-in-argentina-leo-urges-unity-as-milei-ignores-lula-win-in-brazil",
