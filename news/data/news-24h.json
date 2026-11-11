@@ -1,9 +1,633 @@
 {
   "windowStart": "2026-11-10T16:31:00.048Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-11T04:00:07.993Z",
-  "totalItems": 130,
+  "lastUpdated": "2026-11-11T07:00:06.993Z",
+  "totalItems": 180,
   "items": [
+    {
+      "title": "Anthropic Bankers Reportedly Look to Increase IPO Valuation",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/anthropic-bankers-reportedly-look-to-increase-ipo-valuation",
+      "pubDate": "2026-11-11T06:57:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "DW Science explainer on the default mode network: what your brain does when you aren't focusing on anything, and why it's important.",
+      "link": "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-11T06:57:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "South Korean Battery Makers Face Greater Scrutiny in Hungary",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/south-korean-battery-makers-face-greater-scrutiny-in-hungary",
+      "pubDate": "2026-11-11T06:52:50.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Bloomberg Daybreak Europe: Climate Chaos Tests COP31 (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-11/bloomberg-daybreak-europe-climate-chaos-tests-cop31-podcast",
+      "pubDate": "2026-11-11T06:51:37.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "FTSE 100 to Bounce Back, Pound Sinks Closer to $1.33",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-11-11/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
+      "pubDate": "2026-11-11T06:49:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Nissan Pares Car Sales Forecast on Tougher China Competition",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition",
+      "pubDate": "2026-11-11T06:49:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Латвия се готви за война с Русия: ВИДЕО как гради своята част от Балтийската отбранителна линия",
+      "link": "https://www.actualno.com/europe/latvija-se-gotvi-za-vojna-s-rusija-video-kak-gradi-svojata-chast-ot-baltijskata-otbranitelna-linija-news_2661475.html",
+      "pubDate": "2026-11-11T06:49:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/11/3635239e637a9ba677f5fe8f65bdc9e5_2661475_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Четирима от ранените в трагедията на \"Тракия\" остават в реанимация в Сливен с опасност за живота",
+      "link": "https://www.actualno.com/society/chetirima-ot-ranenite-v-tragedijata-na-trakija-ostavat-v-reanimacija-v-sliven-s-opasnost-za-jivota-news_2661474.html",
+      "pubDate": "2026-11-11T06:49:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/11/bd0566c0370f1e8a7cb86a8b71e16bb0_2661474_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
+      "link": "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-11T06:46:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Арестуван е румънец за катастрофата на \"Тракия\"",
+      "link": "https://www.mediapool.bg/bulgaria/arestuvan-e-rumanets-za-katastrofata-na-trakiya/",
+      "pubDate": "2026-11-11T06:45:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Задържаха румънски шофьор, предизвикал едната верижна катастрофа на АМ Тракия",
+      "link": "https://offnews.bg/112/zadarzhaha-rumanski-shofior-predizvikal-ednata-verizhna-katastrofa-na-878292.html",
+      "pubDate": "2026-11-11T06:42:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/11/878292/phpvk5m4j_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Следовател описа точно как мъглата е допринесла за катастрофата на \"Тракия\"",
+      "link": "https://www.actualno.com/crime/sledovatel-opisa-tochno-kak-myglata-e-doprinesla-za-katastrofata-na-trakija-news_2661473.html",
+      "pubDate": "2026-11-11T06:42:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/11/ab1c09a1d53b042812550ee01d46c245_2661473_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "4 дни без парно и 2 дни без ток: Столично училище на ръба да спре занятията",
+      "link": "https://www.actualno.com/education/4-dni-bez-parno-i-2-dni-bez-tok-stolichno-uchilishte-na-ryba-da-spre-zanjatijata-news_2661471.html",
+      "pubDate": "2026-11-11T06:41:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/11/a7f97413dc4f3799e60dec9c3e61c08b_2661471_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Germany slips in climate protection rankings as other countries make gains",
+      "link": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-11T06:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Иск за 10 млрд. долара: Съдът даде ход на делото на Тръмп срещу BBC",
+      "link": "https://frognews.bg/novini/isk-10-mlrd-dolara-sadat-dade-hod-deloto-tramp-sreshtu-bbc.html",
+      "pubDate": "2026-11-11T06:40:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/dc4f949c6_1794378908_6af40c9c6d718.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Колеги журналисти, излезте от лешоядската мъгла и не злоупотребявайте с човешката мъка",
+      "link": "https://www.actualno.com/actualno/kolegi-jurnalisti-izlezte-ot-leshojadskata-mygla-i-ne-zloupotrebjavajte-s-choveshkata-myka-news_2661244.html",
+      "pubDate": "2026-11-11T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/10/4230853b74063ee27a030982acc02917_2661244_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "How AI worsens online violence against Middle East women",
+      "link": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-11T06:38:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Всичко нужно за лечението на пострадалите при катастрофите на \"Тракия\" е осигурено, увери здравният министър",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/11/4978374_vsichko_nujno_za_lechenieto_na_postradalite_pri/?ref=rss",
+      "pubDate": "2026-11-11T06:33:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4978373.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Има задържан румънец за смъртоносната катастрофа на АМ ;Тракия;",
+      "link": "https://clubz.bg/181689",
+      "pubDate": "2026-11-11T06:28:05.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/vinovnik.png"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Лекарите продължават борбата за живота на ранени от „Тракия“, четирима са в реанимация",
+      "link": "https://frognews.bg/novini/lekarite-prodaljavat-borbata-jivota-raneni-trakiia-chetirima-reanimatsiia.html",
+      "pubDate": "2026-11-11T06:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/b6540c236_1794378466_6af40ae22d8cf.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Румънецът е на командно дишане, още четирима са с опасност за живота след мелето на АМ ''Тракия''",
+      "link": "https://offnews.bg/obshtestvo/rumanetcat-e-na-komandno-dishane-oshte-chetirima-sa-s-opasnost-za-zhi-878288.html",
+      "pubDate": "2026-11-11T06:22:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/11/878288/phpnahegv_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Конгресът на САЩ не отстрани Пийт Хегсет",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/11/4978366_kongresut_na_sasht_ne_otstrani_piit_hegset/?ref=rss",
+      "pubDate": "2026-11-11T06:21:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4978369.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Сезонът на чуждите агенти и шльокавицата. Действат ли заедно \"Възраждане\" и \"Прогресивна България\"",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPejVpUzN1ZEUtUzdPSGZGOHM5MGl0X2ozUEFaWm9kUTFMNlZNSjRfeHJ5SWZkM3Qxd01McFIzV3FaSWY1bkl5X1VPYUVaNmdUT2lHcV82Z3h2VHo2RzFGSzI5M2I3MmUwN1pReTJGdm92SDdETi0zUlZSMGZYdFdZcHgxNUVHZEJNb0F1Q2UxeGxZdTEwcGxxUjFmRHAwTEtJTkh2b18zbnJnSS1CdWJVblMtcDdieTlxcFlJRGQ5VmY2ZGI2OUR2U3ZkdHdFdzg?oc=5",
+      "pubDate": "2026-11-11T06:19:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "„Самотен акт“. Те протестираха срещу смазването на Пражката пролет, когато никой друг не посмя",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON05RdGc0ZDZNMTU0VjJ4QTJFYlpmaE5KOVpxc0tjTU9iakdYS2hraGNKNHl0V19NN01UdUdreVZ0T0pLcUJHTmVrWWJ1dkpjOHdlbG1OQm0xQ1IxdV9EaERzOHdkbWlXU3QzaS1YQ2RJU1pzbEZGR3htWHJWR2dISG1vSlpNME5oNFpvUlpaNUd0aXl4SllScElZSG1SellsdjdEZTc4aDgwbm5ZeDIxdEhtVkVCRjJrbWE0MVMxd1NkU1NwQWpBdg?oc=5",
+      "pubDate": "2026-11-11T06:19:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Три минути: България е в траур. Държавата влиза в спор с „Лидл“ и „Кауфланд“. Великобритания арестува военен от САЩ за шпионаж за Русия",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVUtPRmF1LUpkZVZhd05wSWxhNEhoMkxQNHQwX1BuemxaQjFSWW0wbzJLNlpLcWd4blZzRTBXanBhWE5HSGNrS1ROMWZiZGwwM2JLNVhmbk82MHkzVjdCUTZMTU9DVFhHQmQ4c2FudFJCMDhCMGZUNUlpdE1YTXVSRk1MTm1JSUtMYkVjTFNkRURyNDBjWlB3dWF4VjdSenFLWDZqMnQtczNPeEJWTklFQTN2aWFtN3docXFxS3VMUEhGdkNFNG1QcE45OG9uVURoZU56VG1IWTFHaXdLTHR0VWg5blRkUzVhZTBPTEI2MW9uVjNzVG9JQ1NoUlBRTGtzamFuNg?oc=5",
+      "pubDate": "2026-11-11T06:19:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Шефът на пътната агенция: Отчитаме грешки, компетентните органи ще ги изяснят",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/11/4978367_shefut_na_putnata_agenciia_otchitame_greshki/?ref=rss",
+      "pubDate": "2026-11-11T06:16:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4978365.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "44 свидетели са разпитани за трагедията на „Тракия“, задържан е шофьорът на румънски тир",
+      "link": "https://frognews.bg/novini/44-svideteli-razpitani-tragediiata-trakiia-zadarjan-shofjorat-rumanski-tir.html",
+      "pubDate": "2026-11-11T06:10:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8c51c846d_1794377321_6af40669d9a1a.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c?oc=5",
+      "pubDate": "2026-11-11T06:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Украинска атака по руски порт вдигна тревога в Прибалтика и Финландия",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/11/4978363_ukrainska_ataka_po_ruski_port_vdigna_trevoga_v/?ref=rss",
+      "pubDate": "2026-11-11T06:08:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4978364.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Ремонт днес ограничава движението по АМ ;Тракия; в Пазарджишка област",
+      "link": "https://clubz.bg/181688",
+      "pubDate": "2026-11-11T06:01:39.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/1000030736~8.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Нели Ангелова, \"Нестле\": Една фиданка е като дете, а засаждането е само началото",
+      "link": "https://www.dnevnik.bg/biznes/companii/2026/11/11/4977174_neli_angelova_nestle_edna_fidanka_e_kato_dete_a/?ref=rss",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4977634.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Над 1,1 млн. пътувания: Руснаците бягат от мобилизация в Грузия, Армения и Сърбия",
+      "link": "https://frognews.bg/novini/nad-1-1-mln-patuvaniia-rusnatsite-biagat-mobilizatsiia-gruziia-armeniia-sarbiia.html",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/38a516f84_1794376151_6af401d7f0358.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Емил Георгакиев: Следващият растеж е в управлението на сложността",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/11/4959829_emil_georgakiev_sledvashtiiat_rastej_e_v_upravlenieto/?ref=rss",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4959830.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "От мащабни инвестиции към устойчив енергиен бизнес",
+      "link": "https://www.capital.bg/biznes/energetika/2026/11/11/4962763_ot_mashtabni_investicii_kum_ustoichiv_energien_biznes/?ref=rss",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4962771.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Резервното копие: последната линия, която рухва първа",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/11/4961782_rezervnoto_kopie_poslednata_liniia_koiato_ruhva_purva/?ref=rss",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4961955.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Тревога в Латвия и Литва заради дронове от Русия и Беларус, НАТО вдигна изтребители",
+      "link": "https://offnews.bg/sviat/trevoga-v-latvia-i-litva-zaradi-dronove-ot-rusia-i-belarus-nato-vdign-878289.html",
+      "pubDate": "2026-11-11T05:59:03.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/11/878289/php4b0f94_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Времето днес: облаци, дъжд и мъгла",
+      "link": "https://clubz.bg/181687",
+      "pubDate": "2026-11-11T05:52:44.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/78bb6a8c74874490856002e89f7f8826-0-e814aa43559c44a5bbe40e7bbb7743b2~1.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Републиканците спасиха Пийт Хегсет от импийчмънт",
+      "link": "https://offnews.bg/sviat/republikantcite-spasiha-pijt-hegset-ot-impijchmant-878287.html",
+      "pubDate": "2026-11-11T05:45:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/11/878287/phpjysf36_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Пийт Хегсет оцеля след опит за импийчмънт, демократите готвят нов през януари",
+      "link": "https://frognews.bg/novini/piit-hegset-otselia-sled-opit-impiichmant-demokratite-gotviat-nov-prez-ianuari.html",
+      "pubDate": "2026-11-11T05:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/773cc2453_1794374916_6af3fd040fa9b.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Гълъб Донев не маха автоматизмите за заплатите, а само ги отлага",
+      "link": "https://www.mediapool.bg/biznes/galab-donev-ne-maha-avtomatizmite-za-zaplatite-a-samo-gi-otlaga/",
+      "pubDate": "2026-11-11T05:42:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Отвориха АМ ''Тракия'' и в двете посоки, но мъгла затруднява движението в района",
+      "link": "https://offnews.bg/obshtestvo/otvoriha-am-trakia-i-v-dvete-posoki-no-magla-zatrudniava-dvizheni-878286.html",
+      "pubDate": "2026-11-11T05:39:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/11/878286/php8jvqdg_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Парите на личните асистенти вече няма да растат с минималната заплата",
+      "link": "https://www.mediapool.bg/bulgaria/parite-na-lichnite-asistenti-veche-nyama-da-rastat-s-minimalnata-zaplata/",
+      "pubDate": "2026-11-11T05:38:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "В Сливен, Бургас и Ямбол: какво е състоянието на пострадалите от тежката катастрофа на АМ ;Тракия;",
+      "link": "https://clubz.bg/181686",
+      "pubDate": "2026-11-11T05:37:31.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/shststst.png"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Магистрала \"Тракия\" е отворена, но и тази сутрин има участъци с мъгла",
+      "link": "https://boulevardbulgaria.bg/articles/magistrala-trakiya-e-otvorena-no-i-tazi-sutrin-ima-uchastatsi-s-magla",
+      "pubDate": "2026-11-11T05:33:14.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3MTc2LCJwdXIiOiJibG9iX2lkIn19--27d9dc7bb29b21074c156689091bb809fbb1deb0/%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%20%D0%B2%20%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F%20.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Everyone loves CoreWeave",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVBqU0M4YXZZT3dWTVI3RG5Sam1aMkl3dW1XRlVfcVdKdTFMdFltVDdqZFp1LXhxM0RfczhSOXppa3FreS1LNHktV3Y5M25UbFRpRWViaEk2WDlFRU1BWVNsaEtoLXh4blRtdndJNnpEMVBKOUNQRVZFVnQweUw1TlRfZUZ3TUJYaFpLN1Z3?oc=5",
+      "pubDate": "2026-11-11T05:32:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+      "pubDate": "2026-11-11T05:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan back in jail after medical treatment, sources say",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTdadHlSb3QzZ2dscjRVVDF2Sl8yYUIxV1oyMGRDMVpHSHUxWk80TmlmOEtJNXYtUWlocWRVbWkxNE9jZGtIeGEzZTBSTWVGMU93UWRvaXRUczlGZGxIM0tpdUZxWTBOLVpfZTVtaFpqQ29SWXg4T3l1c2dIVVc3bHRlaXctR000V2lPRmZCTU1QVkZ6ejFjN1BXXzBvWlp5RkdOaXQ5X29ydUtJZU9VaHk5SkRXTjlzQUpyYzhHTG1KVlV1VEhLUHdtV3A?oc=5",
+      "pubDate": "2026-11-11T04:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "South Korea: Bus hits 32 vehicles near Seoul, dozens injured",
+      "link": "https://www.dw.com/en/south-korea-bus-hits-32-vehicles-near-seoul-dozens-injured/a-79914074?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-11T04:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Бизнес закуска: 🥐 Ще има данък \"свръхпечалба\" и за дистрибутори на храни; \"Фикосота фууд\" и \"Деари фууд България\" са фабрики на годината",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/11/11/4978282_biznes_zakuska_shte_ima_danuk_svruhpechalba_i_za/?ref=rss",
+      "pubDate": "2026-11-11T04:12:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4978281.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
+    {
+      "title": "Скопие унищожава югославски досиета за българите",
+      "link": "https://clubz.bg/181683",
+      "pubDate": "2026-11-10T20:18:25.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/spos-tashev-1011.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-11T07:00:06.993Z"
+    },
     {
       "title": "Църквата почита св. Мина",
       "link": "https://www.dnevnik.bg/bulgaria/2026/11/11/4977386_curkvata_pochita_sv_mina/?ref=rss",
