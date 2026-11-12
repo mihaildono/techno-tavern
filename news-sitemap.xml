@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.technotavern.com/obzor/2026-11-12/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Techno Tavern</news:name>
+        <news:language>bg</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:31:02.902Z</news:publication_date>
+      <news:title>Новините за 12 ноември 2026: Дженсън Хуанг подаде оставка като директор на Nvidia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.technotavern.com/obzor/2026-11-11/</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T16:31:56.721Z</news:publication_date>
       <news:title>Новините за 11 ноември 2026: Трагедия на АМ „Тракия“: катастрофи, жертви и последствия</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.technotavern.com/obzor/2026-11-10/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Techno Tavern</news:name>
-        <news:language>bg</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:30:58.581Z</news:publication_date>
-      <news:title>Новините за 10 ноември 2026: Верижна катастрофа на АМ „Тракия“ с 11 загинали и десетки ранени</news:title>
     </news:news>
   </url>
 </urlset>

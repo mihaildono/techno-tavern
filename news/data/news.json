@@ -1,9 +1,45 @@
 {
   "items": [
     {
-      "title": "Nvidia CEO Jensen Huang’s Downfall Knocks American AI Onto a Different Course",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-12/nvidia-ceo-jensen-huang-s-downfall-knocks-american-ai-onto-a-different-course",
-      "pubDate": "2026-11-12T15:56:56.000Z",
+      "title": "Николай Нанков: Мъглата на магистрала „Тракия“ е била прогнозирана три дни преди трагедията",
+      "link": "https://www.actualno.com/politics/nikolaj-nankov-myglata-na-magistrala-trakija-e-bila-prognozirana-tri-dni-predi-tragedijata-news_2662244.html",
+      "pubDate": "2026-11-12T16:26:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/b1809cc60a1c3064e8d1b3e54ef7fb59_2662244_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Дженсън Хуанг подаде оставка след 33 години: Възходът и падението на един технологичен лидер",
+      "link": "https://frognews.bg/novini/djensan-huang-podade-ostavka-sled-33-godini-vazhodat-padenieto-edin-tehnologichen-lider.html",
+      "pubDate": "2026-11-12T16:25:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4bbd6fdc3_1794500919_6af5e9371d596.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Метростанцията \"Цар Борис III\" е отворена за пътници",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/12/4979319_metrostanciiata_car_boris_iii_e_otvorena_za_putnici/?ref=rss",
+      "pubDate": "2026-11-12T16:22:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979065.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "SpaceX Plans $74 Billion Data Center Projects in Arizona, Texas",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-plans-74-billion-data-center-projects-in-arizona-texas",
+      "pubDate": "2026-11-12T16:21:47.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -12,15 +48,198 @@
       }
     },
     {
-      "title": "Зидан удря на камък в търсенето на своя \"Бензема\" в националния отбор на Франция",
-      "link": "https://www.actualno.com/football/zidan-udrja-na-kamyk-v-tyrseneto-na-svoja-benzema-v-nacionalnija-otbor-na-francija-news_2662221.html",
-      "pubDate": "2026-11-12T15:56:00.000Z",
+      "title": "Путин изнесе на пратениците на Тръмп лекция, от която се разбра, че не е склонен на никакви отстъпки за Украйна",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/putin-iznese-na-pratenitsite-na-tramp-lektsiya-ot-koyato-se-razbra-che-ne-e-sklonen-na-nikakvi-otstapki-za-ukraina/",
+      "pubDate": "2026-11-12T16:21:20.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Delta CEO Ed Bastian Talks Holiday Travel, and AI Spending",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-12/delta-ceo-ed-bastian-talks-holiday-travel-and-ai-spending",
+      "pubDate": "2026-11-12T16:20:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Trump Backs Lutnick Despite Uproar Over Nvidia Chip Controls",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-12/trump-backs-lutnick-despite-uproar-on-nvidia-controls-video",
+      "pubDate": "2026-11-12T16:18:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Комисията за конкуренцията: \"Кауфланд\" е глобяван 3 пъти за едно и също",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/12/4979310_komisiiata_za_konkurenciia_obiavi_che_tri_puti_e/?ref=rss",
+      "pubDate": "2026-11-12T16:18:00.000Z",
       "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/822e571845ab4aa112af21b9f20ccfae_2662221_1920x1080.jpg"
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979317.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Huang Agrees to Testify Before Congress Soon, GOP Lawmaker Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/huang-agrees-to-testify-before-congress-soon-gop-lawmaker-says",
+      "pubDate": "2026-11-12T16:13:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Read the Memos From Nvidia Leaders After Jensen Huang Ouster",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/read-the-memos-from-nvidia-chairman-and-interim-ceo-after-ouster",
+      "pubDate": "2026-11-12T16:13:03.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Hungary eases abortion rules",
+      "link": "https://www.dw.com/en/hungary-eases-abortion-rules/a-79931614?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-12T16:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Официално: Ред Бул намери роля за Никола Цолов през сезон 2027 във Формула 1!",
+      "link": "https://www.actualno.com/moresport/oficialno-red-bul-nameri-rolja-za-nikola-colov-prez-sezon-2027-vyv-formula-1-news_2662241.html",
+      "pubDate": "2026-11-12T16:12:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/21188e5aaff2995463652b684f988ce2_2662241_1920x1080.jpg"
       },
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "НА ЖИВО: Алекс Димов и д-р Слава Янакиева в пилотния епизод на рубриката \"Хибридната война\"",
+      "link": "https://offnews.bg/analizi-i-komentari/na-zhivo-aleks-dimov-i-d-r-slava-ianakieva-v-pilotnia-epizod-na-rubri-878428.html",
+      "pubDate": "2026-11-12T16:08:49.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/12/878428/phpoaq1ow_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "В София отвори врати първата по рода си лаборатория за анализ на походката",
+      "link": "https://www.dnevnik.bg/zdrave/2026/11/12/4979164_v_sofiia_otvori_vrati_purvata_po_roda_si_laboratoriia/?ref=rss",
+      "pubDate": "2026-11-12T16:05:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979163.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Въоръжен обир в центъра на Париж: Маскирани отмъкнаха диаманти за над 1 млн. евро",
+      "link": "https://frognews.bg/novini/vaorajen-obir-tsentara-parij-maskirani-otmaknaha-diamanti-nad-1-mln-evro.html",
+      "pubDate": "2026-11-12T16:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/7e91775f7_1794499694_6af5e46e9ece2.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Църковен празник на 13 ноември: Поличбата, която вещае нещастие",
+      "link": "https://www.actualno.com/celebrate/cyrkoven-praznik-na-13-noemvri-polichbata-kojato-veshtae-neshtastie-news_2662148.html",
+      "pubDate": "2026-11-12T16:03:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/05f2d4d26cf9fd7eb5a028d2759b819c_2662148_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Путин умира през януари, но войната Русия - НАТО е неизбежна: Сценарият на RAND",
+      "link": "https://www.actualno.com/europe/putin-umira-prez-januari-no-vojnata-rusija-nato-e-neizbejna-scenarijat-na-rand-news_2662237.html",
+      "pubDate": "2026-11-12T16:02:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/90c3d698b7a3ee5ee97e4acfbc244ceb_2662237_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+      "pubDate": "2026-11-12T16:01:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Магнитна буря за петък, 13 ноември 2026: Прогноза от САЩ",
+      "link": "https://www.actualno.com/cosmos/magnitna-burja-za-petyk-13-noemvri-2026-prognoza-ot-sasht-news_2660779.html",
+      "pubDate": "2026-11-12T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/09/38e8521875d48c1786fe34c4f8d6e8b5_2660779_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Зеленски: Европа трябва да внимава, ако САЩ и Русия говорят за нова архитектура на сигурност",
+      "link": "https://frognews.bg/novini/zelenski-evropa-triabva-vnimava-ako-sasht-rusiia-govoriat-nova-arhitektura-sigurnost.html",
+      "pubDate": "2026-11-12T16:00:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/689131bf3_1794497414_6af5db863101c.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
+      "pubDate": "2026-11-12T15:59:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
       }
     },
     {
@@ -36,40 +255,6 @@
       }
     },
     {
-      "title": "Стрелба във фитнес: Петима души простреляни във Вашингтон, нападателят открил огън и по полицаите (ВИДЕО)",
-      "link": "https://www.actualno.com/america/strelba-vyv-fitnes-petima-dushi-prostreljani-vyv-vashington-napadateljat-otkril-ogyn-i-po-policaite-video-news_2662232.html",
-      "pubDate": "2026-11-12T15:53:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/0ab2dc34b63360c5d72ac070f0adc69b_2662232_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Colom’s Mississippi Win Shows a Seismic Shift in the Deep South",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-12/colom-s-mississippi-win-shows-a-seismic-shift-in-the-deep-south",
-      "pubDate": "2026-11-12T15:50:27.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "CoreWeave Bonds Rise After Strong Earnings Soothe Debt Anxiety",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/coreweave-bonds-rise-after-strong-earnings-soothe-debt-anxiety",
-      "pubDate": "2026-11-12T15:50:04.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Възстановиха достъпа до метростанция „Цар Борис III“ след срутване на тавана",
       "link": "https://frognews.bg/novini/vazstanoviha-dostapa-metrostantsiia-tsar-boris-iii-sled-srutvane-tavana.html",
       "pubDate": "2026-11-12T15:50:00.000Z",
@@ -82,13 +267,13 @@
       }
     },
     {
-      "title": "Bloomberg Surveillance: Huang Ousted as Nvidia CEO (Podcast)",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-12/bloomberg-surveillance-huang-ousted-as-nvidia-ceo-podcast",
-      "pubDate": "2026-11-12T15:49:34.000Z",
+      "title": "One person reported dead, multiple wounded in active shooting in Washington, DC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
+      "pubDate": "2026-11-12T15:45:21.000Z",
       "thumbnail": null,
       "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -117,17 +302,6 @@
       }
     },
     {
-      "title": "Delta Sees No Pushback on Higher Fares, CEO Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-12/delta-sees-no-pushback-on-higher-fares-ceo-says-video",
-      "pubDate": "2026-11-12T15:43:45.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Авансови 15 евро/МВтч за тока на бизнеса, помощ и за скъпия газ",
       "link": "https://www.mediapool.bg/biznes/avansovi-15-evromvtch-za-toka-na-biznesa-pomosht-i-za-skapiya-gaz/",
       "pubDate": "2026-11-12T15:43:37.000Z",
@@ -138,27 +312,15 @@
       }
     },
     {
-      "title": "Фестивалът Exit се завръща в Сърбия през 2027 г. след победата на \"Студентска листа\"",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/12/4979304_festivalut_exit_se_zavrushta_v_surbiia_prez_2027_g/?ref=rss",
-      "pubDate": "2026-11-12T15:40:00.000Z",
+      "title": "Прогресивна България отвръща на Кауфланд",
+      "link": "https://offnews.bg/ikonomika/progresivna-balgaria-otvrashta-na-kaufland-878426.html",
+      "pubDate": "2026-11-12T15:43:22.000Z",
       "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4979303.jpg"
+        "link": "https://i2.offnews.bg/events/2026/11/12/878426/phpbwenz6_559x345.jpg"
       },
       "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Дълбок сън на добра цена: 5 чудесни матрака на TED за Black Friday",
-      "link": "https://www.actualno.com/bodyandbalance/dylbok-syn-na-dobra-cena-5-chudesni-matraka-na-ted-za-black-friday-news_2644876.html",
-      "pubDate": "2026-11-12T15:40:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/09/30/eb832b0ead8b3bfb32bbd052a38a4637_2644876_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
+        "name": "OffNews",
+        "color": "#E91E63"
       }
     },
     {
@@ -170,30 +332,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "\"Нямам търпение да идем в съда\": Директорът на \"Кауфланд\" обяви, че ще обжалват глобата",
-      "link": "https://www.actualno.com/company/njamam-tyrpenie-da-idem-v-syda-direktoryt-na-kaufland-objavi-che-shte-objalvat-globata-news_2662217.html",
-      "pubDate": "2026-11-12T15:39:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/e488db7e177b5afb62e2a0b02252fa4c_2662217_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "AI и творците – кой е авторът: Гади Орон за съвременните проблеми пред авторското право",
-      "link": "https://www.actualno.com/interview/ai-i-tvorcite-koj-e-avtoryt-gadi-oron-za-syvremennite-problemi-pred-avtorskoto-pravo-news_2662226.html",
-      "pubDate": "2026-11-12T15:38:00.000Z",
-      "thumbnail": {
-        "link": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/11/12/effb1906b7ead178d4d3d9e28b1aac3e_2662226_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
       }
     },
     {
@@ -214,18 +352,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Големият въпрос в Силициевата долина: кой ще оглави NVIDIA",
-      "link": "https://www.dnevnik.bg/sviat/2026/11/12/4979301_golemiiat_vupros_v_silicievata_dolina_koi_shte_nasledi/?ref=rss",
-      "pubDate": "2026-11-12T15:31:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4979288.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
       }
     },
     {
@@ -275,18 +401,6 @@
       }
     },
     {
-      "title": "Петима са простреляни във Вашингтон в квартал недалеч от Белия дом",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/12/4979295_petima_sa_prostreliani_vuv_vashington_v_kvartal/?ref=rss",
-      "pubDate": "2026-11-12T15:25:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4979292.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "UK court convicts 2 Iranian men of spying on journalists",
       "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-12T15:23:00.000Z",
@@ -295,18 +409,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "Стрелба във Вашингтон: Петима са простреляни, заподозреният се барикадира в жилищна сграда",
-      "link": "https://frognews.bg/novini/strelba-vav-vashington-petima-prostreliani-zapodozreniiat-barikadira-jilishtna-sgrada.html",
-      "pubDate": "2026-11-12T15:20:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/12c7c32eb_1794496835_6af5d9433a0f5.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
       }
     },
     {
@@ -330,16 +432,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "Пред Къшнър и Уиткоф Путин за 4-ти път за година обяви, че Русия контролира град Константиновка в Донбас",
-      "link": "https://www.mediapool.bg/voina-v-ukraina/pred-kashnar-i-uitkof-putin-za-4-ti-pat-za-godina-obyavi-che-rusiya-kontrolira-grad-konstantinovka-v-donbas/",
-      "pubDate": "2026-11-12T15:13:28.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
       }
     },
     {
@@ -391,18 +483,6 @@
       }
     },
     {
-      "title": "ЕК готви нови санкции срещу Русия и още мерки за финансиране на Украйна",
-      "link": "https://frognews.bg/novini/gotvi-novi-sanktsii-sreshtu-rusiia-oshte-merki-finansirane-ukraina.html",
-      "pubDate": "2026-11-12T15:10:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/5dc4e54a2_1794495390_6af5d39e27510.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
       "title": "Рискът стана реалност - Дженсън Хуанг се оттегли от Nvidia",
       "link": "https://www.capital.bg/biznes/ai/2026/11/12/4979262_riskut_stana_realnost_-_djensun_huang_se_ottegli_ot/?ref=rss",
       "pubDate": "2026-11-12T15:08:00.000Z",
@@ -423,6 +503,18 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
+      }
+    },
+    {
+      "title": "Министърът на икономиката обвини ;Кауфланд; в арогантност и неуважение към правителството",
+      "link": "https://clubz.bg/181786",
+      "pubDate": "2026-11-12T15:07:08.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/aleksandar-pulev~1.jpeg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
       }
     },
     {
@@ -482,17 +574,6 @@
       }
     },
     {
-      "title": "Bomb alert temporarily halts trains at Calais station, causing Eurostar delays",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1FXQ09iU3RJb1dMVWo5WjZaWGFvQWJBaUZVU1dTbjZxYUhXNUotTWdJVjRWeWtreXZ3LWdTYVJaMkpLV00zcGdOMndEaTFWX1dTZEV2VXpoR016QUxzblVLMHZBTkprTXZ5cmJmUllrQWtnbnUwX0dvU2JQUFlqMlhFWmFOdWpEZEFMX0NTYU1CaUZWbWw1VDRtU2I3RHhVM2htRGhOUms?oc=5",
-      "pubDate": "2026-11-12T14:47:32.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "След разкритията за любовниците: Дженсън Хуанг се оттегля",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUtrN25rMGhwM0gxLXNrSlZhMzJSbTVjbThiVDBndDloQzlHQlFBektyeXVaTEkzMnlmRVdJa0I0NzFaSjdSUUY0UFpCaXZHcTRiVFpEV0xJY3hCR0ZMSm8wMkRWY2pnWnB6eDFEblRwdW5BSkIxc3VWdzUwR2lzaW5aU01sUDJ5UW5oUWVvZkdERGxOaXRfSNIBmAFBVV95cUxNTjFoTE1qc0ZqV1F4YjJNaGpXR21JUGZWbDhERU1tS3h6WlhqYjZLUHVnOUM5OWFXZl9qeTNEQlRFZGo2VXpJR0ROY3E0TmkxRTQ0aUFrbzAyRjZ4dGJLYTc5amxPSXN1YldaQ2pzVmxubWpJVG1MVWRBRjd4VmhTbnlqZHV6aHlDX3dUMVc1SjR5eHJUZTB2Rw?oc=5",
       "pubDate": "2026-11-12T14:46:38.000Z",
@@ -501,63 +582,6 @@
         "name": "DW България",
         "color": "#05B2FF",
         "publisher": "DW.com"
-      }
-    },
-    {
-      "title": "Singapore barred Alice Huang from re-entry following investigation",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnYzUU95Qk1nQm5HQmgyWFIyZVpEcVpJUHc2b0FCOEYwUnNZbjVrajlLMVY2QXRUTzR1djQxclI1ckdxcUdhc3phdkhNRTZqOFRMY29QZ0pNOUloekpxWldVZEJsS0l4VEZFTXQyb0sxUFpyaGFJY0QtbFFGa0ZZLVB6LTdaQWwyZnhjQUdLbkU4UFhheHJ4NlJCQndfQWtwVHNmYWN4SmNxZGpsSTB0S2RSTmJhTXc?oc=5",
-      "pubDate": "2026-11-12T14:46:18.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Police swarm Washington, DC, active shooter incident, one reported dead",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
-      "pubDate": "2026-11-12T14:45:56.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Бизнесът подкрепи Бюджет 2027 с данъчни резерви, синдикатите се разделиха за доходите",
-      "link": "https://frognews.bg/novini/biznesat-podkrepi-byudzhet-2027-danachni-rezervi-sindikatite-razdeliha-dohodite.html",
-      "pubDate": "2026-11-12T14:45:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/9ab08991d_1794494450_6af5cff23f232.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
-      }
-    },
-    {
-      "title": "Транспортният министър призна за хаос в координацията между институциите по пътната безопасност",
-      "link": "https://offnews.bg/politika/transportniat-ministar-prizna-za-haos-v-koordinatciata-mezhdu-institut-878408.html",
-      "pubDate": "2026-11-12T14:28:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/12/878408/phpyaqyma_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "Iran: Exiled journalists still repressed by regime",
-      "link": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-12T14:25:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
       }
     },
     {
@@ -614,18 +638,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      }
-    },
-    {
-      "title": "МВР отново ще издава паспорти с 10-годишна валидност",
-      "link": "https://offnews.bg/obshtestvo/mvr-otnovo-shte-izdava-pasporti-s-10-godishna-validnost-878418.html",
-      "pubDate": "2026-11-12T14:01:44.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/12/878418/phpiq32gr_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
       }
     },
     {
@@ -708,20 +720,8 @@
       }
     },
     {
-      "title": "Радев: Ако искаме стабилен мир в Украйна, трябва да отчитаме и руските интереси",
-      "link": "https://clubz.bg/181782",
-      "pubDate": "2026-11-12T13:10:26.000Z",
-      "thumbnail": {
-        "link": "https://clubz.bg147/kasa8911.jpg"
-      },
-      "source": {
-        "name": "Club Z",
-        "color": "#607D8B"
-      }
-    },
-    {
       "title": "Русия използва на фронта \"пушечно месо\" от близо 100 държави",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHFKNUhkZ29LdGd4b0tGMFpxNzVUWGc3cWN6R1ZrS2lYUzJlMU96elRvVGo1eWNwNV9veTlGODYydjBmWmdhdVkzUDlVRmVtbnREd2tWcmJLaWNKaWoyejVSWjVYUjZGaEJ6aVVuMmlyMnpyNzRJOGpjUU1OVjhtZ3gySjNsY0N5Tkp1Q2RFWHczcjRV0gGUAUFVX3lxTFB6aUxmWlh4cDJwV1NDdTY0aXBPVXlsV21vNEpXWFp2eHQ2RmtZRXhWc1VzMjI4OWtYZGpHZU5JQTNGSzBWRnRRZTEtb29KWnI0bUIzQUNBVjVCRmZIdzEwZmhwOGVadzdVbVB1dmU2Y280c1A1eE9iTHRZQlJlWGFKYWdUTldKdWhEUm5vUjVGMGZLY3Y?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHFKNUhkZ29LdGd4b0tGMFpxNzVUWGc3cWN6R1ZrS2lYUzJlMU96elRvVGo1eWNwNV9veTlGODYydjBmWmdhdVkzUDlVRmVtbnREd2tWcmJLaWNKaWoyejVSWjVYUjZGaEJ6aVVuMmlyMnpyNzRJOGpjUU1OVjhtZ3gySjNsY0N5Tkp1Q2RFWHczcjRV?oc=5",
       "pubDate": "2026-11-12T11:51:10.000Z",
       "thumbnail": null,
       "source": {
@@ -741,5 +741,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-12T16:00:07.184Z"
+  "lastUpdated": "2026-11-12T16:30:08.517Z"
 }
