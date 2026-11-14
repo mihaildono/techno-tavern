@@ -1,9 +1,33 @@
 {
   "items": [
     {
-      "title": "White House Urges Easing Liability to Encourage AI Disclosure",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
-      "pubDate": "2026-11-14T00:34:34.000Z",
+      "title": "Следователите изслушват днес кандидатите си за професионалната квота в съдебния съвет",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/14/4979840_sledovatelite_izslushvat_dnes_kandidatite_si_za/?ref=rss",
+      "pubDate": "2026-11-14T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979839.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Кой има имен ден днес, 14 ноември 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-14-noemvri-2026-g-chestito-news_2662757.html",
+      "pubDate": "2026-11-14T03:55:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/13/12d94d7e1345bc6c29c3ca3e2236dfaf_2662757_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "FAA Ground Stop Lifted, Duffy Wants Emergency Funding, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-duffy-wants-emergency-funding-more",
+      "pubDate": "2026-11-14T03:33:03.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -12,9 +36,9 @@
       }
     },
     {
-      "title": "Tesla Says It’s Starting to Sell Cybercabs for Personal Use",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use",
-      "pubDate": "2026-11-14T00:33:46.000Z",
+      "title": "FAA Flight Ground Stop Leaves Passengers in Airport Limbo Across US",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/faa-flight-ground-stop-leaves-passengers-in-airport-limbo-across-us",
+      "pubDate": "2026-11-14T03:19:02.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -23,9 +47,9 @@
       }
     },
     {
-      "title": "Bloomberg Money: November 13th 2026 (Podcast)",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-14/bloomberg-money-november-13th-2026-podcast",
-      "pubDate": "2026-11-14T00:32:21.000Z",
+      "title": "Duffy Calls for Emergency Air Traffic Upgrade Funds After Outage",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/duffy-calls-for-emergency-air-traffic-upgrade-funds-after-outage",
+      "pubDate": "2026-11-14T02:53:04.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -34,9 +58,9 @@
       }
     },
     {
-      "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video",
-      "pubDate": "2026-11-14T00:29:03.000Z",
+      "title": "Afterpay Co-Founder Molnar to Leave Dorsey’s Block at Year-End",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/afterpay-co-founder-molnar-to-leave-dorsey-s-block-at-year-end",
+      "pubDate": "2026-11-14T02:46:07.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -45,13 +69,90 @@
       }
     },
     {
-      "title": "Nationwide Ground Stop Continues, FBI Probes Outage, More",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-14/nationwide-ground-stop-continues-fbi-probes-outage-more",
-      "pubDate": "2026-11-14T00:17:24.000Z",
+      "title": "FAA Ground Stop Lifted, Trump to Meet Xi & Putin in China, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-trump-to-meet-xi-putin-in-china-more",
+      "pubDate": "2026-11-14T02:33:34.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
         "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "SpaceX launches Starship rocket, fails to recover booster",
+      "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T02:24:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "US flight shutdown exposes deepening air traffic network crisis",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+      "pubDate": "2026-11-14T02:18:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "US lifts nationwide ground stop for airports hours after halting all departures",
+      "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T01:41:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Rubio assails international court in speech to conservative legal group",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
+      "pubDate": "2026-11-14T01:06:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
+      "pubDate": "2026-11-14T00:55:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+      "pubDate": "2026-11-14T00:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+      "pubDate": "2026-11-14T00:22:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -106,61 +207,6 @@
       }
     },
     {
-      "title": "US National Weather Service says its radars operating normally",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVd5T1hBd3pUa3JPeW5ob1VrRV82TjhsN2t2UEQ2MFhZc3hqNU1LeHVDOEN2Vzk0cmRWRi1lQUtkNjJHakRFa0NTajMxRXlybnZtbGhPU0hXUVVFdlpPUEhpRWxyemNsUXE2cnVwSzJiSFZORFE1N1d6Y2sydFVxaTh0Vy0tQ1VqdXZYbEppdXVWVFc4Q0VxczNDQjRtblRKSTZ0ejlFY1ZFYTVmbTlST2pqMEhXUWFlSkpZM294ektYZw?oc=5",
-      "pubDate": "2026-11-13T23:42:59.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
-      "pubDate": "2026-11-13T23:33:25.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
-      "pubDate": "2026-11-13T23:30:55.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
-      "pubDate": "2026-11-13T23:30:44.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
-      "pubDate": "2026-11-13T23:11:55.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Полша спира финансирането на оръжия по програмата PURL за Украйна",
       "link": "https://www.actualno.com/europe/polsha-spira-finansiraneto-na-oryjija-po-programata-purl-za-ukrajna-news_2662779.html",
       "pubDate": "2026-11-13T23:10:00.000Z",
@@ -173,17 +219,6 @@
       }
     },
     {
-      "title": "FAA issues US national ground stop on all flights",
-      "link": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-13T22:57:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Заради публикация в Instagram: Задържаха \"най-младия и известен политик в Русия\"",
       "link": "https://www.actualno.com/europe/zaradi-publikacija-v-instagram-zadyrjaha-naj-mladija-i-izvesten-politik-v-rusija-news_2662777.html",
       "pubDate": "2026-11-13T22:46:00.000Z",
@@ -193,6 +228,16 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Извънредно: Всички полети в САЩ са спрени",
+      "link": "https://www.mediapool.bg/svyat/izvanredno-vsichki-poleti-v-sasht-sa-spreni/",
+      "pubDate": "2026-11-13T22:40:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
       }
     },
     {
@@ -213,18 +258,6 @@
       "pubDate": "2026-11-13T22:26:00.000Z",
       "thumbnail": {
         "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/14/0d0a2eb27a6f7ccbfe4979a03d0b2235_2662772_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Треньорът на България не даде логично обяснение след позора от Исландия на \"Колежа\"",
-      "link": "https://www.actualno.com/bgfootball/trenioryt-na-bylgarija-ne-dade-logichno-objasnenie-sled-pozora-ot-islandija-na-koleja-news_2662771.html",
-      "pubDate": "2026-11-13T22:22:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/14/eb462a3d81a0b7df93828bab8a1f41a4_2662771_1920x1080.jpg"
       },
       "source": {
         "name": "Actualno",
@@ -323,18 +356,6 @@
       }
     },
     {
-      "title": "Млад мъж във Велико Търново влезе в офис с жив питон, увит около врата му",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/13/4979885_mlad_muj_vuv_veliko_turnovo_vleze_v_ofis_s_jiv_piton/?ref=rss",
-      "pubDate": "2026-11-13T20:33:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4964856.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
       "title": "Европа реши кой ще я представлява на преговорите за мир в Украйна, Русия не иска и да чуе",
       "link": "https://offnews.bg/sviat/evropa-reshi-koj-shte-ia-predstavliava-na-pregovorite-za-mir-v-ukrajna-878513.html",
       "pubDate": "2026-11-13T19:57:01.000Z",
@@ -347,8 +368,8 @@
       }
     },
     {
-      "title": "Ukraine updates: EU to send united front to potential peace talks",
-      "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-top-1022-rdf",
+      "title": "Ukraine updates: Europe to send united front to potential peace talks",
+      "link": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-13T19:39:00.000Z",
       "thumbnail": null,
       "source": {
@@ -424,17 +445,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru",
-      "link": "https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-13T18:58:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
       }
     },
     {
@@ -517,16 +527,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "Шефът на Kaufland България e уволнен след реакцията му на огромната глоба",
-      "link": "https://www.mediapool.bg/bulgaria/shefat-na-kaufland-bulgaria-e-uvolnen-sled-reaktsiyata-mu-na-ogromnata-globa/",
-      "pubDate": "2026-11-13T17:40:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
       }
     },
     {
@@ -729,5 +729,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-14T01:00:09.008Z"
+  "lastUpdated": "2026-11-14T04:00:07.030Z"
 }
