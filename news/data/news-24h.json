@@ -1,9 +1,480 @@
 {
   "windowStart": "2026-11-13T16:30:54.380Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-14T04:00:07.034Z",
-  "totalItems": 139,
+  "lastUpdated": "2026-11-14T07:00:08.693Z",
+  "totalItems": 177,
   "items": [
+    {
+      "title": "Въздушното пространство на САЩ отново е отворено",
+      "link": "https://www.mediapool.bg/svyat/vazdushnoto-prostranstvo-na-sasht-otnovo-e-otvoreno/",
+      "pubDate": "2026-11-14T06:50:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "\"Безшумно заплашване\": Китай проведе необявени военни учения около Тайван",
+      "link": "https://www.actualno.com/asia/bezshumno-zaplashvane-kitaj-provede-neobjaveni-voenni-uchenija-okolo-tajvan-news_2662798.html",
+      "pubDate": "2026-11-14T06:44:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/14/381727428e7ca895d61a54c52f6aa78e_2662798_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Украйна заяви, че се е научила да отклонява от курса ракетите \"Орешник\"",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/ukraina-zayavi-che-se-e-nauchila-da-otklonyava-ot-kursa-raketite-oreshnik/",
+      "pubDate": "2026-11-14T06:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Фестивал ще пренесе в София музика, детски спектакли, кино и книги от \"Градините на Испания\"",
+      "link": "https://www.dnevnik.bg/kultura/2026/11/14/4979194_festival_shte_prenese_v_sofiia_muzika_detski_spektakli/?ref=rss",
+      "pubDate": "2026-11-14T06:39:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979722.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "India: Delhi surpasses Lahore as world's most polluted city",
+      "link": "https://www.dw.com/en/india-delhi-surpasses-lahore-as-world-s-most-polluted-city/live-79946817?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T06:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Путин се мери с НАТО, докато армията му в Украйна измира: Z-вой, че украинците контраатакуват (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/putin-se-meri-s-nato-dokato-armijata-mu-v-ukrajna-izmira-z-voj-che-ukraincite-kontraatakuvat-obzor-video-news_2662746.html",
+      "pubDate": "2026-11-14T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/14/a2bb018132e2902486010065f5928229_2662746_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "ВКС и ВАС оставиха без отговор въпроса за правото на юридическите лица да търсят неимуществени вреди",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/11/14/4979786_vks_i_vas_ostaviha_bez_otgovor_vuprosa_za_pravoto_na/?ref=rss",
+      "pubDate": "2026-11-14T06:30:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4979789.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Полският президент за втори път наложи вето на законопроект за блокиране на съдържание в интернет",
+      "link": "https://offnews.bg/sviat/polskiat-prezident-za-vtori-pat-nalozhi-veto-na-zakonoproekt-za-blokir-878518.html",
+      "pubDate": "2026-11-14T06:28:38.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/13/878518/phpgflb56_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "\"Въпросът за финансирането на Украйна тресе Европа\": Льо Пен е готова да се срещне със Зеленски",
+      "link": "https://www.actualno.com/europe/vyprosyt-za-finansiraneto-na-ukrajna-trese-evropa-lio-pen-e-gotova-da-se-sreshtne-sys-zelenski-news_2662796.html",
+      "pubDate": "2026-11-14T06:24:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/14/0c9d5472eb935166b6a3f1a356c387d1_2662796_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "САЩ възстановиха въздушния трафик след няколкочасово спиране на всички полети",
+      "link": "https://clubz.bg/181835",
+      "pubDate": "2026-11-14T06:21:58.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg147/3510f10725f14494bd8ea59a685f92f3.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+      "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T06:09:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "\"Ивкони Експрес\" взима 92 локомотива и вагони под наем от БДЖ",
+      "link": "https://www.mediapool.bg/biznes/ivkoni-ekspres-vzima-92-lokomotiva-i-vagoni-pod-naem-ot-bdzh/",
+      "pubDate": "2026-11-14T06:08:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Знам, че ти е студено - разказ от Здравка Евтимова",
+      "link": "https://offnews.bg/nashite-avtori/znam-che-ti-e-studeno-razkaz-ot-zdravka-evtimova-878311.html",
+      "pubDate": "2026-11-14T06:06:16.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/14/878311/phpfpskjx_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Аз съм герой в книга за момче, което копнее да има истински баща",
+      "link": "https://www.mediapool.bg/procheti-tova/az-sam-geroi-v-kniga-za-momche-koeto-kopnee-da-ima-istinski-bashta/",
+      "pubDate": "2026-11-14T06:03:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "\"Щастливеца\" и Constantinoff: изкуството на винената селекция",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/14/4961818_shtastliveca_i_constantinoff_izkustvoto_na_vinenata/?ref=rss",
+      "pubDate": "2026-11-14T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4961807.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "В ерата на AI агентите добре описаният процес струва повече от всяка нова функционалност",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/14/4961625_v_erata_na_ai_agentite_dobre_opisaniiat_proces_struva/?ref=rss",
+      "pubDate": "2026-11-14T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4961983.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Инфраструктурата е новият AI сървър. Блок по блок",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/14/4965591_infrastrukturata_e_noviiat_ai_survur_blok_po_blok/?ref=rss",
+      "pubDate": "2026-11-14T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4965587.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Нюзлетър | Президентът Радев обичаше германски инвестиции, премиерът Радев - не. Европа няма нужда от нова архитектура за сигурност",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/14/4979585_njuzletur_prezidentut_radev_obichashe_germanski/?ref=rss",
+      "pubDate": "2026-11-14T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4979778.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Burnham Tries to Hush Down His Own Talk of Rejoining the EU",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/burnham-tries-to-hush-down-his-own-talk-of-rejoining-the-eu",
+      "pubDate": "2026-11-14T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Икономистът Лъчезар Богданов: Бюджет 2027 е плах и с много рискове",
+      "link": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/11/14/4979861_ikonomistut_luchezar_bogdanov_bjudjet_2027_e_plah_i_s/?ref=rss",
+      "pubDate": "2026-11-14T05:47:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979858.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "14 ноември: Сърбия обявява война на България. Започват бомбардировките над София",
+      "link": "https://www.actualno.com/society/14-noemvri-syrbija-objavjava-vojna-na-bylgarija-zapochvat-bombardirovkite-nad-sofija-news_2662487.html",
+      "pubDate": "2026-11-14T05:45:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/13/2327a202b64805d3cb3cdc55205e4ad0_2662487_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Почти семейна фирма: хаосът в Nvidia повдига въпроси за бъдещето",
+      "link": "https://www.dnevnik.bg/izkustven-intelekt/2026/11/14/4979874_pochti_semeina_firma_haosut_v_nvidia_povdiga_vuprosi/?ref=rss",
+      "pubDate": "2026-11-14T05:41:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4979873.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+      "pubDate": "2026-11-14T05:40:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
+      "pubDate": "2026-11-14T05:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "20 въпроса | Вихра Пешева, галеристката, която се натъжава от липсата на вкус",
+      "link": "https://www.capital.bg/moiat_capital/lica/2026/11/14/4978031_20_vuprosa_vihra_pesheva_galeristkata_koiato_se/?ref=rss",
+      "pubDate": "2026-11-14T05:35:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4978057.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Везни и Козирози да не се претоварват, мнозина търсят опора в рода, приятели",
+      "link": "https://offnews.bg/horoskop/vezni-i-kozirozi-da-ne-se-pretovarvat-mnozina-tarsiat-opora-v-roda-p-878469.html",
+      "pubDate": "2026-11-14T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/14/878469/php2uymge_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Трийсет години срещу тайните на държавата: историята на \"Програма Достъп до Информация\"",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/14/4971272_triiset_godini_sreshtu_tainite_na_durjavata_istoriiata/?ref=rss",
+      "pubDate": "2026-11-14T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4976850.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Сензационното откритие, което накара един учен да се съблече гол пред колегите си",
+      "link": "https://www.actualno.com/faces/senzacionnoto-otkritie-koeto-nakara-edin-uchen-da-se-sybleche-gol-pred-kolegite-si-news_2650440.html",
+      "pubDate": "2026-11-14T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/02/d03c5a4ea04838e013b5a0ff98842558_2650440_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+      "pubDate": "2026-11-14T05:20:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Протест срещу сечта и строителството в Княжево и Витоша блокира за кратко бул. ''Цар Борис III''",
+      "link": "https://offnews.bg/obshtestvo/protest-sreshtu-sechta-i-stroitelstvoto-v-kniazhevo-i-vitosha-blokira-878517.html",
+      "pubDate": "2026-11-14T05:03:18.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/13/878517/phpmaal4k_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "South Korea should not fear China's rise, foreign minister says",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+      "pubDate": "2026-11-14T04:49:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "FAA Ground Stop Lifted, Sec Duffy Wants $50 Billion Funding,More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-sec-duffy-wants-50-billion-funding-more",
+      "pubDate": "2026-11-14T04:34:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Senegal Youth Olympics in Dakar end on high note",
+      "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T04:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+      "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-14T04:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+      "pubDate": "2026-11-14T04:05:34.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+      "pubDate": "2026-11-14T03:44:05.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Всички полети в САЩ са спрени",
+      "link": "https://www.mediapool.bg/svyat/vsichki-poleti-v-sasht-sa-spreni/",
+      "pubDate": "2026-11-13T22:40:16.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
+    {
+      "title": "Всичко това в наш интерес ли е и за какво всъщност получи мандат Радев?",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODlIY0tDbGJnLWFLRVhaTzlTU21NX05ZNWdILU9aMnZSWEY1NDlqcXNBMVRKbDhJeEZ2Um1BVHhWeG5xOEFnZnVmQk9NSkFzdG5XVV9FWlV2c0FmazRIcThOYnhkcVVqN3ZUWnBnSnRNeVA3NUlDN2hjX2hjMW5qWVMwS1VlS1VNdERESGdqRmJPNXBUTWNlN1c1YzRsbElXUkkwUtIBpAFBVV95cUxPODlIY0tDbGJnLWFLRVhaTzlTU21NX05ZNWdILU9aMnZSWEY1NDlqcXNBMVRKbDhJeEZ2Um1BVHhWeG5xOEFnZnVmQk9NSkFzdG5XVV9FWlV2c0FmazRIcThOYnhkcVVqN3ZUWnBnSnRNeVA3NUlDN2hjX2hjMW5qWVMwS1VlS1VNdERESGdqRmJPNXBUTWNlN1c1YzRsbElXUkkwUg?oc=5",
+      "pubDate": "2026-11-13T15:33:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-14T07:00:08.693Z"
+    },
     {
       "title": "Следователите изслушват днес кандидатите си за професионалната квота в съдебния съвет",
       "link": "https://www.dnevnik.bg/burzi-novini/2026/11/14/4979840_sledovatelite_izslushvat_dnes_kandidatite_si_za/?ref=rss",
