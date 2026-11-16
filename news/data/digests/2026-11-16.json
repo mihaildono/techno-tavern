@@ -1,0 +1,135 @@
+{
+  "updatedAt": "2026-11-16T16:31:00.071Z",
+  "overview": "Денят е белязан от срещата на Си, Тръмп и Путин в Китай, нови санкции на ЕС срещу Русия и потъването на товарен кораб край Калиакра. В България кабинетът внесе Бюджет 2027, а в Чехия имаше масови протести за обществените медии.",
+  "stories": [
+    {
+      "category": "Свят",
+      "headline": "Си, Тръмп и Путин ще се срещнат в Китай",
+      "summary": "Пекин съобщи, че Си Дзинпин, Доналд Тръмп и Владимир Путин ще обсъдят световния мир в Шънчжън. Срещата е в четвъртък, а Пекин не желае обсъждане на Украйна.",
+      "ids": [
+        16,
+        38,
+        89,
+        96,
+        179,
+        238,
+        242,
+        256,
+        272,
+        279
+      ],
+      "link": "https://www.mediapool.bg/svyat/tramp-si-i-putin-shte-se-sreshtnat-v-kitai/",
+      "sources": [
+        "FrogNews",
+        "Actualno",
+        "Bloomberg",
+        "DW",
+        "Mediapool",
+        "OffNews",
+        "Капитал",
+        "Dnevnik"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "ЕС налага нови санкции срещу Русия",
+      "summary": "ЕС санкционира руски тролове, е-магазини, банки и търговци на петрол. Новият пакет включва близо 50 руски банки и 101 компании, както и рекордна финансова помощ за Украйна.",
+      "ids": [
+        40,
+        51,
+        138
+      ],
+      "link": "https://www.dnevnik.bg/evropa/2026/11/16/4980496_es_sankcionira_ruski_trolove_e-magazini_banki_i/?ref=rss",
+      "sources": [
+        "Dnevnik",
+        "Свободна точка",
+        "Club Z",
+        "Mediapool",
+        "Капитал",
+        "Boulevard Bulgaria"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Товарен кораб потъва край Калиакра след удар с дронове",
+      "summary": "Товарен кораб потъва в българската икономическа зона в Черно море край нос Калиакра. Според морски източници причината е удар с дронове, а екипажът е спасен.",
+      "ids": [
+        15,
+        83,
+        136,
+        139,
+        153,
+        156,
+        163,
+        172,
+        223
+      ],
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/16/4980351_turgovski_korab_potuva_v_bulgarskata_ikonomicheska/?ref=rss",
+      "sources": [
+        "Reuters",
+        "DW България",
+        "Капитал",
+        "Свободна точка",
+        "Actualno",
+        "Dnevnik",
+        "Club Z",
+        "FrogNews"
+      ]
+    },
+    {
+      "category": "Политика",
+      "headline": "Кабинетът одобри и внесе Бюджет 2027",
+      "summary": "Кабинетът одобри проекта за Бюджет 2027 и го внесе в парламента. Премиерът Радев го определи като най-социалния бюджет и обеща край на оправданията с наследството.",
+      "ids": [
+        154,
+        175,
+        186,
+        201,
+        220,
+        229,
+        230,
+        231,
+        233,
+        236,
+        308
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFRKYnBsbHRtN0hRVkFjQXcyNHI5M1NGSDA3VWViWlBoNnJJV3ZheVRfVGJBMjdhb2ZOeHdjcjd4OGpWbmRzanp3ZnlObVN0ZEpaU2dSY1pjX0MyalcxVXJDMy01Y0FrUHc4akVrMllINlBVNDl5SWRDZHZVdS1JWE1ZRkZyaUZGaWhLZEpZVG14SldtdFJNaGJib3FyUQ?oc=5",
+      "sources": [
+        "OffNews",
+        "FrogNews",
+        "Club Z",
+        "Свободна точка",
+        "Actualno",
+        "Boulevard Bulgaria",
+        "Dnevnik",
+        "Mediapool"
+      ]
+    },
+    {
+      "category": "Общество",
+      "headline": "Масови протести в Чехия срещу реформата на обществените медии",
+      "summary": "Стотици хиляди чехи протестираха срещу плановете на правителството за обществените медии. Демонстрациите са сред най-мащабните в модерната история на Чехия.",
+      "ids": [
+        166,
+        176,
+        241,
+        305,
+        311,
+        312,
+        323,
+        329,
+        344
+      ],
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/15/4980229_nad_100_hiliadi_chehi_ne_spirat_protestite_za/?ref=rss",
+      "sources": [
+        "Свободна точка",
+        "Dnevnik",
+        "Mediapool",
+        "DW",
+        "Reuters",
+        "Club Z",
+        "OffNews"
+      ]
+    }
+  ]
+}
