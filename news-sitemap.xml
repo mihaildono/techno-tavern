@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.technotavern.com/obzor/2026-11-17/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Techno Tavern</news:name>
+        <news:language>bg</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T16:30:35.895Z</news:publication_date>
+      <news:title>Новините за 17 ноември 2026: Nvidia и глобалната борба за изкуствения интелект</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.technotavern.com/obzor/2026-11-16/</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T16:31:00.071Z</news:publication_date>
       <news:title>Новините за 16 ноември 2026: Си, Тръмп и Путин ще се срещнат в Китай</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.technotavern.com/obzor/2026-11-15/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Techno Tavern</news:name>
-        <news:language>bg</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T16:30:36.500Z</news:publication_date>
-      <news:title>Новините за 15 ноември 2026: SpaceX прихвана Starship при завръщане на Земята</news:title>
     </news:news>
   </url>
 </urlset>
