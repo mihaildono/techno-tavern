@@ -1,9 +1,218 @@
 {
   "windowStart": "2026-11-16T16:31:01.537Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-16T22:00:08.250Z",
-  "totalItems": 94,
+  "lastUpdated": "2026-11-17T01:00:11.283Z",
+  "totalItems": 111,
   "items": [
+    {
+      "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
+      "pubDate": "2026-11-17T00:44:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Defense Department Again Fails to Produce a Reliable Audit",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/defense-department-again-fails-to-produce-a-reliable-audit",
+      "pubDate": "2026-11-17T00:43:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+      "pubDate": "2026-11-17T00:30:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "United Airlines Says It Has a Widespread System Outage: AP",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-17/balance-of-power-late-edition-11-16-2026-video",
+      "pubDate": "2026-11-17T00:25:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+      "pubDate": "2026-11-17T00:22:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "В Полша отказват да погребат стрелеца от Краков, даряват тялото му за медицински цели",
+      "link": "https://www.actualno.com/europe/v-polsha-otkazvat-da-pogrebat-streleca-ot-krakov-darjavat-tjaloto-mu-za-medicinski-celi-news_2663648.html",
+      "pubDate": "2026-11-16T23:51:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/1f1ba6838f4f0b8f275a0829b6322299_2663648_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Zelenskiy says Ukraine held new talks with US, European officials on peace prospects",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2U4T3ZBY2hQRnZGS2NTMFVZM3FwRVFJSUtIUjNWSG5URWlXNUNac3ZoQ0pla3BIRFNOTF94Mm5NNmZUekEzQjV2dUhtSWNtZ3gwcURrRWxQLXJIejBjXzNvTmNuZUVwVFY3YjdDLVZkSlctbnFxVy1HVDJneW43QVpVb29hdXZVSGVON29aRTRpS2JabDh4bS1MMEh4bUcwaW5NYWhYX3NTVEE1bHY3N09yMXEzaTFuWHliSW1BZnZFU0k4?oc=5",
+      "pubDate": "2026-11-16T23:49:25.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Germany beat Netherlands 5-0 to win Nations League group",
+      "link": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-16T23:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Украйна с нова масирана атака срещу Кримския мост, съобщава се за тежки поражения (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/ukrajna-s-nova-masirana-ataka-sreshtu-krimskija-most-syobshtava-se-za-tejki-porajenija-video-news_2663646.html",
+      "pubDate": "2026-11-16T23:42:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/78393cc3be900590bb5f9fd18f054a86_2663646_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Honda faces new US investigation over stop-start failures",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUxWNHZjdXJsR0pEaV9PY040S1lOSE1NV2x3Sm1YdTFMYXpFNEliT0taS1BRYmZDTE9NakEtcVNSUjJjTE9xbXJvZGNrSlRGMlRrTW5QMlBYM3NtbVNrSjFtdU5Qd3YtNXJRcUpnY21CaHBMZ21jci13VkI0UVBVdThVazJFdmI4cDAzSGFHMXdzM3BmWkZzcWVOb0o2MmVwSnNFZ3laZURteTR2WkZjZjY1a2RnQzNSYlM1dTVaZ25ud29WRlpZWVlBRXBadmc2MDVUSllDUGU?oc=5",
+      "pubDate": "2026-11-16T23:37:11.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
+      "pubDate": "2026-11-16T23:32:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "JPMorgan says software bug slows its transactions",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
+      "pubDate": "2026-11-16T23:20:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "United Airlines resolves tech outage that delayed flights",
+      "link": "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-16T23:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Русия атакува Киев с балистични ракети, ударени са мостове",
+      "link": "https://www.actualno.com/europe/rusija-atakuva-kiev-s-balistichni-raketi-udareni-sa-mostove-news_2663645.html",
+      "pubDate": "2026-11-16T22:45:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/b695cc38b357e65fa773a7a018150452_2663645_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "НА ЖИВО: Кризата в Украйна, 17.11.26 - ЕС предлага още 45 млрд. евро заем за Украйна",
+      "link": "https://www.actualno.com/europe/na-jivo-krizata-v-ukrajna-171126-es-predlaga-oshte-45-mlrd-evro-zaem-za-ukrajna-news_2663643.html",
+      "pubDate": "2026-11-16T22:17:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/5ad4a8611a1ba802c2d242284883b05c_2663643_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "Войната в Украйна – Всички съдържания по тази тема – Страница 174 от общо 174",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HM1RjMklRSlBwdE5OYVhHdWJWRkdQb3R5RXRNZzdBdEN0MVdDZ0NUR2ZXbGhOVDVBdzBRRVpVWlZwUmIwUUV1Y3RiM2JKOGJVaXMxc0oxUHhseHBXYmFGemM5MkFZRFFJV2xN?oc=5",
+      "pubDate": "2026-11-16T22:00:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
+    {
+      "title": "В Румъния: Най-малко 50 000 евро за ранен или убит от мечка човек",
+      "link": "https://www.actualno.com/balkani/v-rumynija-naj-malko-50-000-evro-za-ranen-ili-ubit-ot-mechka-chovek-news_2663641.html",
+      "pubDate": "2026-11-16T21:52:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/17/a3f3c0d2264c713b09d754c40c975774_2663641_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-17T01:00:11.283Z"
+    },
     {
       "title": "Nvidia Short Sellers Reap $24 Billion as Stock Extends Slide",
       "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide",
