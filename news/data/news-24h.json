@@ -1,9 +1,618 @@
 {
   "windowStart": "2026-11-18T16:31:56.177Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-19T04:00:07.048Z",
-  "totalItems": 126,
+  "lastUpdated": "2026-11-19T07:00:07.430Z",
+  "totalItems": 175,
   "items": [
+    {
+      "title": "Bloomberg Daybreak Europe: Anthropic Breaks IPO Record (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-19/bloomberg-daybreak-europe-anthropic-breaks-ipo-record-podcast",
+      "pubDate": "2026-11-19T06:58:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Тръмп и Си обсъдиха войната в Украйна, търговията и отношенията между САЩ и Китай",
+      "link": "https://www.mediapool.bg/svyat/tramp-i-si-obsadiha-voinata-v-ukraina-targoviyata-i-otnosheniyata-mezhdu-sasht-i-kitai/",
+      "pubDate": "2026-11-19T06:57:13.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Спорт по ТВ днес - 19 ноември",
+      "link": "https://www.actualno.com/bgfootball/sport-po-tv-dnes-19-noemvri-news_2664512.html",
+      "pubDate": "2026-11-19T06:52:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/19/96b4e2823c9bfc8784fc32cec6ed6005_2664512_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Anthropic Shatters IPO Record, Nvidia Sizes Up Arm CEO, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-shatters-ipo-record-nvidia-sizes-up-arm-ceo-more",
+      "pubDate": "2026-11-19T06:46:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "OKX's Lin Discusses Tokenization and Stablecoins Outlook",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-19/okx-s-lin-discusses-tokenization-and-stablecoins-outlook-video",
+      "pubDate": "2026-11-19T06:45:55.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Парадокс: За старши учител в училище се искат 10 години стаж, но са старши експерт в РУО - само една",
+      "link": "https://www.actualno.com/education/paradoks-za-starshi-uchitel-v-uchilishte-se-iskat-10-godini-staj-no-sa-starshi-ekspert-v-ruo-samo-edna-news_2664507.html",
+      "pubDate": "2026-11-19T06:45:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/19/860cfef50609919ee3d6e9672da84446_2664507_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Съдът потвърди избора на Васил Терзиев за кмет на София",
+      "link": "https://offnews.bg/temida/sadat-potvardi-izbora-na-vasil-terziev-za-kmet-na-sofia-878840.html",
+      "pubDate": "2026-11-19T06:41:38.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/19/878840/phpw3xnej_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Илон Мъск се отрече от MAGA, след като загуби почти 500 млн. долара за изборите",
+      "link": "https://boulevardbulgaria.bg/articles/ilon-mask-se-otreche-ot-maga-sled-kato-zagubi-pochti-500-mln-dolara-za-izborite",
+      "pubDate": "2026-11-19T06:40:55.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY2MDgsInB1ciI6ImJsb2JfaWQifX0=--0fcdbea8fa35e9f88c6f45fa9374e13a6718cb03/elon_musk_two_hats.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+      "pubDate": "2026-11-19T06:39:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Тръмп разговаря с Путин по-малко от час, за пръв път го нарече \"приятел\"",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/19/4981615_trump_razgovaria_s_putin_po-malko_ot_chas_nareche_go/?ref=rss",
+      "pubDate": "2026-11-19T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4981614.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Пиар рекорди: Състезанието за бюджетите в кабинета на Радев",
+      "link": "https://www.actualno.com/actualno/piar-rekordi-systezanieto-za-budjetite-v-kabineta-na-radev-news_2664255.html",
+      "pubDate": "2026-11-19T06:38:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/18/691821d54f23b0d4ed345a6bc27ca0ea_2664255_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Жълт код за силен вятър в 15 области днес",
+      "link": "https://clubz.bg/182033",
+      "pubDate": "2026-11-19T06:36:30.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/windy~2.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Деца пребиха свой съученик в берковско село",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/19/4981612_deca_prebiha_svoi_suuchenik_v_berkovsko_selo/?ref=rss",
+      "pubDate": "2026-11-19T06:33:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4918845.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Украинските дронове намалиха капацитета на руските рафинерии наполовина",
+      "link": "https://clubz.bg/182032",
+      "pubDate": "2026-11-19T06:32:21.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/daebc0cf6faa447e9799fd7ee5907c43-1-23db39cea57c42d7b4f4e549ffe5ab6f~3.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "BG Wallet: Портфейлът за цифрова самоличност у нас вече има сайт",
+      "link": "https://www.actualno.com/society/bg-wallet-portfejlyt-za-cifrova-samolichnost-u-nas-veche-ima-sajt-news_2664496.html",
+      "pubDate": "2026-11-19T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/19/747130e54179fb864c54d41a409e2a97_2664496_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Парите за културата няма да отидат от пустото в празното: Министърът обясни как ще бъдат разпределени",
+      "link": "https://www.actualno.com/politics/parite-za-kulturata-njama-da-otidat-ot-pustoto-v-praznoto-ministyryt-objasni-kak-shte-bydat-razpredeleni-news_2664504.html",
+      "pubDate": "2026-11-19T06:29:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/19/bdf130ced1a724c5c2f300b50abb3b65_2664504_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Почина барабанистът на \"Контрол\" и \"Уикеда\" Владимир Георгиев",
+      "link": "https://www.mediapool.bg/kultura/pochina-barabanistat-na-kontrol-i-uikeda-vladimir-georgiev/",
+      "pubDate": "2026-11-19T06:27:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Компаниите бързат да се предпазят от AI киберзаплахи",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/19/4977506_kompaniite_burzat_da_se_predpaziat_ot_ai_kiberzaplahi/?ref=rss",
+      "pubDate": "2026-11-19T06:27:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4980804.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Australia to Allow Pension Funds to Offer More Targeted Advice",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-19/australia-to-allow-pension-funds-to-offer-more-targeted-advice",
+      "pubDate": "2026-11-19T06:26:46.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "След украинските удари: Капацитетът на руските рафинерии е намален наполовина",
+      "link": "https://frognews.bg/novini/sled-ukrainskite-udari-kapatsitetat-ruskite-rafinerii-namalen-napolovina.html",
+      "pubDate": "2026-11-19T06:26:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c56abd78d_1795069616_6afe96b041ef5.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Си, Тръмп и Путин изведоха приоритети пред лидерите от АТИС",
+      "link": "https://frognews.bg/novini/tramp-putin-izvedoha-prioriteti-pred-liderite-atis.html",
+      "pubDate": "2026-11-19T06:20:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/f5f268305_1795069268_6afe95540d3e5.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Три минути: Хакери са шпионирали България с години. Кабинетът смята, че няма значение чии са дроновете, които удрят кораби",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTldQMk01UEtRRWdkQ1dQLVRlMGVzLVpUYlRhT1I5bVNId1pRZlY0XzZNUmNiREJGczZRX2tKcDFxSlFaNVdOQ2Q4Q3FRdlJ0cXNMc3RiNzQtS2dCRmJZSGV5bGp6TzdnclZ6bHZxZVBVMFRseG4tel9STFhnazJLNFFFNFppYnZ1WkRLZjZQWFMzRjlXdzRfNzI0OEpvODA3UlpJeXpSV2NXYTlLTHZVbGxtV3FFeUcwazZpbTFOckdQdE5lNEVKU1B2UjJnTFlSNU14QWs3VTVFOHVjUkc3YXY4R0pUb2Q0YTZUdlJwZkhRTVg4Mldz?oc=5",
+      "pubDate": "2026-11-19T06:19:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "С бокс и метална тръба: Петокласници пребиха съученик",
+      "link": "https://offnews.bg/112/s-boks-i-metalna-traba-petoklasnitci-prebiha-sauchenik-878839.html",
+      "pubDate": "2026-11-19T06:17:35.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/19/878839/phpgr4dae_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Тръмп и Путин се срещнаха в Китай, разговорът им продължи по-малко от час",
+      "link": "https://www.mediapool.bg/svyat/tramp-i-putin-se-sreshtnaha-v-kitai-razgovorat-im-prodalzhi-po-malko-ot-chas/",
+      "pubDate": "2026-11-19T06:10:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Ефектът на дроновете. Как атаките в Черно море оскъпяват внос и износ, а работници вече се освобождават",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjVnZE1NUVo1akRnMERFQWh4a0FWSFZLYnJ3UDNDOHNPSlpROGllZUVHOHlLVTZjU2N6X1JGQUdWSTVvVU93eVp0Y0I5RjVRQjlGazlzMVZuN2JOZ1NQQnBOVXJKbFNKdTZnd2pNSUg4Z1g5eTZzNXg0dF9tNjRqSFlvYWQ5cFdQdjhpYzNIWDdTelJqcVNSZ241UHVLa0toOEhOSy1KMWxRSm56Q0h2TC16SVJGd0wzZ3VMSFludGl2VE5JWXVxYklDekZoQ2xEUDNncER5R2Q?oc=5",
+      "pubDate": "2026-11-19T06:09:27.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "„Коалицията на желаещите“ ще обсъди военната помощ за Киев и гаранциите за сигурност",
+      "link": "https://frognews.bg/novini/koalitsiiata-jelaeshtite-shte-obsadi-voennata-pomosht-kiev-garantsiite-sigurnost.html",
+      "pubDate": "2026-11-19T06:09:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/bfb899065_1795068989_6afe943d53518.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "70 000 дози противогрипни ваксини за свободния пазар вече са у нас, до няколко дни ще са в аптеките",
+      "link": "https://offnews.bg/zdrave/70-000-dozi-protivogripni-vaksini-za-svobodnia-pazar-veche-sa-u-nas-d-878838.html",
+      "pubDate": "2026-11-19T06:08:19.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/19/878838/phpk5cgvs_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Гледат мярката за неотклонение на пияния полицай, блъснал и убил Милена в Драгоман",
+      "link": "https://frognews.bg/novini/gledat-miarkata-neotklonenie-piianiia-politsai-blasnal-ubil-milena-dragoman.html",
+      "pubDate": "2026-11-19T06:02:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/3908feaef_1795068314_6afe919ae82bd.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Срещата между Тръмп и Путин приключи без изявления",
+      "link": "https://offnews.bg/sviat/sreshtata-mezhdu-tramp-i-putin-prikliuchi-bez-iziavlenia-878837.html",
+      "pubDate": "2026-11-19T06:01:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/19/878837/phpzdu7h3_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Фино \"Сладко\"",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/19/4961610_fino_sladko/?ref=rss",
+      "pubDate": "2026-11-19T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4961179.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Десет български стартъпа отиват на Nexus Luxembourg 2027",
+      "link": "https://www.capital.bg/biznes/tehnologii_i_nauka/2026/11/19/4980492_deset_bulgarski_startupa_otivat_na_nexus_luxembourg/?ref=rss",
+      "pubDate": "2026-11-19T05:59:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4980491.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Почина Ерик Рубин - бившият посланик на САЩ в България до 2019 г.",
+      "link": "https://boulevardbulgaria.bg/articles/pochina-erik-rubin-bivshiyat-poslanik-na-sasht-v-balgariya-do-2019-g",
+      "pubDate": "2026-11-19T05:58:21.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwMDQzLCJwdXIiOiJibG9iX2lkIn19--5179be669f928206d0b1c255cae39b90f582a0a3/%D0%B5%D1%80%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BD.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Is the AI bubble bursting just as Anthropic goes public?",
+      "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-19T05:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Жълт код за силен вятър е обявен в 15 области на страната",
+      "link": "https://www.mediapool.bg/bulgaria/zhalt-kod-za-silen-vyatar-e-obyaven-v-15-oblasti-na-stranata/",
+      "pubDate": "2026-11-19T05:51:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Рекорден борсов дебют: \"Антропик\" набра $81 млрд. и опроверга опасенията за AI",
+      "link": "https://www.dnevnik.bg/izkustven-intelekt/2026/11/19/4981610_rekorden_borsov_debjut_antropik_nabra_81_mlrd_ocenkata/?ref=rss",
+      "pubDate": "2026-11-19T05:51:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4981609.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Полският конституционен съд свали имунитета на отстранения си председател Богдан Швьончковски",
+      "link": "https://offnews.bg/sviat/polskiat-konstitutcionen-sad-svali-imuniteta-na-otstranenia-si-predsed-878836.html",
+      "pubDate": "2026-11-19T05:49:53.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/19/878836/phpyzwuzc_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Жълт код за силен вятър и топло време в четвъртък",
+      "link": "https://frognews.bg/novini/jalt-kod-silen-viatar-toplo-vreme-chetvartak.html",
+      "pubDate": "2026-11-19T05:43:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/c7c2067cd_1795067105_6afe8ce118e79.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Deutsche Bank без тайни - 15 млн. документа разкриват тъмната страна на финансите",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/11/19/4981460_deutsche_bank_bez_taini_-_15_mln_dokumenta_razkrivat/?ref=rss",
+      "pubDate": "2026-11-19T05:37:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4981461.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Тръмп нарече Путин \"мой приятел\" и разговаря 40 минути с него в Китай",
+      "link": "https://boulevardbulgaria.bg/articles/tramp-nareche-putin-moy-priyatel-i-razgovarya-40-minuti-s-nego-v-kitay",
+      "pubDate": "2026-11-19T05:34:49.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwMDM3LCJwdXIiOiJibG9iX2lkIn19--10feab556b1acdeb24831bf9ee3682548137560e/%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%20%D1%82%D1%80%D1%8A%D0%BC%D0%BF%20%D0%B8%20%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%BF%D1%83%D1%82%D0%B8%D0%BD%20%D0%B2%20%D0%BA%D0%B8%D1%82%D0%B0%D0%B9.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Водещите модели с AI са готови да посочват хора за убиване",
+      "link": "https://www.mediapool.bg/tehnologii/vodeshtite-modeli-s-ai-sa-gotovi-da-posochvat-hora-za-ubivane/",
+      "pubDate": "2026-11-19T05:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Украйна удари Кримския мост преди срещата Тръмп – Путин, видео показа щетите досега",
+      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/11/19/4981607_ukraina_udari_krimskiia_most_predi_sreshtata_trump/?ref=rss",
+      "pubDate": "2026-11-19T05:29:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4981606.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Рик Рубин Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4dmY0TVAzSjZFVUhJRTNZd0l1SmlsMFl5T2pCUGZvb3k1YXVoNmQ2dmJ4WEI4clU2anZ2QkdFa0plOFh3cW9WMnpiMzh6ZGpTbEE?oc=5",
+      "pubDate": "2026-11-19T04:41:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Бизнес закуска: 🥐 Пощенска банка купува ПИБ; Payhawk с оценка 2 млрд. долара; Киберпробив в администрацията",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/11/19/4981569_biznes_zakuska_poshtenska_banka_kupuva_pib_za_okolo_1/?ref=rss",
+      "pubDate": "2026-11-19T04:05:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4981570.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Hong Kong drops case against Chinese sea captain over Baltic pipeline damage",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFU4Q09VSm9jOE0xbU04dVVyM3N2XzFBVDRwWTJ6VXRkVjZ3YXlKY0dZZ190eVpqMFZEREpmdnJsOWZlSFJIb3dfZEp1ZkVTcTRxN2ZBSW1XSnNzRnh3RWRvYXVrd1RhTUJ3M0NuazQxdnBtMmhPNzBKYjYtN0lWZVY1Q001R0ZjcnE3ZjdYN1kxbUlWT0JiYUFFMnpxLUdWcU5ySlhLZWMtRGQzeWIxMDc1RjRrOFhZOWJDMTZPLW1qZw?oc=5",
+      "pubDate": "2026-11-19T03:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5",
+      "pubDate": "2026-11-19T03:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5",
+      "pubDate": "2026-11-19T03:19:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "'GTA VI' to supercharge Sony — just not in Japan",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5",
+      "pubDate": "2026-11-19T03:05:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
+      "pubDate": "2026-11-19T02:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
+    {
+      "title": "Grand Theft Auto VI launches to global fanfare",
+      "link": "https://www.dw.com/en/grand-theft-auto-vi-launches-to-global-fanfare/a-79986461?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-18T23:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-19T07:00:07.430Z"
+    },
     {
       "title": "Anthropic IPO Raises $107.3B, Trump Speaks at APEC Summit, More",
       "link": "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-ipo-raises-107-3b-trump-speaks-at-apec-summit-more",
