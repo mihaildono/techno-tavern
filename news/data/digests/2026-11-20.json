@@ -1,0 +1,172 @@
+{
+  "updatedAt": "2026-11-20T16:31:06.040Z",
+  "overview": "Денят беше белязан от избора на нов Висш съдебен съвет и дебат за конституционни промени, както и от падането на руски ракети и дрон в Полша. На международната сцена внимание привлякоха рекордното IPO на Anthropic, срещата ЕС–Великобритания и масираните руски удари срещу Украйна.",
+  "stories": [
+    {
+      "category": "Политика",
+      "headline": "Парламентът избра квотата си от 11 членове на ВСС, дебатът за Конституцията продължава",
+      "summary": "Народното събрание попълни своята квота от 11 членове на Висшия съдебен съвет след четиригодишна блокада. От „Прогресивна България“, ДБ и ПП заговориха за конституционни промени, а Радан Кънев се обяви резервиран към прибързани промени.",
+      "ids": [
+        1,
+        3,
+        10,
+        31,
+        44,
+        65,
+        96,
+        105,
+        121,
+        132,
+        157,
+        182,
+        184,
+        190,
+        216,
+        224,
+        227,
+        232,
+        302
+      ],
+      "link": "https://www.actualno.com/politics/radan-kynev-rezerviran-sym-kym-vsjakakvi-pribyrzani-promeni-v-konstitucijata-news_2665217.html",
+      "sources": [
+        "Dnevnik",
+        "Actualno",
+        "Свободна точка",
+        "Club Z",
+        "OffNews",
+        "Капитал",
+        "Boulevard Bulgaria",
+        "Mediapool"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Руски ракети и дрон паднаха в Полша, Туск говори за преднамерена провокация",
+      "summary": "Две руски ракети и един дрон са паднали в Полша по време на маневри на „Коалицията на желаещите“. Полша разследва обектите край границата с Украйна, а Доналд Туск определи случая като умишлена провокация.",
+      "ids": [
+        26,
+        56,
+        87,
+        113,
+        128,
+        148,
+        165,
+        166,
+        175,
+        193
+      ],
+      "link": "https://offnews.bg/sviat/tusk-padaneto-na-ruski-raketi-v-polsha-e-umishlena-provokatcia-878955.html",
+      "sources": [
+        "Actualno",
+        "OffNews",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Club Z",
+        "Reuters",
+        "FrogNews"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Anthropic дебютира на Nasdaq с рекордно IPO и оценка над 2 трилиона долара",
+      "summary": "Акциите на Anthropic скочиха при борсовия дебют, а пазарната капитализация надхвърли 2 трилиона долара. Въпреки рекорда книжата по-късно поевтиняха, а Nasdaq и Wall Street приключиха със спад.",
+      "ids": [
+        2,
+        7,
+        51,
+        88,
+        99,
+        104,
+        126,
+        164,
+        185,
+        189,
+        197,
+        218,
+        222,
+        253,
+        254,
+        255,
+        258,
+        265,
+        270,
+        273,
+        278,
+        286,
+        287,
+        289,
+        313,
+        317,
+        322,
+        350
+      ],
+      "link": "https://clubz.bg/182093",
+      "sources": [
+        "Bloomberg",
+        "Reuters",
+        "Капитал",
+        "Mediapool",
+        "Свободна точка",
+        "Club Z",
+        "FrogNews",
+        "Boulevard Bulgaria"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "ЕС и Великобритания договориха ново начало и младежки обмен",
+      "summary": "Брюксел и Лондон се споразумяха за ново начало в отношенията си след Brexit, включително обмен на младежи за образование, работа и туризъм. Двете страни обявиха и сделка за работа и обучение на по 100 000 младежи.",
+      "ids": [
+        35,
+        40,
+        64,
+        69,
+        81,
+        103,
+        116,
+        122,
+        197
+      ],
+      "link": "https://frognews.bg/novini/velikobritaniia-dogovoriha-mladejki-obmen-obrazovanie-rabota-turizam.html",
+      "sources": [
+        "FrogNews",
+        "Mediapool",
+        "DW",
+        "Club Z",
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "Bloomberg"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Русия нанесе масиран удар по Украйна и разруши мостове в Киев",
+      "summary": "Руски ракети удариха три моста в Киев и Западна Украйна, а Зеленски определи атаката като една от най-големите. Украйна съобщи, че е поразила петролни резервоари по нефтопровода „Дружба“ и цели по Кримския мост.",
+      "ids": [
+        17,
+        37,
+        57,
+        120,
+        136,
+        137,
+        140,
+        168,
+        177,
+        223,
+        263
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHA4MkJvLWd4QUE5ZWZGd1VxUncwSkhLWWF3TjJxY283bmU3WkE3c2pjZ0VVTnl1VVhNS19Oc2RyVFdEZ0R1aFdibm1ZdHhYeVUteG9MNzJMLTBJdGpRNnQ4SV92WFIySlgyem5RNEppenpkTHIwcFR3T3o2eEFXcmhMdkNKWDgy0gGIAUFVX3lxTFBkcDgyQm8tZ3hBQTllZkZ3VXFSdzBKSEtZYXdOMnFjbzduZTdaQTdzamNnRVVOeXVVWE1LX05zZHJUV0RnRHVoV2JubVl0eFh5VS14b0w3MkwtMEl0alE2dDhJX3ZYUjJKWDJ6blE0Sml6emRMcjBwVHdPejZ4QVdyaEx2Q0pYODI?oc=5",
+      "sources": [
+        "Mediapool",
+        "Свободна точка",
+        "FrogNews",
+        "DW",
+        "Club Z",
+        "DW България",
+        "Reuters",
+        "Dnevnik",
+        "Actualno"
+      ]
+    }
+  ]
+}
