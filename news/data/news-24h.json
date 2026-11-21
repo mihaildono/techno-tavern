@@ -1,9 +1,433 @@
 {
   "windowStart": "2026-11-20T16:31:07.512Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-21T04:00:07.214Z",
-  "totalItems": 128,
+  "lastUpdated": "2026-11-21T07:00:07.432Z",
+  "totalItems": 162,
   "items": [
+    {
+      "title": "След случая с Криста Пайк: Екзекуция в Тексас отне повече от час",
+      "link": "https://www.actualno.com/america/sled-sluchaja-s-krista-pajk-ekzekucija-v-teksas-otne-poveche-ot-chas-news_2665321.html",
+      "pubDate": "2026-11-21T06:50:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/21/ca2e017bc0094a061610d2be9d3dcc9a_2665321_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Следователите избират своя представител в новия ВСС",
+      "link": "https://www.mediapool.bg/bulgaria/sledovatelite-izbirat-svoya-predstavitel-v-noviya-vss/",
+      "pubDate": "2026-11-21T06:34:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Хакери пробиха базата данни за престъпления на ФБР",
+      "link": "https://www.actualno.com/america/hakeri-probiha-bazata-danni-za-prestyplenija-na-fbr-news_2665316.html",
+      "pubDate": "2026-11-21T06:33:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/21/9beb00c1aaa20c92c3d88d84499f9cf9_2665316_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Мария Мачадо призова за избори във Венецуела",
+      "link": "https://offnews.bg/sviat/maria-machado-prizova-za-izbori-vav-venetcuela-878973.html",
+      "pubDate": "2026-11-21T06:28:09.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/21/878973/phpmzop5s_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Коментар | Данък върху свръхпечалбата или данък върху растежа на българския бизнес?",
+      "link": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/11/21/4982488_komentar_danuk_vurhu_svruhpechalbata_ili_danuk_vurhu/?ref=rss",
+      "pubDate": "2026-11-21T06:26:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4982487.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "След Кримския мост ВСУ унищожават и други мостове, по които Русия снабдява полуострова и войските си",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/sled-krimskiya-most-vsu-unishtozhavat-i-drugi-mostove-po-koito-rusiya-snabdyava-poluostrova-i-voiskite-si/",
+      "pubDate": "2026-11-21T06:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Операция \"Мечи капан\": Украйна действа като във визия на Фон дер Лайен – искаш мир, готви се за война (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/operacija-mechi-kapan-ukrajna-dejstva-kato-vyv-vizija-na-fon-der-lajen-iskash-mir-gotvi-se-za-vojna-obzor-video-news_2665281.html",
+      "pubDate": "2026-11-21T06:24:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/21/943702691d6d03ac36a015fea5597244_2665281_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Australia Says Negotiations Continue on Gas Reservation Proposal",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal",
+      "pubDate": "2026-11-21T06:20:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Днес следователите избират последния представител във ВСС",
+      "link": "https://offnews.bg/temida/dnes-sledovatelite-izbirat-poslednia-predstavitel-vav-vss-878972.html",
+      "pubDate": "2026-11-21T06:15:33.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/21/878972/phpzbwvpr_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Силно земетресение разтърси Перу (ВИДЕА)",
+      "link": "https://www.actualno.com/america/silno-zemetresenie-raztyrsi-peru-videa-news_2665314.html",
+      "pubDate": "2026-11-21T06:13:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/21/57939c0f99b2ef2eae925708dff5e81c_2665314_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Приеха по спешност в болница Жаир Болсонаро",
+      "link": "https://www.actualno.com/america/prieha-po-speshnost-v-bolnica-jair-bolsonaro-news_2665313.html",
+      "pubDate": "2026-11-21T06:08:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/21/86f37910b6420de6802af935103287a0_2665313_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Филми с Робърт Патинсън, които да гледате, преди той да влезе в ролята на Джеймс Бонд",
+      "link": "https://www.dnevnik.bg/kultura/2026/11/21/4982576_filmi_s_roburt_patinsun_koito_da_gledate_predi_toi_da/?ref=rss",
+      "pubDate": "2026-11-21T06:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4982573.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "До 19 градуса днес, на места - дъжд",
+      "link": "https://offnews.bg/obshtestvo/do-19-gradusa-dnes-na-mesta-dazhd-878971.html",
+      "pubDate": "2026-11-21T06:03:35.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/21/878971/phpha6ly0_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Ден на християнското семейство е, деца и родители заедно на празника",
+      "link": "https://offnews.bg/obshtestvo/den-na-hristianskoto-semejstvo-e-detca-i-roditeli-zaedno-na-praznika-834174.html",
+      "pubDate": "2026-11-21T06:00:39.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2024/11/15/834174/phplgfzys_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Един \"Щастливец\" в София",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/21/4961800_edin_shtastlivec_v_sofiia/?ref=rss",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4961187.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Villa Rossa: когато събитията се превръщат в преживявания",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/21/4972853_villa_rossa_kogato_subitiiata_se_prevrushtat_v/?ref=rss",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4976832.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Megapark Conference Room съчетава модерна визия и функционалност",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/21/4976250_megapark_conference_room_suchetava_moderna_viziia_i/?ref=rss",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4976255.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Корпоративните събития са стратегически канал за комуникация със служителите",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/21/4969117_korporativnite_subitiia_sa_strategicheski_kanal_za/?ref=rss",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4969121.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Нюзлетър | Каруца с каруцар или самолет с пилот - българското превозно средство върви в грешна посока",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/21/4982490_njuzletur_karuca_s_karucar_ili_samolet_s_pilot_-/?ref=rss",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4982544.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Burnham’s Big Worry Isn’t Brexit or Welfare, It’s Trump and Iran",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Switzerland Prolongs Neutrality Soul-Searching With Weapons Vote",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote",
+      "pubDate": "2026-11-21T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Стар кадър на \"Газов хъб Балкан\" сменя Малинов в борда",
+      "link": "https://www.mediapool.bg/biznes/star-kadar-na-gazov-hab-balkan-smenya-malinov-v-borda/",
+      "pubDate": "2026-11-21T05:58:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Властта, истината, празнотата и \"най-далечната граница\", която всекидневно прекрачваме",
+      "link": "https://www.mediapool.bg/kultura/vlastta-istinata-praznotata-i-nai-dalechnata-granitsa-koyato-vsekidnevno-prekrachvame/",
+      "pubDate": "2026-11-21T05:53:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Германски политолог: За възпирането на Русия е необходима твърда позиция, а не легитимиране на нейната двусмисленост",
+      "link": "https://www.mediapool.bg/intervyuta/germanski-politolog-za-vazpiraneto-na-rusiya-e-neobhodima-tvarda-pozitsiya-a-ne-legitimirane-na-neinata-dvusmislenost/",
+      "pubDate": "2026-11-21T05:43:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Безплатното признаване на университетска диплома от чужбина вече ще струва 60 евро",
+      "link": "https://www.dnevnik.bg/obrazovanie/2026/11/21/4980353_bezplatnoto_priznavane_na_universitetska_diploma_ot/?ref=rss",
+      "pubDate": "2026-11-21T05:38:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4980975.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTFDeHY0QlBhU2dnNndMa1FhdmhtUDV2eF9HYmhHU0tzRlFoM0U1a0ZuaE8zbGduLUhoTU0tWWExeDkyOWYwRi1aXzVOd0NhRGszMlU5MWFyVmdLSUJOREtvaXNYY1p3YnRIaDR5X0RwZGVPTG1GeW5wZm1Hd0dlM0RoVDVBQlZ4WFV1bU9mM3YzcDJISEpEZkI5ekdsMy1xb1BkZ0JUYw?oc=5",
+      "pubDate": "2026-11-21T05:36:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "В нозете на големия Буда",
+      "link": "https://www.dnevnik.bg/na_put/2026/11/21/4980431_v_nozete_na_golemiia_buda/?ref=rss",
+      "pubDate": "2026-11-21T05:34:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4980573.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Раци и Риби се съсредоточават в дела, мнозина май се надценяват и се претоварват",
+      "link": "https://offnews.bg/horoskop/ratci-i-ribi-se-sasredotochavat-v-dela-mnozina-maj-se-nadtceniavat-i-878969.html",
+      "pubDate": "2026-11-21T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/20/878969/php4dytrt_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "China’s Top Planner Seeks Faster Construction of State Projects",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
+      "pubDate": "2026-11-21T05:24:06.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Осем държавни, седем частни: Кои болници са първенци по хоспитализации (графика)",
+      "link": "https://www.dnevnik.bg/zdrave/2026/11/21/4981408_osem_durjavni_sedem_chastni_koi_bolnici_sa_purvenci_po/?ref=rss",
+      "pubDate": "2026-11-21T05:20:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4788830.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Australian Energy Officials Warned of Data Center Risk, Age Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says",
+      "pubDate": "2026-11-21T05:18:29.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Bitcoin falls to its lowest in two years",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
+      "pubDate": "2026-11-21T04:10:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "FBI's criminal information database hacked, CNN reports",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRE83U2NSQ2FlbllBaUxQUzl5UWdfWktnME85LVk1ZkJFczYwOUJEbXpoV0tzUXltYWhtTl8zT05jeW9yX29sREJwZkxCNWdxZWwxcGlUa2N1YzM4YjRZcVF6dWpNbGhfak5zWjNsdnpQcFAzVGdoSmZGLTN5R21KZlcxV2dUZU15czdSQU5fYXJLV1MzWTVuYkdTRi1weFU?oc=5",
+      "pubDate": "2026-11-21T03:15:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
+    {
+      "title": "Австрийската полиция спря български ТИР с опасни товари в картонени варели",
+      "link": "https://clubz.bg/182124",
+      "pubDate": "2026-11-20T15:53:13.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/028-policia-germania-12~2.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-21T07:00:07.432Z"
+    },
     {
       "title": "Кой има имен ден днес, 21 ноември 2026 г. Честито!",
       "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-21-noemvri-2026-g-chestito-news_2665298.html",
