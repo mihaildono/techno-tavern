@@ -1,0 +1,136 @@
+{
+  "updatedAt": "2026-11-21T16:31:08.328Z",
+  "overview": "Основните теми през деня бяха разговорите между Тръмп и Путин за Украйна, сривът на американските борси, новото бюджетно предложение на ЕС и изборът на нов ВСС; Русия съобщи за атака с дронове срещу товарен кораб във Финския залив.",
+  "stories": [
+    {
+      "category": "Политика",
+      "headline": "Следователите избраха последния член на новия ВСС",
+      "summary": "След избора на представител на следователите новият ВСС е окомплектован; политици и юристи коментираха избора като тест за съдебната власт и възможна нова „сглобка“.",
+      "ids": [
+        59,
+        70,
+        96,
+        129,
+        142,
+        145,
+        150,
+        166,
+        173,
+        275,
+        279,
+        288
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGJZakhLWWdiT3BXSWQxaVdLY21pTzdOS24zMEdjV2hMb25VTHBnbTh1RnYxdnFRLXdEOGxXTl9Gdm5fcE5TMDUwSU0xMHFWbE8xX29GdkpfYkp1MXh1dHJ3dlFjdHA5bTQzVlFJVldYOEVRcHlXaWhUWFNLWVVhQWQyN2tiVldXdmNJ0gGLAUFVX3lxTE9VUmIwbmhudHdqazd2Rlkwa0xXYjJYV3MwTXpnU3gwMGd2WEk0TnZ2UXQzcVJOX1RXcWNYY3FhWjFxM3RfcjhZeDNmb1hQQlpRQ3hvUVAwaVpxcURsOWdLU2VQeEFlTWRybzJfbmlFbURUOTVLdzNRRUhzVGhVMHZqb1B2TFUtZDJFUWs?oc=5",
+      "sources": [
+        "DW България",
+        "OffNews",
+        "Mediapool",
+        "Dnevnik",
+        "Boulevard Bulgaria",
+        "FrogNews",
+        "Club Z"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Коща предложи съкращения и нови приходи в бюджета на ЕС",
+      "summary": "Предложението предвижда намаление на финансовата рамка с 204 млрд. евро и нови източници на приходи, включително данък върху дигиталните компании; френското председателство определи проекта като много разочароващ.",
+      "ids": [
+        18,
+        36,
+        45,
+        52,
+        62,
+        92,
+        94
+      ],
+      "link": "https://www.mediapool.bg/svyat/antonio-koshta-predlozhi-namalenie-na-finansovata-ramka-na-es-s-204-mlrd-evro/",
+      "sources": [
+        "Mediapool",
+        "DW",
+        "Dnevnik",
+        "Reuters",
+        "Свободна точка",
+        "Club Z"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "Срив на американските борси заради страхове от AI балон",
+      "summary": "Nasdaq заличи печалбите си за 2026 г., а S&P 500 и Dow навлязоха в корекция; разпродажбите бяха предизвикани от опасения за AI инвестициите и спада на Anthropic.",
+      "ids": [
+        15,
+        55,
+        61,
+        91,
+        97,
+        155,
+        199,
+        202,
+        208,
+        226,
+        230,
+        269,
+        287
+      ],
+      "link": "https://www.mediapool.bg/biznes/sriv-na-amerikanskite-pazari-nasdaq-zalichi-pechalbite-si-za-2026-g-a-sampp-500-navleze-v-korektsiya/",
+      "sources": [
+        "Bloomberg",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "FrogNews",
+        "Reuters"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Тръмп: няма сделка с Русия по гаранциите за Украйна",
+      "summary": "Доналд Тръмп заяви, че е имал добри разговори с Путин, но не е постигната сделка за гаранции за Украйна и настоява за мир до януари; Зеленски определи Путин като враг.",
+      "ids": [
+        10,
+        47,
+        161,
+        215,
+        221,
+        223,
+        234,
+        248,
+        256,
+        260
+      ],
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/20/4982806_trump_niamame_sdelka_s_rusiia_po_garanciite_za_ukraina/?ref=rss",
+      "sources": [
+        "Reuters",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Actualno",
+        "Dnevnik",
+        "FrogNews",
+        "OffNews",
+        "DW България"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Руски товарен кораб е атакуван с дронове във Финския залив",
+      "summary": "Корабът, свързан с руските въоръжени сили, е ударен с дронове край Финландия и се е запалил; Русия потвърждава атаката, а Финландия съобщава за пожар в свои води.",
+      "ids": [
+        19,
+        22,
+        39,
+        54,
+        78,
+        84
+      ],
+      "link": "https://www.mediapool.bg/svyat/ruski-korab-e-bil-atakuvan-s-dronove-vav-finskiya-zaliv-krai-finlandiya/",
+      "sources": [
+        "FrogNews",
+        "Dnevnik",
+        "Mediapool",
+        "Boulevard Bulgaria",
+        "Reuters",
+        "Bloomberg"
+      ]
+    }
+  ]
+}
