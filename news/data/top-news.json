@@ -1,135 +1,137 @@
 {
-  "updatedAt": "2026-11-21T16:31:08.328Z",
-  "overview": "Основните теми през деня бяха разговорите между Тръмп и Путин за Украйна, сривът на американските борси, новото бюджетно предложение на ЕС и изборът на нов ВСС; Русия съобщи за атака с дронове срещу товарен кораб във Финския залив.",
+  "updatedAt": "2026-11-22T16:31:07.908Z",
+  "overview": "Денят бе белязан от провала на климатичните преговори COP31, избора на нов ВСС в България и руски удари с дронове по Киев. На международната сцена внимание привлякоха арестът на наркобоса Ел Чапо Исидро и разпродажбите на американските пазари заради опасения около AI.",
   "stories": [
     {
-      "category": "Политика",
-      "headline": "Следователите избраха последния член на новия ВСС",
-      "summary": "След избора на представител на следователите новият ВСС е окомплектован; политици и юристи коментираха избора като тест за съдебната власт и възможна нова „сглобка“.",
+      "category": "Екология",
+      "headline": "COP31 приключи без климатично споразумение",
+      "summary": "Преговорите на COP31 приключиха без прието климатично споразумение. Основен спор остана включването на изкопаемите горива и финансирането на уязвимите държави.",
       "ids": [
-        59,
-        70,
-        96,
-        129,
-        142,
-        145,
-        150,
-        166,
-        173,
-        275,
-        279,
-        288
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGJZakhLWWdiT3BXSWQxaVdLY21pTzdOS24zMEdjV2hMb25VTHBnbTh1RnYxdnFRLXdEOGxXTl9Gdm5fcE5TMDUwSU0xMHFWbE8xX29GdkpfYkp1MXh1dHJ3dlFjdHA5bTQzVlFJVldYOEVRcHlXaWhUWFNLWVVhQWQyN2tiVldXdmNJ0gGLAUFVX3lxTE9VUmIwbmhudHdqazd2Rlkwa0xXYjJYV3MwTXpnU3gwMGd2WEk0TnZ2UXQzcVJOX1RXcWNYY3FhWjFxM3RfcjhZeDNmb1hQQlpRQ3hvUVAwaVpxcURsOWdLU2VQeEFlTWRybzJfbmlFbURUOTVLdzNRRUhzVGhVMHZqb1B2TFUtZDJFUWs?oc=5",
-      "sources": [
-        "DW България",
-        "OffNews",
-        "Mediapool",
-        "Dnevnik",
-        "Boulevard Bulgaria",
-        "FrogNews",
-        "Club Z"
-      ]
-    },
-    {
-      "category": "Икономика",
-      "headline": "Коща предложи съкращения и нови приходи в бюджета на ЕС",
-      "summary": "Предложението предвижда намаление на финансовата рамка с 204 млрд. евро и нови източници на приходи, включително данък върху дигиталните компании; френското председателство определи проекта като много разочароващ.",
-      "ids": [
-        18,
-        36,
-        45,
-        52,
-        62,
-        92,
-        94
-      ],
-      "link": "https://www.mediapool.bg/svyat/antonio-koshta-predlozhi-namalenie-na-finansovata-ramka-na-es-s-204-mlrd-evro/",
-      "sources": [
-        "Mediapool",
-        "DW",
-        "Dnevnik",
-        "Reuters",
-        "Свободна точка",
-        "Club Z"
-      ]
-    },
-    {
-      "category": "Икономика",
-      "headline": "Срив на американските борси заради страхове от AI балон",
-      "summary": "Nasdaq заличи печалбите си за 2026 г., а S&P 500 и Dow навлязоха в корекция; разпродажбите бяха предизвикани от опасения за AI инвестициите и спада на Anthropic.",
-      "ids": [
-        15,
+        2,
         55,
-        61,
+        58,
+        64,
+        68,
+        81,
         91,
-        97,
-        155,
-        199,
-        202,
+        151,
+        183,
         208,
-        226,
-        230,
-        269,
-        287
+        213,
+        238
       ],
-      "link": "https://www.mediapool.bg/biznes/sriv-na-amerikanskite-pazari-nasdaq-zalichi-pechalbite-si-za-2026-g-a-sampp-500-navleze-v-korektsiya/",
+      "link": "https://boulevardbulgaria.bg/articles/sporat-za-izkopaemite-goriva-blokira-pregovorite-na-klimatichnata-konferentsiya-na-oon",
       "sources": [
         "Bloomberg",
-        "Mediapool",
-        "Boulevard Bulgaria",
-        "FrogNews",
-        "Reuters"
+        "DW",
+        "Reuters",
+        "Boulevard Bulgaria"
       ]
     },
     {
-      "category": "Свят",
-      "headline": "Тръмп: няма сделка с Русия по гаранциите за Украйна",
-      "summary": "Доналд Тръмп заяви, че е имал добри разговори с Путин, но не е постигната сделка за гаранции за Украйна и настоява за мир до януари; Зеленски определи Путин като враг.",
+      "category": "Политика",
+      "headline": "Новият ВСС е в пълен състав, дебатът за главен прокурор продължава",
+      "summary": "Следователите избраха Петко Петков за последния член на новия Висш съдебен съвет, който може да заработи в началото на декември. Емил Дечев и Надежда Йорданова изразиха резерви към избор на действащ политик за главен прокурор.",
       "ids": [
+        5,
         10,
+        15,
+        20,
         47,
-        161,
-        215,
-        221,
-        223,
-        234,
-        248,
-        256,
-        260
+        56,
+        71,
+        111,
+        142,
+        159,
+        166,
+        167,
+        227,
+        230,
+        233,
+        258,
+        276
       ],
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/20/4982806_trump_niamame_sdelka_s_rusiia_po_garanciite_za_ukraina/?ref=rss",
+      "link": "https://frognews.bg/novini/noviiat-vss-moje-zaraboti-nachaloto-dekemvri.html",
       "sources": [
-        "Reuters",
+        "Club Z",
         "Mediapool",
         "Boulevard Bulgaria",
         "Actualno",
         "Dnevnik",
         "FrogNews",
-        "OffNews",
-        "DW България"
+        "Свободна точка"
       ]
     },
     {
       "category": "Свят",
-      "headline": "Руски товарен кораб е атакуван с дронове във Финския залив",
-      "summary": "Корабът, свързан с руските въоръжени сили, е ударен с дронове край Финландия и се е запалил; Русия потвърждава атаката, а Финландия съобщава за пожар в свои води.",
+      "headline": "Руски удари по Киев и украински енергийни обекти",
+      "summary": "При руска атака с дронове срещу жилищна сграда близо до Киев има ранени и най-малко 14 души в неизвестност. Русия е ударила и украински енергийни обекти.",
       "ids": [
-        19,
-        22,
-        39,
-        54,
-        78,
-        84
+        72,
+        85,
+        120,
+        127,
+        161
       ],
-      "link": "https://www.mediapool.bg/svyat/ruski-korab-e-bil-atakuvan-s-dronove-vav-finskiya-zaliv-krai-finlandiya/",
+      "link": "https://www.mediapool.bg/voina-v-ukraina/14-dushi-sa-v-neizvestnost-sled-ruska-ataka-s-dronove-v-kiev/",
       "sources": [
-        "FrogNews",
-        "Dnevnik",
+        "Actualno",
         "Mediapool",
-        "Boulevard Bulgaria",
         "Reuters",
-        "Bloomberg"
+        "Bloomberg",
+        "FrogNews",
+        "OffNews"
+      ]
+    },
+    {
+      "category": "Свят",
+      "headline": "Мексико арестува наркобоса Ел Чапо Исидро",
+      "summary": "Мексиканските сили задържаха един от най-издирваните наркобосове Ел Чапо Исидро. При акцията са загинали 11 души.",
+      "ids": [
+        44,
+        175,
+        206,
+        209,
+        216,
+        222,
+        236,
+        242,
+        254,
+        261,
+        274
+      ],
+      "link": "https://offnews.bg/sviat/v-meksiko-arestuvaha-vliatelnia-narkobos-el-chapo-isidro-879005.html",
+      "sources": [
+        "Boulevard Bulgaria",
+        "OffNews",
+        "Bloomberg",
+        "Dnevnik",
+        "DW",
+        "Reuters"
+      ]
+    },
+    {
+      "category": "Икономика",
+      "headline": "AI опасения предизвикаха разпродажби на американските пазари",
+      "summary": "Nasdaq преживя най-лошата си седмица от 2020 г., а Dow и S&P 500 влязоха в корекция. Разпродажбите бяха подсилени от опасения около AI акциите.",
+      "ids": [
+        7,
+        29,
+        75,
+        124,
+        209,
+        210,
+        214,
+        216,
+        222,
+        236,
+        261
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
+      "sources": [
+        "Bloomberg",
+        "Reuters",
+        "Club Z"
       ]
     }
   ]
