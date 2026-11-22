@@ -1,9 +1,499 @@
 {
   "windowStart": "2026-11-21T16:31:09.780Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-22T04:00:06.856Z",
-  "totalItems": 113,
+  "lastUpdated": "2026-11-22T07:00:09.478Z",
+  "totalItems": 151,
   "items": [
+    {
+      "title": "Папа Лъв XIV ще обядва с 1300 бедни хора",
+      "link": "https://www.actualno.com/europe/papa-lyv-xiv-shte-objadva-s-1300-bedni-hora-news_2665550.html",
+      "pubDate": "2026-11-22T06:57:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/22/fcc8df6348281bf226bbd48814fcfa17_2665550_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Сиренето, кашкавалът и яйцата поскъпват на борсите у нас",
+      "link": "https://frognews.bg/novini/sireneto-kashkavalat-iaitsata-poskapvat-borsite-nas.html",
+      "pubDate": "2026-11-22T06:55:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8de9f743d_1795328350_6b02895e6cf51.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "В Унгария конфискуваха над 24 млн. евро на министър на Орбан",
+      "link": "https://frognews.bg/novini/ungariia-konfiskuvaha-nad-24-mln-evro-ministar-orban.html",
+      "pubDate": "2026-11-22T06:50:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/8dd35fbff_1795329402_6b028d7ac626e.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Следователите избраха Петко Петков. Новият ВСС вече е в пълен състав",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUxMRVAtV19GN3ZMMUhHLWxPcmZBY1l5RWRNeThzeVJVQklobTRGNGkxYzg4ZmlfdUhQbFhhdk9XUEo2ejc0WFJXMlViYWlUMnhMWEl0UnM4TFpnbGdJVV9ZcHBWRFhaU2VRZVd5enlhM1llWXFGVjU5ZFpEb3ozRVhsU3lSbl9fQWlQa1p0RFBhd2xLRXVfMU1SeUU3czBlLU5qckN3?oc=5",
+      "pubDate": "2026-11-22T06:49:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Тръмп отново нарече Путин приятел. Но признава, че не говори от името на САЩ",
+      "link": "https://clubz.bg/182150",
+      "pubDate": "2026-11-22T06:48:46.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/donald-tramp-vladimir-putin-bta.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Седем души заклещени под развалините на срутена пететажна сграда близо до Киев",
+      "link": "https://frognews.bg/novini/sedem-dushi-zakleshteni-pod-razvalinite-srutena-petetajna-sgrada-blizo-kiev.html",
+      "pubDate": "2026-11-22T06:47:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/02f12a893_1795330210_6b0290a2b8fbd.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Унгарските власти запорираха 24.4 млн. евро на бивш министър на Орбан",
+      "link": "https://www.mediapool.bg/svyat/ungarskite-vlasti-zaporiraha-244-mln-evro-na-bivsh-ministar-na-orban/",
+      "pubDate": "2026-11-22T06:46:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Слънчево, от запад облачността ще се увеличава",
+      "link": "https://frognews.bg/novini/slanchevo-zapad-oblachnostta-shte-uvelichava.html",
+      "pubDate": "2026-11-22T06:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/72eedb75c_1795327412_6b0285b4a97bc.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Най-малко три жертви и десетки в неизвестност след огромен пожар в Индонезия (ВИДЕО)",
+      "link": "https://www.actualno.com/asia/naj-malko-tri-jertvi-i-desetki-v-neizvestnost-sled-ogromen-pojar-v-indonezija-video-news_2665553.html",
+      "pubDate": "2026-11-22T06:44:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/22/c6e166af63e068b238be15a9aba6c117_2665553_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Най-мощният Ел Ниньо за последните 150 години ще носи горещи вълни и високи цени",
+      "link": "https://www.capital.bg/zelen-kapital/2026/11/22/4982830_nai-moshtniiat_el_ninyo_za_poslednite_150_godini_shte/?ref=rss",
+      "pubDate": "2026-11-22T06:40:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4982949.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Новият ВСС може да стартира в началото на декември",
+      "link": "https://clubz.bg/182149",
+      "pubDate": "2026-11-22T06:38:14.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/mil_0342~8.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Новият ВСС е готов: Следователите избраха Петко Петков",
+      "link": "https://www.actualno.com/crime/novijat-vss-e-gotov-sledovatelite-izbraha-petko-petkov-news_2665554.html",
+      "pubDate": "2026-11-22T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/22/2f285eb8171824e1844669c24061978f_2665554_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Заледявания по пътищата от утре, предупреждава АПИ",
+      "link": "https://offnews.bg/obshtestvo/zalediavania-po-patishtata-ot-utre-preduprezhdava-api-879006.html",
+      "pubDate": "2026-11-22T06:28:50.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/22/879006/phpik4hyq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Canucks earn rare home win in shootout over Wild",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTZDTElEdGFVcURvWEphSkZFT29FZThVeDVFTXpXbUhjNUhLdnZhVXQyRGpHUEtqUzU1b3o3Q1czZlBEYU1abjZ5c1M3OVdiVVBTaFdLbDhkNXJTaldmUWVXODQ0WWZITnR2ejJKMlNtU2poSFBZRW55QWZ6em1tZ013Z2pGdG1NNDhsVC01Q1U0aWNvLWFZcC1BbkFFUQ?oc=5",
+      "pubDate": "2026-11-22T06:28:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Microsoft превръща Copilot в \"операционна система за работа\"",
+      "link": "https://www.mediapool.bg/tehnologii/microsoft-prevrashta-copilot-v-operatsionna-sistema-za-rabota/",
+      "pubDate": "2026-11-22T06:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+      "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-22T06:14:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Българите са в топ 3 в Европейския съюз по туристически пътувания по суша (графики)",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/22/4982483_bulgarite_sa_v_top_3_v_evropeiskiia_sujuz_po/?ref=rss",
+      "pubDate": "2026-11-22T06:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4982531.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Keegan Murray plays hero to lead Kings past Celtics for first home win",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWxSYzdYXzZKRm5heFRlZXgtZEJyY2VSU0VwenNjaHFvczlQdXpvOE5KQ21FNFJWOEtKOGlWRzNBQ1hRRENaVmF4YVJIVXZoNG5zdVpGc2k1czRiZm5odlRqNzM0bmlwelNIcjVlVS14aHVQOWJPN3c0Yzg1LUtWLUxQTlp1MGJ3NndWVXVxTlZveTNGYTdXZjVCMjFCQmM4XzV1a05QNGNZSk9UWE85RVZfWmpBMWVoWjdUcWRaZw?oc=5",
+      "pubDate": "2026-11-22T06:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Sharks use run of 4 straight goals to hold off Kraken",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXltS3d5QjRRdHkyUVVabE9jQ3BQN1NfeXZWSjFLb0d6ZlNySVJjTGxuTXR1MlZmSXVBSzBycUc4T0dmRFZDZWE2SHdfRURuR08zRUl3MGJjcnR6OTdOcjM0NU54czZLbmZfWjNUZFZaRFFHajlKbDZvMWVDZnJvdks0ZzBpT3VfZDhEWEZVUWdfeVhQLWR0dkZrSHJKZHRz?oc=5",
+      "pubDate": "2026-11-22T06:07:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "В Мексико арестуваха влиятелния наркобос Ел Чапо Исидро",
+      "link": "https://offnews.bg/sviat/v-meksiko-arestuvaha-vliatelnia-narkobos-el-chapo-isidro-879005.html",
+      "pubDate": "2026-11-22T06:06:52.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/22/879005/php9e1kzw_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "20 въпроса | Адрияна Михайлова от #soSofia",
+      "link": "https://www.capital.bg/moiat_capital/lica/2026/11/22/4980306_20_vuprosa_adriiana_mihailova_ot_sosofia/?ref=rss",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4980698.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Медикъл & СПА хотел \"Петте елемента\": Едно с природата",
+      "link": "https://www.capital.bg/biznes/turizum/2026/11/22/4972976_medikul_spa_hotel_pette_elementa_edno_s_prirodata/?ref=rss",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4972947.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Аплодисментите са само началото",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/22/4977692_aplodismentite_sa_samo_nachaloto/?ref=rss",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4978430.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Capital Fort: Бизнес събития в най-високата сграда на София",
+      "link": "https://www.capital.bg/biznes/kompanii/2026/11/22/4968210_capital_fort_biznes_subitiia_v_nai-visokata_sgrada_na/?ref=rss",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4968215.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Трима загинали и десетки в неизвестност след пожар във фабрика в Индонезия",
+      "link": "https://offnews.bg/sviat/trima-zaginali-i-desetki-v-neizvestnost-sled-pozhar-vav-fabrika-v-indo-879004.html",
+      "pubDate": "2026-11-22T05:56:33.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/22/879004/phpfuulbp_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Мотористи с елеци ''Не бий, обичай'' на шествие в София",
+      "link": "https://offnews.bg/obshtestvo/motoristi-s-eletci-ne-bij-obichaj-na-shestvie-v-sofia-878998.html",
+      "pubDate": "2026-11-22T05:56:32.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/21/878998/phpsxs2at_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "\"Дума на седмицата\": Режисьорът Виктор Божинов за мъглата, в която всички са потънали",
+      "link": "https://www.dnevnik.bg/duma_na_sedmitsa/2026/11/22/4982933_duma_na_sedmicata_rejisyorut_viktor_bojinov_za_muglata/?ref=rss",
+      "pubDate": "2026-11-22T05:55:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4982994.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
+      "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-22T05:50:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Verstappen wins in Las Vegas for third time in four years",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVYxVXlmSDFOdDVVczVXcDROTjNWNS1LbXU3QVp4bEVueHVHZ18tY0NqTmFaZ0xJMnNzOFotbmxLaVljLTJJNHMwRHg3c1BZOFktdk14amRfNHZxMmsyMEM2bS1yT21JMHdxZXhJcXVTVjdxZUxaZ1B1WmdFMGh3cE1SczltMnhZbUJpbzFsUWhWR3JmTjlIOWlMS2diVTMz?oc=5",
+      "pubDate": "2026-11-22T05:48:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "22 ноември: Ден на българската адвокатура. Освобождаването на Битоля",
+      "link": "https://www.actualno.com/society/22-noemvri-den-na-bylgarskata-advokatura-osvobojdavaneto-na-bitolja-news_2663605.html",
+      "pubDate": "2026-11-22T05:45:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/16/c948c985c57f6737395e421f83b33707_2663605_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Роман за чистото сърце",
+      "link": "https://www.mediapool.bg/procheti-tova/roman-za-chistoto-sartse/",
+      "pubDate": "2026-11-22T05:42:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Заради липса на път държавата не може да си върне имот във Варна, ползван незаконно с години",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/22/4979273_zaradi_lipsa_na_put_durjavata_ne_moje_da_si_vurne_imot/?ref=rss",
+      "pubDate": "2026-11-22T05:30:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4497132.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "1300 бедни на обяд с Папа Лъв XIV във Ватикана",
+      "link": "https://offnews.bg/sviat/1300-bedni-na-obiad-s-papa-lav-xiv-vav-vatikana-879003.html",
+      "pubDate": "2026-11-22T05:21:05.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/22/879003/phpvt1tgb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Кухни от Китай по индивидуален проект вече заплашват производителите в Европа",
+      "link": "https://www.dnevnik.bg/biznes/2026/11/22/4982880_kuhni_ot_kitai_po_individualen_proekt_veche_zaplashvat/?ref=rss",
+      "pubDate": "2026-11-22T05:07:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4982934.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Украйна удари щаба на Росгвардия в Краснодар (ВИДЕО, СНИМКИ)",
+      "link": "https://www.actualno.com/europe/ukrajna-udari-shtaba-na-rosgvardija-v-krasnodar-video-snimki-news_2665551.html",
+      "pubDate": "2026-11-22T05:03:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/22/ab334e6b799e5e22c8ec1c543d1980ce_2665551_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Последен шанс да участвате в първото ниво на играта \"Запознай се с техните\"",
+      "link": "https://www.dnevnik.bg/razvlechenie/2026/11/22/4981845_posleden_shans_da_uchastvate_v_purvoto_nivo_na_igrata/?ref=rss",
+      "pubDate": "2026-11-22T05:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4981846.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced'",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
+      "pubDate": "2026-11-22T04:01:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "China Investigates CNPC Deputy General Manager for Corruption",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-investigates-cnpc-deputy-general-manager-for-corruption",
+      "pubDate": "2026-11-22T03:36:34.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
+    {
+      "title": "Thailand Plans to Ban Exports of Chemicals as It Tackles Pollution",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution",
+      "pubDate": "2026-11-22T03:24:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-22T07:00:09.478Z"
+    },
     {
       "title": "Mikal Bridges’ game-winner helps Knicks survive blown lead vs. Blazers",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGFkN0k0RWVTbl9PMmxDQWdfTnl4dG1EeEpsd0xBS0xaTVZSYWxLQWJUUE1QTlk5TDdqMmljRFRZMFNsVUpVUnNEcHp1bmliSVJWZFRaeVZzeEpDZ0VRMk9yV3Y1OGE2dkg3M1BKc05kQ1pjT19UVDBPZVNzSHFLa2hLVHJwOFBvdFA4LWJzX3pEZUg4SjhoZzVrUk8wYzFITU9aQUxpZzJwdk9hR1lteTZXaWNLZ0dCcFdOWVplN0FzXzBYWWc?oc=5",
@@ -1373,19 +1863,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      },
-      "firstSeen": "2026-11-21T19:00:10.914Z"
-    },
-    {
-      "title": "Коментар | Данък върху свръхпечалбата или данък върху растежа на българския бизнес?",
-      "link": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/11/21/4982488_komentar_danuk_vurhu_svruhpechalbata_ili_danuk_vurhu/?ref=rss",
-      "pubDate": "2026-11-21T06:26:00.000Z",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4982487.jpg"
-      },
-      "source": {
-        "name": "Капитал",
-        "color": "#009688"
       },
       "firstSeen": "2026-11-21T19:00:10.914Z"
     }
