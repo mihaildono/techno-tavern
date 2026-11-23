@@ -1,14 +1,377 @@
 {
   "items": [
     {
-      "title": "Marlowe Hits $1.15B Valuation With Bet Beyond Nvidia",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-23/marlowe-hits-1-15b-valuation-with-bet-beyond-nvidia-video",
-      "pubDate": "2026-11-23T18:54:14.000Z",
+      "title": "Общинската избирателна комисия във Варна подменя волята на варненци, подчертава ДСБ",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983547_obshtinskata_izbiratelna_komisiia_vuv_varna_podmenia/?ref=rss",
+      "pubDate": "2026-11-23T21:45:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4967227.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Wall Street Roars Back as Huang’s Shock Return Propels US Stocks",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeURSVWpyQXZjLW5UcndZVDJPQnE0NDU2UllUMUI5S29qcFJlWDg1empEbThycVphd2p3dmxJTUJJckZVQXBhaGlmT0JaNkh3SFZHRG5HNHl5ckpheVAzU3JHQldJVGQ2cl9RVWw4Wk96RXNiN0d1dW5iQ1RETTMxRnJVS2tnNFRwOVJkdjhxRHd5ZmJRNkoxaEtUcGNiSmdXRWxtYjRrM2RVcVREUXJneFZMcw?oc=5",
+      "pubDate": "2026-11-23T21:42:36.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
         "color": "#7B3FE4",
+        "lang": "en",
+        "publisher": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "На среща с постоянния представител на САЩ в НАТО: Радев обсъди сигурността в Черно море и модернизацията на армията ни",
+      "link": "https://www.actualno.com/society/na-sreshta-s-postojannija-predstavitel-na-sasht-v-nato-radev-obsydi-sigurnostta-v-cherno-more-i-modernizacijata-na-armijata-ni-news_2666194.html",
+      "pubDate": "2026-11-23T21:32:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/03d24fdddb8a57565ee95a9565479c09_2666194_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Според Денков доминираната от модела \"Пеевски-Борисов\" ОИК-Варна е отстранила Коцев",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983542_spored_denkov_dominiranata_ot_modela_peevski-borisov/?ref=rss",
+      "pubDate": "2026-11-23T21:27:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4974569.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
+      "pubDate": "2026-11-23T21:26:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
+      }
+    },
+    {
+      "title": "Nvidia Rehires Huang in Stunning Comeback Following Trump Push",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkNIMGtvdXlmRlE2NVZqSEhkRFItNWFyeGJtR0pKbWxZTjRxZHQwTmxIbnB1eXFsZV9QWkE4bFRVMEtoU0huMmdNZHRUbnZmNTRkM3l6eVQtQ3J5OUxkZ1hxckxLQlF0aE5YZUtDTVBTT0x2eHRuQjVhdnFzNmpscXdMaUhRaGlsaVFVM0dHbF9yTURqSFpMczlrQXAyYjdqbUJTdWFjS2Jqa1pGeG9n?oc=5",
+      "pubDate": "2026-11-23T21:20:52.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en",
+        "publisher": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "Американският изкуствен интелект може да унищожи китайските ядрени ракети: В Пекин са обезпокоени",
+      "link": "https://www.actualno.com/asia/amerikanskijat-izkustven-intelekt-moje-da-unishtoji-kitajskite-jadreni-raketi-v-pekin-sa-obezpokoeni-news_2666193.html",
+      "pubDate": "2026-11-23T21:18:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/f876a696abf8e773fd4999db398d8b73_2666193_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
+      "pubDate": "2026-11-23T21:16:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en",
+        "publisher": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "\"Да, България\": Държавата те задържа незаконно и те отстранява заради това, че не си ходил на работа",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983539_da_bulgariia_durjavata_te_zadurja_nezakonno_zaradi/?ref=rss",
+      "pubDate": "2026-11-23T21:08:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4983538.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Най-важните новини за деня: 23 ноември 2026 г.",
+      "link": "https://www.actualno.com/society/naj-vajnite-novini-za-denja-23-noemvri-2026-g-news_2666176.html",
+      "pubDate": "2026-11-23T21:00:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/42c06dead80f6a02ab53ccd6fec25bb7_2666176_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Радар за икономика: Най-важните новини на 23 ноември 2026 г.",
+      "link": "https://www.actualno.com/economy/radar-za-ikonomika-naj-vajnite-novini-na-23-noemvri-2026-g-news_2666096.html",
+      "pubDate": "2026-11-23T21:00:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/bc92916b05e464ef85a51bb13a769bfa_2666096_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Борисов поиска оставките на хората на ГЕРБ в Общинската избирателна комисия във Варна",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983530_borisov_poiska_ostavkite_na_horata_na_gerb_v/?ref=rss",
+      "pubDate": "2026-11-23T20:55:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4983529.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Political and corporate leaders react to Huang's return as Nvidia CEO",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5",
+      "pubDate": "2026-11-23T20:52:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Кметът на Варна Благомир Коцев е отстранен от Общинската избирателна комисия",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983528_kmetut_na_varna_blagomir_kocev_e_otstranen_ot/?ref=rss",
+      "pubDate": "2026-11-23T20:50:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4983527.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
+      "pubDate": "2026-11-23T20:46:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
+      "pubDate": "2026-11-23T20:45:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Либия счита, че с ударите по руски кораби Украйна ѝ обяви война",
+      "link": "https://www.actualno.com/africa/libija-schita-che-s-udarite-po-ruski-korabi-ukrajna-objavi-vojna-news_2666191.html",
+      "pubDate": "2026-11-23T20:45:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/f2811037f7b54de3a82dbefc52a38cea_2666191_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Борисов се разграничи от отстраняването на Коцев и поиска оставките на герберите в ОИК - Варна",
+      "link": "https://offnews.bg/politika/borisov-se-razgranichi-ot-otstraniavaneto-na-kotcev-i-poiska-ostavkite-879106.html",
+      "pubDate": "2026-11-23T20:40:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/23/879106/php0pbrjb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Anthropic options post solid debut, trailing SpaceX record",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
+      "pubDate": "2026-11-23T20:38:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2FnY19ZVXo4MGlTUlpSamM4Z0Fwd2J0aGxxMWlDYXNXMkFYc2ZtSkpfRS1aQ2VLdFdKSEVPaHdmanA0NzBONHd2dFhUbXlKWE1JRGhZaXVOcG5PdlZqLU9xMGd3UWFid0NuMmpYYnByMmxad2FpZXgza2U1NHRVbDZnV2szanN3aUxROW5JSmFUQnZKbFpnbWZMdmhzQTZKanlsV0pxZWI2TTh1MzdmZGQyTmk?oc=5",
+      "pubDate": "2026-11-23T20:37:14.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en",
+        "publisher": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "ОИК-Варна прекрати правомощията на кмета Благомир Коцев",
+      "link": "https://www.mediapool.bg/bulgaria/oik-varna-prekrati-pravomoshtiyata-na-kmeta-blagomir-kotsev/",
+      "pubDate": "2026-11-23T20:37:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "''Да, БГ'': Държавата не може да отстранява Коцев за отсъствие, причинено от незаконното му задържане",
+      "link": "https://offnews.bg/politika/da-bg-darzhavata-ne-mozhe-da-otstraniava-kotcev-za-otsastvie-pr-879105.html",
+      "pubDate": "2026-11-23T20:30:19.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/23/879105/phpiqidpd_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "ГЕРБ поиска оставките на хората си в ОИК-Варна заради отстраняването на Коцев",
+      "link": "https://boulevardbulgaria.bg/articles/gerb-poiska-ostavkite-na-predstavitelite-si-v-oik-varna-zaradi-otstranyavaneto-na-kotsev",
+      "pubDate": "2026-11-23T20:23:08.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MjgyLCJwdXIiOiJibG9iX2lkIn19--d69167da4db5663f0b29efae4c1e99905e131588/%D0%B3%D0%B5%D1%80%D0%B1%202110.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenRTUGVfVUgxZlhPY3lWeUVEUC1jTGtwUTZqNVNEWjk5Zkw3VE9fM0ZGLWh6MFNjTGF5Z0xOOUt0bkNfclZUY0RJQUdObEh5OUU5MDNfNFdFNFRwdVptT19FNWNQTlhuVXBBZ0hpSzh0cU5PRHhIcmhJSi1zMWRpalA3OUNRSTdzTTZfVjlmbzl2blQ5LUFZb2Rnb0ppYUtoNGtGaGM5d09pMDB4RThj?oc=5",
+      "pubDate": "2026-11-23T20:19:04.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en",
+        "publisher": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "ПП за отстраняването на Коцев: Това не е правосъдие, а отмъщение. Мафията отвръща на удара",
+      "link": "https://offnews.bg/politika/pp-za-otstraniavaneto-na-kotcev-tova-ne-e-pravosadie-a-otmashtenie-879103.html",
+      "pubDate": "2026-11-23T20:18:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/23/879103/phpk20k79_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Denmark: Top court backs hardline immigration \"ghetto law\"",
+      "link": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-23T20:08:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Асен Василев за отстраняването на Коцев: Мафията отвръща на удара",
+      "link": "https://boulevardbulgaria.bg/articles/asen-vasilev-mafiyata-otvrashta-na-udara",
+      "pubDate": "2026-11-23T20:04:25.000Z",
+      "thumbnail": {
+        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc2NTkzLCJwdXIiOiJibG9iX2lkIn19--d189f388ea8c41285e4c86b25933642e2bf5d4a8/%D0%B0%D1%81%D0%B5%D0%BD-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D0%B2-34.jpg"
+      },
+      "source": {
+        "name": "Boulevard Bulgaria",
+        "color": "#FF5722"
+      }
+    },
+    {
+      "title": "Мая Манолова ще сваля и цените на лекарствата",
+      "link": "https://offnews.bg/obshtestvo/maia-manolova-shte-svalia-i-tcenite-na-lekarstvata-879102.html",
+      "pubDate": "2026-11-23T20:00:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/23/879102/phpijxwzb_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Цената на земеделската земя у нас ще нараства, доходността от ренти ще намалява",
+      "link": "https://frognews.bg/novini/tsenata-zemedelskata-zemia-nas-shte-narastva-dohodnostta-renti-shte-namaliava.html",
+      "pubDate": "2026-11-23T19:45:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/fd35d35ce_1795462917_6b049705289e5.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
+      }
+    },
+    {
+      "title": "Радев към БЛС: Целта ни е да трансформираме здравната система към повече профилактика",
+      "link": "https://www.mediapool.bg/zdrave/radev-kam-bls-tselta-ni-e-da-transformirame-zdravnata-sistema-kam-poveche-profilaktika/",
+      "pubDate": "2026-11-23T19:39:02.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      }
+    },
+    {
+      "title": "Глобиха Грета Тунберг и още петима активисти за незаконно влизане в университета в Копенхаген",
+      "link": "https://offnews.bg/sviat/globiha-greta-tunberg-i-oshte-petima-aktivisti-za-nezakonno-vlizane-v-879099.html",
+      "pubDate": "2026-11-23T19:26:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/23/879099/phpybuiw3_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Пациентка представи 45 диагнози пред ТЕЛК - Русе",
+      "link": "https://frognews.bg/novini/patsientka-predstavi-45-diagnozi-pred-telk-ruse.html",
+      "pubDate": "2026-11-23T19:05:00.000Z",
+      "thumbnail": {
+        "link": "https://frognews.bg/images2/thumbs16x9/410/4b0771c41_1795460422_6b048d4693071.webp"
+      },
+      "source": {
+        "name": "FrogNews",
+        "color": "#795548"
       }
     },
     {
@@ -21,42 +384,6 @@
       "source": {
         "name": "Boulevard Bulgaria",
         "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Отстраниха Благомир Коцев от поста кмет на Варна",
-      "link": "https://www.actualno.com/varna/otstraniha-blagomir-kocev-ot-posta-kmet-na-varna-news_2666174.html",
-      "pubDate": "2026-11-23T18:53:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/74aae06df04c4f6dec0b5e01193f312d_2666174_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Общинската избирателна комисия във Варна отстрани от длъжност Благомир Коцев",
-      "link": "https://www.dnevnik.bg/bulgaria/2026/11/23/4983501_obshtinskata_izbiratelna_komisiia_vuv_varna_otstrani/?ref=rss",
-      "pubDate": "2026-11-23T18:46:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4930718.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Младежки конкурс за нова песен: Как млади музиканти получават шанс за развитие?(ВИДЕО)",
-      "link": "https://www.actualno.com/interview/mladejki-konkurs-za-nova-pesen-kak-mladi-muzikanti-poluchavat-shans-za-razvitievideo-news_2666042.html",
-      "pubDate": "2026-11-23T18:45:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/db0ccbc22868c1105aeb1e48b396eea3_2666042_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
       }
     },
     {
@@ -84,42 +411,6 @@
       }
     },
     {
-      "title": "Радев поиска засилване на индустриалното сътрудничество със САЩ за модеризацията на армията",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/23/4983500_radev_poiska_zasilvane_na_industrialnoto/?ref=rss",
-      "pubDate": "2026-11-23T18:43:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4983499.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Един от най-успешните клубове в света поиска капитана на Ливърпул без пари",
-      "link": "https://www.actualno.com/football/edin-ot-naj-uspeshnite-klubove-v-sveta-poiska-kapitana-na-livyrpul-bez-pari-news_2666157.html",
-      "pubDate": "2026-11-23T18:41:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/72fe4ab246fbe42c56eb301d2b422b68_2666157_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Треньорът на Манчестър Сити оправда слабата серия с напускането на Пеп Гуардиола",
-      "link": "https://www.actualno.com/football/trenioryt-na-manchestyr-siti-opravda-slabata-serija-s-napuskaneto-na-pep-guardiola-news_2666170.html",
-      "pubDate": "2026-11-23T18:40:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/6713f94c017cf4458fac2399383693cd_2666170_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
       "title": "Tajikistan follows US call, withdraws from ICC",
       "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-23T18:40:00.000Z",
@@ -128,42 +419,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "Пеканов в Брюксел: България ще получава по-малко средства от следващия европейски бюджет",
-      "link": "https://www.actualno.com/economy/pekanov-v-bruksel-bylgarija-shte-poluchava-po-malko-sredstva-ot-sledvashtija-evropejski-budjet-news_2666166.html",
-      "pubDate": "2026-11-23T18:29:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/23/ae8839c2bc5953b3e031f72b1acc77a8_2666166_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Закриха затвора в Бобов дол, местят лишените от свобода в Самораново",
-      "link": "https://offnews.bg/temida/zakriha-zatvora-v-bobov-dol-mestiat-lishenite-ot-svoboda-v-samoranovo-879098.html",
-      "pubDate": "2026-11-23T18:26:30.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/23/879098/phpnlafsl_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "BG-ALERT е била активирана в Сливен и региона заради бурния вятър",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/23/4983497_bg-alert_e_bila_aktivirana_v_sliven_i_regiona_zaradi/?ref=rss",
-      "pubDate": "2026-11-23T18:23:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4912991.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
       }
     },
     {
@@ -176,39 +431,6 @@
       "source": {
         "name": "Boulevard Bulgaria",
         "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Nvidia Board Did Not Consult Leadership on Huang Decision",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-did-not-consult-leadership-on-huang-video",
-      "pubDate": "2026-11-23T18:19:42.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "US Large-Cap Stocks Upgraded to Most Favorable at Wells Fargo",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-large-cap-stocks-upgraded-to-most-favorable-at-wells-fargo",
-      "pubDate": "2026-11-23T18:18:14.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Permian Gas Flaring Plunges as New Pipelines Enter Service",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/permian-gas-flaring-plunges-as-new-pipelines-enter-service",
-      "pubDate": "2026-11-23T18:18:14.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
       }
     },
     {
@@ -236,40 +458,6 @@
       }
     },
     {
-      "title": "Trump says he assured Nvidia that Jensen Huang posed no national security threat",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
-      "pubDate": "2026-11-23T18:14:17.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Huang Returns to Nvidia, Will Testify Publicly on Capitol Hill",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-23/huang-returns-to-nvidia-will-testify-publicly-on-capitol-hill-mwtl3r99",
-      "pubDate": "2026-11-23T18:13:30.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Задействаха BG-ALERT в Сливен заради вятър до 100 км/ч",
-      "link": "https://offnews.bg/obshtestvo/zadejstvaha-bg-alert-v-sliven-zaradi-viatar-do-100-km-ch-879097.html",
-      "pubDate": "2026-11-23T18:06:16.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/23/879097/phpllf5yw_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Врачанският митрополит Григорий временно ще оглави Ловчанската епархия",
       "link": "https://www.mediapool.bg/bulgaria/vrachanskiyat-mitropolit-grigoriy-vremenno-shte-oglavi-lovchanskata-eparhiya/",
       "pubDate": "2026-11-23T18:02:05.000Z",
@@ -277,51 +465,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from Trump, investors",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-      "pubDate": "2026-11-23T18:00:18.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
-      "pubDate": "2026-11-23T17:57:47.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "AI rally set to add $2 trillion to Nasdaq-100 as Huang returns to Nvidia helm",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk01bk9iRUpaaEhTQ1RKTXVXdEQyblBoSjRFb1FBZjBjbzJZdi03REh0RHpKTnFBSnQzRGdoMXNSLWMyVEtQaDBjN2dMVS1zR2otTXhPRzVQeWJaRmZiaXZ6R1dkcUFFSGRYTTRMSWtsWGhEQmhrUmgyaGgtZWRjbjQ5MUl2T3ZuSEhFUDVOY2pNbHRaWG5KMmJydmk3UmZib3djVnV4QXlEcnh2ZUE?oc=5",
-      "pubDate": "2026-11-23T17:48:53.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Защо Иран нанесе удари по остров Дидмар в Оман?",
-      "link": "https://offnews.bg/analizi-i-komentari/zashto-iran-nanese-udari-po-ostrov-didmar-v-oman-879095.html",
-      "pubDate": "2026-11-23T17:45:27.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/23/879095/php93k7nr_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
       }
     },
     {
@@ -346,17 +489,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY290QTRyd09iaGNpaWpuNmlnOHQ2MVZSMm43Q29tS05BSE00ekxCeF9DZ013THRtUzVsTUItS2FIa1R6UzdOQ2FlOFlscXRLVUdfNkhLNS1JZ0FNNTZuOEgxdVVhN2JnaDBYdVFJQXBhSUNxeFBnR0V2XzZLTzZBaEh4NVUxLWRhZjJHOGR5NGVZOXpjWGZjaVFWR0NobElUaUE?oc=5",
-      "pubDate": "2026-11-23T17:34:49.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -392,18 +524,6 @@
       }
     },
     {
-      "title": "Без руски спортисти, без визи за бивши бойци и удар по 60 банки в новия санкционен пакет на ЕК",
-      "link": "https://offnews.bg/sviat/bez-ruski-sportisti-bez-vizi-za-bivshi-bojtci-i-udar-po-60-banki-v-no-879096.html",
-      "pubDate": "2026-11-23T17:21:00.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/23/879096/phpaaj4ym_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "Начална учителка от Велико Търново призовавала за насилие над журналисти",
       "link": "https://www.mediapool.bg/obrazovanie/nachalna-uchitelka-ot-veliko-tarnovo-prizovavala-za-nasilie-nad-zhurnalisti/",
       "pubDate": "2026-11-23T17:17:27.000Z",
@@ -411,18 +531,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Д-р Цветелина Спиридонова: Лекари и медицински сестри напускат болниците заради извънболничната помощ",
-      "link": "https://frognews.bg/novini/tsvetelina-spiridonova-lekari-meditsinski-sestri-napuskat-bolnitsite-zaradi-izvanbolnichnata-pomosht.html",
-      "pubDate": "2026-11-23T17:16:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/631576f30_1795454271_6b04753fb834a.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
       }
     },
     {
@@ -438,16 +546,6 @@
       }
     },
     {
-      "title": "Риалити само след 23:00 и 32-часова работна седмица. Какво планират сръбските студенти",
-      "link": "https://www.mediapool.bg/balkani/rialiti-samo-sled-2300-i-32-chasova-rabotna-sedmitsa-kakvo-planirat-srabskite-studenti/",
-      "pubDate": "2026-11-23T17:02:34.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
-      }
-    },
-    {
       "title": "- DW.com",
       "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxOdF9zOWJyMXU2djVqU2E3MmlCOXc0Y0tGenhPUWhCNldFODF3aXg4ai1JUnI1bzg4TGhINjBsbnB3MFJjdW1qNTdFSWpJaEdlVEJLU0FqcDc3azRtcEMtUUZxbXdTYjdPR3JGTFUzNXd6WjJpbXNFWHN4dXgxS0ZxUVlKenFqdy1GUHViS3hjdk5xVXRVbXpvM21MWE1hTG1UbjhuakZ6YmNIcVA4cUh4YWstYzk0UnMzZVNyT1RQbUQ4bk5kczgxMXo5X0JqM3QxT0QwLTl2QldMNTc4RGs3ZnVXV19uemNwY2R6bmRFaXFOLWZGeUdQQnJ4bXpZYTlXcHhiZEZBSXQtNG5sTlFEZ3RRaHFZbmpqdEg0V3hGYW1jSVZ0MHJWZjUxVHFJNU9Qc3BCOXpwdmw2aTcxUkdFWEpHaVl0UWRaOGVxa2VTOW05cjRjLUsxbDIybERsRlhRMjRKdWpiN1pObXNRWm1tZ2lpdzlzRDlUcFdXSVc2ZjkxU3QwZEd0d1hTbEpNR25QYndRQm92SllkUVh5dWlnb2RGVFJiWC04V0pOcGlXeGJROHFGVWVjclRjcnJPV2JLNE9xWW12WFQwSGJFekQ5MXotajFhREpIbHkwN2hnelNsbENoaHRudW85QWdLdnVTMDZxQXVCQWVkdWVGS1ZqNkVyUjdycUd6X1pmejdfVXFnWmJFOWdWeGtJT3ViU1NYX3BrSDlUb25pTkxNN0haXw?oc=5",
       "pubDate": "2026-11-23T17:00:18.000Z",
@@ -455,30 +553,6 @@
       "source": {
         "name": "DW България",
         "color": "#05B2FF"
-      }
-    },
-    {
-      "title": "Еврокомисията предлага санкции за руски военни и спортисти и десетки банки",
-      "link": "https://www.dnevnik.bg/sviat/voinata_v_ukraina/2026/11/23/4983489_evrokomisiiata_predlaga_sankcii_za_ruski_voenni_i/?ref=rss",
-      "pubDate": "2026-11-23T16:55:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4983488.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "ГДБОП разследва заплахи срещу експерта, изготвил новата експертиза по делото „Сияна“",
-      "link": "https://frognews.bg/novini/gdbop-razsledva-zaplahi-sreshtu-eksperta-izgotvil-novata-ekspertiza-deloto-siiana.html",
-      "pubDate": "2026-11-23T16:55:00.000Z",
-      "thumbnail": {
-        "link": "https://frognews.bg/images2/thumbs16x9/410/a337fb401_siqna.webp"
-      },
-      "source": {
-        "name": "FrogNews",
-        "color": "#795548"
       }
     },
     {
@@ -494,30 +568,6 @@
       }
     },
     {
-      "title": "Шофьор е обвинен за умишлено причиняване на смъртта на жена при катастрофа на \"Тракия\"",
-      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/23/4983495_shofyor_e_obvinen_za_umishleno_prichiniava_na_smurtta/?ref=rss",
-      "pubDate": "2026-11-23T16:51:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4936571.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Пътната безопасност започва от инфраструктурата и контрола, смятат читателите на OFFNews",
-      "link": "https://offnews.bg/analizi-i-komentari/patnata-bezopasnost-zapochva-ot-infrastrukturata-i-kontrola-smiatat-c-879075.html",
-      "pubDate": "2026-11-23T16:45:27.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/23/879075/phpqci7hi_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
       "title": "нси Архиви",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EUkFEbDlYNVhPSm9FdE0tbHg3OEZRRFZLVmh5QjBSRTloOEdJcFZYY0JZZkJoeVpZVF9VNHJiSGpDaDN6b1dXUTBR?oc=5",
       "pubDate": "2026-11-23T16:37:48.000Z",
@@ -525,28 +575,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Петър Витанов: Знаете ли какво е да си ляв човек през 90-те години в центъра на София?",
-      "link": "https://boulevardbulgaria.bg/articles/petar-vitanov-znaete-li-kakvo-e-da-si-lyav-chovek-prez-90-te-godini-v-tsentara-na-sofiya",
-      "pubDate": "2026-11-23T16:35:41.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgxODQ4LCJwdXIiOiJibG9iX2lkIn19--8b7fa6d3afd645e0688494ff3f657527fffef00e/%D0%BF%D0%B5%D1%82%D1%8A%D1%80%20%D0%92%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Пеканов: България може би ще получи по-малко пари от ЕС през 2028-2034 г.",
-      "link": "https://www.mediapool.bg/biznes/pekanov-bulgaria-mozhe-bi-shte-poluchi-po-malko-pari-ot-es-prez-2028-2034-g/",
-      "pubDate": "2026-11-23T16:30:57.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Mediapool",
-        "color": "#00BCD4"
       }
     },
     {
@@ -583,17 +611,6 @@
       }
     },
     {
-      "title": "\"Първият съветски патриарх\": как Кирил стана слуга на Путин",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFdsU1hIVjdYMWZjdV9wcUs4bW9USmUxblY1Nl9kNW9qQjRXd0o2QVEwV19JT0FHakExa0x6d01mdXViZmd6dngzUmRNcFNwd1VwU2ZpWUlndkEtWWI2WHZUNy1fUG5TZkFQQnlESU5zMV91czhvdHd3dmFweHRzTzVKSWZMVWRlVHNJemhCaGXSAZABQVVfeXFMUE11WXBtMTIydTZNeG9tc2MzY2E0SWNVVE5QVkdWZUViTEpGWEE3WnV6UDNtU0Z0ZWdiT2FBX0QybkxoTjdrUjJrTHV0c3ZkdVZZaTZGRndjSlJQY3h0NXV5YmlJdmZucGhZbjFlWjZOaTZ6XzJyU2RwYmdQbUNCV3hvWk5yUlRlby1GaW85a0Zz?oc=5",
-      "pubDate": "2026-11-23T15:55:17.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
-      }
-    },
-    {
       "title": "Четиринайсет души са арестувани за измами с ТЕЛК в София, Разград и Враца",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWlpMlQ1VTlxd0tLUEE4cEVCNVh2RnBWclotYXhEWUk0ZzNHQ2VRMkI0RVg2RHJuUzFJQXBPbWlrWGtKZHlZTlU2TnYwLUk4RUlCX2txRUtURGZTNWxPVldUSGJsN2lfNWpLbFphUFVMZjhLdHcwV0phNzRfSnAtSkhsY19YOWJmSld0VGhsQndLZ09VaDdDa0QweU5jUHJ6QVFfLTRheENhRkp4Nms4?oc=5",
       "pubDate": "2026-11-23T15:41:44.000Z",
@@ -601,29 +618,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Доц. Тонка Върлева е новият главен държавен здравен инспектор на мястото на Ангел Кунчев",
-      "link": "https://boulevardbulgaria.bg/articles/dots-tonka-varleva-e-noviyat-glaven-darzhaven-zdraven-inspektor-na-myastoto-na-angel-kunchev",
-      "pubDate": "2026-11-23T15:36:17.000Z",
-      "thumbnail": {
-        "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgxODQwLCJwdXIiOiJibG9iX2lkIn19--e76a811b0f84aae2d6228a1b1e1292c0f6410519/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B0%20%D0%92%D1%8A%D1%80%D0%BB%D0%B5%D0%B2%D0%B0_1.jpg"
-      },
-      "source": {
-        "name": "Boulevard Bulgaria",
-        "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Gukesh to defend chess crown against rising star Sindarov",
-      "link": "https://www.dw.com/en/gukesh-to-defend-chess-crown-against-rising-star-sindarov/a-80021806?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-23T15:31:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
       }
     },
     {
@@ -637,7 +631,7 @@
       }
     },
     {
-      "title": "12% ръст на фалитите в България тази година прогнозира Allianz Trade",
+      "title": "12% ръст на фалитите в България през 2026 г. прогнозира Allianz Trade",
       "link": "https://www.capital.bg/politika_i_ikonomika/ikonomika/2026/11/23/4983360_12_rust_na_falitite_v_bulgariia_tazi_godina_prognozira/?ref=rss",
       "pubDate": "2026-11-23T14:52:00.000Z",
       "thumbnail": {
@@ -707,5 +701,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T19:00:07.146Z"
+  "lastUpdated": "2026-11-23T22:00:37.072Z"
 }
