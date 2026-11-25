@@ -1,9 +1,207 @@
 {
   "windowStart": "2026-11-24T16:46:36.416Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-24T22:00:09.166Z",
-  "totalItems": 89,
+  "lastUpdated": "2026-11-25T01:00:08.091Z",
+  "totalItems": 105,
   "items": [
+    {
+      "title": "Power On Podcast: Mark Answers Listener Questions",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-25/power-on-podcast-mark-answers-listener-questions",
+      "pubDate": "2026-11-25T00:57:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Everybody's Business: The Return of Jensen Huang (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-25/everybody-s-business-the-return-of-jensen-huang-podcast",
+      "pubDate": "2026-11-25T00:53:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Australian Inflation Accelerates, Even After RBA Rate Hikes",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+      "pubDate": "2026-11-25T00:32:01.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "What Jensen Huang’s Second Act Means for AI",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-25/what-jensen-huang-s-second-act-means-for-ai-video",
+      "pubDate": "2026-11-25T00:13:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Германия създава полк от дронове, оборудва го с украински безпилотни апарати, наземни роботи и крилати ракети",
+      "link": "https://www.actualno.com/europe/germanija-syzdava-polk-ot-dronove-oborudva-go-s-ukrainski-bezpilotni-aparati-nazemni-roboti-i-krilati-raketi-news_2666655.html",
+      "pubDate": "2026-11-25T00:10:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/c7dca193c21734f1b7465eaba2623e17_2666655_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "US Readies Tariff Hike, Huang Apologizes to Nvidia Staff, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-25/us-readies-tariff-hike-huang-apologizes-to-nvidia-staff-more",
+      "pubDate": "2026-11-25T00:06:18.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE80eU84aDZfY24tLUhfMURrVFZHdkt3UHZuNjcxOXA3MUdWU0ZXUV9Od0d2QUJUWVFtZEN4X19BekxhdUFzcUNlVFYtZVdiMHgtTEFPQWtxU2xIS2NwUW1HVzJkUjNRS2tiMkJEa1ltcG42enk0czYyQXNjN0xibUd1SFNGU3pzd1diLWxDcFlmUVVqUmRoNVJ5VzVDNUVmMDJNRmxTY2dJSjJ3MGk4UUNhTk9DaGNLQ1E?oc=5",
+      "pubDate": "2026-11-24T23:59:28.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Пентагонът включва автомобилни гиганти в производството на бойни дронове",
+      "link": "https://www.actualno.com/economy/pentagonyt-vkluchva-avtomobilni-giganti-v-proizvodstvoto-na-bojni-dronove-news_2666654.html",
+      "pubDate": "2026-11-24T23:55:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/9ad4628e9688815aa0b70e57102663ba_2666654_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Мадяр към Зеленски: Няма такова нещо като ускорена процедура, членството в ЕС трябва да се спечели (ВИДЕО)",
+      "link": "https://www.actualno.com/europe/madjar-kym-zelenski-njama-takova-neshto-kato-uskorena-procedura-chlenstvoto-v-es-trjabva-da-se-specheli-video-news_2666653.html",
+      "pubDate": "2026-11-24T23:47:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/d931bcb03e5947307e593aade59ceb4d_2666653_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Radar issue delaying flights at Chicago O'Hare airport, FAA says",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjhpWUkxM0dhYm9Bd0ttQUViUWNfM1NiajJvQVZtREUtREUxaW5vX3pINHpyakFsTTVpLUh2dVRpTUgzWV9nQmZlZng2UUg4Z3Q3V3hxQW04WXBiaFRTaDgwdnM1Rk9iN214d3J0Sm0wYXc2d19taW5hQk9Eb1huRG9qWnR2TEUtWjloS2tPbXhIbmNCaWVKbnl2NEVTWDRheU1mOVd3?oc=5",
+      "pubDate": "2026-11-24T23:43:44.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "\"Какво съм аз, куфар ли\": Зеленски реагира остро на предложението на Лукашенко да пътуват заедно до Москва",
+      "link": "https://www.actualno.com/europe/kakvo-sym-az-kufar-li-zelenski-reagira-ostro-na-predlojenieto-na-lukashenko-da-pytuvat-zaedno-do-moskva-news_2666652.html",
+      "pubDate": "2026-11-24T23:32:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/9bf8374b1a3704f5761a55f93343417f_2666652_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E?oc=5",
+      "pubDate": "2026-11-24T23:15:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Грозят го 10 години затвор: Американски военен призна за продажба на секретна информация на Китай",
+      "link": "https://www.actualno.com/america/grozjat-go-10-godini-zatvor-amerikanski-voenen-prizna-za-prodajba-na-sekretna-informacija-na-kitaj-news_2666650.html",
+      "pubDate": "2026-11-24T23:14:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/e8b759d4ea0f1fe560f303facefb3513_2666650_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
+      "pubDate": "2026-11-24T23:11:43.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Scientists discover quasar formed 630 million years after the Big Bang",
+      "link": "https://www.dw.com/en/scientists-discover-quasar-formed-630-million-years-after-the-big-bang/a-80041882?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-24T22:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
+    {
+      "title": "Вятърът стихва, между 6 и 11 градуса ще са максималните температури",
+      "link": "https://offnews.bg/obshtestvo/viatarat-stihva-mezhdu-6-i-11-gradusa-shte-sa-maksimalnite-temperatur-879188.html",
+      "pubDate": "2026-11-24T22:27:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/25/879188/phpw59pei_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-25T01:00:08.091Z"
+    },
     {
       "title": "Milei tendría votos en Senado para aprobar reforma electoral",
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/milei-tendria-votos-en-senado-para-aprobar-reforma-electoral",
