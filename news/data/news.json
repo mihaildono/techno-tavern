@@ -1,9 +1,33 @@
 {
   "items": [
     {
-      "title": "Macy's Parade Delayed by Weather, US Announces New Tariffs, More",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-delayed-by-weather-us-announces-new-tariffs-more",
-      "pubDate": "2026-11-26T00:59:04.000Z",
+      "title": "Важните събития в България и по света днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/26/4984685_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
+      "pubDate": "2026-11-26T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4882539.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Кой има имен ден днес, 26 ноември 2026 г. Честито!",
+      "link": "https://www.actualno.com/society/koj-ima-imen-den-dnes-26-noemvri-2026-g-chestito-news_2667107.html",
+      "pubDate": "2026-11-26T03:55:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/25/7ddfe06794253fe6d4aca5ec5211e39a_2667107_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      }
+    },
+    {
+      "title": "Indonesian Nickel Trader Named Suspect in Money Laundering Probe",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/indonesian-nickel-trader-named-suspect-in-money-laundering-probe",
+      "pubDate": "2026-11-26T03:53:52.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -12,9 +36,21 @@
       }
     },
     {
-      "title": "Hong Kong Fire Survivors Remember the Disaster One Year Later",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/hong-kong-fire-survivors-remember-the-disaster-one-year-later",
-      "pubDate": "2026-11-26T00:53:49.000Z",
+      "title": "Св. Стилиан пази малките деца, съимениците му празнуват",
+      "link": "https://offnews.bg/obshtestvo/sv-stilian-pazi-malkite-detca-saimenitcite-mu-praznuvat-834801.html",
+      "pubDate": "2026-11-26T03:50:11.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2024/11/26/834801/phpbzussq_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      }
+    },
+    {
+      "title": "Macy's Parade Pushed to Saturday, US Unveils New Tariffs, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-pushed-to-saturday-us-unveils-new-tariffs-more",
+      "pubDate": "2026-11-26T03:49:01.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -23,9 +59,9 @@
       }
     },
     {
-      "title": "Disney Wins Order Pausing FCC Renewal Process for ABC Licenses",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/disney-wins-order-pausing-fcc-renewal-process-for-abc-licenses",
-      "pubDate": "2026-11-26T00:38:49.000Z",
+      "title": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce",
+      "pubDate": "2026-11-26T03:45:09.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -34,9 +70,9 @@
       }
     },
     {
-      "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-      "pubDate": "2026-11-26T00:18:09.000Z",
+      "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+      "pubDate": "2026-11-26T03:42:25.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -45,13 +81,107 @@
       }
     },
     {
-      "title": "Vance: Don’t Think Jensen Huang Needs a Pardon",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-26/balance-of-power-late-edition-11-25-2026-video",
-      "pubDate": "2026-11-26T00:13:27.000Z",
+      "title": "Dry Bulk Shipping Rates Climb as Capesize Vessel Supply Tightens",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/dry-bulk-shipping-rates-climb-as-capesize-vessel-supply-tightens",
+      "pubDate": "2026-11-26T03:39:18.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
         "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
+      "pubDate": "2026-11-26T03:08:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Extreme weather threatens Thanksgiving festivities in US",
+      "link": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-26T02:47:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Asia shares bounce, AI and tariffs lurk in background",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+      "pubDate": "2026-11-26T01:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Дидо Дънката Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWnhlN0tKQkJnNm40b3QwLTJid0xEOXBLa2NwTUJOekVzZk5MWF9kdFdHalhhX283MUpyY1NqWWdJOWlFb3hjVE1XeVhTZmxmaUJHaThHUWw?oc=5",
+      "pubDate": "2026-11-26T01:03:33.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "ЕКОФИН Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsUW5qSFc5dzc0bUJObXhwWjdhTjN2QU9YVlFfM1VwcUQxeUdwYW9GMGVLZkZSUjYxcXZZV3c0bW9PeDdESnRQQmVCcm5sZw?oc=5",
+      "pubDate": "2026-11-26T01:03:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "електромобили Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcHhaOTZDdGthV2d4VlpQcGU3ek1adFgzNjltS0NMMWxYaUlBNE5NY1V1aDk1ejV2dGk4V1NHX2RXN3FvSlA4X3hUb1pBQXhyUGZEOHI2bw?oc=5",
+      "pubDate": "2026-11-26T01:03:32.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "жертви домшано насилие Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PNmp6QXFWQU5BTFJHVU9ObTdfSGZNeWZyUy1HYjJMc0hSSElCSHc3SmhmTXhJdnRiLVRHTmh0T1dic2lGRzhaVUVOdExkOVJoRFhXU01EaGxqQ2w3XzZpaEZsTHV5dw?oc=5",
+      "pubDate": "2026-11-26T01:03:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "закрила Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rejktSW0zcV8zYzdCUlJmQVlPSE0yT0VaZno3MGZwZ1djczZKSHVFY1R4M19OMHdJVXBqZ1pHTWNQQ2J4SmxXV1NwUFBiYjg?oc=5",
+      "pubDate": "2026-11-26T01:03:30.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      }
+    },
+    {
+      "title": "US judge blocks FCC from targeting Disney-owned ABC stations",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3U4SjN4dnBlQUVGemRWMkxMdndfMXJjMHBmNUtvRDMtVmJhRWhZVS1kZzd0UHVUend5T3NJRlV2elRaTW1jQ3Y1QjNpVEtWRlltZ0x2WE5kSVNQbWdUZ1BpWmtyZHFQYjVmTUphNk1wWlRlbU8wTUpuUjdHa0ZXc19tV3hFUEFMY3Q3WVphZDdTeGRKUGRDWTU1YmxoRWl0anJCUTc2NA?oc=5",
+      "pubDate": "2026-11-26T00:34:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -91,20 +221,9 @@
       }
     },
     {
-      "title": "For Trump, doubling down on tariffs is about power, not popularity",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
-      "pubDate": "2026-11-25T23:41:32.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "AI stock rout deepens but damage is limited by afternoon bounce",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
-      "pubDate": "2026-11-25T23:39:08.000Z",
+      "title": "New Trump tariffs would likely increase sugar prices in the US",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJSZDlKMEI2OHVpZjlzVFhrbXlSVFpZRHFCMWFSSVVHRmZhcG9WVHlObTdFVGhUdjROUmRCYWYyRmFMQjNaMTlsOEktdVcyYlR6YjlMQUtiTXhPRm8wSTVRWGNLbllNVTVxR3VocFcxa1ZEQlZyeEpOTXk2ZUdENjczRl9zYnA4ODJQaEM4eHo4ZnNZdWZGOGdneVZ0ZjFDMGc?oc=5",
+      "pubDate": "2026-11-25T23:41:00.000Z",
       "thumbnail": null,
       "source": {
         "name": "Reuters",
@@ -125,17 +244,6 @@
       }
     },
     {
-      "title": "US airlines face higher costs from proposed Embraer duty",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpyd1BJdFpVWVVZa2U5Zzcxa2trQ29NTFItblc0Q0VJaWx3TEZvUjkwb1BlWXUwZW1vUXZSNkZSODduRzM5a1diUGJOdE1zc0dlb2lxNGhUaDhTVUJQUzk2b1JSZTRzSDBPenkxTVU0T2QtYlhsb2RGX0o1OG4tNkltblFaMUVRMk9hUEZsU2hGUlRVNnpNN3JIVGtWMkpUR0g0S3pSQUlYdkpUdTdfWkFQRGs?oc=5",
-      "pubDate": "2026-11-25T23:25:43.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Русия с масирана атака срещу Киев, Украйна удари Белгородска област (ВИДЕО)",
       "link": "https://www.actualno.com/europe/rusija-s-masirana-ataka-sreshtu-kiev-ukrajna-udari-belgorodska-oblast-video-news_2667117.html",
       "pubDate": "2026-11-25T23:13:00.000Z",
@@ -148,17 +256,6 @@
       }
     },
     {
-      "title": "EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
-      "pubDate": "2026-11-25T22:54:57.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
       "title": "Duran Duran guitarist Andy Taylor dies at 65",
       "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-25T22:53:00.000Z",
@@ -167,38 +264,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "След сърдечен арест: Животът на малката Бела се преобръща, нуждае се от помощта ни",
-      "link": "https://www.actualno.com/society/sled-syrdechen-arest-jivotyt-na-malkata-bela-se-preobryshta-nujdae-se-ot-pomoshtta-ni-news_2667116.html",
-      "pubDate": "2026-11-25T22:52:00.000Z",
-      "thumbnail": {
-        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/26/84c184d81c8672eb13fa85bff138947a_2667116_1920x1080.jpg"
-      },
-      "source": {
-        "name": "Actualno",
-        "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "ам хемус Архиви",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JS05wN3hHWS0zOGVVcV9zVEdva2lPX1FMVHJmbGthZXM5ampDVmo4U2dVMUVGNnVWcXRoazM2ZUo3bWYzSklJaWlkanBFMWo2?oc=5",
-      "pubDate": "2026-11-25T22:47:05.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Австрия Архиви",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pQzN1SnNrb1JyWGVsbXE1aDczTjctaXhPU2NYbExvTzF5dmE3RWg5NkR1RmJLV3lTZmhhQXJsTl9sampqV2NuSEFvNEVTNUJ1d0Nz?oc=5",
-      "pubDate": "2026-11-25T22:41:02.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
       }
     },
     {
@@ -226,16 +291,6 @@
       }
     },
     {
-      "title": "оик-варна Архиви",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZXZEUG9iT05ISjRtX2tyT2kyUW9laEh2RGpzTTgxZHMzMTJnQ256UXhId0FkWGdjRDYwSERXWmJBMjVSWDF4N05mU2VCWkx4NHEwTA?oc=5",
-      "pubDate": "2026-11-25T21:38:54.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
       "title": "Egypt: At least 31 dead after fuel truck overturns on highway",
       "link": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-25T21:37:00.000Z",
@@ -244,26 +299,6 @@
         "name": "DW",
         "color": "#C8102E",
         "lang": "en"
-      }
-    },
-    {
-      "title": "паметници на културата Архиви",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwZHFaTElwVXFRYUN3LWJYTWlKV0VfMFhEUXViamV6U0VfMEJ2QmR2ZHB4S1J6VmZlWWV3YU9Qc25JeVdWRzVGUE9CaG9EUy14NVg5dl9md0dVc3p2SUE4Mnl3Q1Y?oc=5",
-      "pubDate": "2026-11-25T21:36:50.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
-      }
-    },
-    {
-      "title": "насилие срещу жени Архиви",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nUXVyUnprRkNHcmdSb3J1cFpaWXQ0ME14dnNkODJOTHRtX0VoN3Z2MHc3LUdlalh4ODR4RHQzYWRZQzVGMmVXYWduVzFWMDc3RnpscWFNNTRzRGNBUDVFWERB?oc=5",
-      "pubDate": "2026-11-25T21:36:50.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Свободна точка",
-        "color": "#FF9800"
       }
     },
     {
@@ -307,18 +342,6 @@
       "pubDate": "2026-11-25T20:17:00.000Z",
       "thumbnail": {
         "link": "https://img.dnevnik.bg/shimg/zx350c_4959123.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "Разследване в Шанхай препречи обичайния път към властта в Китай",
-      "link": "https://www.dnevnik.bg/sviat/2026/11/25/4984645_razsledvane_v_shanhai_preprechi_obichainiia_put_kum/?ref=rss",
-      "pubDate": "2026-11-25T20:13:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4984644.jpg"
       },
       "source": {
         "name": "Dnevnik",
@@ -467,17 +490,6 @@
       }
     },
     {
-      "title": "Унгария и Украйна: Мадяр и Зеленски поставят ново начало",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzdBTWNONlRCdXdUdlgxenZFRkZHTFJiNW9oOHRmc2JhZktKeFMtcExPTHRZa2ZMVE00cExibUF6dFhVYXlicldTUDRwbjFLTWJBdXZveGV6RFRqQjMzY1dRUzVJT1FKSkRPaG5NRVlsWUFfNVZWSnZwTWRQWVY2empkZnJjenU3ODRpSGZXZlY2UdIBkgFBVV95cUxQZ19ibUFqZTZZVVhFU3d6SnRkWHMwVVRQMF9OcHRiNHZqMHlXd2Z3ZTVJaWo2Vlg5bkliLUt3djY1bjlFTWM3VHJEX2JlcW56OHNjbnI2aTVqZWhmSnJYcXhOSHpqWUtVWjMxVFdPZ0NiRGFTUk1NXzRvdGh4WmhyMjhRSmllTDc0Slh2eVQzUkdhZw?oc=5",
-      "pubDate": "2026-11-25T18:03:59.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
-      }
-    },
-    {
       "title": "Седем града се обединиха срещу насилието над жени и институционалното бездействие",
       "link": "https://frognews.bg/novini/sedem-grada-obediniha-sreshtu-nasilieto-nad-jeni-institutsionalnoto-bezdeistvie.html",
       "pubDate": "2026-11-25T18:00:00.000Z",
@@ -487,17 +499,6 @@
       "source": {
         "name": "FrogNews",
         "color": "#795548"
-      }
-    },
-    {
-      "title": "Spain: Canary Islands witness 1-day migration record",
-      "link": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-25T18:00:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
       }
     },
     {
@@ -518,29 +519,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "САЩ подготвят нови мита за Китай и ЕС",
-      "link": "https://offnews.bg/sviat/sasht-podgotviat-novi-mita-za-kitaj-i-es-879276.html",
-      "pubDate": "2026-11-25T17:40:46.000Z",
-      "thumbnail": {
-        "link": "https://i2.offnews.bg/events/2026/11/25/879276/phpn4sc3x_559x345.jpg"
-      },
-      "source": {
-        "name": "OffNews",
-        "color": "#E91E63"
-      }
-    },
-    {
-      "title": "България е с най-ниските заплати в ЕС, Гърция – с най-слабата покупателна способност",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTd1bVdKQ25sZnpZbEU3OWxyLThHZV9BOF93dndqU1JCQVdnbjllaHhEcGIyeEZuYmZVakpTVFhiYXJRRk5OdGw3Vm9IUVFlbDhLdDFmNnBkcUZyWmE3Snp0Tm9naVRKNTl2RGdxY3NuRzZlZV9rV3RjX19pNVo2RTQ2eEpFM2lXamdrZXprNkgzLTDSAZMBQVVfeXFMTk5zRVJSS1hhUXFBdERLak5HWVRxRDJHZVhXd2hXQWF2V3JPN2RHd0hFTHhLMTVoeFBhVGh4RnRGQk5JanRDTUxnYkhuMXEyU0YxUUI3T3R2aWswTlZpTmlDbTNEbUoyMmlZQ2pVRmlEZGREMjdKRjREcGZRbEJ1LXFWdTVVck5TQzlacENhaW9VWm5r?oc=5",
-      "pubDate": "2026-11-25T17:40:26.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW България",
-        "color": "#05B2FF",
-        "publisher": "DW.com"
       }
     },
     {
@@ -716,7 +694,29 @@
         "name": "Капитал",
         "color": "#009688"
       }
+    },
+    {
+      "title": "Война на сателити: американският \"Старлинк\" срещу руския \"Рассвет\"",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOem5OelNSM1N4U1h2QnUyLXpwODBIOHBubTNkWVpEazFwVVQyekFGVlpFdG1pMWZkTWpzbzY2ZkNLQkFoSkVPRDc2bjZDdzFVUUQ4UGZlaUlFS0tjbzdzN1pnTzQ0SHVOUldHQ3YwNWFFa2pQLWx3M2xmRmM1Mi1zMXhGbTZzb1c5RktuQmVwOUdEYkpzWHhFQ0ZR0gGaAUFVX3lxTE56bk56U1IzU3hTWHZCdTItenA4MEg4cG5tM2RZWkRrMXBVVDJ6QUZWWkV0bWkxZmRNanNvNjZmQ0tCQWhKRU9ENzZuNkN3MVVRRDhQZmVpSUVLS2NvN3M3WmdPNDRIdU5SV0dDdjA1YUVralAtbHczbGZGYzUyLXMxeEZtNnNvVzlGS25CZXA5R0RiSnNYeEVDRlE?oc=5",
+      "pubDate": "2026-11-25T13:14:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      }
+    },
+    {
+      "title": "Германската икономика отново расте. Какво се промени?",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHdDcGJBNC1FT1paRDFacGYzeWNnM3pQZEdmOGl4NjNIRllrRGQxRDR0akR3bmxrdTVmNlJGRzZnSWdUWGZ5MGdvNi1OeGpTaDBOd1VaQXBEZWVaUlZobXpCbmNwYW1wYTZudjdHeEctTnN5aWNWcjBEcm5zc0pjbDNpTkF5RjF2aTluRNIBjAFBVV95cUxOMHdDcGJBNC1FT1paRDFacGYzeWNnM3pQZEdmOGl4NjNIRllrRGQxRDR0akR3bmxrdTVmNlJGRzZnSWdUWGZ5MGdvNi1OeGpTaDBOd1VaQXBEZWVaUlZobXpCbmNwYW1wYTZudjdHeEctTnN5aWNWcjBEcm5zc0pjbDNpTkF5RjF2aTluRA?oc=5",
+      "pubDate": "2026-11-25T13:02:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF",
+        "publisher": "DW.com"
+      }
     }
   ],
-  "lastUpdated": "2026-11-26T01:00:08.287Z"
+  "lastUpdated": "2026-11-26T04:00:07.299Z"
 }
