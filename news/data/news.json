@@ -1,9 +1,33 @@
 {
   "items": [
     {
-      "title": "Taiwan Gears Up for Local Elections",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-gears-up-for-local-elections-video",
-      "pubDate": "2026-11-27T00:36:31.000Z",
+      "title": "Важните събития в България и по света днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/27/4985108_vajnite_subitiia_v_bulgariia_i_po_sveta_dnes/?ref=rss",
+      "pubDate": "2026-11-27T04:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4985110.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      }
+    },
+    {
+      "title": "Новият съдебен съвет: кой държи козовете",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/11/27/4984189_noviiat_sudeben_suvet_koi_durji_kozovete/?ref=rss",
+      "pubDate": "2026-11-27T04:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4984536.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      }
+    },
+    {
+      "title": "What’s Driving Hong Kong Home Rents to New Highs",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
+      "pubDate": "2026-11-27T03:41:24.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
@@ -12,13 +36,124 @@
       }
     },
     {
-      "title": "Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
-      "pubDate": "2026-11-27T00:34:44.000Z",
+      "title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+      "pubDate": "2026-11-27T03:33:48.000Z",
       "thumbnail": null,
       "source": {
         "name": "Bloomberg",
         "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Iraqi Oil Loadings Get Pushed Back as Buyers Weigh Alternatives",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/iraqi-oil-loadings-get-pushed-back-as-buyers-weigh-alternatives",
+      "pubDate": "2026-11-27T03:33:31.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+      "pubDate": "2026-11-27T03:33:07.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-asia-stocks-rise-tariff-reactions-podcast",
+      "pubDate": "2026-11-27T03:31:09.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "New Zealand election ends in hung parliament",
+      "link": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-27T03:13:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "New Zealand’s ruling coalition falls just short of majority, needs centrist Opportunity to govern",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUJJR2tmTGJxc05wVjE5MXN0ZUpZVHhod21ac21oRE1LbENWaGY1ODZCa0stM0lDMU9pRERZUFMzcnl6b1RwLWEyWEhsSFpFaGd1TDloS2VuWEZpa2VPbU9sMkRHbDNLSXhfYVFOVTg1OXNfM3hSQk9xWkJsVVI5clA3ZlNvNURvMENuaEpHaG90ZXZwbWlqalJVZDdRbXVzWVBtNXdiZGoyamkxRGRjMGtjbUFtZ0F5MHFkVU0tckpyOFQ0UWEyeVNhbw?oc=5",
+      "pubDate": "2026-11-27T01:59:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Brent trades near month's high as Mideast conflict threatens supply",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5",
+      "pubDate": "2026-11-27T01:55:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "The search for Vietnam's stolen pets at wet markets and slaughterhouses",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2dYeElFYjEyMGxyeHFRdGd0SzUxZ3ctdUhzdVp0c0NSS1VKTWJSTXpxdHdyTGFQTGc5d3FvUUxpN2xEMDBlU2o2bHRRXzh1NUMtRUtTOTJsRmxGVzNoT0VDQ000Qm1lcTRnTUp1SDRSUFU2bXY1QVBsS19mSTRIMkxaTkVjVU9WdXNVV29ZaEhNR3BRV1RULWpEUjlLQnJ5Vmc2blVlRmFKUkpKOEFtdFZR?oc=5",
+      "pubDate": "2026-11-27T01:06:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Лидерите на ЕС не се разбраха да дългосрочния бюджет",
+      "link": "https://clubz.bg/182383",
+      "pubDate": "2026-11-27T00:55:56.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/ursula-kosta-2711.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      }
+    },
+    {
+      "title": "Trump says Putin can come to G20 if he wants",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+      "pubDate": "2026-11-27T00:35:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      }
+    },
+    {
+      "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+      "pubDate": "2026-11-27T00:25:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
         "lang": "en"
       }
     },
@@ -47,28 +182,6 @@
       }
     },
     {
-      "title": "US Plans for Tariffs Face Pushback",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
-      "pubDate": "2026-11-27T00:15:56.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Thanksgiving Storm Hits East Coast, US Tariffs Pushback, More",
-      "link": "https://www.bloomberg.com/news/audio/2026-11-27/thanksgiving-storm-hits-east-coast-us-tariffs-pushback-more",
-      "pubDate": "2026-11-27T00:04:25.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
-      }
-    },
-    {
       "title": "CBS News: Черноморският фронт може да въвлече САЩ във война",
       "link": "https://www.actualno.com/europe/cbs-news-chernomorskijat-front-moje-da-vyvleche-sasht-vyv-vojna-news_2667663.html",
       "pubDate": "2026-11-27T00:02:00.000Z",
@@ -78,17 +191,6 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "pubDate": "2026-11-26T23:53:35.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Bloomberg",
-        "color": "#7B3FE4",
-        "lang": "en"
       }
     },
     {
@@ -129,7 +231,7 @@
     },
     {
       "title": "Четири пъти опираха нож в гърлото ми - бруталните истории от ужаса в Марсилия",
-      "link": "https://boulevardbulgaria.bg/articles/chetiri-pati-opiraha-nozh-v-garloto-mi-brutalnite-istorii-ot-uzhasa-v-marsiliya",
+      "link": "https://boulevardbulgaria.bg/articles/chetiri-paatti-opiraha-nozh-v-garloto-mi-brutalnite-istorii-ot-uzhasa-v-marsiliya",
       "pubDate": "2026-11-26T23:14:34.000Z",
       "thumbnail": {
         "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyNTk4LCJwdXIiOiJibG9iX2lkIn19--ddb1b0fbc9c1a92c1acc497077f94332a44b2310/%D1%83%D0%BB%D1%82%D1%80%D0%B0%D1%81%D0%B8%20%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%BA%20%D0%9C%D0%B0%D1%80%D1%81%D0%B8%D0%BB%D0%B8%D1%8F%20.png.jpeg"
@@ -137,28 +239,6 @@
       "source": {
         "name": "Boulevard Bulgaria",
         "color": "#FF5722"
-      }
-    },
-    {
-      "title": "Besiktas v Hapoel Beer-Sheva suspended after police enter stands",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmk5SkpEdGwtR2pPNzZFT0tXLUFObl8wQnJfcTVRcXhfOHpVNnI1TFZwR2F1RnJOczB5MjRkNzNWRl9Wd0EtZFc0ZEVFYmZmanJiOFVIdHY4WWdORGVXVUg2YmhUZVdHRlJJblBmWGdXUVYyR0RBYjlvTUwtdXFvRXFXUkNTbnRmbFlidUhOWk0wdUFSSkZQS3ZkeDBwWi1wT2pLVXNRYzlHUkJhRG1sbXVmY3g?oc=5",
-      "pubDate": "2026-11-26T22:57:48.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
-      "pubDate": "2026-11-26T22:57:41.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -171,28 +251,6 @@
       "source": {
         "name": "Actualno",
         "color": "#9C27B0"
-      }
-    },
-    {
-      "title": "Final New Zealand election vote count to confirm parliament make up",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV?oc=5",
-      "pubDate": "2026-11-26T22:34:34.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
-      }
-    },
-    {
-      "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
-      "pubDate": "2026-11-26T22:32:57.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -247,17 +305,6 @@
       "source": {
         "name": "Свободна точка",
         "color": "#FF9800"
-      }
-    },
-    {
-      "title": "Zelenskiy says Russia preparing new mass strike in coming days",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5",
-      "pubDate": "2026-11-26T22:16:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "Reuters",
-        "color": "#4169E1",
-        "lang": "en"
       }
     },
     {
@@ -329,20 +376,8 @@
       }
     },
     {
-      "title": "Запознай се с техните",
-      "link": "https://www.dnevnik.bg/sled5/filmi/2026/11/27/4903186_zapoznai_se_s_tehnite/?ref=rss",
-      "pubDate": "2026-11-26T22:05:00.000Z",
-      "thumbnail": {
-        "link": "https://img.dnevnik.bg/shimg/zx350c_4903180.jpg"
-      },
-      "source": {
-        "name": "Dnevnik",
-        "color": "#2196F3"
-      }
-    },
-    {
-      "title": "At odds over the EU budget, European leaders cut summit short - DW has more",
-      "link": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-top-1022-rdf",
+      "title": "At odds over the EU budget, European leaders cut summit short",
+      "link": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-top-1022-rdf",
       "pubDate": "2026-11-26T21:47:00.000Z",
       "thumbnail": null,
       "source": {
@@ -513,7 +548,7 @@
       }
     },
     {
-      "title": "Създават кризисен щаб за проблема с отоплението в общежитията в „Студентски град“",
+      "title": "Създават кризисен щаб за проблема с парното в „Студентски град“",
       "link": "https://boulevardbulgaria.bg/articles/sazdavat-krizisen-shtab-za-problema-s-otoplenieto-v-obshtezhitiyata-v-studentski-grad",
       "pubDate": "2026-11-26T18:15:45.000Z",
       "thumbnail": {
@@ -549,17 +584,6 @@
       }
     },
     {
-      "title": "Trial of Berlin woman accused of spying for Russia begins after delay",
-      "link": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-top-1022-rdf",
-      "pubDate": "2026-11-26T17:44:00.000Z",
-      "thumbnail": null,
-      "source": {
-        "name": "DW",
-        "color": "#C8102E",
-        "lang": "en"
-      }
-    },
-    {
       "title": "- DW.com",
       "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNaUNfVjI5VzZfMEJpejFpN0l5MGR1WVJwUHBpZWZDMWpyLXhSVXVTQWpLWWRmRFFwd1RqNXBOdmp0ZUlRdkd3eWMtakVIdHp1YmNLZ2pyam0xck9ucTRlbG5qNE9wa2VWZnJxUUZYeG1Qa1ltR0VmaXMteC1FeHMtRTRCa0VoeFJ1S0xzbERyUDk0ekNuSElZV1FQd0VEWHVpcmVhSzlYTVhqMEh6Q3hRMEFWZHc1eG1zUTZpS3RYMFMweFdlN0FjRFdJT2tsWXJDMnVMOTU0QVlUZnoyVkJVMTk5Qkx6RjJLam16V0lhRXdSdGFjV1ZQVnJEYllMY0xEbktqaXRnSWZHNGVKT1RIVzl1TXI0SURrWHBPYjExQTd5XzRpYmp6UGdJZjFUUmR5enJHb1RvRkhGaGJaQ29ZRU5mY1pLUU43VnYtSnh3R3ZyU0FlTTN1dzVCMEpmNjY2MV9RRU5HQVhWcjNDZDc5cDJRMURXWDFYcXFxQWw2SmY3SVBZOWJLQzFRMDh6aDRpNC03SjMxeEdaTTA1ZEt6NktSNXZyVkNOVkhoS2Z6Xy1YaEJTR0laWVRUVXBZNlY5Ulk5OWNXbW45YVZ5U2tHTFhSWG5Ybzk1TWNPMg?oc=5",
       "pubDate": "2026-11-26T17:32:13.000Z",
@@ -571,7 +595,7 @@
     },
     {
       "title": "Грозни сцени в Марсилия. Фенове на “Левски” бяха нападнати на “Велодром”",
-      "link": "https://boulevardbulgaria.bg/articles/grrozni-sttseniiii-v-mmmarsiliya-fenove-na-levski-byaha-napadnati-na-velodrom",
+      "link": "https://boulevardbulgaria.bg/articles/grrorzni-sttseniiii-v-mmmarsiliya-fenove-na-levski-byaha-napadnati-na-velodrom",
       "pubDate": "2026-11-26T17:20:52.000Z",
       "thumbnail": {
         "link": "https://boulevardbulgaria.bg/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyNTczLCJwdXIiOiJibG9iX2lkIn19--f96f06edbbe20f97f4f280e682b64b95f5dde619/IMG_1416.jpeg"
@@ -601,18 +625,6 @@
       "source": {
         "name": "Mediapool",
         "color": "#00BCD4"
-      }
-    },
-    {
-      "title": "Лидерите на ЕС вероятно няма да се разберат да бюджета",
-      "link": "https://clubz.bg/182376",
-      "pubDate": "2026-11-26T17:06:20.000Z",
-      "thumbnail": {
-        "link": "https://clubz.bg148/evropeiski-savet-2611.jpg"
-      },
-      "source": {
-        "name": "Club Z",
-        "color": "#607D8B"
       }
     },
     {
@@ -682,19 +694,7 @@
         "name": "Капитал",
         "color": "#009688"
       }
-    },
-    {
-      "title": "БНБ изненадващо отхлабва буфера за системен риск за пръв път от въвеждането му",
-      "link": "https://www.capital.bg/biznes/finansi/2026/11/26/4984831_bnb_iznenadvashto_othlabva_bufera_za_sistemen_risk_za/?ref=rss",
-      "pubDate": "2026-11-26T15:16:00.000Z",
-      "thumbnail": {
-        "link": "http://www.capital.bg/shimg/zx640_4984827.jpg"
-      },
-      "source": {
-        "name": "Капитал",
-        "color": "#009688"
-      }
     }
   ],
-  "lastUpdated": "2026-11-27T01:00:07.479Z"
+  "lastUpdated": "2026-11-27T04:00:09.140Z"
 }
