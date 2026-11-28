@@ -1,9 +1,217 @@
 {
   "windowStart": "2026-11-27T16:38:10.990Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-27T22:00:07.449Z",
-  "totalItems": 96,
+  "lastUpdated": "2026-11-28T01:00:08.022Z",
+  "totalItems": 113,
   "items": [
+    {
+      "title": "Spain's Sanchez makes final appeal to voters before election",
+      "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-28T00:51:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Taiwan Goes to Polls in Tight Local Elections as China Watches",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/taiwan-goes-to-polls-in-tight-local-elections-as-china-watches",
+      "pubDate": "2026-11-28T00:20:10.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Nvidia Blackwell Tech Used in China, Reuters: USAF Hacked, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-28/nvidia-blackwell-tech-used-in-china-reuters-usaf-hacked-more",
+      "pubDate": "2026-11-28T00:05:54.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "\"Отговорите му разкриваха наивно пристрастие в полза на агресора\": Журналист с остри критики към Джаред Къшнър",
+      "link": "https://www.actualno.com/europe/otgovorite-mu-razkrivaha-naivno-pristrastie-v-polza-na-agresora-jurnalist-s-ostri-kritiki-kym-djared-kyshnyr-news_2668107.html",
+      "pubDate": "2026-11-28T00:00:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/b28b47ec21249cd2d1cf62195431da77_2668107_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Trans Mountain to Ship Fully Loaded Tankers by Summer, CEO Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/trans-mountain-to-ship-fully-loaded-tankers-by-summer-ceo-says",
+      "pubDate": "2026-11-27T23:51:19.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Son of Hamas chief survives Israeli strike, Hamas says",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+      "pubDate": "2026-11-27T23:26:36.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Explainer: A million satellites? What SpaceX's Starmind could mean for Earth and space",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlFOVkZidW11cWF5bnp4dktKSGE0MG43eWZhOGxuckt4QnlxcHNNTHlSTlFnR2lFWDVRNzlvcEdyZk5DdlM0Y3BDdzJGQVlkQXFCN0VmMVRTeXNHT3F6bU0zb3hwbkZoT1ExV2VfZnNQR2lBRER1bDVWZ010OFFqZTNWRElaRG43dlNfQVN3RGNqS1JFcWlSY0dLbU5LOGRWZ01SdHoxTF8xNEFORk1vLXRUYkVlMTBRekFLTQ?oc=5",
+      "pubDate": "2026-11-27T23:23:59.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Зеленски пред Мелони: Украйна не е съгласувала с европейските партньори ударите по руски кораби в Либия",
+      "link": "https://www.actualno.com/europe/zelenski-pred-meloni-ukrajna-ne-e-syglasuvala-s-evropejskite-partniori-udarite-po-ruski-korabi-v-libija-news_2668106.html",
+      "pubDate": "2026-11-27T23:21:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/91b251c666785973232bf7e6a06c5a5c_2668106_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "US disables ship in Gulf of Oman under Iran blockade",
+      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-27T23:17:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Nvidia Chip Used in China, Reuters: US Air Force Hacked, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-reuters-us-air-force-hacked-more",
+      "pubDate": "2026-11-27T23:10:53.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Обобщение на известното и реакциите след нападението срещу фенове на \"Левски\" в Марсилия",
+      "link": "https://www.dnevnik.bg/bulgaria/2026/11/28/4985615_obobshtenie_na_izvestnoto_i_reakciite_sled_napadenieto/?ref=rss",
+      "pubDate": "2026-11-27T23:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4985597.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+      "pubDate": "2026-11-27T22:55:47.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Vujcic and Kocher Hint at More ECB Rate Hiking, Kurier Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/vujcic-and-kocher-hint-at-more-ecb-rate-hiking-kurier-reports",
+      "pubDate": "2026-11-27T22:49:15.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "С тригодишно закъснение: САЩ приеха на въоръжение хиперзвуковите ракети Dark Eagle",
+      "link": "https://www.actualno.com/america/s-trigodishno-zakysnenie-sasht-prieha-na-vyoryjenie-hiperzvukovite-raketi-dark-eagle-news_2668103.html",
+      "pubDate": "2026-11-27T22:47:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/43342b47d59d4a4daffc0138e84cf36c_2668103_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
+      "pubDate": "2026-11-27T22:43:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "Австрия арестува отново двама украинци, подозирани в шпионаж",
+      "link": "https://www.actualno.com/europe/avstrija-arestuva-otnovo-dvama-ukrainci-podozirani-v-shpionaj-news_2668102.html",
+      "pubDate": "2026-11-27T22:20:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/b6be28c6ae90bcd0497ecaf9fc2a409e_2668102_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
+    {
+      "title": "- DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPY0xXc1NSNUR6eVBiVExwejdxTWRaWWt6aHhTMVBrSnR0SV93bjZFcndmY25pQXJGVUlPRWZXZVNFdTRfSlVHU1d1RkdsdS1zQXRHR0llSzVPLW4tZjIweEhwUUNkbVFDMk45RWxySzU2RkpFLUwzVTdYVXgwYW9HWXhFWGxCdXdGOGRPUlZMYXFvRGVrb3FxTlBRMVFpQVdyWkFLVGFIWk9IX1lYTXg0d3pVUFM5VkpaNXU3M0NGc2RmaTFXT19FUGxuWU1jWTlCSXBxd0dtVTlhSi1tWWRxV01WZy1KWVBNZVVMTEtKZkVsUWE3RU1oZlphcjRlQUFVeUtDbHBWSkhtV3ZsdUEtWldpeThTcEh4eWJfYTU5VkhZQjZHa1lWZG1QaGlBdGhBZm9VQVo3VjNENGdiR2pyUU5pSjVBc2kzTmFmNXlIN2hGTGJQbEtaeFR1Nk1LMXFtbWNySTk1M3lzRnkzMXFER2Z2T2NKdS1uNUFUYlB1alRudU14cTNUVzNjTnhOalY2WXloc3RVdzZ1X1Z5ZG5oeTRBV0Z2S3ZzNFRFbDN1NFRIelAwdVU1S0pweUpHWk9mWkZrMzNkc3h0Z1BFeHlka25sSk9vY3JQb1d5V0EySklFSzc2SVVkb0ZaVkRKeWVQeU5oal82WVRIN3dHTjQyTEN4SS1GNzRfY0dRcjUyOVl4N3VkMVE?oc=5",
+      "pubDate": "2026-11-27T21:26:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW България",
+        "color": "#05B2FF"
+      },
+      "firstSeen": "2026-11-28T01:00:08.022Z"
+    },
     {
       "title": "Nvidia Chip Used in China, OpenAI Countersues Apple, More",
       "link": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-openai-countersues-apple-more",
