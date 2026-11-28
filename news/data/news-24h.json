@@ -1,9 +1,404 @@
 {
   "windowStart": "2026-11-27T16:38:10.990Z",
   "windowHours": 24,
-  "lastUpdated": "2026-11-28T04:00:07.997Z",
-  "totalItems": 126,
+  "lastUpdated": "2026-11-28T07:00:07.172Z",
+  "totalItems": 158,
   "items": [
+    {
+      "title": "Домашно кино | Нова адаптация на \"Гордост и предразсъдъци\", филм от режисьорката на CODA",
+      "link": "https://www.capital.bg/moiat_capital/svobodno_vreme/2026/11/28/4984106_domashno_kino_nova_adaptaciia_na_gordost_i/?ref=rss",
+      "pubDate": "2026-11-28T07:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4984107.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Червен код за значителни валежи в 7 области в страната, в останалите е оранжев",
+      "link": "https://www.mediapool.bg/bulgaria/cherven-kod-za-znachitelni-valezhi-v-7-oblasti-v-stranata-v-ostanalite-e-oranzhev/",
+      "pubDate": "2026-11-28T06:56:42.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "И двете тръби на тунел \"Топли дол\" ще се използват от днес",
+      "link": "https://www.dnevnik.bg/burzi-novini/2026/11/28/4985624_i_dvete_trubi_na_tunel_topli_dol_shte_se_izpolzvat_ot/?ref=rss",
+      "pubDate": "2026-11-28T06:54:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4985623.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Русия воюва все повече с Европа, в Европа изгряват вътрешни врагове (ОБЗОР - ВИДЕО)",
+      "link": "https://www.actualno.com/europe/rusija-vouva-vse-poveche-s-evropa-v-evropa-izgrjavat-vytreshni-vragove-obzor-video-news_2668075.html",
+      "pubDate": "2026-11-28T06:49:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/7e1ebbb4b1c9e76e052bc21993191f23_2668075_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+      "pubDate": "2026-11-28T06:39:08.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Как бързо и лесно да получим достъп до обществена информация (видео)",
+      "link": "https://offnews.bg/obshtestvo/kak-barzo-i-lesno-da-poluchim-dostap-do-obshtestvena-informatcia-vide-879429.html",
+      "pubDate": "2026-11-28T06:35:16.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/28/879429/phpzepi4j_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Клубният адвокат на Левски е поискал от УЕФА служебна загуба за Олимпик Марсилия",
+      "link": "https://www.actualno.com/football/klubnijat-advokat-na-levski-e-poiskal-ot-uefa-slujebna-zaguba-za-olimpik-marsilija-news_2668116.html",
+      "pubDate": "2026-11-28T06:30:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/1f3c7dd85019f94f4642370bb9fe4899_2668116_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Секънд хенд чупи стигмата и продажбите (видео)",
+      "link": "https://www.mediapool.bg/biznes/sekand-hend-chupi-stigmata-i-prodazhbite-video/",
+      "pubDate": "2026-11-28T06:29:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "United Fidelity Is Shut in Biggest US Bank Collapse in Two Years",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years",
+      "pubDate": "2026-11-28T06:24:35.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Скъпият мит INSAIT: милиони от бюджета без отчетност и нулев ефект за бизнеса у нас",
+      "link": "https://www.mediapool.bg/intervyuta/skapiyat-mit-insait-milioni-ot-byudzheta-bez-otchetnost-i-nulev-efekt-za-biznesa-u-nas/",
+      "pubDate": "2026-11-28T06:23:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Около 1.9 млн. българи са без аптека, но решенията се бавят",
+      "link": "https://www.mediapool.bg/biznes/okolo-19-mln-balgari-sa-bez-apteka-no-resheniyata-se-bavyat/",
+      "pubDate": "2026-11-28T06:21:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Саудитска Арабия твърди, че е свалена крилата ракета, летяща към столицата Рияд",
+      "link": "https://www.actualno.com/asia/sauditska-arabija-tvyrdi-che-e-svalena-krilata-raketa-letjashta-kym-stolicata-rijad-news_2668113.html",
+      "pubDate": "2026-11-28T06:14:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/1ca023c9ec8acf1a15273467684f06a9_2668113_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+      "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-top-1022-rdf",
+      "pubDate": "2026-11-28T06:12:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "DW",
+        "color": "#C8102E",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Вулин вместо Вучич: Как Москва се опитва да запази влиянието си на Балканите след смяната на властта в Сърбия",
+      "link": "https://www.mediapool.bg/analizi-i-komentari/vulin-vmesto-vuchich-kak-moskva-se-opitva-da-zapazi-vliyanieto-si-na-balkanite-sled-smyanata-na-vlastta-v-sarbiya/",
+      "pubDate": "2026-11-28T06:11:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Mediapool",
+        "color": "#00BCD4"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "За първи път на български: Лед - разказ от Здравка Евтимова",
+      "link": "https://offnews.bg/nashite-avtori/za-parvi-pat-na-balgarski-led-razkaz-ot-zdravka-evtimova-879426.html",
+      "pubDate": "2026-11-28T06:04:18.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/28/879426/phpr1qtr0_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Дрон спря работата на голямо европейско летище",
+      "link": "https://www.actualno.com/europe/dron-sprja-rabotata-na-goljamo-evropejsko-letishte-news_2668109.html",
+      "pubDate": "2026-11-28T06:02:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/28/1c8bde691c1b8701d455e4ba45abddbe_2668109_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Колко още ще чака мостът на Колю Фичето - един от символите на Дряново",
+      "link": "https://offnews.bg/obshtestvo/kolko-oshte-shte-chaka-mostat-na-koliu-ficheto-edin-ot-simvolite-na-879428.html",
+      "pubDate": "2026-11-28T06:01:29.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/28/879428/phpueuaax_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Калофер превърна 2026 година в година на Ботевата памет и духовност",
+      "link": "https://offnews.bg/obshtestvo/kalofer-prevarna-2026-godina-v-godina-na-botevata-pamet-i-duhovnost-879424.html",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/27/879424/phpcwzwnm_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Turquoise: вкусът на една 17-годишна история",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/28/4961786_turquoise_vkusut_na_edna_17-godishna_istoriia/?ref=rss",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4961787.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Как да изберете тиган: шеф Николай Пенев",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/26/4983636_kak_da_izberete_tigan_shef_nikolai_penev/?ref=rss",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4983633.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Вкусът на успеха: Наръчник за оптимизации в ресторантьорската кухня",
+      "link": "https://www.dnevnik.bg/bacchus/2026/11/28/4984748_vkusut_na_uspeha_naruchnik_za_optimizacii_v/?ref=rss",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4984747.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Нюзлетър | 53% германци не одобряват помощите за Украйна, 53% българи не одобряват Радев",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/11/28/4985316_njuzletur_53_germanci_ne_odobriavat_pomoshtite_za/?ref=rss",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": {
+        "link": "http://www.capital.bg/shimg/zx640_4985347.jpg"
+      },
+      "source": {
+        "name": "Капитал",
+        "color": "#009688"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Burnham’s Europe Plan Still Taking Shape as Brexit Rivals Circle",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-28/burnham-s-europe-plan-still-taking-shape-as-brexit-rivals-circle",
+      "pubDate": "2026-11-28T06:00:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "\"Евровизия е изцяло политическо събитие\": Какви уроци дава швейцарският Базел на Бургас? (СНИМКИ)",
+      "link": "https://www.actualno.com/music/evrovizija-e-izcjalo-politichesko-sybitie-kakvi-uroci-dava-shvejcarskijat-bazel-na-burgas-snimki-news_2667495.html",
+      "pubDate": "2026-11-28T05:55:00.000Z",
+      "thumbnail": {
+        "link": "https://static.actualno.com/actualno_2013/upload/news/2026/11/26/a0690436759412252780dc5293df9170_2667495_1920x1080.jpg"
+      },
+      "source": {
+        "name": "Actualno",
+        "color": "#9C27B0"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Дъждовна събота, червен код за значителни валежи в 6 области на страната",
+      "link": "https://offnews.bg/obshtestvo/dazhdovna-sabota-cherven-kod-za-znachitelni-valezhi-v-6-oblasti-na-st-879427.html",
+      "pubDate": "2026-11-28T05:52:02.000Z",
+      "thumbnail": {
+        "link": "https://i2.offnews.bg/events/2026/11/28/879427/phprkw84k_559x345.jpg"
+      },
+      "source": {
+        "name": "OffNews",
+        "color": "#E91E63"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Екатерина Баксанова пред \"Дневник\": Новият съдебен съвет ще бъде оценен по това как гласува",
+      "link": "https://www.dnevnik.bg/biznes/dnevnik100/interviewta/2026/11/28/4984216_ekaterina_baksanova_pred_dnevnik_noviiat_sudeben_suvet/?ref=rss",
+      "pubDate": "2026-11-28T05:37:00.000Z",
+      "thumbnail": {
+        "link": "https://img.dnevnik.bg/shimg/zx350c_4984520.jpg"
+      },
+      "source": {
+        "name": "Dnevnik",
+        "color": "#2196F3"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "India's bottled-water crackdown widens as new Bisleri sample found with bacteria",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5",
+      "pubDate": "2026-11-28T05:09:00.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Reuters",
+        "color": "#4169E1",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Nvidia Tech Used in China, American Jets Clip Wings, More",
+      "link": "https://www.bloomberg.com/news/audio/2026-11-28/nvidia-tech-used-in-china-american-jets-clip-wings-more",
+      "pubDate": "2026-11-28T04:36:12.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "What Happened to JFK-Era Intel Records?",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-28/disclosure-the-missing-jfk-era-defense-intel-records-video",
+      "pubDate": "2026-11-28T04:24:26.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Bloomberg",
+        "color": "#7B3FE4",
+        "lang": "en"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "даниел-славков-дънката Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4SVkxQ3hOallDMlVoSFFTSk5kUDVTMGgwOU56alJkWHFkVjh5RXV6WEhJUW9SSkpjbWFwekVKSnVNUkhIWUhiN3o3eVNpNlcwNGlFNGlXZm82S3pRMXVxN2tTOA?oc=5",
+      "pubDate": "2026-11-28T02:42:41.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "олимпик Архиви",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oWVllVnQ3Tll1RmU1WHRVTWZ6eWxjRG02TmsxQXFGLTVjZklDQkM2YjJlRXBVSEpWOG5Nb2prdjE4RTQ2d3BTVWpiTEZsTkE?oc=5",
+      "pubDate": "2026-11-28T02:21:22.000Z",
+      "thumbnail": null,
+      "source": {
+        "name": "Свободна точка",
+        "color": "#FF9800"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
+    {
+      "title": "Руските саботажи в Европа са се увеличили с 16% за година, сочи доклад",
+      "link": "https://clubz.bg/182413",
+      "pubDate": "2026-11-27T14:30:06.000Z",
+      "thumbnail": {
+        "link": "https://clubz.bg148/20f557bebd09491c89e6096fad5b6470-0-815d609a6d274c299f8095b21a036f95~6.jpg"
+      },
+      "source": {
+        "name": "Club Z",
+        "color": "#607D8B"
+      },
+      "firstSeen": "2026-11-28T07:00:07.172Z"
+    },
     {
       "title": "American Airlines Jets Clip Wings, Nvidia Chip Used in China",
       "link": "https://www.bloomberg.com/news/audio/2026-11-28/american-airlines-jets-clip-wings-nvidia-chip-used-in-china",
